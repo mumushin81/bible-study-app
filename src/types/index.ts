@@ -6,6 +6,9 @@ export interface Word {
   root: string;
   grammar: string;
   structure?: string;
+  emoji?: string;  // 시각적 연상 이모지
+  relatedWords?: string[];  // 같은 어근 단어들
+  category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle';  // 품사
 }
 
 export interface CommentarySection {
