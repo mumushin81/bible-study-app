@@ -4,8 +4,8 @@ import { motion } from 'framer-motion';
 
 interface SwipeableContentProps {
   children: React.ReactNode;
-  onSwipeLeft: () => void;
-  onSwipeRight: () => void;
+  onSwipeLeft?: () => void;
+  onSwipeRight?: () => void;
   canSwipeLeft: boolean;
   canSwipeRight: boolean;
 }
@@ -26,13 +26,13 @@ export default function SwipeableContent({
       }
     },
     onSwipedLeft: () => {
-      if (canSwipeLeft) {
+      if (canSwipeLeft && onSwipeLeft) {
         onSwipeLeft();
       }
       setSwipeDirection(null);
     },
     onSwipedRight: () => {
-      if (canSwipeRight) {
+      if (canSwipeRight && onSwipeRight) {
         onSwipeRight();
       }
       setSwipeDirection(null);

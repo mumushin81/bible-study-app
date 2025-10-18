@@ -1,4 +1,3 @@
-import React from 'react';
 import { BookOpen, Book, Target, FileText, TrendingUp } from 'lucide-react';
 
 interface BottomNavigationProps {

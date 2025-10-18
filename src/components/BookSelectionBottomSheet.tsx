@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { X, ChevronLeft } from 'lucide-react';
-import { bibleBooks, getBooksByCategory, BookInfo } from '../data/bibleBooks';
+import { getBooksByCategory, BookInfo } from '../data/bibleBooks';
 
 interface BookSelectionBottomSheetProps {
   isOpen: boolean;

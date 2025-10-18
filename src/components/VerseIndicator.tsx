@@ -1,5 +1,3 @@
-import React from 'react';
-
 interface VerseIndicatorProps {
   currentIndex: number;
   total: number;

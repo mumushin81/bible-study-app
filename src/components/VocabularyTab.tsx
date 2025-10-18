@@ -1,6 +1,6 @@
 import { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, TrendingUp, Star, Volume2 } from 'lucide-react';
+import { Search, TrendingUp, Volume2 } from 'lucide-react';
 import { verses } from '../data/verses';
 import { Word } from '../types';
 import FlashCard from './shared/FlashCard';
