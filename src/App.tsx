@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Volume2, Search, Settings, ChevronLeft, ChevronRight, ArrowUp } from 'lucide-react';
+import { Volume2, Search, Settings, ChevronLeft, ChevronRight, ArrowUp, LogIn } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { verses } from './data/verses';
 import { getBookById } from './data/bibleBooks';
@@ -9,8 +9,17 @@ import SwipeableContent from './components/SwipeableContent';
 import VerseIndicator from './components/VerseIndicator';
 import StudyTab from './components/StudyTab';
 import VocabularyTab from './components/VocabularyTab';
+import GrowthTab from './components/GrowthTab';
+import LoginModal from './components/auth/LoginModal';
+import SignUpModal from './components/auth/SignUpModal';
+import UserProfile from './components/UserProfile';
+import { useAuth } from './hooks/useAuth';
+import { useUserProgress } from './hooks/useUserProgress';
 
 export default function App() {
+  // Auth
+  const { user } = useAuth();
+
   // State
   const [darkMode, setDarkMode] = useState(false);
   const [currentBookId, setCurrentBookId] = useState('genesis');
@@ -22,6 +31,8 @@ export default function App() {
   const [isPlaying, setIsPlaying] = useState(false);
   const [showHebrewHint, setShowHebrewHint] = useState(true);
   const [showScrollTop, setShowScrollTop] = useState(false);
+  const [showLoginModal, setShowLoginModal] = useState(false);
+  const [showSignUpModal, setShowSignUpModal] = useState(false);
 
   // 현재 책과 장의 구절들 필터링
   const chapterVerses = verses.filter(v => {
@@ -34,6 +45,9 @@ export default function App() {
 
   const verseData = chapterVerses[currentVerseIndex] || verses[0];
   const currentBook = getBookById(currentBookId);
+
+  // User progress for current verse
+  const { progress, markAsCompleted } = useUserProgress(verseData.id);
 
   // 히브리어 힌트 표시 여부 체크 (localStorage)
   React.useEffect(() => {
@@ -206,6 +220,29 @@ export default function App() {
             >
               <Settings className={`w-5 h-5 ${darkMode ? 'text-white' : 'text-gray-700'}`} />
             </button>
+
+            {/* Login or User Profile */}
+            {user ? (
+              <UserProfile darkMode={darkMode} />
+            ) : (
+              <motion.button
+                onClick={() => setShowLoginModal(true)}
+                whileHover={{ scale: 1.05 }}
+                whileTap={{ scale: 0.95 }}
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl font-semibold text-sm transition-all backdrop-blur-md border ${
+                  darkMode
+                    ? 'bg-cyan-500/20 hover:bg-cyan-500/30 border-cyan-400/30 text-cyan-50'
+                    : 'bg-white/80 hover:bg-white/95 border-purple-200 text-purple-600'
+                }`}
+                style={{
+                  backdropFilter: 'blur(12px)',
+                  WebkitBackdropFilter: 'blur(12px)',
+                }}
+              >
+                <LogIn className="w-4 h-4" />
+                <span className="hidden sm:inline">로그인</span>
+              </motion.button>
+            )}
           </div>
         </div>
       </div>
@@ -399,8 +436,10 @@ export default function App() {
               <StudyTab
                 verse={verseData}
                 darkMode={darkMode}
-                onMarkStudied={() => {}}
-                studied={false}
+                onMarkStudied={markAsCompleted}
+                studied={progress?.completed || false}
+                reviewCount={progress?.review_count || 0}
+                isAuthenticated={!!user}
               />
             </>
           )}
@@ -430,13 +469,7 @@ export default function App() {
           )}
 
           {activeTab === 'growth' && (
-            <div className={`rounded-3xl shadow-xl p-6 text-center ${
-              darkMode ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20' : 'bg-white/90 border border-amber-200'
-            }`}>
-              <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
-                📊 성장 기능은 준비 중입니다
-              </p>
-            </div>
+            <GrowthTab darkMode={darkMode} />
           )}
 
           {activeTab === 'notes' && (
@@ -486,6 +519,27 @@ export default function App() {
         darkMode={darkMode}
         currentBookId={currentBookId}
         currentChapter={currentChapter}
+      />
+
+      {/* Auth Modals */}
+      <LoginModal
+        isOpen={showLoginModal}
+        onClose={() => setShowLoginModal(false)}
+        onSwitchToSignUp={() => {
+          setShowLoginModal(false);
+          setShowSignUpModal(true);
+        }}
+        darkMode={darkMode}
+      />
+
+      <SignUpModal
+        isOpen={showSignUpModal}
+        onClose={() => setShowSignUpModal(false)}
+        onSwitchToLogin={() => {
+          setShowSignUpModal(false);
+          setShowLoginModal(true);
+        }}
+        darkMode={darkMode}
       />
     </div>
   );

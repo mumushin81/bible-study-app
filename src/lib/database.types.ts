@@ -14,6 +14,147 @@ export type Database = {
   }
   public: {
     Tables: {
+      books: {
+        Row: {
+          category: string
+          category_emoji: string | null
+          created_at: string | null
+          english_name: string
+          id: string
+          name: string
+          testament: string | null
+          total_chapters: number
+        }
+        Insert: {
+          category: string
+          category_emoji?: string | null
+          created_at?: string | null
+          english_name: string
+          id: string
+          name: string
+          testament?: string | null
+          total_chapters: number
+        }
+        Update: {
+          category?: string
+          category_emoji?: string | null
+          created_at?: string | null
+          english_name?: string
+          id?: string
+          name?: string
+          testament?: string | null
+          total_chapters?: number
+        }
+        Relationships: []
+      }
+      commentaries: {
+        Row: {
+          created_at: string | null
+          id: string
+          intro: string
+          updated_at: string | null
+          verse_id: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string
+          intro: string
+          updated_at?: string | null
+          verse_id?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          id?: string
+          intro?: string
+          updated_at?: string | null
+          verse_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "commentaries_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: true
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      commentary_conclusions: {
+        Row: {
+          commentary_id: string | null
+          content: string
+          created_at: string | null
+          id: string
+          title: string
+        }
+        Insert: {
+          commentary_id?: string | null
+          content: string
+          created_at?: string | null
+          id?: string
+          title: string
+        }
+        Update: {
+          commentary_id?: string | null
+          content?: string
+          created_at?: string | null
+          id?: string
+          title?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "commentary_conclusions_commentary_id_fkey"
+            columns: ["commentary_id"]
+            isOneToOne: true
+            referencedRelation: "commentaries"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      commentary_sections: {
+        Row: {
+          color: string | null
+          commentary_id: string | null
+          created_at: string | null
+          description: string
+          emoji: string
+          id: string
+          points: Json
+          position: number
+          title: string
+        }
+        Insert: {
+          color?: string | null
+          commentary_id?: string | null
+          created_at?: string | null
+          description: string
+          emoji: string
+          id?: string
+          points: Json
+          position: number
+          title: string
+        }
+        Update: {
+          color?: string | null
+          commentary_id?: string | null
+          created_at?: string | null
+          description?: string
+          emoji?: string
+          id?: string
+          points?: Json
+          position?: number
+          title?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "commentary_sections_commentary_id_fkey"
+            columns: ["commentary_id"]
+            isOneToOne: false
+            referencedRelation: "commentaries"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
       quiz_results: {
         Row: {
           answered_at: string | null
@@ -169,6 +310,182 @@ export type Database = {
           verse_id?: string
         }
         Relationships: []
+      }
+      verses: {
+        Row: {
+          book_id: string | null
+          chapter: number
+          created_at: string | null
+          hebrew: string
+          id: string
+          ipa: string
+          korean_pronunciation: string
+          literal: string | null
+          modern: string
+          reference: string
+          translation: string | null
+          updated_at: string | null
+          verse_number: number
+        }
+        Insert: {
+          book_id?: string | null
+          chapter: number
+          created_at?: string | null
+          hebrew: string
+          id: string
+          ipa: string
+          korean_pronunciation: string
+          literal?: string | null
+          modern: string
+          reference: string
+          translation?: string | null
+          updated_at?: string | null
+          verse_number: number
+        }
+        Update: {
+          book_id?: string | null
+          chapter?: number
+          created_at?: string | null
+          hebrew?: string
+          id?: string
+          ipa?: string
+          korean_pronunciation?: string
+          literal?: string | null
+          modern?: string
+          reference?: string
+          translation?: string | null
+          updated_at?: string | null
+          verse_number?: number
+        }
+        Relationships: [
+          {
+            foreignKeyName: "verses_book_id_fkey"
+            columns: ["book_id"]
+            isOneToOne: false
+            referencedRelation: "books"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      why_questions: {
+        Row: {
+          answer: string
+          bible_references: Json
+          commentary_id: string | null
+          created_at: string | null
+          id: string
+          question: string
+        }
+        Insert: {
+          answer: string
+          bible_references: Json
+          commentary_id?: string | null
+          created_at?: string | null
+          id?: string
+          question: string
+        }
+        Update: {
+          answer?: string
+          bible_references?: Json
+          commentary_id?: string | null
+          created_at?: string | null
+          id?: string
+          question?: string
+        }
+        Relationships: [
+          {
+            foreignKeyName: "why_questions_commentary_id_fkey"
+            columns: ["commentary_id"]
+            isOneToOne: true
+            referencedRelation: "commentaries"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      word_relations: {
+        Row: {
+          created_at: string | null
+          id: string
+          related_word: string
+          word_id: string | null
+        }
+        Insert: {
+          created_at?: string | null
+          id?: string
+          related_word: string
+          word_id?: string | null
+        }
+        Update: {
+          created_at?: string | null
+          id?: string
+          related_word?: string
+          word_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "word_relations_word_id_fkey"
+            columns: ["word_id"]
+            isOneToOne: false
+            referencedRelation: "words"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      words: {
+        Row: {
+          category: string | null
+          created_at: string | null
+          emoji: string | null
+          grammar: string
+          hebrew: string
+          id: string
+          ipa: string
+          korean: string
+          meaning: string
+          position: number
+          root: string
+          structure: string | null
+          verse_id: string | null
+        }
+        Insert: {
+          category?: string | null
+          created_at?: string | null
+          emoji?: string | null
+          grammar: string
+          hebrew: string
+          id?: string
+          ipa: string
+          korean: string
+          meaning: string
+          position: number
+          root: string
+          structure?: string | null
+          verse_id?: string | null
+        }
+        Update: {
+          category?: string | null
+          created_at?: string | null
+          emoji?: string | null
+          grammar?: string
+          hebrew?: string
+          id?: string
+          ipa?: string
+          korean?: string
+          meaning?: string
+          position?: number
+          root?: string
+          structure?: string | null
+          verse_id?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "words_verse_id_fkey"
+            columns: ["verse_id"]
+            isOneToOne: false
+            referencedRelation: "verses"
+            referencedColumns: ["id"]
+          },
+        ]
       }
     }
     Views: {

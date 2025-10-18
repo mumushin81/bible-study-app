@@ -31,10 +31,10 @@ export function useUserStats() {
 
       if (error) {
         console.error('Error fetching user stats:', error)
-      } else {
-        setStats(data)
+      } else if (data) {
+        setStats(data as unknown as UserStats)
       }
-      
+
       setLoading(false)
     }
 
