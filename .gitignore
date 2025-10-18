@@ -36,6 +36,8 @@ build
 # Testing
 coverage
 *.test.ts.snap
+test-results/
+playwright-report/
 
 # OS files
 Thumbs.db

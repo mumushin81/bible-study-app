@@ -4,8 +4,9 @@
 1. [코드 수정 원칙](#코드-수정-원칙)
 2. [요구사항 분석](#요구사항-분석)
 3. [UI/UX 개발 가이드](#uiux-개발-가이드)
-4. [반복 발생한 문제와 해결책](#반복-발생한-문제와-해결책)
-5. [체크리스트](#체크리스트)
+4. [테스트 가이드](#테스트-가이드)
+5. [반복 발생한 문제와 해결책](#반복-발생한-문제와-해결책)
+6. [체크리스트](#체크리스트)
 
 ---
 
@@ -158,6 +159,255 @@ const fontSizes = {
 
 ---
 
+## 🧪 테스트 가이드
+
+### 1. 테스트 필수 원칙
+**핵심 규칙**: 모든 개발 작업 후 반드시 Playwright MCP를 이용하여 철저히 테스트한다.
+
+**테스트 시점**:
+- ✅ 새로운 기능 개발 완료 후
+- ✅ 기존 기능 수정 후
+- ✅ 버그 수정 후
+- ✅ UI/UX 변경 후
+- ✅ 배포 전 필수
+
+### 2. Playwright MCP 활용
+
+**설정 확인**:
+```json
+// .claude.json
+{
+  "mcpServers": {
+    "playwright": {
+      "command": "npx",
+      "args": ["@playwright/mcp@latest"]
+    }
+  }
+}
+```
+
+**MCP 서버 연결 확인**:
+- Claude Code 재시작 시 MCP 서버가 자동으로 로드됨
+- 도구 목록에서 `mcp__playwright_*` 도구 확인
+- 연결되지 않은 경우 Claude Code 재시작
+
+**일반 Playwright 사용 (MCP 미연결 시)**:
+```bash
+# Playwright 설치
+npm install -D @playwright/test
+npx playwright install chromium
+
+# 테스트 실행
+npx playwright test
+
+# 헤드리스 모드 해제 (브라우저 보기)
+npx playwright test --headed
+
+# 특정 테스트만 실행
+npx playwright test tests/app.spec.ts
+```
+
+### 3. 테스트 범위
+
+**필수 테스트 항목**:
+
+#### 3.1 기본 기능 테스트
+```typescript
+// 1. 페이지 로드
+- 페이지가 정상적으로 로드되는가?
+- 타이틀이 올바른가?
+- 주요 컴포넌트가 렌더링되는가?
+
+// 2. 콘텐츠 표시
+- 히브리어 텍스트가 정상 표시되는가?
+- 한국어 번역이 정상 표시되는가?
+- 발음 표기(IPA)가 정상 표시되는가?
+```
+
+#### 3.2 인터랙션 테스트
+```typescript
+// 3. 탭 전환
+- 모든 탭(본문, 단어장, 퀴즈, 노트, 성장)이 작동하는가?
+- 탭 간 전환이 부드러운가?
+- 각 탭의 콘텐츠가 정상 표시되는가?
+
+// 4. 네비게이션
+- 이전/다음 구절 이동이 작동하는가?
+- 책/장 선택이 정상 작동하는가?
+- 스와이프 제스처가 작동하는가?
+
+// 5. 설정 및 기능
+- 다크모드 전환이 작동하는가?
+- 음성 재생이 작동하는가?
+- 검색 기능이 작동하는가?
+```
+
+#### 3.3 반응형 테스트
+```typescript
+// 6. 다양한 화면 크기
+- 데스크톱 (1920x1080)
+- 태블릿 (768x1024)
+- 모바일 (375x667 - iPhone SE)
+- 모바일 (390x844 - iPhone 12 Pro)
+
+// 7. 레이아웃
+- 텍스트 오버플로우가 없는가?
+- 모든 요소가 화면 내에 표시되는가?
+- 스크롤이 필요한 부분에서만 스크롤이 있는가?
+```
+
+#### 3.4 성능 테스트
+```typescript
+// 8. 로딩 성능
+- 페이지 로드 시간이 3초 이내인가?
+- DOM Content Loaded 시간이 적절한가?
+- 이미지/폰트 로딩이 최적화되어 있는가?
+
+// 9. 애니메이션
+- Framer Motion 애니메이션이 부드러운가?
+- 탭 전환 애니메이션이 자연스러운가?
+- 성능 저하가 없는가?
+```
+
+### 4. 테스트 작성 가이드
+
+**테스트 파일 구조**:
+```typescript
+// tests/feature-name.spec.ts
+import { test, expect } from '@playwright/test';
+
+const BASE_URL = 'https://bible-study-app-gold.vercel.app/';
+
+test.describe('기능명 테스트', () => {
+  test.beforeEach(async ({ page }) => {
+    await page.goto(BASE_URL);
+  });
+
+  test('1. 구체적인 테스트 시나리오', async ({ page }) => {
+    // Given: 초기 상태 설정
+
+    // When: 액션 수행
+
+    // Then: 결과 검증
+    await expect(element).toBeVisible();
+  });
+});
+```
+
+**좋은 테스트 사례**:
+```typescript
+// ✅ 명확한 테스트 이름
+test('탭을 클릭하면 해당 콘텐츠가 표시된다', async ({ page }) => {
+  const vocabularyTab = page.getByRole('button', { name: /단어장/i });
+  await vocabularyTab.click();
+
+  const vocabularyContent = page.locator('[data-testid="vocabulary-content"]');
+  await expect(vocabularyContent).toBeVisible();
+});
+
+// ✅ 스크린샷으로 시각적 검증
+test('모바일 뷰가 올바르게 렌더링된다', async ({ page }) => {
+  await page.setViewportSize({ width: 375, height: 667 });
+  await page.screenshot({
+    path: 'tests/screenshots/mobile-view.png',
+    fullPage: true
+  });
+});
+
+// ✅ 다크모드 양쪽 테스트
+test('다크모드 전환이 정상 작동한다', async ({ page }) => {
+  const toggle = page.getByRole('button', { name: /다크모드/i });
+
+  // 라이트모드 스크린샷
+  await page.screenshot({ path: 'tests/screenshots/light-mode.png' });
+
+  // 다크모드로 전환
+  await toggle.click();
+  await page.waitForTimeout(300);
+
+  // 다크모드 스크린샷
+  await page.screenshot({ path: 'tests/screenshots/dark-mode.png' });
+});
+```
+
+### 5. 테스트 자동화
+
+**GitHub Actions 연동** (향후 구현):
+```yaml
+# .github/workflows/test.yml
+name: E2E Tests
+on: [push, pull_request]
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+      - run: npm install
+      - run: npx playwright install chromium
+      - run: npx playwright test
+```
+
+**Vercel 배포 후 자동 테스트**:
+- Vercel 배포 완료 webhook 수신
+- Playwright 테스트 자동 실행
+- 실패 시 알림
+
+### 6. 테스트 체크리스트
+
+**개발 완료 후**:
+- [ ] Playwright MCP 도구 연결 확인
+- [ ] 로컬 환경에서 테스트 실행
+- [ ] 모든 테스트 통과 확인
+- [ ] 실패한 테스트 분석 및 수정
+- [ ] 스크린샷으로 시각적 확인
+
+**배포 전**:
+- [ ] 프로덕션 URL에서 테스트 실행
+- [ ] 데스크톱/모바일 양쪽 테스트
+- [ ] 다크모드/라이트모드 양쪽 테스트
+- [ ] 주요 사용자 시나리오 테스트
+- [ ] 성능 메트릭 확인
+
+**배포 후**:
+- [ ] 실제 배포된 URL 테스트
+- [ ] 모든 기능 정상 작동 확인
+- [ ] 이슈 발견 시 즉시 수정
+
+### 7. 테스트 실패 대응
+
+**실패 원인 분석**:
+```bash
+# 1. 스크린샷 확인
+ls test-results/*/*.png
+
+# 2. 에러 로그 확인
+npx playwright test --reporter=list
+
+# 3. 디버그 모드 실행
+npx playwright test --debug
+```
+
+**일반적인 실패 원인**:
+- DOM 구조 변경으로 선택자 미작동
+- 타이밍 이슈 (요소 로딩 전에 테스트 실행)
+- 네트워크 지연
+- 환경 차이 (로컬 vs 프로덕션)
+
+**해결 방법**:
+```typescript
+// ❌ 나쁜 예: 고정 대기 시간
+await page.waitForTimeout(1000);
+
+// ✅ 좋은 예: 요소가 나타날 때까지 대기
+await expect(element).toBeVisible({ timeout: 10000 });
+
+// ✅ 네트워크 안정화 대기
+await page.waitForLoadState('networkidle');
+```
+
+---
+
 ## 🔧 반복 발생한 문제와 해결책
 
 ### 문제 1: 깊이읽기 기능 반복 수정
@@ -255,6 +505,15 @@ const fontSizes = {
 - [ ] 코드 **일관성** 유지 확인
 - [ ] 사용자에게 **결과 설명** 및 **대안 제시**
 
+### 테스트 수행 (필수)
+- [ ] **Playwright MCP** 연결 확인 (Claude Code 재시작 시)
+- [ ] **로컬 환경** 테스트 실행 및 통과 확인
+- [ ] **배포 환경** 테스트 실행 및 통과 확인
+- [ ] **데스크톱/모바일** 양쪽 화면 크기 테스트
+- [ ] **다크모드/라이트모드** 양쪽 테스트
+- [ ] 테스트 실패 시 원인 분석 및 **즉시 수정**
+- [ ] **스크린샷**으로 시각적 검증 완료
+
 ---
 
 ## 🎯 핵심 원칙 요약
@@ -289,6 +548,12 @@ const fontSizes = {
 - 각 방법의 장단점 설명
 - 사용자와 함께 결정
 
+### 6. 철저한 테스트 (Thorough Testing)
+> "개발은 테스트 통과 후에 완료된다"
+- 모든 개발 후 Playwright MCP로 테스트
+- 배포 전 필수 테스트 수행
+- 실패 시 즉시 수정 후 재테스트
+
 ---
 
 ## 📚 참고 자료
@@ -298,6 +563,8 @@ const fontSizes = {
 - **Framer Motion** - 애니메이션
 - **Tailwind CSS** - 스타일링
 - **CSS clamp()** - 반응형 폰트
+- **Playwright** - E2E 테스트
+- **Playwright MCP** - Claude Code 통합 테스트
 
 ### 디자인 패턴
 - **Glassmorphism** - 유리 느낌의 반투명 효果
@@ -323,6 +590,10 @@ word-break: break-all;
 ---
 
 ## 🔄 버전 히스토리
+- v1.1 (2025-10-18): 테스트 가이드 추가
+  - Playwright MCP를 이용한 테스트 필수화
+  - 테스트 범위, 작성 가이드, 체크리스트 추가
+  - 핵심 원칙에 "철저한 테스트" 추가
 - v1.0 (2025-10-15): 초기 지침서 작성
   - 깊이읽기, 텍스트 오버플로우, 플래시카드 오버플로우 문제 분석
   - 개선 원칙 및 체크리스트 작성
