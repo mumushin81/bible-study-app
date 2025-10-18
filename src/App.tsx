@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import { Volume2, Search, Settings, ChevronLeft, ChevronRight, ArrowUp, LogIn } from 'lucide-react';
 import { motion } from 'framer-motion';
 import { verses } from './data/verses';
-import { getBookById } from './data/bibleBooks';
 import BottomNavigation from './components/BottomNavigation';
 import BookSelectionBottomSheet from './components/BookSelectionBottomSheet';
 import SwipeableContent from './components/SwipeableContent';
@@ -15,6 +14,8 @@ import SignUpModal from './components/auth/SignUpModal';
 import UserProfile from './components/UserProfile';
 import { useAuth } from './hooks/useAuth';
 import { useUserProgress } from './hooks/useUserProgress';
+import { useVerses } from './hooks/useVerses';
+import { useBooks } from './hooks/useBooks';
 
 export default function App() {
   // Auth
@@ -34,16 +35,14 @@ export default function App() {
   const [showLoginModal, setShowLoginModal] = useState(false);
   const [showSignUpModal, setShowSignUpModal] = useState(false);
 
-  // 현재 책과 장의 구절들 필터링
-  const chapterVerses = verses.filter(v => {
-    // TODO: 현재는 창세기만 지원하므로 임시로 이렇게 처리
-    const match = v.id.match(/^gen(\d+)-(\d+)$/);
-    if (!match) return false;
-    const [, chapter] = match;
-    return currentBookId === 'genesis' && parseInt(chapter) === currentChapter;
+  // 하이브리드 데이터 소스 (DB 우선, 정적 fallback)
+  const { verses: chapterVerses } = useVerses({
+    bookId: currentBookId,
+    chapter: currentChapter,
   });
+  const { getBookById } = useBooks();
 
-  const verseData = chapterVerses[currentVerseIndex] || verses[0];
+  const verseData = chapterVerses[currentVerseIndex] || chapterVerses[0] || verses[0];
   const currentBook = getBookById(currentBookId);
 
   // User progress for current verse
