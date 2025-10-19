@@ -20,10 +20,24 @@ export function useVerses(options?: UseVersesOptions) {
         setLoading(true)
         setError(null)
 
-        // 1. Verses 기본 데이터 가져오기
+        // 1️⃣ Verses + Words 가져오기
         let versesQuery = supabase
           .from('verses')
-          .select('*')
+          .select(`
+            *,
+            words (
+              hebrew,
+              meaning,
+              ipa,
+              korean,
+              root,
+              grammar,
+              structure,
+              emoji,
+              category,
+              position
+            )
+          `)
           .order('chapter', { ascending: true })
           .order('verse_number', { ascending: true })
 
@@ -47,31 +61,48 @@ export function useVerses(options?: UseVersesOptions) {
           return
         }
 
-        // 2. 각 구절에 대한 단어, 주석 데이터 가져오기
-        const versesWithDetails = await Promise.all(
-          versesData.map(async (verse) => {
-            // 단어 가져오기
-            const { data: wordsData } = await supabase
-              .from('words')
-              .select('*')
-              .eq('verse_id', verse.id)
-              .order('position', { ascending: true })
+        // 2️⃣ Verse IDs 추출
+        const verseIds = versesData.map((v: any) => v.id)
 
-            // 주석 가져오기
-            const { data: commentaryData } = await supabase
-              .from('commentaries')
-              .select(`
-                id,
-                intro,
-                commentary_sections (*),
-                why_questions (*),
-                commentary_conclusions (*)
-              `)
-              .eq('verse_id', verse.id)
-              .single()
+        // 3️⃣ Commentaries + 중첩 테이블 별도 조회
+        const { data: commentariesData } = await supabase
+          .from('commentaries')
+          .select(`
+            verse_id,
+            id,
+            intro,
+            commentary_sections (
+              emoji,
+              title,
+              description,
+              points,
+              color,
+              position
+            ),
+            why_questions (
+              question,
+              answer,
+              bible_references
+            ),
+            commentary_conclusions (
+              title,
+              content
+            )
+          `)
+          .in('verse_id', verseIds)
 
-            // Word 타입으로 변환
-            const words: Word[] = (wordsData || []).map(w => ({
+        // 4️⃣ Commentary를 verse_id로 매핑
+        const commentariesMap = new Map()
+        commentariesData?.forEach((c: any) => {
+          commentariesMap.set(c.verse_id, c)
+        })
+
+        // 5️⃣ 데이터 병합 및 변환
+        const versesWithDetails: Verse[] = versesData.map((verse: any) => {
+          // Word 타입으로 변환 (position으로 정렬)
+          const words: Word[] = (verse.words || [])
+            .sort((a: any, b: any) => a.position - b.position)
+            .map((w: any) => ({
               hebrew: w.hebrew,
               meaning: w.meaning,
               ipa: w.ipa,
@@ -83,59 +114,57 @@ export function useVerses(options?: UseVersesOptions) {
               category: w.category as any || undefined,
             }))
 
-            // Commentary 타입으로 변환
-            let commentary: Commentary | undefined
-            if (commentaryData) {
-              const sections: CommentarySection[] = (commentaryData.commentary_sections || [])
-                .sort((a: any, b: any) => a.position - b.position)
-                .map((s: any) => ({
-                  emoji: s.emoji,
-                  title: s.title,
-                  description: s.description,
-                  points: s.points as string[],
-                  color: s.color as any,
-                }))
+          // Commentary 타입으로 변환
+          let commentary: Commentary | undefined
+          const commentaryData = commentariesMap.get(verse.id)
 
-              // why_questions와 commentary_conclusions는 1:1 관계이므로 단일 객체
-              const whyQuestion = commentaryData.why_questions as any
-              const conclusion = commentaryData.commentary_conclusions as any
+          if (commentaryData) {
+            const sections: CommentarySection[] = (commentaryData.commentary_sections || [])
+              .sort((a: any, b: any) => a.position - b.position)
+              .map((s: any) => ({
+                emoji: s.emoji,
+                title: s.title,
+                description: s.description,
+                points: s.points as string[],
+                color: s.color as any,
+              }))
 
-              commentary = {
-                intro: commentaryData.intro,
-                sections,
-                whyQuestion: whyQuestion ? {
-                  question: whyQuestion.question,
-                  answer: whyQuestion.answer,
-                  bibleReferences: whyQuestion.bible_references as string[],
-                } : undefined,
-                conclusion: conclusion ? {
-                  title: conclusion.title,
-                  content: conclusion.content,
-                } : undefined,
-              }
+            const whyQuestion = commentaryData.why_questions?.[0]
+            const conclusion = commentaryData.commentary_conclusions?.[0]
+
+            commentary = {
+              intro: commentaryData.intro,
+              sections,
+              whyQuestion: whyQuestion ? {
+                question: whyQuestion.question,
+                answer: whyQuestion.answer,
+                bibleReferences: whyQuestion.bible_references as string[],
+              } : undefined,
+              conclusion: conclusion ? {
+                title: conclusion.title,
+                content: conclusion.content,
+              } : undefined,
             }
+          }
 
-            // Verse 타입으로 변환
-            const verseObj: Verse = {
-              id: verse.id,
-              reference: verse.reference,
-              hebrew: verse.hebrew,
-              ipa: verse.ipa,
-              koreanPronunciation: verse.korean_pronunciation,
-              modern: verse.modern,
-              literal: verse.literal || undefined,
-              translation: verse.translation || undefined,
-              words,
-              commentary,
-            }
-
-            return verseObj
-          })
-        )
+          // Verse 타입으로 변환
+          return {
+            id: verse.id,
+            reference: verse.reference,
+            hebrew: verse.hebrew,
+            ipa: verse.ipa,
+            koreanPronunciation: verse.korean_pronunciation,
+            modern: verse.modern,
+            literal: verse.literal || undefined,
+            translation: verse.translation || undefined,
+            words,
+            commentary,
+          }
+        })
 
         setVerses(versesWithDetails)
         setIsUsingStatic(false)
-        console.log(`✅ DB에서 ${versesWithDetails.length}개 구절 로드 완료`)
+        console.log(`✅ DB에서 ${versesWithDetails.length}개 구절 로드 완료 (commentaries: ${commentariesData?.length || 0}개)`)
       } catch (err) {
         console.error('❌ DB에서 구절 가져오기 실패:', err)
         console.log('⚠️  정적 데이터를 사용합니다.')
