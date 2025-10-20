@@ -1,0 +1,135 @@
+{
+  "id": "genesis_2_1",
+  "reference": "창세기 2:1",
+  "hebrew": "וַיְכֻלּוּ הַשָּׁמַיִם וְהָאָרֶץ, וְכָל-צְבָאָם.",
+  "ipa": "vajəxuˈlu haʃaˈmajim vəhaˈʔarɛts vəxol tsəvaˈʔam",
+  "koreanPronunciation": "바예쿨루 하샤마임 베하아레츠 베콜 체바암",
+  "modern": "이렇게 하늘과 땅과 그 안의 모든 만물이 완성되었습니다",
+  "words": [
+    {
+      "hebrew": "וַיְכֻלּוּ",
+      "meaning": "그리고 완성되었다",
+      "ipa": "vajəxuˈlu",
+      "korean": "바예쿨루",
+      "letters": "וַ(va) + יְ(ye) + כֻ(khu) + לּוּ(lu)",
+      "root": "כ-ל-ה (칼라)",
+      "grammar": "동사",
+      "emoji": "✅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"complete1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#81C784\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#complete1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#complete1)\" stroke-width=\"4\" stroke-dasharray=\"125.6\" stroke-dashoffset=\"0\" filter=\"drop-shadow(0 0 8px rgba(76, 175, 80, 0.6))\" /><path d=\"M 20 32 L 28 40 L 44 24\" stroke=\"url(#glow1)\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"40\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"44\" cy=\"24\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "כָּלָה (칼라 - 완성하다)",
+        "כָּלִיל (칼릴 - 완전한)"
+      ]
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "meaning": "하늘들",
+      "ipa": "haʃaˈmajim",
+      "korean": "하샤마임",
+      "letters": "הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim)",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "emoji": "🌥️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"50%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><radialGradient id=\"cloud1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#B3E5FC\" /></radialGradient><radialGradient id=\"star1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFF8DC\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky1)\" rx=\"8\" /><ellipse cx=\"20\" cy=\"20\" rx=\"12\" ry=\"8\" fill=\"url(#cloud1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1))\" /><ellipse cx=\"28\" cy=\"18\" rx=\"10\" ry=\"7\" fill=\"url(#cloud1)\" opacity=\"0.9\" /><ellipse cx=\"44\" cy=\"24\" rx=\"14\" ry=\"9\" fill=\"url(#cloud1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.1))\" /><circle cx=\"16\" cy=\"12\" r=\"2\" fill=\"url(#star1)\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.8))\" /><circle cx=\"50\" cy=\"14\" r=\"2\" fill=\"url(#star1)\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"8\" r=\"2.5\" fill=\"url(#star1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘)",
+        "עָנָן (아난 - 구름)"
+      ]
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "meaning": "그리고 땅",
+      "ipa": "vəhaˈʔarɛts",
+      "korean": "베하아레츠",
+      "letters": "וְ(ve) + הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"50%\" stop-color=\"#43A047\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient><linearGradient id=\"ocean1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><radialGradient id=\"glow2\"><stop offset=\"60%\" stop-color=\"rgba(255, 255, 255, 0)\" /><stop offset=\"100%\" stop-color=\"rgba(100, 181, 246, 0.3)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#ocean1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 8 Q 40 12 44 20 Q 48 28 44 36 Q 40 44 32 48\" fill=\"url(#earth1)\" opacity=\"0.9\" /><path d=\"M 20 16 Q 24 20 28 24 Q 32 28 28 32 Q 24 36 20 40\" fill=\"url(#earth1)\" opacity=\"0.9\" /><ellipse cx=\"48\" cy=\"28\" rx=\"6\" ry=\"10\" fill=\"url(#earth1)\" opacity=\"0.85\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#glow2)\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֲדָמָה (아다마 - 흙)"
+      ]
+    },
+    {
+      "hebrew": "וְכָל",
+      "meaning": "그리고 모든",
+      "ipa": "vəxol",
+      "korean": "베콜",
+      "letters": "וְ(ve) + כָ(kha) + ל(l)",
+      "root": "כֹּל (콜)",
+      "grammar": "형용사",
+      "emoji": "🌐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"50%\" stop-color=\"#7B1FA2\" /><stop offset=\"100%\" stop-color=\"#4A148C\" /></linearGradient><radialGradient id=\"center1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#all1)\" stroke-width=\"3\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#all1)\" stroke-width=\"3\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#all1)\" stroke-width=\"3\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#center1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"url(#all1)\" filter=\"drop-shadow(0 0 4px rgba(156, 39, 176, 0.6))\" /><circle cx=\"54\" cy=\"32\" r=\"3\" fill=\"url(#all1)\" filter=\"drop-shadow(0 0 4px rgba(156, 39, 176, 0.6))\" /><circle cx=\"32\" cy=\"54\" r=\"3\" fill=\"url(#all1)\" filter=\"drop-shadow(0 0 4px rgba(156, 39, 176, 0.6))\" /><circle cx=\"10\" cy=\"32\" r=\"3\" fill=\"url(#all1)\" filter=\"drop-shadow(0 0 4px rgba(156, 39, 176, 0.6))\" /><circle cx=\"45\" cy=\"19\" r=\"2.5\" fill=\"url(#all1)\" opacity=\"0.8\" /><circle cx=\"45\" cy=\"45\" r=\"2.5\" fill=\"url(#all1)\" opacity=\"0.8\" /><circle cx=\"19\" cy=\"45\" r=\"2.5\" fill=\"url(#all1)\" opacity=\"0.8\" /><circle cx=\"19\" cy=\"19\" r=\"2.5\" fill=\"url(#all1)\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "צְבָאָם",
+      "meaning": "그것들의 만물, 군대",
+      "ipa": "tsəvaˈʔam",
+      "korean": "체바암",
+      "letters": "צְ(tse) + בָ(va) + אָם(am)",
+      "root": "צָבָא (차바)",
+      "grammar": "명사",
+      "emoji": "⭐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"army1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6F00\" /><stop offset=\"50%\" stop-color=\"#F57C00\" /><stop offset=\"100%\" stop-color=\"#E65100\" /></linearGradient><radialGradient id=\"light1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF8F00\" /></radialGradient><linearGradient id=\"multi1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"33%\" stop-color=\"#9C27B0\" /><stop offset=\"66%\" stop-color=\"#3F51B5\" /><stop offset=\"100%\" stop-color=\"#00BCD4\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#multi1)\" opacity=\"0.1\" /><g transform=\"translate(32, 32)\"><path d=\"M 0 -16 L 3.7 -5 L 15.4 -4.9 L 6.2 2.2 L 9.5 13.8 L 0 7 L -9.5 13.8 L -6.2 2.2 L -15.4 -4.9 L -3.7 -5 Z\" fill=\"url(#light1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></g><circle cx=\"16\" cy=\"16\" r=\"4\" fill=\"url(#army1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 111, 0, 0.6))\" /><circle cx=\"48\" cy=\"16\" r=\"4\" fill=\"url(#army1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 111, 0, 0.6))\" /><circle cx=\"16\" cy=\"48\" r=\"4\" fill=\"url(#army1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 111, 0, 0.6))\" /><circle cx=\"48\" cy=\"48\" r=\"4\" fill=\"url(#army1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 111, 0, 0.6))\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"52\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"52\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "צָבָא (차바 - 군대)",
+        "יְהוָה צְבָאוֹת (여호와 체바오트 - 만군의 여호와)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 1절은 6일간의 창조 사역의 장엄한 완성을 선언합니다. '완성되었다'는 히브리어 '칼라(כָּלָה)'는 단순히 끝났다는 의미가 아니라, 완전하고 완벽하게 이루어졌음을 의미합니다. 하늘과 땅, 그리고 그 안의 모든 피조물이 하나님의 계획대로 완벽하게 자리 잡았음을 강조하는 구절입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְכֻלּוּ (바예쿨루) - 완성의 선언",
+        "description": "히브리어 '칼라(כָּלָה)'는 '완성하다', '끝내다'를 의미하는 동사로, 여기서는 수동태 형태(Pual)로 사용되어 하나님의 창조 사역이 완전히 이루어졌음을 강조합니다. 이는 단순한 중단이나 끝이 아니라, 의도된 목적이 완벽하게 달성되었음을 나타냅니다.",
+        "points": [
+          "창조는 무작위나 진행 중인 과정이 아니라 완성된 사건입니다",
+          "하나님의 계획은 완벽하게 실현되었습니다",
+          "모든 피조물이 제자리를 찾고 정해진 목적을 갖게 되었습니다",
+          "하나님이 시작하신 일은 반드시 완성하신다는 신학적 진리의 기초가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַשָּׁמַיִם וְהָאָרֶץ (하샤마임 베하아레츠) - 하늘과 땅, 창조의 전체성",
+        "description": "'하늘과 땅'이라는 표현은 히브리어의 '메리즘'(merism) 기법으로, 두 극단을 언급함으로써 그 사이의 모든 것을 포함하는 수사법입니다. 이는 우주 전체, 보이는 것과 보이지 않는 모든 영역을 아우릅니다.",
+        "points": [
+          "보이는 물질 세계와 보이지 않는 영적 세계 모두가 완성되었습니다",
+          "하늘(영적 영역)과 땅(물질적 영역)이 조화롭게 창조되었습니다",
+          "우주의 모든 영역이 하나님의 창조 질서 안에 통합되었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "צְבָאָם (체바암) - 만물의 군대",
+        "description": "'체바(צָבָא)'는 본래 '군대', '군사력'을 의미하는 단어입니다. 여기서는 하늘과 땅의 모든 피조물—별들, 천사들, 동물들, 식물들—을 지칭하며, 창조 세계의 질서와 조직성을 나타냅니다. 각 피조물은 창조주의 명령 체계 안에서 움직이는 조직된 전체입니다.",
+        "points": [
+          "모든 피조물은 하나님의 '군대'로서 질서 있게 배치되었습니다",
+          "각 존재는 창조주의 명령에 따라 정해진 역할을 수행합니다",
+          "'만군의 여호와(יְהוָה צְבָאוֹת)'라는 표현의 신학적 배경이 됩니다",
+          "피조 세계는 무질서한 집합이 아니라 하나님의 통치 아래 있는 조직된 체계입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 하늘과 땅을 '완성'하셨을까요?",
+      "answer": "하나님은 우리가 살아갈 세상을 완벽하게 준비하고 싶으셨어요. 마치 부모님이 아기가 태어나기 전에 방을 예쁘게 꾸미고 필요한 모든 것을 준비하는 것처럼, 하나님도 우리를 위해 모든 것을 완벽하게 만들어주셨답니다. 해도, 달도, 별도, 식물도, 동물도 모두 제자리에 있고, 우리가 행복하게 살 수 있도록 준비되었어요. 하나님은 일을 대충 하시는 분이 아니라, 항상 완벽하게 하시는 분이세요!",
+      "bibleReferences": [
+        "시편 33:6 - '여호와의 말씀으로 하늘이 지음이 되었으며 그 만상을 그의 입김으로 이루셨도다'",
+        "골로새서 1:16 - '만물이 그에게서 창조되되 하늘과 땅에서 보이는 것들과 보이지 않는 것들이 혹은 왕권들이나 주권들이나 통치자들이나 권세들이나 만물이 다 그로 말미암고 그를 위하여 창조되었고'",
+        "요한복음 1:3 - '만물이 그로 말미암아 지은 바 되었으니 지은 것이 하나도 그가 없이는 된 것이 없느니라'",
+        "히브리서 11:3 - '믿음으로 모든 세계가 하나님의 말씀으로 지어진 줄을 우리가 아나니 보이는 것은 나타난 것으로 말미암아 된 것이 아니니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창조의 완성은 하나님의 신실하심과 완벽하심을 보여줍니다. 하나님이 시작하신 일은 반드시 완성하십니다. 이는 구원의 역사에도 적용되는 원리입니다—'너희 안에서 착한 일을 시작하신 이가 그리스도 예수의 날까지 이루실 줄을 우리는 확신하노라'(빌립보서 1:6). 하나님은 창조 사역을 완성하셨듯이, 우리를 향한 구원의 계획도 반드시 완성하실 것입니다."
+    }
+  }
+}

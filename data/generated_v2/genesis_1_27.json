@@ -1,0 +1,223 @@
+{
+  "id": "genesis_1_27",
+  "reference": "창세기 1:27",
+  "hebrew": "וַיִּבְרָא אֱלֹהִים אֶת-הָאָדָם בְּצַלְמוֹ, בְּצֶלֶם אֱלֹהִים בָּרָא אֹתוֹ:  זָכָר וּנְקֵבָה, בָּרָא אֹתָם.",
+  "ipa": "vajivˈra ʔɛloˈhim ʔɛt haʔaˈdam bətsalˈmo bəˈtsɛlɛm ʔɛloˈhim baˈra ˈʔoto zaˈxar unəqeˈva baˈra ʔoˈtam",
+  "koreanPronunciation": "바이브라 엘로힘 에트 하아담 베찰모 베첼렘 엘로힘 바라 오토 자카르 우네케바 바라 오탐",
+  "modern": "하나님께서 자기 형상대로 사람을 창조하시되, 남자와 여자로 그들을 창조하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּבְרָא",
+      "meaning": "그리고 창조하셨다",
+      "ipa": "vajivˈra",
+      "korean": "바이브라",
+      "letters": "וַ(va) + יִּ(yi) + בְ(b) + רָ(ra) + א()",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"create1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"create2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#EC4899\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#create2)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#create1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\"><circle cx=\"20\" cy=\"12\" r=\"3\" /><circle cx=\"44\" cy=\"16\" r=\"2.5\" /><circle cx=\"50\" cy=\"40\" r=\"3.5\" /><circle cx=\"14\" cy=\"44\" r=\"2\" /><circle cx=\"32\" cy=\"8\" r=\"2\" /></g></svg>",
+      "relatedWords": [
+        "בְּרִיאָה (브리아 - 창조)",
+        "בּוֹרֵא (보레 - 창조주)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"god2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 12 48 L 16 34 L 22 40 L 28 30 L 32 26 L 36 30 L 42 40 L 48 34 L 52 48 Z\" fill=\"url(#god1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#god1)\" rx=\"1\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#god2)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 1))\" /><g stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"18\" /><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"20\" /><line x1=\"20\" y1=\"16\" x2=\"24\" y2=\"20\" /></g></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-הָאָדָם",
+      "meaning": "사람을",
+      "ipa": "ʔɛt haʔaˈdam",
+      "korean": "에트 하아담",
+      "letters": "אֶת(et) + הָ(ha) + אָ(a) + דָ(da) + ם(m)",
+      "root": "אָדָם (아담)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"human1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><radialGradient id=\"human2\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"22\" ry=\"4\" fill=\"rgba(0, 0, 0, 0.1)\" /><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#human2)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 30 L 32 42 M 32 34 L 24 38 M 32 34 L 40 38 M 32 42 L 26 52 M 32 42 L 38 52\" stroke=\"url(#human1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.25))\" /><circle cx=\"28\" cy=\"18\" r=\"1.5\" fill=\"#8B4513\" /><circle cx=\"36\" cy=\"18\" r=\"1.5\" fill=\"#8B4513\" /><path d=\"M 28 24 Q 32 26 36 24\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "בְּנֵי אָדָם (베네 아담 - 인류)"
+      ]
+    },
+    {
+      "hebrew": "בְּצַלְמוֹ",
+      "meaning": "그의 형상대로",
+      "ipa": "bətsalˈmo",
+      "korean": "베찰모",
+      "letters": "בְּ(be) + צַ(tsa) + לְ(l) + מוֹ(mo)",
+      "root": "צֶלֶם (첼렘)",
+      "grammar": "명사",
+      "emoji": "🪞",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"image1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#60A5FA\" /><stop offset=\"50%\" stop-color=\"#3B82F6\" /><stop offset=\"100%\" stop-color=\"#2563EB\" /></linearGradient><linearGradient id=\"image2\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#60A5FA\" stop-opacity=\"0\" /></radialGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"4\" fill=\"url(#image1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" rx=\"2\" fill=\"url(#glow1)\" opacity=\"0.4\" /><ellipse cx=\"32\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"url(#image2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"29\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"35\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" /><path d=\"M 24 40 Q 32 44 40 40\" stroke=\"#7C3AED\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><g stroke=\"#FFFFFF\" stroke-width=\"1.5\" opacity=\"0.6\"><line x1=\"14\" y1=\"14\" x2=\"22\" y2=\"14\" /><line x1=\"14\" y1=\"14\" x2=\"14\" y2=\"22\" /></g></svg>",
+      "relatedWords": [
+        "צֶלֶם (첼렘 - 형상, 이미지)",
+        "דְּמוּת (데무트 - 모양, 닮음)"
+      ]
+    },
+    {
+      "hebrew": "בְּצֶלֶם אֱלֹהִים",
+      "meaning": "하나님의 형상대로",
+      "ipa": "bəˈtsɛlɛm ʔɛloˈhim",
+      "korean": "베첼렘 엘로힘",
+      "letters": "בְּ(be) + צֶ(tse) + לֶ(le) + ם(m) + אֱלֹהִים(엘로힘)",
+      "root": "צֶלֶם (첼렘)",
+      "grammar": "명사",
+      "emoji": "✝️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"divine1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F3E8FF\" /><stop offset=\"50%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient><radialGradient id=\"divine2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#divine1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#divine2)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 14 L 34 22 L 42 20 L 36 26 L 40 34 L 32 30 L 24 34 L 28 26 L 22 20 L 30 22 Z\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><g stroke=\"#FFD700\" stroke-width=\"2.5\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\"><line x1=\"32\" y1=\"42\" x2=\"32\" y2=\"54\" /><line x1=\"26\" y1=\"48\" x2=\"38\" y2=\"48\" /></g></svg>",
+      "relatedWords": [
+        "כָּבוֹד (카보드 - 영광)",
+        "קָדוֹשׁ (카도쉬 - 거룩한)"
+      ]
+    },
+    {
+      "hebrew": "בָּרָא",
+      "meaning": "창조하셨다",
+      "ipa": "baˈra",
+      "korean": "바라",
+      "letters": "בָּ(ba) + רָ(ra) + א()",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "emoji": "🌟",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bara1\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"30%\" stop-color=\"#FCD34D\" /><stop offset=\"70%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></radialGradient><linearGradient id=\"bara2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#bara1)\" filter=\"drop-shadow(0 0 16px rgba(251, 191, 36, 1))\" /><g fill=\"url(#bara2)\" filter=\"drop-shadow(0 0 8px rgba(245, 158, 11, 0.8))\"><path d=\"M 32 8 L 34 26 L 32 28 L 30 26 Z\" /><path d=\"M 56 32 L 38 34 L 36 32 L 38 30 Z\" /><path d=\"M 32 56 L 30 38 L 32 36 L 34 38 Z\" /><path d=\"M 8 32 L 26 30 L 28 32 L 26 34 Z\" /><path d=\"M 48 16 L 36 28 L 34 26 L 42 18 Z\" /><path d=\"M 48 48 L 36 36 L 38 34 L 46 42 Z\" /><path d=\"M 16 48 L 28 36 L 30 38 L 22 46 Z\" /><path d=\"M 16 16 L 28 28 L 26 30 L 18 22 Z\" /></g><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "יָצַר (야차르 - 형성하다)",
+        "עָשָׂה (아사 - 만들다)"
+      ]
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "meaning": "그를",
+      "ipa": "ˈʔoto",
+      "korean": "오토",
+      "letters": "אֹ(o) + תוֹ(to)",
+      "root": "אֵת (에트)",
+      "grammar": "대명사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"him1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#34D399\" /><stop offset=\"100%\" stop-color=\"#10B981\" /></linearGradient><radialGradient id=\"him2\"><stop offset=\"0%\" stop-color=\"#D1FAE5\" /><stop offset=\"100%\" stop-color=\"#34D399\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#him2)\" opacity=\"0.4\" /><path d=\"M 12 32 L 40 32 L 32 24 M 40 32 L 32 40\" stroke=\"url(#him1)\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"32\" r=\"6\" fill=\"url(#him1)\" filter=\"drop-shadow(0 0 6px rgba(16, 185, 129, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "זָכָר",
+      "meaning": "남자",
+      "ipa": "zaˈxar",
+      "korean": "자카르",
+      "letters": "זָ(za) + כָ(kha) + ר(r)",
+      "root": "זָכָר (자카르)",
+      "grammar": "명사",
+      "emoji": "♂️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"male1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#60A5FA\" /><stop offset=\"100%\" stop-color=\"#2563EB\" /></linearGradient><radialGradient id=\"male2\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#male2)\" opacity=\"0.3\" /><circle cx=\"28\" cy=\"36\" r=\"16\" fill=\"url(#male1)\" filter=\"drop-shadow(0 4px 8px rgba(37, 99, 235, 0.4))\" /><line x1=\"38\" y1=\"26\" x2=\"48\" y2=\"16\" stroke=\"url(#male1)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(37, 99, 235, 0.3))\" /><line x1=\"48\" y1=\"16\" x2=\"48\" y2=\"24\" stroke=\"url(#male1)\" stroke-width=\"5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"16\" x2=\"40\" y2=\"16\" stroke=\"url(#male1)\" stroke-width=\"5\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자, 사람)",
+        "גֶּבֶר (게베르 - 장정, 남자)"
+      ]
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "meaning": "그리고 여자",
+      "ipa": "unəqeˈva",
+      "korean": "우네케바",
+      "letters": "וּ(u) + נְ(ne) + קֵ(ke) + בָ(va) + ה(h)",
+      "root": "נְקֵבָה (네케바)",
+      "grammar": "명사",
+      "emoji": "♀️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"female1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F9A8D4\" /><stop offset=\"100%\" stop-color=\"#EC4899\" /></linearGradient><radialGradient id=\"female2\"><stop offset=\"0%\" stop-color=\"#FCE7F3\" /><stop offset=\"100%\" stop-color=\"#F472B6\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#female2)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"24\" r=\"14\" fill=\"url(#female1)\" filter=\"drop-shadow(0 4px 8px rgba(236, 72, 153, 0.4))\" /><line x1=\"32\" y1=\"38\" x2=\"32\" y2=\"52\" stroke=\"url(#female1)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(236, 72, 153, 0.3))\" /><line x1=\"24\" y1=\"46\" x2=\"40\" y2=\"46\" stroke=\"url(#female1)\" stroke-width=\"5\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "חַוָּה (하바 - 하와, 이브)"
+      ]
+    },
+    {
+      "hebrew": "בָּרָא אֹתָם",
+      "meaning": "그들을 창조하셨다",
+      "ipa": "baˈra ʔoˈtam",
+      "korean": "바라 오탐",
+      "letters": "בָּרָא(bara) + אֹתָם(otam)",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"them1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"50%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient><linearGradient id=\"them2\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F472B6\" /><stop offset=\"50%\" stop-color=\"#EC4899\" /><stop offset=\"100%\" stop-color=\"#DB2777\" /></linearGradient><radialGradient id=\"glow3\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(167, 139, 250, 0.1)\" /><circle cx=\"24\" cy=\"28\" r=\"12\" fill=\"url(#them1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 92, 246, 0.4))\" /><circle cx=\"40\" cy=\"28\" r=\"12\" fill=\"url(#them2)\" filter=\"drop-shadow(0 3px 6px rgba(236, 72, 153, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#glow3)\" filter=\"drop-shadow(0 0 12px rgba(245, 158, 11, 0.9))\" opacity=\"0.8\" /><path d=\"M 20 40 Q 24 44 28 44\" stroke=\"url(#them1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 44 Q 40 44 44 40\" stroke=\"url(#them2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָדָם וְחַוָּה (아담과 하와)",
+        "בְּנֵי אָדָם (베네 아담 - 인류)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1장 27절은 인간 창조의 절정이자 성경 전체에서 가장 중요한 선언 중 하나입니다. '하나님의 형상'이라는 개념은 인간의 존엄성과 가치, 그리고 하나님과의 특별한 관계를 정의합니다. 또한 남자와 여자가 동등하게 하나님의 형상을 지녔다는 선언은 성별 평등의 신학적 기초가 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "צֶלֶם אֱלֹהִים (첼렘 엘로힘) - 하나님의 형상",
+        "description": "'첼렘'은 '형상', '이미지', '모습'을 의미하는 히브리어입니다. 고대 근동에서 왕의 형상(조각상)은 왕의 통치권을 상징했습니다. 하나님의 형상대로 지음받은 인간은 창조 세계에 대한 하나님의 대리 통치자로 세워진 것입니다.",
+        "points": [
+          "인간은 피조물 중 유일하게 하나님의 형상을 지닌 존재입니다",
+          "형상은 외모가 아니라 이성, 도덕성, 관계성, 창조성을 포함합니다",
+          "모든 인간은 하나님의 형상을 지녔기에 존엄하고 가치 있습니다",
+          "형상 개념은 청지기 사명 - 창조 세계를 다스릴 권한과 책임을 부여합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּרָא (바라) - 창조 동사의 삼중 반복",
+        "description": "이 구절에서 '바라'(창조하다)가 세 번 반복됩니다. 첫째, 하나님이 사람을 창조하셨고, 둘째, 하나님의 형상대로 창조하셨으며, 셋째, 남자와 여자로 창조하셨습니다. 이 삼중 강조는 인간 창조의 특별함과 의도성을 드러냅니다.",
+        "points": [
+          "'바라'는 오직 하나님만이 주체인 창조 행위를 나타냅니다",
+          "삼중 반복은 히브리 시 문학에서 최고의 강조를 의미합니다",
+          "인간 창조는 우연이 아니라 하나님의 신중한 계획입니다",
+          "각 반복은 창조의 다른 차원을 강조합니다 - 존재, 성격, 관계"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "זָכָר וּנְקֵבָה (자카르 우네케바) - 남자와 여자",
+        "description": "'자카르'(남성)와 '네케바'(여성)는 생물학적 성별을 나타내는 히브리어입니다. 두 성별 모두 동등하게 하나님의 형상을 지녔다는 이 선언은 고대 근동의 남성 중심 문화에서 혁명적인 개념이었습니다.",
+        "points": [
+          "남자와 여자는 동등하게 하나님의 형상을 반영합니다",
+          "성별의 다양성은 하나님의 창조 계획의 일부입니다",
+          "남녀의 관계성은 하나님의 관계적 본성을 반영합니다",
+          "이 구절은 성차별과 여성 비하에 대한 성경적 반박입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֶת-הָאָדָם (에트 하아담) - 인류의 연대성",
+        "description": "'하아담'은 정관사가 붙은 '아담'으로, '그 사람' 또는 '인류'를 의미합니다. 동시에 최초의 인간 아담을 가리키며, 모든 인류의 대표성과 연대성을 나타냅니다. 히브리어 '아담'은 '땅'(아다마)에서 유래했습니다.",
+        "points": [
+          "모든 인류는 하나의 기원을 가지며 하나님 앞에서 평등합니다",
+          "인간은 땅(아다마)에서 왔지만 하늘의 형상(첼렘)을 지녔습니다",
+          "아담은 개인이자 동시에 전체 인류를 대표합니다",
+          "인류의 연대성은 사회 정의와 형제애의 기초가 됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 우리를 하나님의 형상대로 만드셨을까요?",
+      "answer": "하나님은 우리를 매우 특별하게 사랑하시기 때문이에요. 마치 부모님이 아기를 닮게 낳으시는 것처럼, 하나님도 우리를 하나님을 닮게 만드셨어요. 그래서 우리는 생각할 수 있고, 사랑할 수 있고, 선택할 수 있어요. 하나님의 형상이라는 것은 우리가 매우 소중하고 존귀하다는 뜻이에요. 그리고 남자나 여자나 모두 똑같이 하나님의 형상이기 때문에 모두가 소중하답니다!",
+      "bibleReferences": [
+        "시편 8:5 - '그를 하나님보다 조금 못하게 하시고 영화와 존귀로 관을 씌우셨나이다'",
+        "야고보서 3:9 - '이것으로 우리가 주 아버지를 찬송하고 또 이것으로 하나님의 형상대로 지음을 받은 사람을 저주하나니'",
+        "골로새서 3:10 - '새 사람을 입었으니 이는 자기를 창조하신 이의 형상을 따라 지식에까지 새롭게 하심을 입은 자니라'",
+        "에베소서 4:24 - '하나님을 따라 의와 진리의 거룩함으로 지으심을 받은 새 사람을 입으라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님의 형상 교리는 기독교 인간론의 핵심입니다. 모든 인간은 인종, 성별, 나이, 능력에 관계없이 하나님의 형상을 지녔기에 무한한 가치와 존엄성을 가집니다. 이는 낙태 반대, 인종차별 반대, 성차별 반대, 노예제 반대의 성경적 근거가 됩니다. 또한 그리스도는 '보이지 않는 하나님의 형상'(골 1:15)으로, 타락으로 손상된 하나님의 형상을 회복시키는 구원의 목표는 '그리스도의 형상을 본받는 것'(롬 8:29)입니다."
+    }
+  }
+}

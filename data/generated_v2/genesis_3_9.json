@@ -1,0 +1,146 @@
+{
+  "id": "genesis_3_9",
+  "reference": "창세기 3:9",
+  "hebrew": "וַיִּקְרָא יְהוָה אֱלֹהִים, אֶל-הָאָדָם; וַיֹּאמֶר לוֹ, אַיֶּכָּה.",
+  "ipa": "vajjiqˈra jəhoˈvah ʔɛloˈhim ʔɛl haʔaˈdam vajˈjomɛr lo ˈʔajɛka",
+  "koreanPronunciation": "바이크라 여호와 엘로힘 엘 하아담 바요메르 로 아예카",
+  "modern": "여호와 하나님께서 아담을 부르시며 그에게 말씀하시기를 '네가 어디 있느냐?'라고 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 부르셨다",
+      "ipa": "vajjiqˈra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְ(q) + רָא(ra)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "📢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wave1_vayikra\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><linearGradient id=\"wave2_vayikra\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"50%\" stop-color=\"#00F2FE\" /><stop offset=\"100%\" stop-color=\"#43E97B\" /></linearGradient><radialGradient id=\"mouth_vayikra\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></radialGradient></defs><ellipse cx=\"18\" cy=\"32\" rx=\"10\" ry=\"14\" fill=\"url(#mouth_vayikra)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"22\" cy=\"32\" rx=\"6\" ry=\"10\" fill=\"#000000\" opacity=\"0.6\" /><path d=\"M 28 32 Q 32 28 36 32 Q 40 36 44 32\" stroke=\"url(#wave1_vayikra)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(102, 126, 234, 0.6))\" /><path d=\"M 30 40 Q 36 36 42 40 Q 48 44 54 40\" stroke=\"url(#wave2_vayikra)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(79, 172, 254, 0.6))\" /><path d=\"M 32 24 Q 38 20 44 24 Q 50 28 56 24\" stroke=\"url(#wave1_vayikra)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈvah",
+      "korean": "여호와",
+      "letters": "יְ(ye) + הֹ(ho) + וָ(va) + ה(h)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"center_yhwh\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"60%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient><linearGradient id=\"flame1_yhwh\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient><linearGradient id=\"flame2_yhwh\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><linearGradient id=\"flame3_yhwh\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.1)\" /><path d=\"M 32 48 Q 28 40 30 32 Q 32 24 30 16 Q 32 12 34 16 Q 32 24 34 32 Q 36 40 32 48 Z\" fill=\"url(#flame1_yhwh)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 24 50 Q 22 44 24 36 Q 26 28 24 20 Q 26 16 28 20 Q 26 28 28 36 Q 30 44 24 50 Z\" fill=\"url(#flame2_yhwh)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 6px rgba(255, 165, 0, 0.7))\" /><path d=\"M 40 50 Q 38 44 40 36 Q 42 28 40 20 Q 42 16 44 20 Q 42 28 44 36 Q 46 44 40 50 Z\" fill=\"url(#flame3_yhwh)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 6px rgba(255, 99, 71, 0.7))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#center_yhwh)\" filter=\"drop-shadow(0 0 10px rgba(255, 255, 255, 0.9))\" /></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_elohim39\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim39\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"jewel_elohim39\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"50%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim39)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#crown_elohim39)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"11\" y=\"50\" width=\"42\" height=\"8\" rx=\"2\" fill=\"url(#crown_elohim39)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim39)\" filter=\"drop-shadow(0 0 4px rgba(156, 39, 176, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel_elohim39)\" filter=\"drop-shadow(0 0 6px rgba(233, 30, 99, 0.9))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim39)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><path d=\"M 28 28 L 30 24 L 32 28 Z\" fill=\"#FFFFFF\" opacity=\"0.4\" /><path d=\"M 32 24 L 34 20 L 36 24 Z\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 권능자)",
+        "יְהוָה (여호와 - 주님, 스스로 있는 자)"
+      ]
+    },
+    {
+      "hebrew": "אֶל-הָאָדָם",
+      "meaning": "사람에게",
+      "ipa": "ʔɛl haʔaˈdam",
+      "korean": "엘 하아담",
+      "letters": "אֶל(el) + הָ(ha) + אָ(a) + דָם(dam)",
+      "root": "אָדָם (아담)",
+      "grammar": "전치사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"head_adam\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#D7A98C\" /></radialGradient><linearGradient id=\"body_adam\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"glow_adam\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FF6347\" opacity=\"0\" /></linearGradient><radialGradient id=\"shadow_adam\"><stop offset=\"0%\" stop-color=\"#000000\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#000000\" opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"56\" rx=\"20\" ry=\"4\" fill=\"url(#shadow_adam)\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_adam)\" /><ellipse cx=\"32\" cy=\"40\" rx=\"12\" ry=\"18\" fill=\"url(#body_adam)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#head_adam)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"18\" r=\"1.5\" fill=\"#4A4A4A\" /><circle cx=\"36\" cy=\"18\" r=\"1.5\" fill=\"#4A4A4A\" /><path d=\"M 28 24 Q 32 26 36 24\" stroke=\"#8D6E63\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bubble_vayomer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"50%\" stop-color=\"#6DD5FA\" /><stop offset=\"100%\" stop-color=\"#2193B0\" /></linearGradient><radialGradient id=\"shine_vayomer\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" opacity=\"0\" /></radialGradient><linearGradient id=\"text_vayomer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 48 12 Q 56 12 56 20 L 56 36 Q 56 44 48 44 L 28 44 L 16 52 L 20 44 L 16 44 Q 8 44 8 36 L 8 20 Q 8 12 16 12 Z\" fill=\"url(#bubble_vayomer)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"24\" cy=\"18\" rx=\"16\" ry=\"12\" fill=\"url(#shine_vayomer)\" /><circle cx=\"20\" cy=\"28\" r=\"3\" fill=\"url(#text_vayomer)\" filter=\"drop-shadow(0 0 2px rgba(102, 126, 234, 0.6))\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"url(#text_vayomer)\" filter=\"drop-shadow(0 0 2px rgba(102, 126, 234, 0.6))\" /><circle cx=\"44\" cy=\"28\" r=\"3\" fill=\"url(#text_vayomer)\" filter=\"drop-shadow(0 0 2px rgba(102, 126, 234, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "לוֹ",
+      "meaning": "그에게",
+      "ipa": "lo",
+      "korean": "로",
+      "letters": "לוֹ(lo)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow_lo\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"50%\" stop-color=\"#FEE140\" /><stop offset=\"100%\" stop-color=\"#30CFD0\" /></linearGradient><linearGradient id=\"hand_lo\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#D7A98C\" /></linearGradient><radialGradient id=\"glow_lo\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#FA709A\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_lo)\" /><path d=\"M 12 32 L 44 32 L 38 26 M 44 32 L 38 38\" stroke=\"url(#arrow_lo)\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(250, 112, 154, 0.6))\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#hand_lo)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"28\" r=\"2\" fill=\"#8D6E63\" /></svg>"
+    },
+    {
+      "hebrew": "אַיֶּכָּה",
+      "meaning": "네가 어디 있느냐?",
+      "ipa": "ˈʔajɛka",
+      "korean": "아예카",
+      "letters": "אַ(a) + יֶּ(ye) + כָּה(ka)",
+      "root": "אַיֵּה (아예)",
+      "grammar": "부사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"question_ayeka\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><radialGradient id=\"glow_ayeka\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#667EEA\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#667EEA\" opacity=\"0\" /></radialGradient><linearGradient id=\"shadow_ayeka\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_ayeka)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#question_ayeka)\" opacity=\"0.1\" filter=\"drop-shadow(0 0 8px rgba(102, 126, 234, 0.4))\" /><path d=\"M 22 20 Q 22 14 28 12 Q 34 10 38 14 Q 42 18 40 24 Q 38 28 32 30 L 32 36\" stroke=\"url(#question_ayeka)\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"44\" r=\"3\" fill=\"url(#question_ayeka)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#shadow_ayeka)\" stroke-width=\"1\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אָן (안 - 어디로)",
+        "מִי (미 - 누구)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "타락 이후 처음으로 들려오는 하나님의 음성입니다. 하나님께서 아담을 찾으시며 '네가 어디 있느냐?'라고 물으십니다. 이는 위치를 모르셔서 하시는 질문이 아니라, 아담의 영적 상태를 깨닫게 하시려는 은혜의 부르심입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּקְרָא (바이크라) - 찾으시는 하나님",
+        "description": "'카라'는 '부르다', '외치다'를 의미하는 동사입니다. 타락한 인간을 포기하지 않으시고 먼저 찾아 부르시는 하나님의 주도적인 사랑을 보여줍니다. 죄로 인해 숨은 인간을 향한 하나님의 첫 번째 행동은 정죄가 아니라 부르심이었습니다.",
+        "points": [
+          "하나님께서 먼저 타락한 인간을 찾아 나서십니다",
+          "심판 전에 회개의 기회를 주시는 은혜를 보여줍니다",
+          "인간의 죄에도 불구하고 관계를 회복하려는 하나님의 의지"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יְהוָה אֱלֹהִים (여호와 엘로힘) - 언약의 하나님",
+        "description": "'여호와 엘로힘'은 하나님의 두 가지 본질을 동시에 나타냅니다. '여호와'는 언약을 지키시는 인격적인 하나님, '엘로힘'은 전능하신 창조주를 의미합니다. 타락 후에도 여전히 언약의 하나님으로 아담을 대하십니다.",
+        "points": [
+          "창조주(엘로힘)이시자 언약의 주(여호와)이십니다",
+          "죄를 지은 후에도 여전히 언약 관계를 유지하십니다",
+          "심판자이시지만 동시에 구원자이십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַיֶּכָּה (아예카) - 은혜의 질문",
+        "description": "'아예카'는 문자적으로 '너는 어디에?'라는 뜻입니다. 전지하신 하나님께서 아담의 위치를 모르실 리 없습니다. 이는 아담 스스로 자신의 영적 상태를 깨닫고 고백하게 하시려는 치유적 질문입니다.",
+        "points": [
+          "정보를 위한 질문이 아니라 회개를 위한 초대입니다",
+          "자기 성찰과 회개의 기회를 주시는 은혜의 질문",
+          "숨어 있는 인간에게 나오라고 손 내미시는 하나님"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아담이 어디 있는지 물으셨을까요? 하나님은 모든 걸 아시잖아요!",
+      "answer": "네, 맞아요! 하나님은 이미 아담이 어디 숨었는지 다 아셨어요. 하지만 하나님은 아담이 스스로 자기가 잘못했다는 걸 깨닫기를 원하셨어요. 마치 엄마 아빠가 숨바꼭질할 때 '어디 있니?'라고 물으면서 아이를 찾듯이, 하나님도 사랑으로 아담을 찾으신 거예요. 혼내려고가 아니라 다시 만나고 싶으셔서요. 하나님은 우리가 잘못했을 때도 우리를 사랑하시고 다시 품어주고 싶어 하신답니다.",
+      "bibleReferences": [
+        "시편 139:7-8 - '내가 주의 영을 떠나 어디로 가며 주의 앞에서 어디로 피하리이까 내가 하늘에 올라갈지라도 거기 계시며'",
+        "누가복음 15:4 - '너희 중에 어떤 사람이 양 백 마리가 있는데 그 중의 하나를 잃으면 아흔아홉 마리를 들에 두고 그 잃은 것을 찾아내기까지 찾아다니지 아니하겠느냐'",
+        "누가복음 19:10 - '인자가 온 것은 잃어버린 자를 찾아 구원하려 함이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "'아예카'는 성경 전체를 관통하는 하나님의 질문입니다. 타락한 인간에게 던지시는 이 질문은 단순히 위치를 묻는 것이 아니라 영적 상태를 성찰하게 합니다. 이는 예수 그리스도를 통해 완성되는 구원 역사의 시작점입니다. 하나님께서 우리를 찾아오셔서 '네가 어디 있느냐?'고 물으실 때, 우리는 숨지 말고 나아가 회개하고 은혜를 받아야 합니다. 이것이 복음의 시작입니다."
+    }
+  }
+}

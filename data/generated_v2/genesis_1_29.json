@@ -1,0 +1,238 @@
+{
+  "id": "genesis_1_29",
+  "reference": "창세기 1:29",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים, הִנֵּה נָתַתִּי לָכֶם אֶת-כָּל-עֵשֶׂב זֹרֵעַ זֶרַע אֲשֶׁר עַל-פְּנֵי כָל-הָאָרֶץ, וְאֶת-כָּל-הָעֵץ אֲשֶׁר-בּוֹ פְרִי-עֵץ, זֹרֵעַ זָרַע:  לָכֶם יִהְיֶה, לְאָכְלָה.",
+  "ipa": "vajˈjomɛr ʔɛloˈhim hinˈne naˈtatti laˈχɛm ʔɛt kol ˈʔɛsɛv zoˈreaʕ ˈzɛraʕ ʔaˈʃɛr ʕal pəˈne χol haˈʔarɛts vəʔɛt kol haˈʔets ʔaˈʃɛr bo pəri ˈʔets zoˈreaʕ ˈzaraʕ laˈχɛm jihˈje ləʔoχˈla",
+  "koreanPronunciation": "바요메르 엘로힘 힌네 나타티 라켐 에트 콜 에세브 조레아 제라 아셰르 알 페네 콜 하아레츠 베에트 콜 하에츠 아셰르 보 페리 에츠 조레아 자라 라켐 이흐예 레오클라",
+  "modern": "하나님께서 말씀하셨습니다. '보라, 내가 온 땅 위에 있는 씨 맺는 모든 채소와 씨 가진 열매 맺는 모든 나무를 너희에게 주었으니, 그것이 너희의 먹을거리가 될 것이다.'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow1)\" opacity=\"0.3\" /><path d=\"M 16 20 Q 16 12 24 12 L 40 12 Q 48 12 48 20 L 48 36 Q 48 44 40 44 L 28 44 L 20 52 L 20 44 Q 16 44 16 36 Z\" fill=\"url(#speech1)\" filter=\"drop-shadow(0 4px 8px rgba(102, 126, 234, 0.4))\" /><circle cx=\"24\" cy=\"26\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"26\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"26\" r=\"2.5\" fill=\"#FFFFFF\" /><path d=\"M 22 34 Q 32 38 42 34\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָמַר (אמר - 말하다)",
+        "דִּבֵּר (디베르 - 이야기하다)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"holy2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#holy2)\" /><path d=\"M 12 48 L 16 32 L 22 38 L 28 28 L 32 22 L 36 28 L 42 38 L 48 32 L 52 48 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 6px 12px rgba(255, 215, 0, 0.5))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#crown2)\" rx=\"1\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><circle cx=\"22\" cy=\"34\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"42\" cy=\"34\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "meaning": "보라",
+      "ipa": "hinˈne",
+      "korean": "힌네",
+      "letters": "הִ(hi) + נֵּ(ne) + ה(h)",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye3\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></radialGradient><linearGradient id=\"iris3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"20\" fill=\"url(#eye3)\" filter=\"drop-shadow(0 4px 8px rgba(79, 172, 254, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"12\" ry=\"16\" fill=\"url(#iris3)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1A1A1A\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" /><path d=\"M 8 32 Q 8 20 16 16\" stroke=\"#4FACFE\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 56 32 Q 56 20 48 16\" stroke=\"#4FACFE\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "הַבֵּט (하베트 - 바라보다)"
+      ]
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "meaning": "내가 주었다",
+      "ipa": "naˈtatti",
+      "korean": "나타티",
+      "letters": "נָ(na) + תַ(ta) + תִּי(ti)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gift4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient><linearGradient id=\"ribbon4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><rect x=\"14\" y=\"24\" width=\"36\" height=\"28\" rx=\"2\" fill=\"url(#gift4)\" filter=\"drop-shadow(0 6px 12px rgba(250, 112, 154, 0.4))\" /><rect x=\"28\" y=\"18\" width=\"8\" height=\"40\" fill=\"url(#ribbon4)\" /><rect x=\"8\" y=\"28\" width=\"48\" height=\"8\" fill=\"url(#ribbon4)\" /><path d=\"M 32 18 Q 24 12 20 14 Q 16 16 20 20 Q 24 24 32 18\" fill=\"#FF1493\" filter=\"drop-shadow(0 2px 4px rgba(255, 20, 147, 0.5))\" /><path d=\"M 32 18 Q 40 12 44 14 Q 48 16 44 20 Q 40 24 32 18\" fill=\"#FF1493\" filter=\"drop-shadow(0 2px 4px rgba(255, 20, 147, 0.5))\" /><circle cx=\"20\" cy=\"36\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    },
+    {
+      "hebrew": "לָכֶם",
+      "meaning": "너희에게",
+      "ipa": "laˈχɛm",
+      "korean": "라켐",
+      "letters": "לָ(la) + כֶם(khem)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient><radialGradient id=\"person5\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#11998E\" /></radialGradient></defs><circle cx=\"24\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"24\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"40\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"40\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"32\" cy=\"26\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "meaning": "채소, 풀",
+      "ipa": "ˈʔɛsɛv",
+      "korean": "에세브",
+      "letters": "עֵ(e) + שֶׂ(se) + ב(v)",
+      "root": "עֵשֶׂב (에세브)",
+      "grammar": "명사",
+      "emoji": "🌿",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"grass6\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#0F9B0F\" /><stop offset=\"50%\" stop-color=\"#38EF7D\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient><linearGradient id=\"leaf6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#56AB2F\" /><stop offset=\"100%\" stop-color=\"#A8E063\" /></linearGradient></defs><path d=\"M 32 52 Q 28 40 26 28 Q 24 16 28 8\" stroke=\"url(#grass6)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(15, 155, 15, 0.4))\" /><path d=\"M 28 28 Q 18 26 14 22\" stroke=\"url(#leaf6)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 20 Q 42 18 46 14\" stroke=\"url(#leaf6)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"14\" cy=\"22\" rx=\"6\" ry=\"8\" fill=\"url(#leaf6)\" opacity=\"0.8\" transform=\"rotate(-30 14 22)\" /><ellipse cx=\"46\" cy=\"14\" rx=\"6\" ry=\"8\" fill=\"url(#leaf6)\" opacity=\"0.8\" transform=\"rotate(30 46 14)\" /><path d=\"M 36 52 Q 40 40 42 28 Q 44 16 40 8\" stroke=\"url(#grass6)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(15, 155, 15, 0.4))\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "דֶּשֶׁא (데셰 - 푸른 풀)",
+        "יֶרֶק (예레크 - 채소)"
+      ]
+    },
+    {
+      "hebrew": "זֹרֵעַ זֶרַע",
+      "meaning": "씨 맺는",
+      "ipa": "zoˈreaʕ ˈzɛraʕ",
+      "korean": "조레아 제라",
+      "letters": "זֹ(zo) + רֵ(re) + עַ(a) + זֶ(ze) + רַע(ra)",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "동사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><linearGradient id=\"sprout7\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#38EF7D\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"6\" ry=\"4\" fill=\"#8B4513\" opacity=\"0.3\" /><circle cx=\"28\" cy=\"46\" r=\"4\" fill=\"url(#seed7)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\" /><circle cx=\"36\" cy=\"46\" r=\"4\" fill=\"url(#seed7)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\" /><path d=\"M 32 44 Q 30 36 28 28 Q 26 20 28 14\" stroke=\"url(#sprout7)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(56, 239, 125, 0.4))\" /><ellipse cx=\"24\" cy=\"24\" rx=\"5\" ry=\"7\" fill=\"url(#sprout7)\" transform=\"rotate(-20 24 24)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"18\" rx=\"5\" ry=\"7\" fill=\"url(#sprout7)\" transform=\"rotate(10 32 18)\" opacity=\"0.9\" /><circle cx=\"28\" cy=\"14\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨앗)",
+        "זָרַע (자라 - 심다, 뿌리다)"
+      ]
+    },
+    {
+      "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
+      "meaning": "온 땅 위에",
+      "ipa": "ʕal pəˈne χol haˈʔarɛts",
+      "korean": "알 페네 콜 하아레츠",
+      "letters": "עַל(al) + פְּ(pe) + נֵי(ne) + כָּל(khol) + הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "עַל (알) + פָּנִים (파님) + אֶרֶץ (에레츠)",
+      "grammar": "전치사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth8\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CA1AF\" /><stop offset=\"100%\" stop-color=\"#2C3E50\" /></linearGradient><radialGradient id=\"glow8\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#4CA1AF\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"land8\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#56AB2F\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth8)\" filter=\"drop-shadow(0 6px 12px rgba(76, 161, 175, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#glow8)\" /><path d=\"M 20 20 Q 24 18 28 20 L 32 24 L 28 28 Q 24 30 20 28 Z\" fill=\"url(#land8)\" opacity=\"0.8\" /><path d=\"M 38 14 Q 44 12 48 16 L 50 22 L 46 26 Q 42 28 38 24 Z\" fill=\"url(#land8)\" opacity=\"0.8\" /><path d=\"M 16 38 Q 20 36 24 38 L 28 44 Q 24 48 18 46 Z\" fill=\"url(#land8)\" opacity=\"0.8\" /><ellipse cx=\"42\" cy=\"42\" rx=\"8\" ry=\"10\" fill=\"url(#land8)\" opacity=\"0.8\" transform=\"rotate(20 42 42)\" /><circle cx=\"20\" cy=\"16\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"28\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "תֵּבֵל (테벨 - 세계)"
+      ]
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "meaning": "나무",
+      "ipa": "haˈʔets",
+      "korean": "하에츠",
+      "letters": "הָ(ha) + עֵ(e) + ץ(ts)",
+      "root": "עֵץ (에츠)",
+      "grammar": "명사",
+      "emoji": "🌳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"trunk9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"leaves9\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#38EF7D\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient></defs><rect x=\"26\" y=\"36\" width=\"12\" height=\"20\" rx=\"2\" fill=\"url(#trunk9)\" filter=\"drop-shadow(0 4px 8px rgba(139, 69, 19, 0.4))\" /><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#leaves9)\" filter=\"drop-shadow(0 4px 8px rgba(56, 239, 125, 0.4))\" opacity=\"0.9\" /><circle cx=\"20\" cy=\"28\" r=\"12\" fill=\"url(#leaves9)\" filter=\"drop-shadow(0 3px 6px rgba(56, 239, 125, 0.3))\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"28\" r=\"12\" fill=\"url(#leaves9)\" filter=\"drop-shadow(0 3px 6px rgba(56, 239, 125, 0.3))\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"18\" r=\"3\" fill=\"#FFFF00\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"22\" r=\"3\" fill=\"#FFFF00\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"#FFFF00\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עֵץ חַיִּים (에츠 하임 - 생명나무)",
+        "אִילָן (일란 - 큰 나무)"
+      ]
+    },
+    {
+      "hebrew": "פְרִי",
+      "meaning": "열매",
+      "ipa": "pəri",
+      "korean": "페리",
+      "letters": "פְּ(pe) + רִי(ri)",
+      "root": "פְּרִי (페리)",
+      "grammar": "명사",
+      "emoji": "🍎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"apple10\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"70%\" stop-color=\"#C92A2A\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient><linearGradient id=\"stem10\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"leaf10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"34\" rx=\"18\" ry=\"20\" fill=\"url(#apple10)\" filter=\"drop-shadow(0 6px 12px rgba(255, 107, 107, 0.5))\" /><ellipse cx=\"26\" cy=\"28\" rx=\"4\" ry=\"6\" fill=\"#FFFFFF\" opacity=\"0.4\" transform=\"rotate(-30 26 28)\" /><rect x=\"30\" y=\"12\" width=\"4\" height=\"12\" fill=\"url(#stem10)\" rx=\"2\" /><ellipse cx=\"38\" cy=\"14\" rx=\"8\" ry=\"6\" fill=\"url(#leaf10)\" transform=\"rotate(30 38 14)\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.4))\" /><path d=\"M 32 52 L 32 56\" stroke=\"#654321\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "פָּרָה (파라 - 열매맺다)",
+        "תְּנוּבָה (테누바 - 수확물)"
+      ]
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "meaning": "먹을거리로",
+      "ipa": "ləʔoχˈla",
+      "korean": "레오클라",
+      "letters": "לְ(le) + אָ(o) + כְ(kh) + לָה(la)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사",
+      "emoji": "🍽️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plate11\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#BDBDBD\" /></linearGradient><radialGradient id=\"shine11\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"food11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"38\" rx=\"24\" ry=\"4\" fill=\"#9E9E9E\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"34\" rx=\"22\" ry=\"18\" fill=\"url(#plate11)\" filter=\"drop-shadow(0 4px 8px rgba(158, 158, 158, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"16\" fill=\"url(#shine11)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"30\" r=\"8\" fill=\"url(#food11)\" filter=\"drop-shadow(0 2px 4px rgba(255, 215, 0, 0.5))\" /><circle cx=\"24\" cy=\"32\" r=\"5\" fill=\"#90EE90\" filter=\"drop-shadow(0 2px 4px rgba(144, 238, 144, 0.4))\" /><circle cx=\"40\" cy=\"32\" r=\"5\" fill=\"#FF6B6B\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 107, 0.4))\" /><circle cx=\"28\" cy=\"24\" r=\"3\" fill=\"#4169E1\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"26\" r=\"3\" fill=\"#9370DB\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "מַאֲכָל (마아칼 - 음식)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1장 29절은 하나님께서 인류에게 주신 최초의 식량 공급에 관한 말씀입니다. 하나님은 창조 6일째에 인간을 만드신 후, 그들의 생존과 번영을 위해 필요한 모든 것을 미리 준비해 두셨습니다. 이 구절은 하나님의 섭리와 돌보심, 그리고 창조 세계의 풍요로움을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "נָתַתִּי לָכֶם (나타티 라켐) - 내가 너희에게 주었다",
+        "description": "하나님은 '나탄'(주다) 동사의 완료형을 사용하여 이미 인간에게 모든 식물을 선물로 주셨음을 강조합니다. 이는 단순히 허락하신 것이 아니라, 적극적으로 주신 은혜의 선물입니다.",
+        "points": [
+          "하나님께서 먼저 주시는 선제적 은혜",
+          "인간이 구하기 전에 이미 준비하신 공급",
+          "창조주와 피조물 사이의 사랑의 관계",
+          "소유권은 하나님께 있으나 사용권을 인간에게 위임"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עֵשֶׂב זֹרֵעַ זֶרַע (에세브 조레아 제라) - 씨 맺는 모든 채소",
+        "description": "'씨 맺는'이라는 표현은 식물의 생식 능력과 지속 가능성을 나타냅니다. 하나님은 일회성 식량이 아니라 계속해서 재생산되는 풍요로운 식량 체계를 만드셨습니다.",
+        "points": [
+          "자가 재생산 시스템 - 지속 가능한 식량 공급",
+          "각 식물은 '그 종류대로' 씨를 맺어 다양성 유지",
+          "하나님의 지혜로운 설계 - 생태계의 순환",
+          "인간은 땅을 경작하며 하나님과 협력하는 청지기"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "פְרִי־עֵץ (페리 에츠) - 나무의 열매",
+        "description": "나무의 열매는 채소보다 더 풍성하고 달콤한 식량을 의미합니다. 하나님은 단순히 생존을 위한 먹을거리뿐 아니라, 즐거움을 주는 음식도 함께 제공하셨습니다.",
+        "points": [
+          "필요뿐 아니라 기쁨도 채우시는 하나님",
+          "다양한 맛과 영양을 가진 열매들",
+          "에덴동산의 생명나무와 선악과의 배경",
+          "인간에게 주신 풍성한 복"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְאָכְלָה (레오클라) - 먹을거리로",
+        "description": "하나님은 모든 식물의 목적을 명확히 밝히십니다 - 그것은 인간의 '먹을거리'입니다. 이는 창조 세계가 인간 중심으로 설계되었음을 보여줍니다.",
+        "points": [
+          "인간은 창조 세계의 청지기이자 수혜자",
+          "원래 계획은 채식이었음 (노아 홍수 후 육식 허용)",
+          "음식을 통한 하나님과의 교제와 감사",
+          "물질적 필요를 채우시는 하나님의 신실하심"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 우리에게 먹을 것을 주셨을까요?",
+      "answer": "하나님은 우리를 너무 사랑하셔서 우리가 살아가는 데 필요한 모든 것을 미리 준비해 주셨어요. 마치 엄마 아빠가 아기를 낳기 전에 아기 방을 꾸미고 옷과 음식을 준비하는 것처럼요. 하나님은 우리가 배고프지 않도록 맛있는 과일과 채소를 만들어 주셨답니다. 그리고 그 식물들은 씨앗을 맺어서 계속 자라나기 때문에, 우리는 언제나 먹을 것이 있어요. 이것은 하나님이 우리를 계속 돌보시고 사랑하신다는 증거예요!",
+      "bibleReferences": [
+        "시편 104:14-15 - '그가 가축을 위한 풀과 사람을 위한 채소를 자라게 하시며'",
+        "마태복음 6:26 - '공중의 새를 보라... 너희 하늘 아버지께서 기르시나니'",
+        "사도행전 14:17 - '하늘로부터 비를 내리시며 결실기를 주시는 선한 일을 하사'",
+        "시편 145:15-16 - '주께서 때를 따라 그들에게 먹을 것을 주시나이다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1장 29절은 하나님의 섭리(Providence)를 명확히 보여줍니다. 하나님은 인간을 창조하시기 전에 이미 그들의 필요를 아시고 준비하셨습니다. 이는 신약의 '구하기 전에 필요한 것을 아시는 하늘 아버지'(마 6:8)의 모습과 연결됩니다. 또한 원래의 창조 질서에서는 생명을 취하지 않는 채식이 계획이었다는 점은, 미래 회복된 창조 세계(사 11:6-9, 65:25)의 평화를 예표합니다. 궁극적으로 모든 좋은 선물은 하나님께로부터 온다는 진리를 가르칩니다."
+    }
+  }
+}

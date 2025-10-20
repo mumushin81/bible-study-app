@@ -1,7 +1,58 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
-import { verses as staticVerses } from '../data/verses'
 import { Verse, Word, Commentary, CommentarySection } from '../types'
+
+// Supabase 쿼리 결과 타입 (일부 필드는 쿼리에 따라 누락될 수 있음)
+interface VerseWithWords {
+  id: string
+  book_id: string | null
+  chapter: number
+  verse_number: number
+  reference: string
+  hebrew: string
+  ipa: string
+  korean_pronunciation: string
+  modern: string
+  literal: string | null
+  translation: string | null
+  words: Array<{
+    hebrew: string
+    meaning: string
+    ipa: string
+    korean: string
+    letters: string | null
+    root: string
+    grammar: string
+    structure: string | null
+    emoji: string | null
+    icon_svg: string | null
+    category: string | null
+    position: number
+  }>
+}
+
+interface CommentaryWithRelations {
+  verse_id: string | null
+  id: string
+  intro: string
+  commentary_sections: Array<{
+    emoji: string
+    title: string
+    description: string
+    points: any
+    color: string | null
+    position: number
+  }>
+  why_questions: {
+    question: string
+    answer: string
+    bible_references: any
+  } | null
+  commentary_conclusions: {
+    title: string
+    content: string
+  } | null
+}
 
 interface UseVersesOptions {
   bookId?: string
@@ -9,7 +60,7 @@ interface UseVersesOptions {
 }
 
 export function useVerses(options?: UseVersesOptions) {
-  const [verses, setVerses] = useState<Verse[]>(staticVerses)
+  const [verses, setVerses] = useState<Verse[]>([])
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
   const [isUsingStatic, setIsUsingStatic] = useState(false)
@@ -30,10 +81,12 @@ export function useVerses(options?: UseVersesOptions) {
               meaning,
               ipa,
               korean,
+              letters,
               root,
               grammar,
               structure,
               emoji,
+              icon_svg,
               category,
               position
             )
@@ -53,10 +106,9 @@ export function useVerses(options?: UseVersesOptions) {
 
         if (versesError) throw versesError
         if (!versesData || versesData.length === 0) {
-          // DB에 데이터가 없으면 정적 데이터 사용
-          console.warn('⚠️  DB에 구절이 없습니다. 정적 데이터를 사용합니다.')
-          setIsUsingStatic(true)
-          setVerses(staticVerses)
+          // DB에 데이터가 없으면 빈 배열
+          console.warn('⚠️  DB에 구절이 없습니다.')
+          setVerses([])
           setLoading(false)
           return
         }
@@ -92,26 +144,30 @@ export function useVerses(options?: UseVersesOptions) {
           .in('verse_id', verseIds)
 
         // 4️⃣ Commentary를 verse_id로 매핑
-        const commentariesMap = new Map()
-        commentariesData?.forEach((c: any) => {
-          commentariesMap.set(c.verse_id, c)
+        const commentariesMap = new Map<string, CommentaryWithRelations>()
+        commentariesData?.forEach((c: CommentaryWithRelations) => {
+          if (c.verse_id) {
+            commentariesMap.set(c.verse_id, c)
+          }
         })
 
         // 5️⃣ 데이터 병합 및 변환
-        const versesWithDetails: Verse[] = versesData.map((verse: any) => {
+        const versesWithDetails: Verse[] = versesData.map((verse: VerseWithWords) => {
           // Word 타입으로 변환 (position으로 정렬)
           const words: Word[] = (verse.words || [])
-            .sort((a: any, b: any) => a.position - b.position)
-            .map((w: any) => ({
+            .sort((a, b) => a.position - b.position)
+            .map((w) => ({
               hebrew: w.hebrew,
               meaning: w.meaning,
               ipa: w.ipa,
               korean: w.korean,
+              letters: w.letters || '',
               root: w.root,
               grammar: w.grammar,
+              emoji: w.emoji || '📜',
+              iconSvg: w.icon_svg || '',
               structure: w.structure || undefined,
-              emoji: w.emoji || undefined,
-              category: w.category as any || undefined,
+              category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
             }))
 
           // Commentary 타입으로 변환
@@ -120,13 +176,13 @@ export function useVerses(options?: UseVersesOptions) {
 
           if (commentaryData) {
             const sections: CommentarySection[] = (commentaryData.commentary_sections || [])
-              .sort((a: any, b: any) => a.position - b.position)
-              .map((s: any) => ({
+              .sort((a, b) => a.position - b.position)
+              .map((s) => ({
                 emoji: s.emoji,
                 title: s.title,
                 description: s.description,
                 points: s.points as string[],
-                color: s.color as any,
+                color: s.color as 'purple' | 'blue' | 'green' | 'pink' | 'orange' | 'yellow',
               }))
 
             // why_questions and commentary_conclusions are objects (one-to-one), not arrays
@@ -168,10 +224,8 @@ export function useVerses(options?: UseVersesOptions) {
         console.log(`✅ DB에서 ${versesWithDetails.length}개 구절 로드 완료 (commentaries: ${commentariesData?.length || 0}개)`)
       } catch (err) {
         console.error('❌ DB에서 구절 가져오기 실패:', err)
-        console.log('⚠️  정적 데이터를 사용합니다.')
         setError(err as Error)
-        setIsUsingStatic(true)
-        setVerses(staticVerses)
+        setVerses([])
       } finally {
         setLoading(false)
       }

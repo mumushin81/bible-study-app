@@ -1,0 +1,189 @@
+{
+  "id": "genesis_1_31",
+  "reference": "창세기 1:31",
+  "hebrew": "וַיַּ֤רְא אֱלֹהִים֙ אֶת כָּל אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה טוֹב מְאֹ֑ד וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי",
+  "ipa": "vajˈjar ʔɛloˈhim ʔet kol ʔaˈʃɛr ʕaˈsa vəhinˈne tov məˈʔod vajəˈhi ˈʕɛrɛv vajəˈhi ˈvoqɛr jom haʃiˈʃi",
+  "koreanPronunciation": "바야르 엘로힘 에트 콜 아쉐르 아사 베힌네 토브 메오드 바예히 에레브 바예히 보케르 욤 하쉬쉬",
+  "modern": "하나님께서 지으신 모든 것을 보시니 보시기에 심히 좋았습니다. 저녁이 되고 아침이 되니 이것이 여섯째 날이었습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보셨다",
+      "ipa": "vajˈjar",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye31a\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient><radialGradient id=\"eye31b\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"eye31c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#eye31a)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#eye31b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#1A1A1A\" /><circle cx=\"29\" cy=\"29\" r=\"3\" fill=\"url(#eye31c)\" opacity=\"0.9\" /><path d=\"M 8 32 Q 12 28 18 26\" stroke=\"#4682B4\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 56 32 Q 52 28 46 26\" stroke=\"#4682B4\" stroke-width=\"2\" fill=\"none\" /></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god31a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"god31b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><linearGradient id=\"god31c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"100%\" stop-color=\"#6A5ACD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#god31c)\" opacity=\"0.2\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#god31a)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#god31a)\" rx=\"1\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#god31b)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /><circle cx=\"22\" cy=\"38\" r=\"2\" fill=\"#FF1493\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FF1493\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"38\" r=\"2\" fill=\"#FF1493\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 신)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֶת כָּל",
+      "meaning": "모든 것을",
+      "ipa": "ʔet kol",
+      "korean": "에트 콜",
+      "letters": "אֶת(et) + כָּל(kol)",
+      "root": "כֹּל (콜)",
+      "grammar": "전치사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"all31a\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"100%\" stop-color=\"#008B8B\" /></radialGradient><linearGradient id=\"all31b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#006400\" /></linearGradient><radialGradient id=\"all31c\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#all31a)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"22\" cy=\"28\" rx=\"12\" ry=\"16\" fill=\"url(#all31b)\" opacity=\"0.8\" transform=\"rotate(-20 22 28)\" /><ellipse cx=\"42\" cy=\"34\" rx=\"10\" ry=\"14\" fill=\"url(#all31b)\" opacity=\"0.7\" transform=\"rotate(15 42 34)\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#all31c)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 15 45 Q 20 40 25 42 Q 30 44 35 40 Q 40 36 45 38\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "אֲשֶׁר עָשָׂה",
+      "meaning": "그가 만드신",
+      "ipa": "ʔaˈʃɛr ʕaˈsa",
+      "korean": "아쉐르 아사",
+      "letters": "אֲ(a) + שֶׁר(sher) + עָ(a) + שָׂה(sa)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사",
+      "emoji": "🛠️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"make31a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"make31b\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></radialGradient><linearGradient id=\"make31c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><rect x=\"28\" y=\"10\" width=\"8\" height=\"44\" fill=\"url(#make31a)\" rx=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"14\" r=\"6\" fill=\"url(#make31b)\" filter=\"drop-shadow(0 2px 6px rgba(211, 47, 47, 0.6))\" /><path d=\"M 10 54 L 32 40 L 54 54 L 32 48 Z\" fill=\"url(#make31c)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"30\" r=\"3\" fill=\"url(#make31b)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"30\" r=\"3\" fill=\"url(#make31b)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"25\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "meaning": "그리고 보라",
+      "ipa": "vəhinˈne",
+      "korean": "베힌네",
+      "letters": "וְ(ve) + הִ(hi) + נֵּה(ne)",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"behold31a\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><linearGradient id=\"behold31b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"50%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></linearGradient><radialGradient id=\"behold31c\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#behold31a)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 12 L 35 22 L 45 22 L 37 29 L 40 39 L 32 33 L 24 39 L 27 29 L 19 22 L 29 22 Z\" fill=\"url(#behold31b)\" filter=\"drop-shadow(0 2px 6px rgba(199, 21, 133, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#behold31c)\" filter=\"drop-shadow(0 0 8px rgba(255, 165, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>"
+    },
+    {
+      "hebrew": "טוֹב מְאֹד",
+      "meaning": "심히 좋았다",
+      "ipa": "tov məˈʔod",
+      "korean": "토브 메오드",
+      "letters": "טוֹ(to) + ב(v) + מְ(me) + אֹד(od)",
+      "root": "טוֹב (토브)",
+      "grammar": "형용사",
+      "emoji": "⭐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"good31a\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><linearGradient id=\"good31b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"25%\" stop-color=\"#FF1493\" /><stop offset=\"50%\" stop-color=\"#C71585\" /><stop offset=\"75%\" stop-color=\"#9370DB\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></linearGradient><radialGradient id=\"good31c\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#good31b)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#good31a)\" filter=\"drop-shadow(0 0 15px rgba(255, 215, 0, 1))\" /><path d=\"M 32 10 L 36 24 L 51 24 L 39 33 L 43 47 L 32 38 L 21 47 L 25 33 L 13 24 L 28 24 Z\" fill=\"url(#good31c)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 10px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "טוֹבָה (토바 - 좋음, 선함)",
+        "יָפֶה (야페 - 아름다운)"
+      ]
+    },
+    {
+      "hebrew": "וַיְהִי עֶרֶב",
+      "meaning": "그리고 저녁이 되고",
+      "ipa": "vajəˈhi ˈʕɛrɛv",
+      "korean": "바예히 에레브",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi) + עֶ(e) + רֶב(rev)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "🌆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eve31a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"30%\" stop-color=\"#C71585\" /><stop offset=\"60%\" stop-color=\"#8B008B\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient><radialGradient id=\"eve31b\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient><radialGradient id=\"eve31c\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#eve31a)\" /><circle cx=\"16\" cy=\"20\" r=\"10\" fill=\"url(#eve31b)\" filter=\"drop-shadow(0 0 12px rgba(255, 99, 71, 0.8))\" /><circle cx=\"12\" cy=\"56\" r=\"2\" fill=\"url(#eve31c)\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"52\" r=\"1.5\" fill=\"url(#eve31c)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"50\" r=\"2\" fill=\"url(#eve31c)\" opacity=\"0.6\" /><circle cx=\"52\" cy=\"54\" r=\"1\" fill=\"url(#eve31c)\" opacity=\"0.5\" /><path d=\"M 0 48 Q 16 40 32 42 Q 48 44 64 40\" fill=\"#1A1A1A\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "וַיְהִי בֹקֶר",
+      "meaning": "그리고 아침이 되니",
+      "ipa": "vajəˈhi ˈvoqɛr",
+      "korean": "바예히 보케르",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi) + בֹ(vo) + קֶר(ker)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"morn31a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient><radialGradient id=\"morn31b\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><linearGradient id=\"morn31c\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#morn31a)\" /><circle cx=\"48\" cy=\"20\" r=\"12\" fill=\"url(#morn31b)\" filter=\"drop-shadow(0 0 15px rgba(255, 215, 0, 1))\" /><g stroke=\"url(#morn31c)\" stroke-width=\"2.5\" opacity=\"0.9\"><line x1=\"48\" y1=\"4\" x2=\"48\" y2=\"12\" /><line x1=\"62\" y1=\"20\" x2=\"54\" y2=\"20\" /><line x1=\"58\" y1=\"10\" x2=\"53\" y2=\"15\" /><line x1=\"58\" y1=\"30\" x2=\"53\" y2=\"25\" /></g><path d=\"M 0 50 Q 16 45 32 46 Q 48 47 64 44\" fill=\"#2C5F2D\" opacity=\"0.6\" /><path d=\"M 0 56 Q 20 52 40 53 Q 50 54 64 52\" fill=\"#1A4D1A\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "יוֹם הַשִּׁשִּׁי",
+      "meaning": "여섯째 날",
+      "ipa": "jom haʃiˈʃi",
+      "korean": "욤 하쉬쉬",
+      "letters": "יוֹם(yom) + הַ(ha) + שִּׁ(shi) + שִּׁי(shi)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "6️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"day631a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"100%\" stop-color=\"#6A5ACD\" /></linearGradient><radialGradient id=\"day631b\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><linearGradient id=\"day631c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#day631a)\" filter=\"drop-shadow(0 4px 12px rgba(106, 90, 205, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#day631b)\" opacity=\"0.3\" /><text x=\"32\" y=\"46\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"url(#day631c)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">6</text><circle cx=\"18\" cy=\"18\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"46\" cy=\"18\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.5\" /><circle cx=\"46\" cy=\"46\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רִאשׁוֹן (리숀 - 첫째)",
+        "שֵׁנִי (셰니 - 둘째)",
+        "שְׁבִיעִי (쉐비이 - 일곱째)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:31은 6일간의 창조 사역의 절정이자 결론입니다. 하나님께서 창조하신 모든 것을 보시고 '심히 좋았다'(טוֹב מְאֹד)고 선언하심으로써, 창조 세계의 완전함과 하나님의 만족을 표현합니다. 이는 단순히 '좋았다'(טוֹב)고 하신 이전 날들과 달리 '매우 좋았다'는 강조된 표현으로, 특히 인간 창조가 포함된 여섯째 날의 특별함을 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּרְא אֱלֹהִים (바야르 엘로힘) - 하나님께서 보시다",
+        "description": "히브리어 '라아'(ראה)는 단순히 시각적으로 보는 것을 넘어, 평가하고 검토하며 인정하는 깊은 의미를 담고 있습니다. 하나님께서 창조하신 모든 것을 하나하나 살피시며 그 완전함을 확인하셨습니다.",
+        "points": [
+          "창조주께서 자신의 작품을 평가하시는 모습",
+          "모든 피조물이 하나님의 검증을 통과했음을 의미",
+          "하나님의 창조 목적이 완벽하게 성취되었음을 확인",
+          "창조는 무작위가 아니라 의도적이고 계획된 과정"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "טוֹב מְאֹד (토브 메오드) - 심히 좋았다",
+        "description": "'토브'(좋다)에 '메오드'(매우, 심히)가 더해진 이 표현은 창세기 1장에서 유일하게 사용되었습니다. 1-5일차에는 단순히 '좋았다'고 하셨지만, 인간이 창조된 여섯째 날에는 '심히 좋았다'고 하시며 창조의 완전성을 선언하셨습니다.",
+        "points": [
+          "인간 창조로 완성된 창조 세계의 완벽함",
+          "모든 피조물이 조화롭게 어우러진 아름다움",
+          "하나님의 형상을 따라 지음받은 인간의 존엄성",
+          "타락 이전의 완전했던 세상의 모습"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יוֹם הַשִּׁשִּׁי (욤 하쉬쉬) - 여섯째 날",
+        "description": "창세기 1장에서 유일하게 정관사 '하'(הַ)가 붙은 날입니다. '그 여섯째 날'이라는 강조는 이 날의 특별함을 나타냅니다. 이날 인간이 창조되었고, 안식일 전날로서 창조 사역의 마지막 날이기 때문입니다.",
+        "points": [
+          "정관사 사용으로 특별히 강조된 유일한 날",
+          "남자와 여자가 모두 창조되어 인류 역사가 시작됨",
+          "다음 날 안식일을 준비하는 의미 있는 하루",
+          "창조 사역의 완성과 절정을 나타내는 날"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיְהִי עֶרֶב וַיְהִי בֹקֶר (바예히 에레브 바예히 보케르) - 저녁과 아침",
+        "description": "히브리 문화에서 하루는 저녁부터 시작됩니다. '저녁이 되고 아침이 되니'라는 반복 구절은 창조의 리듬과 질서를 보여주며, 하나님께서 정하신 시간의 흐름을 나타냅니다.",
+        "points": [
+          "히브리식 시간 개념: 하루는 저녁부터 시작",
+          "어둠에서 빛으로, 끝에서 시작으로 이어지는 희망의 리듬",
+          "하나님께서 정하신 창조의 질서와 시간의 주권",
+          "안식일의 시작(금요일 저녁)을 예표하는 구조"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 다른 날에는 '좋았다'고 하셨는데 여섯째 날에는 '심히 좋았다'고 하셨을까요?",
+      "answer": "여섯째 날에는 하나님께서 우리 사람을 만드셨기 때문이에요! 별도, 나무도, 동물도 모두 좋았지만, 하나님의 모습을 닮은 사람이 만들어지니 정말정말 너무 좋으셨던 거예요. 마치 엄마 아빠가 예쁜 집을 꾸미고 맛있는 음식을 준비하다가, 마지막에 사랑하는 아기를 품에 안았을 때 가장 행복한 것처럼요. 하나님도 우리를 만드시고 '정말 최고야!'라고 기뻐하셨답니다.",
+      "bibleReferences": [
+        "시편 8:4-5 - '사람이 무엇이기에 주께서 그를 생각하시며 인자가 무엇이기에 주께서 그를 돌보시나이까'",
+        "창세기 1:27 - '하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되'",
+        "에베소서 2:10 - '우리는 그가 만드신 바라 그리스도 예수 안에서 선한 일을 위하여 지으심을 받은 자니'",
+        "야고보서 1:18 - '그가 그 피조물 중에 우리로 한 첫 열매가 되게 하시려고 자기의 뜻을 따라 진리의 말씀으로 우리를 낳으셨느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1:31의 '심히 좋았다'는 선언은 타락 이전의 완전한 세상을 보여줍니다. 이는 하나님의 창조 목적이 완벽하게 성취되었음을 의미하며, 동시에 우리가 회복되어야 할 본래의 모습을 가리킵니다. 그리스도 안에서 우리는 '새로운 피조물'(고린도후서 5:17)이 되어 이 '심히 좋음'의 상태로 회복됩니다. 궁극적으로 새 하늘과 새 땅에서 하나님께서 다시 한번 '심히 좋았다'고 선포하실 그날을 소망합니다."
+    }
+  }
+}

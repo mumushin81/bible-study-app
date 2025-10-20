@@ -1,0 +1,256 @@
+{
+  "id": "genesis_2_7",
+  "reference": "창세기 2:7",
+  "hebrew": "וַיִּיצֶר יְהוָה אֱלֹהִים אֶת-הָאָדָם, עָפָר מִן-הָאֲדָמָה, וַיִּפַּח בְּאַפָּיו, נִשְׁמַת חַיִּים; וַיְהִי הָאָדָם, לְנֶפֶשׁ חַיָּה.",
+  "ipa": "vajˈjitsɛr jəhoˈva ʔɛloˈhim ʔɛt haʔaˈdam ʔaˈfar min haʔadaˈma vajipˈpax bəʔapˈpav nishˈmat xajˈjim vajəˈhi haʔaˈdam ləˈnɛfɛsh xajˈja",
+  "koreanPronunciation": "바이체르 예호바 엘로힘 에트 하아담 아파르 민 하아다마 바입파흐 베아파브 니쉬마트 하임 바예히 하아담 레네페쉬 하야",
+  "modern": "여호와 하나님께서 땅의 흙으로 사람을 빚으시고, 그의 코에 생명의 숨을 불어넣으시니, 사람이 살아있는 존재가 되었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּיצֶר",
+      "meaning": "빚으셨다, 형성하셨다",
+      "ipa": "vajˈjitsɛr",
+      "korean": "바이체르",
+      "letters": "וַ(va) + יִּ(yi) + יצֶ(tse) + ר(r)",
+      "root": "י-צ-ר (야차르)",
+      "grammar": "동사",
+      "emoji": "🏺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"potter1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#D2691E\" />\n      <stop offset=\"50%\" stop-color=\"#A0522D\" />\n      <stop offset=\"100%\" stop-color=\"#8B4513\" />\n    </linearGradient>\n    <radialGradient id=\"clay1\">\n      <stop offset=\"0%\" stop-color=\"#F4A460\" />\n      <stop offset=\"100%\" stop-color=\"#CD853F\" />\n    </radialGradient>\n    <linearGradient id=\"hands1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE4B5\" />\n      <stop offset=\"100%\" stop-color=\"#DEB887\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"48\" rx=\"18\" ry=\"6\" fill=\"rgba(139, 69, 19, 0.2)\" />\n  <path d=\"M 32 20 Q 28 24 28 32 L 28 42 Q 28 48 32 48 Q 36 48 36 42 L 36 32 Q 36 24 32 20 Z\" fill=\"url(#potter1)\" stroke=\"#8B4513\" stroke-width=\"1.5\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"20\" rx=\"5\" ry=\"3\" fill=\"url(#clay1)\" />\n  <path d=\"M 20 30 Q 18 32 20 34 L 24 32 Z\" fill=\"url(#hands1)\" opacity=\"0.8\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2))\" />\n  <path d=\"M 44 30 Q 46 32 44 34 L 40 32 Z\" fill=\"url(#hands1)\" opacity=\"0.8\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" />\n</svg>",
+      "relatedWords": [
+        "יוֹצֵר (요체르 - 창조자, 도자기 만드는 자)",
+        "יֵצֶר (예체르 - 형체, 본성)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈva",
+      "korean": "예호바",
+      "letters": "יְ(ye) + הֹ(ho) + וָ(va) + ה(h)",
+      "root": "ה-ו-ה (하바)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"yhwh1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"30%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" />\n    </radialGradient>\n    <linearGradient id=\"flame1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B35\" />\n      <stop offset=\"50%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFFFFF\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" />\n  <circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#yhwh1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" />\n  <path d=\"M 32 10 L 34 20 L 44 18 L 36 26 L 42 36 L 32 30 L 22 36 L 28 26 L 20 18 L 30 20 Z\" fill=\"url(#flame1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.9))\" />\n  <text x=\"32\" y=\"38\" font-family=\"serif\" font-size=\"12\" font-weight=\"bold\" fill=\"#8B4513\" text-anchor=\"middle\" opacity=\"0.8\">יהוה</text>\n</svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 존재하다)",
+        "אֶהְיֶה (에흐예 - 나는 ~이다)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"50%\" stop-color=\"#FFA500\" />\n      <stop offset=\"100%\" stop-color=\"#FF8C00\" />\n    </linearGradient>\n    <radialGradient id=\"jewel2\">\n      <stop offset=\"0%\" stop-color=\"#FF1493\" />\n      <stop offset=\"100%\" stop-color=\"#C71585\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(138, 43, 226, 0.1)\" />\n  <path d=\"M 12 44 L 16 28 L 22 32 L 28 22 L 32 18 L 36 22 L 42 32 L 48 28 L 52 44 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" />\n  <rect x=\"10\" y=\"44\" width=\"44\" height=\"8\" rx=\"2\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" />\n  <circle cx=\"32\" cy=\"28\" r=\"5\" fill=\"url(#jewel2)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" />\n  <circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"#00CED1\" filter=\"drop-shadow(0 0 4px rgba(0, 206, 209, 0.8))\" />\n  <circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"#00CED1\" filter=\"drop-shadow(0 0 4px rgba(0, 206, 209, 0.8))\" />\n  <path d=\"M 28 16 L 30 10 L 32 8 L 34 10 L 36 16\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" />\n</svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 신)",
+        "אֱלוֹהַּ (엘로아 - 하나님 단수형)"
+      ]
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "meaning": "사람",
+      "ipa": "haʔaˈdam",
+      "korean": "하아담",
+      "letters": "הָ(ha) + אָ(a) + דָ(da) + ם(m)",
+      "root": "א-د-ם (아담)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"person1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE4B5\" />\n      <stop offset=\"100%\" stop-color=\"#D2B48C\" />\n    </linearGradient>\n    <radialGradient id=\"glow1\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"100%\" stop-color=\"#4682B4\" />\n    </radialGradient>\n    <linearGradient id=\"earth1\">\n      <stop offset=\"0%\" stop-color=\"#8B4513\" />\n      <stop offset=\"100%\" stop-color=\"#A0522D\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"54\" rx=\"20\" ry=\"4\" fill=\"url(#earth1)\" opacity=\"0.3\" />\n  <circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#person1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"38\" rx=\"12\" ry=\"16\" fill=\"url(#person1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#glow1)\" stroke-width=\"2\" opacity=\"0.5\" stroke-dasharray=\"4,4\" />\n  <circle cx=\"29\" cy=\"18\" r=\"2\" fill=\"#4682B4\" />\n  <circle cx=\"35\" cy=\"18\" r=\"2\" fill=\"#4682B4\" />\n  <path d=\"M 28 24 Q 32 26 36 24\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" />\n</svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָדֹם (아돔 - 붉은)"
+      ]
+    },
+    {
+      "hebrew": "עָפָר",
+      "meaning": "흙, 티끌",
+      "ipa": "ʔaˈfar",
+      "korean": "아파르",
+      "letters": "עָ(a) + פָ(fa) + ר(r)",
+      "root": "עָפָר (아파르)",
+      "grammar": "명사",
+      "emoji": "🟤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"dust1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#DEB887\" />\n      <stop offset=\"50%\" stop-color=\"#D2691E\" />\n      <stop offset=\"100%\" stop-color=\"#8B4513\" />\n    </linearGradient>\n    <radialGradient id=\"particle1\">\n      <stop offset=\"0%\" stop-color=\"#F4A460\" />\n      <stop offset=\"100%\" stop-color=\"#CD853F\" />\n    </radialGradient>\n  </defs>\n  <rect width=\"64\" height=\"64\" fill=\"rgba(222, 184, 135, 0.2)\" rx=\"8\" />\n  <ellipse cx=\"32\" cy=\"42\" rx=\"24\" ry=\"12\" fill=\"url(#dust1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"20\" cy=\"25\" r=\"3\" fill=\"url(#particle1)\" opacity=\"0.8\" />\n  <circle cx=\"28\" cy=\"20\" r=\"2.5\" fill=\"url(#particle1)\" opacity=\"0.7\" />\n  <circle cx=\"36\" cy=\"22\" r=\"3.5\" fill=\"url(#particle1)\" opacity=\"0.75\" />\n  <circle cx=\"44\" cy=\"26\" r=\"2\" fill=\"url(#particle1)\" opacity=\"0.65\" />\n  <circle cx=\"32\" cy=\"16\" r=\"2.8\" fill=\"url(#particle1)\" opacity=\"0.8\" />\n  <circle cx=\"40\" cy=\"18\" r=\"2.2\" fill=\"url(#particle1)\" opacity=\"0.7\" />\n  <path d=\"M 24 30 Q 28 28 32 30 Q 36 32 40 30\" stroke=\"#A0522D\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" />\n</svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅)",
+        "עָפָר וָאֵפֶר (아파르 바에페르 - 티끌과 재)"
+      ]
+    },
+    {
+      "hebrew": "מִן-הָאֲדָמָה",
+      "meaning": "땅으로부터",
+      "ipa": "min haʔadaˈma",
+      "korean": "민 하아다마",
+      "letters": "מִן(min) + הָ(ha) + אֲ(a) + דָ(da) + מָה(ma)",
+      "root": "אֲדָמָה (아다마)",
+      "grammar": "전치사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"ground1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#8B4513\" />\n      <stop offset=\"50%\" stop-color=\"#A0522D\" />\n      <stop offset=\"100%\" stop-color=\"#654321\" />\n    </linearGradient>\n    <linearGradient id=\"grass1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#228B22\" />\n      <stop offset=\"100%\" stop-color=\"#32CD32\" />\n    </linearGradient>\n    <radialGradient id=\"glow2\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#ground1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" />\n  <path d=\"M 8 32 Q 16 28 24 32 Q 32 36 40 32 Q 48 28 56 32 L 56 56 Q 32 60 8 56 Z\" fill=\"url(#grass1)\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#glow2)\" opacity=\"0.4\" />\n  <path d=\"M 20 22 L 22 16 L 20 18 M 28 18 L 30 12 L 28 14 M 36 18 L 38 12 L 36 14 M 44 22 L 46 16 L 44 18\" stroke=\"#32CD32\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.8\" />\n</svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "עָפָר (아파르 - 흙)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּפַּח",
+      "meaning": "불어넣으셨다",
+      "ipa": "vajipˈpax",
+      "korean": "바입파흐",
+      "letters": "וַ(va) + יִּ(yi) + פַּ(pa) + ח(ch)",
+      "root": "נ-פ-ח (나파흐)",
+      "grammar": "동사",
+      "emoji": "💨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"breath1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"50%\" stop-color=\"#ADD8E6\" />\n      <stop offset=\"100%\" stop-color=\"#E0F6FF\" />\n    </linearGradient>\n    <radialGradient id=\"wind1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#87CEEB\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"18\" cy=\"32\" r=\"12\" fill=\"rgba(135, 206, 235, 0.2)\" />\n  <path d=\"M 18 32 Q 28 28 38 32 Q 48 36 58 32\" stroke=\"url(#breath1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 4px rgba(135, 206, 235, 0.5))\" />\n  <path d=\"M 18 26 Q 26 23 36 26\" stroke=\"url(#breath1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <path d=\"M 18 38 Q 26 41 36 38\" stroke=\"url(#breath1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <circle cx=\"40\" cy=\"32\" r=\"6\" fill=\"url(#wind1)\" opacity=\"0.5\" />\n  <circle cx=\"50\" cy=\"28\" r=\"4\" fill=\"url(#wind1)\" opacity=\"0.4\" />\n  <circle cx=\"48\" cy=\"36\" r=\"3.5\" fill=\"url(#wind1)\" opacity=\"0.45\" />\n  <path d=\"M 42 32 L 46 30 L 48 32 L 46 34 Z\" fill=\"#E0F6FF\" opacity=\"0.8\" />\n  <path d=\"M 50 26 L 52 24 L 54 26 L 52 28 Z\" fill=\"#E0F6FF\" opacity=\"0.7\" />\n</svg>"
+    },
+    {
+      "hebrew": "בְּאַפָּיו",
+      "meaning": "그의 코에",
+      "ipa": "bəʔapˈpav",
+      "korean": "베아파브",
+      "letters": "בְּ(be) + אַ(a) + פָּ(pa) + יו(yav)",
+      "root": "אַף (아프)",
+      "grammar": "명사",
+      "emoji": "👃",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"face1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE4B5\" />\n      <stop offset=\"100%\" stop-color=\"#F4A460\" />\n    </linearGradient>\n    <linearGradient id=\"airflow1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"100%\" stop-color=\"rgba(135, 206, 235, 0)\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"24\" fill=\"url(#face1)\" opacity=\"0.3\" />\n  <path d=\"M 28 28 Q 30 32 32 36 Q 34 32 36 28\" fill=\"url(#face1)\" stroke=\"#D2691E\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" />\n  <ellipse cx=\"30\" cy=\"38\" rx=\"2\" ry=\"3\" fill=\"#8B4513\" opacity=\"0.6\" />\n  <ellipse cx=\"34\" cy=\"38\" rx=\"2\" ry=\"3\" fill=\"#8B4513\" opacity=\"0.6\" />\n  <path d=\"M 36 32 Q 42 30 48 32\" stroke=\"url(#airflow1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <path d=\"M 36 34 Q 40 33 44 34\" stroke=\"url(#airflow1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <circle cx=\"45\" cy=\"32\" r=\"3\" fill=\"#87CEEB\" opacity=\"0.4\" />\n  <circle cx=\"42\" cy=\"35\" r=\"2\" fill=\"#ADD8E6\" opacity=\"0.5\" />\n</svg>"
+    },
+    {
+      "hebrew": "נִשְׁמַת",
+      "meaning": "숨, 생기",
+      "ipa": "nishˈmat",
+      "korean": "니쉬마트",
+      "letters": "נִ(ni) + שְׁ(sh) + מַ(ma) + ת(t)",
+      "root": "נ-ש-ם (나솀)",
+      "grammar": "명사",
+      "emoji": "🌬️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"spirit1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"40%\" stop-color=\"#E0F6FF\" />\n      <stop offset=\"100%\" stop-color=\"#87CEEB\" />\n    </radialGradient>\n    <linearGradient id=\"wave1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#ADD8E6\" />\n      <stop offset=\"50%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"100%\" stop-color=\"#4682B4\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#spirit1)\" filter=\"drop-shadow(0 0 12px rgba(135, 206, 235, 0.6))\" />\n  <path d=\"M 8 32 Q 16 24 24 32 Q 32 40 40 32 Q 48 24 56 32\" stroke=\"url(#wave1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" />\n  <path d=\"M 8 28 Q 16 20 24 28 Q 32 36 40 28 Q 48 20 56 28\" stroke=\"url(#wave1)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.6\" />\n  <path d=\"M 8 36 Q 16 28 24 36 Q 32 44 40 36 Q 48 28 56 36\" stroke=\"url(#wave1)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.6\" />\n  <circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.9\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 255, 0.9))\" />\n  <circle cx=\"44\" cy=\"26\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" />\n</svg>",
+      "relatedWords": [
+        "נְשָׁמָה (네솨마 - 영혼, 생명)",
+        "רוּחַ (루아흐 - 영, 바람)"
+      ]
+    },
+    {
+      "hebrew": "חַיִּים",
+      "meaning": "생명",
+      "ipa": "xajˈjim",
+      "korean": "하임",
+      "letters": "חַ(cha) + יִּ(yi) + ים(m)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "💚",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"life1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#00FF7F\" />\n      <stop offset=\"50%\" stop-color=\"#32CD32\" />\n      <stop offset=\"100%\" stop-color=\"#228B22\" />\n    </linearGradient>\n    <radialGradient id=\"heart1\">\n      <stop offset=\"0%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"100%\" stop-color=\"#FF1493\" />\n    </radialGradient>\n    <linearGradient id=\"pulse1\">\n      <stop offset=\"0%\" stop-color=\"#00FF00\" />\n      <stop offset=\"100%\" stop-color=\"#00FF7F\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(50, 205, 50, 0.1)\" />\n  <path d=\"M 32 24 Q 28 16 20 20 Q 12 24 16 32 L 32 48 L 48 32 Q 52 24 44 20 Q 36 16 32 24 Z\" fill=\"url(#heart1)\" filter=\"drop-shadow(0 4px 8px rgba(255, 20, 147, 0.5))\" />\n  <path d=\"M 8 32 L 14 32 L 18 28 L 22 36 L 26 24 L 30 32 L 34 32\" stroke=\"url(#pulse1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(0, 255, 127, 0.8))\" />\n  <path d=\"M 34 32 L 38 28 L 42 36 L 46 24 L 50 32 L 56 32\" stroke=\"url(#pulse1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(0, 255, 127, 0.8))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 255, 0.9))\" />\n</svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חָיָה (하야 - 살다, 생명)"
+      ]
+    },
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "되었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "✅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"become1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4169E1\" />\n      <stop offset=\"50%\" stop-color=\"#6495ED\" />\n      <stop offset=\"100%\" stop-color=\"#00BFFF\" />\n    </linearGradient>\n    <radialGradient id=\"spark1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#become1)\" opacity=\"0.3\" />\n  <path d=\"M 16 32 L 28 44 L 52 16\" stroke=\"url(#become1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(2px 2px 6px rgba(65, 105, 225, 0.6))\" />\n  <circle cx=\"28\" cy=\"44\" r=\"6\" fill=\"url(#spark1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" />\n  <circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"#4169E1\" opacity=\"0.6\" />\n  <circle cx=\"52\" cy=\"16\" r=\"4\" fill=\"#4169E1\" opacity=\"0.6\" />\n  <path d=\"M 20 18 L 22 14 L 24 18 L 22 16 Z\" fill=\"#FFD700\" opacity=\"0.8\" />\n  <path d=\"M 44 28 L 46 24 L 48 28 L 46 26 Z\" fill=\"#FFD700\" opacity=\"0.8\" />\n  <path d=\"M 28 52 L 30 48 L 32 52 L 30 50 Z\" fill=\"#FFD700\" opacity=\"0.8\" />\n</svg>"
+    },
+    {
+      "hebrew": "לְנֶפֶשׁ",
+      "meaning": "존재로, 영혼으로",
+      "ipa": "ləˈnɛfɛsh",
+      "korean": "레네페쉬",
+      "letters": "לְ(le) + נֶ(ne) + פֶשׁ(fesh)",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"soul1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E6E6FA\" />\n      <stop offset=\"50%\" stop-color=\"#D8BFD8\" />\n      <stop offset=\"100%\" stop-color=\"#DDA0DD\" />\n    </linearGradient>\n    <radialGradient id=\"essence1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#BA55D3\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(218, 112, 214, 0.15)\" />\n  <ellipse cx=\"32\" cy=\"28\" rx=\"16\" ry=\"12\" fill=\"url(#soul1)\" filter=\"drop-shadow(2px 2px 6px rgba(186, 85, 211, 0.4))\" />\n  <path d=\"M 16 28 Q 12 24 10 20 Q 8 16 12 14 L 16 28\" fill=\"url(#soul1)\" filter=\"drop-shadow(1px 1px 3px rgba(186, 85, 211, 0.3))\" />\n  <path d=\"M 48 28 Q 52 24 54 20 Q 56 16 52 14 L 48 28\" fill=\"url(#soul1)\" filter=\"drop-shadow(1px 1px 3px rgba(186, 85, 211, 0.3))\" />\n  <circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#essence1)\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.8))\" />\n  <ellipse cx=\"30\" cy=\"27\" rx=\"2\" ry=\"1.5\" fill=\"#9370DB\" />\n  <ellipse cx=\"34\" cy=\"27\" rx=\"2\" ry=\"1.5\" fill=\"#9370DB\" />\n  <path d=\"M 28 44 Q 32 48 36 44\" stroke=\"url(#soul1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" />\n  <path d=\"M 24 38 Q 28 42 32 38\" stroke=\"url(#soul1)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.5\" />\n  <path d=\"M 32 38 Q 36 42 40 38\" stroke=\"url(#soul1)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.5\" />\n</svg>",
+      "relatedWords": [
+        "נֶפֶשׁ (네페쉬 - 영혼, 생명)",
+        "רוּחַ (루아흐 - 영)"
+      ]
+    },
+    {
+      "hebrew": "חַיָּה",
+      "meaning": "살아있는",
+      "ipa": "xajˈja",
+      "korean": "하야",
+      "letters": "חַ(cha) + יָּ(ya) + ה(h)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "형용사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"living1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#228B22\" />\n      <stop offset=\"50%\" stop-color=\"#32CD32\" />\n      <stop offset=\"100%\" stop-color=\"#00FF7F\" />\n    </linearGradient>\n    <radialGradient id=\"glow3\">\n      <stop offset=\"0%\" stop-color=\"#FFFF00\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 255, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"52\" rx=\"12\" ry=\"4\" fill=\"rgba(139, 69, 19, 0.3)\" />\n  <path d=\"M 32 52 Q 30 44 28 36 Q 26 28 28 20\" stroke=\"url(#living1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(34, 139, 34, 0.4))\" />\n  <ellipse cx=\"24\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"url(#living1)\" opacity=\"0.7\" filter=\"drop-shadow(1px 1px 3px rgba(34, 139, 34, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"24\" rx=\"10\" ry=\"14\" fill=\"url(#living1)\" opacity=\"0.8\" filter=\"drop-shadow(1px 1px 3px rgba(34, 139, 34, 0.4))\" />\n  <ellipse cx=\"40\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"url(#living1)\" opacity=\"0.7\" filter=\"drop-shadow(1px 1px 3px rgba(34, 139, 34, 0.3))\" />\n  <circle cx=\"28\" cy=\"20\" r=\"6\" fill=\"url(#glow3)\" opacity=\"0.4\" />\n  <circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFFF00\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 0, 0.8))\" />\n  <circle cx=\"26\" cy=\"22\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" />\n  <circle cx=\"30\" cy=\"18\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" />\n</svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 7절은 인간 창조의 가장 상세한 기록입니다. 하나님께서 손수 흙으로 사람을 빚으시고 생명의 숨을 불어넣으셔서, 사람이 '살아있는 존재'(네페쉬 하야)가 되었다는 이 구절은 인간의 이중적 본성 - 물질적이면서도 영적인 존재 - 을 분명히 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּיצֶר (바이체르) - 도자기 만드는 자처럼 빚으시다",
+        "description": "히브리어 '야차르'는 도자기 장인이 점토를 빚는 것을 의미하는 단어입니다. 창세기 1장에서 '바라'(무에서 유로 창조하다)를 사용한 것과 달리, 여기서는 하나님이 이미 창조하신 흙을 가지고 정성스럽게 형상을 만드시는 모습을 그립니다.",
+        "points": [
+          "하나님은 사람을 대량 생산하지 않고 직접 손으로 빚으셨습니다",
+          "도자기 장인과 작품의 관계는 창조주와 피조물의 친밀함을 상징합니다",
+          "이사야 64:8에서도 '우리는 진흙이요 주는 토기장이시니'라고 표현합니다",
+          "사람은 하나님의 예술 작품이며 특별한 관심과 사랑의 대상입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עָפָר מִן-הָאֲדָמָה (아파르 민 하아다마) - 흙에서 온 흙",
+        "description": "'아파르'(티끌, 흙)와 '아다마'(땅)는 '아담'(사람)과 어원이 같습니다. 사람(아담)은 땅(아다마)에서 나왔으며, 흙으로 돌아갈 존재임을 이름 자체가 보여줍니다. 이는 인간의 겸손함과 피조물로서의 한계를 일깨웁니다.",
+        "points": [
+          "아담-아다마-아파르의 언어적 연결은 인간 존재의 본질을 드러냅니다",
+          "우리는 흙에서 왔고 흙으로 돌아갈 존재입니다 (창세기 3:19)",
+          "물질적 몸은 우리를 피조 세계와 연결시키며 창조 질서 안에 두십니다",
+          "그러나 이것이 전부가 아닙니다 - 하나님의 숨이 불어넣어졌기 때문입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּפַּח בְּאַפָּיו נִשְׁמַת חַיִּים (바입파흐 베아파브 니쉬마트 하임) - 생명의 숨을 불어넣으시다",
+        "description": "하나님께서 직접 사람의 코에 '생명의 숨'을 불어넣으셨습니다. '니쉬마트 하임'은 단순한 생물학적 호흡이 아니라 하나님으로부터 온 영적 생명을 의미합니다. 이는 다른 동물들과 구별되는 인간만의 특별한 창조 방식입니다.",
+        "points": [
+          "하나님의 입김이 직접 인간에게 전달되는 친밀한 행위입니다",
+          "생명의 숨은 육체적 생명뿐 아니라 영적 차원을 포함합니다",
+          "인간은 하나님의 형상으로 지음받아 하나님과 교제할 수 있는 존재입니다",
+          "요한복음 20:22에서 예수님이 제자들에게 숨을 내쉬며 성령을 주신 것과 연결됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְנֶפֶשׁ חַיָּה (레네페쉬 하야) - 살아있는 존재가 되다",
+        "description": "'네페쉬 하야'는 '살아있는 영혼/존재'를 의미합니다. 동물들도 '네페쉬 하야'로 불리지만(1:24), 인간의 경우 하나님의 직접적인 숨이 불어넣어진 특별한 '네페쉬'입니다. 인간은 단순히 살아 움직이는 것이 아니라, 하나님과 관계할 수 있는 인격적 존재입니다.",
+        "points": [
+          "네페쉬는 육체와 영이 결합된 통합적 존재를 의미합니다",
+          "인간은 영혼만도 아니고 육체만도 아니며, 둘의 조화로운 결합입니다",
+          "이 표현은 인간 생명의 신성함과 존엄성을 강조합니다",
+          "우리의 생명은 하나님께서 직접 불어넣으신 선물입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람을 흙으로 만드시고 숨을 불어넣으셨을까요?",
+      "answer": "하나님은 우리에게 두 가지를 모두 주고 싶으셨어요. 첫째는 흙으로 만든 몸인데, 이것으로 우리는 이 아름다운 세상을 만지고 느끼고 즐길 수 있어요. 둘째는 하나님의 숨인데, 이것으로 우리는 하나님을 알고 사랑하고 대화할 수 있게 되었어요. 마치 인형에 생명을 불어넣으시듯, 하나님은 우리를 특별한 친구로 만드셨답니다. 그래서 우리는 땅에 발을 딛고 살지만, 동시에 하늘을 바라보며 하나님을 생각할 수 있는 거예요!",
+      "bibleReferences": [
+        "욥기 33:4 - '하나님의 영이 나를 지으셨고 전능자의 숨결이 나를 살리시느니라'",
+        "전도서 12:7 - '흙은 여전히 땅으로 돌아가고 영은 그것을 주신 하나님께로 돌아가리라'",
+        "고린도전서 15:47 - '첫 사람은 땅에서 났으니 흙에 속한 자요'",
+        "요한복음 20:22 - '이 말씀을 하시고 그들을 향하사 숨을 내쉬며 이르시되 성령을 받으라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 2:7은 인간의 독특한 정체성을 계시합니다. 우리는 흙에서 왔지만(겸손), 하나님의 숨을 받았습니다(존귀). 물질적이면서도 영적이고, 땅에 속하면서도 하늘을 향합니다. 이 이중성은 우리의 연약함과 위대함을 동시에 보여주며, 예수 그리스도 안에서 완전히 회복됩니다. '마지막 아담'(고린도전서 15:45)이신 예수님은 살려주는 영이 되셔서, 우리에게 영원한 생명을 주십니다."
+    }
+  }
+}

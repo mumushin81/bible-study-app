@@ -1,0 +1,178 @@
+{
+  "id": "genesis_3_16",
+  "reference": "창세기 3:16",
+  "hebrew": "אֶֽל הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים וְאֶל אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל בָּֽךְ",
+  "ipa": "ʔɛl haʔiˈʃa ʔaˈmar harˈba ʔarˈbɛ ʕitsəvoˈneχ vəheˈroneχ bəʕˈɛtsɛv telˈdi vaˈnim vəʔɛl ʔiˈʃeχ təʃuqaˈteχ vəˈhu jimˈʃol baχ",
+  "koreanPronunciation": "엘 하이샤 아마르 하르바 아르베 이체보네크 베헤로네크 베에체브 텔디 바님 베엘 이셰크 테슈카테크 베후 임샬 바크",
+  "modern": "여자에게 말씀하시기를 내가 네 임신의 고통을 크게 더하리니 네가 수고하고 자식을 낳을 것이며 너는 남편을 사모하고 남편은 너를 다스릴 것이니라",
+  "words": [
+    {
+      "hebrew": "אֶֽל הָאִשָּׁה",
+      "meaning": "여자에게",
+      "ipa": "ʔɛl haʔiˈʃa",
+      "korean": "엘 하이샤",
+      "letters": "אֶל(el) + הָ(ha) + אִ(i) + שָּׁה(shah)",
+      "root": "אֶל (엘) + אִשָּׁה (이샤)",
+      "grammar": "전치사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"woman16_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"30%\" stop-color=\"#FFB6C1\" /><stop offset=\"70%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient><radialGradient id=\"glow16_1\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FFB6C1\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"grace16_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DDA0DD\" /><stop offset=\"50%\" stop-color=\"#DA70D6\" /><stop offset=\"100%\" stop-color=\"#BA55D3\" /></linearGradient><linearGradient id=\"life16_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow16_1)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#glow16_1)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#woman16_1)\" filter=\"drop-shadow(0 4px 8px rgba(255, 105, 180, 0.5))\" /><ellipse cx=\"32\" cy=\"48\" rx=\"14\" ry=\"10\" fill=\"url(#woman16_1)\" opacity=\"0.9\" filter=\"drop-shadow(0 3px 6px rgba(255, 20, 147, 0.4))\" /><circle cx=\"29\" cy=\"26\" r=\"2\" fill=\"#8B4513\" opacity=\"0.8\" /><circle cx=\"35\" cy=\"26\" r=\"2\" fill=\"#8B4513\" opacity=\"0.8\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF1493\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><g opacity=\"0.8\"><path d=\"M 22 28 Q 20 32 18 36\" stroke=\"url(#life16_1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 42 28 Q 44 32 46 36\" stroke=\"url(#life16_1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /></g><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#grace16_1)\" opacity=\"0.4\" filter=\"drop-shadow(0 2px 6px rgba(218, 112, 214, 0.5))\" /><path d=\"M 26 18 Q 32 12 38 18\" stroke=\"url(#grace16_1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "חַוָּה (하와 - 이브, 생명)",
+        "אִישׁ (이쉬 - 남자)"
+      ]
+    },
+    {
+      "hebrew": "אָמַר",
+      "meaning": "말씀하셨다",
+      "ipa": "ʔaˈmar",
+      "korean": "아마르",
+      "letters": "אָ(a) + מַר(mar)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech16_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E6E6FA\" /><stop offset=\"30%\" stop-color=\"#DDA0DD\" /><stop offset=\"70%\" stop-color=\"#DA70D6\" /><stop offset=\"100%\" stop-color=\"#BA55D3\" /></linearGradient><radialGradient id=\"voice16_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /><stop offset=\"40%\" stop-color=\"#DDA0DD\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#BA55D3\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"word16_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"divine16_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8A2BE2\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#voice16_2)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#voice16_2)\" opacity=\"0.6\" /><path d=\"M 12 38 Q 12 28 18 24 Q 24 20 32 20 Q 40 20 46 24 Q 52 28 52 38 L 48 42 L 32 52 L 16 42 Z\" fill=\"url(#speech16_2)\" filter=\"drop-shadow(0 4px 8px rgba(186, 85, 211, 0.5))\" opacity=\"0.9\" /><path d=\"M 12 38 Q 12 30 18 26 Q 24 22 32 22 Q 40 22 46 26 Q 52 30 52 38\" fill=\"url(#speech16_2)\" opacity=\"0.7\" /><g opacity=\"0.8\"><circle cx=\"26\" cy=\"32\" r=\"2.5\" fill=\"url(#word16_2)\" filter=\"drop-shadow(0 0 4px rgba(255, 165, 0, 0.7))\" /><circle cx=\"32\" cy=\"32\" r=\"2.5\" fill=\"url(#word16_2)\" filter=\"drop-shadow(0 0 4px rgba(255, 165, 0, 0.7))\" /><circle cx=\"38\" cy=\"32\" r=\"2.5\" fill=\"url(#word16_2)\" filter=\"drop-shadow(0 0 4px rgba(255, 165, 0, 0.7))\" /></g><g opacity=\"0.7\"><path d=\"M 32 20 Q 32 14 32 10\" stroke=\"url(#divine16_2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><path d=\"M 24 22 Q 20 18 18 14\" stroke=\"url(#divine16_2)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 40 22 Q 44 18 46 14\" stroke=\"url(#divine16_2)\" stroke-width=\"2\" stroke-linecap=\"round\" /></g></svg>"
+    },
+    {
+      "hebrew": "הַרְבָּה אַרְבֶּה",
+      "meaning": "내가 크게 더하리니",
+      "ipa": "harˈba ʔarˈbɛ",
+      "korean": "하르바 아르베",
+      "letters": "הַ(ha) + רְבָּה(rbah) + אַ(a) + רְבֶּה(rbeh)",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "동사",
+      "emoji": "📈",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"multiply16_3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B0000\" /><stop offset=\"30%\" stop-color=\"#DC143C\" /><stop offset=\"70%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#FFA07A\" /></linearGradient><radialGradient id=\"increase16_3\"><stop offset=\"0%\" stop-color=\"#FF6347\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#DC143C\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#8B0000\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"intensity16_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#FF7F50\" /></linearGradient><linearGradient id=\"severity16_3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#increase16_3)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#increase16_3)\" opacity=\"0.6\" /><g opacity=\"0.9\"><path d=\"M 10 50 L 18 42 L 26 46 L 34 36 L 42 38 L 50 24 L 54 20\" stroke=\"url(#multiply16_3)\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 6px rgba(220, 20, 60, 0.6))\" /><circle cx=\"18\" cy=\"42\" r=\"3\" fill=\"url(#intensity16_3)\" filter=\"drop-shadow(0 2px 4px rgba(255, 69, 0, 0.5))\" /><circle cx=\"26\" cy=\"46\" r=\"3\" fill=\"url(#intensity16_3)\" filter=\"drop-shadow(0 2px 4px rgba(255, 69, 0, 0.5))\" /><circle cx=\"34\" cy=\"36\" r=\"3\" fill=\"url(#intensity16_3)\" filter=\"drop-shadow(0 2px 4px rgba(255, 69, 0, 0.5))\" /><circle cx=\"42\" cy=\"38\" r=\"3\" fill=\"url(#intensity16_3)\" filter=\"drop-shadow(0 2px 4px rgba(255, 69, 0, 0.5))\" /><circle cx=\"50\" cy=\"24\" r=\"4\" fill=\"url(#intensity16_3)\" filter=\"drop-shadow(0 3px 6px rgba(255, 69, 0, 0.7))\" /><circle cx=\"54\" cy=\"20\" r=\"5\" fill=\"url(#multiply16_3)\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 0, 0.8))\" /></g><g opacity=\"0.6\"><line x1=\"10\" y1=\"54\" x2=\"54\" y2=\"54\" stroke=\"url(#severity16_3)\" stroke-width=\"2\" /><line x1=\"10\" y1=\"54\" x2=\"10\" y2=\"16\" stroke=\"url(#severity16_3)\" stroke-width=\"2\" /></g><path d=\"M 48 14 L 54 20 L 48 20 Z\" fill=\"url(#multiply16_3)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "רָבָה (라바 - 많아지다, 증가하다)",
+        "רַב (라브 - 많은, 큰)"
+      ]
+    },
+    {
+      "hebrew": "עִצְּבוֹנֵךְ וְהֵֽרֹנֵךְ",
+      "meaning": "네 고통과 임신",
+      "ipa": "ʕitsəvoˈneχ vəheˈroneχ",
+      "korean": "이체보네크 베헤로네크",
+      "letters": "עִ(i) + צְּ(tse) + בוֹ(vo) + נֵךְ(nech) + וְ(ve) + הֵ(he) + רֹ(ro) + נֵךְ(nech)",
+      "root": "ע-צ-ב (아차브) + ה-ר-ה (하라)",
+      "grammar": "명사",
+      "emoji": "😰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pain16_4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4B0082\" /><stop offset=\"30%\" stop-color=\"#8B008B\" /><stop offset=\"70%\" stop-color=\"#9932CC\" /><stop offset=\"100%\" stop-color=\"#BA55D3\" /></linearGradient><radialGradient id=\"suffering16_4\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.7\" /><stop offset=\"50%\" stop-color=\"#4B0082\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#8B008B\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"pregnancy16_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient><linearGradient id=\"burden16_4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#suffering16_4)\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#suffering16_4)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#pain16_4)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 12px rgba(139, 0, 139, 0.5))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"22\" fill=\"url(#pregnancy16_4)\" opacity=\"0.4\" filter=\"drop-shadow(0 4px 8px rgba(255, 105, 180, 0.4))\" /><g opacity=\"0.8\"><path d=\"M 20 20 Q 22 26 20 32\" stroke=\"url(#pain16_4)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 139, 0.6))\" /><path d=\"M 44 20 Q 42 26 44 32\" stroke=\"url(#pain16_4)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 139, 0.6))\" /><path d=\"M 26 16 Q 32 18 38 16\" stroke=\"url(#pain16_4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 32 12 L 32 18\" stroke=\"url(#pain16_4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g><circle cx=\"32\" cy=\"40\" r=\"12\" fill=\"url(#pregnancy16_4)\" opacity=\"0.6\" filter=\"drop-shadow(0 3px 6px rgba(255, 20, 147, 0.5))\" /><circle cx=\"32\" cy=\"40\" r=\"8\" fill=\"url(#pregnancy16_4)\" opacity=\"0.4\" /><g opacity=\"0.7\"><path d=\"M 18 36 Q 16 38 14 40\" stroke=\"url(#burden16_4)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 46 36 Q 48 38 50 40\" stroke=\"url(#burden16_4)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 52 L 32 58\" stroke=\"url(#burden16_4)\" stroke-width=\"3\" stroke-linecap=\"round\" /></g></svg>",
+      "relatedWords": [
+        "עֶצֶב (에체브 - 고통, 수고)",
+        "הֵרָיוֹן (헤라욘 - 임신)"
+      ]
+    },
+    {
+      "hebrew": "בְּעֶצֶב תֵּֽלְדִי בָנִים",
+      "meaning": "수고하며 자식을 낳을 것이다",
+      "ipa": "bəʕˈɛtsɛv telˈdi vaˈnim",
+      "korean": "베에체브 텔디 바님",
+      "letters": "בְּ(be) + עֶ(e) + צֶב(tsev) + תֵּ(te) + לְדִי(ldi) + בָּ(ba) + נִים(nim)",
+      "root": "ע-צ-ב (아차브) + י-ל-ד (얄라드) + בֵּן (벤)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birth16_5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"30%\" stop-color=\"#FFB6C1\" /><stop offset=\"70%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient><radialGradient id=\"newlife16_5\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" stop-opacity=\"1\" /><stop offset=\"40%\" stop-color=\"#FFB6C1\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"labor16_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B008B\" /><stop offset=\"50%\" stop-color=\"#9932CC\" /><stop offset=\"100%\" stop-color=\"#BA55D3\" /></linearGradient><linearGradient id=\"child16_5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#newlife16_5)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#newlife16_5)\" opacity=\"0.6\" /><g opacity=\"0.9\"><ellipse cx=\"32\" cy=\"38\" rx=\"16\" ry=\"20\" fill=\"url(#birth16_5)\" opacity=\"0.5\" filter=\"drop-shadow(0 4px 8px rgba(255, 105, 180, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#child16_5)\" filter=\"drop-shadow(0 3px 6px rgba(70, 130, 180, 0.5))\" /><circle cx=\"30\" cy=\"30\" r=\"2\" fill=\"#8B4513\" opacity=\"0.8\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#8B4513\" opacity=\"0.8\" /><path d=\"M 29 35 Q 32 37 35 35\" stroke=\"#FF69B4\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" /></g><g opacity=\"0.7\"><path d=\"M 16 32 Q 14 36 16 40\" stroke=\"url(#labor16_5)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(153, 50, 204, 0.5))\" /><path d=\"M 48 32 Q 50 36 48 40\" stroke=\"url(#labor16_5)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(153, 50, 204, 0.5))\" /><path d=\"M 20 28 Q 18 30 16 32\" stroke=\"url(#labor16_5)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><path d=\"M 44 28 Q 46 30 48 32\" stroke=\"url(#labor16_5)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g><g opacity=\"0.6\"><circle cx=\"24\" cy=\"48\" r=\"3\" fill=\"url(#birth16_5)\" /><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"url(#birth16_5)\" /><circle cx=\"40\" cy=\"48\" r=\"3\" fill=\"url(#birth16_5)\" /></g><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"url(#child16_5)\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 4px rgba(30, 144, 255, 0.4))\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "בֵּן (벤 - 아들, 자식)"
+      ]
+    },
+    {
+      "hebrew": "וְאֶל אִישֵׁךְ תְּשׁוּקָתֵךְ",
+      "meaning": "너는 남편을 사모하고",
+      "ipa": "vəʔɛl ʔiˈʃeχ təʃuqaˈteχ",
+      "korean": "베엘 이셰크 테슈카테크",
+      "letters": "וְ(ve) + אֶל(el) + אִי(i) + שֵׁךְ(shech) + תְּ(te) + שׁוּ(shu) + קָ(qa) + תֵךְ(tech)",
+      "root": "אֶל (엘) + אִישׁ (이쉬) + ת-שׁ-ק (타슈크)",
+      "grammar": "명사",
+      "emoji": "💕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"desire16_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"30%\" stop-color=\"#FF69B4\" /><stop offset=\"70%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FFC0CB\" /></linearGradient><radialGradient id=\"longing16_6\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"40%\" stop-color=\"#FF69B4\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#FF1493\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"love16_6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"50%\" stop-color=\"#C71585\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></linearGradient><linearGradient id=\"husband16_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#1E90FF\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#longing16_6)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#longing16_6)\" opacity=\"0.6\" /><g opacity=\"0.9\"><path d=\"M 32 14 C 32 14, 20 20, 20 30 C 20 36, 24 42, 32 48 C 40 42, 44 36, 44 30 C 44 20, 32 14, 32 14 Z\" fill=\"url(#desire16_6)\" filter=\"drop-shadow(0 4px 8px rgba(255, 105, 180, 0.6))\" /><path d=\"M 32 14 C 32 14, 22 18, 22 28 C 22 34, 26 40, 32 46 C 38 40, 42 34, 42 28 C 42 18, 32 14, 32 14 Z\" fill=\"url(#love16_6)\" opacity=\"0.5\" /></g><g opacity=\"0.8\"><circle cx=\"26\" cy=\"26\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(255, 255, 255, 0.7))\" /><circle cx=\"38\" cy=\"26\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(255, 255, 255, 0.7))\" /><path d=\"M 26 34 Q 32 38 38 34\" stroke=\"#FFFFFF\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.9\" /></g><g opacity=\"0.7\"><path d=\"M 16 32 Q 12 32 10 28\" stroke=\"url(#desire16_6)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 48 32 Q 52 32 54 28\" stroke=\"url(#desire16_6)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><circle cx=\"10\" cy=\"28\" r=\"2.5\" fill=\"url(#love16_6)\" filter=\"drop-shadow(0 0 4px rgba(220, 20, 60, 0.7))\" /><circle cx=\"54\" cy=\"28\" r=\"2.5\" fill=\"url(#love16_6)\" filter=\"drop-shadow(0 0 4px rgba(220, 20, 60, 0.7))\" /></g><path d=\"M 32 48 Q 32 52 32 56\" stroke=\"url(#husband16_6)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "תְּשׁוּקָה (테슈카 - 열망, 갈망)",
+        "אִישׁ (이쉬 - 남편, 남자)"
+      ]
+    },
+    {
+      "hebrew": "וְהוּא יִמְשָׁל בָּךְ",
+      "meaning": "그가 너를 다스릴 것이다",
+      "ipa": "vəˈhu jimˈʃol baχ",
+      "korean": "베후 임샬 바크",
+      "letters": "וְ(ve) + הוּא(hu) + יִ(yi) + מְשָׁל(mshal) + בָּךְ(bach)",
+      "root": "הוּא (후) + מ-שׁ-ל (마샬) + בְּ (베)",
+      "grammar": "동사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rule16_7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"30%\" stop-color=\"#1E90FF\" /><stop offset=\"70%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#5F9EA0\" /></linearGradient><radialGradient id=\"authority16_7\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#4682B4\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"dominion16_7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"order16_7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#483D8B\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#authority16_7)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#authority16_7)\" opacity=\"0.6\" /><g opacity=\"0.9\"><path d=\"M 12 42 L 16 32 L 22 36 L 32 26 L 42 36 L 48 32 L 52 42 Z\" fill=\"url(#dominion16_7)\" stroke=\"#FF8C00\" stroke-width=\"2.5\" filter=\"drop-shadow(0 4px 8px rgba(255, 165, 0, 0.6))\" /><rect x=\"12\" y=\"42\" width=\"40\" height=\"6\" rx=\"2\" fill=\"url(#dominion16_7)\" filter=\"drop-shadow(0 3px 6px rgba(255, 140, 0, 0.5))\" /><circle cx=\"32\" cy=\"34\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /></g><g opacity=\"0.8\"><rect x=\"30\" y=\"48\" width=\"4\" height=\"10\" rx=\"1\" fill=\"url(#rule16_7)\" filter=\"drop-shadow(2px 2px 4px rgba(70, 130, 180, 0.5))\" /><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"url(#dominion16_7)\" /></g><g opacity=\"0.7\"><line x1=\"20\" y1=\"54\" x2=\"44\" y2=\"54\" stroke=\"url(#order16_7)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"22\" y1=\"56\" x2=\"42\" y2=\"56\" stroke=\"url(#order16_7)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"24\" y1=\"58\" x2=\"40\" y2=\"58\" stroke=\"url(#order16_7)\" stroke-width=\"2\" stroke-linecap=\"round\" /></g><g opacity=\"0.6\"><line x1=\"32\" y1=\"20\" x2=\"32\" y2=\"26\" stroke=\"url(#dominion16_7)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"20\" y1=\"26\" x2=\"24\" y2=\"30\" stroke=\"url(#dominion16_7)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"44\" y1=\"26\" x2=\"40\" y2=\"30\" stroke=\"url(#dominion16_7)\" stroke-width=\"2\" stroke-linecap=\"round\" /></g></svg>",
+      "relatedWords": [
+        "מָשַׁל (마샬 - 다스리다, 통치하다)",
+        "מֶמְשָׁלָה (멤샬라 - 통치, 지배)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3장 16절은 하나님께서 여자에게 선포하신 타락의 결과입니다. 이 구절은 출산의 고통과 부부관계의 변화라는 두 가지 주요 결과를 담고 있습니다. 이는 단순히 형벌이 아니라, 죄가 가장 친밀한 관계들(모자관계, 부부관계)에 어떻게 영향을 미치는지를 보여주는 슬픈 현실입니다. 그러나 동시에 이 구절은 여자가 생명을 낳는 자로서의 역할을 계속할 것임을 암시하며, 3:15의 '여자의 후손'을 통한 구원의 약속과 연결됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הַרְבָּה אַרְבֶּה (하르바 아르베) - 크게 더하는 고통",
+        "description": "히브리어에서 동사를 두 번 반복하는 것(부정사 절대형)은 강조를 나타냅니다. '하르바 아르베'는 '크게 크게 하다' 즉 '매우 크게 증가시키다'는 의미로, 출산의 고통이 극심할 것임을 강조합니다. 이는 원래 창조 계획에는 없었던 것으로, 죄의 직접적 결과입니다.",
+        "points": [
+          "출산의 고통은 죄가 들어온 후 새롭게 생긴 것으로 원래 하나님의 창조 계획에는 없었습니다",
+          "동사의 반복(히브리어 강조 구문)은 이 고통의 극심함을 나타냅니다",
+          "이 고통은 단순히 육체적인 것뿐 아니라 자녀 양육의 전 과정을 포함합니다",
+          "그러나 이것은 저주가 아니라 타락의 결과이며, 여자는 여전히 생명을 낳는 축복을 가집니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עִצְּבוֹן וְהֵרֹן (이체보논 베헤론) - 고통과 임신",
+        "description": "'이체보논'은 고통, 수고, 슬픔을 의미하는 단어로 3:17에서 아담이 땅을 경작할 때 겪는 '수고'와 같은 어근(ע-צ-ב)에서 나왔습니다. 이는 남자와 여자가 각각 자신의 영역에서 고통을 경험할 것을 보여줍니다. '헤론'은 임신, 잉태를 의미하며 출산 전 과정을 포함합니다.",
+        "points": [
+          "여자의 고통(이체보논)과 남자의 수고(이차본, 3:17)는 같은 어근으로 죄의 보편적 영향을 보여줍니다",
+          "임신과 출산 전 과정이 고통을 동반하게 되었지만 이것은 생명을 낳는 특권과 함께 옵니다",
+          "이 고통은 단순히 육체적인 것이 아니라 자녀를 잉태하고 키우는 전 과정의 어려움을 포함합니다",
+          "그러나 디모데전서 2:15는 '해산함으로 구원을 얻으리라'고 하여 메시아 탄생의 소망을 암시합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "תְּשׁוּקָה (테슈카) - 갈망과 의존",
+        "description": "'테슈카'는 강한 열망, 갈망을 의미하는 단어로 성경에 세 번만 나타납니다(창 3:16, 4:7, 아 7:10). 이 단어는 중립적일 수 있지만 문맥상 부정적 의미를 가질 수 있습니다. 4:7에서 '죄의 소원은 네게 있으나'에서 같은 단어가 사용되어, 지배하려는 욕구나 부적절한 의존을 암시할 수 있습니다.",
+        "points": [
+          "이 단어의 정확한 의미는 학자들 사이에 논쟁이 있지만, 부부관계의 왜곡을 나타냅니다",
+          "원래 창조된 평등하고 상호 보완적이던 관계가 불균형해졌음을 보여줍니다",
+          "아가서 7:10에서는 이 단어가 긍정적으로 사용되어 회복된 사랑을 나타냅니다",
+          "이것은 죄가 가장 친밀한 관계조차 왜곡시킨다는 슬픈 현실입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יִמְשָׁל בָּךְ (임샬 바크) - 다스림의 변질",
+        "description": "'마샬'은 다스리다, 통치하다는 의미입니다. 원래 창조 시 남자와 여자는 함께 땅을 다스리도록 창조되었으나(1:26-28), 타락 후 이 지배권이 부부 관계 내에서 왜곡되었습니다. 이는 하나님의 원래 계획이 아니라 죄의 결과로 생긴 불평등입니다.",
+        "points": [
+          "이것은 하나님이 명령하신 것이 아니라 타락의 결과로 생긴 현실을 설명하는 것입니다",
+          "원래 창조 시 남자와 여자는 평등하게 창조되었고 함께 땅을 다스렸습니다(1:26-28)",
+          "이 다스림은 사랑과 섬김이 아닌 지배와 억압으로 왜곡될 가능성을 암시합니다",
+          "그리스도 안에서 이 관계는 회복되며(갈 3:28, 엡 5:21-33) 상호 존중과 사랑으로 변화됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 여자에게 아기를 낳을 때 아프다고 하셨을까요?",
+      "answer": "이것은 벌이라기보다는 이브가 하나님께 불순종했을 때 생긴 슬픈 결과예요. 원래 하나님이 만드신 세상에는 아픔이 없었어요. 하지만 죄가 들어온 후에 많은 것들이 어려워졌어요. 엄마가 아기를 낳을 때 아픈 것처럼요. 그래도 하나님은 여자들이 여전히 아기를 낳아서 생명을 주는 아름다운 일을 할 수 있게 하셨어요. 그리고 나중에 한 여자(마리아)를 통해 예수님이 태어나셔서 우리를 죄에서 구해주셨답니다! 아픔이 있지만 그 속에서도 하나님의 사랑과 구원의 계획이 있어요.",
+      "bibleReferences": [
+        "창세기 3:15 - 내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요",
+        "디모데전서 2:15 - 그러나 여자들이 만일 정숙함으로써 믿음과 사랑과 거룩함에 거하면 그의 해산함으로 구원을 얻으리라",
+        "이사야 7:14 - 그러므로 주께서 친히 징조를 너희에게 주실 것이라 보라 처녀가 잉태하여 아들을 낳을 것이요",
+        "갈라디아서 4:4 - 때가 차매 하나님이 그 아들을 보내사 여자에게서 나게 하시고"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:16은 죄가 인간의 가장 근본적인 관계들에 미친 영향을 보여줍니다. 출산의 고통과 부부관계의 불균형은 모두 타락의 결과이지 하나님의 원래 계획이 아니었습니다. 그러나 이 구절은 동시에 희망을 담고 있습니다. 여자는 여전히 생명을 낳는 자로서의 역할을 가지며, 이는 3:15의 '여자의 후손'을 통한 구원의 약속으로 이어집니다. 예수 그리스도께서 여자(마리아)에게서 나심으로 이 약속은 성취되었고, 그분의 십자가를 통해 죄의 모든 결과로부터의 궁극적 해방이 가능해졌습니다. 그리스도 안에서 남자와 여자의 관계는 원래의 평등과 상호 존중으로 회복되며(갈라디아서 3:28, 에베소서 5:21-33), 출산의 고통조차 영광스러운 부활의 소망 안에서 의미를 찾게 됩니다(로마서 8:18-23)."
+    }
+  }
+}

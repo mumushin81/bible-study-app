@@ -1,0 +1,195 @@
+{
+  "id": "genesis_3_21",
+  "reference": "창세기 3:21",
+  "hebrew": "וַיַּעַשׂ֩ יְהוָ֨ה אֱלֹהִ֜ים לְאָדָ֧ם וּלְאִשְׁתּ֛וֹ כָּתְנ֥וֹת ע֖וֹר וַיַּלְבִּשֵֽׁם",
+  "ipa": "vajˈjaʕaś jəhoˈvɑ ʔɛloˈhim ləʔɑˈdɑm ulə-ʔiʃˈto kɑtəˈnot ʕoˈr vajjalbəˈʃem",
+  "koreanPronunciation": "바야아스 아도나이 엘로힘 레아담 울이쉬토 카트노트 오르 바얄비쉠",
+  "modern": "여호와 하나님께서 아담과 그의 아내에게 가죽옷을 지어 입히셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "ipa": "vajˈjaʕaś",
+      "korean": "바야아스",
+      "letters": "וַ(va) + יַּ(ya) + עַ(a) + שׂ(s)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사",
+      "emoji": "🔨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hammer_vayaas\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A8A8A8\" /><stop offset=\"50%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#2F2F2F\" /></linearGradient><linearGradient id=\"handle_vayaas\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"50%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#5C2E0C\" /></linearGradient><radialGradient id=\"glow_vayaas\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"spark_vayaas\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_vayaas)\" /><rect x=\"38\" y=\"10\" width=\"12\" height=\"20\" rx=\"2\" fill=\"url(#hammer_vayaas)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"30\" y=\"28\" width=\"8\" height=\"32\" rx=\"3\" fill=\"url(#handle_vayaas)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 24 L 24 20 L 22 18\" stroke=\"url(#spark_vayaas)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><circle cx=\"18\" cy=\"22\" r=\"2\" fill=\"url(#spark_vayaas)\" opacity=\"0.9\" /><path d=\"M 52 18 L 54 14 L 56 16\" stroke=\"url(#spark_vayaas)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><circle cx=\"55\" cy=\"20\" r=\"1.5\" fill=\"url(#spark_vayaas)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "עֲשִׂיָּה (아시야 - 만드는 것, 행위)",
+        "מַעֲשֶׂה (마아세 - 작품, 행위)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈvɑ",
+      "korean": "아도나이",
+      "letters": "יְ(ye) + הוָ(ho) + ה(vah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "✝️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"light_yhwh\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#FFF9E6\" /><stop offset=\"60%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"ray1_yhwh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.3\" /></linearGradient><linearGradient id=\"ray2_yhwh\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0.3\" /></linearGradient><radialGradient id=\"halo_yhwh\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#halo_yhwh)\" /><path d=\"M 32 8 L 36 24 L 32 32 L 28 24 Z\" fill=\"url(#ray1_yhwh)\" /><path d=\"M 56 32 L 40 36 L 32 32 L 40 28 Z\" fill=\"url(#ray2_yhwh)\" /><path d=\"M 32 56 L 28 40 L 32 32 L 36 40 Z\" fill=\"url(#ray1_yhwh)\" /><path d=\"M 8 32 L 24 28 L 32 32 L 24 36 Z\" fill=\"url(#ray2_yhwh)\" /><path d=\"M 48 16 L 38 26 L 32 32 L 36 24 Z\" fill=\"url(#ray1_yhwh)\" opacity=\"0.7\" /><path d=\"M 48 48 L 38 38 L 32 32 L 40 36 Z\" fill=\"url(#ray2_yhwh)\" opacity=\"0.7\" /><path d=\"M 16 48 L 26 38 L 32 32 L 24 40 Z\" fill=\"url(#ray1_yhwh)\" opacity=\"0.7\" /><path d=\"M 16 16 L 26 26 L 32 32 L 28 24 Z\" fill=\"url(#ray2_yhwh)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#light_yhwh)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><text x=\"32\" y=\"36\" font-family=\"serif\" font-size=\"10\" font-weight=\"bold\" fill=\"#8B4513\" text-anchor=\"middle\" opacity=\"0.6\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_elohim21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"jewel_elohim21\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim21)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#crown_elohim21)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"11\" y=\"50\" width=\"42\" height=\"8\" rx=\"2\" fill=\"url(#crown_elohim21)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim21)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel_elohim21)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim21)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><path d=\"M 28 28 L 30 24 L 32 28 Z\" fill=\"#FFFFFF\" opacity=\"0.4\" /><path d=\"M 32 24 L 34 20 L 36 24 Z\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 권능자)",
+        "יְהוָה (여호와 - 주님, 스스로 있는 자)"
+      ]
+    },
+    {
+      "hebrew": "לְאָדָם",
+      "meaning": "아담에게",
+      "ipa": "ləʔɑˈdɑm",
+      "korean": "레아담",
+      "letters": "לְ(le) + אָ(a) + דָ(da) + ם(m)",
+      "root": "אָדָם (아담)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"face_adam\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\" /><stop offset=\"50%\" stop-color=\"#D2A679\" /><stop offset=\"100%\" stop-color=\"#A67C52\" /></linearGradient><radialGradient id=\"glow_adam\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#D2691E\" opacity=\"0\" /></radialGradient><linearGradient id=\"hair_adam\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#654321\" /><stop offset=\"100%\" stop-color=\"#3E2723\" /></linearGradient><radialGradient id=\"earth_adam\"><stop offset=\"0%\" stop-color=\"#C19A6B\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_adam)\" /><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"8\" fill=\"url(#earth_adam)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#face_adam)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"16\" rx=\"16\" ry=\"10\" fill=\"url(#hair_adam)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#3E2723\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#3E2723\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 42 L 32 52\" stroke=\"url(#face_adam)\" stroke-width=\"8\" stroke-linecap=\"round\" /><path d=\"M 20 48 L 32 44 L 44 48\" stroke=\"url(#face_adam)\" stroke-width=\"6\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙, 땅)",
+        "אָדֹם (아돔 - 붉다, 붉은색)"
+      ]
+    },
+    {
+      "hebrew": "וּלְאִשְׁתּוֹ",
+      "meaning": "그리고 그의 아내에게",
+      "ipa": "ulə-ʔiʃˈto",
+      "korean": "울이쉬토",
+      "letters": "וּ(u) + לְ(le) + אִ(i) + שְׁתּ(sht) + וֹ(o)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"face_ishto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"50%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#D2A679\" /></linearGradient><radialGradient id=\"glow_ishto\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" opacity=\"0\" /></radialGradient><linearGradient id=\"hair_ishto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#654321\" /><stop offset=\"50%\" stop-color=\"#3E2723\" /><stop offset=\"100%\" stop-color=\"#1A0F0A\" /></linearGradient><linearGradient id=\"dress_ishto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient><radialGradient id=\"heart_ishto\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_ishto)\" /><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#face_ishto)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"14\" rx=\"14\" ry=\"8\" fill=\"url(#hair_ishto)\" /><path d=\"M 20 18 Q 18 28 20 36\" stroke=\"url(#hair_ishto)\" stroke-width=\"4\" fill=\"none\" /><path d=\"M 44 18 Q 46 28 44 36\" stroke=\"url(#hair_ishto)\" stroke-width=\"4\" fill=\"none\" /><circle cx=\"28\" cy=\"24\" r=\"1.5\" fill=\"#3E2723\" /><circle cx=\"36\" cy=\"24\" r=\"1.5\" fill=\"#3E2723\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 38 L 22 52 L 32 50 L 42 52 Z\" fill=\"url(#dress_ishto)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 18 48 Q 18 44 22 44 Q 22 48 18 48\" fill=\"url(#heart_ishto)\" opacity=\"0.6\" /><path d=\"M 46 48 Q 46 44 42 44 Q 42 48 46 48\" fill=\"url(#heart_ishto)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자)",
+        "חַוָּה (하와 - 이브, 생명)"
+      ]
+    },
+    {
+      "hebrew": "כָּתְנוֹת",
+      "meaning": "옷들",
+      "ipa": "kɑtəˈnot",
+      "korean": "카트노트",
+      "letters": "כָּ(ka) + תְ(te) + נ(n) + וֹת(ot)",
+      "root": "כְּתֹנֶת (케토넷)",
+      "grammar": "명사",
+      "emoji": "👕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fabric_katnot\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\" /><stop offset=\"30%\" stop-color=\"#DEB887\" /><stop offset=\"70%\" stop-color=\"#D2B48C\" /><stop offset=\"100%\" stop-color=\"#BC987E\" /></linearGradient><linearGradient id=\"shadow_katnot\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#654321\" opacity=\"0.5\" /></linearGradient><radialGradient id=\"glow_katnot\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#DEB887\" opacity=\"0\" /></radialGradient><linearGradient id=\"fold_katnot\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#D2B48C\" /><stop offset=\"50%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_katnot)\" /><path d=\"M 32 12 L 20 20 L 20 52 L 32 56 L 44 52 L 44 20 Z\" fill=\"url(#fabric_katnot)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"26\" cy=\"16\" rx=\"6\" ry=\"4\" fill=\"url(#fabric_katnot)\" /><ellipse cx=\"38\" cy=\"16\" rx=\"6\" ry=\"4\" fill=\"url(#fabric_katnot)\" /><path d=\"M 32 16 L 32 28\" stroke=\"url(#fold_katnot)\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 24 30 L 24 50\" stroke=\"url(#shadow_katnot)\" stroke-width=\"1.5\" opacity=\"0.4\" /><path d=\"M 40 30 L 40 50\" stroke=\"url(#shadow_katnot)\" stroke-width=\"1.5\" opacity=\"0.4\" /><rect x=\"20\" y=\"20\" width=\"24\" height=\"4\" fill=\"url(#fold_katnot)\" opacity=\"0.6\" rx=\"1\" /><path d=\"M 22 26 Q 24 28 26 26\" stroke=\"url(#shadow_katnot)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 38 26 Q 40 28 42 26\" stroke=\"url(#shadow_katnot)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "בֶּגֶד (베게드 - 옷)",
+        "לְבוּשׁ (레부쉬 - 의복)"
+      ]
+    },
+    {
+      "hebrew": "עוֹר",
+      "meaning": "가죽",
+      "ipa": "ʕoˈr",
+      "korean": "오르",
+      "letters": "ע(o) + וֹ(r)",
+      "root": "עוֹר (오르)",
+      "grammar": "명사",
+      "emoji": "🦌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"leather_or\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"30%\" stop-color=\"#D2B48C\" /><stop offset=\"70%\" stop-color=\"#BC987E\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient><radialGradient id=\"texture_or\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" opacity=\"0.4\" /><stop offset=\"50%\" stop-color=\"#D2B48C\" opacity=\"0.2\" /><stop offset=\"100%\" stop-color=\"#8B7355\" opacity=\"0.6\" /></radialGradient><radialGradient id=\"glow_or\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#8B4513\" opacity=\"0\" /></radialGradient><linearGradient id=\"fur_or\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_or)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"28\" fill=\"url(#leather_or)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"28\" fill=\"url(#texture_or)\" /><circle cx=\"20\" cy=\"20\" r=\"2\" fill=\"#8B7355\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#8B7355\" opacity=\"0.5\" /><circle cx=\"38\" cy=\"18\" r=\"2\" fill=\"#8B7355\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"28\" r=\"2\" fill=\"#8B7355\" opacity=\"0.5\" /><circle cx=\"22\" cy=\"36\" r=\"2\" fill=\"#8B7355\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"40\" r=\"2\" fill=\"#8B7355\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"48\" r=\"2\" fill=\"#8B7355\" opacity=\"0.6\" /><path d=\"M 16 26 Q 18 28 20 26\" stroke=\"url(#fur_or)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.4\" /><path d=\"M 24 30 Q 26 32 28 30\" stroke=\"url(#fur_or)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.4\" /><path d=\"M 36 34 Q 38 36 40 34\" stroke=\"url(#fur_or)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.4\" /><path d=\"M 28 44 Q 30 46 32 44\" stroke=\"url(#fur_or)\" stroke-width=\"1\" fill=\"none\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "וַיַּלְבִּשֵׁם",
+      "meaning": "그리고 그들에게 입히셨다",
+      "ipa": "vajjalbəˈʃem",
+      "korean": "바얄비쉠",
+      "letters": "וַ(va) + יַּ(ya) + לְ(le) + בִּ(bi) + שֵׁ(she) + ם(m)",
+      "root": "ל-ב-שׁ (라바쉬)",
+      "grammar": "동사",
+      "emoji": "🤲",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand1_vayalbishem\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"50%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#D2A679\" /></linearGradient><linearGradient id=\"hand2_vayalbishem\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"50%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#D2A679\" /></linearGradient><radialGradient id=\"glow_vayalbishem\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"50%\" stop-color=\"#FFA500\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" opacity=\"0\" /></radialGradient><linearGradient id=\"light_vayalbishem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><linearGradient id=\"garment_vayalbishem\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_vayalbishem)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"16\" ry=\"12\" fill=\"url(#garment_vayalbishem)\" opacity=\"0.7\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 12 28 Q 12 22 16 20 L 20 24 L 22 32 L 20 40 L 16 44 Q 12 42 12 36 Z\" fill=\"url(#hand1_vayalbishem)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 52 28 Q 52 22 48 20 L 44 24 L 42 32 L 44 40 L 48 44 Q 52 42 52 36 Z\" fill=\"url(#hand2_vayalbishem)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 24 L 14 26 L 12 24\" stroke=\"url(#hand1_vayalbishem)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 48 24 L 50 26 L 52 24\" stroke=\"url(#hand2_vayalbishem)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#light_vayalbishem)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" /><path d=\"M 28 16 L 32 12 L 36 16\" stroke=\"url(#light_vayalbishem)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.9\" /><path d=\"M 26 20 L 32 16 L 38 20\" stroke=\"url(#light_vayalbishem)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "לְבוּשׁ (레부쉬 - 의복)",
+        "בֶּגֶד (베게드 - 옷)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "타락 후 첫 번째 복음의 약속(3:15)에 이어지는 하나님의 첫 번째 구속적 행동입니다. 아담과 하와가 무화과나무 잎으로 만든 임시방편적 가림이 아닌, 하나님께서 친히 만드신 가죽옷을 입히심으로 죄를 덮어주시는 은혜를 보여줍니다. 이는 희생 제사의 시작이며, 그리스도의 의의 옷을 입는 칭의의 예표입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּעַשׂ יְהוָה אֱלֹהִים (바야아스 아도나이 엘로힘) - 여호와 하나님께서 친히 만드셨다",
+        "description": "'아사(만들다)'라는 동사는 '바라(창조하다)'와 달리 재료를 사용하여 제작하는 것을 의미합니다. 창조주 하나님께서 친히 옷을 지어주시는 겸손과 사랑의 행동은, 타락한 인간을 여전히 돌보시는 하나님의 긍휼을 보여줍니다.",
+        "points": [
+          "하나님께서 직접 행하신 첫 번째 구속적 행위입니다",
+          "창조주가 피조물을 위해 옷을 지으시는 놀라운 겸손",
+          "죄인을 버리지 않으시고 여전히 돌보시는 언약의 신실하심",
+          "인간의 자력 구원(무화과나무 잎)이 아닌 하나님의 은혜로운 제공"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כָּתְנוֹת עוֹר (카트노트 오르) - 가죽옷",
+        "description": "'가죽옷'은 동물의 희생을 통해서만 얻을 수 있습니다. 이는 죄의 대가로 흘려진 최초의 피를 의미하며, 레위기의 속죄 제사와 궁극적으로 십자가의 예수 그리스도를 예표합니다. 무화과나무 잎(인간의 노력)이 아닌 가죽(하나님의 제공)만이 죄를 덮을 수 있습니다.",
+        "points": [
+          "희생 없이는 죄를 덮을 수 없다는 성경적 원리의 시작",
+          "레위기 17:11 '피가 죄를 속한다'의 예표",
+          "예수 그리스도의 대속적 죽음을 미리 보여주는 그림자",
+          "인간의 행위(무화과잎)가 아닌 하나님의 은혜(가죽옷)로만 구원받음",
+          "히브리서 9:22 '피 흘림이 없이는 사함이 없느니라'"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיַּלְבִּשֵׁם (바얄비쉠) - 그들에게 입히셨다",
+        "description": "하나님께서 단지 옷을 주신 것이 아니라 '친히 입히셨다'는 것은 매우 중요합니다. 이는 칭의(稱義)의 교리 - 하나님께서 우리에게 그리스도의 의를 입혀주심 - 를 예표합니다. 우리가 스스로 의롭게 될 수 없고, 하나님께서 우리를 의롭다 하시고 의의 옷을 입혀주셔야 합니다.",
+        "points": [
+          "능동적 은혜 - 하나님께서 친히 입혀주심(우리가 입는 것이 아님)",
+          "이사야 61:10 '구원의 옷을 입히시며 의의 겉옷을 더하셨다'의 예표",
+          "로마서 3:22 '하나님의 의가... 믿는 모든 자에게 미치느니라'",
+          "칭의의 교리 - 우리의 행위가 아닌 하나님의 은혜로 의롭다 하심",
+          "요한계시록 3:18 '흰옷을 사서 입어 벌거벗은 수치를 보이지 않게 하라'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְאָדָם וּלְאִשְׁתּוֹ (레아담 울이쉬토) - 아담과 그의 아내에게",
+        "description": "하나님께서 두 사람 모두에게 가죽옷을 입히신 것은 구원이 개별적이면서도 공동체적임을 보여줍니다. 남편과 아내, 남자와 여자 모두 동등하게 하나님의 구속의 은혜를 필요로 하며, 하나님께서는 차별 없이 베푸십니다.",
+        "points": [
+          "구원의 보편성 - 남자와 여자 모두에게 동등하게 주어짐",
+          "갈라디아서 3:28 '유대인이나 헬라인이나... 다 그리스도 예수 안에서 하나'",
+          "부부가 함께 하나님의 은혜 아래 있음을 보여줌",
+          "하나님의 구원은 개인적이며 동시에 관계적임"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아담과 하와에게 가죽옷을 만들어 입히셨을까요?",
+      "answer": "아담과 하와가 죄를 지었을 때, 그들은 부끄러워서 무화과나무 잎으로 몸을 가렸어요. 하지만 나뭇잎은 금방 시들어버리죠. 하나님은 그들을 사랑하셔서 훨씬 더 좋은 가죽옷을 만들어주셨어요. 가죽옷을 만들려면 동물이 죽어야 했어요. 이것은 나중에 예수님이 우리의 죄 때문에 십자가에서 돌아가신 것을 미리 보여주는 거예요. 우리 스스로는 죄를 가릴 수 없지만, 하나님께서 예수님을 통해 우리를 깨끗하게 해주신답니다.",
+      "bibleReferences": [
+        "이사야 61:10 - '내 영혼이 나의 하나님으로 말미암아 즐거워하리니 이는 그가 구원의 옷을 내게 입히시며 의의 겉옷을 내게 더하심이 마치 신랑이 사모를 쓰며 신부가 자기 보석으로 꾸밈 같게 하셨음이라'",
+        "히브리서 9:22 - '율법을 따라 거의 모든 물건이 피로써 정결하게 되나니 피 흘림이 없은즉 사함이 없느니라'",
+        "요한계시록 7:14 - '그들이 큰 환난에서 나오는 자들인데 어린 양의 피에 그 옷을 씻어 희게 하였느니라'",
+        "갈라디아서 3:27 - '누구든지 그리스도와 합하기 위하여 세례를 받은 자는 그리스도로 옷 입었느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:21은 성경 전체에서 가장 복음적인 구절 중 하나입니다. 타락한 인간이 스스로를 가리려는 모든 시도(무화과나무 잎)는 불완전하며, 오직 하나님께서 제공하시는 희생적 대속(가죽옷)만이 우리의 죄를 덮을 수 있습니다. 이는 레위기의 제사 제도를 예표하며, 궁극적으로 십자가에서 우리를 위해 죽으신 예수 그리스도를 가리킵니다. 로마서 13:14의 '주 예수 그리스도로 옷 입으라'는 명령은 바로 이 창세기 3:21의 성취입니다. 하나님께서 친히 우리에게 그리스도의 의를 입혀주시는 것이 구원의 본질입니다."
+    }
+  }
+}

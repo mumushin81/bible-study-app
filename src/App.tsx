@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { Volume2, Search, Settings, ChevronLeft, ChevronRight, ArrowUp, LogIn } from 'lucide-react';
 import { motion } from 'framer-motion';
-import { verses } from './data/verses';
 import BottomNavigation from './components/BottomNavigation';
 import BookSelectionBottomSheet from './components/BookSelectionBottomSheet';
 import SwipeableContent from './components/SwipeableContent';
@@ -35,32 +34,41 @@ export default function App() {
   const [showLoginModal, setShowLoginModal] = useState(false);
   const [showSignUpModal, setShowSignUpModal] = useState(false);
 
-  // 하이브리드 데이터 소스 (DB 우선, 정적 fallback)
-  const { verses: chapterVerses } = useVerses({
+  // 데이터베이스에서 구절 가져오기
+  const { verses: chapterVerses, loading: versesLoading, error: versesError } = useVerses({
     bookId: currentBookId,
     chapter: currentChapter,
   });
   const { getBookById } = useBooks();
 
-  const verseData = chapterVerses[currentVerseIndex] || chapterVerses[0] || verses[0];
+  const verseData = chapterVerses[currentVerseIndex] || chapterVerses[0];
   const currentBook = getBookById(currentBookId);
 
   // User progress for current verse
-  const { progress, markAsCompleted } = useUserProgress(verseData.id);
+  const { progress, markAsCompleted } = useUserProgress(verseData?.id || '');
 
   // 히브리어 힌트 표시 여부 체크 (localStorage)
   React.useEffect(() => {
-    const hintCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
-    if (hintCount >= 3) {
-      setShowHebrewHint(false);
+    try {
+      const hintCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
+      if (hintCount >= 3) {
+        setShowHebrewHint(false);
+      }
+    } catch (error) {
+      console.error('Failed to load hint count:', error);
     }
   }, []);
 
   // 힌트 닫기 핸들러
   const handleCloseHint = () => {
-    const currentCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
-    localStorage.setItem('hebrewHintShown', String(currentCount + 1));
-    setShowHebrewHint(false);
+    try {
+      const currentCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
+      localStorage.setItem('hebrewHintShown', String(currentCount + 1));
+      setShowHebrewHint(false);
+    } catch (error) {
+      console.error('Failed to save hint count:', error);
+      setShowHebrewHint(false);
+    }
   };
 
   // 스크롤 감지
@@ -257,17 +265,96 @@ export default function App() {
           {/* Tab Content */}
           {activeTab === 'verse' && (
             <>
+              {/* Loading State */}
+              {versesLoading && (
+                <motion.div
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className={`rounded-3xl shadow-xl p-12 text-center ${
+                    darkMode
+                      ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20'
+                      : 'bg-white/90 border border-amber-200'
+                  }`}
+                >
+                  <div className="flex flex-col items-center gap-4">
+                    <div className={`animate-spin rounded-full h-12 w-12 border-4 border-t-transparent ${
+                      darkMode ? 'border-cyan-400' : 'border-purple-600'
+                    }`}></div>
+                    <p className={darkMode ? 'text-gray-300' : 'text-gray-600'}>
+                      구절을 불러오는 중...
+                    </p>
+                  </div>
+                </motion.div>
+              )}
+
+              {/* Error State */}
+              {!versesLoading && versesError && (
+                <motion.div
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className={`rounded-3xl shadow-xl p-8 text-center ${
+                    darkMode
+                      ? 'bg-gradient-to-br from-red-900/40 to-orange-900/40 border border-red-400/20'
+                      : 'bg-red-50 border border-red-200'
+                  }`}
+                >
+                  <div className="flex flex-col items-center gap-4">
+                    <span className="text-4xl">⚠️</span>
+                    <h3 className={`text-lg font-bold ${darkMode ? 'text-red-300' : 'text-red-800'}`}>
+                      데이터를 불러오지 못했습니다
+                    </h3>
+                    <p className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+                      {versesError.message}
+                    </p>
+                    <button
+                      onClick={() => window.location.reload()}
+                      className={`px-6 py-2 rounded-full transition-all ${
+                        darkMode
+                          ? 'bg-cyan-500 hover:bg-cyan-600 text-white'
+                          : 'bg-purple-600 hover:bg-purple-700 text-white'
+                      }`}
+                    >
+                      다시 시도
+                    </button>
+                  </div>
+                </motion.div>
+              )}
+
+              {/* Empty State */}
+              {!versesLoading && !versesError && chapterVerses.length === 0 && (
+                <motion.div
+                  initial={{ opacity: 0 }}
+                  animate={{ opacity: 1 }}
+                  className={`rounded-3xl shadow-xl p-8 text-center ${
+                    darkMode
+                      ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20'
+                      : 'bg-white/90 border border-amber-200'
+                  }`}
+                >
+                  <div className="flex flex-col items-center gap-4">
+                    <span className="text-4xl">📖</span>
+                    <h3 className={`text-lg font-bold ${darkMode ? 'text-gray-300' : 'text-gray-800'}`}>
+                      구절이 없습니다
+                    </h3>
+                    <p className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+                      이 장의 구절이 아직 데이터베이스에 없습니다.
+                    </p>
+                  </div>
+                </motion.div>
+              )}
+
               {/* Verse Card */}
-              <motion.div
-                key={`verse-${currentVerseIndex}`}
-                initial={{ opacity: 0, y: 20 }}
-                animate={{ opacity: 1, y: 0 }}
-                transition={{ duration: 0.5, ease: 'easeOut' }}
-                className={`rounded-3xl shadow-xl p-6 mb-4 transition-transform hover:-translate-y-1 ${
-                darkMode
-                  ? 'bg-gradient-to-br from-slate-900/60 via-indigo-900/40 to-violet-900/50 border border-cyan-400/20'
-                  : 'bg-white/90 border border-amber-200'
-              }`}>
+              {!versesLoading && !versesError && verseData && (
+                <motion.div
+                  key={`verse-${currentVerseIndex}`}
+                  initial={{ opacity: 0, y: 20 }}
+                  animate={{ opacity: 1, y: 0 }}
+                  transition={{ duration: 0.5, ease: 'easeOut' }}
+                  className={`rounded-3xl shadow-xl p-6 mb-4 transition-transform hover:-translate-y-1 ${
+                  darkMode
+                    ? 'bg-gradient-to-br from-slate-900/60 via-indigo-900/40 to-violet-900/50 border border-cyan-400/20'
+                    : 'bg-white/90 border border-amber-200'
+                }`}>
                 {/* Verse Reference with Navigation */}
                 <div className="flex items-center justify-between mb-4 gap-2">
                   <motion.button
@@ -431,15 +518,19 @@ export default function App() {
                   darkMode={darkMode}
                 />
               </motion.div>
+              )}
 
-              <StudyTab
-                verse={verseData}
-                darkMode={darkMode}
-                onMarkStudied={markAsCompleted}
-                studied={progress?.completed || false}
-                reviewCount={progress?.review_count || 0}
-                isAuthenticated={!!user}
-              />
+              {/* StudyTab - only show if verseData exists */}
+              {!versesLoading && !versesError && verseData && (
+                <StudyTab
+                  verse={verseData}
+                  darkMode={darkMode}
+                  onMarkStudied={markAsCompleted}
+                  studied={progress?.completed || false}
+                  reviewCount={progress?.review_count || 0}
+                  isAuthenticated={!!user}
+                />
+              )}
             </>
           )}
 
@@ -469,16 +560,6 @@ export default function App() {
 
           {activeTab === 'growth' && (
             <GrowthTab darkMode={darkMode} />
-          )}
-
-          {activeTab === 'notes' && (
-            <div className={`rounded-3xl shadow-xl p-6 text-center ${
-              darkMode ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20' : 'bg-white/90 border border-amber-200'
-            }`}>
-              <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
-                📝 노트 기능은 준비 중입니다
-              </p>
-            </div>
           )}
         </div>
       </SwipeableContent>

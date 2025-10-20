@@ -21,9 +21,14 @@ export default function StudyTab({ verse, darkMode, onMarkStudied, studied, revi
 
   // localStorage에서 북마크 로드
   useEffect(() => {
-    const saved = localStorage.getItem('bookmarkedWords');
-    if (saved) {
-      setBookmarkedWords(new Set(JSON.parse(saved)));
+    try {
+      const saved = localStorage.getItem('bookmarkedWords');
+      if (saved) {
+        setBookmarkedWords(new Set(JSON.parse(saved)));
+      }
+    } catch (error) {
+      console.error('Failed to load bookmarked words:', error);
+      setBookmarkedWords(new Set());
     }
   }, []);
 
@@ -36,7 +41,12 @@ export default function StudyTab({ verse, darkMode, onMarkStudied, studied, revi
       newBookmarks.add(wordHebrew);
     }
     setBookmarkedWords(newBookmarks);
-    localStorage.setItem('bookmarkedWords', JSON.stringify(Array.from(newBookmarks)));
+
+    try {
+      localStorage.setItem('bookmarkedWords', JSON.stringify(Array.from(newBookmarks)));
+    } catch (error) {
+      console.error('Failed to save bookmarked words:', error);
+    }
   };
 
   // 플래시카드 뒤집기

@@ -1,0 +1,216 @@
+{
+  "id": "genesis_1_20",
+  "reference": "창세기 1:20",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים--יִשְׁרְצוּ הַמַּיִם, שֶׁרֶץ נֶפֶשׁ חַיָּה; וְעוֹף יְעוֹפֵף עַל-הָאָרֶץ, עַל-פְּנֵי רְקִיעַ הַשָּׁמָיִם.",
+  "ipa": "vajˈjomɛr ʔɛloˈhim jɪʃrəˈtsu haˈmajɪm ˈʃɛrɛts ˈnɛfɛʃ xajˈja vəˈof jəoˈfef al haˈʔarɛts al pəˈne rəˈkia haʃaˈmajɪm",
+  "koreanPronunciation": "바요메르 엘로힘 이쉬레추 하마임, 쉐레츠 네페쉬 하야; 베오프 예오페프 알 하아레츠, 알 페네 레키아 하샤마임",
+  "modern": "하나님께서 말씀하시기를 '물에는 생물이 번성하게 하고, 새들은 땅 위 하늘의 궁창을 날아다니게 하라' 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶ(me) + ר(r)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech20_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"speech20_2\"><stop offset=\"0%\" stop-color=\"#ffffff\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#a8edea\" /></radialGradient></defs><rect width=\"48\" height=\"32\" x=\"8\" y=\"10\" rx=\"8\" fill=\"url(#speech20_1)\" filter=\"drop-shadow(0 4px 8px rgba(102, 126, 234, 0.4))\" /><path d=\"M 20 42 L 16 52 L 28 42 Z\" fill=\"url(#speech20_1)\" /><circle cx=\"18\" cy=\"26\" r=\"3\" fill=\"url(#speech20_2)\" /><circle cx=\"28\" cy=\"26\" r=\"3\" fill=\"url(#speech20_2)\" /><circle cx=\"38\" cy=\"26\" r=\"3\" fill=\"url(#speech20_2)\" /></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown20_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"crown20_2\"><stop offset=\"0%\" stop-color=\"#FFE5B4\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 12 46 L 16 34 L 22 38 L 32 26 L 42 38 L 48 34 L 52 46 Z\" fill=\"url(#crown20_1)\" stroke=\"#B8860B\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(255, 140, 0, 0.4))\" /><rect x=\"12\" y=\"46\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#crown20_1)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><circle cx=\"22\" cy=\"36\" r=\"2\" fill=\"url(#crown20_2)\" /><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"url(#crown20_2)\" /><circle cx=\"42\" cy=\"36\" r=\"2\" fill=\"url(#crown20_2)\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "יִשְׁרְצוּ",
+      "meaning": "번성하게 하라, 떼를 지어 움직이게 하라",
+      "ipa": "jɪʃrəˈtsu",
+      "korean": "이쉬레추",
+      "letters": "יִ(yi) + שְׁ(sh) + רְ(re) + צוּ(tsu)",
+      "root": "שׁ-ר-צ (샤라츠)",
+      "grammar": "동사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"swarm20_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C9FF\" /><stop offset=\"50%\" stop-color=\"#0099CC\" /><stop offset=\"100%\" stop-color=\"#006699\" /></linearGradient><radialGradient id=\"swarm20_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#00D4FF\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#swarm20_1)\" opacity=\"0.2\" rx=\"8\" /><circle cx=\"18\" cy=\"20\" r=\"4\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"32\" cy=\"18\" r=\"5\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"46\" cy=\"22\" r=\"4\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"24\" cy=\"32\" r=\"4.5\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"40\" cy=\"34\" r=\"4\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"28\" cy=\"46\" r=\"5\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"42\" cy=\"48\" r=\"4\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /><circle cx=\"16\" cy=\"44\" r=\"3.5\" fill=\"url(#swarm20_2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 153, 204, 0.5))\" /></svg>"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "물",
+      "ipa": "haˈmajɪm",
+      "korean": "하마임",
+      "letters": "הַ(ha) + מַּ(ma) + יִם(yim)",
+      "root": "מַיִם (마임)",
+      "grammar": "명사",
+      "emoji": "💧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water20_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0F7FF\" /><stop offset=\"50%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient><radialGradient id=\"water20_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#81D4FA\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"24\" ry=\"20\" fill=\"url(#water20_1)\" opacity=\"0.3\" /><path d=\"M 32 12 Q 28 18 28 26 Q 28 34 32 38 Q 36 34 36 26 Q 36 18 32 12 Z\" fill=\"url(#water20_1)\" filter=\"drop-shadow(0 4px 8px rgba(2, 136, 209, 0.4))\" /><ellipse cx=\"32\" cy=\"22\" rx=\"3\" ry=\"4\" fill=\"url(#water20_2)\" opacity=\"0.6\" /><path d=\"M 16 50 Q 24 46 32 50 Q 40 54 48 50\" stroke=\"url(#water20_1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 18 56 Q 26 52 32 56 Q 38 60 46 56\" stroke=\"url(#water20_1)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "מָיִם חַיִּים (마임 하임 - 생수)",
+        "יָם (얌 - 바다)"
+      ]
+    },
+    {
+      "hebrew": "שֶׁרֶץ",
+      "meaning": "떼를 지어 움직이는 것, 군집 생물",
+      "ipa": "ˈʃɛrɛts",
+      "korean": "쉐레츠",
+      "letters": "שֶׁ(she) + רֶ(re) + ץ(ts)",
+      "root": "שׁ-ר-צ (샤라츠)",
+      "grammar": "명사",
+      "emoji": "🐟",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fish20_1\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#26C6DA\" /><stop offset=\"50%\" stop-color=\"#00ACC1\" /><stop offset=\"100%\" stop-color=\"#00838F\" /></linearGradient><linearGradient id=\"fish20_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#80DEEA\" /><stop offset=\"100%\" stop-color=\"#26C6DA\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"url(#fish20_1)\" filter=\"drop-shadow(0 3px 6px rgba(0, 131, 143, 0.4))\" /><path d=\"M 18 32 L 8 24 L 8 40 Z\" fill=\"url(#fish20_2)\" /><circle cx=\"48\" cy=\"28\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"48.5\" cy=\"28\" r=\"1.2\" fill=\"#263238\" /><path d=\"M 50 20 Q 56 18 58 22 Q 56 26 50 24 Z\" fill=\"url(#fish20_2)\" opacity=\"0.8\" /><path d=\"M 50 44 Q 56 46 58 42 Q 56 38 50 40 Z\" fill=\"url(#fish20_2)\" opacity=\"0.8\" /><line x1=\"28\" y1=\"26\" x2=\"42\" y2=\"26\" stroke=\"#00838F\" stroke-width=\"1.5\" opacity=\"0.4\" /><line x1=\"28\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"#00838F\" stroke-width=\"1.5\" opacity=\"0.4\" /><line x1=\"28\" y1=\"38\" x2=\"42\" y2=\"38\" stroke=\"#00838F\" stroke-width=\"1.5\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "meaning": "살아있는 생명체",
+      "ipa": "ˈnɛfɛʃ xajˈja",
+      "korean": "네페쉬 하야",
+      "letters": "נֶ(ne) + פֶ(fe) + שׁ(sh) + חַ(cha) + יָּ(ya) + ה(h)",
+      "root": "נֶפֶשׁ (네페쉬), ח-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"life20_1\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"50%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></radialGradient><linearGradient id=\"life20_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C2185B\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient><radialGradient id=\"life20_3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#life20_1)\" filter=\"drop-shadow(0 0 12px rgba(255, 193, 7, 0.7))\" /><path d=\"M 32 16 L 34 26 L 44 24 L 36 32 L 44 40 L 34 38 L 32 48 L 30 38 L 20 40 L 28 32 L 20 24 L 30 26 Z\" fill=\"url(#life20_2)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(136, 14, 79, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#life20_3)\" /><circle cx=\"28\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "וְעוֹף",
+      "meaning": "그리고 새",
+      "ipa": "vəˈof",
+      "korean": "베오프",
+      "letters": "וְ(ve) + עוֹ(o) + ף(f)",
+      "root": "ע-ו-ף (우프)",
+      "grammar": "명사",
+      "emoji": "🦅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird20_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"50%\" stop-color=\"#1E88E5\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></linearGradient><linearGradient id=\"bird20_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90CAF9\" /><stop offset=\"100%\" stop-color=\"#42A5F5\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"26\" rx=\"8\" ry=\"10\" fill=\"url(#bird20_1)\" filter=\"drop-shadow(0 3px 6px rgba(30, 136, 229, 0.4))\" /><path d=\"M 10 26 Q 8 20 16 22 Q 24 24 28 24\" fill=\"url(#bird20_2)\" stroke=\"#1565C0\" stroke-width=\"1.5\" /><path d=\"M 54 26 Q 56 20 48 22 Q 40 24 36 24\" fill=\"url(#bird20_2)\" stroke=\"#1565C0\" stroke-width=\"1.5\" /><path d=\"M 32 36 L 28 44 L 30 46 L 32 40 L 34 46 L 36 44 Z\" fill=\"url(#bird20_1)\" /><circle cx=\"29\" cy=\"24\" r=\"1.5\" fill=\"#263238\" /><path d=\"M 32 28 L 30 30 L 34 30 Z\" fill=\"#FF9800\" /></svg>"
+    },
+    {
+      "hebrew": "יְעוֹפֵף",
+      "meaning": "날아다니게 하라",
+      "ipa": "jəoˈfef",
+      "korean": "예오페프",
+      "letters": "יְ(ye) + עוֹ(o) + פֵ(fe) + ף(f)",
+      "root": "ע-ו-ף (우프)",
+      "grammar": "동사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fly20_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"50%\" stop-color=\"#90CAF9\" /><stop offset=\"100%\" stop-color=\"#42A5F5\" /></linearGradient><radialGradient id=\"fly20_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#BBDEFB\" /></radialGradient></defs><path d=\"M 8 32 Q 4 28 12 28 Q 20 28 28 30 L 32 28 L 36 30 Q 44 28 52 28 Q 60 28 56 32 Q 52 36 44 34 Q 36 32 32 34 Q 28 32 20 34 Q 12 36 8 32 Z\" fill=\"url(#fly20_1)\" filter=\"drop-shadow(0 4px 8px rgba(66, 165, 245, 0.4))\" stroke=\"#1976D2\" stroke-width=\"1\" /><ellipse cx=\"32\" cy=\"32\" rx=\"6\" ry=\"8\" fill=\"url(#fly20_2)\" /><circle cx=\"30\" cy=\"30\" r=\"1.5\" fill=\"#1565C0\" /><path d=\"M 20 24 L 24 20 L 26 24\" stroke=\"#42A5F5\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 32 18 L 34 14 L 36 18\" stroke=\"#42A5F5\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 44 24 L 40 20 L 38 24\" stroke=\"#42A5F5\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "עַל-הָאָרֶץ",
+      "meaning": "땅 위에",
+      "ipa": "al haˈʔarɛts",
+      "korean": "알 하아레츠",
+      "letters": "עַ(al) + ל(l) + הָ(ha) + אָ(a) + רֶ(re) + ץ(ts)",
+      "root": "עַל (알), א-ר-ץ (에레츠)",
+      "grammar": "전치사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth20_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"50%\" stop-color=\"#43A047\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient><linearGradient id=\"earth20_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient><radialGradient id=\"earth20_3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#A5D6A7\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth20_1)\" filter=\"drop-shadow(0 4px 8px rgba(46, 125, 50, 0.5))\" /><path d=\"M 20 20 Q 24 16 30 18 Q 36 20 40 16 L 44 20 Q 46 28 42 32 Q 38 36 34 34 Q 30 32 26 34 Q 22 28 20 20 Z\" fill=\"url(#earth20_2)\" opacity=\"0.7\" /><path d=\"M 48 36 Q 50 40 46 44 Q 42 48 38 46 Q 34 44 32 48\" fill=\"url(#earth20_2)\" opacity=\"0.6\" /><ellipse cx=\"24\" cy=\"48\" rx=\"6\" ry=\"4\" fill=\"url(#earth20_2)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth20_3)\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "אֲדָמָה (아다마 - 땅, 흙)"
+      ]
+    },
+    {
+      "hebrew": "עַל-פְּנֵי רְקִיעַ",
+      "meaning": "궁창의 표면 위에",
+      "ipa": "al pəˈne rəˈkia",
+      "korean": "알 페네 레키아",
+      "letters": "עַ(al) + ל(l) + פְּ(pe) + נֵ(ne) + י(y) + רְ(re) + קִ(ki) + יעַ(a)",
+      "root": "עַל (알), פָּנִים (파님), ר-ק-ע (라카)",
+      "grammar": "전치사",
+      "emoji": "🌌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky20_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1A237E\" /><stop offset=\"30%\" stop-color=\"#283593\" /><stop offset=\"70%\" stop-color=\"#3949AB\" /><stop offset=\"100%\" stop-color=\"#5C6BC0\" /></linearGradient><radialGradient id=\"sky20_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#BBDEFB\" /></radialGradient><radialGradient id=\"sky20_3\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky20_1)\" rx=\"8\" /><circle cx=\"48\" cy=\"16\" r=\"3\" fill=\"url(#sky20_2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><circle cx=\"24\" cy=\"12\" r=\"2\" fill=\"url(#sky20_2)\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"24\" r=\"2.5\" fill=\"url(#sky20_2)\" opacity=\"0.9\" /><circle cx=\"16\" cy=\"28\" r=\"1.5\" fill=\"url(#sky20_2)\" opacity=\"0.7\" /><circle cx=\"52\" cy=\"36\" r=\"2\" fill=\"url(#sky20_2)\" opacity=\"0.8\" /><circle cx=\"12\" cy=\"48\" r=\"1.8\" fill=\"url(#sky20_2)\" opacity=\"0.75\" /><path d=\"M 8 52 Q 16 48 24 52 Q 32 56 40 52 Q 48 48 56 52\" stroke=\"url(#sky20_2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.3\" /><circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"url(#sky20_3)\" filter=\"drop-shadow(0 0 6px rgba(255, 213, 79, 0.6))\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רָקִיעַ (라키아 - 궁창)",
+        "שָׁמַיִם (샤마임 - 하늘)"
+      ]
+    },
+    {
+      "hebrew": "הַשָּׁמָיִם",
+      "meaning": "하늘들",
+      "ipa": "haʃaˈmajɪm",
+      "korean": "하샤마임",
+      "letters": "הַ(ha) + שָּׁ(sha) + מָ(ma) + יִם(yim)",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "emoji": "☁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heaven20_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E1F5FE\" /><stop offset=\"50%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#29B6F6\" /></linearGradient><radialGradient id=\"heaven20_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#B3E5FC\" /></radialGradient><linearGradient id=\"heaven20_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFF59D\" /><stop offset=\"50%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FFC107\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#heaven20_1)\" rx=\"8\" /><ellipse cx=\"20\" cy=\"24\" rx=\"10\" ry=\"6\" fill=\"url(#heaven20_2)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(129, 212, 250, 0.3))\" /><ellipse cx=\"32\" cy=\"22\" rx=\"12\" ry=\"7\" fill=\"url(#heaven20_2)\" opacity=\"0.95\" filter=\"drop-shadow(0 2px 4px rgba(129, 212, 250, 0.3))\" /><ellipse cx=\"44\" cy=\"26\" rx=\"9\" ry=\"6\" fill=\"url(#heaven20_2)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(129, 212, 250, 0.3))\" /><circle cx=\"48\" cy=\"12\" r=\"6\" fill=\"url(#heaven20_3)\" filter=\"drop-shadow(0 0 8px rgba(255, 235, 59, 0.7))\" /><line x1=\"48\" y1=\"4\" x2=\"48\" y2=\"7\" stroke=\"#FFF59D\" stroke-width=\"1.5\" /><line x1=\"54\" y1=\"8\" x2=\"52\" y2=\"10\" stroke=\"#FFF59D\" stroke-width=\"1.5\" /><line x1=\"56\" y1=\"12\" x2=\"53\" y2=\"12\" stroke=\"#FFF59D\" stroke-width=\"1.5\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1장 20절은 다섯째 날 창조의 시작을 알립니다. 하나님께서 물과 하늘 영역에 생명을 채우시는 순간으로, 처음으로 '생물(네페쉬 하야)'이라는 표현이 등장합니다. 물속의 생물들과 하늘을 나는 새들이 동시에 창조되어, 바다와 하늘이라는 두 영역을 생명으로 가득 채웁니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יִשְׁרְצוּ הַמַּיִם (이쉬레추 하마임) - 물에 생물이 번성하라",
+        "description": "히브리어 동사 '샤라츠'는 '떼를 지어 움직이다', '번성하다'를 의미합니다. 이 단어는 생명의 풍성함과 넘치는 활력을 강조하며, 하나님께서 생명을 창조하실 때 풍성하게, 넘치도록 창조하신다는 의미를 담고 있습니다.",
+        "points": [
+          "물속은 무수한 생물로 가득 차게 됩니다",
+          "생명의 다양성과 풍성함이 하나님의 창조 방식입니다",
+          "떼를 지어 움직이는 모습은 공동체적 생명의 특징입니다",
+          "바다는 더 이상 텅 빈 공간이 아니라 생명으로 충만한 곳이 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "נֶפֶשׁ חַיָּה (네페쉬 하야) - 살아있는 생명체",
+        "description": "'네페쉬'는 '생명', '영혼', '살아있는 존재'를 의미하는 깊은 단어입니다. 단순한 물질이 아니라 생명력을 가진 존재를 지칭하며, 나중에 사람을 묘사할 때도 사용됩니다(창 2:7). '하야'는 '살아있는'을 뜻하며, 이 둘의 조합은 역동적이고 활력 넘치는 생명을 나타냅니다.",
+        "points": [
+          "물고기도 단순한 물체가 아니라 생명을 가진 피조물입니다",
+          "하나님은 생명의 근원이시며, 모든 생명은 그분으로부터 옵니다",
+          "'네페쉬'는 인간과 동물 모두에게 사용되어 생명의 존엄성을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עוֹף יְעוֹפֵף (오프 예오페프) - 새가 날아다니게 하라",
+        "description": "히브리어에서 '예오페프'는 '우프(날다)'의 강조형으로, 계속해서 날아다니는 역동적인 움직임을 표현합니다. 새들은 땅 위 하늘 공간을 가로지르며 날아다니도록 창조되었으며, 이는 궁창(라키아)이라는 공간을 생명으로 채우는 하나님의 계획을 보여줍니다.",
+        "points": [
+          "새들은 하늘이라는 입체적 공간을 활용하도록 설계되었습니다",
+          "날아다니는 능력은 하나님의 창조적 설계의 경이로움입니다",
+          "물과 하늘, 두 영역이 동시에 생명으로 채워집니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "עַל-פְּנֵי רְקִיעַ הַשָּׁמָיִם (알 페네 레키아 하샤마임) - 하늘 궁창의 표면 위에",
+        "description": "'페네'는 '얼굴', '표면'을 의미하며, '레키아'는 둘째 날 만들어진 궁창을 가리킵니다. 새들은 하늘 궁창이라는 보이지 않는 경계의 표면 위, 즉 땅과 하늘 사이의 공간을 날아다닙니다. 이는 하나님께서 창조하신 질서 있는 공간 구조를 보여줍니다.",
+        "points": [
+          "창조 세계는 질서 있게 구획된 공간들로 이루어져 있습니다",
+          "새들의 영역은 땅과 하늘 사이의 중간 공간입니다",
+          "둘째 날의 궁창 창조가 다섯째 날에 생명으로 채워집니다",
+          "하나님의 창조는 단계적이고 체계적입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 물고기와 새를 같은 날에 만드셨을까요?",
+      "answer": "하나님은 비슷한 것들을 함께 묶어서 만드셨어요. 물고기는 물속을 헤엄치고, 새는 하늘을 날아다니잖아요? 둘 다 자유롭게 움직이면서 넓은 공간을 가득 채우는 생물이에요. 마치 물고기가 물속을 '날아다니고', 새가 하늘을 '헤엄치는' 것처럼 보여요. 하나님은 세상의 위와 아래를 동시에 생명으로 채우셔서, 온 세상이 살아있는 생물들로 가득하게 만들고 싶으셨답니다!",
+      "bibleReferences": [
+        "시편 104:25 - '거기에는 크고 넓은 바다가 있고 그 속에는 무수한 생물이 있나니'",
+        "시편 148:7,10 - '땅에서 여호와를 찬양하라 용들과 모든 바다여... 짐승과 모든 가축과 기는 것과 나는 새들아'",
+        "욥기 12:7-8 - '이제 모든 짐승에게 물어 보라 그것들이 네게 가르치리라 공중의 새에게 물어 보라 그것들이 네게 말하리라'",
+        "마태복음 6:26 - '공중의 새를 보라 심지도 않고 거두지도 않고 창고에 모아들이지도 아니하되 너희 하늘 아버지께서 기르시나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "다섯째 날의 창조는 하나님의 생명 창조가 시작되는 중대한 순간입니다. '네페쉬 하야(살아있는 생명체)'라는 표현이 처음 등장하며, 이는 나중에 인간 창조(창 2:7)와도 연결됩니다. 물과 하늘이라는 광대한 영역을 생명으로 채우시는 하나님의 풍성함은, 우리 삶에도 그분의 생명과 축복이 넘쳐나기를 원하시는 하나님의 마음을 보여줍니다. 그리스도는 생명의 근원이시며(요 1:4, 14:6), 우리에게 '더 풍성한 생명'(요 10:10)을 주시기 위해 오셨습니다."
+    }
+  }
+}

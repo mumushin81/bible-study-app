@@ -1,0 +1,160 @@
+{
+  "id": "genesis_1_17",
+  "reference": "창세기 1:17",
+  "hebrew": "וַיִּתֵּן אֹתָם אֱלֹהִים, בִּרְקִיעַ הַשָּׁמָיִם, לְהָאִיר, עַל-הָאָרֶץ.",
+  "ipa": "vajitˈten ʔoˈtam ʔɛloˈhim birˈkiaʕ haʃaˈmajim ləhaˈʔir ʕal haˈʔarɛts",
+  "koreanPronunciation": "바이텐 오탐 엘로힘 비르키아 하샤마임 레하이르 알 하아레츠",
+  "modern": "하나님께서 그것들을 하늘의 궁창에 두시어 땅을 비추게 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּתֵּן",
+      "meaning": "그리고 두셨다, 두시다",
+      "ipa": "vajitˈten",
+      "korean": "바이텐",
+      "letters": "וַ(va) + יִּ(yi) + תֵּן(ten)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🤲",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"giving1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"light1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></radialGradient><linearGradient id=\"hand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.1)\"/><path d=\"M 20 35 Q 20 25 28 25 L 28 15 Q 28 12 30 12 L 34 12 Q 36 12 36 15 L 36 25 Q 36 25 38 25 L 38 18 Q 38 15 40 15 L 42 15 Q 44 15 44 18 L 44 35 Q 44 40 40 44 L 28 44 Q 24 40 24 35 Z\" fill=\"url(#hand1)\" stroke=\"#DEB887\" stroke-width=\"1.5\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"url(#light1)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\"/><g stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.7\"><line x1=\"32\" y1=\"10\" x2=\"32\" y2=\"14\"/><line x1=\"40\" y1=\"14\" x2=\"37\" y2=\"17\"/><line x1=\"44\" y1=\"22\" x2=\"40\" y2=\"22\"/><line x1=\"24\" y1=\"14\" x2=\"27\" y2=\"17\"/><line x1=\"20\" y1=\"22\" x2=\"24\" y2=\"22\"/></g></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    },
+    {
+      "hebrew": "אֹתָם",
+      "meaning": "그것들을",
+      "ipa": "ʔoˈtam",
+      "korean": "오탐",
+      "letters": "אֹ(o) + תָ(ta) + ם(m)",
+      "root": "אֵת (에트)",
+      "grammar": "대명사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"star1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"star2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\"/><path d=\"M 15 32 L 20 28 L 20 30 L 28 30 L 28 34 L 20 34 L 20 36 Z\" fill=\"url(#star1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"40\" cy=\"22\" r=\"6\" fill=\"url(#glow1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/><path d=\"M 40 16 L 41 19 L 44 19 L 42 21 L 43 24 L 40 22 L 37 24 L 38 21 L 36 19 L 39 19 Z\" fill=\"url(#star2)\"/><circle cx=\"45\" cy=\"38\" r=\"5\" fill=\"url(#glow1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 5px rgba(255, 215, 0, 0.6))\"/><path d=\"M 45 33 L 46 36 L 49 36 L 47 38 L 48 41 L 45 39 L 42 41 L 43 38 L 41 36 L 44 36 Z\" fill=\"url(#star2)\" opacity=\"0.9\"/></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"jewel2\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"50%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></radialGradient><linearGradient id=\"light2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\"/><stop offset=\"50%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.15)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(255, 215, 0, 0.1)\" opacity=\"0.7\"/><path d=\"M 12 48 L 16 32 L 20 36 L 26 28 L 32 24 L 38 28 L 44 36 L 48 32 L 52 48 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\"/><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#crown2)\" rx=\"1\"/><circle cx=\"32\" cy=\"30\" r=\"4\" fill=\"url(#jewel2)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\"/><circle cx=\"22\" cy=\"36\" r=\"2.5\" fill=\"url(#jewel2)\" opacity=\"0.8\"/><circle cx=\"42\" cy=\"36\" r=\"2.5\" fill=\"url(#jewel2)\" opacity=\"0.8\"/><rect x=\"12\" y=\"38\" width=\"40\" height=\"2\" fill=\"url(#light2)\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)",
+        "אֲדֹנָי (아도나이 - 주)"
+      ]
+    },
+    {
+      "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
+      "meaning": "하늘의 궁창에",
+      "ipa": "birˈkiaʕ haʃaˈmajim",
+      "korean": "비르키아 하샤마임",
+      "letters": "בִּ(bi) + רְ(r) + קִ(ki) + יעַ(a) / הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim)",
+      "root": "רָקִיעַ (라키아) + שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "emoji": "🌌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#000033\"/><stop offset=\"50%\" stop-color=\"#000066\"/><stop offset=\"100%\" stop-color=\"#1E3A8A\"/></linearGradient><radialGradient id=\"star3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></radialGradient><linearGradient id=\"dome1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" stop-opacity=\"0.4\"/><stop offset=\"100%\" stop-color=\"#1E3A8A\" stop-opacity=\"0.6\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky2)\" rx=\"8\"/><ellipse cx=\"32\" cy=\"50\" rx=\"28\" ry=\"18\" fill=\"url(#dome1)\" opacity=\"0.7\" filter=\"drop-shadow(0 -2px 6px rgba(65, 105, 225, 0.5))\"/><circle cx=\"20\" cy=\"15\" r=\"2\" fill=\"url(#star3)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\"/><circle cx=\"35\" cy=\"12\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.9\"/><circle cx=\"45\" cy=\"18\" r=\"2.5\" fill=\"url(#star3)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"15\" cy=\"25\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"50\" cy=\"28\" r=\"1.8\" fill=\"url(#star3)\" opacity=\"0.9\"/><circle cx=\"28\" cy=\"22\" r=\"1.2\" fill=\"#FFFFFF\" opacity=\"0.7\"/><circle cx=\"42\" cy=\"30\" r=\"1.5\" fill=\"#FFD700\" opacity=\"0.8\"/><path d=\"M 8 50 Q 32 30 56 50\" stroke=\"rgba(255, 255, 255, 0.2)\" stroke-width=\"1\" fill=\"none\"/></svg>",
+      "relatedWords": [
+        "רָקִיעַ (라키아 - 궁창, 창공)",
+        "שָׁמַיִם (샤마임 - 하늘들)"
+      ]
+    },
+    {
+      "hebrew": "לְהָאִיר",
+      "meaning": "비추기 위하여",
+      "ipa": "ləhaˈʔir",
+      "korean": "레하이르",
+      "letters": "לְ(le) + הָ(ha) + אִ(i) + יר(r)",
+      "root": "א-ו-ר (오르)",
+      "grammar": "동사",
+      "emoji": "💡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bulb1\"><stop offset=\"0%\" stop-color=\"#FFFF00\"/><stop offset=\"40%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient><linearGradient id=\"rays1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFF00\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"base1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow2)\"/><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#bulb1)\" filter=\"drop-shadow(0 0 12px rgba(255, 255, 0, 0.9))\"/><g stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.8\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"2\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"48\" y1=\"14\" x2=\"53\" y2=\"9\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"54\" y1=\"28\" x2=\"60\" y2=\"28\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"16\" y1=\"14\" x2=\"11\" y2=\"9\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"10\" y1=\"28\" x2=\"4\" y2=\"28\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"48\" y1=\"42\" x2=\"53\" y2=\"47\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><line x1=\"16\" y1=\"42\" x2=\"11\" y2=\"47\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></g><rect x=\"28\" y=\"42\" width=\"8\" height=\"6\" fill=\"url(#base1)\" rx=\"1\"/><rect x=\"26\" y=\"48\" width=\"12\" height=\"4\" fill=\"url(#base1)\" rx=\"2\"/></svg>",
+      "relatedWords": [
+        "אוֹר (오르 - 빛)",
+        "מָאוֹר (마오르 - 광체, 빛을 내는 것)"
+      ]
+    },
+    {
+      "hebrew": "עַל־הָאָרֶץ",
+      "meaning": "땅 위에",
+      "ipa": "ʕal haˈʔarɛts",
+      "korean": "알 하아레츠",
+      "letters": "עַ(a) + ל(l) / הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "עַל (알) + אֶרֶץ (에레츠)",
+      "grammar": "전치사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth1\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"70%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E3A8A\"/></radialGradient><linearGradient id=\"land1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\"/><stop offset=\"50%\" stop-color=\"#228B22\"/><stop offset=\"100%\" stop-color=\"#006400\"/></linearGradient><linearGradient id=\"land2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4))\"/><path d=\"M 20 18 Q 25 15 30 18 Q 32 20 28 24 Q 25 26 22 24 Q 18 22 20 18 Z\" fill=\"url(#land1)\" opacity=\"0.9\"/><path d=\"M 35 12 Q 42 10 48 14 Q 52 18 48 22 Q 45 24 40 22 Q 36 20 35 16 Z\" fill=\"url(#land1)\" opacity=\"0.85\"/><path d=\"M 15 32 Q 18 28 24 30 Q 28 32 26 38 Q 24 42 20 40 Q 16 38 15 34 Z\" fill=\"url(#land2)\" opacity=\"0.8\"/><path d=\"M 38 28 Q 45 26 50 30 Q 54 34 50 40 Q 46 44 42 42 Q 38 38 38 32 Z\" fill=\"url(#land1)\" opacity=\"0.9\"/><ellipse cx=\"24\" cy=\"18\" rx=\"12\" ry=\"8\" fill=\"url(#shine1)\"/><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"rgba(255, 255, 255, 0.3)\" stroke-width=\"1\"/></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "אֲדָמָה (아다마 - 땅, 흙)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:17은 하나님께서 넷째 날에 만드신 해와 달과 별들을 하늘의 궁창에 '두시다'는 표현을 통해, 광체들의 위치와 목적을 분명히 하십니다. 이는 단순한 배치가 아니라 섭리적 계획에 따른 의도적인 설계이며, 땅을 비추고 다스리게 하시려는 하나님의 목적이 담겨 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּתֵּן (바이텐) - 섭리적 배치",
+        "description": "히브리어 '나탄'(주다, 두다)은 단순한 물리적 배치가 아니라 권위 있는 부여와 위임을 의미합니다. 하나님께서 광체들에게 특정한 위치와 기능을 '주시는' 것은 창조 질서 안에서 각각의 역할을 부여하시는 섭리적 행위입니다.",
+        "points": [
+          "하나님의 주권적 배치 - 광체들은 스스로 위치를 정한 것이 아님",
+          "목적 있는 설계 - 각 광체는 특정한 기능을 수행하도록 만들어짐",
+          "우주적 질서의 확립 - 천체의 운행은 무작위가 아닌 계획된 질서"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בִּרְקִיעַ הַשָּׁמָיִם (비르키아 하샤마임) - 하늘의 궁창",
+        "description": "둘째 날 만들어진 '라키아'(궁창)는 광체들이 놓일 장소로 다시 언급됩니다. 이는 창조의 단계적 완성을 보여주며, 각 날의 창조가 서로 연결되어 하나의 완전한 우주를 이루어감을 나타냅니다.",
+        "points": [
+          "창조의 통일성 - 둘째 날의 궁창이 넷째 날의 광체를 담는 그릇이 됨",
+          "공간의 목적 - 궁창은 광체들이 운행할 무대로 준비됨",
+          "하늘과 땅의 연결 - 궁창 안의 광체들이 땅을 비추며 둘을 연결함"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְהָאִיר (레하이르) - 비추는 목적",
+        "description": "'하이르'(비추다)는 빛의 근원이신 하나님의 의도를 드러냅니다. 광체들은 스스로 빛나는 것이 아니라 하나님께서 주신 빛을 반사하고 전달하는 도구입니다. 이는 모든 피조물이 창조주의 영광을 반사해야 한다는 신학적 진리를 담고 있습니다.",
+        "points": [
+          "파생된 빛 - 광체들의 빛은 하나님께로부터 온 것",
+          "섬김의 기능 - 광체들은 땅과 생명체를 위해 봉사하도록 만들어짐",
+          "영적 비유 - 성도는 세상을 비추는 빛으로 부름받음 (마태복음 5:14-16)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "עַל־הָאָרֶץ (알 하아레츠) - 땅을 향한 빛",
+        "description": "광체들이 하늘에 두어진 궁극적 목적은 '땅 위를' 비추는 것입니다. 이는 하나님의 창조가 인간중심적(anthropocentric)임을 보여줍니다. 광대한 우주의 광체들도 땅과 그 위에 사는 생명체들을 위해 창조되었습니다.",
+        "points": [
+          "땅의 중요성 - 우주의 광체들이 땅을 섬기도록 설계됨",
+          "인간을 향한 하나님의 사랑 - 창조 전체가 인간의 삶을 위해 준비됨",
+          "청지기 의식 - 이러한 섭리를 깨닫고 피조세계를 책임감 있게 다스려야 함"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 해와 달과 별들을 하늘에 두셨을까요?",
+      "answer": "하나님은 우리가 낮과 밤을 구분하고, 계절을 알고, 시간을 잴 수 있도록 해와 달과 별들을 만들어 하늘에 두셨어요. 마치 부모님이 우리 방에 시계와 달력을 걸어주시는 것처럼, 하나님도 우리가 잘 살 수 있도록 하늘에 큰 시계와 달력을 만들어주신 거예요. 그리고 무엇보다도, 밤에 캄캄하지 않도록 달과 별들이 빛을 비춰주게 하셨답니다. 하나님은 우리를 정말 많이 사랑하셔서 모든 것을 우리를 위해 준비해주셨어요!",
+      "bibleReferences": [
+        "시편 136:7-9 - '큰 광명들을 지으신 이에게 감사하라... 해로 낮을 주관하게 하신 이에게 감사하라... 달과 별들로 밤을 주관하게 하신 이에게 감사하라'",
+        "시편 8:3-4 - '주의 손가락으로 만드신 주의 하늘과 주께서 베풀어 두신 달과 별들을 내가 보오니 사람이 무엇이기에 주께서 그를 생각하시며'",
+        "시편 19:1 - '하늘이 하나님의 영광을 선포하고 궁창이 그의 손으로 하신 일을 나타내는도다'",
+        "예레미야 31:35 - '해를 낮의 빛으로 주시며 달과 별들을 밤의 빛으로 정하시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "광체들을 궁창에 '두신다'는 표현은 하나님의 주권적 섭리를 보여줍니다. 광대한 우주도 하나님의 의도와 목적 없이는 존재하지 않으며, 모든 피조물은 창조주의 영광을 드러내고 다른 피조물을 섬기도록 만들어졌습니다. 이는 성도가 '세상의 빛'(마태복음 5:14)으로 부름받은 것과 같이, 우리 또한 하나님께 받은 빛을 세상에 비추며 다른 이들을 섬기는 삶을 살아야 함을 가르칩니다."
+    }
+  }
+}

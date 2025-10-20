@@ -3,19 +3,36 @@ import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWor
 
 interface HebrewIconProps extends IconProps {
   word: string;
+  iconSvg?: string; // 커스텀 SVG 코드
   fallback?: string; // fallback emoji
 }
 
-const HebrewIcon: React.FC<HebrewIconProps> = ({ 
-  word, 
-  size = 32, 
-  className = '', 
+const HebrewIcon: React.FC<HebrewIconProps> = ({
+  word,
+  iconSvg,
+  size = 32,
+  className = '',
   color = 'currentColor',
   fallback = '📜'
 }) => {
-  // 커스텀 아이콘이 있는지 확인
+  // 1. iconSvg가 있으면 SVG 렌더링 (최우선)
+  if (iconSvg && iconSvg.trim().length > 0) {
+    return (
+      <div
+        className={className}
+        style={{
+          width: `${size}px`,
+          height: `${size}px`,
+          display: 'inline-block',
+        }}
+        dangerouslySetInnerHTML={{ __html: iconSvg }}
+      />
+    );
+  }
+
+  // 2. 커스텀 아이콘이 있는지 확인 (레거시 지원)
   const hasCustomIcon = word in HebrewIcons;
-  
+
   if (hasCustomIcon) {
     const iconName = HebrewIcons[word as HebrewWord];
     

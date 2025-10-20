@@ -311,6 +311,63 @@ export type Database = {
         }
         Relationships: []
       }
+      user_word_bookmarks: {
+        Row: {
+          id: string
+          user_id: string
+          word_hebrew: string
+          created_at: string | null
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          word_hebrew: string
+          created_at?: string | null
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          word_hebrew?: string
+          created_at?: string | null
+        }
+        Relationships: []
+      }
+      user_word_progress: {
+        Row: {
+          id: string
+          user_id: string
+          word_hebrew: string
+          next_review: string
+          interval_days: number
+          ease_factor: number
+          review_count: number
+          created_at: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          word_hebrew: string
+          next_review?: string
+          interval_days?: number
+          ease_factor?: number
+          review_count?: number
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          word_hebrew?: string
+          next_review?: string
+          interval_days?: number
+          ease_factor?: number
+          review_count?: number
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
       verses: {
         Row: {
           book_id: string | null

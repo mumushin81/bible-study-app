@@ -1,9 +1,19 @@
-import { useState, useEffect, useMemo } from 'react';
+import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2 } from 'lucide-react';
-import { verses } from '../data/verses';
-import { Word } from '../types';
 import FlashCard from './shared/FlashCard';
+import HebrewIcon from './shared/HebrewIcon';
+import { useWords } from '../hooks/useWords';
+import { useBookmarks } from '../hooks/useBookmarks';
+import { useSRS } from '../hooks/useSRS';
+import {
+  getWordEmoji,
+  getWordColor,
+  getSimpleGrammar,
+  getGrammarEmoji,
+  getTheologicalMeaning,
+  speakHebrew,
+} from '../utils/wordHelpers';
 
 interface VocabularyTabProps {
   darkMode: boolean;
@@ -11,28 +21,21 @@ interface VocabularyTabProps {
 
 type SubTab = 'all' | 'bookmarked' | 'study';
 
-interface WordWithContext extends Word {
-  verseReference: string;
-  verseId: string;
-}
-
-interface SRSData {
-  wordHebrew: string;
-  nextReview: Date;
-  interval: number; // 일 단위
-  easeFactor: number;
-  reviewCount: number;
-}
-
 export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
+  // UI 상태
   const [activeSubTab, setActiveSubTab] = useState<SubTab>('all');
   const [searchQuery, setSearchQuery] = useState('');
-  const [bookmarkedWords, setBookmarkedWords] = useState<Set<string>>(new Set());
-  const [srsData, setSrsData] = useState<Map<string, SRSData>>(new Map());
   const [flippedCard, setFlippedCard] = useState<string | null>(null);
-  const [flippedCards, setFlippedCards] = useState<Set<string>>(new Set()); // 여러 카드 뒤집기용
+  const [flippedCards, setFlippedCards] = useState<Set<string>>(new Set());
   const [studyMode, setStudyMode] = useState(false);
   const [currentStudyIndex, setCurrentStudyIndex] = useState(0);
+
+  // 데이터 hooks
+  const { words: allWords, loading: wordsLoading, error: wordsError } = useWords({
+    bookId: 'genesis',
+  });
+  const { bookmarkedWords, toggleBookmark, isBookmarked } = useBookmarks();
+  const { srsData, updateSRS, isDueForReview, getStats } = useSRS();
 
   // 플래시카드 뒤집기 토글
   const toggleFlip = (hebrew: string) => {
@@ -45,46 +48,6 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     setFlippedCards(newFlipped);
   };
 
-  // localStorage에서 북마크와 SRS 데이터 로드
-  useEffect(() => {
-    const savedBookmarks = localStorage.getItem('bookmarkedWords');
-    if (savedBookmarks) {
-      setBookmarkedWords(new Set(JSON.parse(savedBookmarks)));
-    }
-
-    const savedSRS = localStorage.getItem('srsData');
-    if (savedSRS) {
-      const parsed = JSON.parse(savedSRS);
-      const srsMap = new Map<string, SRSData>();
-      Object.entries(parsed).forEach(([key, value]: [string, any]) => {
-        srsMap.set(key, {
-          ...value,
-          nextReview: new Date(value.nextReview),
-        });
-      });
-      setSrsData(srsMap);
-    }
-  }, []);
-
-  // 모든 구절에서 유니크한 단어 추출
-  const allWords = useMemo(() => {
-    const wordMap = new Map<string, WordWithContext>();
-
-    verses.forEach(verse => {
-      verse.words.forEach(word => {
-        if (!wordMap.has(word.hebrew)) {
-          wordMap.set(word.hebrew, {
-            ...word,
-            verseReference: verse.reference,
-            verseId: verse.id,
-          });
-        }
-      });
-    });
-
-    return Array.from(wordMap.values());
-  }, []);
-
   // 검색 및 필터링된 단어
   const filteredWords = useMemo(() => {
     let words = allWords;
@@ -93,15 +56,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     if (activeSubTab === 'bookmarked') {
       words = words.filter(w => bookmarkedWords.has(w.hebrew));
     } else if (activeSubTab === 'study') {
-      // 오늘 복습할 단어
-      const today = new Date();
-      today.setHours(0, 0, 0, 0);
-
-      words = words.filter(w => {
-        const srs = srsData.get(w.hebrew);
-        if (!srs) return true; // 새 단어
-        return srs.nextReview <= today;
-      });
+      words = words.filter(w => isDueForReview(w.hebrew));
     }
 
     // 검색 필터
@@ -115,105 +70,28 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     }
 
     return words;
-  }, [allWords, activeSubTab, bookmarkedWords, searchQuery, srsData]);
+  }, [allWords, activeSubTab, bookmarkedWords, searchQuery, isDueForReview]);
 
   // 통계
   const stats = useMemo(() => {
-    const total = allWords.length;
+    const allHebrews = allWords.map(w => w.hebrew);
+    const srsStats = getStats(allHebrews);
+
     const bookmarked = Array.from(bookmarkedWords).filter(hebrew =>
       allWords.some(w => w.hebrew === hebrew)
     ).length;
 
-    const today = new Date();
-    today.setHours(0, 0, 0, 0);
+    return {
+      total: srsStats.total,
+      bookmarked,
+      mastered: srsStats.mastered,
+      dueToday: srsStats.dueToday,
+    };
+  }, [allWords, bookmarkedWords, getStats]);
 
-    const mastered = Array.from(srsData.values()).filter(
-      srs => srs.reviewCount >= 5 && srs.interval >= 30
-    ).length;
-
-    const dueToday = allWords.filter(w => {
-      const srs = srsData.get(w.hebrew);
-      if (!srs) return true;
-      return srs.nextReview <= today;
-    }).length;
-
-    return { total, bookmarked, mastered, dueToday };
-  }, [allWords, bookmarkedWords, srsData]);
-
-  // 북마크 토글
-  const toggleBookmark = (hebrew: string) => {
-    const newBookmarks = new Set(bookmarkedWords);
-    if (newBookmarks.has(hebrew)) {
-      newBookmarks.delete(hebrew);
-    } else {
-      newBookmarks.add(hebrew);
-    }
-    setBookmarkedWords(newBookmarks);
-    localStorage.setItem('bookmarkedWords', JSON.stringify(Array.from(newBookmarks)));
-  };
-
-  // SRS 업데이트
-  const updateSRS = (hebrew: string, quality: number) => {
-    // quality: 0 = 모르겠어요, 1 = 애매해요, 2 = 알고있어요
-    const today = new Date();
-    const current = srsData.get(hebrew);
-
-    let newData: SRSData;
-
-    if (!current) {
-      // 새 단어
-      newData = {
-        wordHebrew: hebrew,
-        nextReview: new Date(today.getTime() + (quality === 2 ? 1 : 0) * 24 * 60 * 60 * 1000),
-        interval: quality === 2 ? 1 : 0,
-        easeFactor: 2.5,
-        reviewCount: 1,
-      };
-    } else {
-      let newInterval: number;
-      let newEaseFactor = current.easeFactor;
-
-      if (quality === 0) {
-        // 틀림: 처음부터
-        newInterval = 0;
-        newEaseFactor = Math.max(1.3, current.easeFactor - 0.2);
-      } else if (quality === 1) {
-        // 애매함: 간격 증가 작게
-        newInterval = Math.max(1, Math.floor(current.interval * 1.2));
-      } else {
-        // 맞춤: 간격 크게 증가
-        if (current.interval === 0) {
-          newInterval = 1;
-        } else if (current.interval === 1) {
-          newInterval = 3;
-        } else {
-          newInterval = Math.floor(current.interval * newEaseFactor);
-        }
-        newEaseFactor = current.easeFactor + 0.1;
-      }
-
-      newData = {
-        wordHebrew: hebrew,
-        nextReview: new Date(today.getTime() + newInterval * 24 * 60 * 60 * 1000),
-        interval: newInterval,
-        easeFactor: Math.min(2.5, newEaseFactor),
-        reviewCount: current.reviewCount + 1,
-      };
-    }
-
-    const newSrsData = new Map(srsData);
-    newSrsData.set(hebrew, newData);
-    setSrsData(newSrsData);
-
-    // localStorage 저장
-    const srsObject: any = {};
-    newSrsData.forEach((value, key) => {
-      srsObject[key] = {
-        ...value,
-        nextReview: value.nextReview.toISOString(),
-      };
-    });
-    localStorage.setItem('srsData', JSON.stringify(srsObject));
+  // SRS 업데이트 + 다음 카드로 이동
+  const handleSRSUpdate = (hebrew: string, quality: number) => {
+    updateSRS(hebrew, quality);
 
     // 다음 카드로
     if (studyMode && currentStudyIndex < filteredWords.length - 1) {
@@ -391,6 +269,65 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     // 기본 메시지
     return '이 단어는 하나님의 창조 사역과 그 분의 성품을 드러내는 중요한 용어입니다.';
   };
+
+  // 로딩 상태
+  if (wordsLoading) {
+    return (
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        className={`rounded-3xl shadow-xl p-12 text-center ${
+          darkMode
+            ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20'
+            : 'bg-white/90 border border-amber-200'
+        }`}
+      >
+        <div className="flex flex-col items-center gap-4">
+          <div className={`animate-spin rounded-full h-12 w-12 border-4 border-t-transparent ${
+            darkMode ? 'border-cyan-400' : 'border-purple-600'
+          }`}></div>
+          <p className={darkMode ? 'text-gray-300' : 'text-gray-600'}>
+            단어를 불러오는 중...
+          </p>
+        </div>
+      </motion.div>
+    );
+  }
+
+  // 에러 상태
+  if (wordsError) {
+    return (
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        className={`rounded-3xl shadow-xl p-8 text-center ${
+          darkMode
+            ? 'bg-gradient-to-br from-red-900/40 to-orange-900/40 border border-red-400/20'
+            : 'bg-red-50 border border-red-200'
+        }`}
+      >
+        <div className="flex flex-col items-center gap-4">
+          <span className="text-4xl">⚠️</span>
+          <h3 className={`text-lg font-bold ${darkMode ? 'text-red-300' : 'text-red-800'}`}>
+            단어를 불러오지 못했습니다
+          </h3>
+          <p className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-600'}`}>
+            {wordsError.message}
+          </p>
+          <button
+            onClick={() => window.location.reload()}
+            className={`px-6 py-2 rounded-full transition-all ${
+              darkMode
+                ? 'bg-cyan-500 hover:bg-cyan-600 text-white'
+                : 'bg-purple-600 hover:bg-purple-700 text-white'
+            }`}
+          >
+            다시 시도
+          </button>
+        </div>
+      </motion.div>
+    );
+  }
 
   return (
     <div className={`${darkMode ? 'text-white' : 'text-gray-900'}`}>
@@ -614,7 +551,16 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
                       }}
                     >
                       <div className="text-center py-8">
-                        <div className="text-6xl mb-4">{emoji}</div>
+                        <div className="mb-6 flex justify-center">
+                          <HebrewIcon
+                            word={currentWord.hebrew}
+                            iconSvg={currentWord.iconSvg}
+                            size={96}
+                            color={darkMode ? '#ffffff' : '#1f2937'}
+                            fallback={emoji}
+                            className="drop-shadow-lg"
+                          />
+                        </div>
                         <div
                           className={`text-5xl font-bold mb-4 ${
                             darkMode ? 'text-white drop-shadow-lg' : 'text-gray-900'

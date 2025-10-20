@@ -1,0 +1,209 @@
+{
+  "id": "genesis_1_21",
+  "reference": "창세기 1:21",
+  "hebrew": "וַיִּבְרָא אֱלֹהִים, אֶת-הַתַּנִּינִם הַגְּדֹלִים; וְאֵת כָּל-נֶפֶשׁ הַחַיָּה הָרֹמֶשֶׂת אֲשֶׁר שָׁרְצוּ הַמַּיִם לְמִינֵהֶם, וְאֵת כָּל-עוֹף כָּנָף לְמִינֵהוּ, וַיַּרְא אֱלֹהִים, כִּי-טוֹב.",
+  "ipa": "vajjivˈra ʔɛloˈhim ʔɛt hattanniˈnim haggəðoˈlim vəʔet kol nɛˈfɛʃ haχajˈja haroˈmɛsɛt ʔaˈʃɛr ʃarˈtsu hammˈajim ləmineˈhɛm vəʔet kol ʕof kaˈnaf ləmineˈhu vajˈjar ʔɛloˈhim ki tov",
+  "koreanPronunciation": "바이브라 엘로힘 에트 하타니님 하그돌림 베에트 콜 네페쉬 하하야 하로메세트 아쉐르 샤르쭈 하마임 레미네헴 베에트 콜 오프 카나프 레미네후 바야르 엘로힘 키 토브",
+  "modern": "하나님께서 큰 바다 괴물들과 물에서 번성하는 모든 생물을 그 종류대로, 날개 달린 모든 새를 그 종류대로 창조하시니 하나님께서 보시기에 좋았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּבְרָא",
+      "meaning": "그리고 창조하셨다",
+      "ipa": "vajjivˈra",
+      "korean": "바이브라",
+      "letters": "וַ(va) + יִּ(yi) + בְ(b) + רָא(ra)",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"create21\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></radialGradient><linearGradient id=\"spark21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#create21)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 8 L 35 28 L 32 32 L 29 28 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 56 32 L 36 35 L 32 32 L 36 29 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 32 56 L 29 36 L 32 32 L 35 36 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 8 32 L 28 29 L 32 32 L 28 35 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 1))\" /></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0.3)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow21)\" opacity=\"0.4\" /><path d=\"M 12 42 L 16 28 L 22 34 L 32 22 L 42 34 L 48 28 L 52 42 Z\" fill=\"url(#crown21)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"42\" width=\"40\" height=\"6\" fill=\"url(#crown21)\" rx=\"2\" /><circle cx=\"32\" cy=\"30\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /></svg>"
+    },
+    {
+      "hebrew": "אֶת-הַתַּנִּינִם",
+      "meaning": "바다 괴물들을",
+      "ipa": "ʔɛt hattanniˈnim",
+      "korean": "에트 하타니님",
+      "letters": "אֶת(et) + הַ(ha) + תַּ(tan) + נִּי(ni) + נִם(nim)",
+      "root": "תַּנִּין (타닌)",
+      "grammar": "명사",
+      "emoji": "🐉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dragon21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#00CED1\" /><stop offset=\"100%\" stop-color=\"#20B2AA\" /></linearGradient><linearGradient id=\"scales21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"28\" ry=\"12\" fill=\"url(#dragon21)\" opacity=\"0.3\" /><path d=\"M 12 40 Q 8 32 12 24 Q 16 16 20 12 Q 24 8 28 10 L 32 12 L 36 10 Q 40 8 44 12 Q 48 16 52 24 Q 56 32 52 40\" stroke=\"url(#dragon21)\" stroke-width=\"10\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"22\" cy=\"14\" rx=\"9\" ry=\"7\" fill=\"url(#scales21)\" transform=\"rotate(-20 22 14)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"12\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"18\" cy=\"11\" r=\"1.5\" fill=\"#FF4500\" /></svg>"
+    },
+    {
+      "hebrew": "הַגְּדֹלִים",
+      "meaning": "큰, 거대한",
+      "ipa": "haggəðoˈlim",
+      "korean": "하그돌림",
+      "letters": "הַ(ha) + גְּ(g) + דֹ(do) + לִים(lim)",
+      "root": "גָּדוֹל (가돌)",
+      "grammar": "형용사",
+      "emoji": "📏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"big21\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><radialGradient id=\"pulse21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(100, 149, 237, 0.2)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#pulse21)\" opacity=\"0.5\" /><rect x=\"8\" y=\"16\" width=\"12\" height=\"32\" fill=\"url(#big21)\" rx=\"2\" opacity=\"0.7\" /><rect x=\"26\" y=\"10\" width=\"12\" height=\"44\" fill=\"url(#big21)\" rx=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"4\" width=\"12\" height=\"56\" fill=\"url(#big21)\" rx=\"2\" filter=\"drop-shadow(0 6px 12px rgba(0, 0, 0, 0.4))\" /></svg>"
+    },
+    {
+      "hebrew": "כָּל-נֶפֶשׁ הַחַיָּה",
+      "meaning": "모든 살아있는 생물",
+      "ipa": "kol nɛˈfɛʃ haχajˈja",
+      "korean": "콜 네페쉬 하하야",
+      "letters": "כָּל(kol) + נֶ(ne) + פֶשׁ(fesh) + הַ(ha) + חַ(cha) + יָּה(ya)",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사",
+      "emoji": "🐠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fish21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#FFA07A\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><linearGradient id=\"water21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"rgba(135, 206, 250, 0.5)\" /><stop offset=\"100%\" stop-color=\"rgba(30, 144, 255, 0.5)\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#water21)\" rx=\"8\" /><ellipse cx=\"36\" cy=\"32\" rx=\"22\" ry=\"14\" fill=\"url(#fish21)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 14 32 L 20 24 L 20 40 Z\" fill=\"url(#fish21)\" /><circle cx=\"48\" cy=\"28\" r=\"3\" fill=\"#000000\" opacity=\"0.8\" /><circle cx=\"49\" cy=\"27\" r=\"1\" fill=\"#FFFFFF\" /><path d=\"M 54 24 Q 60 28 60 32 Q 60 36 54 40\" stroke=\"url(#fish21)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "הָרֹמֶשֶׂת",
+      "meaning": "기어다니는, 번식하는",
+      "ipa": "haroˈmɛsɛt",
+      "korean": "하로메세트",
+      "letters": "הָ(ha) + רֹ(ro) + מֶ(me) + שֶׂת(set)",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "동사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"swim21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"50%\" stop-color=\"#40E0D0\" /><stop offset=\"100%\" stop-color=\"#48D1CC\" /></linearGradient><linearGradient id=\"wave21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><path d=\"M 0 32 Q 16 24 32 32 T 64 32\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 40 Q 16 32 32 40 T 64 40\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 0 48 Q 16 40 32 48 T 64 48\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.4\" /><ellipse cx=\"20\" cy=\"20\" rx=\"8\" ry=\"5\" fill=\"url(#swim21)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"44\" cy=\"16\" rx=\"6\" ry=\"4\" fill=\"url(#swim21)\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "שָׁרְצוּ",
+      "meaning": "번성하다, 우글거리다",
+      "ipa": "ʃarˈtsu",
+      "korean": "샤르쭈",
+      "letters": "שָׁ(sha) + רְ(r) + צוּ(tsu)",
+      "root": "שׁ-ר-ץ (샤라츠)",
+      "grammar": "동사",
+      "emoji": "🌟",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"swarm21\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><radialGradient id=\"multi21\"><stop offset=\"0%\" stop-color=\"#00FF7F\" /><stop offset=\"100%\" stop-color=\"#00CED1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#swarm21)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"24\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.9\" /><circle cx=\"44\" cy=\"24\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.9\" /><circle cx=\"26\" cy=\"40\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"40\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.8\" /><circle cx=\"14\" cy=\"32\" r=\"2.5\" fill=\"url(#swarm21)\" opacity=\"0.7\" /><circle cx=\"50\" cy=\"32\" r=\"2.5\" fill=\"url(#swarm21)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"16\" r=\"2\" fill=\"url(#multi21)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"48\" r=\"2\" fill=\"url(#multi21)\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "물, 바다",
+      "ipa": "hammˈajim",
+      "korean": "하마임",
+      "letters": "הַ(ha) + מַּ(ma) + יִם(yim)",
+      "root": "מַיִם (마임)",
+      "grammar": "명사",
+      "emoji": "💧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water_deep21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><radialGradient id=\"drop21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#ADD8E6\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#water_deep21)\" opacity=\"0.4\" rx=\"8\" /><path d=\"M 32 12 Q 28 20 28 28 Q 28 36 32 40 Q 36 36 36 28 Q 36 20 32 12 Z\" fill=\"url(#drop21)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"50\" rx=\"18\" ry=\"6\" fill=\"url(#water_deep21)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "לְמִינֵהֶם",
+      "meaning": "그들의 종류대로",
+      "ipa": "ləmineˈhɛm",
+      "korean": "레미네헴",
+      "letters": "לְ(le) + מִי(mi) + נֵ(ne) + הֶם(hem)",
+      "root": "מִין (민)",
+      "grammar": "명사",
+      "emoji": "🧬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dna21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#BA55D3\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></linearGradient><linearGradient id=\"helix21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><path d=\"M 24 8 Q 32 20 24 32 Q 32 44 24 56\" stroke=\"url(#dna21)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 8 Q 32 20 40 32 Q 32 44 40 56\" stroke=\"url(#dna21)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"24\" y1=\"14\" x2=\"40\" y2=\"14\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"26\" x2=\"40\" y2=\"26\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"38\" x2=\"40\" y2=\"38\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"50\" x2=\"40\" y2=\"50\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><circle cx=\"24\" cy=\"14\" r=\"3\" fill=\"#FF69B4\" /><circle cx=\"40\" cy=\"14\" r=\"3\" fill=\"#9370DB\" /></svg>"
+    },
+    {
+      "hebrew": "עוֹף כָּנָף",
+      "meaning": "날개 달린 새",
+      "ipa": "ʕof kaˈnaf",
+      "korean": "오프 카나프",
+      "letters": "עוֹף(of) + כָּ(ka) + נָף(naf)",
+      "root": "עוֹף (오프)",
+      "grammar": "명사",
+      "emoji": "🦅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"wing21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#bird21)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#bird21)\" /><circle cx=\"30\" cy=\"26\" r=\"2\" fill=\"#000000\" /><circle cx=\"31\" cy=\"25\" r=\"0.8\" fill=\"#FFFFFF\" /><path d=\"M 24 36 Q 8 28 4 32 Q 8 36 24 40 Z\" fill=\"url(#wing21)\" opacity=\"0.9\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 40 36 Q 56 28 60 32 Q 56 36 40 40 Z\" fill=\"url(#wing21)\" opacity=\"0.9\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 24 L 34 22 L 30 22 Z\" fill=\"#FF8C00\" /></svg>"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보셨다",
+      "ipa": "vajˈjar",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eye21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><radialGradient id=\"iris21\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"70%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#191970\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#eye21)\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"14\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#iris21)\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#000000\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /><path d=\"M 8 32 Q 32 16 56 32\" stroke=\"url(#eye21)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 8 32 Q 32 48 56 32\" stroke=\"url(#eye21)\" stroke-width=\"2\" fill=\"none\" /></svg>"
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "meaning": "좋았다, 선하다",
+      "ipa": "ki tov",
+      "korean": "키 토브",
+      "letters": "כִּי(ki) + טוֹב(tov)",
+      "root": "טוֹב (토브)",
+      "grammar": "형용사",
+      "emoji": "✅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"good21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00FF7F\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"glow_good21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(50, 205, 50, 0.3)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_good21)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#good21)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 32 L 28 42 L 48 22\" stroke=\"#FFFFFF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:21은 다섯째 날 창조의 절정으로, 하나님께서 바다 생물과 날아다니는 새들을 창조하신 장면을 묘사합니다. 여기서 '바라'(창조하다)라는 동사가 1절 이후 처음으로 다시 등장하며, 생명체 창조의 특별함을 강조합니다. 또한 '종류대로'라는 표현이 반복되어 하나님의 질서 있는 창조를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תַּנִּינִם הַגְּדֹלִים (타니님 하그돌림) - 거대한 바다 괴물들",
+        "description": "'타니님'은 '거대한 바다 생물'을 의미하며, 고대 근동 신화에서 혼돈과 악의 상징으로 여겨졌던 바다 괴물들을 지칭합니다. 그러나 성경은 이들도 하나님이 창조하신 피조물임을 분명히 합니다.",
+        "points": [
+          "고대 신화의 신적 존재들이 실은 하나님의 피조물일 뿐입니다",
+          "하나님은 혼돈과 두려움의 상징까지도 통제하십니다",
+          "고래, 상어 등 거대한 바다 생물들도 하나님의 선한 창조물입니다",
+          "우리가 두려워하는 것들도 하나님의 주권 아래 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "נֶפֶשׁ הַחַיָּה (네페쉬 하하야) - 살아있는 생명",
+        "description": "'네페쉬'는 '생명', '숨', '혼'을 의미하는 깊은 단어입니다. 여기서는 물속 생물들의 생명력을 강조하며, 2장 7절에서 인간에게 부여된 '생명의 숨'과 연결됩니다.",
+        "points": [
+          "동물도 하나님께서 주신 생명의 숨을 가지고 있습니다",
+          "모든 생명은 하나님으로부터 옵니다",
+          "생명의 신성함과 가치를 보여줍니다",
+          "인간과 동물 모두 하나님의 생명을 받은 존재입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְמִינֵהֶם (레미네헴) - 그 종류대로",
+        "description": "'민'은 '종', '유형'을 의미하며, 하나님의 창조가 무질서하지 않고 질서 있음을 보여줍니다. 각 생물은 고유한 특성과 번식 능력을 가지도록 설계되었습니다.",
+        "points": [
+          "하나님의 창조는 체계적이고 질서정연합니다",
+          "각 생물은 고유한 DNA와 특성을 가집니다",
+          "다양성 속의 질서를 보여줍니다",
+          "창조주의 지혜와 설계를 반영합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "כִּי-טוֹב (키 토브) - 하나님이 보시기에 좋았더라",
+        "description": "'토브'는 단순히 '좋다'는 의미를 넘어 '완전하다', '아름답다', '목적에 적합하다'는 뜻을 담고 있습니다. 하나님의 창조는 도덕적으로나 기능적으로 완벽했습니다.",
+        "points": [
+          "하나님의 창조는 모든 면에서 완벽했습니다",
+          "바다 생물과 새들은 하나님의 기쁨이었습니다",
+          "피조물의 가치는 창조주의 평가에서 나옵니다",
+          "타락 이전의 완전한 세계를 보여줍니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 무서운 바다 괴물도 만드셨을까요?",
+      "answer": "하나님은 모든 것을 통제하실 수 있는 능력이 있으시기 때문이에요. 사람들이 무서워하는 큰 바다 생물들도 하나님께는 그냥 귀여운 동물일 뿐이랍니다. 하나님은 이 모든 생물들을 보시고 '참 좋구나!'라고 기뻐하셨어요. 우리가 무서워하는 것들도 하나님은 다 돌보고 계시고, 하나님보다 더 강한 것은 아무것도 없답니다. 그래서 우리는 안전해요!",
+      "bibleReferences": [
+        "욥기 41:1-34 - '네가 능히 낚시로 리워야단을 낚을 수 있겠느냐'",
+        "시편 104:25-26 - '저기 크고 넓은 바다가 있고 그 속에는 무수한 것들이 있나이다. 그 곳에는 배들이 다니며 주께서 지으신 리워야단이 그 속에서 노나이다'",
+        "시편 148:7 - '땅에서 여호와를 찬양하라 용들과 모든 바다여'",
+        "요나 1:17 - '여호와께서 이미 큰 물고기를 예비하사 요나를 삼키게 하셨으므로'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "다섯째 날 창조는 생명의 다양성과 풍요로움을 보여줍니다. 특히 '바라'(창조하다) 동사가 다시 사용된 것은 생명 창조가 특별한 신적 행위임을 강조합니다. 바다 괴물들조차 하나님의 피조물이라는 선언은 고대 신화의 신들을 부정하고, 오직 여호와 하나님만이 유일하신 창조주임을 확증합니다. 이는 우리가 두려워하는 모든 것이 실은 하나님의 통제 아래 있다는 위로를 줍니다."
+    }
+  }
+}

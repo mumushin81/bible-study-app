@@ -1,0 +1,182 @@
+{
+  "id": "genesis_3_10",
+  "reference": "창세기 3:10",
+  "hebrew": "וַיֹּאמֶר, אֶת-קֹלְךָ שָׁמַעְתִּי בַּגָּן; וָאִירָא כִּי-עֵירֹם אָנֹכִי, וָאֵחָבֵא.",
+  "ipa": "vajˈjomɛr ʔɛt koˈləχa ʃaˈmaʕti bagˈgan vaʔiˈra ki ʕeˈrom ʔanoˈχi vaʔeχaˈbe",
+  "koreanPronunciation": "바요메르 에트 콜레카 샤마티 바간 바이라 키 에이롬 아노키 바에하베",
+  "modern": "그가 대답하기를 내가 동산에서 당신의 음성을 듣고 두려워하였습니다. 왜냐하면 내가 벗었기 때문에 숨었습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말했다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶ(me) + ר(r)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech10_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"40%\" stop-color=\"#764BA2\" /><stop offset=\"80%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#C471F5\" /></linearGradient><radialGradient id=\"glow10_1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#667EEA\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#764BA2\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"wave10_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></linearGradient><linearGradient id=\"shadow10_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#764BA2\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#5B4B8A\" stop-opacity=\"0.8\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow10_1)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#shadow10_1)\" opacity=\"0.3\" /><path d=\"M 12 36 Q 12 18 28 16 Q 44 14 52 24 Q 60 34 52 42 Q 44 50 28 48 Q 20 47 16 50 L 12 56 L 14 48 Q 12 44 12 36 Z\" fill=\"url(#speech10_1)\" filter=\"drop-shadow(0 4px 10px rgba(102, 126, 234, 0.5))\" /><path d=\"M 20 26 Q 22 24 32 24 Q 42 24 44 26\" stroke=\"url(#wave10_1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.9\" /><path d=\"M 20 32 Q 24 30 32 30 Q 40 30 44 32\" stroke=\"url(#wave10_1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.9\" /><path d=\"M 20 38 Q 26 36 36 36 Q 42 36 44 38\" stroke=\"url(#wave10_1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.9\" /><circle cx=\"48\" cy=\"20\" r=\"3\" fill=\"#FFD700\" opacity=\"0.9\" filter=\"drop-shadow(0 0 5px rgba(255, 215, 0, 0.7))\" /><circle cx=\"54\" cy=\"16\" r=\"2\" fill=\"#FF6B9D\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 107, 157, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבָר (다바르 - 말씀)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-קֹלְךָ",
+      "meaning": "당신의 음성을",
+      "ipa": "ʔɛt koˈləχa",
+      "korean": "에트 콜레카",
+      "letters": "אֶת(et) + קֹ(ko) + לְ(le) + ךָ(cha)",
+      "root": "קוֹל (콜)",
+      "grammar": "명사",
+      "emoji": "🔊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"voice10_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"30%\" stop-color=\"#667EEA\" /><stop offset=\"70%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#9B59B6\" /></linearGradient><radialGradient id=\"sound10_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#667EEA\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#764BA2\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"speaker10_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"50%\" stop-color=\"#2980B9\" /><stop offset=\"100%\" stop-color=\"#1F618D\" /></linearGradient><linearGradient id=\"wave10_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"50%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#sound10_2)\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#sound10_2)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#sound10_2)\" opacity=\"0.4\" /><g><path d=\"M 16 24 L 16 40 L 24 40 L 32 48 L 32 16 L 24 24 Z\" fill=\"url(#speaker10_2)\" filter=\"drop-shadow(2px 3px 6px rgba(52, 152, 219, 0.5))\" /><rect x=\"16\" y=\"24\" width=\"8\" height=\"16\" fill=\"url(#voice10_2)\" opacity=\"0.7\" /></g><g opacity=\"0.9\"><path d=\"M 36 22 Q 40 26 40 32 Q 40 38 36 42\" stroke=\"url(#wave10_2)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(231, 76, 60, 0.4))\" /><path d=\"M 42 18 Q 48 24 48 32 Q 48 40 42 46\" stroke=\"url(#wave10_2)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(243, 156, 18, 0.4))\" /><path d=\"M 48 14 Q 56 20 56 32 Q 56 44 48 50\" stroke=\"url(#wave10_2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 4px rgba(255, 215, 0, 0.4))\" /></g></svg>",
+      "relatedWords": [
+        "קוֹל (콜 - 음성, 소리)",
+        "קָרָא (카라 - 부르다)"
+      ]
+    },
+    {
+      "hebrew": "שָׁמַעְתִּי",
+      "meaning": "내가 들었다",
+      "ipa": "ʃaˈmaʕti",
+      "korean": "샤마티",
+      "letters": "שָׁ(sha) + מַ(ma) + עְ(e) + תִּי(ti)",
+      "root": "ש-מ-ע (샤마)",
+      "grammar": "동사",
+      "emoji": "👂",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hear10_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"30%\" stop-color=\"#E67E22\" /><stop offset=\"70%\" stop-color=\"#D35400\" /><stop offset=\"100%\" stop-color=\"#CA6F1E\" /></linearGradient><radialGradient id=\"ear10_3\"><stop offset=\"0%\" stop-color=\"#FDEBD0\" /><stop offset=\"50%\" stop-color=\"#F5B041\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></radialGradient><linearGradient id=\"sound10_3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"50%\" stop-color=\"#5DADE2\" /><stop offset=\"100%\" stop-color=\"#85C1E9\" /></linearGradient><radialGradient id=\"glow10_3\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#F39C12\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#E67E22\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow10_3)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#glow10_3)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"20\" fill=\"url(#ear10_3)\" filter=\"drop-shadow(2px 3px 6px rgba(230, 126, 34, 0.4))\" /><path d=\"M 28 20 Q 24 24 24 32 Q 24 40 28 44 Q 30 46 32 46 Q 34 46 36 44 Q 40 40 40 32 Q 40 24 36 20 Q 34 18 32 18 Q 30 18 28 20 Z\" fill=\"url(#hear10_3)\" opacity=\"0.8\" filter=\"drop-shadow(1px 2px 4px rgba(211, 84, 0, 0.5))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"#D35400\" opacity=\"0.5\" /><path d=\"M 30 28 Q 28 32 30 36\" stroke=\"#CA6F1E\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><g opacity=\"0.8\"><path d=\"M 12 28 Q 16 30 18 32\" stroke=\"url(#sound10_3)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 1px 3px rgba(52, 152, 219, 0.4))\" /><path d=\"M 8 24 Q 14 28 18 32\" stroke=\"url(#sound10_3)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" filter=\"drop-shadow(0 1px 3px rgba(93, 173, 226, 0.4))\" /><path d=\"M 6 20 Q 12 26 18 32\" stroke=\"url(#sound10_3)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.5\" filter=\"drop-shadow(0 1px 3px rgba(133, 193, 233, 0.4))\" /></g></svg>",
+      "relatedWords": [
+        "שָׁמַע (샤마 - 듣다, 순종하다)",
+        "שְׁמוּעָה (슈무아 - 소문)"
+      ]
+    },
+    {
+      "hebrew": "בַּגָּן",
+      "meaning": "동산에서",
+      "ipa": "bagˈgan",
+      "korean": "바간",
+      "letters": "בַּ(ba) + גָּן(gan)",
+      "root": "גַּן (간)",
+      "grammar": "명사",
+      "emoji": "🌳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"garden10_4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A8E6CF\" /><stop offset=\"30%\" stop-color=\"#56C596\" /><stop offset=\"70%\" stop-color=\"#3CB371\" /><stop offset=\"100%\" stop-color=\"#2E8B57\" /></linearGradient><linearGradient id=\"tree10_4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#3CB371\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><linearGradient id=\"trunk10_4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\" /><stop offset=\"50%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"eden10_4\"><stop offset=\"0%\" stop-color=\"#F0FFF0\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#90EE90\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#3CB371\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"fruit10_4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#EE5A6F\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#eden10_4)\" /><rect width=\"64\" height=\"64\" fill=\"url(#garden10_4)\" rx=\"8\" opacity=\"0.3\" /><g><rect x=\"28\" y=\"38\" width=\"8\" height=\"18\" rx=\"2\" fill=\"url(#trunk10_4)\" filter=\"drop-shadow(2px 2px 5px rgba(101, 67, 33, 0.5))\" /><circle cx=\"32\" cy=\"28\" r=\"18\" fill=\"url(#tree10_4)\" filter=\"drop-shadow(0 4px 10px rgba(60, 179, 113, 0.5))\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#tree10_4)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#tree10_4)\" opacity=\"0.5\" /></g><g><circle cx=\"26\" cy=\"22\" r=\"4\" fill=\"url(#fruit10_4)\" filter=\"drop-shadow(0 2px 4px rgba(196, 69, 105, 0.5))\" opacity=\"0.9\" /><circle cx=\"38\" cy=\"24\" r=\"4\" fill=\"url(#fruit10_4)\" filter=\"drop-shadow(0 2px 4px rgba(196, 69, 105, 0.5))\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#fruit10_4)\" filter=\"drop-shadow(0 2px 4px rgba(196, 69, 105, 0.5))\" opacity=\"0.9\" /><circle cx=\"26\" cy=\"22\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"24\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.7\" /></g><g opacity=\"0.6\"><path d=\"M 8 52 Q 10 48 12 52\" stroke=\"#2E8B57\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 16 54 Q 18 50 20 54\" stroke=\"#2E8B57\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 44 54 Q 46 50 48 54\" stroke=\"#2E8B57\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 52 52 Q 54 48 56 52\" stroke=\"#2E8B57\" stroke-width=\"2\" fill=\"none\" /></g></svg>",
+      "relatedWords": [
+        "גַּן עֵדֶן (간 에덴 - 에덴동산)",
+        "גַּנָּן (가난 - 정원사)"
+      ]
+    },
+    {
+      "hebrew": "וָאִירָא",
+      "meaning": "그리고 나는 두려워했다",
+      "ipa": "vaʔiˈra",
+      "korean": "바이라",
+      "letters": "וָ(va) + אִ(i) + ירָ(ra) + א(a)",
+      "root": "י-ר-א (야레)",
+      "grammar": "동사",
+      "emoji": "😨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fear10_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5C5470\" /><stop offset=\"30%\" stop-color=\"#352F44\" /><stop offset=\"70%\" stop-color=\"#2A2438\" /><stop offset=\"100%\" stop-color=\"#1C1825\" /></linearGradient><radialGradient id=\"terror10_5\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#2A2438\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#5C5470\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"shake10_5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"50%\" stop-color=\"#FFAA4C\" /><stop offset=\"100%\" stop-color=\"#FF6B6B\" /></linearGradient><radialGradient id=\"darkness10_5\"><stop offset=\"0%\" stop-color=\"#352F44\" stop-opacity=\"0.3\" /><stop offset=\"50%\" stop-color=\"#2A2438\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#1C1825\" stop-opacity=\"0.9\" /></radialGradient><linearGradient id=\"tremble10_5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E63946\" /><stop offset=\"50%\" stop-color=\"#F77F00\" /><stop offset=\"100%\" stop-color=\"#FCBF49\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#terror10_5)\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#darkness10_5)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#fear10_5)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 12px rgba(28, 24, 37, 0.8))\" /><g><ellipse cx=\"32\" cy=\"35\" rx=\"12\" ry=\"16\" fill=\"url(#shake10_5)\" opacity=\"0.3\" filter=\"drop-shadow(0 2px 6px rgba(255, 107, 107, 0.4))\" /><circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFE66D\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(255, 230, 109, 0.6))\" /><circle cx=\"36\" cy=\"28\" r=\"4\" fill=\"#FFE66D\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(255, 230, 109, 0.6))\" /><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#1C1825\" /><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#1C1825\" /><path d=\"M 26 40 Q 32 36 38 40\" stroke=\"url(#tremble10_5)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 1px 3px rgba(230, 57, 70, 0.5))\" /></g><g opacity=\"0.6\"><path d=\"M 18 24 Q 16 26 18 28\" stroke=\"url(#tremble10_5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 46 24 Q 48 26 46 28\" stroke=\"url(#tremble10_5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 16 34 Q 14 36 16 38\" stroke=\"url(#tremble10_5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 48 34 Q 50 36 48 38\" stroke=\"url(#tremble10_5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /></g><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"none\" stroke=\"url(#fear10_5)\" stroke-width=\"2\" opacity=\"0.4\" stroke-dasharray=\"4 4\" /></svg>",
+      "relatedWords": [
+        "יִרְאָה (이르아 - 두려움, 경외)",
+        "פַּחַד (파하드 - 공포)"
+      ]
+    },
+    {
+      "hebrew": "כִּי-עֵירֹם אָנֹכִי",
+      "meaning": "내가 벗었기 때문에",
+      "ipa": "ki ʕeˈrom ʔanoˈχi",
+      "korean": "키 에이롬 아노키",
+      "letters": "כִּי(ki) + עֵ(e) + ירֹם(rom) + אָ(a) + נֹ(no) + כִי(chi)",
+      "root": "כִּי (키) + עֵירֹם (에이롬) + אָנֹכִי (아노키)",
+      "grammar": "형용사",
+      "emoji": "🙈",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"naked10_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\" /><stop offset=\"30%\" stop-color=\"#FFB6A3\" /><stop offset=\"70%\" stop-color=\"#FF8C94\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></linearGradient><radialGradient id=\"shame10_6\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FFB6C1\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"expose10_6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"50%\" stop-color=\"#C0392B\" /><stop offset=\"100%\" stop-color=\"#A93226\" /></linearGradient><linearGradient id=\"cover10_6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"50%\" stop-color=\"#229954\" /><stop offset=\"100%\" stop-color=\"#1D8348\" /></linearGradient><radialGradient id=\"guilt10_6\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#shame10_6)\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#guilt10_6)\" /><circle cx=\"32\" cy=\"30\" r=\"16\" fill=\"url(#naked10_6)\" filter=\"drop-shadow(0 3px 8px rgba(255, 107, 157, 0.4))\" opacity=\"0.85\" /><g><circle cx=\"28\" cy=\"26\" r=\"3\" fill=\"#8B4513\" opacity=\"0.9\" /><circle cx=\"36\" cy=\"26\" r=\"3\" fill=\"#8B4513\" opacity=\"0.9\" /><circle cx=\"28\" cy=\"26\" r=\"1.5\" fill=\"#000000\" /><circle cx=\"36\" cy=\"26\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 26 34 Q 32 32 38 34\" stroke=\"url(#expose10_6)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" filter=\"drop-shadow(0 1px 3px rgba(231, 76, 60, 0.4))\" /></g><g opacity=\"0.8\"><ellipse cx=\"24\" cy=\"28\" rx=\"4\" ry=\"3\" fill=\"#FF6B9D\" opacity=\"0.6\" /><ellipse cx=\"40\" cy=\"28\" rx=\"4\" ry=\"3\" fill=\"#FF6B9D\" opacity=\"0.6\" /></g><g transform=\"translate(16, 40)\"><path d=\"M 0 0 Q 2 -2 6 0 Q 12 2 16 0 Q 20 -2 24 0 Q 28 2 32 0\" stroke=\"url(#cover10_6)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 4px rgba(29, 131, 72, 0.3))\" /><path d=\"M 2 4 Q 6 2 10 4 Q 14 6 18 4 Q 22 2 26 4 Q 30 6 32 4\" stroke=\"url(#cover10_6)\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.4\" /></g><g opacity=\"0.5\"><circle cx=\"20\" cy=\"20\" r=\"2\" fill=\"#E74C3C\" filter=\"drop-shadow(0 0 3px rgba(231, 76, 60, 0.5))\" /><circle cx=\"44\" cy=\"20\" r=\"2\" fill=\"#E74C3C\" filter=\"drop-shadow(0 0 3px rgba(231, 76, 60, 0.5))\" /></g></svg>",
+      "relatedWords": [
+        "עֵירֹם (에이롬 - 벗은)",
+        "עֶרְוָה (에르바 - 벗음, 수치)"
+      ]
+    },
+    {
+      "hebrew": "וָאֵחָבֵא",
+      "meaning": "그리고 나는 숨었다",
+      "ipa": "vaʔeχaˈbe",
+      "korean": "바에하베",
+      "letters": "וָ(va) + אֵ(e) + חָ(cha) + בֵא(be)",
+      "root": "ח-ב-א (하바)",
+      "grammar": "동사",
+      "emoji": "🙊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hide10_7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6C5B7B\" /><stop offset=\"30%\" stop-color=\"#5B4B6A\" /><stop offset=\"70%\" stop-color=\"#4A3C59\" /><stop offset=\"100%\" stop-color=\"#392D48\" /></linearGradient><radialGradient id=\"shadow10_7\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.7\" /><stop offset=\"50%\" stop-color=\"#2D2438\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#4A3C59\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"bush10_7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7CB342\" /><stop offset=\"50%\" stop-color=\"#558B2F\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient><linearGradient id=\"person10_7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\" /><stop offset=\"50%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><radialGradient id=\"darkness10_7\"><stop offset=\"0%\" stop-color=\"#1C1825\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0.9\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#shadow10_7)\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#darkness10_7)\" opacity=\"0.6\" /><g><ellipse cx=\"28\" cy=\"44\" rx=\"20\" ry=\"16\" fill=\"url(#bush10_7)\" filter=\"drop-shadow(2px 3px 8px rgba(51, 105, 30, 0.6))\" opacity=\"0.9\" /><ellipse cx=\"20\" cy=\"38\" rx=\"12\" ry=\"10\" fill=\"url(#bush10_7)\" opacity=\"0.8\" /><ellipse cx=\"36\" cy=\"40\" rx=\"14\" ry=\"12\" fill=\"url(#bush10_7)\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"34\" r=\"8\" fill=\"url(#bush10_7)\" opacity=\"0.7\" /><circle cx=\"34\" cy=\"36\" r=\"9\" fill=\"url(#bush10_7)\" opacity=\"0.7\" /></g><g opacity=\"0.7\" transform=\"translate(0, 2)\"><circle cx=\"28\" cy=\"32\" r=\"6\" fill=\"url(#person10_7)\" filter=\"drop-shadow(1px 2px 4px rgba(0, 0, 0, 0.5))\" opacity=\"0.6\" /><circle cx=\"26\" cy=\"30\" r=\"1.5\" fill=\"#654321\" opacity=\"0.8\" /><circle cx=\"30\" cy=\"30\" r=\"1.5\" fill=\"#654321\" opacity=\"0.8\" /><ellipse cx=\"28\" cy=\"38\" rx=\"4\" ry=\"6\" fill=\"url(#person10_7)\" opacity=\"0.5\" /></g><g opacity=\"0.5\"><path d=\"M 14 46 Q 16 42 18 46\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 20 48 Q 22 44 24 48\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 38 48 Q 40 44 42 48\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 44 46 Q 46 42 48 46\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /></g><path d=\"M 18 24 Q 22 20 28 22 Q 34 24 38 20\" stroke=\"url(#hide10_7)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.4\" stroke-dasharray=\"3 3\" /></svg>",
+      "relatedWords": [
+        "חָבָא (하바 - 숨다)",
+        "סָתַר (사타르 - 감추다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3장 10절은 아담이 하나님의 부르심에 처음으로 응답하는 장면입니다. 그의 대답은 죄가 인간에게 어떤 영향을 미쳤는지를 극명하게 보여줍니다. 이전까지 하나님과 자유롭게 교제하던 아담이 이제는 두려움에 떨며 숨는 존재가 되었습니다. 이 구절은 죄의 즉각적인 결과인 두려움, 수치심, 그리고 하나님으로부터의 분리를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֶת-קֹלְךָ שָׁמַעְתִּי (에트 콜레카 샤마티) - 당신의 음성을 듣고",
+        "description": "아담은 하나님의 음성을 들었습니다. 이전에는 기쁨과 평안의 원천이었던 하나님의 음성이 이제는 두려움의 원인이 되었습니다. 죄는 하나님과의 관계를 근본적으로 변화시켰고, 친밀함은 두려움으로, 평안은 불안으로 바뀌었습니다.",
+        "points": [
+          "하나님의 음성은 여전히 아담에게 들려왔습니다 - 하나님은 먼저 찾아오시는 분입니다",
+          "죄 이전에는 하나님의 음성이 기쁨이었지만, 죄 이후에는 두려움의 원인이 되었습니다",
+          "하나님은 범죄한 아담을 버리지 않고 여전히 부르십니다",
+          "이는 하나님의 구원 계획의 시작을 암시합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וָאִירָא כִּי-עֵירֹם אָנֹכִי (바이라 키 에이롬 아노키) - 내가 벗었기에 두려워했습니다",
+        "description": "아담의 두려움은 자신의 벗은 몸을 의식한 데서 비롯됩니다. 죄 이전에는 '벗었으나 부끄러워하지 않았지만'(창 2:25), 죄 이후에는 벗음이 수치와 두려움의 원인이 되었습니다. 이는 죄가 가져온 자아 인식의 변화를 보여줍니다.",
+        "points": [
+          "죄는 순수한 자아 인식을 수치심으로 바꾸었습니다",
+          "벗음은 물리적 상태뿐 아니라 영적 무방비 상태를 의미합니다",
+          "아담은 자신의 부족함과 취약함을 처음으로 의식하게 되었습니다",
+          "하나님 앞에서의 벗음은 더 이상 순수함이 아니라 수치가 되었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וָאֵחָבֵא (바에하베) - 그리고 나는 숨었습니다",
+        "description": "아담의 반응은 숨는 것이었습니다. 이는 죄의 본질적 결과입니다 - 하나님으로부터의 분리, 관계의 단절, 친밀함의 상실. 전능하신 하나님으로부터 숨을 수 있다고 생각한 것 자체가 죄가 가져온 영적 혼란을 보여줍니다.",
+        "points": [
+          "죄는 본능적으로 하나님으로부터 숨게 만듭니다",
+          "아담은 하나님을 피하려 했지만, 하나님은 여전히 그를 찾으셨습니다",
+          "숨는 행위는 문제를 해결하지 못하고 오히려 더 큰 분리를 만듭니다",
+          "이는 모든 인간이 죄 때문에 하나님을 피하려는 본성을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "죄가 가져온 세 가지 변화 - 두려움, 수치심, 숨음",
+        "description": "이 구절은 죄가 인간에게 가져온 세 가지 핵심적 변화를 보여줍니다. 첫째, 하나님에 대한 두려움 (이전에는 사랑과 기쁨). 둘째, 자아에 대한 수치심 (이전에는 순수함과 자유). 셋째, 하나님으로부터 숨음 (이전에는 친밀한 교제). 이 세 가지는 오늘날 모든 인간이 경험하는 영적 상태입니다.",
+        "points": [
+          "죄는 하나님과의 관계를 사랑에서 두려움으로 변화시킵니다",
+          "죄는 자아 인식을 순수함에서 수치심으로 변화시킵니다",
+          "죄는 하나님과의 교제를 친밀함에서 분리로 변화시킵니다",
+          "이 세 가지 변화는 예수 그리스도를 통해서만 회복될 수 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 하나님의 음성을 듣고 두려워서 숨었을까요?",
+      "answer": "아담은 하나님께 불순종했기 때문에 두려워했어요. 마치 우리가 잘못을 저지르고 부모님을 만나기 두려운 것처럼요. 이전에는 아담이 하나님의 음성을 듣는 것이 가장 기쁜 순간이었지만, 죄를 지은 후에는 가장 두려운 순간이 되었어요. 아담은 자신이 벗은 것을 부끄러워했고, 하나님 앞에 설 수 없다고 생각했어요. 하지만 중요한 건, 하나님은 아담이 숨었어도 계속 찾으셨다는 거예요. 하나님은 우리가 잘못을 해도 여전히 우리를 사랑하시고, 우리를 찾아오시는 분이세요. 그래서 예수님이 오셔서 우리의 수치를 가려주시고, 우리가 다시 하나님 앞에 담대히 나갈 수 있게 해주셨답니다.",
+      "bibleReferences": [
+        "히브리서 4:16 - 그러므로 우리는 긍휼하심을 받고 때를 따라 돕는 은혜를 얻기 위하여 은혜의 보좌 앞에 담대히 나아갈 것이라",
+        "요한일서 4:18 - 사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내쫓나니",
+        "시편 139:7-8 - 내가 주의 영을 떠나 어디로 가며 주의 앞에서 어디로 피하리이까",
+        "로마서 8:1 - 그러므로 이제 그리스도 예수 안에 있는 자에게는 결코 정죄함이 없나니"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:10은 죄의 본질적 결과를 보여줍니다. 죄는 하나님과의 관계를 근본적으로 변화시켜, 사랑을 두려움으로, 친밀함을 분리로, 자유를 수치로 바꾸었습니다. 아담의 반응 - 두려워하고, 수치심을 느끼고, 숨는 것 - 은 모든 타락한 인간의 본능적 반응입니다. 그러나 하나님은 숨은 아담을 찾으셨고, 이는 하나님의 구원 계획의 시작을 보여줍니다. 예수 그리스도는 우리의 수치를 가려주시고(이사야 61:10), 두려움을 사랑으로 바꾸시며(요일 4:18), 우리가 하나님 앞에 담대히 나아갈 수 있게 하셨습니다(히 4:16). 아담이 숨었던 것처럼 우리도 죄 때문에 하나님을 피하지만, 하나님은 여전히 우리를 찾으시고 회복시키기를 원하십니다."
+    }
+  }
+}
