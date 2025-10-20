@@ -322,6 +322,76 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     }
   };
 
+  // 간단한 품사 변환
+  const getSimpleGrammar = (grammar: string) => {
+    if (grammar.includes('명사')) return '명사';
+    if (grammar.includes('동사')) return '동사';
+    if (grammar.includes('형용사')) return '형용사';
+    if (grammar.includes('전치사') || grammar.includes('조사')) return '전치사';
+    if (grammar.includes('접속사')) return '접속사';
+    if (grammar.includes('부사')) return '부사';
+    if (grammar.includes('대명사')) return '대명사';
+    return '기타';
+  };
+
+  // 품사별 이모지
+  const getGrammarEmoji = (grammar: string) => {
+    if (grammar.includes('명사')) return '💠';
+    if (grammar.includes('동사')) return '🔥';
+    if (grammar.includes('형용사')) return '🎨';
+    if (grammar.includes('전치사') || grammar.includes('조사')) return '🔗';
+    if (grammar.includes('접속사')) return '➕';
+    if (grammar.includes('부사')) return '💫';
+    if (grammar.includes('대명사')) return '👉';
+    return '📜';
+  };
+
+  // 신학적 의미 제공
+  const getTheologicalMeaning = (word: Word) => {
+    const hebrew = word.hebrew;
+    const meaning = word.meaning.toLowerCase();
+
+    // 특정 단어들에 대한 신학적 의미
+    if (hebrew === 'בְּרֵאשִׁית') {
+      return '시간의 절대적 시작점. 하나님이 시간, 공간, 물질을 창조하신 그 순간을 가리킵니다.';
+    }
+    if (hebrew === 'בָּרָא') {
+      return '오직 하나님만이 할 수 있는 무에서 유를 만드는 창조. 인간의 “만들기”와는 차원이 다릅니다.';
+    }
+    if (hebrew === 'אֱלֹהִים') {
+      return '형태는 복수이지만 단수 동사와 사용되는 “존엄의 복수”. 하나님의 무한한 위엄과 권능을 나타냅니다.';
+    }
+    if (hebrew === 'הַשָּׁמַיִם') {
+      return '복수형으로 사용되어 하늘의 방대함과 층차성을 표현. 물리적 하늘과 영적 하늘을 모두 포함합니다.';
+    }
+    if (hebrew === 'הָאָרֶץ') {
+      return '하나님이 인간을 위해 특별히 준비하신 거주 공간. 물리적 환경이자 영적 생활의 무대입니다.';
+    }
+    if (hebrew === 'אֵת') {
+      return '히브리어에만 있는 독특한 문법 요소. 직접 목적어가 특별히 중요함을 강조합니다.';
+    }
+    if (meaning.includes('빛')) {
+      return '단순한 물리적 빛이 아니라 하나님의 진리와 거룩함을 상징하는 영적 실재입니다.';
+    }
+    if (meaning.includes('어둠')) {
+      return '하나님이 아직 빛으로 질서를 부여하지 않은 상태. 혼돈과 무질서를 의미합니다.';
+    }
+    if (meaning.includes('물')) {
+      return '생명의 원소이자 정결을 상징. 세례와 중생의 영적 의미로 확장됩니다.';
+    }
+    
+    // 기본 신학적 의미
+    if (word.grammar?.includes('동사')) {
+      return '하나님의 적극적인 행위를 나타냄. 창조주로서의 주동적 역할을 강조합니다.';
+    }
+    if (word.grammar?.includes('명사')) {
+      return '하나님이 창조하신 구체적 대상. 모든 피조물에는 하나님의 목적과 뜻이 담겨 있습니다.';
+    }
+    
+    // 기본 메시지
+    return '이 단어는 하나님의 창조 사역과 그 분의 성품을 드러내는 중요한 용어입니다.';
+  };
+
   return (
     <div className={`${darkMode ? 'text-white' : 'text-gray-900'}`}>
       {/* 헤더 */}
@@ -652,56 +722,33 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
                           </div>
                         </div>
 
-                        {/* 어근 */}
-                        {currentWord.root && (
-                          <div>
-                            <div
-                              className={`font-semibold mb-0.5 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}
-                              style={{ fontSize: 'clamp(0.6rem, 2vw, 0.75rem)' }}
-                            >
-                              🌱 어근
-                            </div>
-                            <div
-                              className={`font-medium ${darkMode ? 'text-gray-200' : 'text-gray-800'}`}
-                              style={{ fontSize: 'clamp(0.75rem, 2.5vw, 0.9rem)' }}
-                            >
-                              {currentWord.root}
-                            </div>
-                          </div>
-                        )}
-
-                        {/* 문법 */}
+                        {/* 간단한 품사 */}
                         {currentWord.grammar && (
-                          <div>
-                            <div
-                              className={`font-semibold mb-0.5 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}
-                              style={{ fontSize: 'clamp(0.6rem, 2vw, 0.75rem)' }}
-                            >
-                              📝 문법
-                            </div>
-                            <div
-                              className={`${darkMode ? 'text-gray-300' : 'text-gray-700'}`}
-                              style={{ fontSize: 'clamp(0.7rem, 2.2vw, 0.85rem)' }}
-                            >
-                              {currentWord.grammar}
+                          <div className="text-center mb-2">
+                            <div className={`inline-block px-3 py-1.5 rounded-lg font-bold ${darkMode ? 'bg-black/30 text-gray-200' : 'bg-white/50 text-gray-800'}`}>
+                              {getSimpleGrammar(currentWord.grammar)} {getGrammarEmoji(currentWord.grammar)}
                             </div>
                           </div>
                         )}
 
-                        {/* 구조 */}
-                        {currentWord.structure && (
-                          <div>
-                            <div
-                              className={`font-semibold mb-0.5 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}
-                              style={{ fontSize: 'clamp(0.6rem, 2vw, 0.75rem)' }}
-                            >
-                              🔍 구조
+                        {/* 신학적 의미 */}
+                        <div className={`p-3 rounded-lg mb-2 ${darkMode ? 'bg-gradient-to-r from-indigo-900/30 to-purple-900/30 border border-indigo-500/30' : 'bg-gradient-to-r from-indigo-50/90 to-purple-50/90 border border-indigo-300/50'}`}>
+                          <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-indigo-300' : 'text-indigo-700'}`}>
+                            ✨ 성경적 의미
+                          </div>
+                          <div className={`text-sm font-medium ${darkMode ? 'text-indigo-100' : 'text-indigo-900'}`}>
+                            {getTheologicalMeaning(currentWord)}
+                          </div>
+                        </div>
+
+                        {/* 비슷한 단어 (있을 경우) */}
+                        {currentWord.relatedWords && currentWord.relatedWords.length > 0 && (
+                          <div className={`p-3 rounded-lg mb-2 ${darkMode ? 'bg-gradient-to-r from-blue-900/30 to-cyan-900/30 border border-blue-500/30' : 'bg-gradient-to-r from-blue-50/90 to-cyan-50/90 border border-blue-300/50'}`}>
+                            <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
+                              🔗 비슷한 단어
                             </div>
-                            <div
-                              className={`${darkMode ? 'text-gray-300' : 'text-gray-700'}`}
-                              style={{ fontSize: 'clamp(0.7rem, 2.2vw, 0.85rem)' }}
-                            >
-                              {currentWord.structure}
+                            <div className={`text-sm font-medium ${darkMode ? 'text-blue-100' : 'text-blue-900'}`}>
+                              {currentWord.relatedWords.join(', ')}
                             </div>
                           </div>
                         )}

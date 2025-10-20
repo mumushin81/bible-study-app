@@ -40,8 +40,8 @@ test.describe('로컬 DB 연결 테스트', () => {
       }
     }
 
-    // 히브리어 텍스트가 표시되는지 확인
-    const hebrewText = await page.locator('text=/בְּרֵאשִׁית/').first();
+    // 히브리어 텍스트가 표시되는지 확인 (전체 구절 포함)
+    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
     console.log('✅ 히브리어 구절이 화면에 표시됩니다.');
 

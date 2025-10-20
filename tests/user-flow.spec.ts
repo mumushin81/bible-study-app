@@ -102,8 +102,8 @@ test.describe('사용자 기능 플로우 테스트', () => {
     console.log('✅ Step 7.5: 사용자 프로필 표시됨');
 
     // 8. 학습 탭에서 구절 확인
-    const hebrewText = page.locator('text=/בְּרֵאשִׁית/').first();
-    await expect(hebrewText).toBeVisible();
+    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
+    await expect(hebrewText).toBeVisible({ timeout: 10000 });
     console.log('✅ Step 8: 히브리어 구절 표시 확인');
 
     // 9. "학습 완료로 표시" 버튼 찾기 및 클릭

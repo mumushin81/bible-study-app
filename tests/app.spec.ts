@@ -18,24 +18,23 @@ test.describe('Bible Study App - Deployment Tests', () => {
   });
 
   test('2. 히브리어 성경 구절 표시 확인', async ({ page }) => {
-    // 히브리어 텍스트가 있는 요소 찾기
-    const hebrewText = page.locator('text=/[א-ת]+/').first();
+    // 히브리어 텍스트가 있는 요소 찾기 (모음 기호 포함)
+    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
 
     // 한국어 번역도 있는지 확인
-    const koreanText = page.locator('text=/[가-힣]+/').first();
+    const koreanText = page.locator('text=/태초에|하나님|창조/').first();
     await expect(koreanText).toBeVisible();
 
     console.log('✅ 히브리어 성경 구절과 한국어 번역이 표시됩니다.');
   });
 
   test('3. 탭 전환 기능 테스트', async ({ page }) => {
-    // 하단 네비게이션이 보이는지 확인
-    const navigation = page.locator('nav, [role="navigation"]').last();
-    await expect(navigation).toBeVisible();
+    // 하단 네비게이션 버튼들이 보이는지 확인
+    const vocabularyTab = page.getByRole('button', { name: /단어장/i });
+    await expect(vocabularyTab).toBeVisible({ timeout: 5000 });
 
     // Vocabulary 탭 클릭
-    const vocabularyTab = page.getByRole('button', { name: /단어장|vocabulary/i });
     if (await vocabularyTab.count() > 0) {
       await vocabularyTab.click();
       await page.waitForTimeout(500);

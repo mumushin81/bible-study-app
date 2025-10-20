@@ -129,8 +129,9 @@ export function useVerses(options?: UseVersesOptions) {
                 color: s.color as any,
               }))
 
-            const whyQuestion = commentaryData.why_questions?.[0]
-            const conclusion = commentaryData.commentary_conclusions?.[0]
+            // why_questions and commentary_conclusions are objects (one-to-one), not arrays
+            const whyQuestion = commentaryData.why_questions
+            const conclusion = commentaryData.commentary_conclusions
 
             commentary = {
               intro: commentaryData.intro,
