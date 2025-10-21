@@ -7,12 +7,12 @@ export interface WordWithContext {
   meaning: string
   ipa: string
   korean: string
+  letters?: string
   root: string
   grammar: string
   structure?: string
   emoji?: string
   iconSvg?: string
-  letters?: string
   relatedWords?: string[]
   category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle'
   verseReference: string
@@ -49,10 +49,12 @@ export function useWords(options?: UseWordsOptions) {
             meaning,
             ipa,
             korean,
+            letters,
             root,
             grammar,
             structure,
             emoji,
+            icon_svg,
             category,
             position,
             verses!inner (
@@ -104,10 +106,12 @@ export function useWords(options?: UseWordsOptions) {
               meaning: item.meaning,
               ipa: item.ipa,
               korean: item.korean,
+              letters: item.letters || undefined,
               root: item.root,
               grammar: item.grammar,
               structure: item.structure || undefined,
               emoji: item.emoji || undefined,
+              iconSvg: item.icon_svg || undefined,
               category: item.category as any || undefined,
               verseReference: verse.reference,
               verseId: verse.id,
