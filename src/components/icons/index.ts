@@ -30,11 +30,12 @@ export interface ColorfulIconProps {
 export type HebrewWord = 'בְּרֵאשִׁית' | 'אֱלֹהִים' | 'בָּרָא' | 'אוֹר';
 
 // 기존 단색 아이콘 매핑 (레거시 호환)
+// 🚫 하드코딩 아이콘 비활성화 - DB의 iconSvg 우선 사용
 export const HebrewIcons: Record<string, string> = {
-  'בְּרֵאשִׁית': 'BereshitIcon',
-  'אֱלֹהִים': 'ElohimIcon',
-  'בָּרָא': 'BaraIcon',
-  'אוֹר': 'OrIcon',
+  // 'בְּרֵאשִׁית': 'BereshitIcon',  // 제거: DB의 SVG 사용
+  // 'אֱלֹהִים': 'ElohimIcon',        // 제거: DB의 SVG 사용
+  // 'בָּרָא': 'BaraIcon',            // 제거: DB의 SVG 사용
+  // 'אוֹר': 'OrIcon',                // 제거: DB의 SVG 사용
 } as const;
 
 // 아이콘 매핑 객체 (컬러풀 버전)
