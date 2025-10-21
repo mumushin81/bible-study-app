@@ -1,0 +1,125 @@
+{
+  "verse_id": "genesis_5_30",
+  "ipa": "vajəˈχi ˈlɛmɛχ ʔaχaˈre holiˈdo ʔɛt ˈnoaχ χaˈmeʃ vətišəˈʕim ʃaˈna vaχaˈmeʃ meˈʔot ʃaˈna vajˈjolɛd baˈnim uvaˈnot",
+  "korean_pronunciation": "바예히 레메흐 아하레 홀리도 에트 노아흐 하메쉬 베티쉬임 샤나 바하메쉬 메오트 샤나 바요레드 바님 우바놋",
+  "modern": "노아를 낳은 후 레멕은 595년을 더 살며 아들들과 딸들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "그리고 살았다",
+      "ipa": "vajəˈχi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(chi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#time1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#time1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(255, 165, 0, 0.6))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"url(#time1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#time1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#FF8C00\" /></svg>"
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "meaning": "레멕",
+      "ipa": "ˈlɛmɛχ",
+      "korean": "레메흐",
+      "letters": "לֶ(le) + מֶךְ(mech)",
+      "root": "לֶמֶךְ (레메흐)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#person1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 32 L 32 48\" stroke=\"url(#person1)\" stroke-width=\"8\" stroke-linecap=\"round\" /><path d=\"M 32 36 L 22 44\" stroke=\"url(#person1)\" stroke-width=\"6\" stroke-linecap=\"round\" /><path d=\"M 32 36 L 42 44\" stroke=\"url(#person1)\" stroke-width=\"6\" stroke-linecap=\"round\" /><path d=\"M 32 48 L 26 58\" stroke=\"url(#person1)\" stroke-width=\"6\" stroke-linecap=\"round\" /><path d=\"M 32 48 L 38 58\" stroke=\"url(#person1)\" stroke-width=\"6\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "אַחֲרֵי הוֹלִידוֹ אֶת נֹחַ",
+      "meaning": "노아를 낳은 후에",
+      "ipa": "ʔaχaˈre holiˈdo ʔɛt ˈnoaχ",
+      "korean": "아하레 홀리도 에트 노아흐",
+      "letters": "אַ(a) + חֲ(cha) + רֵי(re) + הוֹ(ho) + לִי(li) + דוֹ(do) + אֶת(et) + נֹחַ(noach)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"baby1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"blanket1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"18\" ry=\"14\" fill=\"url(#blanket1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby1)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "חָמֵשׁ וְתִשְׁעִים שָׁנָה",
+      "meaning": "95년",
+      "ipa": "χaˈmeʃ vətišəˈʕim ʃaˈna",
+      "korean": "하메쉬 베티쉬임 샤나",
+      "letters": "חָ(cha) + מֵשׁ(mesh) + וְ(ve) + תִשְׁ(tish) + עִים(im) + שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"calendar1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C239B3\" /></linearGradient></defs><rect x=\"12\" y=\"14\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#calendar1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"14\" width=\"40\" height=\"8\" fill=\"#8B008B\" rx=\"4\" /><text x=\"32\" y=\"36\" font-size=\"20\" text-anchor=\"middle\" fill=\"white\" font-weight=\"bold\">95</text></svg>"
+    },
+    {
+      "hebrew": "וַחֲמֵשׁ מֵאוֹת שָׁנָה",
+      "meaning": "그리고 500년",
+      "ipa": "vaχaˈmeʃ meˈʔot ʃaˈna",
+      "korean": "바하메쉬 메오트 샤나",
+      "letters": "וַ(va) + חֲ(cha) + מֵשׁ(mesh) + מֵ(me) + אוֹת(ot) + שָׁ(sha) + נָה(na)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "5️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#number1)\" opacity=\"0.3\" /><text x=\"32\" y=\"42\" font-size=\"32\" text-anchor=\"middle\" fill=\"url(#number1)\" font-weight=\"bold\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">500</text></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד בָּנִים וּבָנוֹת",
+      "meaning": "그리고 아들들과 딸들을 낳았다",
+      "ipa": "vajˈjolɛd baˈnim uvaˈnot",
+      "korean": "바요레드 바님 우바놋",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led) + בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"family1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFC0CB\" /></radialGradient></defs><circle cx=\"20\" cy=\"26\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"26\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"26\" cy=\"42\" r=\"6\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"38\" cy=\"42\" r=\"6\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 30절은 레멕의 생애를 기록하는 족보의 일부입니다. 노아를 낳은 후 레멕은 595년을 더 살며 다른 자녀들을 낳았습니다. 이 짧은 구절은 단순한 연대기적 정보를 넘어, 노아의 특별한 위치와 하나님의 구원 계획이 한 가족 안에서 어떻게 전개되는지를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אַחֲרֵי הוֹלִידוֹ אֶת נֹחַ (아하레 홀리도 에트 노아흐) - 노아를 낳은 후",
+        "description": "창세기 5장의 족보는 일관된 패턴을 따릅니다. '~세에 ~를 낳고, 그 후 ~년을 살며...' 그런데 레멕의 경우, 노아를 낳은 '후'의 삶이 특별히 강조됩니다. 노아는 단순히 많은 자녀 중 하나가 아니라, 레멕의 생애를 '노아 이전'과 '노아 이후'로 나누는 중심인물입니다.",
+        "points": [
+          "노아의 탄생은 레멕의 삶에서 전환점이 되었습니다",
+          "족보에서 특정 인물을 강조하는 것은 그의 중요성을 나타냅니다",
+          "노아는 구원 역사의 핵심 인물로서 특별한 주목을 받습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָמֵשׁ וְתִשְׁעִים שָׁנָה וַחֲמֵשׁ מֵאוֹת שָׁנָה (하메쉬 베티쉬임 샤나 바하메쉬 메오트 샤나) - 595년",
+        "description": "레멕은 노아를 낳은 후 595년을 더 살았습니다. 이는 레멕이 충분히 긴 시간 동안 노아가 성장하고 하나님의 사람으로 자라나는 것을 지켜볼 수 있었음을 의미합니다. 레멕은 자신의 예언적 명명이 어떤 의미를 가지게 될지 보며 살았을 것입니다.",
+        "points": [
+          "레멕은 노아가 성장하여 하나님의 사람이 되는 것을 충분히 보았습니다",
+          "부모의 신앙과 기대는 자녀의 삶에 지속적인 영향을 미칩니다",
+          "긴 수명은 신앙의 유산이 세대를 거쳐 전수되도록 했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우바놋) - 아들들과 딸들",
+        "description": "레멕에게는 노아 외에도 다른 아들들과 딸들이 있었습니다. 성경은 그들의 이름을 기록하지 않지만, 그들도 레멕의 가족 안에서 살았고, 노아의 경건한 삶을 보았을 것입니다. 흥미롭게도 홍수 당시 노아의 형제자매들에 대한 언급은 없으며, 이는 그들이 노아의 신앙을 따르지 않았을 가능성을 시사합니다.",
+        "points": [
+          "같은 가정에서 자라도 신앙의 선택은 개인적입니다",
+          "노아만이 하나님과 동행하는 삶을 선택했습니다",
+          "구원은 혈통이 아니라 믿음으로 얻습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 레멕에게는 노아 말고도 다른 자녀들이 있었을까요?",
+      "answer": "레멕은 노아를 낳은 후에도 오랫동안 살았어요. 595년이나 더 살았답니다! 그래서 그 긴 시간 동안 다른 아들들과 딸들도 낳았어요. 그런데 특별한 점은, 성경이 노아만 특별히 이름을 기억하고 있다는 거예요. 왜냐하면 노아는 하나님을 믿고 따르는 특별한 사람이었기 때문이에요. 나중에 큰 홍수가 왔을 때, 방주에 탄 사람은 노아와 노아의 가족뿐이었어요. 같은 집에서 자랐어도, 하나님을 믿고 따르는 것은 각자가 선택해야 하는 거랍니다.",
+      "bibleReferences": [
+        "창세기 6:8-9 - '노아는 여호와께 은혜를 입었으니 노아는 의인이요 당대에 완전한 자라 그는 하나님과 동행하였으며'",
+        "창세기 7:1 - '너와 네 온 집은 방주로 들어가라 이 세대에서 네가 내 앞에 의로움을 내가 보았음이니라'",
+        "에스겔 14:14 - '비록 노아, 다니엘, 욥, 이 세 사람이 거기에 있을지라도 그들은 자기의 공의로 자기의 생명만 건지리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "레멕의 다른 자녀들에 대한 침묵은 중요한 신학적 진리를 가르칩니다. 경건한 부모 밑에서 자랐다고 해서 자동으로 구원받는 것은 아닙니다. 각 사람은 하나님 앞에서 개인적으로 믿음의 선택을 해야 합니다. 노아만이 '하나님과 동행'하는 삶을 선택했고, 그 결과 그와 그의 가족만이 구원을 받았습니다. 이는 신약의 진리와 일치합니다 - '혈통으로나 육정으로나 사람의 뜻으로 나지 아니하고 오직 하나님께로부터 난 자들'(요한복음 1:13)만이 하나님의 자녀가 됩니다."
+    }
+  }
+}

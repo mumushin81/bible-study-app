@@ -1,0 +1,93 @@
+/**
+ * 오프라인 동기화 훅
+ * 네트워크 상태 감지 및 자동 동기화
+ */
+
+import { useEffect, useState } from 'react';
+import { syncQueue } from '../lib/syncQueue';
+import { getDatabaseStats } from '../lib/offlineStorage';
+
+export function useOfflineSync() {
+  const [isOnline, setIsOnline] = useState(navigator.onLine);
+  const [isSyncing, setIsSyncing] = useState(false);
+  const [lastSync, setLastSync] = useState<Date | null>(null);
+  const [stats, setStats] = useState({
+    verses: 0,
+    words: 0,
+    userProgress: 0,
+    syncQueue: 0
+  });
+
+  // 네트워크 상태 감지
+  useEffect(() => {
+    const handleOnline = () => {
+      console.log('📶 Network online');
+      setIsOnline(true);
+    };
+
+    const handleOffline = () => {
+      console.log('📴 Network offline');
+      setIsOnline(false);
+    };
+
+    window.addEventListener('online', handleOnline);
+    window.addEventListener('offline', handleOffline);
+
+    return () => {
+      window.removeEventListener('online', handleOnline);
+      window.removeEventListener('offline', handleOffline);
+    };
+  }, []);
+
+  // 온라인 복귀 시 자동 동기화
+  useEffect(() => {
+    if (isOnline && !isSyncing) {
+      performSync();
+    }
+  }, [isOnline]);
+
+  // 데이터베이스 통계 업데이트
+  useEffect(() => {
+    async function updateStats() {
+      const newStats = await getDatabaseStats();
+      setStats(newStats);
+    }
+
+    updateStats();
+
+    // 10초마다 통계 업데이트
+    const interval = setInterval(updateStats, 10000);
+
+    return () => clearInterval(interval);
+  }, []);
+
+  const performSync = async () => {
+    setIsSyncing(true);
+    try {
+      await syncQueue.sync();
+      setLastSync(new Date());
+
+      // 동기화 후 통계 업데이트
+      const newStats = await getDatabaseStats();
+      setStats(newStats);
+    } catch (error) {
+      console.error('Sync failed:', error);
+    } finally {
+      setIsSyncing(false);
+    }
+  };
+
+  const manualSync = () => {
+    if (!isSyncing) {
+      performSync();
+    }
+  };
+
+  return {
+    isOnline,
+    isSyncing,
+    lastSync,
+    stats,
+    manualSync
+  };
+}

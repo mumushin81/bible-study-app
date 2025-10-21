@@ -1,0 +1,179 @@
+{
+  "verse_id": "genesis_5_27",
+  "ipa": "vajˈihju kol jəˈme mətuˈʃɛlaħ ˈteʃa vəʃiʃˈim ʃaˈna utʃaˈ meʔot ʃaˈna vajəˈmot",
+  "korean_pronunciation": "바이흐유 콜 예메 메투셸라흐 테샤 베쉬쉼 샤나 우테샤 메오트 샤나 바야모트",
+  "modern": "므두셀라는 모두 969세를 살고 죽었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּהְיוּ",
+      "meaning": "그리고 ~이 되었다 (복수)",
+      "ipa": "vajˈihju",
+      "korean": "바이흐유",
+      "letters": "וַ(va) + יִּ(yi) + הְיוּ(hyu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hourglass1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient><linearGradient id=\"sand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><path d=\"M 20 8 L 44 8 L 44 12 L 34 32 L 44 52 L 44 56 L 20 56 L 20 52 L 30 32 L 20 12 Z\" fill=\"url(#hourglass1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 50 L 42 50 L 36 40 L 28 40 Z\" fill=\"url(#sand1)\" opacity=\"0.9\" /><path d=\"M 30 32 L 34 32 L 32 36 Z\" fill=\"url(#sand1)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(255, 167, 38, 0.6))\" /><rect x=\"20\" y=\"8\" width=\"24\" height=\"4\" fill=\"url(#hourglass1)\" opacity=\"0.5\" /><rect x=\"20\" y=\"52\" width=\"24\" height=\"4\" fill=\"url(#hourglass1)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כָּל",
+      "meaning": "모든, 전체",
+      "ipa": "kol",
+      "korean": "콜",
+      "letters": "כָּ(kol) + ל(l)",
+      "root": "כֹּל (콜)",
+      "grammar": "형용사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#4A148C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"3\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"3\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"3\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#all2)\" filter=\"drop-shadow(0 0 8px rgba(156, 39, 176, 0.8))\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든)",
+        "כֻּלָּם (쿨람 - 그들 모두)"
+      ]
+    },
+    {
+      "hebrew": "יְמֵי",
+      "meaning": "날들, 생애",
+      "ipa": "jəˈme",
+      "korean": "예메",
+      "letters": "יְ(ye) + מֵי(me)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"48\" height=\"32\" rx=\"4\" fill=\"url(#days1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><line x1=\"16\" y1=\"24\" x2=\"20\" y2=\"24\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"24\" y1=\"24\" x2=\"28\" y2=\"24\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"24\" x2=\"36\" y2=\"24\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"40\" y1=\"24\" x2=\"44\" y2=\"24\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"16\" y1=\"32\" x2=\"20\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"24\" y1=\"32\" x2=\"28\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"36\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"40\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"48\" cy=\"40\" r=\"6\" fill=\"#E65100\" filter=\"drop-shadow(0 0 6px rgba(230, 81, 0, 0.6))\" /><text x=\"48\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"8\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">!</text></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "תֵּשַׁע",
+      "meaning": "아홉",
+      "ipa": "ˈteʃa",
+      "korean": "테샤",
+      "letters": "תֵּ(te) + שַׁע(sha)",
+      "root": "תֵּשַׁע (테샤)",
+      "grammar": "명사",
+      "emoji": "9️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#4527A0\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#nine1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">9</text><circle cx=\"16\" cy=\"16\" r=\"3\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"48\" r=\"3\" fill=\"#FFD700\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "meaning": "그리고 육십",
+      "ipa": "vəʃiʃˈim",
+      "korean": "베쉬쉼",
+      "letters": "וְ(ve) + שִׁ(shi) + שִּׁים(shim)",
+      "root": "שֵׁשׁ (셰쉬)",
+      "grammar": "명사",
+      "emoji": "6️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sixty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#26A69A\" /><stop offset=\"100%\" stop-color=\"#00695C\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#sixty1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">60</text></svg>"
+    },
+    {
+      "hebrew": "וְתֵשַׁע",
+      "meaning": "그리고 아홉",
+      "ipa": "vəˈteʃa",
+      "korean": "베테샤",
+      "letters": "וְ(ve) + תֵ(te) + שַׁע(sha)",
+      "root": "תֵּשַׁע (테샤)",
+      "grammar": "명사",
+      "emoji": "9️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nine2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#4527A0\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#nine2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">9</text></svg>"
+    },
+    {
+      "hebrew": "מֵאוֹת",
+      "meaning": "백들 (수백)",
+      "ipa": "meˈʔot",
+      "korean": "메오트",
+      "letters": "מֵ(me) + אוֹת(ot)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundreds2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#hundreds2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">900</text></svg>"
+    },
+    {
+      "hebrew": "וַיָּמֹת",
+      "meaning": "그리고 죽었다",
+      "ipa": "vajəˈmot",
+      "korean": "바야모트",
+      "letters": "וַ(va) + יָּ(ya) + מֹת(mot)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "emoji": "⚰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#78909C\" /><stop offset=\"100%\" stop-color=\"#37474F\" /></linearGradient><linearGradient id=\"hope2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#90CAF9\" /><stop offset=\"100%\" stop-color=\"#E3F2FD\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"6\" fill=\"#37474F\" opacity=\"0.3\" /><rect x=\"16\" y=\"24\" width=\"32\" height=\"24\" rx=\"4\" fill=\"url(#death1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"28\" y=\"28\" width=\"8\" height=\"16\" rx=\"2\" fill=\"#8D6E63\" opacity=\"0.5\" /><path d=\"M 24 12 Q 32 4 40 12\" stroke=\"url(#hope2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(144, 202, 249, 0.6))\" /><circle cx=\"32\" cy=\"8\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 30 8 L 32 4 L 34 8\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מָוֶת (마베트 - 죽음)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 27절은 므두셀라의 생애를 총괄하며 그가 969세를 살고 죽었다고 기록합니다. 이는 성경에 기록된 인간 수명의 최고 기록으로, 하나님의 인내와 긍휼을 상징하는 동시에 죄로 인한 죽음의 필연성도 보여줍니다. 므두셀라의 죽음과 홍수의 시작이 같은 해였다는 점은 하나님의 심판이 정확한 때에 이루어짐을 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל יְמֵי מְתוּשֶׁלַח (콜 예메 메투셸라흐) - 므두셀라의 모든 날들",
+        "description": "'콜 예메'(모든 날들)라는 표현은 단순히 수명을 계산하는 것이 아니라, 한 인생의 완전한 여정을 의미합니다. 므두셀라의 969년은 하루하루가 모여 이룬 것으로, 하나님께서 허락하신 시간을 충실하게 산 경건한 삶의 총체입니다. 각각의 날이 하나님의 은혜 안에서 살아진 것입니다.",
+        "points": [
+          "969년은 353,685일, 즉 35만 일이 넘는 긴 세월입니다",
+          "각각의 날이 하나님의 인내와 자비의 표현이었습니다",
+          "므두셀라는 아담부터 노아까지 10세대를 연결하는 증인이었습니다",
+          "그의 생애는 하나님께서 주신 시간을 신실하게 사용한 모범입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תֵּשַׁע וְשִׁשִּׁים שָׁנָה וְתֵשַׁע מֵאוֹת שָׁנָה (969세) - 최장수의 기록",
+        "description": "969세는 성경에서 가장 긴 수명으로, 이는 단순한 숫자 이상의 신학적 의미를 담고 있습니다. 유대 전승에 따르면 므두셀라의 이름은 '그가 죽을 때 그것(홍수)이 올 것이다'라는 의미를 가지며, 실제로 그가 죽은 해에 홍수가 시작되었습니다. 하나님은 므두셀라의 생명을 연장하심으로 심판을 늦추신 것입니다.",
+        "points": [
+          "969년은 하나님의 극한의 인내를 보여주는 숫자입니다",
+          "이 기간은 사람들이 회개할 기회를 제공하는 은혜의 시간이었습니다",
+          "므두셀라의 죽음과 홍수의 동시 발생은 우연이 아닙니다",
+          "하나님은 심판을 최대한 늦추시며 회개를 기다리셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּמֹת (바야모트) - 그리고 죽었다",
+        "description": "'바야모트'(그리고 죽었다)라는 간단하지만 강력한 표현은 창세기 5장 족보 전체에 반복되는 후렴구입니다. 아무리 오래 살아도 결국 죽음을 피할 수 없다는 것은 죄의 결과입니다(창 2:17, 롬 6:23). 그러나 이것은 절망이 아니라 영원한 생명의 필요성을 가리키며, 궁극적으로 그리스도를 통한 죽음의 정복을 예표합니다.",
+        "points": [
+          "죽음은 죄의 필연적 결과이며 누구도 피할 수 없습니다",
+          "므두셀라의 969년도 결국 죽음으로 끝났습니다",
+          "이는 영원한 생명이 하나님의 선물로만 가능함을 보여줍니다",
+          "그러나 경건한 자의 죽음은 하나님께로 돌아가는 것입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "심판 전 은혜의 기간 - 하나님의 오래 참으심",
+        "description": "므두셀라의 969년 생애는 하나님께서 홍수 심판을 늦추신 은혜의 기간이었습니다. 베드로후서 3:9은 '주께서는 너희를 대하여 오래 참으사 아무도 멸망하지 아니하고 다 회개하기에 이르기를 원하시느니라'고 말합니다. 므두셀라의 긴 생애는 이 진리를 보여주는 살아있는 증거였습니다.",
+        "points": [
+          "하나님은 즉각적인 심판보다 인내와 회개의 기회를 주십니다",
+          "므두셀라가 사는 동안 홍수가 지연되었습니다",
+          "이는 신약의 '하나님의 오래 참으심' 교리의 구약적 예표입니다",
+          "오늘날도 그리스도의 재림이 지연되는 것은 회개의 기회를 주시기 위함입니다"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 므두셀라도 결국 죽어야 했을까요?",
+      "answer": "아무리 오래 살아도 모든 사람은 결국 죽게 되어 있어요. 왜냐하면 맨 처음 아담과 하와가 하나님께 불순종했을 때부터 모든 사람이 죽게 되었기 때문이에요. 하지만 하나님을 믿는 사람들에게 죽음은 끝이 아니라 하나님께로 가는 것이랍니다. 마치 여행을 마치고 집으로 돌아가는 것처럼요. 그래서 예수님을 믿으면 죽어도 다시 살아나서 하나님과 영원히 함께 살 수 있어요. 므두셀라도 죽었지만, 하나님을 믿었기 때문에 지금은 하나님과 함께 있답니다!",
+      "bibleReferences": [
+        "로마서 6:23 - '죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라'",
+        "히브리서 9:27 - '한 번 죽는 것은 사람에게 정해진 것이요 그 후에는 심판이 있으리니'",
+        "요한복음 11:25-26 - '예수께서 이르시되 나는 부활이요 생명이니 나를 믿는 자는 죽어도 살겠고 무릇 살아서 나를 믿는 자는 영원히 죽지 아니하리니'",
+        "고린도전서 15:54-55 - '사망아 너의 승리가 어디 있느냐 사망아 네가 쏘는 것이 어디 있느냐... 우리 주 예수 그리스도로 말미암아 우리에게 승리를 주시는 하나님께 감사하노니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "므두셀라의 969년 생애와 그의 죽음은 하나님의 인내와 심판, 그리고 죽음의 필연성이라는 세 가지 중요한 신학적 진리를 보여줍니다. 첫째, 하나님은 극도로 인내하시며 회개의 기회를 주십니다. 둘째, 하나님의 심판은 정확한 때에 이루어집니다. 셋째, 죄의 결과인 죽음은 누구도 피할 수 없습니다. 그러나 이 절망적인 현실 가운데서도 희망이 있습니다. 므두셀라의 손자 노아를 통해 구원의 방주가 예비되었듯이, 하나님은 예수 그리스도를 통해 죽음을 이기는 영원한 생명의 길을 열어주셨습니다. 므두셀라의 죽음과 홍수는 최후 심판과 그리스도를 통한 구원을 예표하는 것입니다."
+    }
+  }
+}

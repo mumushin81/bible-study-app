@@ -1,0 +1,154 @@
+{
+  "id": "genesis_5_3",
+  "reference": "Genesis 5:3",
+  "hebrew": "וַֽיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ וַיִּקְרָ֥א אֶת שְׁמ֖וֹ שֵֽׁת",
+  "ipa": "vajeˈxi ʔaˈdam ʃəloˈʃim umeˈʔat ʃaˈna vajjoˈlɛd bidˈmuto kətsalˈmo vajiqˈra ʔɛt ʃəˈmo ʃet",
+  "koreanPronunciation": "바예히 아담 셸로쉼 우메아트 샤나 바욜레드 비드무토 케첼모 바이크라 에트 셰모 셋",
+  "modern": "아담은 백삼십 세에 자기 모양 곧 자기 형상과 같은 아들을 낳아 이름을 셋이라 하였습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "그리고 살았다",
+      "ipa": "vajeˈxi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(chi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"glass_yechi\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E0F7FA\" />\n      <stop offset=\"50%\" stop-color=\"#B2EBF2\" />\n      <stop offset=\"100%\" stop-color=\"#80DEEA\" />\n    </linearGradient>\n    <linearGradient id=\"sand_yechi\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE082\" />\n      <stop offset=\"50%\" stop-color=\"#FFD54F\" />\n      <stop offset=\"100%\" stop-color=\"#FFCA28\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 22 12 L 42 12 L 38 28 L 26 28 Z\" fill=\"url(#glass_yechi)\" opacity=\"0.6\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 26 28 L 32 34 L 38 28 Z\" fill=\"url(#sand_yechi)\" />\n  <path d=\"M 26 36 L 38 36 L 42 52 L 22 52 Z\" fill=\"url(#glass_yechi)\" opacity=\"0.6\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"46\" rx=\"8\" ry=\"4\" fill=\"url(#sand_yechi)\" />\n  <circle cx=\"32\" cy=\"20\" r=\"1.5\" fill=\"url(#sand_yechi)\" opacity=\"0.7\" />\n  <circle cx=\"28\" cy=\"22\" r=\"1\" fill=\"url(#sand_yechi)\" opacity=\"0.6\" />\n  <circle cx=\"36\" cy=\"22\" r=\"1\" fill=\"url(#sand_yechi)\" opacity=\"0.6\" />\n</svg>"
+    },
+    {
+      "hebrew": "שְׁלֹשִׁים",
+      "meaning": "삼십",
+      "ipa": "ʃəloˈʃim",
+      "korean": "셸로쉼",
+      "letters": "שְׁ(she) + לֹ(lo) + שִׁים(shim)",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "명사",
+      "emoji": "3️⃣0️⃣",
+      "iconSv": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"num_sheloshim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#667EEA\" />\n      <stop offset=\"50%\" stop-color=\"#764BA2\" />\n      <stop offset=\"100%\" stop-color=\"#F093FB\" />\n    </linearGradient>\n  </defs>\n  <text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\"\n    fill=\"url(#num_sheloshim)\" text-anchor=\"middle\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">30</text>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#num_sheloshim)\"\n    stroke-width=\"3\" opacity=\"0.4\" />\n</svg>"
+    },
+    {
+      "hebrew": "וּמְאַת",
+      "meaning": "그리고 백",
+      "ipa": "umeˈʔat",
+      "korean": "우메아트",
+      "letters": "וּ(u) + מְ(me) + אַת(at)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"hundred_meat\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <radialGradient id=\"glow_hundred\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_hundred)\" opacity=\"0.3\" />\n  <circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hundred_meat)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <text x=\"32\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"20\" font-weight=\"bold\"\n    fill=\"#FFF\" text-anchor=\"middle\">100</text>\n</svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년, 해",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָה(nah)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"calendar_shanah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <linearGradient id=\"page_shanah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#F5F5F5\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"12\" y=\"16\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#page_shanah)\"\n    filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.3))\" />\n  <rect x=\"12\" y=\"10\" width=\"40\" height=\"10\" rx=\"4\" fill=\"url(#calendar_shanah)\" />\n  <circle cx=\"20\" cy=\"15\" r=\"2\" fill=\"#8B0000\" />\n  <circle cx=\"44\" cy=\"15\" r=\"2\" fill=\"#8B0000\" />\n  <rect x=\"16\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"25\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"34\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"43\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"16\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"25\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"url(#calendar_shanah)\" opacity=\"0.7\" />\n  <rect x=\"34\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"43\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n</svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "낳았다",
+      "ipa": "vajjoˈlɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּ(yyo) + וֹלֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"baby_yoled\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFB6C1\" />\n      <stop offset=\"50%\" stop-color=\"#FFB6D9\" />\n      <stop offset=\"100%\" stop-color=\"#FFA0C9\" />\n    </linearGradient>\n    <radialGradient id=\"glow_baby\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.5\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_baby)\" />\n  <circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby_yoled)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"46\" rx=\"10\" ry=\"8\" fill=\"url(#baby_yoled)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" />\n  <circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" />\n  <path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"1.5\"\n    fill=\"none\" stroke-linecap=\"round\" />\n  <circle cx=\"22\" cy=\"24\" r=\"3\" fill=\"#FFB6C1\" opacity=\"0.7\" />\n  <circle cx=\"42\" cy=\"24\" r=\"3\" fill=\"#FFB6C1\" opacity=\"0.7\" />\n</svg>"
+    },
+    {
+      "hebrew": "בִּדְמוּתוֹ",
+      "meaning": "그의 형상으로",
+      "ipa": "bidˈmuto",
+      "korean": "비드무토",
+      "letters": "בִּ(bi) + דְ(de) + מוּתוֹ(muto)",
+      "root": "ד-מ-ה (다마)",
+      "grammar": "명사",
+      "emoji": "🪞",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"mirror_dmuto\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E0F7FA\" />\n      <stop offset=\"50%\" stop-color=\"#B2EBF2\" />\n      <stop offset=\"100%\" stop-color=\"#80DEEA\" />\n    </linearGradient>\n    <linearGradient id=\"frame2_dmuto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#8B4513\" />\n      <stop offset=\"50%\" stop-color=\"#A0522D\" />\n      <stop offset=\"100%\" stop-color=\"#6B3410\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"4\" fill=\"url(#frame2_dmuto)\"\n    filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.4))\" />\n  <rect x=\"20\" y=\"16\" width=\"24\" height=\"32\" rx=\"2\" fill=\"url(#mirror_dmuto)\" />\n  <circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFB6C1\" opacity=\"0.5\" />\n  <circle cx=\"36\" cy=\"28\" r=\"4\" fill=\"#FFB6C1\" opacity=\"0.5\" />\n  <path d=\"M 26 36 Q 32 38 38 36\" stroke=\"#FFB6C1\" stroke-width=\"2\"\n    fill=\"none\" opacity=\"0.5\" />\n  <ellipse cx=\"28\" cy=\"20\" rx=\"6\" ry=\"4\" fill=\"#FFFFFF\" opacity=\"0.7\" />\n</svg>"
+    },
+    {
+      "hebrew": "כְּצַלְמוֹ",
+      "meaning": "그의 모습대로",
+      "ipa": "kətsalˈmo",
+      "korean": "케첼모",
+      "letters": "כְּ(ke) + צַלְמוֹ(tsalmo)",
+      "root": "צ-ל-ם (첼렘)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"person1_tselem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4A90E2\" />\n      <stop offset=\"100%\" stop-color=\"#2E5C8A\" />\n    </linearGradient>\n    <linearGradient id=\"person2_tselem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"100%\" stop-color=\"#4682B4\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#person1_tselem)\" opacity=\"0.8\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"24\" cy=\"42\" rx=\"10\" ry=\"12\" fill=\"url(#person1_tselem)\" opacity=\"0.8\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"40\" cy=\"28\" r=\"7\" fill=\"url(#person2_tselem)\" opacity=\"0.7\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"40\" cy=\"44\" rx=\"9\" ry=\"10\" fill=\"url(#person2_tselem)\" opacity=\"0.7\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n</svg>"
+    },
+    {
+      "hebrew": "שֵׁת",
+      "meaning": "셋 (아담의 아들)",
+      "ipa": "ʃet",
+      "korean": "셋",
+      "letters": "שֵׁ(she) + ת(t)",
+      "root": "שׁ-י-ת (쉬트)",
+      "grammar": "명사",
+      "emoji": "👨‍🦱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"seth_shet\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#A0522D\" />\n      <stop offset=\"50%\" stop-color=\"#8B4513\" />\n      <stop offset=\"100%\" stop-color=\"#654321\" />\n    </linearGradient>\n    <radialGradient id=\"halo_seth\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.6\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"28\" r=\"26\" fill=\"url(#halo_seth)\" />\n  <circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#seth_shet)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <ellipse cx=\"32\" cy=\"48\" rx=\"14\" ry=\"12\" fill=\"url(#seth_shet)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFF\" />\n  <circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#FFF\" />\n  <circle cx=\"28.5\" cy=\"26.5\" r=\"1\" fill=\"#000\" />\n  <circle cx=\"36.5\" cy=\"26.5\" r=\"1\" fill=\"#000\" />\n  <path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#654321\" stroke-width=\"1.5\"\n    fill=\"none\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\"\n    opacity=\"0.5\" />\n</svg>",
+      "relatedWords": [
+        "שִׁית (쉬트 - 놓다, 두다)",
+        "אֱנוֹשׁ (에노쉬 - 셋의 아들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5:3은 아담이 130세에 아들 셋을 낳았다는 기록입니다. 이 구절은 '형상과 모양대로'라는 표현을 사용하여, 하나님의 형상이 세대를 통해 전달됨을 보여줍니다. 셋은 가인에게 죽임 당한 아벨을 대신하여 하나님의 언약을 이어가는 중요한 인물입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שְׁלֹשִׁים וּמְאַת שָׁנָה (셸로쉼 우메아트 샤나) - 백삼십 년",
+        "description": "아담이 셋을 낳은 나이가 130세라는 것은 가인의 범죄와 아벨의 죽음 이후 상당한 시간이 흘렀음을 의미합니다. 이 긴 세월 동안 아담은 죄의 결과와 슬픔을 경험했을 것입니다. 그러나 하나님은 셋을 통해 새로운 희망을 주셨습니다.",
+        "points": [
+          "창세기 5장의 장수는 타락 이전 축복의 잔재를 보여줍니다",
+          "아담의 130년은 가인의 범죄 이후 긴 슬픔의 기간이었을 것입니다",
+          "하나님은 오래 기다리신 후에도 약속을 이루십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בִּדְמוּתוֹ כְּצַלְמוֹ (비드무토 케첼모) - 그의 형상대로 그의 모습대로",
+        "description": "놀랍게도 이 구절은 창세기 1:26의 '하나님의 형상대로'라는 표현을 그대로 사용합니다. 다만 여기서는 아담이 자기 형상대로 셋을 낳았다고 말합니다. 이는 하나님의 형상이 생물학적으로도 전달됨을 암시합니다.",
+        "points": [
+          "하나님의 형상은 단지 영적인 것이 아니라 세대를 통해 전달됩니다",
+          "부모와 자녀의 유사성은 하나님의 창조 질서의 일부입니다",
+          "타락 후에도 하나님의 형상은 인류 안에 보존됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שֵׁת (셋) - 대속자의 등장",
+        "description": "'셋'이라는 이름은 '두다', '놓다', '임명하다'를 의미하는 히브리어 동사 '쉬트'에서 유래합니다. 창세기 4:25에서 하와는 '하나님이 내게 가인이 죽인 아벨 대신 다른 씨를 주셨다'고 말하며 셋의 이름을 지었습니다. 셋은 의로운 계보의 시작입니다.",
+        "points": [
+          "셋은 아벨을 대신하여 주어진 '대속자'입니다",
+          "셋의 후손들은 '여호와의 이름을 부르기 시작했습니다'(창 4:26)",
+          "노아, 아브라함, 예수 그리스도로 이어지는 구속사의 계보가 셋에서 시작됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 130살이나 되어서 셋을 낳았나요?",
+      "answer": "성경 시대 사람들은 지금보다 훨씬 오래 살았어요. 아담은 930살까지 살았거든요! 130살은 아담에게는 아직 젊은 나이였답니다. 하나님께서 아담에게 셋을 주신 것은 특별한 의미가 있어요. 가인이 동생 아벨을 죽인 후 아담과 하와는 무척 슬펐을 거예요. 하지만 하나님은 셋을 통해 다시 희망을 주셨어요. 셋은 아벨처럼 하나님을 사랑하는 사람이 되었고, 셋의 후손 중에서 나중에 예수님이 태어나셨답니다!",
+      "bibleReferences": [
+        "창세기 4:25 - '아담이 다시 자기 아내와 동침하매 그가 아들을 낳아 그의 이름을 셋이라 하였으니 이는 하나님이 내게 가인이 죽인 아벨 대신에 다른 씨를 주셨다 함이며'",
+        "창세기 4:26 - '셋도 아들을 낳고 그의 이름을 에노스라 하였으며 그 때에 사람들이 비로소 여호와의 이름을 불렀더라'",
+        "누가복음 3:38 - '그 이상은 에노스요 그 이상은 셋이요 그 이상은 아담이요 그 이상은 하나님이시니라'",
+        "창세기 5:5 - '아담의 살던 날이 구백삼십 년이라 그가 죽으니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5:3은 구속사의 중요한 전환점을 나타냅니다. 가인의 계보(창 4:17-24)가 폭력과 세속성으로 특징지어진 반면, 셋의 계보는 하나님을 경외하는 신앙의 계보입니다. '형상과 모양대로'라는 표현은 타락 이후에도 하나님의 형상이 보존되어 전달됨을 보여줍니다. 궁극적으로 셋의 계보는 '마지막 아담'이신 예수 그리스도로 이어지며(눅 3:23-38), 그분 안에서 손상된 하나님의 형상이 완전히 회복됩니다. 셋은 그리스도의 예표로서, 죽음을 통과한 후에 주어진 새로운 생명을 상징합니다."
+    }
+  }
+}

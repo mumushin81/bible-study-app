@@ -1,0 +1,184 @@
+{
+  "verse_id": "genesis_5_28",
+  "ipa": "vajəˈhi ˈlamɛx ʃəˈtajim utʃiʃˈim ʃaˈna uməˈʔat ʃaˈna vajˈolɛd ben",
+  "korean_pronunciation": "바예히 레멕 쉐타임 우쉬모님 샤나 우메아트 샤나 바욜레드 벤",
+  "modern": "라멕이 182세가 되었을 때 아들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 ~이 되었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#time3)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.3\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 167, 38, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "meaning": "라멕",
+      "ipa": "ˈlamɛx",
+      "korean": "레멕",
+      "letters": "לֶ(le) + מֶךְ(mekh)",
+      "root": "לֶמֶךְ (레멕)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lamech1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"faith1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"comfort1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#81C784\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"16\" ry=\"18\" fill=\"url(#lamech1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#faith1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"32\" cy=\"16\" rx=\"10\" ry=\"4\" fill=\"url(#lamech1)\" opacity=\"0.8\" /><path d=\"M 20 10 Q 32 6 44 10\" stroke=\"url(#comfort1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(76, 175, 80, 0.5))\" /><circle cx=\"32\" cy=\"8\" r=\"5\" fill=\"url(#comfort1)\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "מְתוּשֶׁלַח (메투셸라흐 - 므두셀라, 라멕의 아버지)",
+        "נֹחַ (노아흐 - 노아, 라멕의 아들)"
+      ]
+    },
+    {
+      "hebrew": "שְׁתַּיִם",
+      "meaning": "둘, 두",
+      "ipa": "ʃəˈtajim",
+      "korean": "쉐타임",
+      "letters": "שְׁ(she) + תַּ(ta) + יִם(yim)",
+      "root": "שְׁתַּיִם (쉐타임)",
+      "grammar": "명사",
+      "emoji": "2️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"two2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#006064\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#two2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">2</text></svg>"
+    },
+    {
+      "hebrew": "וּשְׁמֹנִים",
+      "meaning": "그리고 팔십",
+      "ipa": "utʃiʃˈim",
+      "korean": "우쉬모님",
+      "letters": "וּ(u) + שְׁ(she) + מֹ(mo) + נִים(nim)",
+      "root": "שְׁמוֹנֶה (쉐모네)",
+      "grammar": "명사",
+      "emoji": "8️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eighty2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#006064\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#eighty2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">80</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년, 해",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF5722\" /><stop offset=\"100%\" stop-color=\"#BF360C\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"4\" fill=\"url(#year3)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"8\" rx=\"4\" fill=\"#D32F2F\" /><circle cx=\"32\" cy=\"38\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "חֹדֶשׁ (호데쉬 - 달)"
+      ]
+    },
+    {
+      "hebrew": "וּמְאַת",
+      "meaning": "그리고 백",
+      "ipa": "uməˈʔat",
+      "korean": "우메아트",
+      "letters": "וּ(u) + מְ(me) + אַת(at)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundred2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#hundred2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">100</text></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birth3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient><radialGradient id=\"new1\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"100%\" stop-color=\"#FFDAB9\" /></radialGradient><linearGradient id=\"hope3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#81C784\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#birth3)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"30\" r=\"12\" fill=\"url(#new1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#8B4513\" /><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 16 Q 22 12 26 14 Q 30 10 32 14 Q 34 10 38 14 Q 42 12 44 16\" stroke=\"url(#hope3)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(76, 175, 80, 0.6))\" /><circle cx=\"32\" cy=\"10\" r=\"6\" fill=\"#FFD700\" opacity=\"0.4\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "יֶלֶד (옐레드 - 아이)"
+      ]
+    },
+    {
+      "hebrew": "בֵּן",
+      "meaning": "아들",
+      "ipa": "ben",
+      "korean": "벤",
+      "letters": "בֵּ(be) + ן(n)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "emoji": "👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"son1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><radialGradient id=\"blessing1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#blessing1)\" opacity=\"0.15\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#son1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"14\" fill=\"url(#son1)\" opacity=\"0.9\" /><circle cx=\"29\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /><circle cx=\"35\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"12\" r=\"8\" fill=\"url(#blessing1)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.5))\" /><path d=\"M 28 10 L 32 6 L 36 10\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)",
+        "בָּנִים (바님 - 아들들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 28절은 라멕이 182세에 아들을 낳았다고 기록합니다. 이 아들이 바로 다음 절(29절)에서 밝혀지는 노아입니다. 라멕은 이 아들의 출생에 특별한 의미를 부여하며 '이 아들이 여호와께서 땅을 저주하심으로 인한 우리의 수고와 손의 고통을 위로할 것이다'라고 예언했습니다. 이 구절은 단순한 출생 기록이 아니라 구원 역사의 중요한 전환점을 표시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לֶמֶךְ (레멕) - 노아의 아버지, 예언자",
+        "description": "라멕은 므두셀라의 아들이자 노아의 아버지로서, 경건한 혈통의 9번째 인물입니다. 그의 이름은 '강한 자' 또는 '정복자'를 의미할 수 있습니다. 그는 아들의 출생을 단순한 기쁨으로만 받아들이지 않고, 이 아이가 인류에게 위로와 소망을 가져올 것이라는 예언적 통찰을 가졌습니다.",
+        "points": [
+          "라멕은 아담부터 9번째 세대로 노아 직전의 인물입니다",
+          "그는 아들의 출생에서 하나님의 계획을 분별하는 영적 통찰력을 가졌습니다",
+          "라멕의 예언은 노아를 통한 새로운 시작을 미리 선포했습니다",
+          "그는 경건한 신앙을 노아에게 전수하여 방주 건조의 순종을 가능케 했습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁתַּיִם וּשְׁמֹנִים שָׁנָה וּמְאַת שָׁנָה (182세) - 성숙한 나이",
+        "description": "182세는 홍수 전 세대 기준으로는 비교적 젊은 나이에 속합니다. 라멕은 므두셀라보다 훨씬 이른 나이에 노아를 낳았습니다. 이는 하나님께서 심판의 시기를 정확히 계획하시고, 노아가 방주를 건조할 충분한 시간을 갖도록 섭리하셨음을 보여줍니다.",
+        "points": [
+          "182세는 므두셀라(187세)보다 이른 나이로 아들을 낳은 것입니다",
+          "이는 노아가 홍수 전에 성장하고 준비할 시간을 주시려는 하나님의 섭리였습니다",
+          "숫자 8은 성경에서 새로운 시작을 상징하며, 노아의 사명과 연결됩니다",
+          "라멕은 노아가 태어난 후 595년을 더 살면서 아들을 양육했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בֵּן (벤) - 특별한 아들",
+        "description": "'벤'(아들)이라는 단어는 단순하지만, 이 구절에서는 특별한 의미를 담고 있습니다. 다음 절에서 이 아들이 노아임이 밝혀지며, 그에 대한 라멕의 예언적 명명이 이어집니다. 이 아들은 단순히 혈통을 잇는 자손이 아니라 인류의 운명을 바꿀 구원의 도구로 예정된 인물입니다.",
+        "points": [
+          "이 아들은 홍수로부터 인류를 보존할 노아입니다",
+          "라멕은 이 아들의 출생에서 하나님의 특별한 계획을 인식했습니다",
+          "노아는 '위로', '안식'을 의미하는 이름을 받았습니다(창 5:29)",
+          "이 아들을 통해 새로운 인류가 시작될 것입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "위로와 소망의 약속 - 구원 역사의 전환점",
+        "description": "라멕이 182세에 낳은 이 아들은 단순한 자손이 아니라, 저주받은 땅에서 수고하는 인류에게 위로를 가져올 존재였습니다. 이는 창세기 3:17-19의 저주와 연결되며, 노아를 통해 새로운 언약과 시작이 올 것을 예고합니다. 이것은 궁극적으로 그리스도를 통한 완전한 구원을 예표합니다.",
+        "points": [
+          "노아의 출생은 저주받은 인류에게 소망의 빛이었습니다",
+          "라멕의 예언은 노아가 단순한 생존자가 아닌 새 시대의 시작임을 보여줍니다",
+          "이는 그리스도를 통한 궁극적 위로와 구원을 예표합니다",
+          "하나님은 심판 중에도 은혜의 길을 예비하십니다"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "라멕은 왜 아들을 낳았을 때 특별하다고 생각했을까요?",
+      "answer": "라멕은 하나님께서 주신 특별한 생각으로, 이 아들이 보통 아들이 아니라는 것을 알았어요. 그때 사람들은 땅이 저주를 받아서 농사짓기가 너무너무 힘들었는데, 라멕은 '이 아들이 우리를 위로해줄 거야!'라고 생각했어요. 마치 엄마 아빠가 '이 아기는 우리 가족에게 축복이 될 거야'라고 느끼는 것처럼요. 실제로 그 아들이 노아였고, 노아는 나중에 큰 홍수가 왔을 때 방주를 만들어서 사람들과 동물들을 구했어요. 라멕의 생각이 정말 맞았죠! 하나님께서 미리 알려주신 거랍니다.",
+      "bibleReferences": [
+        "창세기 5:29 - '이름을 노아라 하여 이르되 여호와께서 땅을 저주하시므로 수고롭게 일하는 우리를 이 아들이 안위하리라 하였더라'",
+        "창세기 3:17-19 - '아담에게 이르시되 네가... 땅은 너로 말미암아 저주를 받고 너는 평생에 수고하여야 그 소산을 먹으리라'",
+        "창세기 6:8-9 - '그러나 노아는 여호와께 은혜를 입었더라. 노아는 의인이요 당대에 완전한 자라 그는 하나님과 동행하였으며'",
+        "마태복음 11:28 - '수고하고 무거운 짐 진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "라멕이 182세에 노아를 낳은 사건은 구원 역사의 중요한 전환점을 표시합니다. 라멕의 예언적 통찰('이 아들이 우리를 위로할 것이다')은 단순한 부모의 소망이 아니라 성령의 인도하심을 받은 예언이었습니다. 노아는 실제로 홍수 심판 속에서 인류를 보존하는 도구가 되었으며, 새로운 언약의 시작을 가져왔습니다. 이는 궁극적으로 예수 그리스도를 예표합니다. 노아가 물의 심판에서 구원했듯이, 그리스도는 죄의 심판에서 우리를 구원하십니다. 노아가 저주받은 땅에서 일하는 자들에게 위로가 되었듯이, 그리스도는 '수고하고 무거운 짐 진 자들'에게 참된 안식을 주십니다(마 11:28). 라멕의 믿음 있는 명명과 예언은 오늘날 우리에게도 하나님의 약속을 신뢰하고 다음 세대에 소망을 전하라는 교훈을 줍니다."
+    }
+  }
+}

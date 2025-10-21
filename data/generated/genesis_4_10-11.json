@@ -1,0 +1,362 @@
+[
+  {
+    "verseId": "genesis_4_10",
+    "ipa": "vajˈjomɛr mɛ ʕaˈsita kol dəˈme ʔaˈxixa ʦoʔaˈkim ʔeˈlaj min haʔadaˈma",
+    "koreanPronunciation": "바요메르 메 아시타 콜 드메 아히카 쪼아킴 엘라이 민 하아다마",
+    "modern": "하나님께서 말씀하시기를 '네가 무엇을 했느냐? 네 아우의 피 소리가 땅에서부터 내게 호소하고 있다'",
+    "words": [
+      {
+        "hebrew": "וַיֹּאמֶר",
+        "meaning": "그리고 말씀하셨다",
+        "ipa": "vajˈjomɛr",
+        "korean": "바요메르",
+        "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech10)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#speech10)\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/></svg>"
+      },
+      {
+        "hebrew": "מֶה",
+        "meaning": "무엇을",
+        "ipa": "mɛ",
+        "korean": "메",
+        "letters": "מֶ(me) + ה(h)",
+        "root": "מ-ה (마)",
+        "grammar": "대명사",
+        "emoji": "❓",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"question10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient><radialGradient id=\"glow10\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 107, 157, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#glow10)\" opacity=\"0.3\"/><path d=\"M 24 20 Q 32 12 40 20 Q 44 24 40 28 L 36 32 Q 32 36 32 40\" stroke=\"url(#question10)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(196, 30, 58, 0.4))\"/><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"url(#question10)\" filter=\"drop-shadow(0 2px 4px rgba(196, 30, 58, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "עָשִׂיתָ",
+        "meaning": "네가 했느냐",
+        "ipa": "ʕaˈsita",
+        "korean": "아시타",
+        "letters": "עָ(a) + שִׂי(si) + תָ(ta)",
+        "root": "ע-ש-ה (아사)",
+        "grammar": "동사",
+        "emoji": "⚡",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"action10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><path d=\"M 32 8 L 28 28 L 16 28 L 32 40 L 36 28 L 48 28 Z\" fill=\"url(#action10)\" filter=\"drop-shadow(0 2px 6px rgba(255, 215, 0, 0.6))\"/><path d=\"M 32 40 L 28 56\" stroke=\"url(#action10)\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"rgba(255, 215, 0, 0.2)\"/></svg>"
+      },
+      {
+        "hebrew": "קוֹל",
+        "meaning": "소리",
+        "ipa": "kol",
+        "korean": "콜",
+        "letters": "קוֹ(ko) + ל(l)",
+        "root": "ק-ו-ל (콜)",
+        "grammar": "명사",
+        "emoji": "📢",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"voice10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 12 24 L 24 24 L 36 12 L 36 52 L 24 40 L 12 40 Z\" fill=\"url(#voice10)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.4))\"/><path d=\"M 44 20 Q 52 28 52 32 Q 52 36 44 44\" stroke=\"url(#voice10)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 48 24 Q 54 28 54 32 Q 54 36 48 40\" stroke=\"url(#voice10)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\"/></svg>"
+      },
+      {
+        "hebrew": "דְּמֵי",
+        "meaning": "피의",
+        "ipa": "dəˈme",
+        "korean": "드메",
+        "letters": "דְּ(de) + מֵי(me)",
+        "root": "ד-מ-ם (담)",
+        "grammar": "명사",
+        "emoji": "🩸",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"blood10\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient><radialGradient id=\"bloodglow10\"><stop offset=\"0%\" stop-color=\"#DC143C\"/><stop offset=\"100%\" stop-color=\"rgba(220, 20, 60, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#bloodglow10)\" opacity=\"0.3\"/><path d=\"M 32 12 Q 28 20 32 28 Q 36 20 32 12 Z\" fill=\"url(#blood10)\" filter=\"drop-shadow(0 2px 6px rgba(139, 0, 0, 0.6))\"/><circle cx=\"26\" cy=\"36\" r=\"4\" fill=\"url(#blood10)\" opacity=\"0.8\"/><circle cx=\"38\" cy=\"38\" r=\"3\" fill=\"url(#blood10)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"44\" r=\"5\" fill=\"url(#blood10)\" opacity=\"0.9\"/></svg>"
+      },
+      {
+        "hebrew": "אָחִיךָ",
+        "meaning": "네 아우의",
+        "ipa": "ʔaˈxixa",
+        "korean": "아히카",
+        "letters": "אָ(a) + חִי(hi) + ךָ(ka)",
+        "root": "א-ח (아흐)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brother10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#brother10)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#brother10)\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 14 38 L 24 34 L 34 38 L 34 52 L 24 48 L 14 52 Z\" fill=\"url(#brother10)\"/><path d=\"M 30 38 L 40 34 L 50 38 L 50 52 L 40 48 L 30 52 Z\" fill=\"url(#brother10)\" opacity=\"0.5\"/><path d=\"M 32 32 L 40 40\" stroke=\"#DC143C\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "צֹעֲקִים",
+        "meaning": "부르짖고 있다",
+        "ipa": "ʦoʔaˈkim",
+        "korean": "쪼아킴",
+        "letters": "צֹ(tso) + עֲ(a) + קִים(kim)",
+        "root": "צ-ע-ק (차아크)",
+        "grammar": "동사",
+        "emoji": "😱",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cry10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient><radialGradient id=\"sound10\"><stop offset=\"0%\" stop-color=\"rgba(255, 99, 71, 0.8)\"/><stop offset=\"100%\" stop-color=\"rgba(255, 99, 71, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#sound10)\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#sound10)\"/><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#sound10)\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#cry10)\" filter=\"drop-shadow(0 2px 6px rgba(220, 20, 60, 0.6))\"/><path d=\"M 24 30 Q 28 26 32 30 Q 36 26 40 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 26 38 Q 32 44 38 38\" stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "אֵלַי",
+        "meaning": "내게",
+        "ipa": "ʔeˈlaj",
+        "korean": "엘라이",
+        "letters": "אֵ(e) + לַי(lay)",
+        "root": "א-ל (엘)",
+        "grammar": "전치사",
+        "emoji": "👉",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"to10\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"100%\" stop-color=\"#228B22\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#to10)\" stroke-width=\"4\" marker-end=\"url(#arrow10)\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.4))\"/><circle cx=\"52\" cy=\"32\" r=\"8\" fill=\"url(#to10)\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.4))\"/><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\"/><defs><marker id=\"arrow10\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#228B22\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "מִן הָאֲדָמָה",
+        "meaning": "땅으로부터",
+        "ipa": "min haʔadaˈma",
+        "korean": "민 하아다마",
+        "letters": "מִן(min) + הָ(ha) + אֲדָמָה(adamah)",
+        "root": "א-ד-מ (아담)",
+        "grammar": "명사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ground10\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><radialGradient id=\"earth10\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#654321\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth10)\" filter=\"drop-shadow(0 3px 8px rgba(101, 67, 33, 0.5))\"/><path d=\"M 16 28 Q 20 24 24 28 Q 28 32 32 28 Q 36 24 40 28 Q 44 32 48 28\" stroke=\"#DC143C\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\"/><circle cx=\"24\" cy=\"36\" r=\"2\" fill=\"#DC143C\"/><circle cx=\"32\" cy=\"40\" r=\"3\" fill=\"#DC143C\"/><circle cx=\"40\" cy=\"36\" r=\"2\" fill=\"#DC143C\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 10절은 아벨의 죽음 이후 하나님께서 가인에게 하시는 첫 번째 심문입니다. '네가 무엇을 했느냐'는 질문은 단순한 정보 요구가 아니라, 가인의 양심을 깨우고 회개의 기회를 주시는 하나님의 자비로운 심문입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "מֶה עָשִׂיתָ (메 아시타) - 네가 무엇을 했느냐",
+          "description": "하나님의 질문은 에덴동산에서 아담에게 하신 질문 '네가 어디 있느냐'(창 3:9)와 유사합니다. 하나님은 이미 모든 것을 아시지만, 죄인에게 회개의 기회를 주십니다.",
+          "points": [
+            "하나님은 전지하시지만 죄인과 대화하심으로 회개의 기회를 주심",
+            "가인의 양심을 일깨우는 질문",
+            "죄의 심각성을 깨닫게 하는 하나님의 자비로운 심문"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "קוֹל דְּמֵי אָחִיךָ (콜 드메 아히카) - 네 아우의 피 소리",
+          "description": "'피 소리'는 히브리어 특유의 표현으로, 부당하게 흘린 피가 정의를 요구하며 하나님께 호소한다는 의인법입니다. 피는 생명을 상징하며, 무고한 생명의 희생은 하나님 앞에서 침묵하지 않습니다.",
+          "points": [
+            "무고하게 흘린 피는 하나님께 정의를 호소함",
+            "피는 생명을 상징하며, 살인은 하나님의 형상 파괴",
+            "의인 아벨의 피는 예수 그리스도의 보혈을 예표함 (히 12:24)"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "צֹעֲקִים אֵלַי (쪼아킴 엘라이) - 내게 부르짖고 있다",
+          "description": "'차아크'는 강렬한 부르짖음, 절박한 호소를 의미합니다. 복수형으로 표현되어 피 한 방울 한 방울이 하나님께 정의를 외치는 듯한 강렬한 이미지입니다.",
+          "points": [
+            "억울한 죽음은 하나님께 직접 호소함",
+            "하나님은 부르짖는 소리를 듣고 응답하시는 정의의 하나님",
+            "악인의 죄가 숨겨져도 하나님은 아시고 심판하심"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "מִן הָאֲדָמָה (민 하아다마) - 땅으로부터",
+          "description": "아담(사람)과 아다마(땅)의 연결이 다시 나타납니다. 사람은 흙에서 왔지만, 이제 그 땅이 형제의 피를 받아 하나님께 고발하고 있습니다. 가인이 경작하던 땅이 이제 증인이 되었습니다.",
+          "points": [
+            "땅(아다마)은 최초의 살인 사건의 증인",
+            "가인이 사랑했던 땅이 이제 그를 고발함",
+            "창조 세계 전체가 죄의 영향 아래 있음 (롬 8:22)"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 '네 아우의 피 소리가 땅에서 내게 부르짖는다'고 하셨나요?",
+        "answer": "하나님은 아벨이 억울하게 죽임을 당했다는 것을 모두 아셨어요. 아벨의 피가 실제로 소리를 낸 것은 아니지만, 하나님께서는 억울하게 죽은 아벨을 위해 정의를 이루시겠다는 뜻이에요. 마치 우리가 억울한 일을 당하면 부모님께 '도와주세요!'라고 외치는 것처럼, 아벨의 죽음이 하나님 아버지께 도움을 구하는 것이었어요. 하나님은 모든 것을 보시고 들으시며, 악한 일을 반드시 심판하세요.",
+        "bibleReferences": [
+          "히브리서 11:4 - '믿음으로 아벨은 가인보다 더 나은 제사를 하나님께 드림으로 의로운 자라 하시는 증거를 얻었으니'",
+          "히브리서 12:24 - '새 언약의 중보자이신 예수와 및 아벨의 피보다 더 나은 것을 말하는 뿌린 피니라'",
+          "요한계시록 6:10 - '거룩하고 참되신 대주재여 땅에 거하는 자들을 심판하여 우리 피를 갚아 주지 아니하시기를 어느 때까지 하시려나이까'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아벨의 피 소리는 억압받고 고통받는 모든 의인들의 호소를 대표합니다. 하나님은 침묵하지 않으시며, 정의를 요구하는 모든 부르짖음을 들으십니다. 동시에 히브리서 12:24는 예수 그리스도의 보혈이 '아벨의 피보다 더 나은 것을 말한다'고 가르칩니다. 아벨의 피는 정의를 외쳤지만, 예수님의 피는 용서와 화해를 선포합니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_4_11",
+    "ipa": "vəʕaˈta ʔaˈrur ʔaˈta min haʔadaˈma ʔaˈʃɛr paʦəˈta ʔɛt ˈpiha laˈkaxat ʔɛt dəˈme ʔaˈxixa mijaˈdexa",
+    "koreanPronunciation": "베아타 아루르 아타 민 하아다마 아쉐르 파츠타 에트 피하 라카하트 에트 드메 아히카 미야데카",
+    "modern": "그러므로 이제 너는 저주를 받아 땅에서 쫓겨날 것이다. 그 땅은 네 손에서 네 아우의 피를 받으려고 입을 벌렸다",
+    "words": [
+      {
+        "hebrew": "וְעַתָּה",
+        "meaning": "그리고 이제",
+        "ipa": "vəʕaˈta",
+        "korean": "베아타",
+        "letters": "וְ(ve) + עַ(a) + תָּה(tah)",
+        "root": "ע-ת-ה (아타)",
+        "grammar": "부사",
+        "emoji": "⏰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"now11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#now11)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.4))\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#now11)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#now11)\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#now11)\"/></svg>"
+      },
+      {
+        "hebrew": "אָרוּר",
+        "meaning": "저주받은",
+        "ipa": "ʔaˈrur",
+        "korean": "아루르",
+        "letters": "אָ(a) + רוּר(rur)",
+        "root": "א-ר-ר (아라르)",
+        "grammar": "형용사",
+        "emoji": "⚡",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"curse11\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B008B\"/><stop offset=\"100%\" stop-color=\"#4B0082\"/></linearGradient><radialGradient id=\"curseglow11\"><stop offset=\"0%\" stop-color=\"rgba(139, 0, 139, 0.6)\"/><stop offset=\"100%\" stop-color=\"rgba(139, 0, 139, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#curseglow11)\"/><path d=\"M 32 8 L 28 24 L 16 24 L 24 32 L 20 48 L 32 40 L 44 48 L 40 32 L 48 24 L 36 24 Z\" fill=\"url(#curse11)\" filter=\"drop-shadow(0 3px 6px rgba(75, 0, 130, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#DC143C\"/></svg>"
+      },
+      {
+        "hebrew": "אָתָּה",
+        "meaning": "너는",
+        "ipa": "ʔaˈta",
+        "korean": "아타",
+        "letters": "אָ(a) + תָּה(tah)",
+        "root": "א-ת-ה (아타)",
+        "grammar": "대명사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"you11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#you11)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 36 L 32 32 L 44 36 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#you11)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#DC143C\" stroke-width=\"3\" opacity=\"0.6\"/></svg>"
+      },
+      {
+        "hebrew": "מִן הָאֲדָמָה",
+        "meaning": "땅으로부터",
+        "ipa": "min haʔadaˈma",
+        "korean": "민 하아다마",
+        "letters": "מִן(min) + הָ(ha) + אֲדָמָה(adamah)",
+        "root": "א-ד-מ (아담)",
+        "grammar": "명사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ground11\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><radialGradient id=\"earth11\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#654321\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth11)\" filter=\"drop-shadow(0 3px 8px rgba(101, 67, 33, 0.5))\"/><path d=\"M 16 28 Q 20 24 24 28 Q 28 32 32 28 Q 36 24 40 28 Q 44 32 48 28\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 20 36 L 24 40 L 28 36\" stroke=\"#333\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 36 36 L 40 40 L 44 36\" stroke=\"#333\" stroke-width=\"2\" fill=\"none\"/></svg>"
+      },
+      {
+        "hebrew": "אֲשֶׁר",
+        "meaning": "그것이, 관계대명사",
+        "ipa": "ʔaˈʃɛr",
+        "korean": "아쉐르",
+        "letters": "אֲ(a) + שֶׁר(sher)",
+        "root": "א-ש-ר (아쉐르)",
+        "grammar": "대명사",
+        "emoji": "🔗",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"which11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#708090\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><ellipse cx=\"24\" cy=\"28\" rx=\"10\" ry=\"12\" fill=\"none\" stroke=\"url(#which11)\" stroke-width=\"4\" transform=\"rotate(-30 24 28)\"/><ellipse cx=\"40\" cy=\"36\" rx=\"10\" ry=\"12\" fill=\"none\" stroke=\"url(#which11)\" stroke-width=\"4\" transform=\"rotate(-30 40 36)\"/><path d=\"M 30 26 L 34 38\" stroke=\"url(#which11)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(47, 79, 79, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "פָּצְתָה",
+        "meaning": "입을 벌렸다",
+        "ipa": "paʦəˈta",
+        "korean": "파츠타",
+        "letters": "פָּ(pa) + צְ(tse) + תָה(tah)",
+        "root": "פ-צ-ה (파차)",
+        "grammar": "동사",
+        "emoji": "👄",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mouth11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#654321\"/><stop offset=\"100%\" stop-color=\"#3E2723\"/></linearGradient><radialGradient id=\"dark11\"><stop offset=\"0%\" stop-color=\"#000000\"/><stop offset=\"100%\" stop-color=\"#3E2723\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"24\" ry=\"16\" fill=\"url(#mouth11)\" filter=\"drop-shadow(0 3px 8px rgba(62, 39, 35, 0.6))\"/><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"12\" fill=\"url(#dark11)\"/><rect x=\"20\" y=\"34\" width=\"4\" height=\"12\" fill=\"#FFFFFF\" rx=\"2\" opacity=\"0.6\"/><rect x=\"28\" y=\"32\" width=\"4\" height=\"14\" fill=\"#FFFFFF\" rx=\"2\" opacity=\"0.6\"/><rect x=\"36\" y=\"32\" width=\"4\" height=\"14\" fill=\"#FFFFFF\" rx=\"2\" opacity=\"0.6\"/><rect x=\"44\" y=\"34\" width=\"4\" height=\"12\" fill=\"#FFFFFF\" rx=\"2\" opacity=\"0.6\"/></svg>"
+      },
+      {
+        "hebrew": "אֶת פִּיהָ",
+        "meaning": "그것의 입을",
+        "ipa": "ʔɛt ˈpiha",
+        "korean": "에트 피하",
+        "letters": "אֶת(et) + פִּי(pi) + הָ(ha)",
+        "root": "פ-ה (페)",
+        "grammar": "명사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"opening11\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient></defs><path d=\"M 16 32 Q 32 44 48 32 Q 48 36 32 48 Q 16 36 16 32 Z\" fill=\"url(#opening11)\" filter=\"drop-shadow(0 3px 6px rgba(101, 67, 33, 0.5))\"/><path d=\"M 16 32 Q 32 20 48 32\" fill=\"#8B4513\" opacity=\"0.8\"/><ellipse cx=\"32\" cy=\"36\" rx=\"14\" ry=\"8\" fill=\"#333\"/></svg>"
+      },
+      {
+        "hebrew": "לָקַחַת",
+        "meaning": "받다, 취하다",
+        "ipa": "laˈkaxat",
+        "korean": "라카하트",
+        "letters": "לָ(la) + קַ(ka) + חַת(hat)",
+        "root": "ל-ק-ח (라카흐)",
+        "grammar": "동사",
+        "emoji": "🤲",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"receive11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><path d=\"M 16 40 Q 20 32 24 40 L 24 52 Q 20 56 16 52 Z\" fill=\"url(#receive11)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\"/><path d=\"M 40 40 Q 44 32 48 40 L 48 52 Q 44 56 40 52 Z\" fill=\"url(#receive11)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\"/><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#DC143C\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.6))\"/><path d=\"M 32 28 L 20 44\" stroke=\"#DC143C\" stroke-width=\"2\" stroke-dasharray=\"2,2\"/><path d=\"M 32 28 L 44 44\" stroke=\"#DC143C\" stroke-width=\"2\" stroke-dasharray=\"2,2\"/></svg>"
+      },
+      {
+        "hebrew": "אֶת דְּמֵי",
+        "meaning": "피를",
+        "ipa": "ʔɛt dəˈme",
+        "korean": "에트 드메",
+        "letters": "אֶת(et) + דְּ(de) + מֵי(me)",
+        "root": "ד-מ-ם (담)",
+        "grammar": "명사",
+        "emoji": "🩸",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"blood11\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient><radialGradient id=\"bloodglow11\"><stop offset=\"0%\" stop-color=\"#DC143C\"/><stop offset=\"100%\" stop-color=\"rgba(220, 20, 60, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#bloodglow11)\" opacity=\"0.3\"/><path d=\"M 32 12 Q 28 20 32 28 Q 36 20 32 12 Z\" fill=\"url(#blood11)\" filter=\"drop-shadow(0 2px 6px rgba(139, 0, 0, 0.6))\"/><circle cx=\"26\" cy=\"36\" r=\"4\" fill=\"url(#blood11)\" opacity=\"0.8\"/><circle cx=\"38\" cy=\"38\" r=\"3\" fill=\"url(#blood11)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"44\" r=\"5\" fill=\"url(#blood11)\" opacity=\"0.9\"/></svg>"
+      },
+      {
+        "hebrew": "אָחִיךָ",
+        "meaning": "네 아우의",
+        "ipa": "ʔaˈxixa",
+        "korean": "아히카",
+        "letters": "אָ(a) + חִי(hi) + ךָ(ka)",
+        "root": "א-ח (아흐)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brother11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#brother11)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#brother11)\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 14 38 L 24 34 L 34 38 L 34 52 L 24 48 L 14 52 Z\" fill=\"url(#brother11)\"/><path d=\"M 30 38 L 40 34 L 50 38 L 50 52 L 40 48 L 30 52 Z\" fill=\"url(#brother11)\" opacity=\"0.5\"/><path d=\"M 32 32 L 40 40\" stroke=\"#DC143C\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "מִיָּדֶךָ",
+        "meaning": "네 손으로부터",
+        "ipa": "mijaˈdexa",
+        "korean": "미야데카",
+        "letters": "מִ(mi) + יָּ(ya) + דֶךָ(deka)",
+        "root": "י-ד (야드)",
+        "grammar": "명사",
+        "emoji": "✋",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand11\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><path d=\"M 32 52 L 32 36 L 28 16 L 32 18 L 32 32 L 36 16 L 38 18 L 36 32 L 40 16 L 42 18 L 40 32 L 44 20 L 46 22 L 44 36 Q 44 44 40 48 Q 36 52 32 52 Z\" fill=\"url(#hand11)\" filter=\"drop-shadow(0 2px 6px rgba(139, 69, 19, 0.4))\"/><circle cx=\"30\" cy=\"38\" r=\"3\" fill=\"#DC143C\"/><path d=\"M 30 38 L 28 46\" stroke=\"#DC143C\" stroke-width=\"2\"/><path d=\"M 30 38 L 34 44\" stroke=\"#DC143C\" stroke-width=\"2\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 11절은 인류 역사상 첫 번째 살인에 대한 하나님의 심판 선언입니다. 가인은 '땅으로부터' 저주를 받는데, 이는 아담이 받은 저주보다 더 심각합니다. 아담은 땅이 저주를 받았지만(창 3:17), 가인은 땅으로부터 분리되어 저주를 받습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "אָרוּר אָתָּה (아루르 아타) - 너는 저주받았다",
+          "description": "'아라르'는 하나님의 공식적인 저주 선언입니다. 성경에서 뱀(창 3:14)과 땅(창 3:17) 다음으로 저주받은 존재가 가인입니다. 이는 살인죄의 심각성을 보여줍니다.",
+          "points": [
+            "인간에게 내려진 최초의 직접적 저주",
+            "뱀과 땅에 이어 세 번째로 저주받은 존재",
+            "살인은 하나님의 형상을 파괴하는 가장 심각한 죄"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "מִן הָאֲדָמָה (민 하아다마) - 땅으로부터",
+          "description": "아담은 '땅이 저주를 받았지만' 여전히 땅을 경작할 수 있었습니다. 그러나 가인은 '땅으로부터' 분리되어 더 이상 땅과 정상적인 관계를 가질 수 없게 됩니다.",
+          "points": [
+            "아담의 저주보다 더 심각한 형벌",
+            "농부였던 가인이 더 이상 땅을 경작할 수 없음",
+            "존재의 근원(아다마)으로부터 추방당함"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "פָּצְתָה אֶת פִּיהָ (파츠타 에트 피하) - 입을 벌렸다",
+          "description": "땅이 입을 벌려 아벨의 피를 받았다는 강렬한 의인법입니다. 땅은 수동적 증인이 아니라, 적극적으로 증거하고 고발하는 존재로 묘사됩니다.",
+          "points": [
+            "땅이 마치 살아있는 존재처럼 증언함",
+            "창조 세계 전체가 죄에 반응함",
+            "죄는 개인적 차원을 넘어 우주적 결과를 가져옴"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "לָקַחַת אֶת דְּמֵי אָחִיךָ מִיָּדֶךָ (라카하트 에트 드메 아히카 미야데카) - 네 손에서 네 아우의 피를 받다",
+          "description": "'네 손에서'라는 표현은 가인이 직접 살인을 저질렀음을 명확히 합니다. 피는 생명을 상징하며, 땅이 그 피를 받았다는 것은 증거가 명백함을 의미합니다.",
+          "points": [
+            "살인의 책임이 가인에게 있음을 분명히 함",
+            "피는 생명이며, 하나님만이 생명을 주고 거두실 수 있음",
+            "은폐할 수 없는 죄 - 하나님은 모든 것을 보심"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 땅이 입을 벌려 아벨의 피를 받았다고 하나요?",
+        "answer": "가인이 아벨을 죽였을 때, 아벨의 피가 땅에 흘렀어요. 하나님은 마치 땅이 입을 벌려 그 피를 받아들인 것처럼 말씀하셨어요. 이것은 가인의 죄를 숨길 수 없다는 뜻이에요. 우리가 나쁜 일을 하고 숨기려 해도, 하나님은 모든 것을 아시고 계세요. 땅조차도 가인의 죄를 증언했답니다. 그래서 가인은 더 이상 땅에서 농사를 지을 수 없게 되었어요.",
+        "bibleReferences": [
+          "민수기 35:33 - '너희는 거주하는 땅을 더럽히지 말라 피는 땅을 더럽히나니'",
+          "욥기 16:18 - '땅아 내 피를 가리지 말라 나의 부르짖음이 쉴 곳을 얻지 못하게 하라'",
+          "로마서 8:22 - '피조물이 다 이제까지 함께 탄식하며 함께 고통을 겪고 있는 것을 우리가 아나니'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "가인에게 내려진 저주는 죄의 심각한 결과를 보여줍니다. 땅으로부터의 분리는 단순한 경제적 어려움이 아니라, 존재론적 분리입니다. 사람(아담)은 땅(아다마)에서 왔는데, 가인은 그 근원으로부터 잘려나갔습니다. 이는 죄가 가져오는 근본적인 소외와 분리를 상징합니다. 그러나 하나님은 가인을 완전히 버리지 않으시고(4:15), 심판 가운데서도 자비를 베푸십니다."
+      }
+    }
+  }
+]

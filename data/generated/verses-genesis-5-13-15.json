@@ -1,0 +1,483 @@
+[
+  {
+    "verse_id": "genesis_5_13",
+    "ipa": "vajiˈχi keˈnan ʔaχaˈre holiˈdo ʔet mahaˌlalˈʔel ʔarbaˈʕim ʃaˈna uʃmoˈne meˈʔot ʃaˈna vajˈjoled baˈnim uvaˈnot",
+    "korean_pronunciation": "바예히 케이난 아하레이 홀리도 에트 마할랄엘 아르바임 샤나 우쉬모네 메오트 샤나 바욜레드 바님 우바노트",
+    "modern": "게난은 마할랄엘을 낳은 후 팔백사십 년을 살며 아들들과 딸들을 낳았습니다",
+    "words": [
+      {
+        "hebrew": "וַיְחִי",
+        "meaning": "그리고 살았다",
+        "ipa": "vajiˈχi",
+        "korean": "바예히",
+        "letters": "וַ(va) + יְ(je) + חִי(χi)",
+        "root": "ח-י-ה (하야)",
+        "grammar": "동사",
+        "emoji": "⏳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#time1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#time1)\" stroke-width=\"3\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"#FF6B35\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"#FF6B35\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#glow1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "קֵינָן",
+        "meaning": "게난 (인명)",
+        "ipa": "keˈnan",
+        "korean": "케이난",
+        "letters": "קֵ(ke) + י(i) + נָן(nan)",
+        "root": "קֵינָן (케이난)",
+        "grammar": "명사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B8DD6\" /><stop offset=\"100%\" stop-color=\"#4A5899\" /></linearGradient><radialGradient id=\"face1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#face1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 36 Q 20 30 32 30 Q 44 30 44 36 L 44 50 Q 44 54 40 54 L 24 54 Q 20 54 20 50 Z\" fill=\"url(#person1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#4A5899\" /><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#4A5899\" /></svg>",
+        "relatedWords": [
+          "אָדָם (아담 - 사람)",
+          "שֵׁת (셋 - 세트)",
+          "אֱנוֹשׁ (에노쉬 - 에노스)"
+        ]
+      },
+      {
+        "hebrew": "אַחֲרֵי",
+        "meaning": "~후에",
+        "ipa": "ʔaχaˈre",
+        "korean": "아하레이",
+        "letters": "אַ(a) + חֲ(χa) + רֵי(re)",
+        "root": "אַחַר (아하르)",
+        "grammar": "전치사",
+        "emoji": "➡️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#50E3C2\" /></linearGradient></defs><path d=\"M 10 32 L 45 32\" stroke=\"url(#arrow1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 35 22 L 50 32 L 35 42 Z\" fill=\"url(#arrow1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+      },
+      {
+        "hebrew": "הוֹלִידוֹ",
+        "meaning": "그가 낳음",
+        "ipa": "holiˈdo",
+        "korean": "홀리도",
+        "letters": "הוֹ(ho) + לִי(li) + דוֹ(do)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "동사",
+        "emoji": "👶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"baby1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"blanket1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"14\" fill=\"url(#blanket1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#baby1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#4A5899\" /><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#4A5899\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+      },
+      {
+        "hebrew": "אֶת מַהֲלַלְאֵל",
+        "meaning": "마할랄엘을 (인명)",
+        "ipa": "ʔet mahaˌlalˈʔel",
+        "korean": "에트 마할랄엘",
+        "letters": "אֶת(et) + מַ(ma) + הֲ(ha) + לַל(lal) + אֵל(ʔel)",
+        "root": "מַהֲלַלְאֵל (마할랄엘)",
+        "grammar": "명사",
+        "emoji": "👨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mahalalel1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient><radialGradient id=\"face2\"><stop offset=\"0%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></radialGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#face2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 18 36 Q 18 30 32 30 Q 46 30 46 36 L 46 52 Q 46 56 42 56 L 22 56 Q 18 56 18 52 Z\" fill=\"url(#mahalalel1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#8E44AD\" /><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#8E44AD\" /><path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#8E44AD\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+        "relatedWords": [
+          "יָרֶד (야레드 - 야렛)",
+          "חֲנוֹךְ (하노크 - 에녹)"
+        ]
+      },
+      {
+        "hebrew": "אַרְבָּעִים",
+        "meaning": "사십",
+        "ipa": "ʔarbaˈʕim",
+        "korean": "아르바임",
+        "letters": "אַ(ar) + רְ(r) + בָּ(ba) + עִים(ʕim)",
+        "root": "אַרְבַּע (아르바)",
+        "grammar": "명사",
+        "emoji": "4️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"num4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#num4)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">40</text></svg>"
+      },
+      {
+        "hebrew": "שָׁנָה",
+        "meaning": "년",
+        "ipa": "ʃaˈna",
+        "korean": "샤나",
+        "letters": "שָׁ(sha) + נָה(na)",
+        "root": "שָׁנָה (샤나)",
+        "grammar": "명사",
+        "emoji": "📅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><rect x=\"10\" y=\"14\" width=\"44\" height=\"40\" rx=\"4\" fill=\"url(#year1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"10\" y=\"14\" width=\"44\" height=\"10\" fill=\"#A93226\" /><circle cx=\"22\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><circle cx=\"42\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><rect x=\"16\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"42\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"16\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+      },
+      {
+        "hebrew": "וּשְׁמֹנֶה מֵאוֹת",
+        "meaning": "그리고 팔백",
+        "ipa": "uʃmoˈne meˈʔot",
+        "korean": "우쉬모네 메오트",
+        "letters": "וּ(u) + שְׁ(sh) + מֹ(mo) + נֶה(ne) + מֵ(me) + אוֹת(ʔot)",
+        "root": "שְׁמֹנֶה (쉬모네)",
+        "grammar": "명사",
+        "emoji": "8️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"num8\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#num8)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"43\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">800</text></svg>"
+      },
+      {
+        "hebrew": "וַיּוֹלֶד",
+        "meaning": "그리고 낳았다",
+        "ipa": "vajˈjoled",
+        "korean": "바욜레드",
+        "letters": "וַ(va) + יּוֹ(jo) + לֶד(led)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "동사",
+        "emoji": "👪",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"family1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"40\" rx=\"14\" ry=\"12\" fill=\"url(#family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"20\" cy=\"36\" r=\"6\" fill=\"#F39C12\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"36\" r=\"6\" fill=\"#F39C12\" opacity=\"0.8\" /><ellipse cx=\"20\" cy=\"48\" rx=\"8\" ry=\"7\" fill=\"#F39C12\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"48\" rx=\"8\" ry=\"7\" fill=\"#F39C12\" opacity=\"0.8\" /></svg>"
+      },
+      {
+        "hebrew": "בָּנִים וּבָנוֹת",
+        "meaning": "아들들과 딸들",
+        "ipa": "baˈnim uvaˈnot",
+        "korean": "바님 우바노트",
+        "letters": "בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+        "root": "בֵּן (벤)",
+        "grammar": "명사",
+        "emoji": "👶👧",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"children1\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient><radialGradient id=\"children2\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient></defs><circle cx=\"22\" cy=\"24\" r=\"8\" fill=\"url(#children2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"22\" cy=\"42\" rx=\"10\" ry=\"8\" fill=\"url(#children2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"42\" cy=\"24\" r=\"8\" fill=\"url(#children1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"42\" cy=\"42\" rx=\"10\" ry=\"8\" fill=\"url(#children1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>",
+        "relatedWords": [
+          "בֵּן (벤 - 아들)",
+          "בַּת (바트 - 딸)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 5:13은 게난의 삶의 기록을 계속합니다. 마할랄엘을 낳은 후에도 게난은 840년을 더 살며 많은 자녀들을 낳았습니다. 이는 창세기 5장의 족보 패턴을 따르며, 하나님의 축복 가운데 생명이 대대로 이어짐을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיְחִי קֵינָן אַחֲרֵי (바예히 케이난 아하레이) - 게난이 그 후에 살았다",
+          "description": "히브리어 '바예히'는 '살다'를 의미하는 동사 '하야'에서 왔습니다. 단순히 생존이 아니라 하나님께서 주신 생명을 이어가는 의미를 담고 있습니다. '아하레이'는 '~후에'를 뜻하며, 마할랄엘을 낳은 이후의 삶을 가리킵니다.",
+          "points": [
+            "생명은 하나님께서 주신 선물이며, 그 기간도 하나님의 손에 달려 있습니다",
+            "자녀를 낳은 후에도 삶은 계속되며, 하나님의 목적을 이루어갑니다",
+            "창세기 5장의 족보는 하나님의 언약이 세대를 거쳐 이어짐을 보여줍니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "אַרְבָּעִים שָׁנָה וּשְׁמֹנֶה מֵאוֹת שָׁנָה (아르바임 샤나 우쉬모네 메오트 샤나) - 팔백사십 년",
+          "description": "창세기 초기 족보에 나타나는 놀라운 수명은 하나님의 창조 질서가 타락 이전에 가까운 상태를 보여줍니다. 840년이라는 긴 세월은 하나님의 축복과 생명력을 나타냅니다.",
+          "points": [
+            "초기 인류의 긴 수명은 죄의 영향이 점진적으로 나타났음을 시사합니다",
+            "오랜 수명을 통해 한 세대가 여러 세대를 거쳐 하나님의 말씀을 전할 수 있었습니다",
+            "생명의 길이보다 하나님 앞에서 어떻게 살았는가가 더 중요합니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיּוֹלֶד בָּנִים וּבָנוֹת (바욜레드 바님 우바노트) - 아들들과 딸들을 낳았다",
+          "description": "'바욜레드'는 '낳다'를 의미하는 '얄라드' 동사에서 왔습니다. 아들들과 딸들을 낳았다는 표현은 창세기 1:28의 '생육하고 번성하라'는 하나님의 명령이 이루어짐을 보여줍니다.",
+          "points": [
+            "생육과 번성은 타락 후에도 계속되는 하나님의 축복입니다",
+            "아들과 딸을 모두 언급함으로써 모든 생명의 가치를 인정합니다",
+            "경건한 족보는 단순한 혈통이 아니라 믿음의 계승을 의미합니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 게난은 마할랄엘을 낳은 후에도 그렇게 오래 살았을까요?",
+        "answer": "하나님께서는 게난에게 긴 생명을 주셔서 많은 자녀들을 낳고, 하나님을 아는 지식을 여러 세대에 전할 수 있게 하셨어요. 마치 할아버지가 손자, 손녀들에게 이야기를 들려주듯이, 게난도 여러 세대의 자손들에게 하나님의 이야기를 전할 수 있었답니다. 오래 사는 것보다 중요한 것은 하나님과 함께 사는 것이에요!",
+        "bibleReferences": [
+          "창세기 1:28 - '하나님이 그들에게 복을 주시며 그들에게 이르시되 생육하고 번성하여'",
+          "시편 90:12 - '우리에게 우리 날 계수함을 가르치사 지혜의 마음을 얻게 하소서'",
+          "신명기 6:2 - '네 아들과 네 손자들이 평생토록 네 하나님 여호와를 경외하며'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "게난의 긴 생애는 하나님의 언약이 끊이지 않고 이어짐을 보여줍니다. 마할랄엘을 낳은 후에도 840년을 살며 많은 자녀를 낳았다는 것은 하나님의 축복이 한 세대에 그치지 않고 계속 확장됨을 의미합니다. 우리도 믿음을 다음 세대에 전하는 책임을 가지고 있습니다."
+      }
+    }
+  },
+  {
+    "verse_id": "genesis_5_14",
+    "ipa": "vajihˈju kol jeˈme keˈnan ʕeˈser ʃaˈnim uteˈʃaʕ meˈʔot ʃaˈna vajˈjamot",
+    "korean_pronunciation": "바이흐유 콜 예메이 케이난 에세르 샤님 우테샤 메오트 샤나 바야모트",
+    "modern": "게난의 전체 나이는 구백십 세였고, 그가 죽었습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּהְיוּ",
+        "meaning": "그리고 되었다",
+        "ipa": "vajihˈju",
+        "korean": "바이흐유",
+        "letters": "וַ(va) + יִּ(ji) + הְיוּ(hju)",
+        "root": "ה-י-ה (하야)",
+        "grammar": "동사",
+        "emoji": "✅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"become1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2ECC71\" /><stop offset=\"100%\" stop-color=\"#27AE60\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#become1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 32 L 28 40 L 44 24\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /></svg>"
+      },
+      {
+        "hebrew": "כָּל יְמֵי",
+        "meaning": "모든 날들",
+        "ipa": "kol jeˈme",
+        "korean": "콜 예메이",
+        "letters": "כָּל(kol) + יְ(je) + מֵי(me)",
+        "root": "כֹּל (콜)",
+        "grammar": "명사",
+        "emoji": "📆",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient><linearGradient id=\"sun2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"4\" fill=\"url(#days1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#sun2)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.5))\" /><rect x=\"14\" y=\"40\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.9\" rx=\"1\" /><rect x=\"24\" y=\"40\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.9\" rx=\"1\" /><rect x=\"34\" y=\"40\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.9\" rx=\"1\" /><rect x=\"44\" y=\"40\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.9\" rx=\"1\" /></svg>",
+        "relatedWords": [
+          "יוֹם (욤 - 날)",
+          "חַיִּים (하임 - 생명)"
+        ]
+      },
+      {
+        "hebrew": "קֵינָן",
+        "meaning": "게난 (인명)",
+        "ipa": "keˈnan",
+        "korean": "케이난",
+        "letters": "קֵ(ke) + י(i) + נָן(nan)",
+        "root": "קֵינָן (케이난)",
+        "grammar": "명사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B8DD6\" /><stop offset=\"100%\" stop-color=\"#4A5899\" /></linearGradient><radialGradient id=\"face3\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#face3)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 36 Q 20 30 32 30 Q 44 30 44 36 L 44 50 Q 44 54 40 54 L 24 54 Q 20 54 20 50 Z\" fill=\"url(#person2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#4A5899\" /><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#4A5899\" /><path d=\"M 26 28 Q 32 26 38 28\" stroke=\"#A0A0A0\" stroke-width=\"1.5\" fill=\"none\" /></svg>"
+      },
+      {
+        "hebrew": "עֶשֶׂר שָׁנִים",
+        "meaning": "십 년",
+        "ipa": "ʕeˈser ʃaˈnim",
+        "korean": "에세르 샤님",
+        "letters": "עֶ(ʕe) + שֶׂר(ser) + שָׁ(sha) + נִים(nim)",
+        "root": "עֶשֶׂר (에세르)",
+        "grammar": "명사",
+        "emoji": "🔟",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ten1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#ten1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"43\" font-size=\"30\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">10</text></svg>"
+      },
+      {
+        "hebrew": "וּתְשַׁע מֵאוֹת",
+        "meaning": "그리고 구백",
+        "ipa": "uteˈʃaʕ meˈʔot",
+        "korean": "우테샤 메오트",
+        "letters": "וּ(u) + תְ(te) + שַׁע(ʃaʕ) + מֵ(me) + אוֹת(ʔot)",
+        "root": "תֵּשַׁע (테샤)",
+        "grammar": "명사",
+        "emoji": "9️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#nine1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"43\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">900</text></svg>"
+      },
+      {
+        "hebrew": "שָׁנָה",
+        "meaning": "년",
+        "ipa": "ʃaˈna",
+        "korean": "샤나",
+        "letters": "שָׁ(sha) + נָה(na)",
+        "root": "שָׁנָה (샤나)",
+        "grammar": "명사",
+        "emoji": "📅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><rect x=\"10\" y=\"14\" width=\"44\" height=\"40\" rx=\"4\" fill=\"url(#year2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"10\" y=\"14\" width=\"44\" height=\"10\" fill=\"#A93226\" /><circle cx=\"22\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><circle cx=\"42\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><rect x=\"16\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"42\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"16\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+      },
+      {
+        "hebrew": "וַיָּמֹת",
+        "meaning": "그리고 죽었다",
+        "ipa": "vajˈjamot",
+        "korean": "바야모트",
+        "letters": "וַ(va) + יָּ(ja) + מֹת(mot)",
+        "root": "מ-ו-ת (무트)",
+        "grammar": "동사",
+        "emoji": "⚰️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7F8C8D\" /><stop offset=\"100%\" stop-color=\"#34495E\" /></linearGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#D68910\" /></linearGradient></defs><rect x=\"16\" y=\"38\" width=\"32\" height=\"18\" rx=\"2\" fill=\"url(#death1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"16\" y=\"26\" width=\"32\" height=\"12\" rx=\"16\" fill=\"url(#death1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 8 L 28 20 L 36 20 Z\" fill=\"url(#light1)\" filter=\"drop-shadow(0 0 6px rgba(243, 156, 18, 0.6))\" /><circle cx=\"32\" cy=\"14\" r=\"3\" fill=\"#F39C12\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"14\" r=\"6\" fill=\"#F39C12\" opacity=\"0.2\" /></svg>",
+        "relatedWords": [
+          "מָוֶת (마벳 - 죽음)",
+          "חַיִּים (하임 - 생명)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 5:14는 게난의 생애를 마무리합니다. 910세를 살고 죽었다는 간결한 기록은 창세기 5장 족보의 정형화된 패턴을 따릅니다. 이 구절은 아무리 긴 생명이라도 죽음을 피할 수 없다는 인간의 한계와 하나님의 주권을 동시에 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּהְיוּ כָּל יְמֵי קֵינָן (바이흐유 콜 예메이 케이난) - 게난의 모든 날들이 되었다",
+          "description": "'바이흐유'는 '되다'를 의미하는 동사 '하야'에서 나온 표현으로, 생애가 완성되었음을 나타냅니다. '콜 예메이'는 '모든 날들'이라는 뜻으로, 게난이 살았던 모든 시간을 합산하는 표현입니다.",
+          "points": [
+            "우리의 모든 날은 하나님께서 정하신 것입니다",
+            "생애의 총합은 단순히 숫자가 아니라 하나님 앞에서 산 시간입니다",
+            "창세기 5장은 각 사람의 '모든 날'을 정확히 기록하여 하나님의 신실하심을 보여줍니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "עֶשֶׂר שָׁנִים וּתְשַׁע מֵאוֹת שָׁנָה (에세르 샤님 우테샤 메오트 샤나) - 구백십 세",
+          "description": "게난은 910년을 살았습니다. 이는 아담(930세)보다 20년 짧지만, 여전히 매우 긴 수명입니다. 숫자의 정확한 기록은 성경의 역사성과 신뢰성을 보여줍니다.",
+          "points": [
+            "하나님은 각 사람에게 다른 길이의 생명을 주십니다",
+            "긴 수명은 축복이지만, 그 안에서 하나님과 동행하는 것이 더 중요합니다",
+            "창세기 5장의 수명 기록은 점차 감소하여 타락의 영향을 보여줍니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיָּמֹת (바야모트) - 그리고 그가 죽었다",
+          "description": "'바야모트'는 '죽다'를 의미하는 동사 '무트'에서 나왔습니다. 창세기 5장에서 반복되는 이 표현은 죄의 결과로 들어온 죽음의 보편성을 강조합니다. 오직 에녹만이 이 패턴에서 예외입니다.",
+          "points": [
+            "죄의 삯은 사망이라는 창세기 2-3장의 경고가 현실이 되었습니다",
+            "아무리 오래 살아도 결국 죽음을 맞이하는 것이 타락한 인간의 운명입니다",
+            "그러나 하나님은 부활과 영생의 소망을 통해 죽음을 극복하실 것입니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 게난도 910년이나 살았는데 결국 죽었을까요?",
+        "answer": "하나님께서 아담과 하와에게 '선악과를 먹으면 반드시 죽는다'고 말씀하셨어요. 게난은 아담의 후손이기 때문에 죄의 영향을 받아 결국 죽게 되었답니다. 아무리 오래 살아도 죄 때문에 모든 사람이 죽게 되었어요. 하지만 하나님은 예수님을 보내셔서 죽음을 이기게 하시고, 믿는 사람들에게 영원한 생명을 주실 거예요!",
+        "bibleReferences": [
+          "창세기 2:17 - '선악을 알게 하는 나무의 열매는 먹지 말라 네가 먹는 날에는 반드시 죽으리라'",
+          "로마서 6:23 - '죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라'",
+          "요한복음 11:25 - '예수께서 이르시되 나는 부활이요 생명이니 나를 믿는 자는 죽어도 살겠고'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "창세기 5장의 반복되는 '그리고 죽었다'는 구절은 죄의 보편적 결과를 보여주지만, 동시에 하나님의 언약은 죽음을 넘어 계속된다는 희망을 줍니다. 게난이 죽었지만, 그의 아들 마할랄엘을 통해 언약의 계보는 계속 이어져 마침내 구원자 예수 그리스도에게 이릅니다."
+      }
+    }
+  },
+  {
+    "verse_id": "genesis_5_15",
+    "ipa": "vajˈχi mahaˌlalˈʔel χaˈmeʃ ʃaˈnim vəʃiˈʃim ʃaˈna vajˈjoled ʔet ˈjared",
+    "korean_pronunciation": "바예히 마할랄엘 하메쉬 샤님 베쉬심 샤나 바욜레드 에트 야레드",
+    "modern": "마할랄엘은 육십오 세에 야렛을 낳았습니다",
+    "words": [
+      {
+        "hebrew": "וַיְחִי",
+        "meaning": "그리고 살았다",
+        "ipa": "vajˈχi",
+        "korean": "바예히",
+        "letters": "וַ(va) + יְ(je) + חִי(χi)",
+        "root": "ח-י-ה (하야)",
+        "grammar": "동사",
+        "emoji": "⏳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#time2)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#time2)\" stroke-width=\"3\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"#FF6B35\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"#FF6B35\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#glow2)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "מַהֲלַלְאֵל",
+        "meaning": "마할랄엘 (인명)",
+        "ipa": "mahaˌlalˈʔel",
+        "korean": "마할랄엘",
+        "letters": "מַ(ma) + הֲ(ha) + לַל(lal) + אֵל(ʔel)",
+        "root": "מַהֲלַלְאֵל (마할랄엘)",
+        "grammar": "명사",
+        "emoji": "👨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mahalalel2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient><radialGradient id=\"face4\"><stop offset=\"0%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></radialGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#face4)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 18 36 Q 18 30 32 30 Q 46 30 46 36 L 46 52 Q 46 56 42 56 L 22 56 Q 18 56 18 52 Z\" fill=\"url(#mahalalel2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#8E44AD\" /><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#8E44AD\" /><path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#8E44AD\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+        "relatedWords": [
+          "הָלַל (할랄 - 찬양하다)",
+          "אֵל (엘 - 하나님)"
+        ]
+      },
+      {
+        "hebrew": "חָמֵשׁ שָׁנִים",
+        "meaning": "다섯 년",
+        "ipa": "χaˈmeʃ ʃaˈnim",
+        "korean": "하메쉬 샤님",
+        "letters": "חָ(χa) + מֵשׁ(meʃ) + שָׁ(sha) + נִים(nim)",
+        "root": "חָמֵשׁ (하메쉬)",
+        "grammar": "명사",
+        "emoji": "5️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E67E22\" /><stop offset=\"100%\" stop-color=\"#D35400\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#five1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">5</text></svg>"
+      },
+      {
+        "hebrew": "וְשִׁשִּׁים",
+        "meaning": "그리고 육십",
+        "ipa": "vəʃiˈʃim",
+        "korean": "베쉬심",
+        "letters": "וְ(ve) + שִׁ(shi) + שִּׁים(shim)",
+        "root": "שִׁשִּׁים (쉬심)",
+        "grammar": "명사",
+        "emoji": "6️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sixty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#16A085\" /><stop offset=\"100%\" stop-color=\"#138D75\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#sixty1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"43\" font-size=\"30\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial, sans-serif\">60</text></svg>"
+      },
+      {
+        "hebrew": "שָׁנָה",
+        "meaning": "년",
+        "ipa": "ʃaˈna",
+        "korean": "샤나",
+        "letters": "שָׁ(sha) + נָה(na)",
+        "root": "שָׁנָה (샤나)",
+        "grammar": "명사",
+        "emoji": "📅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><rect x=\"10\" y=\"14\" width=\"44\" height=\"40\" rx=\"4\" fill=\"url(#year3)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"10\" y=\"14\" width=\"44\" height=\"10\" fill=\"#A93226\" /><circle cx=\"22\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><circle cx=\"42\" cy=\"12\" r=\"3\" fill=\"#95A5A6\" /><rect x=\"16\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"42\" y=\"28\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"16\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"38\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+      },
+      {
+        "hebrew": "וַיּוֹלֶד",
+        "meaning": "그리고 낳았다",
+        "ipa": "vajˈjoled",
+        "korean": "바욜레드",
+        "letters": "וַ(va) + יּוֹ(jo) + לֶד(led)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "동사",
+        "emoji": "👶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"baby2\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"blanket2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"14\" fill=\"url(#blanket2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#baby2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#4A5899\" /><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#4A5899\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+      },
+      {
+        "hebrew": "אֶת יָרֶד",
+        "meaning": "야렛을 (인명)",
+        "ipa": "ʔet ˈjared",
+        "korean": "에트 야레드",
+        "letters": "אֶת(et) + יָ(ja) + רֶד(red)",
+        "root": "יָרֶד (야레드)",
+        "grammar": "명사",
+        "emoji": "👶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jared1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#229954\" /></linearGradient><radialGradient id=\"face5\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient></defs><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#face5)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"16\" ry=\"12\" fill=\"url(#jared1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"27\" cy=\"24\" r=\"2\" fill=\"#229954\" /><circle cx=\"37\" cy=\"24\" r=\"2\" fill=\"#229954\" /><path d=\"M 27 30 Q 32 32 37 30\" stroke=\"#229954\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "חֲנוֹךְ (하노크 - 에녹)",
+          "מְתוּשֶׁלַח (메투쉘라흐 - 므두셀라)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 5:15는 마할랄엘의 생애를 시작하며, 그가 65세에 야렛을 낳았음을 기록합니다. 마할랄엘이라는 이름은 '하나님을 찬양하다'라는 의미를 담고 있으며, 이는 경건한 믿음의 계보가 이어지고 있음을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיְחִי מַהֲלַלְאֵל (바예히 마할랄엘) - 마할랄엘이 살았다",
+          "description": "마할랄엘이라는 이름은 '하나님을 찬양하다'(הָלַל, 할랄)와 '하나님'(אֵל, 엘)이 결합된 형태입니다. 이 이름은 그의 부모가 하나님을 경외하는 믿음을 가졌음을 보여줍니다.",
+          "points": [
+            "이름에는 부모의 믿음과 소망이 담겨 있습니다",
+            "마할랄엘은 '하나님의 찬양'이라는 이름대로 하나님께 영광을 돌리는 삶을 살았을 것입니다",
+            "경건한 족보는 단순히 혈통이 아니라 믿음의 유산을 전하는 것입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "חָמֵשׁ שָׁנִים וְשִׁשִּׁים שָׁנָה (하메쉬 샤님 베쉬심 샤나) - 육십오 세",
+          "description": "마할랄엘은 65세에 야렛을 낳았습니다. 이는 창세기 5장의 다른 조상들과 비교했을 때 상대적으로 늦은 나이입니다. 아담은 130세, 셋은 105세, 에노스는 90세, 게난은 70세에 첫 아들을 낳았습니다.",
+          "points": [
+            "하나님의 계획은 우리의 시간표와 다를 수 있습니다",
+            "나이와 상관없이 하나님은 당신의 약속을 이루십니다",
+            "각 세대마다 하나님께서 정하신 때가 있습니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיּוֹלֶד אֶת יָרֶד (바욜레드 에트 야레드) - 야렛을 낳았다",
+          "description": "야렛이라는 이름은 '내려가다' 또는 '하강하다'를 의미하는 히브리어 어근 '야라드'에서 왔습니다. 야렛은 에녹의 아버지이며, 므두셀라의 할아버지가 됩니다.",
+          "points": [
+            "야렛의 계보를 통해 에녹이 태어나게 됩니다",
+            "에녹은 '하나님과 동행한' 특별한 인물로 기록됩니다",
+            "하나님의 구속 계획은 세대를 거쳐 예수 그리스도께 이어집니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "מַהֲלַלְאֵל (마할랄엘) - 하나님의 찬양",
+          "description": "마할랄엘의 이름 자체가 신학적 의미를 담고 있습니다. 타락한 세상에서도 하나님을 찬양하는 믿음의 세대가 이어지고 있음을 보여줍니다.",
+          "points": [
+            "어려운 환경 속에서도 하나님을 찬양하는 것은 믿음의 표현입니다",
+            "찬양은 하나님의 성품과 행하심을 선포하는 것입니다",
+            "우리의 이름과 정체성은 하나님과의 관계에서 비롯됩니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 마할랄엘은 '하나님을 찬양하다'라는 이름을 받았을까요?",
+        "answer": "마할랄엘의 부모님은 하나님을 사랑하고 경외했어요. 그래서 아기가 태어났을 때 '우리 아이가 평생 하나님을 찬양하며 살기를 바란다'는 마음으로 이런 이름을 지어주었답니다. 마치 여러분의 이름에도 부모님의 사랑과 소망이 담겨 있는 것처럼요. 마할랄엘은 이름처럼 하나님께 영광을 돌리는 삶을 살았고, 그의 후손 중에는 하나님과 함께 걸었던 에녹도 있어요!",
+        "bibleReferences": [
+          "시편 34:1 - '내가 여호와를 항상 송축함이여 그를 송축함이 내 입에 계속하리로다'",
+          "시편 150:6 - '호흡이 있는 자마다 여호와를 찬양할지어다 할렐루야'",
+          "히브리서 13:15 - '그러므로 우리는 예수로 말미암아 항상 찬송의 제사를 하나님께 드리자'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "마할랄엘의 이름과 삶은 타락한 세상에서도 하나님을 찬양하는 믿음의 공동체가 존재했음을 보여줍니다. 그의 계보를 통해 에녹이 태어나고, 결국 예수 그리스도께 이어지는 구속의 역사가 펼쳐집니다. 우리도 마할랄엘처럼 어떤 상황에서도 하나님을 찬양하며 살아가야 합니다."
+      }
+    }
+  }
+]

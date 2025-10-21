@@ -1,0 +1,122 @@
+{
+  "verse_id": "genesis_5_5",
+  "ipa": "vajˈjihju kol jəˈme ʔaˈdam ʔaˈʃer ħaj ˈteʃaʕ meˈot ʃaˈna uʃəloˈʃim ʃaˈna vajjaˈmot",
+  "korean_pronunciation": "바이히유 콜 예메 아담 아셰르 하이 테샤 메오트 샤나 우쉐로쉼 샤나 바야모트",
+  "modern": "아담이 살았던 모든 날은 구백삼십 년이었으며, 그리고 그가 죽었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּֽהְי֞וּ כָּל",
+      "meaning": "그리고 모든 것이 되었다",
+      "ipa": "vajˈjihju kol",
+      "korean": "바이히유 콜",
+      "letters": "וַ(va) + יִּֽ(yi) + הְיוּ(hyu) + כָּל(kol)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"total1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1976D2\"/><stop offset=\"100%\" stop-color=\"#42A5F5\"/></linearGradient></defs><rect x=\"12\" y=\"48\" width=\"12\" height=\"8\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><rect x=\"28\" y=\"38\" width=\"12\" height=\"18\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><rect x=\"44\" y=\"28\" width=\"12\" height=\"28\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><line x1=\"8\" y1=\"56\" x2=\"60\" y2=\"56\" stroke=\"#424242\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "יְמֵ֤י אָדָם֙",
+      "meaning": "아담의 날들",
+      "ipa": "jəˈme ʔaˈdam",
+      "korean": "예메 아담",
+      "letters": "יְ(ye) + מֵי(me) + אָ(a) + דָם(dam)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"life1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C44569\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255,107,107,0.1)\"/><path d=\"M 12 32 Q 32 12 52 32\" stroke=\"url(#life1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(196,69,105,0.4))\"/><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#FF6B6B\"/><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#C44569\"/><text x=\"32\" y=\"52\" font-family=\"Arial\" font-size=\"10\" fill=\"#C44569\" text-anchor=\"middle\">Life</text></svg>",
+      "relatedWords": [
+        "חַיִּים (하임 - 생명)",
+        "יוֹם (욤 - 날)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר חַ֔י",
+      "meaning": "그가 살았던",
+      "ipa": "ʔaˈʃer ħaj",
+      "korean": "아셰르 하이",
+      "letters": "אֲ(a) + שֶׁר(sher) + חַי(ħaj)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "💚",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"heart1\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#1B5E20\"/></radialGradient></defs><path d=\"M 32 52 C 32 52 12 36 12 24 C 12 16 18 12 24 12 C 28 12 32 16 32 16 C 32 16 36 12 40 12 C 46 12 52 16 52 24 C 52 36 32 52 32 52 Z\" fill=\"url(#heart1)\" filter=\"drop-shadow(0 4px 8px rgba(76,175,80,0.5))\"/><path d=\"M 32 20 Q 26 16 24 16 C 20 16 18 20 18 24 C 18 28 22 32 32 40\" fill=\"rgba(255,255,255,0.3)\"/></svg>"
+    },
+    {
+      "hebrew": "תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וּשְׁלֹשִׁ֖ים שָׁנָ֑ה",
+      "meaning": "구백삼십 년",
+      "ipa": "ˈteʃaʕ meˈot ʃaˈna uʃəloˈʃim ʃaˈna",
+      "korean": "테샤 메오트 샤나 우쉐로쉼 샤나",
+      "letters": "תְּ(te) + שַׁע(sha) + מֵ(me) + אוֹת(ot) + שָׁ(sha) + נָה(na) + וּ(u) + שְׁ(she) + לֹ(lo) + שִׁים(shim) + שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "9️⃣3️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"num930\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#880E4F\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(233,30,99,0.1)\"/><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"url(#num930)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(136,14,79,0.5))\">930</text><text x=\"32\" y=\"52\" font-family=\"Arial\" font-size=\"8\" fill=\"#880E4F\" text-anchor=\"middle\">years</text></svg>"
+    },
+    {
+      "hebrew": "וַיָּמֹֽת",
+      "meaning": "그리고 죽었다",
+      "ipa": "vajjaˈmot",
+      "korean": "바야모트",
+      "letters": "וַ(va) + יָּ(ya) + מֹת(mot)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "emoji": "⚰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\"/><stop offset=\"100%\" stop-color=\"#424242\"/></linearGradient><radialGradient id=\"light1\"><stop offset=\"0%\" stop-color=\"#FFF9C4\"/><stop offset=\"100%\" stop-color=\"#FFD54F\"/></radialGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"24\" rx=\"4\" fill=\"url(#death1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#light1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255,213,79,0.6))\"/><path d=\"M 32 24 L 32 28\" stroke=\"url(#light1)\" stroke-width=\"2\" opacity=\"0.5\"/></svg>",
+      "relatedWords": [
+        "מָוֶת (마벳 - 죽음)",
+        "מֵת (메트 - 죽은 자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 5절은 인류의 첫 사람 아담의 생애를 마무리하는 구절입니다. 930년이라는 긴 생애와 죽음이라는 엄숙한 현실이 함께 기록되어 있습니다. 이 구절은 생명의 귀함과 동시에 죄의 결과로 온 죽음의 현실을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל יְמֵי אָדָם (콜 예메 아담) - 아담의 모든 날들",
+        "description": "'콜'(כָּל)은 '모든', '전체'를 의미하는 단어입니다. 아담의 생애 전체를 합산한다는 의미로, 하나님께서 그에게 주신 생명의 시간이 얼마나 되는지를 정확히 기록합니다.",
+        "points": [
+          "하나님께서는 각 사람의 생명의 날들을 정확히 아십니다",
+          "우리의 모든 날은 하나님의 손 안에 있습니다",
+          "생명의 길이보다 어떻게 살았는가가 더 중요합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תְּשַׁע מֵאוֹת וּשְׁלֹשִׁים שָׁנָה (테샤 메오트 우쉐로쉼 샤나) - 930년",
+        "description": "아담은 총 930년을 살았습니다. 이는 하나님께서 말씀하신 '천 년'에는 미치지 못하는 수명입니다. 창조 시 하나님께서 '선악과를 먹는 날에는 반드시 죽으리라'고 하신 말씀의 성취를 보여줍니다.",
+        "points": [
+          "아담은 1000년을 채우지 못하고 죽었습니다",
+          "죄의 대가는 죽음입니다",
+          "그럼에도 하나님은 아담에게 긴 생명을 허락하셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּמֹת (바야모트) - 그리고 죽었다",
+        "description": "'바야모트'는 '그리고 죽었다'는 의미의 히브리어입니다. 창세기 5장의 족보에서 이 표현은 반복적으로 나타나며, 죄의 결과로 온 죽음이 모든 인류에게 적용되는 보편적 현실임을 보여줍니다.",
+        "points": [
+          "죽음은 죄의 결과입니다(로마서 6:23)",
+          "아무리 오래 살아도 결국 죽음을 피할 수 없습니다",
+          "그러나 예수 그리스도 안에 영생의 소망이 있습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 결국 죽어야 했을까요?",
+      "answer": "하나님께서 아담에게 '선악과를 먹는 날에는 반드시 죽으리라'고 말씀하셨어요. 아담과 하와가 하나님의 말씀을 어기고 선악과를 먹었기 때문에, 죽음이 세상에 들어오게 되었답니다. 아담이 930년이나 살았지만, 결국 죽었어요. 이것은 죄의 결과가 얼마나 슬픈 것인지를 보여줍니다. 하지만 하나님은 예수님을 보내주셔서, 우리에게 영원한 생명을 주시겠다고 약속하셨어요!",
+      "bibleReferences": [
+        "창세기 2:17 - '선악을 알게 하는 나무의 열매는 먹지 말라 네가 먹는 날에는 반드시 죽으리라'",
+        "로마서 5:12 - '한 사람으로 말미암아 죄가 세상에 들어오고 죄로 말미암아 사망이 들어왔나니'",
+        "로마서 6:23 - '죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아담의 죽음은 인류 역사상 첫 번째 죽음이자, 죄의 결과가 얼마나 심각한지를 보여주는 사건입니다. 930년이라는 긴 생애도 결국 죽음으로 끝났다는 것은, 죄의 삯은 사망이라는 하나님의 말씀이 문자 그대로 이루어졌음을 증명합니다. 그러나 이는 절망이 아니라, 우리에게 구원자가 필요함을 알려주는 복음의 시작입니다. 예수 그리스도는 '마지막 아담'으로 오셔서 죽음을 이기시고 우리에게 영생을 주셨습니다(고린도전서 15:45)."
+    }
+  }
+}

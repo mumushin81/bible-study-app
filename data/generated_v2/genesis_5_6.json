@@ -1,0 +1,122 @@
+{
+  "verse_id": "genesis_5_6",
+  "ipa": "vajˈħi ʃet ħaˈmeʃ ʃaˈnim umeˈʔat ʃaˈna vajˈjoled ʔet ʔeˈnoʃ",
+  "korean_pronunciation": "바예히 셋 하메쉬 샤님 우메아트 샤나 바요레드 에트 에노쉬",
+  "modern": "셋은 백오 세가 되었을 때 에노스를 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְחִי שֵׁ֕ת",
+      "meaning": "그리고 셋이 살았다",
+      "ipa": "vajˈħi ʃet",
+      "korean": "바예히 셋",
+      "letters": "וַ(va) + יְ(ye) + חִי(ħi) + שֵׁת(shet)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"seth1\"><stop offset=\"0%\" stop-color=\"#64B5F6\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(100,181,246,0.15)\"/><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#seth1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><path d=\"M 18 34 Q 32 38 46 34 L 46 52 Q 32 56 18 52 Z\" fill=\"url(#seth1)\" filter=\"drop-shadow(0 4px 6px rgba(25,118,210,0.4))\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#FFF\"/><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#FFF\"/></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 아담)",
+        "חַי (하이 - 살다)"
+      ]
+    },
+    {
+      "hebrew": "חָמֵ֥שׁ שָׁנִ֖ים",
+      "meaning": "다섯 년",
+      "ipa": "ħaˈmeʃ ʃaˈnim",
+      "korean": "하메쉬 샤님",
+      "letters": "חָ(ħa) + מֵשׁ(mesh) + שָׁ(sha) + נִים(nim)",
+      "root": "חָמֵשׁ (하메쉬)",
+      "grammar": "명사",
+      "emoji": "5️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF9800\"/><stop offset=\"100%\" stop-color=\"#E65100\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255,152,0,0.1)\"/><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"url(#five1)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(230,81,0,0.5))\">5</text></svg>"
+    },
+    {
+      "hebrew": "וּמְאַ֣ת שָׁנָ֑ה",
+      "meaning": "그리고 백 년",
+      "ipa": "umeˈʔat ʃaˈna",
+      "korean": "우메아트 샤나",
+      "letters": "וּ(u) + מְ(me) + אַת(at) + שָׁ(sha) + נָה(na)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundred1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#1B5E20\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(76,175,80,0.1)\"/><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#hundred1)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(27,94,32,0.5))\">100</text></svg>"
+    },
+    {
+      "hebrew": "וַיּ֖וֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjoled",
+      "korean": "바요레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
+      "root": "י-ל-ד (야라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"birth1\"><stop offset=\"0%\" stop-color=\"#FFF9C4\"/><stop offset=\"100%\" stop-color=\"#F9A825\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(249,168,37,0.15)\"/><circle cx=\"32\" cy=\"26\" r=\"11\" fill=\"url(#birth1)\" filter=\"drop-shadow(0 2px 4px rgba(249,168,37,0.4))\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#6D4C41\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#6D4C41\"/><path d=\"M 28 29 Q 32 31 36 29\" stroke=\"#F57C00\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"32\" cy=\"42\" rx=\"13\" ry=\"9\" fill=\"url(#birth1)\" filter=\"drop-shadow(0 2px 4px rgba(249,168,37,0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת אֱנֽוֹשׁ",
+      "meaning": "에노스를",
+      "ipa": "ʔet ʔeˈnoʃ",
+      "korean": "에트 에노쉬",
+      "letters": "אֶת(et) + אֱ(e) + נוֹשׁ(nosh)",
+      "root": "אֱנוֹשׁ (에노쉬)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"enosh1\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#4A148C\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(156,39,176,0.1)\"/><circle cx=\"32\" cy=\"22\" r=\"9\" fill=\"url(#enosh1)\" filter=\"drop-shadow(0 2px 4px rgba(74,20,140,0.4))\"/><circle cx=\"29\" cy=\"20\" r=\"1.5\" fill=\"#FFF\"/><circle cx=\"35\" cy=\"20\" r=\"1.5\" fill=\"#FFF\"/><path d=\"M 20 33 Q 32 36 44 33 L 44 50 Q 32 54 20 50 Z\" fill=\"url(#enosh1)\" filter=\"drop-shadow(0 4px 6px rgba(74,20,140,0.4))\"/><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"#CE93D8\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "אֱנוֹשׁ (에노쉬 - 사람, 인간)",
+        "אִישׁ (이쉬 - 남자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 6절은 셋의 생애에서 중요한 순간을 기록합니다. 셋이 105세에 에노스를 낳았다는 이 기록은 경건한 족보가 계속 이어지고 있음을 보여줍니다. 에노스 시대에 사람들이 비로소 여호와의 이름을 불렀다는 점에서 이는 매우 중요한 세대 전환점입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְחִי שֵׁת (바예히 셋) - 셋이 살았다",
+        "description": "'바예히'는 '살았다', '생애를 보냈다'는 의미입니다. 셋은 아담의 세 번째 아들로, 아벨을 대신하여 경건한 혈통을 이어가는 중요한 인물입니다. 그의 삶은 하나님을 경외하는 삶이었습니다.",
+        "points": [
+          "셋은 아벨의 죽음 이후 경건한 혈통을 이었습니다",
+          "하나님께서는 경건한 자손을 통해 구원 역사를 이어가십니다",
+          "각 세대는 하나님 앞에서 책임 있는 삶을 살아야 합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָמֵשׁ שָׁנִים וּמְאַת שָׁנָה (하메쉬 샤님 우메아트 샤나) - 105세",
+        "description": "셋은 105세에 에노스를 낳았습니다. 초기 족장들은 매우 늦은 나이에 자녀를 낳았는데, 이는 그들의 긴 수명과 관련이 있습니다. 105세는 현대 기준으로는 매우 높은 나이지만, 당시에는 여전히 젊은 편이었습니다.",
+        "points": [
+          "하나님의 약속은 우리의 시간표가 아닌 하나님의 때에 이루어집니다",
+          "인내하며 기다리는 것이 믿음의 삶입니다",
+          "하나님께서 정하신 때가 가장 완벽한 때입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֶת אֱנוֹשׁ (에트 에노쉬) - 에노스를",
+        "description": "'에노쉬'(אֱנוֹשׁ)라는 이름은 '인간', '필멸자'라는 의미를 담고 있습니다. 이는 인간의 연약함과 유한성을 인정하는 겸손한 이름입니다. 에노스 시대에 사람들이 여호와의 이름을 부르기 시작했다는 것은(창 4:26) 인간의 연약함을 인정하고 하나님을 찾았음을 보여줍니다.",
+        "points": [
+          "인간의 연약함을 인정하는 것이 신앙의 시작입니다",
+          "에노스 시대에 공적 예배가 시작되었습니다",
+          "하나님의 이름을 부르는 것은 구원의 통로입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에노스라는 이름이 특별할까요?",
+      "answer": "에노스라는 이름은 '연약한 사람'이라는 뜻이에요. 이 이름이 특별한 이유는, 에노스 시대에 사람들이 처음으로 하나님을 공개적으로 예배하기 시작했기 때문이에요. 사람들이 자신들이 연약하다는 것을 알고, 강하신 하나님께 도움을 구하기 시작한 거예요. 우리도 우리 자신이 약하다는 것을 인정하고 하나님께 의지할 때, 하나님께서 우리를 도우실 수 있답니다!",
+      "bibleReferences": [
+        "창세기 4:26 - '그때에 사람들이 비로소 여호와의 이름을 불렀더라'",
+        "시편 116:6 - '여호와께서는 어리석은 자를 보호하시나니'",
+        "요엘 2:32 - '누구든지 여호와의 이름을 부르는 자는 구원을 받으리니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "셋에서 에노스로 이어지는 이 족보는 경건한 혈통이 계속되고 있음을 보여줍니다. 에노스라는 이름이 '연약한 인간'을 의미한다는 것은, 참된 신앙은 자신의 연약함을 인정하고 하나님께 의지하는 것임을 가르칩니다. 에노스 시대에 사람들이 여호와의 이름을 부르기 시작했다는 것은 공적 예배와 신앙 공동체의 시작을 알리며, 이는 결국 메시아를 통한 구원으로 이어지는 하나님의 구속 역사의 일부입니다."
+    }
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "id": "genesis_5_2",
+  "reference": "Genesis 5:2",
+  "hebrew": "זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם",
+  "ipa": "zaˈxar uneqeˈva bəraˈʔam vajeˈvarex ʔoˈtam vajiqˈra ʔɛt ʃəˈmam ʔaˈdam bəˈjom hibareˈʔam",
+  "koreanPronunciation": "자카르 우네케바 베라암 바예바렉 오탐 바이크라 에트 셰맘 아담 베욤 히바레암",
+  "modern": "그분께서 그들을 남자와 여자로 창조하시고, 그들을 축복하시며, 그들이 창조된 날에 그들의 이름을 '사람'이라 부르셨습니다",
+  "words": [
+    {
+      "hebrew": "זָכָר",
+      "meaning": "남자",
+      "ipa": "zaˈxar",
+      "korean": "자카르",
+      "letters": "ז(z) + ָ(a) + כָר(khar)",
+      "root": "ז-כ-ר (자카르)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"male_zakhar\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4A90E2\" />\n      <stop offset=\"50%\" stop-color=\"#357ABD\" />\n      <stop offset=\"100%\" stop-color=\"#2E5C8A\" />\n    </linearGradient>\n    <radialGradient id=\"glow_zakhar\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" opacity=\"0.8\" />\n      <stop offset=\"100%\" stop-color=\"#4A90E2\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_zakhar)\" />\n  <circle cx=\"32\" cy=\"28\" r=\"18\" fill=\"none\" stroke=\"url(#male_zakhar)\" stroke-width=\"4\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 44 16 L 52 8 M 52 8 L 52 16 M 52 8 L 44 8\"\n    stroke=\"url(#male_zakhar)\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n</svg>"
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "meaning": "그리고 여자",
+      "ipa": "uneqeˈva",
+      "korean": "우네케바",
+      "letters": "וּ(u) + נְ(ne) + קֵבָה(kevah)",
+      "root": "נ-ק-ב (나카브)",
+      "grammar": "명사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"female_nekevah\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"50%\" stop-color=\"#FF1493\" />\n      <stop offset=\"100%\" stop-color=\"#C71585\" />\n    </linearGradient>\n    <radialGradient id=\"glow_nekevah\">\n      <stop offset=\"0%\" stop-color=\"#FFB6C1\" opacity=\"0.8\" />\n      <stop offset=\"100%\" stop-color=\"#FF69B4\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_nekevah)\" />\n  <circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"none\" stroke=\"url(#female_nekevah)\" stroke-width=\"4\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <line x1=\"32\" y1=\"36\" x2=\"32\" y2=\"48\" stroke=\"url(#female_nekevah)\" stroke-width=\"4\"\n    stroke-linecap=\"round\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <line x1=\"24\" y1=\"52\" x2=\"40\" y2=\"52\" stroke=\"url(#female_nekevah)\" stroke-width=\"4\"\n    stroke-linecap=\"round\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n</svg>"
+    },
+    {
+      "hebrew": "בְּרָאָם",
+      "meaning": "그들을 창조하셨다",
+      "ipa": "bəraˈʔam",
+      "korean": "베라암",
+      "letters": "בְּ(be) + רָ(ra) + אָם(am)",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"center_beram\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"40%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FF1493\" />\n    </radialGradient>\n    <linearGradient id=\"couple_beram\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#4A90E2\" />\n      <stop offset=\"50%\" stop-color=\"#9C27B0\" />\n      <stop offset=\"100%\" stop-color=\"#FF69B4\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.1)\" />\n  <circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"#4A90E2\" stroke-width=\"3\" opacity=\"0.7\" />\n  <circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"#FF69B4\" stroke-width=\"3\" opacity=\"0.7\" />\n  <path d=\"M 32 16 L 36 28 L 32 32 L 28 28 Z\" fill=\"url(#couple_beram)\" opacity=\"0.8\"\n    filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" />\n  <path d=\"M 32 48 L 28 36 L 32 32 L 36 36 Z\" fill=\"url(#couple_beram)\" opacity=\"0.8\"\n    filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#center_beram)\"\n    filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" />\n</svg>"
+    },
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "meaning": "축복하셨다",
+      "ipa": "vajeˈvarex",
+      "korean": "바예바렉",
+      "letters": "וַ(va) + יְ(ye) + בָרֶךְ(varech)",
+      "root": "ב-ר-ך (바라크)",
+      "grammar": "동사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"hands_barech\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE4B5\" />\n      <stop offset=\"50%\" stop-color=\"#F4A460\" />\n      <stop offset=\"100%\" stop-color=\"#CD853F\" />\n    </linearGradient>\n    <radialGradient id=\"light_barech\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"50%\" stop-color=\"#FFA500\" opacity=\"0.6\" />\n      <stop offset=\"100%\" stop-color=\"#FF8C00\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"20\" r=\"25\" fill=\"url(#light_barech)\" />\n  <path d=\"M 20 36 Q 18 30 20 24 L 24 24 L 26 36 Z\" fill=\"url(#hands_barech)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 44 36 Q 46 30 44 24 L 40 24 L 38 36 Z\" fill=\"url(#hands_barech)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 26 36 L 32 28 L 38 36 L 36 40 L 28 40 Z\" fill=\"url(#hands_barech)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\"\n    filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" />\n  <circle cx=\"26\" cy=\"14\" r=\"2\" fill=\"#FFA500\" opacity=\"0.7\" />\n  <circle cx=\"38\" cy=\"14\" r=\"2\" fill=\"#FFA500\" opacity=\"0.7\" />\n</svg>"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "부르셨다",
+      "ipa": "vajiqˈra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְרָא(kra)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "📢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"mouth_kara\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <linearGradient id=\"sound_kara\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\">\n      <stop offset=\"0%\" stop-color=\"#4FACFE\" />\n      <stop offset=\"100%\" stop-color=\"#00F2FE\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"24\" cy=\"32\" rx=\"12\" ry=\"16\" fill=\"url(#mouth_kara)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 36 24 Q 44 24 48 28\" stroke=\"url(#sound_kara)\" stroke-width=\"3\"\n    fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <path d=\"M 36 32 Q 46 32 52 36\" stroke=\"url(#sound_kara)\" stroke-width=\"3\"\n    fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <path d=\"M 36 40 Q 44 40 48 44\" stroke=\"url(#sound_kara)\" stroke-width=\"3\"\n    fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <ellipse cx=\"24\" cy=\"32\" rx=\"6\" ry=\"8\" fill=\"#8B0000\" opacity=\"0.5\" />\n</svg>"
+    },
+    {
+      "hebrew": "שְׁמָם",
+      "meaning": "그들의 이름",
+      "ipa": "ʃəˈmam",
+      "korean": "셰맘",
+      "letters": "שְׁ(she) + מָם(mam)",
+      "root": "שֵׁם (셈)",
+      "grammar": "명사",
+      "emoji": "🏷️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"tag_shem\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FDB99B\" />\n      <stop offset=\"50%\" stop-color=\"#F6876A\" />\n      <stop offset=\"100%\" stop-color=\"#EA5455\" />\n    </linearGradient>\n    <linearGradient id=\"text_shem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#2C3E50\" />\n      <stop offset=\"100%\" stop-color=\"#34495E\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 12 16 L 44 16 L 52 32 L 44 48 L 12 48 Z\" fill=\"url(#tag_shem)\"\n    filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"20\" cy=\"32\" r=\"4\" fill=\"#FFF\" opacity=\"0.8\" />\n  <text x=\"32\" y=\"26\" font-family=\"Arial, sans-serif\" font-size=\"10\"\n    font-weight=\"bold\" fill=\"url(#text_shem)\" text-anchor=\"middle\">אדם</text>\n  <text x=\"32\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"8\"\n    fill=\"url(#text_shem)\" text-anchor=\"middle\" opacity=\"0.7\">ADAM</text>\n</svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 남자와 여자의 창조, 하나님의 축복, 그리고 인간에게 부여된 공통의 이름에 대해 말합니다. 성별의 차이와 함께 근본적인 평등을, 그리고 하나님 앞에서의 연합을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "זָכָר וּנְקֵבָה (자카르 우네케바) - 남자와 여자",
+        "description": "'자카르'(남자)와 '네케바'(여자)는 생물학적 성별을 나타내는 히브리어 단어입니다. 창세기 1:27을 재확인하며, 남성과 여성 모두 하나님의 형상으로 창조되었음을 강조합니다. 성별의 구별은 하나님의 창조 목적의 일부입니다.",
+        "points": [
+          "남성과 여성은 동등하게 하나님의 형상을 반영합니다",
+          "성별의 차이는 열등함이 아니라 상호보완을 위한 것입니다",
+          "두 성별 모두 하나님의 창조 계획에 필수적입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיְבָרֶךְ אֹתָם (바예바렉 오탐) - 그들을 축복하셨다",
+        "description": "'바라크'는 '축복하다', '무릎 꿇다'를 의미하는 동사입니다. 하나님께서 남자와 여자 둘 다를 축복하셨다는 것은, 두 성별이 모두 하나님의 은혜와 사명을 받았음을 의미합니다. 이 축복은 '생육하고 번성하라'는 명령과 연결됩니다.",
+        "points": [
+          "하나님의 축복은 남녀 모두에게 동등하게 주어집니다",
+          "축복에는 번성, 충만, 다스림의 사명이 포함됩니다",
+          "하나님의 축복은 세대를 이어가는 능력을 부여합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּקְרָא אֶת שְׁמָם אָדָם (바이크라 에트 셰맘 아담) - 그들의 이름을 사람이라 부르셨다",
+        "description": "놀랍게도 하나님은 남자와 여자 둘 다에게 '아담'(사람)이라는 이름을 주셨습니다. 이는 성별을 초월한 공통의 인간성과 정체성을 강조합니다. 남자 개인의 이름이 아니라, 인류 전체를 가리키는 집합적 이름입니다.",
+        "points": [
+          "남자와 여자는 함께 '아담'(인류)을 구성합니다",
+          "성별보다 더 근본적인 것은 하나님의 형상을 지닌 인간성입니다",
+          "부부는 하나님 앞에서 하나의 단위로 간주됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 남자와 여자를 다르게 만드셨을까요?",
+      "answer": "하나님은 남자와 여자가 서로 도우며 함께 살도록 만드셨어요. 마치 퍼즐 조각처럼 남자와 여자는 서로 다르지만 함께 맞춰지면 아름다운 그림이 완성돼요. 엄마와 아빠가 서로 다른 것처럼, 남자와 여자도 다르지만 둘 다 하나님의 특별한 형상으로 만들어졌어요. 그리고 하나님은 남자와 여자 모두를 똑같이 사랑하시고 축복하세요!",
+      "bibleReferences": [
+        "창세기 2:18 - '여호와 하나님이 이르시되 사람이 혼자 사는 것이 좋지 아니하니 내가 그를 위하여 돕는 배필을 지으리라'",
+        "갈라디아서 3:28 - '너희는 유대인이나 헬라인이나 종이나 자유인이나 남자나 여자나 다 그리스도 예수 안에서 하나이니라'",
+        "고린도전서 11:11-12 - '그러나 주 안에는 남자 없이 여자만 있지 않고 여자 없이 남자만 있지 아니하니라 여자가 남자에게서 난 것 같이 남자도 여자로 말미암아 났으나'",
+        "베드로전서 3:7 - '남편 된 자들아 이와 같이 지식을 따라 너희 아내와 동거하고 그를 더 연약한 그릇이라 알아 귀히 여기라 생명의 은혜를 함께 이어받을 자로 알아'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 성경의 평등주의적 비전을 보여줍니다. 남자와 여자는 창조, 축복, 명명에서 동등하게 취급됩니다. 타락 이전의 원래 창조 질서에서는 위계나 지배가 아니라 상호보완과 연합이 있었습니다. '아담'이라는 공통의 이름은 그리스도 안에서 '새 사람'(에베소서 2:15)이 되는 것을 예표합니다. 남자든 여자든, 그리스도 안에서 우리는 모두 하나님의 형상을 회복하고 하나의 새로운 인류가 됩니다."
+    }
+  }
+}
