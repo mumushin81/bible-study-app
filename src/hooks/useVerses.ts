@@ -20,12 +20,10 @@ interface VerseWithWords {
     meaning: string
     ipa: string
     korean: string
-    letters: string | null
     root: string
     grammar: string
     structure: string | null
     emoji: string | null
-    icon_svg: string | null
     category: string | null
     position: number
   }>
@@ -81,12 +79,10 @@ export function useVerses(options?: UseVersesOptions) {
               meaning,
               ipa,
               korean,
-              letters,
               root,
               grammar,
               structure,
               emoji,
-              icon_svg,
               category,
               position
             )
@@ -167,11 +163,11 @@ export function useVerses(options?: UseVersesOptions) {
                 meaning: w.meaning,
                 ipa: w.ipa,
                 korean: w.korean,
-                letters: w.letters || '',
+                letters: undefined, // letters 컬럼이 DB에 없으므로 undefined
                 root: w.root,
                 grammar: w.grammar,
                 emoji: w.emoji || '❓', // ❓ = emoji 누락 (DB에 추가 필요)
-                iconSvg: w.icon_svg || '',
+                iconSvg: undefined, // icon_svg 컬럼이 DB에 없으므로 undefined
                 structure: w.structure || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
               }

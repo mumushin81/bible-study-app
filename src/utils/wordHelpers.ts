@@ -1,9 +1,16 @@
 import { Word } from '../types';
 
+// Word와 WordWithContext의 공통 속성 타입
+type WordLike = {
+  emoji?: string | null;
+  meaning: string;
+  grammar?: string | null;
+};
+
 /**
  * 단어에 맞는 이모지 반환
  */
-export function getWordEmoji(word: Word): string {
+export function getWordEmoji(word: WordLike): string {
   if (word.emoji) return word.emoji;
 
   const meaning = word.meaning.toLowerCase();
@@ -51,7 +58,7 @@ export function getWordEmoji(word: Word): string {
 /**
  * 품사별 색상 반환
  */
-export function getWordColor(word: Word, darkMode: boolean): { bg: string; border: string } {
+export function getWordColor(word: WordLike, darkMode: boolean): { bg: string; border: string } {
   const grammar = word.grammar?.toLowerCase() || '';
 
   // 명사 - 파란색 계열
@@ -133,7 +140,7 @@ export function getGrammarEmoji(grammar: string): string {
 /**
  * 신학적 의미 반환
  */
-export function getTheologicalMeaning(word: Word): string {
+export function getTheologicalMeaning(word: WordLike & { hebrew: string }): string {
   const hebrew = word.hebrew;
   const meaning = word.meaning.toLowerCase();
 

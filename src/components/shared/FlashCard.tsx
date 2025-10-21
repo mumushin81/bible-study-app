@@ -1,6 +1,7 @@
 import { motion } from 'framer-motion';
 import { Star, Volume2 } from 'lucide-react';
 import { Word } from '../../types';
+import { WordWithContext } from '../../hooks/useWords';
 import HebrewIcon from './HebrewIcon';
 import {
   getWordEmoji,
@@ -11,7 +12,7 @@ import {
 } from '../../utils/wordHelpers';
 
 interface FlashCardProps {
-  word: Word;
+  word: Word | WordWithContext;
   darkMode: boolean;
   isFlipped: boolean;
   onFlip: () => void;

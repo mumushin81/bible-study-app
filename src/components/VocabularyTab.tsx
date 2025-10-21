@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2 } from 'lucide-react';
 import FlashCard from './shared/FlashCard';
 import HebrewIcon from './shared/HebrewIcon';
-import { useWords } from '../hooks/useWords';
+import { useWords, WordWithContext } from '../hooks/useWords';
 import { useBookmarks } from '../hooks/useBookmarks';
 import { useSRS } from '../hooks/useSRS';
 import {
@@ -104,7 +104,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
   };
 
   // Helper functions for study mode (암기 모드에서만 사용)
-  const getWordEmoji = (word: Word) => {
+  const getWordEmoji = (word: WordWithContext) => {
     if (word.emoji) return word.emoji;
     const meaning = word.meaning.toLowerCase();
 
@@ -146,7 +146,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     return '📜';
   };
 
-  const getWordColor = (word: Word) => {
+  const getWordColor = (word: WordWithContext) => {
     const grammar = word.grammar?.toLowerCase() || '';
 
     if (grammar.includes('명사')) {
@@ -225,7 +225,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
   };
 
   // 신학적 의미 제공
-  const getTheologicalMeaning = (word: Word) => {
+  const getTheologicalMeaning = (word: WordWithContext) => {
     const hebrew = word.hebrew;
     const meaning = word.meaning.toLowerCase();
 

@@ -11,6 +11,9 @@ export interface WordWithContext {
   grammar: string
   structure?: string
   emoji?: string
+  iconSvg?: string
+  letters?: string
+  relatedWords?: string[]
   category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle'
   verseReference: string
   verseId: string
