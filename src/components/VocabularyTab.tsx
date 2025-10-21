@@ -677,6 +677,20 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
                           </div>
                         )}
 
+                        {/* 알파벳 분해 (letters) */}
+                        {currentWord.letters && (
+                          <div className={`p-3 rounded-lg mb-2 text-center ${
+                            darkMode ? 'bg-gradient-to-r from-emerald-900/30 to-teal-900/30 border border-emerald-500/30' : 'bg-gradient-to-r from-emerald-50/90 to-teal-50/90 border border-emerald-300/50'
+                          }`}>
+                            <div className={`text-xs font-semibold mb-1.5 ${darkMode ? 'text-emerald-300' : 'text-emerald-700'}`}>
+                              🔤 알파벳으로 읽기
+                            </div>
+                            <div className={`text-sm font-medium leading-snug ${darkMode ? 'text-emerald-100' : 'text-emerald-900'}`} dir="rtl">
+                              {currentWord.letters}
+                            </div>
+                          </div>
+                        )}
+
                         {/* 신학적 의미 */}
                         <div className={`p-3 rounded-lg mb-2 ${darkMode ? 'bg-gradient-to-r from-indigo-900/30 to-purple-900/30 border border-indigo-500/30' : 'bg-gradient-to-r from-indigo-50/90 to-purple-50/90 border border-indigo-300/50'}`}>
                           <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-indigo-300' : 'text-indigo-700'}`}>

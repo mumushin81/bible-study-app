@@ -100,6 +100,9 @@ export function useWords(options?: UseWordsOptions) {
           const verse = item.verses
 
           if (!wordMap.has(item.hebrew)) {
+            const hasIconSvg = !!item.icon_svg;
+            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}, emoji=${item.emoji || 'NULL'}`);
+
             wordMap.set(item.hebrew, {
               id: item.id,
               hebrew: item.hebrew,

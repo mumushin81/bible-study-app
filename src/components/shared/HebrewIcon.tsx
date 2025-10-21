@@ -20,7 +20,10 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
 
   // Generate unique SVG with namespaced IDs to prevent gradient collisions
   const uniqueSvg = useMemo(() => {
-    if (!iconSvg || iconSvg.trim().length === 0) return null;
+    if (!iconSvg || iconSvg.trim().length === 0) {
+      console.log(`[HebrewIcon] No SVG for word: ${word}, iconSvg:`, iconSvg);
+      return null;
+    }
 
     // Generate unique prefix based on word + React stable ID (not Math.random()!)
     const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${reactId.replace(/:/g, '-')}`;
@@ -31,6 +34,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
     // Replace all url(#...) with url(#uniqueId-...)
     processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
 
+    console.log(`[HebrewIcon] ✅ SVG generated for word: ${word}, length: ${processedSvg.length}`);
     return processedSvg;
   }, [iconSvg, word, reactId]);
 

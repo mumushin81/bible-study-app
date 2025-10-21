@@ -495,9 +495,11 @@ export type Database = {
           emoji: string | null
           grammar: string
           hebrew: string
+          icon_svg: string | null
           id: string
           ipa: string
           korean: string
+          letters: string | null
           meaning: string
           position: number
           root: string
@@ -510,9 +512,11 @@ export type Database = {
           emoji?: string | null
           grammar: string
           hebrew: string
+          icon_svg?: string | null
           id?: string
           ipa: string
           korean: string
+          letters?: string | null
           meaning: string
           position: number
           root: string
@@ -525,9 +529,11 @@ export type Database = {
           emoji?: string | null
           grammar?: string
           hebrew?: string
+          icon_svg?: string | null
           id?: string
           ipa?: string
           korean?: string
+          letters?: string | null
           meaning?: string
           position?: number
           root?: string

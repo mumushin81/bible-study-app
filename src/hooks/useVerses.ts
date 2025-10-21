@@ -24,6 +24,8 @@ interface VerseWithWords {
     grammar: string
     structure: string | null
     emoji: string | null
+    icon_svg: string | null
+    letters: string | null
     category: string | null
     position: number
   }>
@@ -83,6 +85,8 @@ export function useVerses(options?: UseVersesOptions) {
               grammar,
               structure,
               emoji,
+              icon_svg,
+              letters,
               category,
               position
             )
@@ -163,11 +167,11 @@ export function useVerses(options?: UseVersesOptions) {
                 meaning: w.meaning,
                 ipa: w.ipa,
                 korean: w.korean,
-                letters: undefined, // letters 컬럼이 DB에 없으므로 undefined
+                letters: w.letters || undefined,
                 root: w.root,
                 grammar: w.grammar,
                 emoji: w.emoji || '❓', // ❓ = emoji 누락 (DB에 추가 필요)
-                iconSvg: undefined, // icon_svg 컬럼이 DB에 없으므로 undefined
+                iconSvg: w.icon_svg || undefined,
                 structure: w.structure || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
               }
