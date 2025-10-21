@@ -14,7 +14,6 @@
       "letters": "וַ(va) + יְ(ye) + צַ(tsa) + ו(v)",
       "root": "צ-ו-ה (차바)",
       "grammar": "동사",
-      "emoji": "📜",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"scroll1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4E4C1\" /><stop offset=\"100%\" stop-color=\"#D4AF37\" /></linearGradient><linearGradient id=\"text1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" rx=\"2\" fill=\"url(#scroll1)\" stroke=\"#D4AF37\" stroke-width=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"#8B4513\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#8B4513\" /><line x1=\"22\" y1=\"24\" x2=\"42\" y2=\"24\" stroke=\"url(#text1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"22\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#text1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"22\" y1=\"40\" x2=\"42\" y2=\"40\" stroke=\"url(#text1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 8 L 36 12 L 32 16 L 28 12 Z\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
       "relatedWords": [
         "מִצְוָה (미츠바 - 계명)",
@@ -29,7 +28,6 @@
       "letters": "יְ(ye) + הוָ(ho) + ה(va) + אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
       "root": "יהוה + אֱלֹהַּ (여호와 + 엘로아)",
       "grammar": "명사",
-      "emoji": "👑",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#DAA520\" /></linearGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"100%\" stop-color=\"#FFE4B5\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#light1)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.6))\" /><path d=\"M 12 44 L 18 30 L 24 36 L 32 24 L 40 36 L 46 30 L 52 44 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"44\" width=\"40\" height=\"6\" rx=\"1\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"1\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 1))\" /><g stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.8\"><line x1=\"32\" y1=\"10\" x2=\"32\" y2=\"16\" /><line x1=\"20\" y1=\"14\" x2=\"24\" y2=\"20\" /><line x1=\"44\" y1=\"14\" x2=\"40\" y2=\"20\" /></g></svg>",
       "relatedWords": [
         "אֲדֹנָי (아도나이 - 주님)",
@@ -44,7 +42,6 @@
       "letters": "עַ(a) + ל(l) + הָ(ha) + אָ(a) + דָ(da) + ם(m)",
       "root": "עַל + א-ד-ם (알 + 아담)",
       "grammar": "전치사",
-      "emoji": "👤",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"skin1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"100%\" stop-color=\"#F0E68C\" /></radialGradient><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD853F\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow1)\" opacity=\"0.2\" /><ellipse cx=\"32\" cy=\"48\" rx=\"16\" ry=\"6\" fill=\"url(#earth1)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#skin1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 34 L 32 48 M 32 40 L 24 36 M 32 40 L 40 36\" stroke=\"url(#skin1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"29\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"35\" cy=\"22\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
       "relatedWords": [
         "אָדָם (아담 - 사람, 인간)",
@@ -59,7 +56,6 @@
       "letters": "לֵ(le) + אמֹ(mo) + ר(r)",
       "root": "א-מ-ר (아마르)",
       "grammar": "동사",
-      "emoji": "💬",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bubble1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0F7FA\" /><stop offset=\"100%\" stop-color=\"#4DD0E1\" /></linearGradient><linearGradient id=\"accent1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#0097A7\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#bubble1)\" stroke=\"#00BCD4\" stroke-width=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.2))\" /><path d=\"M 18 44 L 14 52 L 24 46 Z\" fill=\"url(#bubble1)\" stroke=\"#00BCD4\" stroke-width=\"2\" /><line x1=\"20\" y1=\"26\" x2=\"44\" y2=\"26\" stroke=\"url(#accent1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"20\" y1=\"32\" x2=\"40\" y2=\"32\" stroke=\"url(#accent1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"20\" y1=\"38\" x2=\"36\" y2=\"38\" stroke=\"url(#accent1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"48\" cy=\"22\" r=\"3\" fill=\"#4DD0E1\" opacity=\"0.6\" /><circle cx=\"54\" cy=\"18\" r=\"2\" fill=\"#4DD0E1\" opacity=\"0.4\" /></svg>"
     },
     {
@@ -70,7 +66,6 @@
       "letters": "מִ(mi) + כֹּ(ko) + ל(l)",
       "root": "מִן + כֹּל (민 + 콜)",
       "grammar": "전치사",
-      "emoji": "🌐",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"all1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient><linearGradient id=\"ring1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#all1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#ring1)\" stroke-width=\"3\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#ring1)\" stroke-width=\"2\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"url(#ring1)\" stroke-width=\"2\" opacity=\"0.4\" /><circle cx=\"16\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"48\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>"
     },
     {
@@ -81,7 +76,6 @@
       "letters": "עֵ(e) + ץ(ts) + הַ(ha) + גָּ(ga) + ן(n)",
       "root": "עֵץ + גַּן (에츠 + 간)",
       "grammar": "명사",
-      "emoji": "🌳",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"leaves1\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient><linearGradient id=\"trunk1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"garden1\"><stop offset=\"0%\" stop-color=\"#98FB98\" /><stop offset=\"100%\" stop-color=\"#00FA9A\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"56\" rx=\"24\" ry=\"6\" fill=\"url(#garden1)\" opacity=\"0.4\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"24\" rx=\"1\" fill=\"url(#trunk1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#leaves1)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\" /><circle cx=\"22\" cy=\"28\" r=\"10\" fill=\"url(#leaves1)\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"28\" r=\"10\" fill=\"url(#leaves1)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"18\" r=\"3\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 4px rgba(255, 99, 71, 0.6))\" /><circle cx=\"26\" cy=\"26\" r=\"2.5\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 3px rgba(255, 99, 71, 0.6))\" /><circle cx=\"38\" cy=\"24\" r=\"2.5\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 3px rgba(255, 99, 71, 0.6))\" /></svg>",
       "relatedWords": [
         "גַּן-עֵדֶן (간 에덴 - 에덴동산)",
@@ -96,7 +90,6 @@
       "letters": "אָ(a) + כֹ(kho) + ל(l) + תֹּ(to) + אכֵ(khe) + ל(l)",
       "root": "א-כ-ל (아칼)",
       "grammar": "동사",
-      "emoji": "🍎",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"apple1\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient><linearGradient id=\"leaf1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"34\" r=\"18\" fill=\"url(#apple1)\" filter=\"drop-shadow(3px 4px 8px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"28\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"url(#shine1)\" /><path d=\"M 32 16 Q 34 12 36 16\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"38\" cy=\"14\" rx=\"6\" ry=\"8\" fill=\"url(#leaf1)\" transform=\"rotate(30 38 14)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"34\" r=\"22\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" stroke-dasharray=\"4 4\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
       "relatedWords": [
         "לֶחֶם (레헴 - 빵)",

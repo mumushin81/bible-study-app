@@ -14,7 +14,6 @@
       "letters": "וַ(va) + יִּ(yi) + בְ(b) + רָא(ra)",
       "root": "ב-ר-א (bara)",
       "grammar": "동사",
-      "emoji": "✨",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"create21\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></radialGradient><linearGradient id=\"spark21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#create21)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 8 L 35 28 L 32 32 L 29 28 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 56 32 L 36 35 L 32 32 L 36 29 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 32 56 L 29 36 L 32 32 L 35 36 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><path d=\"M 8 32 L 28 29 L 32 32 L 28 35 Z\" fill=\"url(#spark21)\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 1))\" /></svg>"
     },
     {
@@ -25,7 +24,6 @@
       "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
       "root": "אֱלֹהַּ (엘로아)",
       "grammar": "명사",
-      "emoji": "👑",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0.3)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow21)\" opacity=\"0.4\" /><path d=\"M 12 42 L 16 28 L 22 34 L 32 22 L 42 34 L 48 28 L 52 42 Z\" fill=\"url(#crown21)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"42\" width=\"40\" height=\"6\" fill=\"url(#crown21)\" rx=\"2\" /><circle cx=\"32\" cy=\"30\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /></svg>"
     },
     {
@@ -36,7 +34,6 @@
       "letters": "אֶת(et) + הַ(ha) + תַּ(tan) + נִּי(ni) + נִם(nim)",
       "root": "תַּנִּין (타닌)",
       "grammar": "명사",
-      "emoji": "🐉",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dragon21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#00CED1\" /><stop offset=\"100%\" stop-color=\"#20B2AA\" /></linearGradient><linearGradient id=\"scales21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"28\" ry=\"12\" fill=\"url(#dragon21)\" opacity=\"0.3\" /><path d=\"M 12 40 Q 8 32 12 24 Q 16 16 20 12 Q 24 8 28 10 L 32 12 L 36 10 Q 40 8 44 12 Q 48 16 52 24 Q 56 32 52 40\" stroke=\"url(#dragon21)\" stroke-width=\"10\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"22\" cy=\"14\" rx=\"9\" ry=\"7\" fill=\"url(#scales21)\" transform=\"rotate(-20 22 14)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"12\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"18\" cy=\"11\" r=\"1.5\" fill=\"#FF4500\" /></svg>"
     },
     {
@@ -47,7 +44,6 @@
       "letters": "הַ(ha) + גְּ(g) + דֹ(do) + לִים(lim)",
       "root": "גָּדוֹל (가돌)",
       "grammar": "형용사",
-      "emoji": "📏",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"big21\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><radialGradient id=\"pulse21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(100, 149, 237, 0.2)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#pulse21)\" opacity=\"0.5\" /><rect x=\"8\" y=\"16\" width=\"12\" height=\"32\" fill=\"url(#big21)\" rx=\"2\" opacity=\"0.7\" /><rect x=\"26\" y=\"10\" width=\"12\" height=\"44\" fill=\"url(#big21)\" rx=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"4\" width=\"12\" height=\"56\" fill=\"url(#big21)\" rx=\"2\" filter=\"drop-shadow(0 6px 12px rgba(0, 0, 0, 0.4))\" /></svg>"
     },
     {
@@ -58,7 +54,6 @@
       "letters": "כָּל(kol) + נֶ(ne) + פֶשׁ(fesh) + הַ(ha) + חַ(cha) + יָּה(ya)",
       "root": "נֶפֶשׁ (네페쉬)",
       "grammar": "명사",
-      "emoji": "🐠",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fish21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#FFA07A\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><linearGradient id=\"water21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"rgba(135, 206, 250, 0.5)\" /><stop offset=\"100%\" stop-color=\"rgba(30, 144, 255, 0.5)\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#water21)\" rx=\"8\" /><ellipse cx=\"36\" cy=\"32\" rx=\"22\" ry=\"14\" fill=\"url(#fish21)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 14 32 L 20 24 L 20 40 Z\" fill=\"url(#fish21)\" /><circle cx=\"48\" cy=\"28\" r=\"3\" fill=\"#000000\" opacity=\"0.8\" /><circle cx=\"49\" cy=\"27\" r=\"1\" fill=\"#FFFFFF\" /><path d=\"M 54 24 Q 60 28 60 32 Q 60 36 54 40\" stroke=\"url(#fish21)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /></svg>"
     },
     {
@@ -69,7 +64,6 @@
       "letters": "הָ(ha) + רֹ(ro) + מֶ(me) + שֶׂת(set)",
       "root": "ר-מ-שׂ (라마스)",
       "grammar": "동사",
-      "emoji": "🌊",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"swim21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"50%\" stop-color=\"#40E0D0\" /><stop offset=\"100%\" stop-color=\"#48D1CC\" /></linearGradient><linearGradient id=\"wave21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><path d=\"M 0 32 Q 16 24 32 32 T 64 32\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 40 Q 16 32 32 40 T 64 40\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 0 48 Q 16 40 32 48 T 64 48\" stroke=\"url(#wave21)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.4\" /><ellipse cx=\"20\" cy=\"20\" rx=\"8\" ry=\"5\" fill=\"url(#swim21)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"44\" cy=\"16\" rx=\"6\" ry=\"4\" fill=\"url(#swim21)\" opacity=\"0.8\" /></svg>"
     },
     {
@@ -80,7 +74,6 @@
       "letters": "שָׁ(sha) + רְ(r) + צוּ(tsu)",
       "root": "שׁ-ר-ץ (샤라츠)",
       "grammar": "동사",
-      "emoji": "🌟",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"swarm21\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><radialGradient id=\"multi21\"><stop offset=\"0%\" stop-color=\"#00FF7F\" /><stop offset=\"100%\" stop-color=\"#00CED1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#swarm21)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"24\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.9\" /><circle cx=\"44\" cy=\"24\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.9\" /><circle cx=\"26\" cy=\"40\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"40\" r=\"3\" fill=\"url(#multi21)\" opacity=\"0.8\" /><circle cx=\"14\" cy=\"32\" r=\"2.5\" fill=\"url(#swarm21)\" opacity=\"0.7\" /><circle cx=\"50\" cy=\"32\" r=\"2.5\" fill=\"url(#swarm21)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"16\" r=\"2\" fill=\"url(#multi21)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"48\" r=\"2\" fill=\"url(#multi21)\" opacity=\"0.6\" /></svg>"
     },
     {
@@ -91,7 +84,6 @@
       "letters": "הַ(ha) + מַּ(ma) + יִם(yim)",
       "root": "מַיִם (마임)",
       "grammar": "명사",
-      "emoji": "💧",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water_deep21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><radialGradient id=\"drop21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#ADD8E6\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#water_deep21)\" opacity=\"0.4\" rx=\"8\" /><path d=\"M 32 12 Q 28 20 28 28 Q 28 36 32 40 Q 36 36 36 28 Q 36 20 32 12 Z\" fill=\"url(#drop21)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"50\" rx=\"18\" ry=\"6\" fill=\"url(#water_deep21)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
     },
     {
@@ -102,7 +94,6 @@
       "letters": "לְ(le) + מִי(mi) + נֵ(ne) + הֶם(hem)",
       "root": "מִין (민)",
       "grammar": "명사",
-      "emoji": "🧬",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dna21\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#BA55D3\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></linearGradient><linearGradient id=\"helix21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><path d=\"M 24 8 Q 32 20 24 32 Q 32 44 24 56\" stroke=\"url(#dna21)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 8 Q 32 20 40 32 Q 32 44 40 56\" stroke=\"url(#dna21)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"24\" y1=\"14\" x2=\"40\" y2=\"14\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"26\" x2=\"40\" y2=\"26\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"38\" x2=\"40\" y2=\"38\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"50\" x2=\"40\" y2=\"50\" stroke=\"url(#helix21)\" stroke-width=\"2\" /><circle cx=\"24\" cy=\"14\" r=\"3\" fill=\"#FF69B4\" /><circle cx=\"40\" cy=\"14\" r=\"3\" fill=\"#9370DB\" /></svg>"
     },
     {
@@ -113,7 +104,6 @@
       "letters": "עוֹף(of) + כָּ(ka) + נָף(naf)",
       "root": "עוֹף (오프)",
       "grammar": "명사",
-      "emoji": "🦅",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"wing21\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#bird21)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#bird21)\" /><circle cx=\"30\" cy=\"26\" r=\"2\" fill=\"#000000\" /><circle cx=\"31\" cy=\"25\" r=\"0.8\" fill=\"#FFFFFF\" /><path d=\"M 24 36 Q 8 28 4 32 Q 8 36 24 40 Z\" fill=\"url(#wing21)\" opacity=\"0.9\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 40 36 Q 56 28 60 32 Q 56 36 40 40 Z\" fill=\"url(#wing21)\" opacity=\"0.9\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 24 L 34 22 L 30 22 Z\" fill=\"#FF8C00\" /></svg>"
     },
     {
@@ -124,7 +114,6 @@
       "letters": "וַ(va) + יַּ(ya) + רְא(r)",
       "root": "ר-א-ה (라아)",
       "grammar": "동사",
-      "emoji": "👁️",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eye21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><radialGradient id=\"iris21\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"70%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#191970\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#eye21)\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"14\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#iris21)\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#000000\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /><path d=\"M 8 32 Q 32 16 56 32\" stroke=\"url(#eye21)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 8 32 Q 32 48 56 32\" stroke=\"url(#eye21)\" stroke-width=\"2\" fill=\"none\" /></svg>"
     },
     {
@@ -135,7 +124,6 @@
       "letters": "כִּי(ki) + טוֹב(tov)",
       "root": "טוֹב (토브)",
       "grammar": "형용사",
-      "emoji": "✅",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"good21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00FF7F\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"glow_good21\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(50, 205, 50, 0.3)\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_good21)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#good21)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 32 L 28 42 L 48 22\" stroke=\"#FFFFFF\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>"
     }
   ],

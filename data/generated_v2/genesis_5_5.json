@@ -1,7 +1,9 @@
 {
-  "verse_id": "genesis_5_5",
+  "id": "genesis_5_5",
+  "reference": "Genesis 5:5",
+  "hebrew": "וַיִּֽהְי֞וּ כָּל יְמֵ֤י אָדָם֙ אֲשֶׁר חַ֔י תְּשַׁ֤ע מֵאוֹת֙ שָׁנָ֔ה וּשְׁלֹשִׁ֖ים שָׁנָ֑ה וַיָּמֹֽת",
   "ipa": "vajˈjihju kol jəˈme ʔaˈdam ʔaˈʃer ħaj ˈteʃaʕ meˈot ʃaˈna uʃəloˈʃim ʃaˈna vajjaˈmot",
-  "korean_pronunciation": "바이히유 콜 예메 아담 아셰르 하이 테샤 메오트 샤나 우쉐로쉼 샤나 바야모트",
+  "koreanPronunciation": "바이히유 콜 예메 아담 아셰르 하이 테샤 메오트 샤나 우쉐로쉼 샤나 바야모트",
   "modern": "아담이 살았던 모든 날은 구백삼십 년이었으며, 그리고 그가 죽었습니다",
   "words": [
     {
@@ -12,7 +14,6 @@
       "letters": "וַ(va) + יִּֽ(yi) + הְיוּ(hyu) + כָּל(kol)",
       "root": "ה-י-ה (하야)",
       "grammar": "동사",
-      "emoji": "📊",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"total1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1976D2\"/><stop offset=\"100%\" stop-color=\"#42A5F5\"/></linearGradient></defs><rect x=\"12\" y=\"48\" width=\"12\" height=\"8\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><rect x=\"28\" y=\"38\" width=\"12\" height=\"18\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><rect x=\"44\" y=\"28\" width=\"12\" height=\"28\" fill=\"url(#total1)\" filter=\"drop-shadow(0 2px 4px rgba(25,118,210,0.4))\"/><line x1=\"8\" y1=\"56\" x2=\"60\" y2=\"56\" stroke=\"#424242\" stroke-width=\"2\"/></svg>"
     },
     {
@@ -23,7 +24,6 @@
       "letters": "יְ(ye) + מֵי(me) + אָ(a) + דָם(dam)",
       "root": "יוֹם (욤)",
       "grammar": "명사",
-      "emoji": "📅",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"life1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C44569\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255,107,107,0.1)\"/><path d=\"M 12 32 Q 32 12 52 32\" stroke=\"url(#life1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(196,69,105,0.4))\"/><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#FF6B6B\"/><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#C44569\"/><text x=\"32\" y=\"52\" font-family=\"Arial\" font-size=\"10\" fill=\"#C44569\" text-anchor=\"middle\">Life</text></svg>",
       "relatedWords": [
         "חַיִּים (하임 - 생명)",
@@ -38,7 +38,6 @@
       "letters": "אֲ(a) + שֶׁר(sher) + חַי(ħaj)",
       "root": "ח-י-ה (하야)",
       "grammar": "동사",
-      "emoji": "💚",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"heart1\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#1B5E20\"/></radialGradient></defs><path d=\"M 32 52 C 32 52 12 36 12 24 C 12 16 18 12 24 12 C 28 12 32 16 32 16 C 32 16 36 12 40 12 C 46 12 52 16 52 24 C 52 36 32 52 32 52 Z\" fill=\"url(#heart1)\" filter=\"drop-shadow(0 4px 8px rgba(76,175,80,0.5))\"/><path d=\"M 32 20 Q 26 16 24 16 C 20 16 18 20 18 24 C 18 28 22 32 32 40\" fill=\"rgba(255,255,255,0.3)\"/></svg>"
     },
     {
@@ -49,7 +48,6 @@
       "letters": "תְּ(te) + שַׁע(sha) + מֵ(me) + אוֹת(ot) + שָׁ(sha) + נָה(na) + וּ(u) + שְׁ(she) + לֹ(lo) + שִׁים(shim) + שָׁ(sha) + נָה(na)",
       "root": "שָׁנָה (샤나)",
       "grammar": "명사",
-      "emoji": "9️⃣3️⃣0️⃣",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"num930\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#880E4F\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(233,30,99,0.1)\"/><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"url(#num930)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(136,14,79,0.5))\">930</text><text x=\"32\" y=\"52\" font-family=\"Arial\" font-size=\"8\" fill=\"#880E4F\" text-anchor=\"middle\">years</text></svg>"
     },
     {
@@ -60,7 +58,6 @@
       "letters": "וַ(va) + יָּ(ya) + מֹת(mot)",
       "root": "מ-ו-ת (무트)",
       "grammar": "동사",
-      "emoji": "⚰️",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\"/><stop offset=\"100%\" stop-color=\"#424242\"/></linearGradient><radialGradient id=\"light1\"><stop offset=\"0%\" stop-color=\"#FFF9C4\"/><stop offset=\"100%\" stop-color=\"#FFD54F\"/></radialGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"24\" rx=\"4\" fill=\"url(#death1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#light1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255,213,79,0.6))\"/><path d=\"M 32 24 L 32 28\" stroke=\"url(#light1)\" stroke-width=\"2\" opacity=\"0.5\"/></svg>",
       "relatedWords": [
         "מָוֶת (마벳 - 죽음)",

@@ -14,7 +14,6 @@
       "letters": "וַ(va) + יְ(ye) + חִי(chi)",
       "root": "ח-י-ה (하야)",
       "grammar": "동사",
-      "emoji": "⏳",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"glass_yechi\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E0F7FA\" />\n      <stop offset=\"50%\" stop-color=\"#B2EBF2\" />\n      <stop offset=\"100%\" stop-color=\"#80DEEA\" />\n    </linearGradient>\n    <linearGradient id=\"sand_yechi\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFE082\" />\n      <stop offset=\"50%\" stop-color=\"#FFD54F\" />\n      <stop offset=\"100%\" stop-color=\"#FFCA28\" />\n    </linearGradient>\n  </defs>\n  <path d=\"M 22 12 L 42 12 L 38 28 L 26 28 Z\" fill=\"url(#glass_yechi)\" opacity=\"0.6\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <path d=\"M 26 28 L 32 34 L 38 28 Z\" fill=\"url(#sand_yechi)\" />\n  <path d=\"M 26 36 L 38 36 L 42 52 L 22 52 Z\" fill=\"url(#glass_yechi)\" opacity=\"0.6\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"46\" rx=\"8\" ry=\"4\" fill=\"url(#sand_yechi)\" />\n  <circle cx=\"32\" cy=\"20\" r=\"1.5\" fill=\"url(#sand_yechi)\" opacity=\"0.7\" />\n  <circle cx=\"28\" cy=\"22\" r=\"1\" fill=\"url(#sand_yechi)\" opacity=\"0.6\" />\n  <circle cx=\"36\" cy=\"22\" r=\"1\" fill=\"url(#sand_yechi)\" opacity=\"0.6\" />\n</svg>"
     },
     {
@@ -25,8 +24,7 @@
       "letters": "שְׁ(she) + לֹ(lo) + שִׁים(shim)",
       "root": "שָׁלֹשׁ (샬로쉬)",
       "grammar": "명사",
-      "emoji": "3️⃣0️⃣",
-      "iconSv": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"num_sheloshim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#667EEA\" />\n      <stop offset=\"50%\" stop-color=\"#764BA2\" />\n      <stop offset=\"100%\" stop-color=\"#F093FB\" />\n    </linearGradient>\n  </defs>\n  <text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\"\n    fill=\"url(#num_sheloshim)\" text-anchor=\"middle\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">30</text>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#num_sheloshim)\"\n    stroke-width=\"3\" opacity=\"0.4\" />\n</svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"num_sheloshim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#667EEA\" />\n      <stop offset=\"50%\" stop-color=\"#764BA2\" />\n      <stop offset=\"100%\" stop-color=\"#F093FB\" />\n    </linearGradient>\n  </defs>\n  <text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\"\n    fill=\"url(#num_sheloshim)\" text-anchor=\"middle\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">30</text>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#num_sheloshim)\"\n    stroke-width=\"3\" opacity=\"0.4\" />\n</svg>"
     },
     {
       "hebrew": "וּמְאַת",
@@ -36,7 +34,6 @@
       "letters": "וּ(u) + מְ(me) + אַת(at)",
       "root": "מֵאָה (메아)",
       "grammar": "명사",
-      "emoji": "💯",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"hundred_meat\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <radialGradient id=\"glow_hundred\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_hundred)\" opacity=\"0.3\" />\n  <circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hundred_meat)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <text x=\"32\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"20\" font-weight=\"bold\"\n    fill=\"#FFF\" text-anchor=\"middle\">100</text>\n</svg>"
     },
     {
@@ -47,7 +44,6 @@
       "letters": "שָׁ(sha) + נָה(nah)",
       "root": "שָׁנָה (샤나)",
       "grammar": "명사",
-      "emoji": "📅",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"calendar_shanah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <linearGradient id=\"page_shanah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#F5F5F5\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"12\" y=\"16\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#page_shanah)\"\n    filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.3))\" />\n  <rect x=\"12\" y=\"10\" width=\"40\" height=\"10\" rx=\"4\" fill=\"url(#calendar_shanah)\" />\n  <circle cx=\"20\" cy=\"15\" r=\"2\" fill=\"#8B0000\" />\n  <circle cx=\"44\" cy=\"15\" r=\"2\" fill=\"#8B0000\" />\n  <rect x=\"16\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"25\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"34\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"43\" y=\"24\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"16\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"25\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"url(#calendar_shanah)\" opacity=\"0.7\" />\n  <rect x=\"34\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n  <rect x=\"43\" y=\"33\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#E0E0E0\" />\n</svg>"
     },
     {
@@ -58,7 +54,6 @@
       "letters": "וַ(va) + יּ(yyo) + וֹלֶד(led)",
       "root": "י-ל-ד (얄라드)",
       "grammar": "동사",
-      "emoji": "👶",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"baby_yoled\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFB6C1\" />\n      <stop offset=\"50%\" stop-color=\"#FFB6D9\" />\n      <stop offset=\"100%\" stop-color=\"#FFA0C9\" />\n    </linearGradient>\n    <radialGradient id=\"glow_baby\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.5\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_baby)\" />\n  <circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby_yoled)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"46\" rx=\"10\" ry=\"8\" fill=\"url(#baby_yoled)\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" />\n  <circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" />\n  <path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"1.5\"\n    fill=\"none\" stroke-linecap=\"round\" />\n  <circle cx=\"22\" cy=\"24\" r=\"3\" fill=\"#FFB6C1\" opacity=\"0.7\" />\n  <circle cx=\"42\" cy=\"24\" r=\"3\" fill=\"#FFB6C1\" opacity=\"0.7\" />\n</svg>"
     },
     {
@@ -69,7 +64,6 @@
       "letters": "בִּ(bi) + דְ(de) + מוּתוֹ(muto)",
       "root": "ד-מ-ה (다마)",
       "grammar": "명사",
-      "emoji": "🪞",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"mirror_dmuto\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E0F7FA\" />\n      <stop offset=\"50%\" stop-color=\"#B2EBF2\" />\n      <stop offset=\"100%\" stop-color=\"#80DEEA\" />\n    </linearGradient>\n    <linearGradient id=\"frame2_dmuto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#8B4513\" />\n      <stop offset=\"50%\" stop-color=\"#A0522D\" />\n      <stop offset=\"100%\" stop-color=\"#6B3410\" />\n    </linearGradient>\n  </defs>\n  <rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"4\" fill=\"url(#frame2_dmuto)\"\n    filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.4))\" />\n  <rect x=\"20\" y=\"16\" width=\"24\" height=\"32\" rx=\"2\" fill=\"url(#mirror_dmuto)\" />\n  <circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFB6C1\" opacity=\"0.5\" />\n  <circle cx=\"36\" cy=\"28\" r=\"4\" fill=\"#FFB6C1\" opacity=\"0.5\" />\n  <path d=\"M 26 36 Q 32 38 38 36\" stroke=\"#FFB6C1\" stroke-width=\"2\"\n    fill=\"none\" opacity=\"0.5\" />\n  <ellipse cx=\"28\" cy=\"20\" rx=\"6\" ry=\"4\" fill=\"#FFFFFF\" opacity=\"0.7\" />\n</svg>"
     },
     {
@@ -80,7 +74,6 @@
       "letters": "כְּ(ke) + צַלְמוֹ(tsalmo)",
       "root": "צ-ל-ם (첼렘)",
       "grammar": "명사",
-      "emoji": "👥",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"person1_tselem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4A90E2\" />\n      <stop offset=\"100%\" stop-color=\"#2E5C8A\" />\n    </linearGradient>\n    <linearGradient id=\"person2_tselem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"100%\" stop-color=\"#4682B4\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#person1_tselem)\" opacity=\"0.8\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"24\" cy=\"42\" rx=\"10\" ry=\"12\" fill=\"url(#person1_tselem)\" opacity=\"0.8\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"40\" cy=\"28\" r=\"7\" fill=\"url(#person2_tselem)\" opacity=\"0.7\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"40\" cy=\"44\" rx=\"9\" ry=\"10\" fill=\"url(#person2_tselem)\" opacity=\"0.7\"\n    filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n</svg>"
     },
     {
@@ -91,7 +84,6 @@
       "letters": "שֵׁ(she) + ת(t)",
       "root": "שׁ-י-ת (쉬트)",
       "grammar": "명사",
-      "emoji": "👨‍🦱",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"seth_shet\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#A0522D\" />\n      <stop offset=\"50%\" stop-color=\"#8B4513\" />\n      <stop offset=\"100%\" stop-color=\"#654321\" />\n    </linearGradient>\n    <radialGradient id=\"halo_seth\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.6\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"28\" r=\"26\" fill=\"url(#halo_seth)\" />\n  <circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#seth_shet)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <ellipse cx=\"32\" cy=\"48\" rx=\"14\" ry=\"12\" fill=\"url(#seth_shet)\"\n    filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" />\n  <circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFF\" />\n  <circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#FFF\" />\n  <circle cx=\"28.5\" cy=\"26.5\" r=\"1\" fill=\"#000\" />\n  <circle cx=\"36.5\" cy=\"26.5\" r=\"1\" fill=\"#000\" />\n  <path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#654321\" stroke-width=\"1.5\"\n    fill=\"none\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\"\n    opacity=\"0.5\" />\n</svg>",
       "relatedWords": [
         "שִׁית (쉬트 - 놓다, 두다)",

@@ -1,7 +1,9 @@
 {
-  "verse_id": "genesis_5_9",
+  "id": "genesis_5_9",
+  "reference": "Genesis 5:9",
+  "hebrew": "וַֽיְחִ֥י אֱנ֖וֹשׁ תִּשְׁעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת קֵינָֽן",
   "ipa": "vaˈjəhi ʔeˈnoʃ tišˈʕim ʃaˈna vajˈjolɛd ʔet keˈnan",
-  "korean_pronunciation": "바예히 에노쉬 티쉬임 샤나 바욜레드 에트 케난",
+  "koreanPronunciation": "바예히 에노쉬 티쉬임 샤나 바욜레드 에트 케난",
   "modern": "에노스가 90세에 게난을 낳았습니다",
   "words": [
     {
@@ -12,7 +14,6 @@
       "letters": "וַ(va) + יְ(yə) + חִי(hi)",
       "root": "ח-י-ה (하야)",
       "grammar": "동사",
-      "emoji": "⏳",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"life9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"50%\" stop-color=\"#0097A7\" /><stop offset=\"100%\" stop-color=\"#00796B\" /></linearGradient><radialGradient id=\"pulse9\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#00BCD4\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#pulse9)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#life9)\" stroke=\"#006064\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 151, 167, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"#E0F7FA\" opacity=\"0.9\" /><g stroke=\"#00796B\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M 16 32 L 20 32 L 22 28 L 26 36 L 30 24 L 34 40 L 38 28 L 42 32 L 48 32\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /></g><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 6px rgba(233, 30, 99, 0.8))\" opacity=\"0.8\"><animate attributeName=\"r\" values=\"3;4;3\" dur=\"1s\" repeatCount=\"indefinite\" /></circle></svg>",
       "relatedWords": [
         "חַי (하이 - 살아있는)",
@@ -27,7 +28,6 @@
       "letters": "אֱ(e) + נוֹ(no) + שׁ(sh)",
       "root": "אֱנוֹשׁ (에노쉬)",
       "grammar": "명사",
-      "emoji": "🙏",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enosh9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#512DA8\" /></linearGradient><radialGradient id=\"prayer9\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#prayer9)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"30\" cy=\"18\" r=\"1.5\" fill=\"#4A4A4A\" /><circle cx=\"34\" cy=\"18\" r=\"1.5\" fill=\"#4A4A4A\" /><path d=\"M 30 22 Q 32 23 34 22\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 22 28 Q 22 26 26 26 L 38 26 Q 42 26 42 28 L 42 48 Q 42 50 38 50 L 26 50 Q 22 50 22 48 Z\" fill=\"url(#enosh9)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 34 L 24 38 L 24 46\" stroke=\"url(#enosh9)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 46 34 L 40 38 L 40 46\" stroke=\"url(#enosh9)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 38 Q 22 34 24 38\" fill=\"#FFE4B5\" /><path d=\"M 44 38 Q 42 34 40 38\" fill=\"#FFE4B5\" /><g opacity=\"0.7\"><circle cx=\"32\" cy=\"10\" r=\"6\" fill=\"url(#prayer9)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><path d=\"M 28 10 L 32 6 L 36 10\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linejoin=\"round\" opacity=\"0.8\" /></g></svg>",
       "relatedWords": [
         "אֱנוֹשׁ (에노쉬 - 연약한 사람, 필멸의 인간)",
@@ -42,7 +42,6 @@
       "letters": "תִּ(ti) + שְׁ(sh) + עִים(ʕim)",
       "root": "תֵּשַׁע (테솨)",
       "grammar": "명사",
-      "emoji": "9️⃣0️⃣",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ninety9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"50%\" stop-color=\"#C2185B\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#ninety9)\" filter=\"drop-shadow(0 6px 12px rgba(233, 30, 99, 0.5))\" /><g fill=\"#FFFFFF\" opacity=\"0.9\"><ellipse cx=\"22\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /><line x1=\"30\" y1=\"34\" x2=\"22\" y2=\"48\" stroke=\"#FFFFFF\" stroke-width=\"4\" stroke-linecap=\"round\" /><ellipse cx=\"44\" cy=\"32\" rx=\"10\" ry=\"14\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /></g><g opacity=\"0.6\"><circle cx=\"12\" cy=\"12\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"52\" cy=\"12\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"52\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></g></svg>"
     },
     {
@@ -53,7 +52,6 @@
       "letters": "שָׁ(sha) + נָה(na)",
       "root": "שָׁנָה (샤나)",
       "grammar": "명사",
-      "emoji": "🎂",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"age9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#EE5A6F\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient><radialGradient id=\"candle9\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"4\" fill=\"#000000\" opacity=\"0.2\" /><rect x=\"12\" y=\"32\" width=\"40\" height=\"20\" rx=\"2\" fill=\"url(#age9)\" filter=\"drop-shadow(0 4px 8px rgba(196, 69, 105, 0.5))\" /><rect x=\"12\" y=\"32\" width=\"40\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.3\" /><rect x=\"12\" y=\"40\" width=\"40\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.2\" /><rect x=\"29\" y=\"20\" width=\"6\" height=\"12\" rx=\"1\" fill=\"#FF6B9D\" /><ellipse cx=\"32\" cy=\"20\" rx=\"3\" ry=\"4\" fill=\"url(#candle9)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 30 16 Q 32 12 34 16\" stroke=\"#FFA500\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><g opacity=\"0.6\"><circle cx=\"20\" cy=\"38\" r=\"2\" fill=\"#4CAF50\" /><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#2196F3\" /><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#FF9800\" /><circle cx=\"44\" cy=\"38\" r=\"2\" fill=\"#9C27B0\" /><circle cx=\"24\" cy=\"44\" r=\"2\" fill=\"#F44336\" /><circle cx=\"40\" cy=\"44\" r=\"2\" fill=\"#00BCD4\" /></g></svg>"
     },
     {
@@ -64,7 +62,6 @@
       "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
       "root": "י-ל-ד (야라드)",
       "grammar": "동사",
-      "emoji": "👶",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birth9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient><radialGradient id=\"new9\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#81C784\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#new9)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#birth9)\" filter=\"drop-shadow(0 4px 8px rgba(76, 175, 80, 0.5))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"30\" cy=\"26\" r=\"1.5\" fill=\"#4A4A4A\" /><circle cx=\"34\" cy=\"26\" r=\"1.5\" fill=\"#4A4A4A\" /><path d=\"M 30 30 Q 32 31.5 34 30\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 24 36 L 24 44\" stroke=\"#FFE4B5\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 40 36 L 40 44\" stroke=\"#FFE4B5\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"24\" cy=\"44\" r=\"3\" fill=\"#FFE4B5\" /><circle cx=\"40\" cy=\"44\" r=\"3\" fill=\"#FFE4B5\" /><g opacity=\"0.7\"><circle cx=\"20\" cy=\"12\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" /><circle cx=\"32\" cy=\"8\" r=\"3.5\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" /><circle cx=\"44\" cy=\"12\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" /></g></svg>",
       "relatedWords": [
         "יָלַד (야라드 - 낳다)",
@@ -79,7 +76,6 @@
       "letters": "אֶ(e) + ת(t) + קֵי(ke) + נָן(nan)",
       "root": "קֵינָן (케난)",
       "grammar": "명사",
-      "emoji": "👨",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kenan9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF7043\" /><stop offset=\"100%\" stop-color=\"#D84315\" /></linearGradient><radialGradient id=\"heritage9\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.7\" /><stop offset=\"100%\" stop-color=\"#FF7043\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#heritage9)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"22\" r=\"9\" fill=\"#F5DEB3\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"29.5\" cy=\"20\" r=\"1.5\" fill=\"#2C3E50\" /><circle cx=\"34.5\" cy=\"20\" r=\"1.5\" fill=\"#2C3E50\" /><path d=\"M 29 24 Q 32 25.5 35 24\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 30 Q 20 28 24 28 L 40 28 Q 44 28 44 30 L 44 50 Q 44 54 40 54 L 24 54 Q 20 54 20 50 Z\" fill=\"url(#kenan9)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"31\" width=\"10\" height=\"23\" rx=\"1\" fill=\"url(#kenan9)\" opacity=\"0.7\" /><rect x=\"34\" y=\"31\" width=\"10\" height=\"23\" rx=\"1\" fill=\"url(#kenan9)\" opacity=\"0.7\" /><circle cx=\"26\" cy=\"56\" r=\"2.5\" fill=\"#8B4513\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"56\" r=\"2.5\" fill=\"#8B4513\" opacity=\"0.7\" /><g opacity=\"0.8\"><circle cx=\"32\" cy=\"10\" r=\"7\" fill=\"url(#heritage9)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.7))\" /><path d=\"M 28 10 L 32 4 L 36 10 L 32 8 Z\" fill=\"#FFD700\" opacity=\"0.9\" /></g></svg>",
       "relatedWords": [
         "קִנְיָן (킨얀 - 소유물)",

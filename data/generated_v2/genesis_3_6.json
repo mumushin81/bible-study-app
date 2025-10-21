@@ -14,7 +14,6 @@
       "letters": "וַ(va) + תֵּ(te) + רֶא(re)",
       "root": "ר-א-ה (라아)",
       "grammar": "동사",
-      "emoji": "👀",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye1\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></radialGradient><linearGradient id=\"iris1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient><radialGradient id=\"pupil1\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#eye1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"12\" ry=\"14\" fill=\"url(#iris1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#pupil1)\" /><circle cx=\"29\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
       "relatedWords": [
         "רָאָה (라아 - 보다)",
@@ -29,7 +28,6 @@
       "letters": "הָ(ha) + אִ(i) + שָּׁה(sha)",
       "root": "אִשָּׁה (이샤)",
       "grammar": "명사",
-      "emoji": "👩",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"woman1\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></radialGradient><linearGradient id=\"hair1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"face1\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#face1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 18 Q 32 8 44 18\" fill=\"url(#hair1)\" /><ellipse cx=\"32\" cy=\"16\" rx=\"14\" ry=\"10\" fill=\"url(#hair1)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"16\" fill=\"url(#woman1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /></svg>"
     },
     {
@@ -40,7 +38,6 @@
       "letters": "כִּי(ki) + טוֹב(tov) + הָ(ha) + עֵץ(ets) + לְ(le) + מַאֲכָל(maakal)",
       "root": "ט-ו-ב (토브), עֵץ (에츠), א-כ-ל (아칼)",
       "grammar": "형용사",
-      "emoji": "🍎",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"apple1\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></radialGradient><linearGradient id=\"shine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0.3\" /></linearGradient><linearGradient id=\"leaf1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7CB342\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"36\" r=\"20\" fill=\"url(#apple1)\" filter=\"drop-shadow(0 6px 8px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"28\" cy=\"30\" rx=\"8\" ry=\"12\" fill=\"url(#shine1)\" /><path d=\"M 32 16 Q 28 20 28 26\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"34\" cy=\"14\" rx=\"6\" ry=\"8\" fill=\"url(#leaf1)\" transform=\"rotate(30 34 14)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\" /></svg>",
       "relatedWords": [
         "טוֹבָה (토바 - 좋음)",
@@ -55,7 +52,6 @@
       "letters": "תַּ(ta) + אֲ(a) + וָה(va) + לָ(la) + עֵי(ei) + נַיִם(na-yim)",
       "root": "א-ו-ה (아와), עַיִן (아인)",
       "grammar": "명사",
-      "emoji": "✨",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"desire1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient><radialGradient id=\"sparkle1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"glow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#desire1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#glow1)\" filter=\"drop-shadow(0 0 12px rgba(255, 105, 180, 0.8))\" /><polygon points=\"32,16 34,28 42,28 36,34 38,46 32,40 26,46 28,34 22,28 30,28\" fill=\"url(#sparkle1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><circle cx=\"24\" cy=\"24\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"40\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"40\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
       "relatedWords": [
         "תַּאֲוָה (타아바 - 욕망)",
@@ -70,7 +66,6 @@
       "letters": "נֶ(ne) + חְ(h) + מָד(mad) + לְ(le) + הַ(ha) + שְׂכִּיל(skil)",
       "root": "ח-מ-ד (하마드), שׂ-כ-ל (사칼)",
       "grammar": "형용사",
-      "emoji": "🧠",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"brain1\"><stop offset=\"0%\" stop-color=\"#BA68C8\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></radialGradient><linearGradient id=\"wisdom1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"light1\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FBC02D\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#brain1)\" filter=\"drop-shadow(0 4px 8px rgba(123, 31, 162, 0.5))\" /><path d=\"M 24 28 Q 28 24 32 28 Q 36 24 40 28\" stroke=\"url(#wisdom1)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 24 34 Q 28 30 32 34 Q 36 30 40 34\" stroke=\"url(#wisdom1)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 24 40 Q 28 36 32 40 Q 36 36 40 40\" stroke=\"url(#wisdom1)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#light1)\" filter=\"drop-shadow(0 0 8px rgba(255, 235, 59, 0.8))\" opacity=\"0.9\" /></svg>",
       "relatedWords": [
         "חֶמְדָּה (헴다 - 귀한 것)",
@@ -85,7 +80,6 @@
       "letters": "וַ(va) + תִּ(ti) + קַּח(kah)",
       "root": "ל-ק-ח (라카흐)",
       "grammar": "동사",
-      "emoji": "🤲",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></linearGradient><radialGradient id=\"fruit1\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></radialGradient><linearGradient id=\"action1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"18\" ry=\"14\" fill=\"url(#hand1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"38\" rx=\"6\" ry=\"10\" fill=\"url(#hand1)\" transform=\"rotate(-20 20 38)\" /><ellipse cx=\"44\" cy=\"38\" rx=\"6\" ry=\"10\" fill=\"url(#hand1)\" transform=\"rotate(20 44 38)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#fruit1)\" filter=\"drop-shadow(0 4px 6px rgba(201, 42, 42, 0.5))\" /><path d=\"M 32 34 L 32 40\" stroke=\"url(#action1)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>"
     },
     {
@@ -96,7 +90,6 @@
       "letters": "מִ(mi) + פִּ(pi) + רְיוֹ(ryo)",
       "root": "פְּרִי (페리)",
       "grammar": "명사",
-      "emoji": "🍇",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"fruit2a\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></radialGradient><radialGradient id=\"fruit2b\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#4A148C\" /></radialGradient><linearGradient id=\"stem1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></linearGradient></defs><circle cx=\"28\" cy=\"36\" r=\"9\" fill=\"url(#fruit2a)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"36\" cy=\"36\" r=\"9\" fill=\"url(#fruit2b)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"28\" r=\"9\" fill=\"url(#fruit2a)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"44\" r=\"9\" fill=\"url(#fruit2b)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"24\" cy=\"44\" r=\"8\" fill=\"url(#fruit2a)\" opacity=\"0.9\" /><circle cx=\"40\" cy=\"44\" r=\"8\" fill=\"url(#fruit2b)\" opacity=\"0.9\" /><path d=\"M 32 20 Q 30 14 28 12\" stroke=\"url(#stem1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
       "relatedWords": [
         "פְּרִי (페리 - 열매)",
@@ -111,7 +104,6 @@
       "letters": "וַ(va) + תֹּ(to) + אכַל(khal)",
       "root": "א-כ-ל (아칼)",
       "grammar": "동사",
-      "emoji": "😋",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"mouth1\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></radialGradient><linearGradient id=\"bite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></linearGradient><radialGradient id=\"apple2\"><stop offset=\"0%\" stop-color=\"#FF5252\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#bite1)\" opacity=\"0.2\" /><ellipse cx=\"32\" cy=\"38\" rx=\"14\" ry=\"10\" fill=\"url(#mouth1)\" filter=\"drop-shadow(0 4px 6px rgba(194, 24, 91, 0.4))\" /><path d=\"M 24 36 Q 32 42 40 36\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"44\" cy=\"20\" r=\"10\" fill=\"url(#apple2)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 44 20 Q 40 18 38 20 Q 36 22 38 24\" fill=\"#D32F2F\" /></svg>",
       "relatedWords": [
         "אֹכֶל (오켈 - 음식)",
@@ -126,7 +118,6 @@
       "letters": "וַ(va) + תִּ(ti) + תֵּן(ten) + גַּם(gam) + לְ(le) + אִישָׁהּ(isha)",
       "root": "נ-ת-ן (나탄), אִישׁ (이쉬)",
       "grammar": "동사",
-      "emoji": "🤝",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand2a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB3BA\" /><stop offset=\"100%\" stop-color=\"#FF8787\" /></linearGradient><linearGradient id=\"hand2b\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#BAE1FF\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><radialGradient id=\"gift1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient></defs><ellipse cx=\"20\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hand2a)\" transform=\"rotate(-30 20 32)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hand2b)\" transform=\"rotate(30 44 32)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#gift1)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.8))\" /><path d=\"M 20 32 L 26 32\" stroke=\"#FF8787\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 38 32 L 44 32\" stroke=\"#87CEEB\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
       "relatedWords": [
         "נָתַן (나탄 - 주다)",
@@ -141,7 +132,6 @@
       "letters": "עִ(i) + מָּהּ(mah)",
       "root": "עִם (임)",
       "grammar": "전치사",
-      "emoji": "👫",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"person1a\"><stop offset=\"0%\" stop-color=\"#FF9AA2\" /><stop offset=\"100%\" stop-color=\"#FF6B7A\" /></radialGradient><radialGradient id=\"person1b\"><stop offset=\"0%\" stop-color=\"#9ED2C6\" /><stop offset=\"100%\" stop-color=\"#5FA99D\" /></radialGradient><linearGradient id=\"together1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient></defs><circle cx=\"24\" cy=\"20\" r=\"8\" fill=\"url(#person1a)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"24\" cy=\"40\" rx=\"10\" ry=\"14\" fill=\"url(#person1a)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"20\" r=\"8\" fill=\"url(#person1b)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"40\" cy=\"40\" rx=\"10\" ry=\"14\" fill=\"url(#person1b)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 28 Q 32 24 40 28\" stroke=\"url(#together1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></svg>"
     },
     {
@@ -152,7 +142,6 @@
       "letters": "וַ(va) + יֹּ(yo) + אכַל(khal)",
       "root": "א-כ-ל (아칼)",
       "grammar": "동사",
-      "emoji": "🍽️",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"man1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><radialGradient id=\"apple3\"><stop offset=\"0%\" stop-color=\"#EF5350\" /><stop offset=\"100%\" stop-color=\"#C62828\" /></radialGradient><linearGradient id=\"eating1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#man1)\" filter=\"drop-shadow(0 4px 6px rgba(25, 118, 210, 0.4))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"14\" ry=\"16\" fill=\"url(#man1)\" filter=\"drop-shadow(0 4px 6px rgba(25, 118, 210, 0.4))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#apple3)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 38 32 L 32 28\" stroke=\"url(#eating1)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(255, 165, 0, 0.8))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"6\" ry=\"4\" fill=\"url(#apple3)\" opacity=\"0.7\" /></svg>"
     }
   ],
