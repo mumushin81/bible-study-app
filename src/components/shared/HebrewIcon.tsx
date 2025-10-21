@@ -1,4 +1,4 @@
-import React, { useMemo } from 'react';
+import React, { useId, useMemo } from 'react';
 import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWord, type IconProps } from '../icons';
 
 interface HebrewIconProps extends IconProps {
@@ -15,12 +15,15 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   color = 'currentColor',
   fallback = '📜'
 }) => {
+  // React 18 useId: SSR/Hydration safe, deterministic
+  const reactId = useId();
+
   // Generate unique SVG with namespaced IDs to prevent gradient collisions
   const uniqueSvg = useMemo(() => {
     if (!iconSvg || iconSvg.trim().length === 0) return null;
 
-    // Generate unique prefix based on word + random string
-    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${Math.random().toString(36).substr(2, 9)}`;
+    // Generate unique prefix based on word + React stable ID (not Math.random()!)
+    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${reactId.replace(/:/g, '-')}`;
 
     // Replace all id="..." with id="uniqueId-..."
     let processedSvg = iconSvg.replace(/id="([^"]+)"/g, `id="${uniqueId}-$1"`);
@@ -29,7 +32,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
     processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
 
     return processedSvg;
-  }, [iconSvg, word]);
+  }, [iconSvg, word, reactId]);
 
   // 1. iconSvg가 있으면 SVG 렌더링 (최우선)
   if (uniqueSvg) {
