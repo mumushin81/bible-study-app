@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useMemo } from 'react';
 import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWord, type IconProps } from '../icons';
 
 interface HebrewIconProps extends IconProps {
@@ -15,8 +15,24 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   color = 'currentColor',
   fallback = '📜'
 }) => {
+  // Generate unique SVG with namespaced IDs to prevent gradient collisions
+  const uniqueSvg = useMemo(() => {
+    if (!iconSvg || iconSvg.trim().length === 0) return null;
+
+    // Generate unique prefix based on word + random string
+    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${Math.random().toString(36).substr(2, 9)}`;
+
+    // Replace all id="..." with id="uniqueId-..."
+    let processedSvg = iconSvg.replace(/id="([^"]+)"/g, `id="${uniqueId}-$1"`);
+
+    // Replace all url(#...) with url(#uniqueId-...)
+    processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
+
+    return processedSvg;
+  }, [iconSvg, word]);
+
   // 1. iconSvg가 있으면 SVG 렌더링 (최우선)
-  if (iconSvg && iconSvg.trim().length > 0) {
+  if (uniqueSvg) {
     return (
       <div
         className={className}
@@ -25,7 +41,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
           height: `${size}px`,
           display: 'inline-block',
         }}
-        dangerouslySetInnerHTML={{ __html: iconSvg }}
+        dangerouslySetInnerHTML={{ __html: uniqueSvg }}
       />
     );
   }
