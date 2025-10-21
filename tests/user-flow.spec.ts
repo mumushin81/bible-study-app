@@ -101,8 +101,8 @@ test.describe('사용자 기능 플로우 테스트', () => {
     await expect(logoutButton).toBeVisible({ timeout: 10000 });
     console.log('✅ Step 7.5: 사용자 프로필 표시됨');
 
-    // 8. 학습 탭에서 구절 확인
-    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
+    // 8. 학습 탭에서 구절 확인 (data-testid 사용)
+    const hebrewText = page.getByTestId('hebrew-text');
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
     console.log('✅ Step 8: 히브리어 구절 표시 확인');
 

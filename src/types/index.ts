@@ -3,12 +3,13 @@ export interface Word {
   meaning: string;
   ipa: string;
   korean: string;
-  letters: string;  // 글자별 분해 (예: "ש(sh) + ל(l) + ו(o) + ם(m)")
+  letters?: string;  // 글자별 분해 (예: "ש(sh) + ל(l) + ו(o) + ם(m)")
   root: string;
   grammar: string;  // 간단한 품사 (명사/동사/형용사/전치사/접속사/부사/대명사)
   emoji: string;  // 시각적 연상 이모지 (필수, fallback)
-  iconSvg: string;  // 화려한 커스텀 SVG 아이콘 코드 (필수)
+  iconSvg?: string;  // 화려한 커스텀 SVG 아이콘 코드 (선택적)
   relatedWords?: string[];  // 같은 어근 단어들
+  structure?: string;  // 단어 구조 설명 (선택적)
 }
 
 export interface CommentarySection {

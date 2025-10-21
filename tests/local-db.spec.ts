@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const LOCAL_URL = 'http://localhost:5173/';
+const LOCAL_URL = 'http://localhost:5177/';
 
 test.describe('로컬 DB 연결 테스트', () => {
   test('DB에서 데이터 로드 확인', async ({ page }) => {
@@ -40,8 +40,8 @@ test.describe('로컬 DB 연결 테스트', () => {
       }
     }
 
-    // 히브리어 텍스트가 표시되는지 확인 (전체 구절 포함)
-    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
+    // 히브리어 텍스트가 표시되는지 확인 (data-testid 사용)
+    const hebrewText = page.getByTestId('hebrew-text');
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
     console.log('✅ 히브리어 구절이 화면에 표시됩니다.');
 
