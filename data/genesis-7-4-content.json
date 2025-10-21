@@ -1,0 +1,133 @@
+{
+  "verse_id": "genesis_7_4",
+  "reference": "창세기 7:4",
+  "hebrew": "כִּי֩ לְיָמִ֨ים ע֜וֹד שִׁבְעָ֗ה אָֽנֹכִי֙ מַמְטִ֣יר עַל הָאָ֔רֶץ אַרְבָּעִ֣ים י֔וֹם וְאַרְבָּעִ֖ים לָ֑יְלָה וּמָחִ֗יתִי אֶֽת כָּל הַיְקוּם֙ אֲשֶׁ֣ר עָשִׂ֔יתִי מֵעַ֖ל פְּנֵ֥י הָֽאֲדָמָֽה",
+  "ipa": "ki ləjaˈmim ʔod ʃivˈʔa ʔanoˈχi mamˈtːir ʔal haˈʔarɛts ʔarbːaˈʔim ˈjom vəʔarbːaˈʔim ˈlajla umaχiˈti ʔɛt kol hajəˈqum ʔaˈʃɛr ʔaˈʃiti meˈʔal pəˈne haʔadaˈma",
+  "korean_pronunciation": "키 레야밈 오드 쉬브아 아노키 맘티르 알 하아레츠 아르바임 욤 베아르바임 라일라 우마히티 에트 콜 하예쿰 아셰르 아시티 메알 페네 하아다마",
+  "modern": "이제부터 칠 일 후에 내가 사십 주야동안 땅에 비를 내려서, 내가 만든 모든 생물을 지면에서 쓸어 없애리라",
+  "words": [
+    {
+      "hebrew": "לְיָמִים עוֹד שִׁבְעָה",
+      "meaning": "칠 일 후에",
+      "ipa": "ləjaˈmim ʔod ʃivˈʔa",
+      "korean": "레야밈 오드 쉬브아",
+      "letters": "לְ(lə) + יָמִים(jamim) + עוֹד(ʔod) + שִׁבְעָה(ʃivʔa)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(102, 126, 234, 0.2)\" /><text x=\"32\" y=\"42\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#seven1)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">7</text><circle cx=\"32\" cy=\"32\" r=\"28\" stroke=\"url(#seven1)\" stroke-width=\"3\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "שָׁבוּעַ (샤부아 - 주, 일주일)",
+        "שֶׁבַע (셰바 - 일곱)"
+      ]
+    },
+    {
+      "hebrew": "אָנֹכִי מַמְטִיר",
+      "meaning": "내가 비를 내리리라",
+      "ipa": "ʔanoˈχi mamˈtːir",
+      "korean": "아노키 맘티르",
+      "letters": "אָ(ʔa) + נֹכִי(noχi) + מַמְטִיר(mamtːir)",
+      "root": "מ-ט-ר (마타르)",
+      "grammar": "동사",
+      "emoji": "🌧️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rain1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#2E5C8A\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"20\" rx=\"20\" ry=\"12\" fill=\"url(#rain1)\" opacity=\"0.6\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"20\" y1=\"32\" x2=\"18\" y2=\"44\" stroke=\"url(#rain1)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /><line x1=\"28\" y1=\"32\" x2=\"26\" y2=\"46\" stroke=\"url(#rain1)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /><line x1=\"36\" y1=\"32\" x2=\"34\" y2=\"46\" stroke=\"url(#rain1)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /><line x1=\"44\" y1=\"32\" x2=\"42\" y2=\"44\" stroke=\"url(#rain1)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מָטָר (마타르 - 비)",
+        "גֶּשֶׁם (게쉠 - 비)"
+      ]
+    },
+    {
+      "hebrew": "אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה",
+      "meaning": "사십 주야",
+      "ipa": "ʔarbːaˈʔim ˈjom vəʔarbːaˈʔim ˈlajla",
+      "korean": "아르바임 욤 베아르바임 라일라",
+      "letters": "אַרְבָּעִים(arbaʔim) + יוֹם(jom) + וְ(və) + אַרְבָּעִים(arbaʔim) + לַיְלָה(lajla)",
+      "root": "אַרְבַּע (아르바)",
+      "grammar": "명사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><linearGradient id=\"night1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E3A8A\" /><stop offset=\"100%\" stop-color=\"#0F172A\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"14\" fill=\"url(#time2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"32\" r=\"14\" fill=\"url(#night1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><text x=\"24\" y=\"38\" font-size=\"14\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">40</text><text x=\"40\" y=\"38\" font-size=\"14\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">40</text></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "לַיְלָה (라일라 - 밤)"
+      ]
+    },
+    {
+      "hebrew": "וּמָחִיתִי",
+      "meaning": "그리고 내가 쓸어버리리라",
+      "ipa": "umaχiˈti",
+      "korean": "우마히티",
+      "letters": "וּ(u) + מָ(ma) + חִיתִי(χiti)",
+      "root": "מ-ח-ה (마하)",
+      "grammar": "동사",
+      "emoji": "🧹",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wipe1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#B0B0B0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(224, 224, 224, 0.2)\" /><rect x=\"14\" y=\"36\" width=\"36\" height=\"8\" rx=\"2\" fill=\"url(#wipe1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 20 L 52 32\" stroke=\"#C0C0C0\" stroke-width=\"6\" opacity=\"0.4\" stroke-linecap=\"round\" /><circle cx=\"20\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.3\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "מָחָה (마하 - 지우다)",
+        "הִשְׁמִיד (히쉬미드 - 멸망시키다)"
+      ]
+    },
+    {
+      "hebrew": "כָּל הַיְקוּם אֲשֶׁר עָשִׂיתִי",
+      "meaning": "내가 만든 모든 생물",
+      "ipa": "kol hajəˈqum ʔaˈʃɛr ʔaˈʃiti",
+      "korean": "콜 하예쿰 아셰르 아시티",
+      "letters": "כָּל(kol) + הַ(ha) + יְקוּם(jəqum) + אֲשֶׁר(ʔaʃɛr) + עָשִׂיתִי(ʔasiti)",
+      "root": "ק-ו-ם (쿰)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"creation1\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#creation1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"22\" cy=\"28\" r=\"5\" fill=\"#4A90E2\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"24\" r=\"6\" fill=\"#4A90E2\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"40\" r=\"4\" fill=\"#4A90E2\" opacity=\"0.6\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 7장 4절은 하나님께서 홍수의 정확한 시기와 기간을 예고하시는 구절입니다. '칠 일 후'라는 구체적 시간과 '사십 주야'라는 정확한 기간은 하나님의 심판이 예정된 계획임을 보여줍니다. 이는 또한 회개할 수 있는 마지막 기회를 제공하는 하나님의 오래 참으심을 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לְיָמִים עוֹד שִׁבְעָה (레야밈 오드 쉬브아) - 칠 일 후",
+        "description": "하나님께서 심판을 '칠 일 후'로 예고하신 것은 의미심장합니다. 이 칠 일은 노아에게 마지막 준비의 시간이었고, 세상 사람들에게는 회개할 수 있는 마지막 기회였습니다. 그러나 아무도 회개하지 않았습니다.",
+        "points": [
+          "하나님은 심판 전에 경고하십니다",
+          "칠 일은 완전한 기간을 상징합니다",
+          "은혜의 시간이 주어졌지만 사람들은 믿지 않았습니다 (마태복음 24:38-39)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה (아르바임 욤 베아르바임 라일라) - 사십 주야",
+        "description": "사십이라는 숫자는 성경에서 시험과 정화의 기간을 나타냅니다. 모세의 40일, 엘리야의 40일, 예수님의 40일 금식이 모두 이와 연결됩니다. 홍수의 40일은 온 땅을 정화하는 기간이었습니다.",
+        "points": [
+          "40은 성경에서 시험과 정화의 기간입니다",
+          "밤낮 쉬지 않고 40일간 비가 내렸습니다",
+          "완전한 심판과 정화를 상징합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אָנֹכִי מַמְטִיר (아노키 맘티르) - 내가 비를 내리리라",
+        "description": "'아노키'는 강조하는 1인칭 대명사입니다. 하나님께서 '내가' 직접 비를 내린다고 하심으로써 이것이 자연 현상이 아니라 하나님의 주권적 행동임을 강조합니다.",
+        "points": [
+          "홍수는 자연재해가 아니라 하나님의 심판입니다",
+          "하나님께서 직접 주관하시는 사건입니다",
+          "창조주께서 피조물을 심판하십니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 홍수가 오기 전에 칠 일을 기다리셨을까요?",
+      "answer": "하나님은 사람들이 마음을 돌이킬 기회를 주시기 위해 칠 일을 더 기다리셨어요. 노아는 120년 동안이나 방주를 만들면서 사람들에게 경고했고, 마지막 일주일도 더 주신 거예요. 하지만 아무도 믿지 않고 계속 나쁜 일을 했답니다. 이것은 하나님께서 매우 참을성이 많으시고, 사람들이 회개하기를 원하신다는 것을 보여줘요. 오늘날도 하나님은 우리에게 회개할 기회를 주고 계세요!",
+      "bibleReferences": [
+        "베드로후서 3:9 - '주의 약속은 어떤 이들이 더디다고 생각하는 것같이 더딘 것이 아니라 오직 주께서는 너희를 대하여 오래 참으사 아무도 멸망하지 아니하고 다 회개하기에 이르기를 원하시느니라'",
+        "마태복음 24:37-39 - '노아의 때와 같이 인자가 임함도 그러하리라 홍수 전에 노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집가고 있으면서 홍수가 나서 그들을 다 멸하기까지 깨닫지 못하였으니'",
+        "창세기 6:3 - '여호와께서 이르시되 나의 영이 영원히 사람과 함께 하지 아니하리니 이는 그들이 육신이 됨이라 그러나 그들의 날은 백이십 년이 되리라 하시니라'",
+        "로마서 2:4 - '혹 네가 하나님의 인자하심이 너를 인도하여 회개하게 하심을 알지 못하여 그의 인자하심과 용납하심과 길이 참으심이 풍성함을 멸시하느냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "칠 일의 유예와 40일의 심판은 하나님의 공의와 자비가 조화를 이룬 모습을 보여줍니다. 하나님은 심판하기 전에 반드시 경고하시며, 회개할 기회를 주십니다. 그러나 그 기회를 거절하면 정확한 때에 심판이 임합니다. 이는 그리스도의 재림을 예표하며, 지금이 은혜의 때요 구원의 날임을 상기시킵니다. 하나님의 오래 참으심을 가볍게 여기지 말고, 오늘 회개하고 구원의 방주이신 그리스도께로 나아가야 합니다."
+    }
+  }
+}

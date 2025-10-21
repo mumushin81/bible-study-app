@@ -1,0 +1,201 @@
+{
+  "verse_id": "genesis_5_23",
+  "reference": "창세기 5:23",
+  "hebrew": "וַיְהִ֖י כָּל יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה",
+  "ipa": "vajəˈhi kol jəˈme χaˈnoχ χaˈmeʃ vəʃiˈʃim ʃaˈna uʃəˈloʃ meˈot ʃaˈna",
+  "korean_pronunciation": "바예히 콜 예메이 하노크 하메쉬 베쉬쉬임 샤나 우셸로쉬 메오트 샤나",
+  "modern": "에녹이 세상을 산 전체 기간은 삼백육십오 년이었습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 되었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "ו(v) + ַ(a) + יְ(yə) + הִ(h) + י(i)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"glow23\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"24\" fill=\"url(#glow23)\" /><path d=\"M 22 16 L 42 16 L 38 28 L 26 28 Z\" fill=\"url(#time1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 26 28 L 38 28 L 42 48 L 22 48 Z\" fill=\"url(#time1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"32\" y1=\"20\" x2=\"32\" y2=\"44\" stroke=\"#8B4513\" stroke-width=\"1\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#DEB887\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יִהְיֶה (이흐예 - ~이 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כָּל",
+      "meaning": "모든, 전체",
+      "ipa": "kol",
+      "korean": "콜",
+      "letters": "כָּ(k) + ל(l)",
+      "root": "כֹּל (콜)",
+      "grammar": "명사",
+      "emoji": "🌐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(102, 126, 234, 0.15)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#all1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 0 8px rgba(102, 126, 234, 0.6))\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"url(#all1)\" /><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"url(#all1)\" /><circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"url(#all1)\" /><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#all1)\" /><circle cx=\"46\" cy=\"18\" r=\"3\" fill=\"rgba(118, 75, 162, 0.7)\" /><circle cx=\"46\" cy=\"46\" r=\"3\" fill=\"rgba(118, 75, 162, 0.7)\" /><circle cx=\"18\" cy=\"46\" r=\"3\" fill=\"rgba(118, 75, 162, 0.7)\" /><circle cx=\"18\" cy=\"18\" r=\"3\" fill=\"rgba(118, 75, 162, 0.7)\" /></svg>",
+      "relatedWords": [
+        "כֹּלֵּל (콜렐 - 포함하다)",
+        "כְּלִיל (클릴 - 완전한)"
+      ]
+    },
+    {
+      "hebrew": "יְמֵי",
+      "meaning": "날들의",
+      "ipa": "jəˈme",
+      "korean": "예메이",
+      "letters": "יְ(yə) + מֵ(m) + י(e)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"4\" fill=\"rgba(255, 215, 0, 0.2)\" stroke=\"url(#days1)\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"8\" rx=\"4\" fill=\"url(#days1)\" /><line x1=\"20\" y1=\"28\" x2=\"24\" y2=\"28\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"30\" y1=\"28\" x2=\"34\" y2=\"28\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"40\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"20\" y1=\"36\" x2=\"24\" y2=\"36\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"30\" y1=\"36\" x2=\"34\" y2=\"36\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"40\" y1=\"36\" x2=\"44\" y2=\"36\" stroke=\"#FFA500\" stroke-width=\"2\" /><line x1=\"20\" y1=\"44\" x2=\"24\" y2=\"44\" stroke=\"#FF6B35\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    },
+    {
+      "hebrew": "חֲנוֹךְ",
+      "meaning": "에녹",
+      "ipa": "χaˈnoχ",
+      "korean": "하노크",
+      "letters": "ח(kh) + ֲ(a) + נ(n) + וֹ(o) + ךְ(kh)",
+      "root": "חָנַךְ (하나크)",
+      "grammar": "명사",
+      "emoji": "👨‍🦳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"enoch1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"holy1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.2)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#enoch1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"16\" fill=\"url(#enoch1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"14\" r=\"6\" fill=\"url(#holy1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "חִנּוּךְ (히누크 - 교육, 헌신)",
+        "חָנַךְ (하나크 - 헌신하다)"
+      ]
+    },
+    {
+      "hebrew": "חָמֵשׁ",
+      "meaning": "다섯",
+      "ipa": "χaˈmeʃ",
+      "korean": "하메쉬",
+      "letters": "חָ(kha) + מֵ(m) + שׁ(esh)",
+      "root": "חָמֵשׁ (하메쉬)",
+      "grammar": "명사",
+      "emoji": "5️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#44A08D\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#five1)\" opacity=\"0.2\" /><text x=\"50%\" y=\"50%\" font-size=\"32\" font-weight=\"bold\" text-anchor=\"middle\" dy=\".35em\" fill=\"url(#five1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">5</text></svg>",
+      "relatedWords": [
+        "חֲמִישִׁי (하미쉬 - 다섯째)",
+        "חֲמִשִּׁים (하미쉬임 - 오십)"
+      ]
+    },
+    {
+      "hebrew": "וְשִׁשִּׁים",
+      "meaning": "그리고 육십",
+      "ipa": "vəʃiˈʃim",
+      "korean": "베쉬쉬임",
+      "letters": "ו(v) + ְ(ə) + שִׁ(sh) + שִּׁ(sh) + ים(im)",
+      "root": "שֵׁשׁ (쉐쉬)",
+      "grammar": "명사",
+      "emoji": "6️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sixty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#sixty1)\" opacity=\"0.2\" /><text x=\"50%\" y=\"50%\" font-size=\"24\" font-weight=\"bold\" text-anchor=\"middle\" dy=\".35em\" fill=\"url(#sixty1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">60</text></svg>",
+      "relatedWords": [
+        "שֵׁשׁ (쉐쉬 - 여섯)",
+        "שִׁשִּׁי (쉬쉬 - 여섯째)"
+      ]
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "해, 년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נ(n) + ָ(a) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C06C84\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"36\" rx=\"4\" fill=\"rgba(255, 107, 157, 0.2)\" stroke=\"url(#year1)\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"16\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#year1)\" /><circle cx=\"20\" cy=\"12\" r=\"2\" fill=\"url(#year1)\" /><circle cx=\"44\" cy=\"12\" r=\"2\" fill=\"url(#year1)\" /><line x1=\"20\" y1=\"32\" x2=\"28\" y2=\"32\" stroke=\"#C06C84\" stroke-width=\"2\" /><line x1=\"36\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#C06C84\" stroke-width=\"2\" /><line x1=\"20\" y1=\"40\" x2=\"28\" y2=\"40\" stroke=\"#C06C84\" stroke-width=\"2\" /><line x1=\"36\" y1=\"40\" x2=\"44\" y2=\"40\" stroke=\"#C06C84\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "חֹדֶשׁ (호데쉬 - 달)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשׁ",
+      "meaning": "셋",
+      "ipa": "ʃəˈloʃ",
+      "korean": "셸로쉬",
+      "letters": "שְׁ(shə) + ל(l) + ֹ(o) + שׁ(sh)",
+      "root": "שָׁלוֹשׁ (샬로쉬)",
+      "grammar": "명사",
+      "emoji": "3️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"three1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#three1)\" opacity=\"0.2\" /><text x=\"50%\" y=\"50%\" font-size=\"32\" font-weight=\"bold\" text-anchor=\"middle\" dy=\".35em\" fill=\"url(#three1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">3</text></svg>",
+      "relatedWords": [
+        "שְׁלִישִׁי (셸리쉬 - 셋째)",
+        "שְׁלֹשִׁים (셸로쉬임 - 삼십)"
+      ]
+    },
+    {
+      "hebrew": "מֵאוֹת",
+      "meaning": "백들 (복수)",
+      "ipa": "meˈot",
+      "korean": "메오트",
+      "letters": "מ(m) + ֵ(e) + א(') + וֹ(o) + ת(t)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundred1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#hundred1)\" opacity=\"0.2\" /><text x=\"50%\" y=\"50%\" font-size=\"18\" font-weight=\"bold\" text-anchor=\"middle\" dy=\".35em\" fill=\"url(#hundred1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">100s</text></svg>",
+      "relatedWords": [
+        "מֵאָה (메아 - 백)",
+        "אֶלֶף (엘레프 - 천)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5:23은 에녹의 생애가 총 365년이었다고 기록합니다. 이 숫자는 매우 의미심장한데, 1년의 날수인 365일과 정확히 일치합니다. 에녹의 생애 연수가 일 년의 날수와 같다는 것은 우연이 아니라, 그의 삶이 하나님과의 완전한 조화 속에서 살았음을 상징적으로 보여줍니다. 또한 에녹은 창세기 5장의 족보에 등장하는 인물들 중 가장 짧은 생애를 살았지만, 그의 삶의 질은 길이보다 훨씬 더 중요했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל יְמֵי חֲנוֹךְ (콜 예메이 하노크) - 에녹의 모든 날들",
+        "description": "'모든 날들'이라는 표현은 에녹의 생애 전체를 의미합니다. 히브리어 '콜(כָּל)'은 '전체, 모든'을 의미하며, 에녹의 삶이 부분이 아닌 전체로서 의미가 있었음을 강조합니다.",
+        "points": [
+          "에녹의 생애 365년은 창세기 5장에 등장하는 인물들 중 가장 짧습니다",
+          "아담(930년), 셋(912년), 므두셀라(969년)와 비교하면 에녹의 생애는 매우 짧았습니다",
+          "그러나 삶의 길이보다 삶의 질이 더 중요함을 보여줍니다",
+          "에녹은 하나님과 동행하는 삶을 살았기에 오래 사는 것보다 더 큰 축복을 받았습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָמֵשׁ וְשִׁשִּׁים שָׁנָה וּשְׁלֹשׁ מֵאוֹת שָׁנָה (하메쉬 베쉬쉬임 샤나 우셸로쉬 메오트 샤나) - 365년",
+        "description": "에녹의 생애 연수 365년은 1년의 날수(365일)와 정확히 일치합니다. 이것은 단순한 우연이 아니라, 하나님께서 에녹의 생애를 완전하고 조화로운 한 해의 순환으로 디자인하셨음을 상징합니다.",
+        "points": [
+          "365년 = 365일, 이것은 완전한 한 해의 순환을 상징합니다",
+          "태양력 1년이 365일인 것처럼, 에녹의 생애도 완전한 한 주기였습니다",
+          "에녹의 생애는 하나님께서 창조하신 시간의 질서와 완벽하게 조화를 이루었습니다",
+          "이것은 에녹이 하나님과 동행하며 하나님의 창조 질서에 순종하며 살았음을 상징합니다",
+          "숫자 365는 에녹의 삶이 일상의 모든 날(every day)을 하나님과 함께 걸었음을 암시합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיְהִי (바예히) - 그리고 되었다",
+        "description": "'바예히(וַיְהִי)'는 '되다, 있다'를 의미하는 히브리어 동사 '하야(הָיָה)'의 미완료 전환형(Wayyiqtol)입니다. 이것은 에녹의 생애가 단순히 시간의 경과가 아니라, 하나님의 계획 안에서 '이루어진' 것임을 나타냅니다.",
+        "points": [
+          "에녹의 생애는 우연이 아니라 하나님의 계획 안에서 이루어졌습니다",
+          "하나님께서 에녹의 생애 연수를 정확히 365년으로 정하신 것은 섭리입니다",
+          "에녹은 하나님이 정하신 때에 태어나고, 정하신 만큼 살았으며, 정하신 방식으로 떠났습니다(5:24)",
+          "우리의 생애도 하나님의 주권 아래 있으며, 그분의 계획 안에서 의미가 있습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에녹은 다른 사람들보다 훨씬 짧게 살았을까요?",
+      "answer": "에녹이 365년을 산 것은 창세기 5장에 나오는 다른 사람들(아담 930년, 므두셀라 969년 등)보다 훨씬 짧은 기간이에요. 하지만 이것은 에녹이 일찍 죽어서가 아니라, 하나님께서 에녹을 데려가셨기 때문이에요(5:24). 에녹의 365년이라는 숫자는 1년의 날수(365일)와 똑같은데, 이것은 에녹의 생애가 완전하고 조화로운 한 주기였음을 보여줍니다. 마치 1년이 봄, 여름, 가을, 겨울을 거쳐 완성되는 것처럼, 에녹의 삶도 하나님과 함께 걸으며 완전하게 완성되었어요. 에녹은 오래 사는 것보다 더 큰 복을 받았어요 - 바로 하나님과 함께 걷고, 죽음을 보지 않고 하나님께로 올라간 것이죠! 시편 90:12는 '우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서'라고 말씀하는데, 에녹은 바로 이것을 실천한 사람이었어요. 삶의 길이보다 삶의 질이 더 중요하다는 것을 에녹의 365년은 우리에게 가르쳐 줍니다.",
+      "bibleReferences": [
+        "시편 90:10 - '우리의 연수가 칠십이요 강건하면 팔십이라도 그 연수의 자랑은 수고와 슬픔뿐이요 신속히 가니 우리가 날아가나이다'",
+        "시편 90:12 - '우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서'",
+        "히브리서 11:5 - '믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니 하나님이 그를 옮기심으로 다시 보이지 아니하였느니라'",
+        "시편 39:4-5 - '여호와여 내가 언제 죽을지를 알게 하사 내 생명의 한계가 어떠함을 알게 하소서'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "에녹의 생애 연수 365년은 단순한 숫자가 아니라 깊은 신학적 의미를 담고 있습니다. 1년의 날수와 같은 이 숫자는 에녹의 삶이 하나님의 창조 질서와 완벽하게 조화를 이루었음을 상징합니다. 에녹은 창세기 5장의 다른 인물들보다 훨씬 짧은 생애를 살았지만, 그의 삶의 질은 누구보다 뛰어났습니다. 이것은 삶의 길이보다 삶의 질이 더 중요하다는 성경의 가르침을 보여줍니다. 에녹의 365년은 매일매일 하나님과 동행하는 삶이 얼마나 소중한지를 우리에게 가르쳐 줍니다. 시편 90:12의 '우리 날 계수함을 가르치사'라는 말씀처럼, 우리도 주어진 날들을 하나님과 함께 걸으며 의미 있게 살아야 합니다. 에녹의 생애는 결국 5:24절에서 절정에 이르는데, 그는 죽음을 보지 않고 하나님께로 옮겨집니다. 이것은 하나님과 동행하는 삶의 궁극적인 보상이 영생이며, 우리도 그리스도 안에서 이 약속을 누릴 수 있음을 예시합니다."
+    }
+  }
+}

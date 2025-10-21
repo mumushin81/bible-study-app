@@ -1,0 +1,170 @@
+{
+  "verse_id": "genesis_7_16",
+  "reference": "창세기 7:16",
+  "hebrew": "וְהַבָּאִ֗ים זָכָ֨ר וּנְקֵבָ֤ה מִכָּל בָּשָׂר֙ בָּ֔אוּ כַּֽאֲשֶׁ֛ר צִוָּ֥ה אֹת֖וֹ אֱלֹהִ֑ים וַיִּסְגֹּ֥ר יְהוָ֖ה בַּֽעֲדֽוֹ",
+  "ipa": "vəhabːaˈʔim zaˈχar unqeˈva mikːol baˈsar baˈʔu kaʔaˈʃɛr tsivːˈa ʔoˈto ʔɛloˈhim vajisˈgor jəhoˈvah baʔaˈdo",
+  "korean_pronunciation": "베하바임 자카르 운케바 미콜 바사르 바우 카아셰르 치바 오토 엘로힘 바이스고르 예호바 바아도",
+  "modern": "들어간 것들은 모든 생물 중에서 수컷과 암컷이었으며, 하나님께서 그에게 명령하신 대로 들어갔습니다. 그리고 여호와께서 그를 위해 문을 닫으셨습니다",
+  "words": [
+    {
+      "hebrew": "הַבָּאִים",
+      "meaning": "들어가는 것들",
+      "ipa": "habːaˈʔim",
+      "korean": "하바임",
+      "letters": "הַ(ha) + בָּ(bːa) + אִים(ʔim)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사",
+      "emoji": "🐾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enter1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(139, 69, 19, 0.1)\" /><ellipse cx=\"22\" cy=\"30\" rx=\"4\" ry=\"6\" fill=\"url(#enter1)\" opacity=\"0.7\" transform=\"rotate(-20 22 30)\" /><ellipse cx=\"28\" cy=\"34\" rx=\"4\" ry=\"6\" fill=\"url(#enter1)\" opacity=\"0.7\" transform=\"rotate(-20 28 34)\" /><ellipse cx=\"36\" cy=\"38\" rx=\"4\" ry=\"6\" fill=\"url(#enter1)\" transform=\"rotate(-20 36 38)\" /><ellipse cx=\"42\" cy=\"42\" rx=\"4\" ry=\"6\" fill=\"url(#enter1)\" transform=\"rotate(-20 42 42)\" /></svg>"
+    },
+    {
+      "hebrew": "זָכָר וּנְקֵבָה",
+      "meaning": "수컷과 암컷",
+      "ipa": "zaˈχar unqeˈva",
+      "korean": "자카르 운케바",
+      "letters": "זָ(za) + כָר(χar) + וּ(u) + נְקֵבָה(nqeva)",
+      "root": "זָכָר (자카르)",
+      "grammar": "명사",
+      "emoji": "♂️♀️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"male1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#357ABD\" /></linearGradient><linearGradient id=\"female1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C06C84\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#male1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"30\" y1=\"22\" x2=\"36\" y2=\"16\" stroke=\"url(#male1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"36\" y1=\"16\" x2=\"36\" y2=\"22\" stroke=\"url(#male1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"36\" y1=\"16\" x2=\"30\" y2=\"16\" stroke=\"url(#male1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#female1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"40\" y1=\"36\" x2=\"40\" y2=\"44\" stroke=\"url(#female1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"36\" y1=\"42\" x2=\"44\" y2=\"42\" stroke=\"url(#female1)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자)",
+        "אִשָּׁה (이샤 - 여자)"
+      ]
+    },
+    {
+      "hebrew": "כַּאֲשֶׁר צִוָּה",
+      "meaning": "명령하신 대로",
+      "ipa": "kaʔaˈʃɛr tsivːˈa",
+      "korean": "카아셰르 치바",
+      "letters": "כַּ(ka) + אֲשֶׁר(ʔaʃɛr) + צִוָּה(tsivːa)",
+      "root": "צ-ו-ה (차바)",
+      "grammar": "동사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"command1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"2\" fill=\"url(#command1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><line x1=\"22\" y1=\"20\" x2=\"42\" y2=\"20\" stroke=\"#8B4513\" stroke-width=\"2\" opacity=\"0.7\" /><line x1=\"22\" y1=\"28\" x2=\"42\" y2=\"28\" stroke=\"#8B4513\" stroke-width=\"2\" opacity=\"0.7\" /><line x1=\"22\" y1=\"36\" x2=\"42\" y2=\"36\" stroke=\"#8B4513\" stroke-width=\"2\" opacity=\"0.7\" /><line x1=\"22\" y1=\"44\" x2=\"35\" y2=\"44\" stroke=\"#8B4513\" stroke-width=\"2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מִצְוָה (미츠바 - 계명)",
+        "צַו (차브 - 명령)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(ʔɛ) + לֹ(lo) + הִים(him)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glory2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory2)\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#god1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#god1)\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "יְהוָה (예호바 - 여호와)",
+        "אֵל (엘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּסְגֹּר",
+      "meaning": "그리고 닫으셨다",
+      "ipa": "vajisˈgor",
+      "korean": "바이스고르",
+      "letters": "וַ(va) + יִּ(ji) + סְגֹּר(sgor)",
+      "root": "ס-ג-ר (사가르)",
+      "grammar": "동사",
+      "emoji": "🔒",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lock1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\" /><rect x=\"20\" y=\"30\" width=\"24\" height=\"20\" rx=\"2\" fill=\"url(#lock1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 26 30 L 26 24 Q 26 18 32 18 Q 38 18 38 24 L 38 30\" stroke=\"url(#lock1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"40\" r=\"3\" fill=\"#FFF8DC\" /><line x1=\"32\" y1=\"43\" x2=\"32\" y2=\"46\" stroke=\"#FFF8DC\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "סָגַר (사가르 - 닫다)",
+        "מִסְגָּר (미스가르 - 감옥)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈvah",
+      "korean": "예호바",
+      "letters": "יְ(jə) + הוָ(ho) + ה(vah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"yhwh2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient><radialGradient id=\"light3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#light3)\" /><path d=\"M 32 16 Q 28 20 24 20 Q 20 20 18 24 Q 18 28 22 30 Q 26 32 28 36 L 32 40 L 36 36 Q 38 32 42 30 Q 46 28 46 24 Q 44 20 40 20 Q 36 20 32 16 Z\" fill=\"url(#yhwh2)\" filter=\"drop-shadow(2px 2px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"30\" cy=\"24\" r=\"1.5\" fill=\"#2C3E50\" /><circle cx=\"34\" cy=\"24\" r=\"1.5\" fill=\"#2C3E50\" /></svg>",
+      "relatedWords": [
+        "אֲדֹנָי (아도나이 - 주님)",
+        "יָהּ (야 - 여호와의 축약형)"
+      ]
+    },
+    {
+      "hebrew": "בַּעֲדוֹ",
+      "meaning": "그를 위하여",
+      "ipa": "baʔaˈdo",
+      "korean": "바아도",
+      "letters": "בַּ(ba) + עֲ(ʔa) + דוֹ(do)",
+      "root": "בְּעַד (베아드)",
+      "grammar": "전치사",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shield1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"100%\" stop-color=\"#808080\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(192, 192, 192, 0.1)\" /><path d=\"M 32 8 Q 48 12 48 28 Q 48 44 32 56 Q 16 44 16 28 Q 16 12 32 8 Z\" fill=\"url(#shield1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 28 32 L 30 36 L 36 26\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 7장 16절은 방주 이야기 중 가장 감동적인 순간 중 하나를 기록합니다. 모든 동물이 하나님의 명령대로 들어간 후, '여호와께서 그를 위해 문을 닫으셨다'는 구절은 하나님의 직접적인 보호와 은혜를 보여줍니다. 이는 단순한 물리적 행동이 아니라 구원의 확증입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "זָכָר וּנְקֵבָה (자카르 운케바) - 수컷과 암컷",
+        "description": "모든 생물이 '수컷과 암컷'으로 들어간 것은 생명의 보존과 재생산을 위한 하나님의 계획입니다. 홍수 후 새로운 시작을 위해 각 종의 생명이 보존되었습니다.",
+        "points": [
+          "하나님은 심판 가운데서도 생명을 보존하십니다",
+          "창조 때의 '종류대로'라는 원리가 유지됩니다",
+          "각 생물의 재생산 능력이 보호되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כַּאֲשֶׁר צִוָּה אֱלֹהִים (카아셰르 치바 엘로힘) - 하나님이 명령하신 대로",
+        "description": "모든 일이 '하나님이 명령하신 대로' 이루어졌습니다. 이는 노아의 순종과 하나님의 주권을 동시에 강조합니다. 동물들조차도 하나님의 명령에 순종했습니다.",
+        "points": [
+          "순종은 구원의 필수 조건입니다",
+          "하나님의 계획은 정확하게 실행됩니다",
+          "피조물 전체가 창조주께 순종합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּסְגֹּר יְהוָה (바이스고르 예호바) - 여호와께서 닫으셨다",
+        "description": "문을 닫은 것은 노아가 아니라 '여호와'이십니다. 이는 심오한 신학적 의미를 담고 있습니다. 하나님께서 직접 문을 닫으심으로써 구원을 확증하시고, 동시에 밖에 있는 자들의 운명을 결정하셨습니다.",
+        "points": [
+          "구원의 문을 닫는 것도 하나님의 주권입니다",
+          "하나님이 닫으신 문은 아무도 열 수 없습니다 (계시록 3:7)",
+          "하나님의 보호는 완전하고 확실합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּעֲדוֹ (바아도) - 그를 위하여",
+        "description": "'그를 위하여'라는 표현은 하나님께서 노아를 보호하기 위해 문을 닫으셨음을 강조합니다. 이는 단순한 물리적 행동이 아니라 사랑과 보호의 행위입니다.",
+        "points": [
+          "하나님은 의인을 직접 보호하십니다",
+          "구원은 하나님의 은혜로운 행동입니다",
+          "방주 안은 절대적으로 안전한 피난처였습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아가 아니라 하나님께서 방주 문을 닫으셨을까요?",
+      "answer": "하나님께서 직접 문을 닫으신 것은 매우 특별한 의미가 있어요. 첫째, 노아와 그 가족이 절대적으로 안전하다는 것을 보여주기 위해서예요. 하나님이 닫으신 문은 아무도 열 수 없으니까요. 둘째, 구원은 우리가 하는 것이 아니라 하나님이 하시는 것임을 보여주기 위해서예요. 마치 부모님이 아기를 안전하게 이불로 덮어주는 것처럼, 하나님께서 노아를 안전하게 지켜주신 거예요!",
+      "bibleReferences": [
+        "요한복음 10:9 - '내가 문이니 누구든지 나로 말미암아 들어가면 구원을 받고'",
+        "계시록 3:7 - '이르시되 거룩하고 진실하사 다윗의 열쇠를 가지신 이 곧 열면 닫을 사람이 없고 닫으면 열 사람이 없는 그가 이르시되'",
+        "이사야 22:22 - '내가 또 다윗의 집의 열쇠를 그의 어깨에 두리니 그가 열면 닫을 자가 없겠고 닫으면 열 자가 없으리라'",
+        "마태복음 25:10 - '그들이 사러 간 사이에 신랑이 오므로 준비하였던 자들은 함께 혼인 잔치에 들어가고 문이 닫힌지라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "여호와께서 직접 문을 닫으신 것은 구원의 확실성과 하나님의 주권을 동시에 보여줍니다. 방주의 문은 은혜의 문이자 심판의 문입니다 - 안에 있는 자들에게는 구원을, 밖에 있는 자들에게는 심판을 의미합니다. 이는 그리스도가 구원의 유일한 문이심을 예표하며, 하나님께서 구원을 시작하시고 완성하심을 보여줍니다. 우리의 구원은 우리 자신의 힘이 아니라 하나님의 은혜로운 보호하심에 달려 있습니다."
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "verse_id": "genesis_7_1",
+  "reference": "창세기 7:1",
+  "hebrew": "וַיֹּ֤אמֶר יְהוָה֙ לְנֹ֔חַ בֹּֽא אַתָּ֥ה וְכָל בֵּיתְךָ֖ אֶל הַתֵּבָ֑ה כִּֽי אֹתְךָ֥ רָאִ֛יתִי צַדִּ֥יק לְפָנַ֖י בַּדּ֥וֹר הַזֶּֽה",
+  "ipa": "vajˈjomɛr jəhoˈvah ləˈnoaχ ˈbo ʔatˈta vəχol beˈteχa ʔɛl hatːeˈva ki ʔotˈχa raˈʔiti tsadˈdik ləfaˈnaj badːˈor hazˈze",
+  "korean_pronunciation": "바요메르 예호바 레노아흐 보 아타 베콜 베테카 엘 하테바 키 오트카 라이티 차디크 레파나이 바도르 하제",
+  "modern": "여호와께서 노아에게 말씀하시기를 '너와 네 온 집안이 방주로 들어가라. 내가 이 세대에서 네가 내 앞에서 의롭다는 것을 보았기 때문이다'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(102, 126, 234, 0.1)\" /><path d=\"M 20 28 Q 16 32 20 36 L 26 36 L 26 28 Z\" fill=\"url(#speak1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"38\" cy=\"28\" r=\"3\" fill=\"url(#speak1)\" opacity=\"0.7\" /><circle cx=\"46\" cy=\"30\" r=\"2.5\" fill=\"url(#speak1)\" opacity=\"0.5\" /><circle cx=\"52\" cy=\"33\" r=\"2\" fill=\"url(#speak1)\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אֹמֶר (오메르 - 말하는)",
+        "אֱמֶת (에메트 - 진리)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈvah",
+      "korean": "예호바",
+      "letters": "יְ(yə) + הוָ(ho) + ה(vah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"yhwh1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glory1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory1)\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#yhwh1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#yhwh1)\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "לְנֹחַ",
+      "meaning": "노아에게",
+      "ipa": "ləˈnoaχ",
+      "korean": "레노아흐",
+      "letters": "לְ(lə) + נֹ(no) + חַ(aχ)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🧔",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"noah1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"robe1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#noah1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 30 L 20 54 L 44 54 L 44 30 Q 44 26 40 26 L 24 26 Q 20 26 20 30 Z\" fill=\"url(#robe1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"18\" width=\"12\" height=\"6\" fill=\"#654321\" rx=\"2\" /><circle cx=\"28\" cy=\"18\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"18\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 23 Q 32 24 36 23\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "בֹּא",
+      "meaning": "들어가라",
+      "ipa": "ˈbo",
+      "korean": "보",
+      "letters": "בֹּ(bo) + א()",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사",
+      "emoji": "🚪",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /></linearGradient></defs><rect x=\"12\" y=\"8\" width=\"28\" height=\"48\" rx=\"2\" fill=\"url(#door1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /><rect x=\"40\" y=\"8\" width=\"12\" height=\"48\" fill=\"url(#light1)\" /><path d=\"M 48 32 L 54 28 L 54 36 Z\" fill=\"#4ECDC4\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "מָבוֹא (마보 - 입구)",
+        "בִּיאָה (비아 - 들어옴)"
+      ]
+    },
+    {
+      "hebrew": "אַתָּה וְכָל בֵּיתְךָ",
+      "meaning": "너와 네 온 집안",
+      "ipa": "ʔatˈta vəχol beˈteχa",
+      "korean": "아타 베콜 베테카",
+      "letters": "אַ(a) + תָּה(tːa) + וְ(və) + כָל(χol) + בֵּ(be) + יתְךָ(teχa)",
+      "root": "בַּיִת (바이트)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"family1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C06C84\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 157, 0.1)\" /><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"44\" r=\"6\" fill=\"rgba(255, 107, 157, 0.7)\" /><circle cx=\"32\" cy=\"44\" r=\"6\" fill=\"rgba(255, 107, 157, 0.7)\" /><circle cx=\"44\" cy=\"44\" r=\"6\" fill=\"rgba(255, 107, 157, 0.7)\" /></svg>"
+    },
+    {
+      "hebrew": "הַתֵּבָה",
+      "meaning": "방주",
+      "ipa": "hatːeˈva",
+      "korean": "하테바",
+      "letters": "הַ(ha) + תֵּ(tːe) + בָה(va)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사",
+      "emoji": "🚢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#357ABD\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"50\" rx=\"28\" ry=\"6\" fill=\"url(#water1)\" opacity=\"0.5\" /><path d=\"M 10 36 L 10 28 L 16 24 L 48 24 L 54 28 L 54 36 L 50 40 L 14 40 Z\" fill=\"url(#ark1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"20\" y=\"28\" width=\"6\" height=\"8\" fill=\"#654321\" /><rect x=\"38\" y=\"28\" width=\"6\" height=\"8\" fill=\"#654321\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"4\" rx=\"2\" fill=\"#A0522D\" /></svg>",
+      "relatedWords": [
+        "תֵּבַת (테바트 - 상자)",
+        "אֲרוֹן (아론 - 궤)"
+      ]
+    },
+    {
+      "hebrew": "צַדִּיק",
+      "meaning": "의로운",
+      "ipa": "tsadˈdik",
+      "korean": "차디크",
+      "letters": "צַ(tsa) + דִּ(dːi) + יק(k)",
+      "root": "צ-ד-ק (차다크)",
+      "grammar": "형용사",
+      "emoji": "⚖️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"righteous1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"24\" fill=\"url(#righteous1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"18\" y=\"36\" width=\"12\" height=\"3\" rx=\"1.5\" fill=\"url(#righteous1)\" /><rect x=\"34\" y=\"36\" width=\"12\" height=\"3\" rx=\"1.5\" fill=\"url(#righteous1)\" /><line x1=\"20\" y1=\"37.5\" x2=\"32\" y2=\"37.5\" stroke=\"#FFA500\" stroke-width=\"1\" /><line x1=\"32\" y1=\"37.5\" x2=\"44\" y2=\"37.5\" stroke=\"#FFA500\" stroke-width=\"1\" /><circle cx=\"24\" cy=\"42\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"40\" cy=\"42\" r=\"3\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "צְדָקָה (체다카 - 의, 자선)",
+        "צֶדֶק (체데크 - 정의)"
+      ]
+    },
+    {
+      "hebrew": "לְפָנַי",
+      "meaning": "내 앞에서",
+      "ipa": "ləfaˈnaj",
+      "korean": "레파나이",
+      "letters": "לְ(lə) + פָ(fa) + נַי(naj)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye1\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#556270\" /></radialGradient><radialGradient id=\"pupil1\"><stop offset=\"0%\" stop-color=\"#2C3E50\" /><stop offset=\"60%\" stop-color=\"#34495E\" /><stop offset=\"100%\" stop-color=\"#2C3E50\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"rgba(78, 205, 196, 0.2)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"12\" fill=\"white\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"10\" ry=\"10\" fill=\"url(#eye1)\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"url(#pupil1)\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"white\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "בַּדּוֹר הַזֶּה",
+      "meaning": "이 세대에서",
+      "ipa": "badːˈor hazˈze",
+      "korean": "바도르 하제",
+      "letters": "בַּ(ba) + דּוֹר(dːor) + הַ(ha) + זֶּה(zːe)",
+      "root": "דּוֹר (도르)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(102, 126, 234, 0.1)\" /><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#gen1)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#gen1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#gen1)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"14\" cy=\"32\" r=\"4\" fill=\"rgba(102, 126, 234, 0.4)\" /><circle cx=\"50\" cy=\"32\" r=\"4\" fill=\"rgba(102, 126, 234, 0.4)\" /></svg>",
+      "relatedWords": [
+        "תּוֹלְדוֹת (톨도트 - 족보)",
+        "יָלַד (얄라드 - 낳다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 7장 1절은 하나님께서 노아를 방주로 부르시는 감동적인 초대입니다. '들어오라'(בֹּא)는 단순한 명령이 아니라 은혜로운 초청이며, 노아의 의로움에 대한 하나님의 인정이 담겨 있습니다. 이는 심판 가운데서도 구원을 준비하시는 하나님의 사랑을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בֹּא (보) - 들어오라는 초대",
+        "description": "히브리어 '보'는 '오다', '들어가다'를 의미하는 동사입니다. 하나님께서 '들어오라'고 하신 것은 단순한 명령이 아니라 안전한 곳으로의 초대입니다. 방주는 심판에서 구원받는 피난처였습니다.",
+        "points": [
+          "하나님께서 먼저 노아를 부르셨습니다 - 구원은 하나님의 주도로 시작됩니다",
+          "'들어오라'는 은혜로운 초청이며 사랑의 표현입니다",
+          "방주는 그리스도 안에 있는 구원의 예표입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "צַדִּיק לְפָנַי (차디크 레파나이) - 내 앞에서 의로운",
+        "description": "'차디크'는 의로운, 정의로운을 의미합니다. 노아가 의롭다는 것은 그 세대의 악한 사람들과 구별되어 하나님과 동행했다는 의미입니다. '내 앞에서'는 하나님께서 직접 보시고 인정하셨음을 강조합니다.",
+        "points": [
+          "노아의 의로움은 행위가 아닌 믿음으로 말미암은 것입니다 (히브리서 11:7)",
+          "한 사람의 의로움이 그 가족 전체를 구원으로 이끌었습니다",
+          "하나님께서 보시기에 의로운 것이 진정한 의입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַתָּה וְכָל בֵּיתְךָ (아타 베콜 베테카) - 너와 네 온 집안",
+        "description": "하나님께서 노아만이 아니라 그의 온 집안을 방주로 부르셨습니다. 이는 한 사람의 믿음이 가족 전체에 영향을 미치는 언약적 구원의 원리를 보여줍니다.",
+        "points": [
+          "가족 단위의 구원은 성경 전체에 나타나는 하나님의 방법입니다",
+          "믿음의 가장은 가족을 영적으로 인도할 책임이 있습니다",
+          "신약에서도 '너와 네 집이 구원을 받으리라'는 약속이 계속됩니다 (사도행전 16:31)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּדּוֹר הַזֶּה (바도르 하제) - 이 세대에서",
+        "description": "'도르'는 세대, 시대를 의미합니다. 노아가 '이 세대에서' 의롭다는 것은 그가 속한 타락한 시대와 대조되는 삶을 살았다는 뜻입니다. 한 세대가 전체적으로 악할 때도 하나님은 의인을 찾으십니다.",
+        "points": [
+          "악한 세대 속에서도 하나님과 동행하는 삶이 가능합니다",
+          "시대의 흐름을 거슬러 하나님의 뜻을 따르는 용기가 필요합니다",
+          "한 사람의 신실함이 역사를 바꿀 수 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 노아만 의롭다고 하셨을까요?",
+      "answer": "노아는 그 시대의 다른 사람들과 달리 하나님을 믿고 순종했어요. 마치 모든 친구들이 나쁜 일을 해도 혼자서 옳은 일을 하는 것처럼, 노아는 모든 사람이 악하게 살 때도 하나님을 따랐답니다. 하나님은 이런 노아를 보시고 '너는 나를 믿고 따르는 의로운 사람이야'라고 인정해주셨어요. 그래서 노아와 그 가족을 방주로 불러 구원해주신 거예요!",
+      "bibleReferences": [
+        "창세기 6:9 - '노아는 의인이요 당대에 완전한 자라 그는 하나님과 동행하였으며'",
+        "히브리서 11:7 - '믿음으로 노아는 아직 보이지 않는 일에 경고하심을 받아 경외함으로 방주를 준비하여 그 집을 구원하였으니'",
+        "에스겔 14:14 - '비록 노아, 다니엘, 욥이 거기에 있을지라도 그들은 자기의 공의로 자기의 생명만 건지리라'",
+        "베드로후서 2:5 - '옛 세상을 용서하지 아니하시고 오직 의를 전파하는 노아와 그 일곱 식구를 보존하시고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님의 '들어오라'는 초대는 심판 가운데 베푸시는 구원의 은혜를 보여줍니다. 노아의 의로움은 행위가 아닌 믿음으로 말미암은 것이며, 이는 그리스도 안에서 의롭다 함을 받는 우리의 구원을 예표합니다. 방주는 그리스도를 상징하며, 우리는 그리스도 '안에' 들어옴으로써 구원을 받습니다. 한 사람의 신실함이 온 가족을 구원으로 이끌 수 있다는 것은 믿음의 영향력과 언약 공동체의 중요성을 보여줍니다."
+    }
+  }
+}

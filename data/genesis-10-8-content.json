@@ -1,0 +1,139 @@
+{
+  "verse_id": "genesis_10_8",
+  "reference": "창세기 10:8",
+  "hebrew": "וְכוּשׁ, יָלַד אֶת-נִמְרֹד; הוּא הֵחֵל, לִהְיוֹת גִּבֹּר בָּאָרֶץ.",
+  "ipa": "vəˈχuʃ jaˈlad ʔɛt nimˈrod hu heˈħel lihˈjot gibˈbor baˈʔarɛts",
+  "korean_pronunciation": "베쿠쉬 야라드 에트 님로드 후 헤헬 리흐요트 기보르 바아레츠",
+  "modern": "구스가 니므롯을 낳았는데, 그는 땅에서 최초로 권력자가 되기 시작한 사람이었습니다",
+  "words": [
+    {
+      "hebrew": "כּוּשׁ",
+      "meaning": "구스 (함의 아들)",
+      "ipa": "χuʃ",
+      "korean": "쿠쉬",
+      "letters": "כּ(k) + וּ(u) + שׁ(sh)",
+      "root": "כּוּשׁ (쿠쉬)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cush1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(139, 69, 19, 0.1)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#cush1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#cush1)\" /><path d=\"M 20 20 L 24 14 L 20 14 Z\" fill=\"#654321\" /><path d=\"M 44 20 L 40 14 L 44 14 Z\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "חָם (함 - 뜨거운)",
+        "אֶתְיוֹפְּיָה (에티오피아 - 구스 지역)"
+      ]
+    },
+    {
+      "hebrew": "נִמְרֹד",
+      "meaning": "니므롯 (반역하다, 반란을 일으키다)",
+      "ipa": "nimˈrod",
+      "korean": "님로드",
+      "letters": "נִ(ni) + מְ(m) + רֹ(ro) + ד(d)",
+      "root": "מ-ר-ד (마라드)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nimrod1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><radialGradient id=\"power1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(139, 0, 0, 0.2)\" /><path d=\"M 12 48 L 16 32 L 22 36 L 32 24 L 42 36 L 48 32 L 52 48 Z\" fill=\"url(#nimrod1)\" stroke=\"#8B0000\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"8\" fill=\"url(#power1)\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"#C41E3A\" filter=\"drop-shadow(0 0 6px rgba(196, 30, 58, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#C41E3A\" filter=\"drop-shadow(0 0 6px rgba(196, 30, 58, 0.8))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"#C41E3A\" filter=\"drop-shadow(0 0 6px rgba(196, 30, 58, 0.8))\" /></svg>",
+      "relatedWords": [
+        "מָרַד (마라드 - 반역하다, 배반하다)",
+        "מֶרֶד (메레드 - 반역, 반란)"
+      ]
+    },
+    {
+      "hebrew": "הֵחֵל",
+      "meaning": "시작하다 (최초로 ~하기 시작하다)",
+      "ipa": "heˈħel",
+      "korean": "헤헬",
+      "letters": "הֵ(he) + חֵ(ħe) + ל(l)",
+      "root": "ח-ל-ל (할랄)",
+      "grammar": "동사",
+      "emoji": "🎬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"begin1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#64DD17\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(0, 200, 83, 0.1)\" /><path d=\"M 24 16 L 24 48 L 48 32 Z\" fill=\"url(#begin1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"12\" cy=\"32\" r=\"6\" fill=\"#00C853\" opacity=\"0.6\" /><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"#64DD17\" filter=\"drop-shadow(0 0 8px rgba(100, 221, 23, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "גִּבֹּר",
+      "meaning": "권력자, 용사, 강한 자",
+      "ipa": "gibˈbor",
+      "korean": "기보르",
+      "letters": "גִּ(gi) + בֹּ(bo) + ר(r)",
+      "root": "ג-ב-ר (가바르)",
+      "grammar": "명사",
+      "emoji": "💪",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"might1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient><radialGradient id=\"glow4\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 53, 0.15)\" /><ellipse cx=\"24\" cy=\"32\" rx=\"8\" ry=\"14\" fill=\"url(#might1)\" transform=\"rotate(-15 24 32)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"40\" cy=\"32\" rx=\"8\" ry=\"14\" fill=\"url(#might1)\" transform=\"rotate(15 40 32)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#glow4)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><ellipse cx=\"32\" cy=\"42\" rx=\"10\" ry=\"12\" fill=\"url(#might1)\" /></svg>",
+      "relatedWords": [
+        "גָּבַר (가바르 - 강하다, 이기다)",
+        "גְּבוּרָה (게부라 - 권능, 용기)"
+      ]
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "meaning": "땅에서, 세상에서",
+      "ipa": "baˈʔarɛts",
+      "korean": "바아레츠",
+      "letters": "בָּ(ba) + אָ(ʔa) + רֶ(re) + ץ(ts)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"#A0522D\" opacity=\"0.6\" /><ellipse cx=\"44\" cy=\"36\" rx=\"10\" ry=\"12\" fill=\"#A0522D\" opacity=\"0.5\" /><path d=\"M 12 42 Q 20 38 28 42\" fill=\"#8B4513\" opacity=\"0.4\" /><circle cx=\"22\" cy=\"20\" r=\"8\" fill=\"rgba(255, 255, 255, 0.2)\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장 8절은 성경에서 가장 논란이 많은 인물 중 하나인 니므롯을 소개합니다. 그의 이름 자체가 '반역하다'(마라드)에서 유래했으며, 그는 '땅에서 최초의 권력자(기보르)'가 되었습니다. 니므롯은 대홍수 이후 하나님께 대항하는 인간 제국의 원형이며, 바벨탑 건설의 배후 인물로 여겨집니다. 그는 신적 권위에 도전하고 인간 중심의 통합 제국을 건설하려 한 최초의 독재자입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "נִמְרֹד (님로드) - 반역자, 최초의 독재자",
+        "description": "니므롯의 이름은 히브리어 동사 '마라드'(반역하다)에서 파생되었습니다. 이는 단순한 우연이 아니라 그의 본질을 드러냅니다. 그는 하나님의 명령('흩어져 땅에 충만하라')을 거부하고, 오히려 바벨에서 인류를 강제로 통합하려 했습니다. 고대 유대 전승(미드라쉬)에 따르면 니므롯은 하늘을 향해 화살을 쏘아 하나님께 도전했다고 합니다.",
+        "points": [
+          "최초의 전제 군주 - 하나님이 아닌 인간이 지배하는 체제",
+          "바벨탑 건설의 배후 인물로 추정됨",
+          "신적 권위에 대한 인간의 반역을 상징하는 인물"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הֵחֵל לִהְיוֹת גִּבֹּר (헤헬 리흐요트 기보르) - 최초로 권력자가 되다",
+        "description": "'헤헬'(시작하다)은 니므롯이 새로운 종류의 인물, 즉 무력과 정복으로 다른 사람들을 지배하는 최초의 인간임을 강조합니다. '기보르'는 단순한 힘이 아니라 전쟁과 정복의 능력을 의미합니다. 대홍수 이전에는 가인의 후손들이 문명을 건설했지만, 홍수 이후 니므롯은 '권력에 의한 지배'라는 새로운 패러다임을 열었습니다.",
+        "points": [
+          "대홍수 이후 최초의 제국주의자",
+          "무력과 정복을 통한 지배 체제의 창시자",
+          "하나님의 권위 대신 인간의 권력을 세우려 함"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּאָרֶץ (바아레츠) - 땅에서, 하나님 없이",
+        "description": "'바아레츠'(땅에서)는 단순한 장소가 아니라 신학적 의미를 지닙니다. 이는 '하나님 앞에서'(리프네 예호와)와 대조되는 표현으로, 니므롯의 권력이 하나님의 권위 밖에서, 하나님 없이 행사되었음을 암시합니다. 그는 하늘의 통치를 거부하고 땅의 왕국을 세우려 했습니다.",
+        "points": [
+          "하나님의 권위 밖에서 행사되는 인간의 권력",
+          "천상의 질서 대신 지상의 제국을 추구함",
+          "메시아 왕국과 대조되는 반그리스도적 왕국의 원형"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "니므롯과 바벨탑 - 인간 교만의 절정",
+        "description": "창세기 10장과 11장의 문맥을 볼 때, 니므롯은 바벨탑 건설의 주동자로 추정됩니다. 그는 '하늘에 닿는 탑'을 세워 인류를 한곳에 모으고, 하나님의 '흩어지라'는 명령을 거역했습니다. 이는 인간이 하나님 없이도 통합과 안전을 이룰 수 있다는 교만의 표현입니다.",
+        "points": [
+          "바벨탑 - 하나님 없는 인간 통합의 시도",
+          "하늘을 향한 인간의 도전",
+          "언어 혼잡과 민족 분산은 이에 대한 하나님의 심판"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 니므롯은 나쁜 사람이었을까요? 강하고 용감한 것이 잘못인가요?",
+      "answer": "니므롯이 나쁜 이유는 강해서가 아니라, 그 힘을 하나님께 대항하는 데 사용했기 때문이에요. 하나님은 사람들에게 '세상에 흩어져서 살라'고 말씀하셨는데, 니므롯은 '아니야! 모두 내 말을 들어! 우리가 큰 성을 쌓고 한곳에 모여 살자!'라고 했어요. 그리고 하나님보다 자기가 더 높다고 생각했죠. 힘이 있는 것은 좋지만, 그 힘을 하나님께 불순종하는 데 쓰면 안 돼요. 진짜 용기는 하나님 말씀에 순종하는 거예요!",
+      "bibleReferences": [
+        "창세기 11:4 - '그들이 이르되 자, 성읍과 탑을 건설하여 그 탑 꼭대기를 하늘에 닿게 하여 우리 이름을 내고 온 지면에 흩어짐을 면하자 하였더니'",
+        "미가 5:6 - '그들이 칼로 앗수르 땅을 다스릴 것이요 니므롯 땅의 어귀를 칼날로 다스릴 것이라'",
+        "잠언 16:18 - '교만은 패망의 선봉이요 거만한 마음은 넘어짐의 앞잡이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯은 성경 전체를 관통하는 '두 왕국의 충돌' 주제를 여는 인물입니다. 하나님 나라 대 인간 제국, 하늘의 왕 대 땅의 독재자, 겸손한 순종 대 교만한 반역의 대립이 그에게서 시작됩니다. 그는 바벨론 제국의 창시자로서, 성경이 종말까지 싸우는 '바벨론 체제'의 원형입니다(계 17-18장). 반면 예수 그리스도는 참된 왕, 겸손히 순종하신 '두 번째 아담'으로서 니므롯의 반역을 뒤집으십니다. 니므롯이 높은 탑을 쌓아 하늘에 닿으려 했다면, 그리스도는 하늘에서 낮아지셔서 땅까지 내려오셨습니다(빌 2:6-8). 최종적으로 그리스도의 왕국이 모든 인간 제국을 대체할 것입니다."
+    }
+  }
+}

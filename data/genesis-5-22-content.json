@@ -1,0 +1,244 @@
+{
+  "verse_id": "genesis_5_22",
+  "reference": "창세기 5:22",
+  "hebrew": "וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת",
+  "ipa": "vajithaˈleχ χaˈnoχ et haʔeloˈhim aχaˈre holiˈdo et mətuˈʃelaχ ʃəˈloʃ meˈot ʃaˈna vaˈjoled baˈnim uvaˈnot",
+  "korean_pronunciation": "바이트할레크 하노크 에트 하엘로힘 아하레이 홀리도 에트 므투셸라흐 셸로쉬 메오트 샤나 바요레드 바님 우바노트",
+  "modern": "에녹은 므두셀라를 낳은 후 삼백 년 동안 하나님과 동행하며 아들들과 딸들을 낳았습니다.",
+  "words": [
+    {
+      "hebrew": "וַיִּתְהַלֵּךְ",
+      "meaning": "그리고 그가 걷다, 동행하다",
+      "ipa": "vajithaˈleχ",
+      "korean": "바이트할레크",
+      "letters": "ו(v) + ַ(a) + יִּ(yi) + ת(t) + ְ(h) + ַ(a) + ל(l) + ֵּ(e) + ךְ(kh)",
+      "root": "הָלַךְ (할라크)",
+      "grammar": "동사 히트파엘 미완료 3인칭 남성 단수 + 접속 바브",
+      "emoji": "🚶",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M13.5 5.5c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM9.8 8.9L7 23h2.1l1.8-8 2.1 2v6h2v-7.5l-2.1-2 .6-3C14.8 12 16.8 13 19 13v-2c-1.9 0-3.5-1-4.3-2.4l-1-1.6c-.4-.6-1-1-1.7-1-.3 0-.5.1-.8.1L6 8.3V13h2V9.6l1.8-.7z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "דֶּרֶךְ", "meaning": "길"},
+        {"hebrew": "הָלִיכָה", "meaning": "걷기"}
+      ]
+    },
+    {
+      "hebrew": "חֲנוֹךְ",
+      "meaning": "에녹",
+      "ipa": "χaˈnoχ",
+      "korean": "하노크",
+      "letters": "ח(kh) + ֲ(a) + נ(n) + וֹ(o) + ךְ(kh)",
+      "root": "חָנַךְ (하나크)",
+      "grammar": "명사 남성 단수 고유명사",
+      "emoji": "👨‍🦳",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='12' cy='6' r='4' fill='currentColor'/><path d='M12 11c-4 0-6 2-6 4v5h12v-5c0-2-2-4-6-4z' fill='currentColor'/><path d='M18 8l-2 2 2 2' stroke='currentColor' fill='none'/></svg>",
+      "relatedWords": [
+        {"hebrew": "חִנּוּךְ", "meaning": "교육, 헌신"},
+        {"hebrew": "חָנַךְ", "meaning": "헌신하다, 교육하다"}
+      ]
+    },
+    {
+      "hebrew": "אֶת",
+      "meaning": "~와 함께",
+      "ipa": "et",
+      "korean": "에트",
+      "letters": "א(') + ֶ(e) + ת(t)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사 (함께)",
+      "emoji": "🤝",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M11 17h2v-1h1c.55 0 1-.45 1-1v-3c0-.55-.45-1-1-1h-3v-1h4V8h-2V7h-2v1h-1c-.55 0-1 .45-1 1v3c0 .55.45 1 1 1h3v1H9v2h2v1z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "עִם", "meaning": "~와 함께"},
+        {"hebrew": "אוֹתוֹ", "meaning": "그를"}
+      ]
+    },
+    {
+      "hebrew": "הָאֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "haʔeloˈhim",
+      "korean": "하엘로힘",
+      "letters": "ה(h) + ָ(a) + א(') + ֱ(e) + ל(l) + ֹ(o) + ה(h) + ִ(i) + ם(m)",
+      "root": "אֱלֹהִים (엘로힘)",
+      "grammar": "명사 남성 복수 + 정관사",
+      "emoji": "✝️",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 2l2 7h7l-5.5 4 2 7L12 16l-5.5 4 2-7-5.5-4h7z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "אֵל", "meaning": "신"},
+        {"hebrew": "אֱלוֹהַּ", "meaning": "하나님"}
+      ]
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "meaning": "~후에",
+      "ipa": "aχaˈre",
+      "korean": "아하레이",
+      "letters": "א(') + ַ(a) + ח(kh) + ֲ(a) + ר(r) + ֵ(e) + י(y)",
+      "root": "אַחַר (아하르)",
+      "grammar": "전치사",
+      "emoji": "➡️",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "אַחַר", "meaning": "뒤, 후"},
+        {"hebrew": "אַחֲרוֹן", "meaning": "마지막"}
+      ]
+    },
+    {
+      "hebrew": "הוֹלִידוֹ",
+      "meaning": "그가 낳다",
+      "ipa": "holiˈdo",
+      "korean": "홀리도",
+      "letters": "ה(h) + וֹ(o) + ל(l) + ִ(i) + יד(yd) + וֹ(o)",
+      "root": "יָלַד (얄라드)",
+      "grammar": "동사 히필 부정사 구성형 + 접미사 3인칭 남성 단수",
+      "emoji": "👶",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='12' cy='12' r='4' fill='currentColor'/><path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "יֶלֶד", "meaning": "아이"},
+        {"hebrew": "תּוֹלְדוֹת", "meaning": "세대"}
+      ]
+    },
+    {
+      "hebrew": "מְתוּשֶׁלַח",
+      "meaning": "므두셀라",
+      "ipa": "mətuˈʃelaχ",
+      "korean": "므투셸라흐",
+      "letters": "מ(m) + ְ(e) + ת(t) + וּ(u) + שֶׁ(she) + ל(l) + ַ(a) + ח(kh)",
+      "root": "מְתוּשֶׁלַח (므투셸라흐)",
+      "grammar": "명사 남성 단수 고유명사",
+      "emoji": "👴",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='12' cy='6' r='4' fill='currentColor'/><path d='M12 11c-4 0-6 2-6 4v5h12v-5c0-2-2-4-6-4z' fill='currentColor'/><rect x='14' y='3' width='2' height='8' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "מוּת", "meaning": "죽다"},
+        {"hebrew": "שֶׁלַח", "meaning": "보내다"}
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשׁ",
+      "meaning": "셋",
+      "ipa": "ʃəˈloʃ",
+      "korean": "셸로쉬",
+      "letters": "שׁ(sh) + ְ(e) + ל(l) + ֹ(o) + שׁ(sh)",
+      "root": "שָׁלוֹשׁ (샬로쉬)",
+      "grammar": "수사 여성 단수",
+      "emoji": "3️⃣",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><text x='50%' y='50%' font-size='20' text-anchor='middle' dy='.3em' fill='currentColor'>3</text></svg>",
+      "relatedWords": [
+        {"hebrew": "שְׁלִישִׁי", "meaning": "셋째"},
+        {"hebrew": "שְׁלֹשִׁים", "meaning": "삼십"}
+      ]
+    },
+    {
+      "hebrew": "מֵאוֹת",
+      "meaning": "백들 (복수)",
+      "ipa": "meˈot",
+      "korean": "메오트",
+      "letters": "מ(m) + ֵ(e) + א(') + וֹ(o) + ת(t)",
+      "root": "מֵאָה (메아)",
+      "grammar": "수사 여성 복수",
+      "emoji": "💯",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><text x='50%' y='50%' font-size='12' text-anchor='middle' dy='.3em' fill='currentColor'>100s</text></svg>",
+      "relatedWords": [
+        {"hebrew": "מֵאָה", "meaning": "백"},
+        {"hebrew": "אֶלֶף", "meaning": "천"}
+      ]
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "해, 년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נ(n) + ָ(a) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사 여성 단수",
+      "emoji": "📅",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><path d='M19 3h-1V1h-2v2H8V1H6v2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm0 16H5V8h14v11z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "יוֹם", "meaning": "날"},
+        {"hebrew": "חֹדֶשׁ", "meaning": "달"}
+      ]
+    },
+    {
+      "hebrew": "בָּנִים",
+      "meaning": "아들들",
+      "ipa": "baˈnim",
+      "korean": "바님",
+      "letters": "בָּ(ba) + נ(n) + ִ(i) + ים(ym)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사 남성 복수",
+      "emoji": "👦👦",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='8' cy='8' r='3' fill='currentColor'/><circle cx='16' cy='8' r='3' fill='currentColor'/><path d='M8 12c-3 0-5 2-5 4v2h10v-2c0-2-2-4-5-4zM16 12c-3 0-5 2-5 4v2h10v-2c0-2-2-4-5-4z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "בֵּן", "meaning": "아들"},
+        {"hebrew": "בָּנוֹת", "meaning": "딸들"}
+      ]
+    },
+    {
+      "hebrew": "בָּנוֹת",
+      "meaning": "딸들",
+      "ipa": "baˈnot",
+      "korean": "바노트",
+      "letters": "בָּ(ba) + נ(n) + וֹ(o) + ת(t)",
+      "root": "בַּת (바트)",
+      "grammar": "명사 여성 복수",
+      "emoji": "👧👧",
+      "iconSvg": "<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'><circle cx='8' cy='8' r='3' fill='currentColor'/><circle cx='16' cy='8' r='3' fill='currentColor'/><path d='M8 12c-3 0-5 2-5 4v2h10v-2c0-2-2-4-5-4zM16 12c-3 0-5 2-5 4v2h10v-2c0-2-2-4-5-4z' fill='currentColor'/></svg>",
+      "relatedWords": [
+        {"hebrew": "בַּת", "meaning": "딸"},
+        {"hebrew": "בָּנִים", "meaning": "아들들"}
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5:22는 에녹이 므두셀라를 낳은 후 300년 동안 '하나님과 동행했다'는 놀라운 사실을 기록합니다. '동행하다(הִתְהַלֵּךְ, 히트할레크)'는 히브리어 동사는 단순히 함께 걷는 것 이상의 의미로, 지속적이고 친밀한 교제를 나타냅니다. 에녹은 가족 생활(자녀를 낳는 것)과 영적 생활(하나님과 동행)을 조화롭게 병행한 경건한 삶의 모델입니다.",
+    "sections": [
+      {
+        "emoji": "🚶✝️",
+        "title": "וַיִּתְהַלֵּךְ אֶת הָאֱלֹהִים (바이트할레크 에트 하엘로힘) - 하나님과 동행하다",
+        "description": "'동행하다'는 히브리어 '히트할레크(הִתְהַלֵּךְ)'는 히트파엘 형태로, 습관적이고 지속적인 행동을 나타냅니다. 이것은 하나님과의 친밀하고 지속적인 관계를 의미합니다.",
+        "points": [
+          "'הִתְהַלֵּךְ(히트할레크)'는 '걷다(הָלַךְ)'의 히트파엘 형태로, 반복적이고 습관적인 행동을 강조합니다",
+          "창세기에서 '하나님과 동행하다'는 표현은 에녹(5:22, 24)과 노아(6:9)에게만 사용됩니다",
+          "이것은 단순히 종교적 의식을 지키는 것이 아니라, 하나님과의 지속적이고 친밀한 교제를 의미합니다",
+          "미가 6:8은 '하나님과 겸손히 동행하는 것'을 하나님께서 요구하시는 핵심 덕목으로 제시합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "👶📅",
+        "title": "אַחֲרֵי הוֹלִידוֹ אֶת מְתוּשֶׁלַח (아하레이 홀리도 에트 므투셸라흐) - 므두셀라를 낳은 후",
+        "description": "에녹이 므두셀라를 낳은 '후'에 하나님과 동행하기 시작했다는 표현은, 아버지가 되는 경험이 그의 영적 여정에 중요한 전환점이 되었음을 시사합니다.",
+        "points": [
+          "므두셀라의 이름은 '그가 죽으면 그것이 보내질 것이다'는 의미로, 홍수 심판을 예언합니다",
+          "실제로 므두셀라는 성경에 기록된 가장 오래 산 사람(969세)이며, 그가 죽은 해에 홍수가 발생했습니다",
+          "에녹이 므두셀라의 이름을 통해 받은 하나님의 계시가 그로 하여금 더욱 하나님과 가까이 동행하게 만들었을 가능성이 있습니다",
+          "자녀의 출생이 부모의 영적 각성의 계기가 될 수 있음을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "💯📆",
+        "title": "שְׁלֹשׁ מֵאוֹת שָׁנָה (셸로쉬 메오트 샤나) - 300년 동안",
+        "description": "에녹이 하나님과 동행한 기간은 300년이었습니다. 이것은 순간적인 경험이 아니라 평생에 걸친 지속적인 관계였음을 보여줍니다.",
+        "points": [
+          "300년은 에녹의 전체 생애(365년) 중 대부분을 차지하는 긴 기간입니다",
+          "이것은 에녹의 신앙이 일시적인 열정이 아니라 지속적인 헌신이었음을 보여줍니다",
+          "에녹은 이 300년 동안 자녀들을 낳고 가족을 돌보며 일상적인 삶을 살았지만, 동시에 하나님과의 친밀한 관계를 유지했습니다",
+          "이것은 영적 생활과 일상생활이 분리되지 않고 조화롭게 통합될 수 있음을 보여줍니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에녹은 므두셀라를 낳은 '후'에 하나님과 동행하기 시작했을까요?",
+      "answer": "에녹이 므두셀라를 낳은 '후'에 하나님과 동행하기 시작했다는 것은, 므두셀라의 출생과 이름이 에녹의 영적 여정에 결정적인 전환점이 되었음을 시사합니다. 므두셀라라는 이름은 '그가 죽으면 그것이 보내질 것이다'는 의미로, 하나님께서 에녹에게 미래의 심판(홍수)에 대한 계시를 주셨음을 암시합니다. 이 예언적 계시는 에녹으로 하여금 세상의 일시적인 것보다 영원한 하나님과의 관계에 집중하게 만들었을 것입니다. 또한 아버지가 되는 경험 자체가 에녹에게 하나님의 사랑과 책임감에 대한 새로운 이해를 주었을 수 있습니다. 유다서 14-15절은 에녹이 '불경건한 자들의 심판'을 예언했다고 기록하며, 히브리서 11:5는 에녹이 '하나님을 기쁘시게 하는 자'라고 증거합니다. 에녹의 이야기는 자녀 양육과 같은 일상적인 경험이 하나님과 더 깊은 관계로 나아가는 계기가 될 수 있음을 보여줍니다.",
+      "bibleReferences": [
+        "창세기 6:9 - \"노아는 의인이요 당대에 완전한 자라 그는 하나님과 동행하였으며\"",
+        "히브리서 11:5 - \"믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니 하나님이 그를 옮기심으로 다시 보이지 아니하였느니라 그는 옮겨지기 전에 하나님을 기쁘시게 하는 자라 하는 증거를 받았느니라\"",
+        "미가 6:8 - \"여호와께서 네게 구하시는 것은 오직 정의를 행하며 인자를 사랑하며 겸손하게 네 하나님과 함께 행하는 것이 아니냐\""
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5:22는 에녹이 하나님과 동행한 삶을 통해 경건한 삶의 본질을 보여줍니다. 에녹의 '동행'은 단순히 종교적 의식을 지키는 것이 아니라, 하나님과의 지속적이고 친밀한 관계를 의미합니다. 특별히 에녹은 므두셀라를 낳은 후 300년 동안 자녀들을 낳고 가족을 돌보는 일상적인 삶 속에서 하나님과 동행했는데, 이것은 영적 생활과 일상생활이 분리되지 않음을 보여줍니다. 므두셀라의 이름에 담긴 심판의 예언은 에녹으로 하여금 세상의 일시적인 것이 아니라 영원한 하나님께 집중하게 만들었습니다. 에녹의 동행은 노아와 아브라함으로 이어지며, 궁극적으로 '하나님이 사람과 함께 거하심'(요한계시록 21:3)이라는 구속사의 목표를 예시합니다. 에녹의 삶은 우리에게 일상 속에서 하나님과 지속적으로 동행하며, 하나님을 기쁘시게 하는 삶을 살도록 도전합니다."
+    }
+  }
+}

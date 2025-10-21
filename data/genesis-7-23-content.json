@@ -1,0 +1,166 @@
+{
+  "verse_id": "genesis_7_23",
+  "reference": "창세기 7:23",
+  "hebrew": "וַיִּ֜מַח אֶֽת כָּל הַיְק֣וּם אֲשֶׁ֣ר עַל פְּנֵ֣י הָֽאֲדָמָ֗ה מֵאָדָ֤ם עַד בְּהֵמָה֙ עַד רֶ֨מֶשׂ֙ וְעַד ע֣וֹף הַשָּׁמַ֔יִם וַיִּמָּח֖וּ מִן הָאָ֑רֶץ וַיִשָּׁ֧אֶר אַךְ נֹ֛חַ וַֽאֲשֶׁ֥ר אִתּ֖וֹ בַּתֵּבָֽה",
+  "ipa": "vajˈimaχ ʔɛt kol hajəˈqum ʔaˈʃɛr ʔal pəˈne haʔadaˈma meʔaˈdam ʔad bəheˈma ʔad ˈrɛmɛʃ vəʔad ˈʔof haʃːaˈmajim vajiːmaˈχu min haˈʔarɛts vajiʃːaˈʔɛr ʔaχ ˈnoaχ vaʔaˈʃɛr ʔitːˈo batːeˈva",
+  "korean_pronunciation": "바이마흐 에트 콜 하예쿰 아셰르 알 페네 하아다마 메아담 아드 베헤마 아드 레메쉬 베아드 오프 하샤마임 바이마후 민 하아레츠 바이샤에르 아크 노아흐 바아셰르 이토 바테바",
+  "modern": "땅 위에 있던 모든 생물, 사람부터 가축과 기는 것과 공중의 새까지 다 쓸려 나가서 땅에서 지워졌습니다. 오직 노아와 그와 함께 방주에 있던 자들만 남았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּמַח",
+      "meaning": "그리고 지우셨다, 쓸어버리셨다",
+      "ipa": "vajˈimaχ",
+      "korean": "바이마흐",
+      "letters": "וַ(va) + יִּ(ji) + מַח(maχ)",
+      "root": "מ-ח-ה (마하)",
+      "grammar": "동사",
+      "emoji": "🧹",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"erase1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#B0B0B0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(224, 224, 224, 0.2)\" /><rect x=\"16\" y=\"36\" width=\"32\" height=\"8\" rx=\"2\" fill=\"url(#erase1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"12\" y1=\"20\" x2=\"48\" y2=\"28\" stroke=\"#C0C0C0\" stroke-width=\"4\" opacity=\"0.5\" /><line x1=\"12\" y1=\"26\" x2=\"48\" y2=\"34\" stroke=\"#C0C0C0\" stroke-width=\"4\" opacity=\"0.3\" /><circle cx=\"16\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.4\" /><circle cx=\"40\" cy=\"40\" r=\"2\" fill=\"#808080\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "מָחָה (마하 - 지우다)",
+        "מְחִיקָה (메히카 - 소멸)"
+      ]
+    },
+    {
+      "hebrew": "כָּל הַיְקוּם",
+      "meaning": "모든 존재, 모든 생물",
+      "ipa": "kol hajəˈqum",
+      "korean": "콜 하예쿰",
+      "letters": "כָּל(kol) + הַ(ha) + יְקוּם(jəqum)",
+      "root": "ק-ו-ם (쿰)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#2E5C8A\" /></linearGradient><radialGradient id=\"life1\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 20 28 Q 24 24 28 28 Q 32 32 28 36 Q 24 40 20 36 Z\" fill=\"url(#life1)\" opacity=\"0.8\" /><path d=\"M 36 20 Q 40 16 44 20 Q 48 24 44 28 Z\" fill=\"url(#life1)\" opacity=\"0.8\" /><circle cx=\"22\" cy=\"42\" r=\"4\" fill=\"url(#life1)\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "מֵאָדָם עַד בְּהֵמָה",
+      "meaning": "사람부터 짐승까지",
+      "ipa": "meʔaˈdam ʔad bəheˈma",
+      "korean": "메아담 아드 베헤마",
+      "letters": "מֵ(me) + אָדָם(ʔadam) + עַד(ʔad) + בְּהֵמָה(bəhema)",
+      "root": "אָדָם (아담)",
+      "grammar": "명사",
+      "emoji": "👤🐄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"human1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient><linearGradient id=\"animal1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient></defs><circle cx=\"22\" cy=\"22\" r=\"6\" fill=\"url(#human1)\" /><ellipse cx=\"22\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#human1)\" /><ellipse cx=\"42\" cy=\"36\" rx=\"10\" ry=\"8\" fill=\"url(#animal1)\" /><circle cx=\"42\" cy=\"24\" r=\"6\" fill=\"url(#animal1)\" /><rect x=\"48\" y=\"22\" width=\"6\" height=\"3\" rx=\"1\" fill=\"url(#animal1)\" /></svg>"
+    },
+    {
+      "hebrew": "וַיִּמָּחוּ",
+      "meaning": "그리고 지워졌다",
+      "ipa": "vajiːmaˈχu",
+      "korean": "바이마후",
+      "letters": "וַ(va) + יִּ(ji) + מָּחוּ(maχu)",
+      "root": "מ-ח-ה (마하)",
+      "grammar": "동사",
+      "emoji": "❌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gone1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 107, 0.1)\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#gone1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"48\" y1=\"16\" x2=\"16\" y2=\"48\" stroke=\"url(#gone1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+    },
+    {
+      "hebrew": "וַיִּשָּׁאֶר",
+      "meaning": "그리고 남았다",
+      "ipa": "vajiʃːaˈʔɛr",
+      "korean": "바이샤에르",
+      "letters": "וַ(va) + יִּ(ji) + שָּׁאֶר(ʃːaʔɛr)",
+      "root": "שׁ-א-ר (샤아르)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"remain1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.2)\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#remain1)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.8))\" /><g opacity=\"0.6\"><circle cx=\"20\" cy=\"20\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"44\" cy=\"20\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"20\" cy=\"44\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"44\" cy=\"44\" r=\"2\" fill=\"#FFD700\" /></g></svg>",
+      "relatedWords": [
+        "שְׁאָר (셰아르 - 남은 자)",
+        "שְׁאֵרִית (셰에리트 - 남은 무리)"
+      ]
+    },
+    {
+      "hebrew": "אַךְ נֹחַ",
+      "meaning": "오직 노아만",
+      "ipa": "ʔaχ ˈnoaχ",
+      "korean": "아크 노아흐",
+      "letters": "אַךְ(ʔaχ) + נֹחַ(noaχ)",
+      "root": "נֹחַ (노아흐)",
+      "grammar": "명사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"chosen1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"person2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#chosen1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"url(#person2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"40\" rx=\"10\" ry=\"14\" fill=\"url(#person2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 34 16 L 38 16 L 35 19 L 36 23 L 32 20 L 28 23 L 29 19 L 26 16 L 30 16 Z\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "נ-ו-ח (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "בַּתֵּבָה",
+      "meaning": "방주 안에",
+      "ipa": "batːeˈva",
+      "korean": "바테바",
+      "letters": "בַּ(ba) + תֵּבָה(tːeva)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사",
+      "emoji": "🚢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"water3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#2E5C8A\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"30\" ry=\"8\" fill=\"url(#water3)\" opacity=\"0.5\" /><path d=\"M 8 36 L 8 28 L 14 24 L 50 24 L 56 28 L 56 36 L 52 40 L 12 40 Z\" fill=\"url(#ark2)\" filter=\"drop-shadow(4px 4px 10px rgba(0, 0, 0, 0.5))\" /><rect x=\"18\" y=\"28\" width=\"6\" height=\"8\" fill=\"#654321\" /><rect x=\"40\" y=\"28\" width=\"6\" height=\"8\" fill=\"#654321\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"4\" rx=\"2\" fill=\"#A0522D\" /><ellipse cx=\"32\" cy=\"33\" rx=\"14\" ry=\"6\" fill=\"rgba(255, 215, 0, 0.3)\" /></svg>",
+      "relatedWords": [
+        "אֲרוֹן (아론 - 궤)",
+        "סְפִינָה (스피나 - 배)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 7장 23절은 대홍수의 철저함과 노아 구원의 유일성을 극명하게 대조시킵니다. '지워졌다'(וַיִּמַח)는 표현이 반복되어 심판의 완전함을 강조하고, '오직 노아만'(אַךְ נֹחַ)이라는 구절은 은혜의 배타성을 보여줍니다. 이는 구원의 유일성과 심판의 보편성을 동시에 드러내는 구절입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּמַח...וַיִּמָּחוּ (바이마흐...바이마후) - 지우셨다...지워졌다",
+        "description": "'마하'는 '지우다', '소멸시키다'를 의미하는 강력한 동사입니다. 이 단어가 두 번 반복되어 심판의 철저함을 강조합니다. 하나님께서 지우시면 완전히 사라집니다.",
+        "points": [
+          "하나님의 심판은 부분적이 아니라 완전합니다",
+          "죄에 대한 대가는 철저한 소멸입니다",
+          "그러나 하나님은 의인을 보존하십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כָּל הַיְקוּם (콜 하예쿰) - 모든 존재",
+        "description": "'예쿰'은 '존재하는 것', '서 있는 것'을 의미합니다. 땅 위에 '서 있던' 모든 것이 쓸려 나갔습니다. 사람부터 짐승, 기는 것, 새까지 - 모든 육체가 심판받았습니다.",
+        "points": [
+          "심판은 인간만이 아니라 피조물 전체에 영향을 미칩니다",
+          "인간의 죄가 자연계 전체를 저주 아래 두었습니다 (로마서 8:20-22)",
+          "새 창조를 위해서는 철저한 심판이 필요했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּשָּׁאֶר אַךְ נֹחַ (바이샤에르 아크 노아흐) - 오직 노아만 남았다",
+        "description": "'아크'는 '오직', '단지'를 의미하는 배타적 표현입니다. 온 세상이 멸망했지만 '오직 노아만' 남았습니다. 이는 구원의 유일성과 좁은 길을 보여줍니다.",
+        "points": [
+          "구원받은 자는 극소수였습니다 - 노아의 가족 8명",
+          "다수가 가는 길이 아니라 하나님의 길을 따라야 합니다",
+          "예수 그리스도는 유일한 구원의 길입니다 (요한복음 14:6)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּתֵּבָה (바테바) - 방주 안에",
+        "description": "생존을 결정한 것은 개인의 도덕성이나 능력이 아니라 '방주 안에' 있었는가였습니다. 방주 밖의 모든 것은 멸망했고, 방주 안의 모든 것은 보존되었습니다.",
+        "points": [
+          "구원의 장소는 방주, 즉 그리스도 안입니다",
+          "방주 안과 밖의 차이가 생사를 결정했습니다",
+          "우리는 그리스도 안에 거해야 합니다 (요한복음 15:4)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아와 그 가족만 살아남았을까요?",
+      "answer": "노아와 그 가족이 살아남은 것은 그들이 특별히 착해서가 아니라, 하나님께서 만들라고 하신 방주 안에 있었기 때문이에요. 마치 비가 올 때 우산 안에 있으면 젖지 않는 것처럼, 홍수가 왔을 때 방주 안에 있던 사람들만 안전했답니다. 하나님은 노아에게 '방주를 만들고 그 안에 들어가라'고 하셨고, 노아는 순종했어요. 그래서 방주 안에 있던 모든 사람과 동물이 살아남을 수 있었던 거예요. 오늘날 우리도 예수님이라는 '방주' 안에 있어야 구원받을 수 있어요!",
+      "bibleReferences": [
+        "베드로전서 3:20 - '방주에서 물로 말미암아 구원을 받은 자가 몇 명뿐이니 겨우 여덟 명이라'",
+        "누가복음 17:26-27 - '노아의 때에 된 것과 같이 인자의 때에도 그러하리라 노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집가더니 홍수가 나서 그들을 다 멸하였으며'",
+        "마태복음 7:13-14 - '좁은 문으로 들어가라 멸망으로 인도하는 문은 크고 그 길이 넓어 그리로 들어가는 자가 많고 생명으로 인도하는 문은 좁고 길이 협착하여 찾는 자가 적음이라'",
+        "요한복음 14:6 - '예수께서 이르시되 내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 심판의 보편성과 구원의 유일성을 극명하게 대조시킵니다. 모든 것이 지워졌지만 '오직 노아만' 남았다는 것은, 그리스도 밖에는 구원이 없다는 복음의 배타성을 예표합니다. 방주는 그리스도를 상징하며, 방주 안과 밖의 차이가 영생과 영멸을 결정합니다. 홍수 심판은 궁극적으로 최후의 심판을 예표하며, 그때도 그리스도 안에 있는 자들만이 구원을 받을 것입니다. '오직 은혜로, 오직 믿음으로, 오직 그리스도를 통해서만' 구원받는다는 복음의 핵심이 여기 담겨 있습니다."
+    }
+  }
+}

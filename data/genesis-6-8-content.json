@@ -1,0 +1,117 @@
+{
+  "verse_id": "genesis_6_8",
+  "reference": "창세기 6:8",
+  "hebrew": "וְנֹ֕חַ מָ֥צָא חֵ֖ן בְּעֵינֵ֥י יְהוָֽה",
+  "ipa": "vəˈnoaħ maˈtsa ħen bəˈʕene jəhoˈvah",
+  "korean_pronunciation": "베노아흐 마차 헨 베에네 예호바",
+  "modern": "그러나 노아는 여호와의 눈앞에서 은혜를 입었습니다",
+  "words": [
+    {
+      "hebrew": "וְנֹחַ",
+      "meaning": "그러나 노아는",
+      "ipa": "vəˈnoaħ",
+      "korean": "베노아흐",
+      "letters": "וְ(və) + נֹ(no) + חַ(aħ)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"noah1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient><linearGradient id=\"robe1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(135, 206, 235, 0.2)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#noah1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"14\" ry=\"18\" fill=\"url(#robe1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 18 Q 32 12 44 18\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식, 쉼)"
+      ]
+    },
+    {
+      "hebrew": "מָצָא",
+      "meaning": "발견하다, 얻다",
+      "ipa": "maˈtsa",
+      "korean": "마차",
+      "letters": "מָ(ma) + צָ(tsa) + א(ʔ)",
+      "root": "מ-צ-א (마차)",
+      "grammar": "동사",
+      "emoji": "🔍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"find1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><circle cx=\"28\" cy=\"28\" r=\"18\" fill=\"none\" stroke=\"url(#find1)\" stroke-width=\"4\" filter=\"drop-shadow(2px 2px 6px rgba(76, 175, 80, 0.6))\" /><line x1=\"40\" y1=\"40\" x2=\"54\" y2=\"54\" stroke=\"url(#find1)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"28\" cy=\"28\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "חֵן",
+      "meaning": "은혜, 호의",
+      "ipa": "ħen",
+      "korean": "헨",
+      "letters": "חֵ(ħe) + ן(n)",
+      "root": "ח-נ-ן (하난)",
+      "grammar": "명사",
+      "emoji": "💝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"grace1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 32 12 Q 20 20 20 32 Q 20 48 32 56 Q 44 48 44 32 Q 44 20 32 12 Z\" fill=\"url(#grace1)\" filter=\"drop-shadow(0 0 16px rgba(255, 105, 180, 0.8))\" /><path d=\"M 32 20 Q 26 24 26 32 Q 26 42 32 48 Q 38 42 38 32 Q 38 24 32 20 Z\" fill=\"url(#light1)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 1))\" /></svg>",
+      "relatedWords": [
+        "חָנַן (하난 - 은혜를 베풀다)",
+        "תְּחִנָּה (테히나 - 간구, 애원)"
+      ]
+    },
+    {
+      "hebrew": "בְּעֵינֵי יְהוָה",
+      "meaning": "여호와의 눈앞에서",
+      "ipa": "bəˈʕene jəhoˈvah",
+      "korean": "베에네 예호바",
+      "letters": "בְּ(bə) + עֵ(ʕe) + י(y) + נֵ(ne) + י(y) + יְ(yə) + ה(h) + וָ(va) + ה(h)",
+      "root": "עַיִן (아인)",
+      "grammar": "전치사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"godsee1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"26\" ry=\"18\" fill=\"rgba(255, 215, 0, 0.3)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#godsee1)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 1))\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#FF8C00\" /><circle cx=\"30\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /><g stroke=\"#FFD700\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\"><line x1=\"8\" y1=\"32\" x2=\"16\" y2=\"32\" /><line x1=\"48\" y1=\"32\" x2=\"56\" y2=\"32\" /><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"16\" /><line x1=\"32\" y1=\"48\" x2=\"32\" y2=\"56\" /></g></svg>",
+      "relatedWords": [
+        "עַיִן (아인 - 눈)",
+        "רָאָה (라아 - 보다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 6장 8절은 절망적인 상황 속에서 빛나는 희망의 말씀입니다. 온 세상이 타락하고 하나님의 심판이 임박한 가운데, 단 한 사람 노아가 하나님의 은혜를 입었습니다. 이는 구원이 인간의 공로가 아니라 하나님의 은혜임을 보여주는 성경의 핵심 진리입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְנֹחַ (베노아흐) - 그러나 노아는",
+        "description": "'베'(그러나)는 강력한 대조를 나타냅니다. 앞 구절들의 암울한 상황과 극명하게 대비되는 전환점입니다. '노아'라는 이름은 '쉼', '안식'을 의미하며, 그는 문자 그대로 심판 가운데서도 안식을 주는 존재가 됩니다.",
+        "points": [
+          "노아는 타락한 세대 가운데서도 구별된 존재였습니다",
+          "하나님은 언제나 자기 백성을 남겨두십니다(렘니넌트)",
+          "한 사람의 믿음이 온 가족을 구원할 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מָצָא חֵן (마차 헨) - 은혜를 발견하다",
+        "description": "'마차'(발견하다)는 능동적 의미를 가지지만, 여기서는 하나님께서 노아에게 은혜를 베푸신 것을 의미합니다. '헨'(은혜)은 자격 없는 자에게 주어지는 선물입니다. 노아가 의로웠지만, 그것조차 하나님의 은혜의 결과입니다.",
+        "points": [
+          "은혜는 인간이 얻는 것이 아니라 하나님께서 주시는 것입니다",
+          "의로운 삶도 하나님의 은혜로부터 시작됩니다",
+          "구원은 전적으로 하나님의 주권적 선택입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּעֵינֵי יְהוָה (베에네 예호바) - 여호와의 눈앞에서",
+        "description": "'에네'(눈)는 하나님의 관점, 하나님의 기준을 나타냅니다. 사람들의 눈에는 노아도 다른 사람들과 별반 다르지 않았을 수 있지만, 하나님께서는 그의 마음을 보셨습니다. 하나님의 눈에 보이는 것이 진정한 가치입니다.",
+        "points": [
+          "하나님의 기준이 인간의 기준과 다릅니다",
+          "중요한 것은 사람의 평가가 아니라 하나님의 인정입니다",
+          "하나님은 외모가 아니라 중심을 보십니다(사무엘상 16:7)"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아만 하나님의 은혜를 받았을까요?",
+      "answer": "노아는 다른 사람들과 달리 하나님을 사랑하고 하나님 말씀대로 살려고 노력했어요. 다른 사람들이 모두 나쁜 일만 할 때도, 노아는 하나님께 순종했어요. 하나님께서는 노아의 착한 마음을 보시고 기뻐하셨답니다. 하지만 노아가 완벽해서가 아니라, 하나님께서 노아를 사랑하셔서 은혜를 주신 거예요. 우리도 하나님을 사랑하고 순종하면, 하나님께서 우리에게도 은혜를 주실 거예요!",
+      "bibleReferences": [
+        "히브리서 11:7 - '믿음으로 노아는 아직 보이지 않는 일에 경고하심을 받아 경외함으로 방주를 준비하여 그 집을 구원하였으니'",
+        "에베소서 2:8-9 - '너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니 이것은 너희에게서 난 것이 아니요 하나님의 선물이라'",
+        "디도서 3:5 - '우리를 구원하시되 우리가 행한 바 의로운 행위로 말미암지 아니하고 오직 그의 긍휼하심을 따라 중생의 씻음과 성령의 새롭게 하심으로 하셨나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 짧은 구절은 구원의 신학을 완벽하게 요약합니다. 전적 타락한 세상 가운데서도 하나님의 은혜는 특정한 개인을 선택하여 구원하십니다. 노아의 의로움은 은혜의 결과이지 원인이 아닙니다. 이는 신약의 '오직 은혜로(Sola Gratia)' 교리의 구약적 근거가 되며, 예수 그리스도를 통한 구원을 예표합니다. 한 사람을 통해 온 가족이 구원받는 것은 그리스도 안에서 온 인류가 구원받을 가능성을 보여줍니다."
+    }
+  }
+}

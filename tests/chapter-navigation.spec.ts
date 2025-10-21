@@ -13,7 +13,7 @@ import { test, expect } from '@playwright/test';
 test.describe('창세기 50장 네비게이션 테스트', () => {
 
   test.beforeEach(async ({ page }) => {
-    await page.goto('http://localhost:5174');
+    await page.goto('http://localhost:5177');
     // 페이지 로드 대기
     await page.waitForLoadState('networkidle');
   });

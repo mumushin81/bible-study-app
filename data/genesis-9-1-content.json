@@ -1,0 +1,150 @@
+{
+  "verseId": "genesis_9_1",
+  "ipa": "vajəvaˈrɛχ ʔɛloˈhim ʔɛt ˈnoaχ vəʔɛt baˈnav vajˈjomɛr laˈhɛm pəˈru urˈvu umiləˈʔu ʔɛt haˈʔarɛts",
+  "koreanPronunciation": "바예바레크 엘로힘 에트 노아흐 베에트 바나브 바요메르 라헴 페루 우르부 우밀루 에트 하아레츠",
+  "modern": "하나님께서 노아와 그의 아들들을 축복하시며 그들에게 말씀하셨습니다. '생육하고 번성하여 땅에 충만하라'",
+  "words": [
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "meaning": "그리고 축복하셨다",
+      "ipa": "vajəvaˈrɛχ",
+      "korean": "바예바레크",
+      "letters": "וַ(va) + יְ(ye) + בָ(va) + רֶךְ(rekh)",
+      "root": "ב-ר-ך (바라크)",
+      "grammar": "동사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bless1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"glory1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory1)\" /><path d=\"M 20 40 L 24 28 Q 24 22 28 20 L 32 16 L 36 20 Q 40 22 40 28 L 44 40\" stroke=\"url(#bless1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.5))\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"url(#bless1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 28 14 L 24 20 M 36 14 L 40 20\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בְּרָכָה (베라카 - 축복)",
+        "בָּרוּךְ (바루크 - 축복받은)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִים(him)",
+      "root": "אֱלוֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glory2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory2)\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#crown2)\" /><circle cx=\"20\" cy=\"42\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"32\" cy=\"34\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"44\" cy=\"42\" r=\"2\" fill=\"#FF1493\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 신)",
+        "אֱלוֹהַּ (엘로아 - 신)"
+      ]
+    },
+    {
+      "hebrew": "אֶת נֹחַ",
+      "meaning": "노아를",
+      "ipa": "ʔɛt ˈnoaχ",
+      "korean": "에트 노아흐",
+      "letters": "אֶת(et) + נֹחַ(noach)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dove2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8F4F8\" /><stop offset=\"100%\" stop-color=\"#B3D9E6\" /></linearGradient><radialGradient id=\"peace2\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#peace2)\" /><ellipse cx=\"26\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"38\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#dove2)\" /><circle cx=\"30\" cy=\"27\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 24 Q 32 22 36 24\" stroke=\"#FFA500\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "פְּרוּ וּרְבוּ",
+      "meaning": "생육하고 번성하라",
+      "ipa": "pəˈru urˈvu",
+      "korean": "페루 우르부",
+      "letters": "פְּ(pe) + רוּ(ru) + וּ(u) + רְ(re) + בוּ(vu)",
+      "root": "פ-ר-ה / ר-ב-ה (파라 / 라바)",
+      "grammar": "동사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"growth1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#98FB98\" /></linearGradient><radialGradient id=\"life2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(144, 238, 144, 0.2)\" /><path d=\"M 32 52 Q 32 40 28 32 Q 24 24 20 16\" stroke=\"url(#growth1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 52 Q 32 40 32 28 Q 32 20 32 12\" stroke=\"url(#growth1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 52 Q 32 40 36 32 Q 40 24 44 16\" stroke=\"url(#growth1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"20\" cy=\"16\" r=\"3\" fill=\"url(#life2)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"url(#life2)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"44\" cy=\"16\" r=\"3\" fill=\"url(#life2)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "פָּרָה (파라 - 열매 맺다)",
+        "רָבָה (라바 - 많아지다, 증가하다)"
+      ]
+    },
+    {
+      "hebrew": "וּמִלְאוּ אֶת הָאָרֶץ",
+      "meaning": "땅에 충만하라",
+      "ipa": "umiləˈʔu ʔɛt haˈʔarɛts",
+      "korean": "우밀루 에트 하아레츠",
+      "letters": "וּ(u) + מִ(mi) + לְאוּ(le'u) + אֶת(et) + הָ(ha) + אָרֶץ(aretz)",
+      "root": "מ-ל-א (말레)",
+      "grammar": "동사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><radialGradient id=\"fullness1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4169E1\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#fullness1)\" /><path d=\"M 18 24 Q 24 20 30 24 Q 32 26 28 30 Q 24 34 20 32\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 36 18 Q 42 16 48 20 Q 50 24 46 28 Q 42 30 38 26\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 32 38 Q 38 36 44 40 Q 46 44 42 48 Q 36 50 32 46\" fill=\"#228B22\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מָלֵא (말레 - 충만한, 가득한)",
+        "מְלֹא (멜로 - 충만함)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 9장 1절은 홍수 이후 새로운 시작을 알리는 하나님의 축복입니다. 이 말씀은 창세기 1장 28절의 창조 명령을 반복하며, 노아와 그의 가족을 새 인류의 시작으로 세우십니다. 하나님은 심판 후에도 여전히 인류를 축복하시고 번성케 하시는 분이심을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְבָרֶךְ אֱלֹהִים (바예바레크 엘로힘) - 하나님의 축복",
+        "description": "히브리어 '바라크(בָּרַךְ)'는 '축복하다', '은혜를 베풀다'를 의미하는 동사입니다. 하나님께서 심판 후에 가장 먼저 하신 일은 노아를 축복하시는 것이었습니다. 이는 하나님의 본성이 심판보다 은혜와 축복에 있음을 보여줍니다.",
+        "points": [
+          "하나님의 축복은 심판 이후 새로운 시작의 첫 행위입니다",
+          "창세기 1:28의 '생육하고 번성하라'는 명령이 재확인됩니다",
+          "축복은 하나님과의 관계 회복을 의미합니다",
+          "노아는 새 인류의 대표자로서 아담의 자리를 계승합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "פְּרוּ וּרְבוּ (페루 우르부) - 생육하고 번성하라",
+        "description": "'페루'는 '열매 맺다'를, '르부'는 '많아지다, 증가하다'를 의미합니다. 이 명령은 창조 때 아담과 하와에게 주신 것과 동일하며, 하나님의 창조 목적이 홍수로 중단되지 않았음을 보여줍니다. 생명과 번영은 하나님의 변함없는 뜻입니다.",
+        "points": [
+          "창조 명령의 재확인: 창세기 1:28과 동일한 표현입니다",
+          "생명의 지속성: 홍수는 중단이 아니라 정화였습니다",
+          "언약적 약속: 하나님은 인류의 번성을 보장하십니다",
+          "메시아 약속의 연속: 여자의 후손(창세기 3:15)은 계속 이어집니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וּמִלְאוּ אֶת הָאָרֶץ (우밀루 에트 하아레츠) - 땅에 충만하라",
+        "description": "'말레(מָלֵא)'는 '충만하다', '가득 채우다'를 의미합니다. 홍수로 텅 빈 땅을 다시 채우라는 명령은 단순한 인구 증가 이상의 의미를 담고 있습니다. 이는 하나님의 영광과 형상을 온 땅에 나타내라는 문화 명령의 회복입니다.",
+        "points": [
+          "물로 가득했던 땅이 이제 생명으로 가득 차게 됩니다",
+          "하나님의 형상을 온 땅에 확장하는 사명입니다",
+          "궁극적으로 '땅이 여호와의 영광을 아는 지식으로 충만'(하박국 2:14)하게 됩니다",
+          "교회는 복음으로 온 땅을 채우라는 대위임령을 받았습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "נֹחַ וּבָנָיו (노아흐 우바나브) - 노아와 그의 아들들",
+        "description": "노아와 그의 세 아들 셈, 함, 야벳은 새 인류의 시작입니다. 그들에게서 모든 민족이 나왔으며(창세기 10장), 이는 모든 인류가 하나의 가족이며 한 분 하나님의 피조물임을 가르칩니다. 또한 이들은 그리스도께 이르는 족보의 연결고리입니다.",
+        "points": [
+          "세 아들을 통해 온 세계가 재건됩니다",
+          "인류의 단일성: 모든 사람은 노아의 후손입니다",
+          "셈의 계보를 통해 메시아가 오십니다",
+          "민족의 다양성 속 하나님 형상의 통일성"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님께서 노아에게 '생육하고 번성하라'고 말씀하셨나요?",
+      "answer": "하나님은 처음에 아담과 하와를 만드셨을 때도 같은 말씀을 하셨어요(창세기 1:28). 큰 홍수로 세상이 다시 시작되었을 때, 하나님은 노아와 그의 가족에게 똑같은 말씀을 하셨답니다. 이것은 하나님의 계획이 변하지 않았다는 뜻이에요. 하나님은 여전히 우리가 이 아름다운 세상에서 행복하게 살고, 많은 가족을 이루며, 하나님을 사랑하는 사람들로 세상을 가득 채우기를 원하세요. 노아는 새로운 시작을 하는 첫 번째 사람이었고, 하나님은 노아를 통해 모든 사람에게 축복을 주고 싶으셨어요!",
+      "bibleReferences": [
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "창세기 8:17 - '너와 함께 한 모든 혈육 있는 생물 곧 새와 가축과 땅에 기는 모든 것을 다 이끌어 내라 이것들이 땅에서 생육하고 땅에서 번성하리라'",
+        "창세기 35:11 - '내가 전능한 하나님이라 생육하며 번성하라 국민과 다민족이 네게서 나고 왕들이 네 허리에서 나오리라'",
+        "시편 128:3-4 - '네 집 안방에 있는 네 아내는 결실한 포도나무 같으며 네 상에 둘러앉은 자식들은 어린 감람나무 같으리로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9장 1절은 하나님의 구속 역사가 재시작되는 순간입니다. 심판 후의 축복은 은혜의 복음을 예표하며, '생육하고 번성하라'는 명령은 단순한 인구 증가가 아니라 하나님의 형상과 영광을 온 땅에 확장하는 문화 명령입니다. 이는 교회가 받은 대위임령(마태복음 28:19-20)의 구약적 근거이며, 궁극적으로 새 하늘과 새 땅에서 하나님의 영광이 충만하게 되는 종말론적 완성을 향합니다. 노아를 통한 새 인류는 그리스도를 통한 새 창조의 그림자입니다."
+    }
+  }
+}

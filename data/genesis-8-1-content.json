@@ -1,0 +1,167 @@
+{
+  "verseId": "genesis_8_1",
+  "ipa": "vajizˈkor ʔɛloˈhim ʔɛt ˈnoaχ vəʔet kol haχajˈja vəʔet kol habːehɛˈma ʔaˈʃɛr ʔitˈo batːeˈva vajaʔaˈver ʔɛloˈhim ˈruaχ ʕal haˈʔarɛts vajaˈʃoku hamːaˈjim",
+  "koreanPronunciation": "바이즈코르 엘로힘 에트 노아흐 베에트 콜 하하야 베에트 콜 하베헤마 아쉐르 이토 바테바 바야아베르 엘로힘 루아흐 알 하아레츠 바야쇼쿠 함마임",
+  "modern": "하나님께서 노아와 그와 함께 방주에 있던 모든 생물과 모든 가축을 기억하셨고, 하나님께서 바람을 땅 위에 지나가게 하시니 물이 줄어들기 시작했습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּזְכֹּר",
+      "meaning": "그리고 기억하셨다",
+      "ipa": "vajizˈkor",
+      "korean": "바이즈코르",
+      "letters": "וַ(va) + יִּ(yi) + זְכֹּר(zkhor)",
+      "root": "ז-כ-ר (자카르)",
+      "grammar": "동사",
+      "emoji": "🧠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"memory1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFE0\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#memory1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#memory1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#FF1493\" /><circle cx=\"26\" cy=\"32\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"38\" cy=\"32\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FF1493\" /><path d=\"M 26 32 Q 32 28 38 32 Q 32 36 26 32\" fill=\"none\" stroke=\"url(#light1)\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "זָכַר (자카르 - 기억하다)",
+        "זֵכֶר (제케르 - 기억, 기념)",
+        "זִכָּרוֹן (지카론 - 기념물)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִים(him)",
+      "root": "אֱלוֹהַּ (엘로아)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glory1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory1)\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#crown1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#crown1)\" /><circle cx=\"20\" cy=\"42\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"32\" cy=\"34\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"44\" cy=\"42\" r=\"2\" fill=\"#FF1493\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 신)",
+        "אֱלוֹהַּ (엘로아 - 신)"
+      ]
+    },
+    {
+      "hebrew": "אֶת נֹחַ",
+      "meaning": "노아를",
+      "ipa": "ʔɛt ˈnoaχ",
+      "korean": "에트 노아흐",
+      "letters": "אֶת(et) + נֹחַ(noach)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dove1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8F4F8\" /><stop offset=\"100%\" stop-color=\"#B3D9E6\" /></linearGradient><radialGradient id=\"peace1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#peace1)\" /><ellipse cx=\"26\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"38\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#dove1)\" /><circle cx=\"30\" cy=\"27\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 24 Q 32 22 36 24\" stroke=\"#FFA500\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "כָּל הַחַיָּה",
+      "meaning": "모든 생물",
+      "ipa": "kol haχajˈja",
+      "korean": "콜 하하야",
+      "letters": "כָּל(kol) + הַ(ha) + חַיָּה(chaya)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "🦁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"life1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"heart1\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#life1)\" opacity=\"0.3\" /><path d=\"M 32 46 L 20 34 Q 18 28 22 24 Q 26 20 32 26 Q 38 20 42 24 Q 46 28 44 34 Z\" fill=\"url(#heart1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"28\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"28\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּעֲבֵר אֱלֹהִים רוּחַ",
+      "meaning": "하나님께서 바람을 지나가게 하셨다",
+      "ipa": "vajaʔaˈver ʔɛloˈhim ˈruaχ",
+      "korean": "바야아베르 엘로힘 루아흐",
+      "letters": "וַ(va) + יַּ(ya) + עֲבֵר(aver) + אֱלֹהִים(elohim) + רוּחַ(ruach)",
+      "root": "ע-ב-ר (아바르)",
+      "grammar": "동사",
+      "emoji": "🌬️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wind1\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#B0E0E6\" /></linearGradient><linearGradient id=\"spirit1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0FFFF\" /><stop offset=\"100%\" stop-color=\"#5F9EA0\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#wind1)\" opacity=\"0.4\" /><path d=\"M 8 28 Q 20 24 32 28 Q 44 32 56 28\" stroke=\"url(#spirit1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 8 32 Q 20 28 32 32 Q 44 36 56 32\" stroke=\"url(#spirit1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 8 36 Q 20 32 32 36 Q 44 40 56 36\" stroke=\"url(#spirit1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#spirit1)\" filter=\"drop-shadow(0 0 8px rgba(95, 158, 160, 0.8))\" /></svg>",
+      "relatedWords": [
+        "רוּחַ (루아흐 - 바람, 영, 숨)",
+        "עָבַר (아바르 - 지나가다)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּשֹׁכּוּ הַמָּיִם",
+      "meaning": "물이 줄어들었다",
+      "ipa": "vajaˈʃoku hamːaˈjim",
+      "korean": "바야쇼쿠 함마임",
+      "letters": "וַ(va) + יָּ(ya) + שֹׁכּוּ(shoku) + הַ(ha) + מָּיִם(mayim)",
+      "root": "ש-כ-ך (샤카크)",
+      "grammar": "동사",
+      "emoji": "💧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><linearGradient id=\"recede1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#E0FFFF\" /></linearGradient></defs><rect x=\"0\" y=\"44\" width=\"64\" height=\"20\" fill=\"url(#water1)\" opacity=\"0.6\" /><rect x=\"0\" y=\"50\" width=\"64\" height=\"14\" fill=\"url(#water1)\" opacity=\"0.4\" /><path d=\"M 0 48 Q 16 44 32 48 Q 48 52 64 48\" fill=\"url(#recede1)\" opacity=\"0.5\" /><path d=\"M 32 20 L 28 32 Q 32 36 36 32 Z\" fill=\"url(#water1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 28 L 18 36 Q 20 38 22 36 Z\" fill=\"url(#water1)\" opacity=\"0.7\" /><path d=\"M 44 28 L 42 36 Q 44 38 46 36 Z\" fill=\"url(#water1)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שָׁכַך (샤카크 - 가라앉다, 줄어들다)",
+        "מַיִם (마임 - 물)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 1절은 대홍수 이야기의 극적인 전환점입니다. '하나님께서 노아를 기억하셨다'는 구절은 단순한 회상이 아니라, 하나님의 언약적 사랑과 구원의 행동을 의미합니다. 하나님께서 바람을 보내어 물을 줄이시는 장면은 창조 때 하나님의 영이 수면 위를 운행하신 것(창세기 1:2)을 상기시키며, 새로운 창조의 시작을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּזְכֹּר אֱלֹהִים (바이즈코르 엘로힘) - 하나님께서 기억하셨다",
+        "description": "히브리어 '자카르(זָכַר)'는 단순히 정신적으로 떠올리는 것 이상의 의미를 담고 있습니다. 이는 언약적 관계 속에서 행동으로 개입하시는 하나님의 신실하심을 나타냅니다. 하나님은 결코 노아를 잊으신 적이 없었지만, 이제 구원의 다음 단계로 나아가실 때가 되었음을 선포하는 표현입니다.",
+        "points": [
+          "하나님의 '기억'은 언약적 사랑과 구원의 행동을 의미합니다",
+          "이는 아브라함(창세기 19:29), 라헬(창세기 30:22), 한나(사무엘상 1:19)를 기억하신 것과 같은 구원의 개입입니다",
+          "하나님은 어둠과 심판 가운데서도 당신의 백성을 잊지 않으십니다",
+          "궁극적으로 그리스도의 십자가는 하나님께서 인류를 '기억'하신 최고의 증거입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "רוּחַ (루아흐) - 하나님의 바람과 영",
+        "description": "히브리어 '루아흐'는 '바람', '숨', '영'이라는 세 가지 의미를 가진 풍부한 단어입니다. 창세기 1장 2절에서 하나님의 영(루아흐)이 수면 위를 운행하셨던 것처럼, 여기서도 하나님은 바람(루아흐)을 보내어 물을 말리십니다. 이는 홍수 후의 세계가 새로운 창조임을 보여주는 신학적 연결고리입니다.",
+        "points": [
+          "루아흐는 창조(창세기 1:2)와 재창조(창세기 8:1) 모두에 나타나는 하나님의 능력입니다",
+          "출애굽 때 홍해를 가르신 바람(출애굽기 14:21)도 같은 구원의 루아흐입니다",
+          "하나님의 영은 혼돈을 질서로, 죽음을 생명으로 변화시키십니다",
+          "성령께서 오시는 오순절의 바람(사도행전 2:2)도 새로운 창조의 루아흐입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּשֹׁכּוּ הַמָּיִם (바야쇼쿠 함마임) - 물이 줄어들었다",
+        "description": "'샤카크(שָׁכַך)'는 '가라앉다', '진정되다', '줄어들다'를 의미하는 동사입니다. 심판의 물이 줄어드는 것은 하나님의 진노가 누그러지고 은혜의 시대가 시작됨을 상징합니다. 물은 심판의 도구였지만, 이제 하나님의 명령에 따라 순종하며 물러갑니다.",
+        "points": [
+          "물의 감소는 심판의 끝과 은혜의 시작을 표시합니다",
+          "출애굽 때 갈라진 홍해의 물처럼, 하나님은 물을 통제하시는 주권자이십니다",
+          "시편 기자는 '물이 주의 꾸짖음을 인하여 도망하며'(시편 104:7)라고 노래합니다",
+          "요한계시록의 새 하늘과 새 땅에서는 '바다가 다시 있지 않다'(요한계시록 21:1)고 선포합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּתֵּבָה (바테바) - 방주 안에서의 보존",
+        "description": "노아와 모든 생물은 여전히 방주 안에 있었습니다. 방주는 하나님의 은혜와 보호의 상징이며, 심판 가운데서도 구원받은 자들의 안전한 피난처였습니다. 이제 하나님께서 기억하심으로 그들의 방주 생활도 끝나가고 있습니다.",
+        "points": [
+          "방주는 그리스도 안에 있는 구원의 예표입니다",
+          "방주 안에 있던 자들만이 심판에서 보호받았습니다",
+          "하나님은 당신의 백성을 환난 중에 보존하시고 때가 되면 인도해 내십니다",
+          "교회는 세상의 심판 가운데서도 안전한 영적 방주입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님께서 노아를 '기억하셨다'고 하나요? 하나님이 잊어버리셨던 건가요?",
+      "answer": "아니에요! 하나님은 절대 노아를 잊으신 적이 없어요. 성경에서 '기억하셨다'는 말은 '이제 구해주실 때가 되었다'는 뜻이에요. 마치 부모님이 아이가 숙제를 다 끝내면 '이제 놀이터 가자'라고 하시는 것처럼, 하나님도 심판의 시간이 끝나고 이제 구원의 다음 단계로 나아갈 때가 되었다는 거예요. 하나님은 항상 노아와 함께 계셨고, 방주를 지켜주셨고, 이제 드디어 노아를 방주 밖으로 나오게 하실 준비를 하신 거랍니다. 하나님의 '기억'은 사랑의 행동이에요!",
+      "bibleReferences": [
+        "창세기 1:2 - '하나님의 영은 수면 위에 운행하시니라'",
+        "창세기 19:29 - '하나님이 아브라함을 생각하사 롯을 그 엎어지는 중에서 내보내셨더라'",
+        "출애굽기 2:24 - '하나님이 그들의 고통 소리를 들으시고 아브라함과 이삭과 야곱에게 세운 그의 언약을 기억하사'",
+        "누가복음 1:54 - '그 종 이스라엘을 도우사 긍휼히 여기시고 우리 조상에게 말씀하신 것과 같이 아브라함과 그 자손에게 영원히 하시리로다'",
+        "사도행전 2:2 - '홀연히 하늘로부터 급하고 강한 바람 같은 소리가 있어'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8장 1절은 심판에서 구원으로의 전환을 선포하는 복음의 핵심입니다. 하나님께서 노아를 '기억하신다'는 것은 언약적 사랑으로 구원에 개입하심을 의미하며, 바람(루아흐)을 보내시는 것은 창조 때와 같이 새로운 시작을 여시는 하나님의 능력을 보여줍니다. 이는 우리가 그리스도 안에서 경험하는 새로운 피조물(고린도후서 5:17)의 예표이며, 하나님께서 어떠한 상황에서도 당신의 백성을 결코 잊지 않으시고 구원하신다는 영원한 약속입니다. 방주는 그리스도를 상징하며, 그 안에 있는 자들은 심판을 피하고 새로운 생명으로 나아갑니다."
+    }
+  }
+}

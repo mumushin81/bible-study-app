@@ -1,0 +1,23 @@
+{
+  "description": "Genesis 6 remaining verses - to be split into individual files",
+  "note": "This batch contains verses 3, 4, 6, 7, 9-22 (18 verses total)",
+  "instruction": "Each verse needs to be saved as individual JSON file: genesis-6-X-content.json",
+  "verses": [
+    "Verse 3: God's Spirit will not contend forever - 120 years",
+    "Verse 4: Nephilim - giants and mighty men",
+    "Verse 6: God grieves over making mankind",
+    "Verse 7: God decides to wipe out humanity",
+    "Verse 9: Noah was righteous, blameless, walked with God",
+    "Verse 10: Noah's three sons - Shem, Ham, Japheth",
+    "Verse 11: Earth corrupt and filled with violence",
+    "Verse 12: God saw the corruption",
+    "Verse 13: God tells Noah the end has come",
+    "Verse 14-16: Detailed ark instructions",
+    "Verse 17: God announces the flood",
+    "Verse 18: God establishes covenant with Noah",
+    "Verse 19-20: Instructions about animals",
+    "Verse 21: Gather food",
+    "Verse 22: Noah did everything God commanded"
+  ],
+  "recommendation": "Due to complexity (Hebrew analysis, IPA, words with SVG icons, commentary), generate in smaller batches"
+}

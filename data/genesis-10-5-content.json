@@ -1,0 +1,125 @@
+{
+  "verse_id": "genesis_10_5",
+  "reference": "창세기 10:5",
+  "hebrew": "מֵאֵלֶּה נִפְרְדוּ אִיֵּי הַגּוֹיִם, בְּאַרְצֹתָם, אִישׁ, לִלְשֹׁנוֹ--לְמִשְׁפְּחֹתָם, בְּגוֹיֵהֶם.",
+  "ipa": "meʔelˈɛ nifˈrədu ʔijˈje haggoˈjim bəʔarəˈtsotam ʔiʃ liləʃoˈno ləmiʃpəħoˈtam bəgoˈjehem",
+  "korean_pronunciation": "메엘레 니프레두 이예 하고임 베아레초탐 이쉬 릴쇼노 레미쉬페호탐 베고예헴",
+  "modern": "이들로부터 여러 나라의 섬들과 해안 지역들이 나뉘어졌는데, 각각 그들의 땅에서 그들의 언어와 족속과 나라를 따라 나뉘어졌습니다",
+  "words": [
+    {
+      "hebrew": "נִפְרְדוּ",
+      "meaning": "나뉘어졌다, 분산되었다",
+      "ipa": "nifˈrədu",
+      "korean": "니프레두",
+      "letters": "נִ(ni) + פְ(f) + רְ(rə) + דוּ(du)",
+      "root": "פ-ר-ד (파라드)",
+      "grammar": "동사",
+      "emoji": "↗️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"div1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#2E5C8A\" /></linearGradient><radialGradient id=\"glow3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#glow3)\" filter=\"drop-shadow(0 0 8px rgba(74, 144, 226, 0.8))\" /><path d=\"M 32 32 L 48 16\" stroke=\"url(#div1)\" stroke-width=\"3\" marker-end=\"url(#arrow1)\" /><path d=\"M 32 32 L 52 32\" stroke=\"url(#div1)\" stroke-width=\"3\" marker-end=\"url(#arrow2)\" /><path d=\"M 32 32 L 48 48\" stroke=\"url(#div1)\" stroke-width=\"3\" marker-end=\"url(#arrow3)\" /><path d=\"M 32 32 L 16 16\" stroke=\"url(#div1)\" stroke-width=\"3\" marker-end=\"url(#arrow4)\" /><path d=\"M 32 32 L 12 32\" stroke=\"url(#div1)\" stroke-width=\"3\" marker-end=\"url(#arrow5)\" /><circle cx=\"48\" cy=\"16\" r=\"4\" fill=\"#FFD700\" /><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#FF6B35\" /><circle cx=\"48\" cy=\"48\" r=\"4\" fill=\"#00C853\" /><circle cx=\"16\" cy=\"16\" r=\"4\" fill=\"#9C27B0\" /><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#FF1744\" /></svg>",
+      "relatedWords": [
+        "פָּרַד (파라드 - 분리하다, 나누다)",
+        "פְּרִידָה (프리다 - 이별, 분리)"
+      ]
+    },
+    {
+      "hebrew": "אִיֵּי הַגּוֹיִם",
+      "meaning": "여러 나라의 섬들, 해안 지역들",
+      "ipa": "ʔijˈje haggoˈjim",
+      "korean": "이예 하고임",
+      "letters": "אִ(ʔi) + יֵּ(ye) + י(y) + הַ(ha) + גּ(g) + וֹ(o) + יִ(yi) + ם(m)",
+      "root": "אִי (이)",
+      "grammar": "명사",
+      "emoji": "🏝️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sea1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" /></linearGradient><linearGradient id=\"sand1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sea1)\" /><ellipse cx=\"32\" cy=\"48\" rx=\"20\" ry=\"14\" fill=\"url(#sand1)\" filter=\"drop-shadow(0 -2px 6px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"38\" r=\"6\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 28 38 L 24 28 L 28 32 L 32 28 L 28 38\" fill=\"#006400\" /><circle cx=\"38\" cy=\"42\" r=\"4\" fill=\"#228B22\" opacity=\"0.6\" /><path d=\"M 38 42 L 36 35 L 38 38 L 40 35 L 38 42\" fill=\"#006400\" /><path d=\"M 8 20 Q 12 18 16 20 T 24 20\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 40 28 Q 44 26 48 28 T 56 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אִי (이 - 섬, 해안)",
+        "גּוֹי (고이 - 민족, 나라)"
+      ]
+    },
+    {
+      "hebrew": "לִלְשֹׁנוֹ",
+      "meaning": "그들의 언어를 따라",
+      "ipa": "liləʃoˈno",
+      "korean": "릴쇼노",
+      "letters": "לִ(li) + לְ(lə) + שֹׁ(sho) + נ(n) + וֹ(o)",
+      "root": "לָשׁוֹן (라손)",
+      "grammar": "명사",
+      "emoji": "🗣️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tongue1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#45B7D1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(78, 205, 196, 0.1)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"22\" ry=\"16\" fill=\"#F0F0F0\" stroke=\"url(#tongue1)\" stroke-width=\"2\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2))\" /><text x=\"16\" y=\"28\" font-size=\"12\" fill=\"#FF6B6B\" font-weight=\"bold\">A</text><text x=\"26\" y=\"38\" font-size=\"12\" fill=\"#4ECDC4\" font-weight=\"bold\">中</text><text x=\"38\" y=\"28\" font-size=\"12\" fill=\"#45B7D1\" font-weight=\"bold\">א</text><text x=\"48\" y=\"38\" font-size=\"12\" fill=\"#FF6B6B\" font-weight=\"bold\">Ω</text><path d=\"M 20 40 Q 32 45 44 40\" stroke=\"url(#tongue1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לָשׁוֹן (라손 - 혀, 언어)",
+        "שָׂפָה (사파 - 언어, 입술)"
+      ]
+    },
+    {
+      "hebrew": "לְמִשְׁפְּחֹתָם",
+      "meaning": "그들의 족속을 따라",
+      "ipa": "ləmiʃpəħoˈtam",
+      "korean": "레미쉬페호탐",
+      "letters": "לְ(lə) + מִ(mi) + שְׁ(sh) + פְּ(pə) + חֹ(ħo) + תָ(ta) + ם(m)",
+      "root": "מִשְׁפָּחָה (미쉬파하)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"clan1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#clan1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"38\" rx=\"10\" ry=\"12\" fill=\"url(#clan1)\" /><circle cx=\"16\" cy=\"26\" r=\"6\" fill=\"#BA68C8\" /><ellipse cx=\"16\" cy=\"40\" rx=\"8\" ry=\"9\" fill=\"#BA68C8\" /><circle cx=\"48\" cy=\"26\" r=\"6\" fill=\"#BA68C8\" /><ellipse cx=\"48\" cy=\"40\" rx=\"8\" ry=\"9\" fill=\"#BA68C8\" /><circle cx=\"24\" cy=\"52\" r=\"4\" fill=\"#CE93D8\" /><circle cx=\"40\" cy=\"52\" r=\"4\" fill=\"#CE93D8\" /><path d=\"M 32 50 Q 32 56 24 56\" stroke=\"#9C27B0\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 32 50 Q 32 56 40 56\" stroke=\"#9C27B0\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מִשְׁפָּחָה (미쉬파하 - 가족, 씨족)",
+        "בַּיִת (바이트 - 집, 가문)"
+      ]
+    },
+    {
+      "hebrew": "בְּגוֹיֵהֶם",
+      "meaning": "그들의 나라에서",
+      "ipa": "bəgoˈjehem",
+      "korean": "베고예헴",
+      "letters": "בְּ(bə) + גוֹ(go) + יֵ(ye) + הֶ(he) + ם(m)",
+      "root": "גּוֹי (고이)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"50%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"#2E7D32\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"36\" rx=\"10\" ry=\"14\" fill=\"#2E7D32\" opacity=\"0.7\" /><path d=\"M 12 42 Q 18 38 24 42\" fill=\"#1B5E20\" opacity=\"0.6\" /><circle cx=\"22\" cy=\"20\" r=\"10\" fill=\"url(#shine1)\" opacity=\"0.3\" /><path d=\"M 32 6 A 26 26 0 0 1 50 18\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "גּוֹי (고이 - 민족, 이방인)",
+        "עַם (암 - 백성, 민족)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장 5절은 야벳 자손들이 지중해 연안과 섬들로 퍼져나간 것을 기록합니다. 이는 인류 최초의 대규모 해양 이주를 보여주며, 하나님께서 창조 시 주신 '땅에 충만하라'는 명령(창 1:28)이 실현되는 과정입니다. 특별히 '언어', '족속', '나라'라는 세 가지 구분 기준이 제시되는데, 이는 11장 바벨탑 사건 이전에 이미 언어적 문화적 다양성이 존재했음을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "נִפְרְדוּ (니프레두) - 나뉘어졌다, 분산되었다",
+        "description": "'파라드'는 단순히 물리적 분리를 넘어 하나님의 주권적 섭리 안에서 각 민족이 고유한 영역을 부여받았음을 의미합니다. 이는 혼돈이 아니라 질서 있는 분산이며, 각 민족이 창조주 하나님의 영광을 반영하는 독특한 방식을 발전시키게 됩니다.",
+        "points": [
+          "분산은 하나님의 창조 명령의 성취입니다 (창 1:28)",
+          "각 민족은 하나님이 정하신 경계 안에 거합니다 (행 17:26)",
+          "다양성 속에서도 하나님의 형상이 모든 민족에 새겨져 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לִלְשֹׁנוֹ (릴쇼노) - 언어를 따라",
+        "description": "'라손'(혀, 언어)은 바벨탑 사건(창 11장) 이전에 이미 언어적 다양성이 싹트고 있었음을 보여줍니다. 이는 언어가 단순히 바벨탑의 심판으로만 생긴 것이 아니라, 민족 이주와 지리적 분산의 자연스러운 결과였을 가능성을 시사합니다. 오순절 성령강림(행 2장)은 이 언어 분산을 복음 안에서 통합합니다.",
+        "points": [
+          "언어는 문화와 정체성의 핵심 요소입니다",
+          "바벨탑 이전에도 언어적 분화가 시작되었을 가능성",
+          "오순절의 방언의 은사는 언어 장벽을 뛰어넘는 복음의 능력을 보여줍니다"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람들이 서로 다른 언어를 사용하고 다른 곳에 살게 하셨을까요?",
+      "answer": "하나님은 세상을 다채롭고 아름답게 만드시는 분이에요. 꽃도 한 가지만 있으면 심심하잖아요? 장미, 튤립, 해바라기... 여러 가지가 있어서 예쁘죠. 사람도 마찬가지예요! 여러 나라, 여러 언어, 여러 문화가 있어서 세상이 더 풍성하고 아름다워요. 하나님은 우리 각자에게 특별한 재능과 문화를 주셨어요. 그리고 언젠가 예수님이 다시 오시면, 모든 나라 사람들이 함께 하나님을 찬양할 거예요!",
+      "bibleReferences": [
+        "사도행전 17:26-27 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 각 민족의 시기와 거주의 경계를 정하셨으니 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되'",
+        "요한계시록 7:9 - '이 일 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 나와 보좌 앞과 어린 양 앞에 서서'",
+        "사도행전 2:4-6 - '그들이 다 성령의 충만함을 받고 성령이 말하게 하심을 따라 다른 언어들로 말하기를 시작하니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 10:5는 인류의 다양성이 죄의 결과가 아니라 하나님의 창조 질서임을 보여줍니다. 각 민족은 고유한 언어, 문화, 영토를 부여받았으며, 이는 하나님 형상의 다면적 반영입니다. 바벨탑 사건(11장)은 이러한 자연스러운 분산을 거부하고 인간의 교만으로 하나로 뭉치려던 시도에 대한 심판이었습니다. 복음은 이 다양성을 파괴하지 않고 오히려 그리스도 안에서 통합합니다 - 모든 민족이 각자의 언어로 하나님을 찬양하는 것이 하나님의 최종 계획입니다."
+    }
+  }
+}

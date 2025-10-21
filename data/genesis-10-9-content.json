@@ -1,0 +1,128 @@
+{
+  "verse_id": "genesis_10_9",
+  "reference": "창세기 10:9",
+  "hebrew": "הוּא-הָיָה גִבֹּר-צַיִד, לִפְנֵי יְהוָה; עַל-כֵּן, יֵאָמַר, כְּנִמְרֹד גִּבּוֹר צַיִד, לִפְנֵי יְהוָה.",
+  "ipa": "hu haˈja gibˈbor ˈtsajid lifˈne jəhoˈvah ʕal ken jeʔaˈmar kənimˈrod gibˈbor tsajid lifˈne jəhoˈvah",
+  "korean_pronunciation": "후 하야 기보르 차이드 리프네 예호바 알 켄 예아마르 케님로드 기보르 차이드 리프네 예호바",
+  "modern": "그는 여호와 앞에서 용맹한 사냥꾼이었으므로, '여호와 앞의 용맹한 사냥꾼 니므롯 같다'는 말이 생겼습니다",
+  "words": [
+    {
+      "hebrew": "גִבֹּר-צַיִד",
+      "meaning": "용맹한 사냥꾼",
+      "ipa": "gibˈbor ˈtsajid",
+      "korean": "기보르 차이드",
+      "letters": "גִּ(gi) + בֹּ(bo) + ר(r) + צַ(tsa) + יִ(yi) + ד(d)",
+      "root": "צ-י-ד (차야드)",
+      "grammar": "명사",
+      "emoji": "🏹",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hunt1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><linearGradient id=\"arrow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient></defs><line x1=\"8\" y1=\"32\" x2=\"32\" y2=\"32\" stroke=\"url(#hunt1)\" stroke-width=\"3\" /><circle cx=\"8\" cy=\"32\" r=\"4\" fill=\"#8B4513\" /><line x1=\"32\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"url(#arrow1)\" stroke-width=\"2\" /><polygon points=\"56,32 50,28 50,36\" fill=\"#C41E3A\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 50 26 L 54 32 L 50 38\" stroke=\"#FFD700\" stroke-width=\"1\" fill=\"none\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "צַיִד (차이드 - 사냥, 먹이)",
+        "צָיַד (차야드 - 사냥하다)"
+      ]
+    },
+    {
+      "hebrew": "לִפְנֵי יְהוָה",
+      "meaning": "여호와 앞에서 (여호와를 대적하여)",
+      "ipa": "lifˈne jəhoˈvah",
+      "korean": "리프네 예호바",
+      "letters": "לִ(li) + פְ(f) + נֵ(ne) + י(y) + יְ(yə) + ה(h) + וָ(va) + ה(h)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사",
+      "emoji": "⚔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rebel1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><radialGradient id=\"yhwh1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#yhwh1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><path d=\"M 20 20 L 32 32 L 44 20\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /><rect x=\"26\" y=\"35\" width=\"12\" height=\"20\" fill=\"url(#rebel1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"35\" r=\"6\" fill=\"#8B0000\" /><path d=\"M 24 50 L 20 60 L 28 55 Z\" fill=\"url(#rebel1)\" /><path d=\"M 40 50 L 44 60 L 36 55 Z\" fill=\"url(#rebel1)\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"20\" stroke=\"#C41E3A\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴, 면전)",
+        "יְהוָה (예호와 - 여호와, 주님)"
+      ]
+    },
+    {
+      "hebrew": "עַל-כֵּן יֵאָמַר",
+      "meaning": "그러므로 말하기를 (속담이 되다)",
+      "ipa": "ʕal ken jeʔaˈmar",
+      "korean": "알 켄 예아마르",
+      "letters": "עַ(ʕa) + ל(l) + כֵּ(ke) + ן(n) + יֵ(ye) + אָ(ʔa) + מַ(ma) + ר(r)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"say1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"24\" ry=\"18\" fill=\"url(#say1)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 44 L 12 52 L 20 48 Z\" fill=\"url(#say1)\" /><text x=\"32\" y=\"42\" font-size=\"18\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-weight=\"bold\">!!!</text><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"44\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "מָשָׁל (마샬 - 속담, 격언)"
+      ]
+    },
+    {
+      "hebrew": "כְּנִמְרֹד",
+      "meaning": "니므롯처럼",
+      "ipa": "kənimˈrod",
+      "korean": "케님로드",
+      "letters": "כְּ(kə) + נִ(ni) + מְ(m) + רֹ(ro) + ד(d)",
+      "root": "נִמְרֹד (님로드)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"like1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 53, 0.1)\" /><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#like1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"14\" ry=\"12\" fill=\"url(#like1)\" /><path d=\"M 20 20 L 24 14 L 20 14 Z\" fill=\"#8B0000\" /><path d=\"M 44 20 L 40 14 L 44 14 Z\" fill=\"#8B0000\" /><rect x=\"20\" y=\"48\" width=\"8\" height=\"4\" fill=\"#654321\" /><rect x=\"36\" y=\"48\" width=\"8\" height=\"4\" fill=\"#654321\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장 9절은 니므롯에 대한 유명한 속담을 기록합니다. 이 속담은 고대 근동에서 널리 회자되었으며, 니므롯의 명성이 얼마나 컸는지를 보여줍니다. 그러나 핵심은 '리프네 예호와'(여호와 앞에서)라는 구절의 해석입니다. 이는 단순히 '여호와 앞에서'가 아니라 '여호와를 대적하여' 또는 '여호와에게 도전하여'라는 부정적 의미로 해석될 수 있습니다. 니므롯은 사람들뿐 아니라 하나님까지도 사냥하려는 교만한 자였습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "גִבֹּר-צַיִד (기보르 차이드) - 용맹한 사냥꾼",
+        "description": "고대 근동에서 '사냥꾼'은 단순히 동물을 사냥하는 사람이 아니라 정복자, 전사, 지배자를 의미했습니다. 아시리아와 바벨론의 왕들은 스스로를 '위대한 사냥꾼'으로 묘사했으며, 이는 군사력과 영토 확장의 상징이었습니다. 니므롯은 사람들을 '사냥'하여 자신의 제국에 복속시킨 최초의 정복자였습니다.",
+        "points": [
+          "사냥꾼 = 정복자, 제국 건설자 (고대 근동의 용법)",
+          "아시리아 왕들도 자신을 '사냥꾼'으로 칭함",
+          "니므롯은 사람들을 덫에 걸리게 하여 지배함"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לִפְנֵי יְהוָה (리프네 예호바) - 여호와 앞에서 vs 여호와를 대적하여",
+        "description": "'리프네 예호와'는 두 가지로 해석될 수 있습니다. (1) '여호와 보시기에' - 중립적 의미, 또는 (2) '여호와를 대적하여' - 부정적 의미. 문맥상 후자가 더 적절합니다. 히브리어 '리프네'는 때로 '~에 대항하여'의 뜻을 지니며(예: 삿 11:36), 니므롯의 행적을 볼 때 그는 하나님의 권위에 도전한 인물이었습니다. 유대 전승도 이를 '하나님께 반역하여'로 해석합니다.",
+        "points": [
+          "문자적: '여호와의 면전에서' - 그러나 부정적 의미 내포",
+          "의역: '여호와를 대적하여', '여호와께 도전하여'",
+          "니므롯은 하나님의 권위를 인정하지 않았음"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כְּנִמְרֹד (케님로드) - 니므롯처럼 (악명 높은 속담)",
+        "description": "니므롯은 고대 세계에서 너무나 유명해서 그의 이름이 속담이 되었습니다. '니므롯처럼'이라는 말은 '극도로 강력하고 무자비한 정복자'를 의미했습니다. 그러나 이는 칭찬이 아니라 경고의 의미를 담고 있습니다 - 니므롯처럼 하나님을 대적하면 심판받는다는 경고입니다. 성경은 그를 부정적 모델로 제시합니다.",
+        "points": [
+          "니므롯의 악명이 고대 세계 전역에 퍼짐",
+          "속담은 경고의 의미 - 그를 본받지 말라",
+          "후대 예언자들도 니므롯 땅을 심판의 대상으로 언급함 (미 5:6)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "니므롯과 적그리스도 - 반복되는 패턴",
+        "description": "니므롯은 성경 전체를 관통하는 '적그리스도' 유형의 원형입니다. 바벨론의 느부갓네살, 메대-바사의 다리오, 그리스의 안티오쿠스 에피파네스, 로마의 황제들, 그리고 종말의 짐승(계 13장)까지 - 모두 니므롯의 패턴을 반복합니다. 하나님께 도전하고, 인간 제국을 세우고, 백성들을 억압하는 자들입니다.",
+        "points": [
+          "니므롯 = 적그리스도 유형의 원형",
+          "바벨론 제국의 창시자 → 계시록의 '음녀 바벨론'",
+          "그리스도의 왕국이 궁극적으로 니므롯 계통의 모든 제국을 멸망시킴"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "니므롯이 '여호와 앞에서' 사냥꾼이었다는 게 무슨 뜻인가요?",
+      "answer": "이 말은 니므롯이 하나님을 두려워하지 않고 오히려 하나님께 도전했다는 뜻이에요. 보통 '여호와 앞에서'라고 하면 하나님을 잘 섬긴다는 뜻인데, 니므롯의 경우는 정반대예요. 그는 하나님의 면전에서, 하나님을 무시하면서 나쁜 짓을 했어요. 마치 선생님이 보고 계시는데도 장난을 치는 아이처럼요. 니므롯은 하나님보다 자기가 더 강하다고 생각했고, 사람들을 하나님이 아니라 자기에게 복종하게 만들었어요. 그래서 하나님은 결국 그의 바벨탑을 무너뜨리셨답니다.",
+      "bibleReferences": [
+        "창세기 11:1-9 - '여호와께서 거기서 그들을 온 지면에 흩으셨으므로 그들이 그 도시를 건설하기를 그쳤더라'",
+        "미가 5:5-6 - '앗수르 사람이 우리 땅에 들어와서 우리 궁궐을 밟을 때에는... 그들이 칼로 앗수르 땅을 다스릴 것이요 니므롯 땅의 어귀를 칼날로 다스릴 것이라'",
+        "요한계시록 18:2 - '무너졌도다 무너졌도다 큰 성 바벨론이여'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯은 인류 역사상 하나님께 대항하는 인간 제국의 원형입니다. 그는 '여호와 앞에서' 즉 하나님의 면전에서 담대히 반역했으며, 이는 극도의 교만과 무례함을 보여줍니다. 성경은 역사 속에서 반복되는 '니므롯 패턴' - 인간 왕이 신적 권위를 찬탈하려는 시도 - 을 보여줍니다. 그러나 모든 니므롯은 결국 심판받습니다. 바벨론은 무너지고, 제국들은 멸망하고, 적그리스도도 패배합니다. 오직 그리스도의 왕국만이 영원히 서게 될 것입니다(단 2:44). 니므롯 이야기는 인간의 교만이 얼마나 위험하며, 오직 겸손히 하나님께 순종하는 자만이 진정한 승리자임을 가르칩니다."
+    }
+  }
+}

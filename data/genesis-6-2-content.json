@@ -1,0 +1,135 @@
+{
+  "verse_id": "genesis_6_2",
+  "reference": "창세기 6:2",
+  "hebrew": "וַיִּרְא֤וּ בְנֵי הָֽאֱלֹהִים֙ אֶת בְּנ֣וֹת הָֽאָדָ֔ם כִּ֥י טֹבֹ֖ת הֵ֑נָּה וַיִּקְח֤וּ לָהֶם֙ נָשִׁ֔ים מִכֹּ֖ל אֲשֶׁ֥ר בָּחָֽרוּ",
+  "ipa": "vajirˈʔu vəˈne haʔeloˈhim ʔet bəˈnot haʔaˈdam ki toˈvot ˈhena vajikˈħu laˈhem naˈʃim miˈkol ʔaˈʃer baˈħaru",
+  "korean_pronunciation": "바이르우 브네 하엘로힘 에트 베노트 하아담 키 토보트 헤나 바이크후 라헴 나쉼 미콜 아쉐르 바하루",
+  "modern": "하나님의 아들들이 사람의 딸들을 보고 그들이 아름다운 것을 알아, 자기들이 선택한 모든 여자를 아내로 삼았습니다",
+  "words": [
+    {
+      "hebrew": "בְנֵי הָאֱלֹהִים",
+      "meaning": "하나님의 아들들",
+      "ipa": "vəˈne haʔeloˈhim",
+      "korean": "브네 하엘로힘",
+      "letters": "בְּ(bə) + נֵ(ne) + י(y) + הָ(ha) + אֱ(ʔe) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "emoji": "👼",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"wings1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.2)\" /><ellipse cx=\"18\" cy=\"32\" rx=\"12\" ry=\"18\" fill=\"url(#wings1)\" opacity=\"0.7\" /><ellipse cx=\"46\" cy=\"32\" rx=\"12\" ry=\"18\" fill=\"url(#wings1)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#divine1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"8\" ry=\"12\" fill=\"url(#divine1)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#4682B4\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#4682B4\" /></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "בֵּן (벤 - 아들)"
+      ]
+    },
+    {
+      "hebrew": "בְּנוֹת הָאָדָם",
+      "meaning": "사람의 딸들",
+      "ipa": "bəˈnot haʔaˈdam",
+      "korean": "베노트 하아담",
+      "letters": "בְּ(bə) + נ(n) + וֹ(o) + ת(t) + הָ(ha) + אָ(ʔa) + דָ(da) + ם(m)",
+      "root": "בַּת (바트)",
+      "grammar": "명사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"woman1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 182, 193, 0.15)\" /><circle cx=\"32\" cy=\"24\" r=\"11\" fill=\"url(#woman1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"13\" ry=\"16\" fill=\"url(#woman1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#C41E3A\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 16 Q 32 12 44 16\" stroke=\"#8B4513\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "טֹבֹת",
+      "meaning": "아름답다, 좋다",
+      "ipa": "toˈvot",
+      "korean": "토보트",
+      "letters": "טֹ(to) + בֹ(vo) + ת(t)",
+      "root": "ט-ו-ב (토브)",
+      "grammar": "형용사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"beauty1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#beauty1)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 1))\" /><circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"20\" r=\"4\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"20\" cy=\"44\" r=\"4\" fill=\"#FF69B4\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"44\" r=\"4\" fill=\"#FF69B4\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"52\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "טוֹב (토브 - 좋은)",
+        "יָפֶה (야페 - 아름다운)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּקְחוּ",
+      "meaning": "취하다, 데려가다",
+      "ipa": "vajikˈħu",
+      "korean": "바이크후",
+      "letters": "וַ(va) + יִּ(yi) + קְ(k) + חוּ(ħu)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><ellipse cx=\"20\" cy=\"40\" rx=\"8\" ry=\"16\" fill=\"url(#hand1)\" transform=\"rotate(-20 20 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"44\" cy=\"40\" rx=\"8\" ry=\"16\" fill=\"url(#hand1)\" transform=\"rotate(20 44 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 24 36 Q 32 28 40 36\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" /></svg>"
+    },
+    {
+      "hebrew": "נָשִׁים",
+      "meaning": "아내들, 여인들",
+      "ipa": "naˈʃim",
+      "korean": "나쉼",
+      "letters": "נָ(na) + שִׁ(ʃi) + ים(m)",
+      "root": "א-נ-שׁ (아나쉬)",
+      "grammar": "명사",
+      "emoji": "💑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"couple1\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 105, 180, 0.15)\" /><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#couple1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#couple1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 46 Q 24 38 32 46 Q 40 38 48 46\" fill=\"url(#couple1)\" opacity=\"0.7\" /><path d=\"M 20 20 Q 32 12 44 20\" stroke=\"#FF1493\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "בָּחָרוּ",
+      "meaning": "선택하다",
+      "ipa": "baˈħaru",
+      "korean": "바하루",
+      "letters": "בָּ(ba) + חָ(ħa) + רוּ(ru)",
+      "root": "ב-ח-ר (바하르)",
+      "grammar": "동사",
+      "emoji": "👆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"choice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(156, 39, 176, 0.15)\" /><circle cx=\"20\" cy=\"36\" r=\"8\" fill=\"rgba(156, 39, 176, 0.3)\" stroke=\"url(#choice1)\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"rgba(156, 39, 176, 0.3)\" stroke=\"url(#choice1)\" stroke-width=\"2\" /><circle cx=\"44\" cy=\"36\" r=\"8\" fill=\"url(#choice1)\" stroke=\"url(#choice1)\" stroke-width=\"3\" filter=\"drop-shadow(0 0 12px rgba(233, 30, 99, 0.8))\" /><path d=\"M 32 40 L 38 50\" stroke=\"url(#choice1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"40\" cy=\"54\" r=\"4\" fill=\"url(#choice1)\" filter=\"drop-shadow(0 0 8px rgba(233, 30, 99, 0.8))\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 6장 2절은 성경에서 가장 논쟁적이고 신비로운 구절 중 하나입니다. '하나님의 아들들'이 누구인지에 대해 다양한 해석이 있지만, 이 구절은 분명히 인류의 도덕적 타락이 심화되는 과정을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְנֵי הָאֱלֹהִים (브네 하엘로힘) - 하나님의 아들들",
+        "description": "'하나님의 아들들'의 정체에 대해 세 가지 주요 해석이 있습니다: (1) 타락한 천사들, (2) 셋의 경건한 후손들, (3) 권력 있는 통치자들. 어떤 해석이든, 이들은 하나님의 뜻을 벗어난 행동을 했습니다.",
+        "points": [
+          "구약에서 '하나님의 아들들'은 종종 천사나 영적 존재를 가리킵니다(욥기 1:6, 2:1)",
+          "일부 학자들은 이를 셋의 경건한 후손과 가인의 불경건한 후손 간의 결혼으로 봅니다",
+          "어느 해석이든, 이는 하나님께서 정하신 경계를 넘는 죄악을 나타냅니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כִּי טֹבֹת הֵנָּה (키 토보트 헤나) - 그들이 아름다움",
+        "description": "'토보트'(아름다운)는 외적인 아름다움을 의미합니다. 이들은 내적 성품이나 경건함이 아니라 외모만을 보고 선택했습니다. 이는 영적 분별력의 부재를 보여줍니다.",
+        "points": [
+          "육체의 정욕이 영적 분별력을 대신했습니다",
+          "창세기 3장에서 하와가 '보기에 탐스럽고'라고 본 것과 유사한 패턴입니다",
+          "외적 아름다움만을 추구하는 것은 하나님의 뜻을 무시하는 것입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִכֹּל אֲשֶׁר בָּחָרוּ (미콜 아쉐르 바하루) - 자기들이 선택한 모든",
+        "description": "'바하루'(선택하다)는 자유 의지를 나타내지만, 여기서는 하나님의 뜻이 아닌 자신의 욕망을 따른 선택입니다. '모든'이라는 단어는 무절제와 탐욕을 암시합니다.",
+        "points": [
+          "하나님의 뜻이 아닌 자신의 욕망에 따른 선택입니다",
+          "일부다처제와 성적 방종의 시작을 암시할 수 있습니다",
+          "자유 의지의 남용은 하나님의 심판을 초래합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 '하나님의 아들들'이 사람의 딸들을 아내로 삼은 것이 나쁜 일일까요?",
+      "answer": "하나님께서는 각자에게 맞는 짝을 정해주셨어요. 하지만 '하나님의 아들들'은 하나님의 뜻을 따르지 않고, 그냥 예쁘다는 이유만으로 자기 마음대로 선택했어요. 이것은 마치 엄마 아빠 말씀을 듣지 않고 자기가 하고 싶은 대로만 하는 것과 같아요. 하나님께서는 우리가 겉모습만 보지 않고, 마음을 보고 선택하기를 원하세요. 그리고 무엇보다 하나님의 뜻을 먼저 구해야 해요.",
+      "bibleReferences": [
+        "고린도후서 6:14 - '너희는 믿지 않는 자와 멍에를 같이하지 말라'",
+        "잠언 31:30 - '고운 것도 거짓되고 아름다운 것도 헛되나 오직 여호와를 경외하는 여자는 칭찬을 받을 것이라'",
+        "사무엘상 16:7 - '여호와는 중심을 보느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 인간의 타락이 단순히 개인적 죄를 넘어 영적 질서 자체를 무너뜨리는 수준에 이르렀음을 보여줍니다. 하나님께서 정하신 경계를 무시하고 자신의 욕망을 따르는 것은 결국 심판을 초래합니다. 외적인 것만을 추구하는 육체적 선택이 아닌, 하나님의 뜻 안에서의 영적 분별력이 필요함을 가르칩니다."
+    }
+  }
+}

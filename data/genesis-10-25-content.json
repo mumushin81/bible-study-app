@@ -1,0 +1,154 @@
+{
+  "verse_id": "genesis_10_25",
+  "reference": "창세기 10:25",
+  "hebrew": "וּלְעֵבֶר יֻלַּד, שְׁנֵי בָנִים:  שֵׁם הָאֶחָד פֶּלֶג, כִּי בְיָמָיו נִפְלְגָה הָאָרֶץ, וְשֵׁם אָחִיו, יָקְטָן.",
+  "ipa": "ulˈʕever julˈlad ʃəˈne vaˈnim ʃem haʔeˈħad ˈpɛlɛg ki vəjaˈmav nifləˈɡa haˈʔarɛts vəʃem aˈχiv joqˈtan",
+  "korean_pronunciation": "울에베르 율라드 쉐네 바님 셈 하에하드 펠레그 키 베야마브 니플레가 하아레츠 베셈 아히브 요크탄",
+  "modern": "에벨에게 두 아들이 태어났는데, 한 아들의 이름은 벨렉이었으니, 그의 시대에 땅이 나뉘었기 때문입니다. 그의 형제의 이름은 욕단이었습니다",
+  "words": [
+    {
+      "hebrew": "עֵבֶר",
+      "meaning": "에벨 (건너편, 히브리인의 조상)",
+      "ipa": "ˈʕever",
+      "korean": "에베르",
+      "letters": "עֵ(ʕe) + בֶ(ve) + ר(r)",
+      "root": "ע-ב-ר (아바르)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#2E5C8A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(74, 144, 226, 0.1)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#eber1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#eber1)\" /><path d=\"M 16 32 L 48 32\" stroke=\"#87CEEB\" stroke-width=\"3\" stroke-dasharray=\"4 2\" opacity=\"0.6\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"#FFD700\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#FF6B35\" /></svg>",
+      "relatedWords": [
+        "עִבְרִי (이브리 - 히브리인)",
+        "עָבַר (아바르 - 건너다, 지나가다)"
+      ]
+    },
+    {
+      "hebrew": "פֶּלֶג",
+      "meaning": "벨렉 (나누다, 분할하다)",
+      "ipa": "ˈpɛlɛg",
+      "korean": "펠레그",
+      "letters": "פֶּ(pe) + לֶ(le) + ג(g)",
+      "root": "פ-ל-ג (팔라그)",
+      "grammar": "명사",
+      "emoji": "✂️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"div2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 53, 0.1)\" /><rect x=\"30\" y=\"8\" width=\"4\" height=\"48\" fill=\"url(#div2)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"rgba(255, 255, 255, 0.3)\" /><path d=\"M 12 32 L 28 32\" stroke=\"url(#div2)\" stroke-width=\"3\" marker-end=\"url(#arrowL)\" /><path d=\"M 52 32 L 36 32\" stroke=\"url(#div2)\" stroke-width=\"3\" marker-end=\"url(#arrowR)\" /><circle cx=\"12\" cy=\"32\" r=\"5\" fill=\"#4A90E2\" opacity=\"0.7\" /><circle cx=\"52\" cy=\"32\" r=\"5\" fill=\"#00C853\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "פָּלַג (팔라그 - 나누다, 분할하다)",
+        "פְּלַגִּים (플라김 - 물줄기, 분할)"
+      ]
+    },
+    {
+      "hebrew": "בְיָמָיו",
+      "meaning": "그의 시대에, 그의 날들에",
+      "ipa": "vəjaˈmav",
+      "korean": "베야마브",
+      "letters": "בְ(və) + יָ(ya) + מָ(ma) + יו(v)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#time1)\" stroke-width=\"4\" filter=\"drop-shadow(0 0 8px rgba(156, 39, 176, 0.6))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#time1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#time1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#E91E63\" /><circle cx=\"32\" cy=\"12\" r=\"2\" fill=\"#9C27B0\" /><circle cx=\"52\" cy=\"32\" r=\"2\" fill=\"#9C27B0\" /><circle cx=\"32\" cy=\"52\" r=\"2\" fill=\"#9C27B0\" /><circle cx=\"12\" cy=\"32\" r=\"2\" fill=\"#9C27B0\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날, 시대)",
+        "יָמִים (야밈 - 날들, 시대)"
+      ]
+    },
+    {
+      "hebrew": "נִפְלְגָה",
+      "meaning": "나뉘어졌다, 분할되었다",
+      "ipa": "nifləˈɡa",
+      "korean": "니플레가",
+      "letters": "נִ(ni) + פְ(f) + לְ(lə) + גָ(ga) + ה(h)",
+      "root": "פ-ל-ג (팔라그)",
+      "grammar": "동사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"split1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#00C853\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#split1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 6 L 32 58\" stroke=\"#C41E3A\" stroke-width=\"4\" stroke-dasharray=\"2 2\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(196, 30, 58, 0.8))\" /><path d=\"M 16 20 Q 20 16 24 20\" fill=\"#2E7D32\" opacity=\"0.6\" /><path d=\"M 40 28 Q 48 24 52 32\" fill=\"#2E7D32\" opacity=\"0.6\" /><path d=\"M 18 44 Q 24 40 28 44\" fill=\"#1B5E20\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"22\" r=\"8\" fill=\"rgba(255, 255, 255, 0.2)\" /></svg>",
+      "relatedWords": [
+        "פָּלַג (팔라그 - 나누다)",
+        "פְּלֻגָּה (플루가 - 분파, 무리)"
+      ]
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅, 세상",
+      "ipa": "haˈʔarɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(ʔa) + רֶ(re) + ץ(ts)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"50%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></linearGradient><radialGradient id=\"shine2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth3)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"22\" cy=\"26\" rx=\"10\" ry=\"14\" fill=\"#2E7D32\" opacity=\"0.7\" /><ellipse cx=\"46\" cy=\"36\" rx=\"12\" ry=\"16\" fill=\"#2E7D32\" opacity=\"0.6\" /><path d=\"M 14 42 Q 22 38 30 42\" fill=\"#1B5E20\" opacity=\"0.5\" /><circle cx=\"22\" cy=\"18\" r=\"10\" fill=\"url(#shine2)\" opacity=\"0.3\" /><path d=\"M 32 6 A 26 26 0 0 1 52 20\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "יָקְטָן",
+      "meaning": "욕단 (작아지다)",
+      "ipa": "joqˈtan",
+      "korean": "요크탄",
+      "letters": "יָ(yo) + קְ(q) + טָ(ta) + ן(n)",
+      "root": "ק-ט-ן (카탄)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"joktan1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(0, 200, 83, 0.1)\" /><circle cx=\"32\" cy=\"26\" r=\"8\" fill=\"url(#joktan1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#joktan1)\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#654321\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장 25절은 성경에서 가장 신비롭고 논쟁적인 구절 중 하나입니다. '벨렉의 시대에 땅이 나뉘었다'는 이 짧은 언급은 엄청난 사건을 암시합니다. '나뉘었다'(니플레가)는 단순한 정치적 분열이 아니라 물리적·지리적·언어적 대분열을 의미할 수 있습니다. 일부 학자들은 이를 바벨탑 사건(창 11장)과 연결하고, 다른 학자들은 실제 대륙 분리나 대규모 민족 이동을 가리킨다고 봅니다. 벨렉의 이름 자체가 '분할'을 의미하는 것은 그의 시대에 일어난 사건의 중대성을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "עֵבֶר (에베르) - 히브리인의 조상",
+        "description": "에벨은 '히브리인'(이브리)이라는 명칭의 기원이 되는 조상입니다. 그의 이름은 '건너편'을 의미하며, 아브라함이 유프라테스 강을 '건너온 사람'이라는 뜻에서 '히브리인'으로 불렸습니다. 에벨 시대에 언어와 민족의 대분열이 일어났고, 그의 후손 중 일부(벨렉 계통)는 언약 백성이 되고, 다른 후손들(욕단 계통)은 아라비아 반도로 흩어졌습니다.",
+        "points": [
+          "히브리인(Hebrew)의 어원이 되는 조상",
+          "아브라함의 직계 조상 (에벨 → 벨렉 → 르우 → 아브람)",
+          "언약 백성과 이방 민족이 갈라지는 분기점"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "פֶּלֶג (펠레그) - 분할, 나뉨",
+        "description": "벨렉의 이름은 동사 '팔라그'(나누다, 분할하다)에서 직접 유래했습니다. 부모가 자녀에게 이름을 지을 때는 그 시대의 중대한 사건을 반영하는 경우가 많았습니다(예: 노아 - 안식, 바벨 - 혼잡). 벨렉이 태어났을 때 '땅이 나뉘는' 엄청난 사건이 일어났거나 일어나고 있었으며, 이는 온 세상이 알 정도로 충격적인 일이었습니다.",
+        "points": [
+          "이름 자체가 '분할' - 시대적 사건을 반영",
+          "바벨탑 언어 혼잡 사건과 동시대로 추정",
+          "인류 역사의 결정적 전환점"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "נִפְלְגָה הָאָרֶץ (니플레가 하아레츠) - 땅이 나뉘었다",
+        "description": "'니플레가'는 수동태로, 하나님이 주권적으로 땅을 나누셨음을 암시합니다. 이 '나뉨'이 무엇인지는 세 가지 해석이 가능합니다: (1) 바벨탑 사건 - 언어 혼잡으로 인한 민족 분산 (가장 전통적), (2) 대륙 분리 - 판 구조론적 대륙 이동 (일부 창조론자), (3) 대규모 민족 이동 - 정치적·지리적 재편. 가장 유력한 해석은 창 11장의 바벨탑 사건과의 연결입니다.",
+        "points": [
+          "바벨탑 언어 혼잡 → 민족 분산 (가장 유력)",
+          "하나님의 주권적 행위 - 수동태 사용",
+          "전 세계적 규모의 격변"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "두 형제 - 벨렉과 욕단 (두 갈래 길)",
+        "description": "에벨의 두 아들 벨렉과 욕단은 두 갈래 길을 상징합니다. 벨렉 계통은 아브라함으로 이어져 언약 백성이 되고, 욕단 계통은 아라비아 13개 부족의 조상이 됩니다. '벨렉'(분할)과 '욕단'(작아지다)이라는 이름의 대조는 흥미롭습니다 - 한 형제는 '나뉨'을, 다른 형제는 '작아짐'을 나타냅니다.",
+        "points": [
+          "벨렉 → 아브라함 → 이스라엘 (언약 백성)",
+          "욕단 → 아라비아 부족들 (창 10:26-29)",
+          "두 형제, 두 운명 - 선택과 섭리"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "벨렉 때 땅이 나뉘었다는 게 무슨 뜻인가요? 땅이 쪼개졌나요?",
+      "answer": "아주 좋은 질문이에요! '땅이 나뉘었다'는 말은 여러 가지 뜻일 수 있어요. 가장 유명한 이야기는 바벨탑이에요. 사람들이 큰 탑을 쌓아서 하늘까지 올라가려고 했는데, 하나님이 그들의 언어를 섞어버리셨어요. 그래서 서로 말이 안 통하니까 탑을 못 쌓고, 각자 다른 곳으로 흩어졌어요. 어떤 사람들은 중국으로, 어떤 사람들은 아프리카로, 어떤 사람들은 유럽으로 갔죠. 그래서 '땅이 나뉘었다'는 건 사람들이 여러 나라로 갈라졌다는 뜻이에요. 마치 한 가족이 각자 다른 집으로 이사 가는 것처럼요!",
+      "bibleReferences": [
+        "창세기 11:8-9 - '여호와께서 거기서 그들을 온 지면에 흩으셨으므로 그들이 그 도시를 건설하기를 그쳤더라 그러므로 그 이름을 바벨이라 하니'",
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에, 인종을 나누실 때에 이스라엘 자손의 수효대로 백성들의 경계를 정하셨도다'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 10:25는 인류 역사의 대전환점을 기록합니다. 벨렉 시대의 '땅의 분열'은 단순한 지리적 사건이 아니라 하나님의 주권적 심판과 섭리를 나타냅니다. 바벨탑에서 하나님은 인간의 교만을 심판하여 언어를 혼잡케 하시고 민족들을 흩으셨습니다. 그러나 이는 동시에 창 1:28의 '땅에 충만하라'는 명령의 성취이기도 했습니다. 인류는 강제로라도 온 땅에 퍼져야 했습니다. 흥미롭게도 오순절 성령강림(행 2장)은 이 바벨의 저주를 뒤집습니다 - 각 나라 방언으로 복음이 선포되고, 흩어진 민족들이 그리스도 안에서 다시 하나가 됩니다. 벨렉 시대에 나뉘었던 땅은 종말에 새 하늘과 새 땅에서 완전히 통합될 것입니다. 바벨에서 분열된 인류는 새 예루살렘에서 '각 나라와 족속과 백성과 방언'이 함께 어린 양을 경배하는 완전한 통합을 이룰 것입니다(계 7:9)."
+    }
+  }
+}

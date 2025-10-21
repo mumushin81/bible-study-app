@@ -39,14 +39,14 @@ interface CommentaryWithRelations {
     emoji: string
     title: string
     description: string
-    points: any
+    points: string[]
     color: string | null
     position: number
   }>
   why_questions: {
     question: string
     answer: string
-    bible_references: any
+    bible_references: string[]
   } | null
   commentary_conclusions: {
     title: string
@@ -114,7 +114,7 @@ export function useVerses(options?: UseVersesOptions) {
         }
 
         // 2️⃣ Verse IDs 추출
-        const verseIds = versesData.map((v: any) => v.id)
+        const verseIds = versesData.map((v: VerseWithWords) => v.id)
 
         // 3️⃣ Commentaries + 중첩 테이블 별도 조회
         const { data: commentariesData } = await supabase
@@ -156,19 +156,26 @@ export function useVerses(options?: UseVersesOptions) {
           // Word 타입으로 변환 (position으로 정렬)
           const words: Word[] = (verse.words || [])
             .sort((a, b) => a.position - b.position)
-            .map((w) => ({
-              hebrew: w.hebrew,
-              meaning: w.meaning,
-              ipa: w.ipa,
-              korean: w.korean,
-              letters: w.letters || '',
-              root: w.root,
-              grammar: w.grammar,
-              emoji: w.emoji || '📜',
-              iconSvg: w.icon_svg || '',
-              structure: w.structure || undefined,
-              category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
-            }))
+            .map((w) => {
+              // Emoji 누락 감지 및 경고
+              if (!w.emoji) {
+                console.warn(`⚠️  Emoji 누락: ${verse.reference} - ${w.hebrew} (${w.meaning})`)
+              }
+
+              return {
+                hebrew: w.hebrew,
+                meaning: w.meaning,
+                ipa: w.ipa,
+                korean: w.korean,
+                letters: w.letters || '',
+                root: w.root,
+                grammar: w.grammar,
+                emoji: w.emoji || '❓', // ❓ = emoji 누락 (DB에 추가 필요)
+                iconSvg: w.icon_svg || '',
+                structure: w.structure || undefined,
+                category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
+              }
+            })
 
           // Commentary 타입으로 변환
           let commentary: Commentary | undefined
@@ -181,7 +188,7 @@ export function useVerses(options?: UseVersesOptions) {
                 emoji: s.emoji,
                 title: s.title,
                 description: s.description,
-                points: s.points as string[],
+                points: s.points,
                 color: s.color as 'purple' | 'blue' | 'green' | 'pink' | 'orange' | 'yellow',
               }))
 
@@ -195,7 +202,7 @@ export function useVerses(options?: UseVersesOptions) {
               whyQuestion: whyQuestion ? {
                 question: whyQuestion.question,
                 answer: whyQuestion.answer,
-                bibleReferences: whyQuestion.bible_references as string[],
+                bibleReferences: whyQuestion.bible_references,
               } : undefined,
               conclusion: conclusion ? {
                 title: conclusion.title,

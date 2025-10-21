@@ -1,0 +1,149 @@
+{
+  "verseId": "genesis_9_11",
+  "ipa": "vahaˈqimoti ʔɛt bəriˈti ʔitːəˈχɛm vəloʔ jikaˈrɛt kol baˈsar ʕod mimˈme hamːabːˈul vəloʔ jihˈjɛ ʕod mabːˈul ləʃaˈχɛt haˈʔarɛts",
+  "koreanPronunciation": "바하키모티 에트 베리티 이테켐 베로 이카레트 콜 바사르 오드 미메 함마불 베로 이흐예 오드 마불 레샤헤트 하아레츠",
+  "modern": "내가 너희와 내 언약을 세우리니 다시는 모든 생물이 홍수로 멸절되지 아니할 것이요, 다시는 홍수가 땅을 멸하지 아니하리라",
+  "words": [
+    {
+      "hebrew": "וַהֲקִמֹתִי אֶת בְּרִיתִי",
+      "meaning": "내가 내 언약을 세우리니",
+      "ipa": "vahaˈqimoti ʔɛt bəriˈti",
+      "korean": "바하키모티 에트 베리티",
+      "letters": "וַ(va) + הֲקִמֹתִי(haqimoti) + אֶת(et) + בְּרִיתִי(beriti)",
+      "root": "ק-ו-ם / ב-ר-ת (쿰 / 베리트)",
+      "grammar": "동사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><linearGradient id=\"seal2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" rx=\"2\" fill=\"url(#covenant1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"8\" cy=\"32\" r=\"4\" fill=\"#8B4513\" /><circle cx=\"56\" cy=\"32\" r=\"4\" fill=\"#8B4513\" /><path d=\"M 20 24 L 44 24 M 20 30 L 44 30 M 20 36 L 44 36 M 20 42 L 36 42\" stroke=\"#8B4513\" stroke-width=\"1.5\" opacity=\"0.6\" /><circle cx=\"46\" cy=\"40\" r=\"6\" fill=\"url(#seal2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 46 38 L 46 42 M 44 40 L 48 40\" stroke=\"#FFD700\" stroke-width=\"1.5\" /></svg>",
+      "relatedWords": [
+        "קוּם (쿰 - 일어나다, 세우다)",
+        "בְּרִית (베리트 - 언약)"
+      ]
+    },
+    {
+      "hebrew": "וְלֹא יִכָּרֵת",
+      "meaning": "멸절되지 아니할 것이다",
+      "ipa": "vəloʔ jikaˈrɛt",
+      "korean": "베로 이카레트",
+      "letters": "וְ(ve) + לֹא(lo) + יִכָּרֵת(yikaret)",
+      "root": "כ-ר-ת (카라트)",
+      "grammar": "동사",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shield1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E3A8A\" /></linearGradient><linearGradient id=\"cross1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><path d=\"M 32 12 L 48 20 L 48 36 Q 48 48 32 52 Q 16 48 16 36 L 16 20 Z\" fill=\"url(#shield1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 24 32 L 28 36 L 40 24\" stroke=\"url(#cross1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><circle cx=\"32\" cy=\"30\" r=\"14\" stroke=\"#FFD700\" stroke-width=\"1\" fill=\"none\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "כָּרַת (카라트 - 끊다, 멸하다, 언약을 맺다)",
+        "כְּרִיתוּת (케리투트 - 끊어짐, 이혼증서)"
+      ]
+    },
+    {
+      "hebrew": "מִמֵּי הַמַּבּוּל",
+      "meaning": "홍수의 물로부터",
+      "ipa": "mimˈme hamːabːˈul",
+      "korean": "미메 함마불",
+      "letters": "מִ(mi) + מֵּי(me) + הַ(ha) + מַּבּוּל(mabul)",
+      "root": "מַיִם / מ-ב-ל (마임 / 마발)",
+      "grammar": "명사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flood1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#00008B\" /></linearGradient></defs><rect x=\"0\" y=\"32\" width=\"64\" height=\"32\" fill=\"url(#flood1)\" opacity=\"0.7\" /><path d=\"M 0 32 Q 8 28 16 32 Q 24 36 32 32 Q 40 28 48 32 Q 56 36 64 32\" fill=\"url(#flood1)\" opacity=\"0.5\" /><path d=\"M 0 36 Q 8 32 16 36 Q 24 40 32 36 Q 40 32 48 36 Q 56 40 64 36\" fill=\"url(#flood1)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#1E90FF\" opacity=\"0.4\" /><circle cx=\"24\" cy=\"20\" r=\"2\" fill=\"#1E90FF\" opacity=\"0.4\" /><circle cx=\"40\" cy=\"22\" r=\"2\" fill=\"#1E90FF\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "מַבּוּל (마불 - 홍수, 대홍수)",
+        "מַיִם (마임 - 물)"
+      ]
+    },
+    {
+      "hebrew": "עוֹד",
+      "meaning": "다시는",
+      "ipa": "ʕod",
+      "korean": "오드",
+      "letters": "עוֹד(od)",
+      "root": "ע-ו-ד (오드)",
+      "grammar": "부사",
+      "emoji": "🚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"never1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(220, 20, 60, 0.1)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" stroke=\"url(#never1)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(0 2px 6px rgba(220, 20, 60, 0.5))\" /><line x1=\"14\" y1=\"14\" x2=\"50\" y2=\"50\" stroke=\"url(#never1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.5))\" /></svg>",
+      "relatedWords": [
+        "עוֹד (오드 - 더, 또, 다시)"
+      ]
+    },
+    {
+      "hebrew": "לְשַׁחֵת הָאָרֶץ",
+      "meaning": "땅을 멸하다",
+      "ipa": "ləʃaˈχɛt haˈʔarɛts",
+      "korean": "레샤헤트 하아레츠",
+      "letters": "לְ(le) + שַׁחֵת(shachet) + הָ(ha) + אָרֶץ(aretz)",
+      "root": "ש-ח-ת (샤하트)",
+      "grammar": "동사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><radialGradient id=\"protect1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /><stop offset=\"70%\" stop-color=\"#87CEEB\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#4169E1\" stop-opacity=\"0.5\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#earth2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"#87CEEB\" stroke-width=\"2\" fill=\"url(#protect1)\" opacity=\"0.7\" /><path d=\"M 20 26 Q 26 22 32 26 Q 34 28 30 32 Q 26 36 22 34\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 38 20 Q 44 18 50 22 Q 52 26 48 30 Q 44 32 40 28\" fill=\"#228B22\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שָׁחַת (샤하트 - 멸하다, 파괴하다)",
+        "מַשְׁחִית (마쉬히트 - 파괴자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 9장 11절은 노아 언약의 핵심 내용을 담고 있습니다. 하나님께서 '다시는' 홍수로 땅을 멸하지 않으시겠다는 명확하고 단호한 약속입니다. 이 언약은 무조건적이고 영원하며, 전 인류와 모든 피조물을 대상으로 합니다. '세우다'(하킴)라는 동사는 언약의 확립과 불변성을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַהֲקִמֹתִי אֶת בְּרִיתִי (바하키모티 에트 베리티) - 내가 내 언약을 세우리니",
+        "description": "'하킴(הָקִים)'은 '세우다', '확립하다', '일으켜 세우다'를 의미하는 동사입니다. 1인칭 완료형(실제로는 미래를 나타내는 waw-consecutive perfect)으로 사용되어, 하나님께서 반드시 이루실 확정된 미래를 나타냅니다. 언약을 '세운다'는 것은 영구적이고 불변하는 약속을 확립하는 것입니다.",
+        "points": [
+          "하나님께서 주도적으로 언약을 세우십니다 - 인간의 행위나 조건이 없습니다",
+          "'세우다'는 건물의 기초를 놓듯 견고하고 영구적인 확립을 의미합니다",
+          "이 언약은 일방적 은혜 언약입니다 - 쌍방 계약이 아닙니다",
+          "모든 성경의 언약은 궁극적으로 그리스도의 피로 세운 새 언약을 가리킵니다(히브리서 8:6-13)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְלֹא יִכָּרֵת כָּל בָּשָׂר עוֹד (베로 이카레트 콜 바사르 오드) - 다시는 모든 생물이 멸절되지 아니할 것이요",
+        "description": "'카라트(כָּרַת)'는 '끊다', '멸하다'를 의미하며, 아이러니하게도 '언약을 맺다'라는 뜻도 있습니다(문자적으로 '언약을 끊다' - 제물을 쪼개는 의식에서 유래). '바사르(בָּשָׂר)'는 '육체', '모든 생물'을 의미합니다. '오드(עוֹד)'는 '다시', '더 이상'을 의미하는 강력한 부정 부사입니다.",
+        "points": [
+          "'다시는'(오드)이 두 번 반복되어 약속의 확실성을 강조합니다",
+          "모든 생물(바사르)을 포함하는 우주적 보호 약속입니다",
+          "하나님의 심판은 끝났고 이제 은혜의 시대가 시작되었습니다",
+          "이사야 54:9에서 이 약속이 재확인됩니다 - '다시는 노아의 홍수같이 땅 위에 범람하지 못하게 하리라'"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִמֵּי הַמַּבּוּל (미메 함마불) - 홍수의 물로부터",
+        "description": "'마불(מַבּוּל)'은 성경에서 노아 시대의 대홍수를 지칭하는 전문 용어입니다. 일반적인 홍수는 '쉐토프(שֶׁטֶף)'라고 하지만, '마불'은 오직 창세기 6-11장과 시편 29:10에만 나타나는 특별한 단어입니다. 이는 우주적 규모의 심판을 의미합니다.",
+        "points": [
+          "마불은 보통 홍수가 아닌 우주적 대재앙을 의미합니다",
+          "시편 29:10 - '여호와께서 홍수 때에 좌정하셨음이여' - 하나님의 주권을 강조합니다",
+          "베드로후서 3:6 - '이로 말미암아 그때에 세상은 물이 넘침으로 멸망하였으되'",
+          "그러나 다시는 이런 전 지구적 심판은 없을 것입니다 - 다음 심판은 불로 이루어집니다(베드로후서 3:7)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְשַׁחֵת הָאָרֶץ (레샤헤트 하아레츠) - 땅을 멸하다",
+        "description": "'샤하트(שָׁחַת)'는 '멸하다', '파괴하다', '썩게 하다'를 의미하는 강력한 동사입니다. 창세기 6:11-12에서 땅이 '샤하트'(부패했다)되었기 때문에 하나님이 홍수로 '샤하트'(멸하셨다)는 어휘 반복이 나타납니다. 이제 하나님은 다시는 땅을 '샤하트'하지 않겠다고 약속하십니다.",
+        "points": [
+          "땅이 부패해서(샤하트) 멸망당했지만, 이제는 보호받습니다",
+          "하나님의 심판은 정확하지만, 은혜는 영원합니다",
+          "땅은 여전히 하나님께 속하며, 하나님은 그것을 보존하십니다",
+          "요한계시록 21:1 - 새 하늘과 새 땅에서 모든 것이 새로워집니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님께서 왜 '다시는 홍수가 없을 것'이라고 약속하셨나요?",
+      "answer": "큰 홍수가 끝난 후, 노아와 그의 가족은 정말 무서웠을 거예요. '혹시 또 비가 많이 오면 어떡하지? 또 홍수가 나면 어떡하지?'라고 걱정했을 수도 있어요. 하나님은 그들의 마음을 아셨어요. 그래서 하나님은 확실하게 약속하셨어요 - '다시는 절대로 큰 홍수로 세상을 멸하지 않을 거야!' 이것은 하나님께서 우리를 정말 사랑하시고, 우리가 안심하고 살 수 있게 하신다는 뜻이에요. 비가 많이 와도, 폭풍이 와도, 우리는 하나님의 약속을 믿고 두려워하지 않아도 돼요. 하나님은 절대 약속을 어기지 않으시는 분이거든요!",
+      "bibleReferences": [
+        "이사야 54:9-10 - '이는 내게 노아의 홍수와 같도다 내가 다시는 노아의 홍수로 땅 위에 범람하지 못하게 하리라 맹세한 것 같이 내가 다시는 네게 노하지 아니하며 너를 책망하지 아니하기로 맹세하였노니'",
+        "베드로후서 3:6-7 - '이로 말미암아 그때에 세상은 물이 넘침으로 멸망하였으되 이제 하늘과 땅은 그 동일한 말씀으로 불사르기 위하여 보호하신 바 되어'",
+        "시편 29:10 - '여호와께서 홍수 때에 좌정하셨음이여 여호와께서 영원토록 왕으로 좌정하시도다'",
+        "예레미야 33:20-21 - '여호와께서 이같이 말씀하시니라 너희가 능히 낮에 대한 나의 약속과 밤에 대한 나의 약속을 깨뜨려서 주야로 그 때를 잃게 할 수 있을진대'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9장 11절은 하나님의 무조건적 은혜 언약의 완벽한 예입니다. '세우다'(하킴)라는 동사는 언약의 영구성과 불변성을 강조하며, '다시는'(오드)이 두 번 반복되는 것은 하나님 약속의 절대적 확실성을 보증합니다. 이 언약은 노아의 행위나 인류의 의로움에 근거하지 않고 오직 하나님의 주권적 은혜에 근거합니다. 노아 언약은 이후 아브라함 언약, 모세 언약, 다윗 언약을 거쳐 그리스도의 피로 세운 새 언약으로 이어지는 구속사적 연속성을 보여줍니다. '모든 생물'(바사르)을 포함하는 우주적 범위는 하나님의 구속 계획이 인간만이 아니라 전 피조 세계를 포함함을 가르칩니다(로마서 8:19-22). '마불'(대홍수)이 다시 없다는 약속은 하나님의 심판 방식이 이제 물에서 불로 전환되었음을 암시하며(베드로후서 3:7), 궁극적으로 새 하늘과 새 땅에서 모든 파괴(샤하트)가 종식될 것을 예시합니다(요한계시록 21:1-4). 이 언약은 오늘날에도 유효하며, 모든 인류에게 하나님의 신실하심을 증거합니다."
+    }
+  }
+}

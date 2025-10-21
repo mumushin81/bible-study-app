@@ -1,0 +1,136 @@
+{
+  "verseId": "genesis_9_6",
+  "ipa": "ʃoˈfɛχ dam haʔaˈdam baʔaˈdam daˈmo jiʃːaˈfɛχ ki bəˈtsɛlɛm ʔɛloˈhim ʕaˈsa ʔɛt haʔaˈdam",
+  "koreanPronunciation": "쇼페크 담 하아담 바아담 다모 이샤페크 키 베첼렘 엘로힘 아사 에트 하아담",
+  "modern": "사람의 피를 흘리면 사람이 그의 피를 흘릴 것이니, 이는 하나님께서 자기 형상대로 사람을 만드셨기 때문이니라",
+  "words": [
+    {
+      "hebrew": "שֹׁפֵךְ דַּם הָאָדָם",
+      "meaning": "사람의 피를 흘리는 자",
+      "ipa": "ʃoˈfɛχ dam haʔaˈdam",
+      "korean": "쇼페크 담 하아담",
+      "letters": "שֹׁ(sho) + פֵךְ(fekh) + דַּם(dam) + הָ(ha) + אָדָם(adam)",
+      "root": "ש-פ-ך / ד-ם (샤파크 / 담)",
+      "grammar": "동사",
+      "emoji": "🩸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"blood1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><radialGradient id=\"warning1\"><stop offset=\"0%\" stop-color=\"#FF0000\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#8B0000\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#warning1)\" /><path d=\"M 32 16 L 28 28 Q 28 34 32 36 Q 36 34 36 28 Z\" fill=\"url(#blood1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"42\" r=\"3\" fill=\"url(#blood1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"18\" stroke=\"#DC143C\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שָׁפַךְ (샤파크 - 쏟다, 흘리다)",
+        "דָּם (담 - 피, 혈액)"
+      ]
+    },
+    {
+      "hebrew": "בָּאָדָם דָּמוֹ יִשָּׁפֵךְ",
+      "meaning": "사람이 그의 피를 흘릴 것이다",
+      "ipa": "baʔaˈdam daˈmo jiʃːaˈfɛχ",
+      "korean": "바아담 다모 이샤페크",
+      "letters": "בָּ(ba) + אָדָם(adam) + דָּמוֹ(damo) + יִשָּׁפֵךְ(yishafekh)",
+      "root": "ש-פ-ך (샤파크)",
+      "grammar": "동사",
+      "emoji": "⚖️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"justice1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"48\" stroke=\"url(#justice1)\" stroke-width=\"3\" /><rect x=\"30\" y=\"10\" width=\"4\" height=\"4\" fill=\"url(#justice1)\" /><path d=\"M 16 24 L 24 24 L 22 32 L 18 32 Z\" fill=\"url(#justice1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 24 L 48 24 L 46 32 L 42 32 Z\" fill=\"url(#justice1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"12\" y1=\"24\" x2=\"28\" y2=\"24\" stroke=\"url(#justice1)\" stroke-width=\"2\" /><line x1=\"36\" y1=\"24\" x2=\"52\" y2=\"24\" stroke=\"url(#justice1)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "מִשְׁפָּט (미쉬파트 - 심판, 공의)",
+        "נְקָמָה (네카마 - 보복, 복수)"
+      ]
+    },
+    {
+      "hebrew": "כִּי בְּצֶלֶם אֱלֹהִים",
+      "meaning": "하나님의 형상대로",
+      "ipa": "ki bəˈtsɛlɛm ʔɛloˈhim",
+      "korean": "키 베첼렘 엘로힘",
+      "letters": "כִּי(ki) + בְּ(be) + צֶלֶם(tzelem) + אֱלֹהִים(elohim)",
+      "root": "צ-ל-ם (찰람)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"image1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#divine1)\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#image1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 165, 0, 0.6))\" /><path d=\"M 20 34 Q 20 32 22 32 L 42 32 Q 44 32 44 34 L 44 48 Q 44 50 42 50 L 22 50 Q 20 50 20 48 Z\" fill=\"url(#image1)\" filter=\"drop-shadow(0 4px 8px rgba(255, 140, 0, 0.5))\" /><circle cx=\"32\" cy=\"24\" r=\"12\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"24\" r=\"16\" stroke=\"#FFD700\" stroke-width=\"1\" fill=\"none\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "צֶלֶם (첼렘 - 형상, 모습)",
+        "דְּמוּת (데무트 - 모양, 닮음)"
+      ]
+    },
+    {
+      "hebrew": "עָשָׂה אֶת הָאָדָם",
+      "meaning": "사람을 만드셨다",
+      "ipa": "ʕaˈsa ʔɛt haʔaˈdam",
+      "korean": "아사 에트 하아담",
+      "letters": "עָ(a) + שָׂה(sah) + אֶת(et) + הָ(ha) + אָדָם(adam)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사",
+      "emoji": "🎨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"create1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8A2BE2\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient><radialGradient id=\"spark1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#9370DB\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#spark1)\" opacity=\"0.3\" /><path d=\"M 28 40 Q 24 36 24 32 Q 24 24 32 20 Q 40 24 40 32 Q 40 36 36 40\" fill=\"none\" stroke=\"url(#create1)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 6px rgba(138, 43, 226, 0.5))\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><path d=\"M 20 32 L 24 32 M 40 32 L 44 32 M 28 24 L 30 22 M 36 24 L 34 22\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다, 행하다)",
+        "מַעֲשֶׂה (마아세 - 작품, 행위)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 9장 6절은 성경에서 가장 중요한 인권 선언이자 사형 제도의 신학적 근거입니다. 이 구절은 인간 생명의 신성함을 '하나님의 형상'에 근거하여 천명하며, 살인에 대한 하나님의 엄중한 경고를 담고 있습니다. 히브리어 시적 구조(교차 대구)로 되어 있어, 원인과 결과, 죄와 심판의 상호 관계를 강력하게 표현합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שֹׁפֵךְ דַּם (쇼페크 담) - 피를 흘리는 자",
+        "description": "'샤파크(שָׁפַךְ)'는 '쏟다', '흘리다'를 의미하며, '담(דָּם)'은 '피', '혈액'을 의미합니다. 성경에서 피는 생명 자체를 상징합니다(레위기 17:11). 피를 흘린다는 것은 단순한 살상이 아니라, 하나님께서 주신 생명을 불법적으로 빼앗는 중대한 범죄입니다.",
+        "points": [
+          "피는 생명을 상징합니다 - '육체의 생명은 피에 있음이라'(레위기 17:11)",
+          "살인은 하나님의 형상을 파괴하는 행위입니다",
+          "가인의 죄 이후 최초로 살인에 대한 법적 처벌이 명시됩니다",
+          "이는 이스라엘 십계명의 '살인하지 말라'(출애굽기 20:13)의 근거가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּאָדָם דָּמוֹ יִשָּׁפֵךְ (바아담 다모 이샤페크) - 사람이 그의 피를 흘릴 것이다",
+        "description": "이 구절은 히브리어 교차 대구법(chiasm)으로 되어 있습니다: A(피를 흘리면) - B(사람의) - C(사람이) - B'(그의) - A'(피를 흘릴 것이다). 이 구조는 살인의 결과가 정확히 죄에 상응함을 강조합니다. 이는 사형 제도의 근거가 되지만, 동시에 하나님의 공의로운 심판 원리를 보여줍니다.",
+        "points": [
+          "탈리오 법칙(lex talionis)의 기원 - '눈에는 눈, 이에는 이'(출애굽기 21:24)",
+          "이는 무제한적 복수가 아니라 동등한 정의를 의미합니다",
+          "사형 제도의 신학적 근거이지만, 궁극적으로 하나님의 심판권을 나타냅니다",
+          "신약에서 바울은 '원수 갚는 것이 내게 있으니 내가 갚으리라'(로마서 12:19)고 가르칩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כִּי בְּצֶלֶם אֱלֹהִים (키 베첼렘 엘로힘) - 하나님의 형상대로",
+        "description": "'첼렘(צֶלֶם)'은 '형상', '모습'을 의미하며, 창세기 1:26-27의 핵심 개념입니다. 살인이 왜 그토록 중대한 죄인지에 대한 신학적 근거가 바로 여기에 있습니다 - 사람을 죽이는 것은 하나님의 형상을 파괴하는 행위이기 때문입니다. 이는 성경의 모든 인권 사상의 토대입니다.",
+        "points": [
+          "인간의 존엄성은 하나님의 형상에서 비롯됩니다",
+          "이는 인종, 성별, 나이, 능력과 무관한 보편적 존엄성입니다",
+          "타락 이후에도 하나님의 형상은 파손되었으나 파괴되지 않았습니다(창세기 9:6, 야고보서 3:9)",
+          "그리스도는 '보이지 않는 하나님의 형상'으로 오셔서 형상을 회복하셨습니다(골로새서 1:15)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "עָשָׂה אֶת הָאָדָם (아사 에트 하아담) - 사람을 만드셨다",
+        "description": "'아사(עָשָׂה)'는 '만들다', '행하다'를 의미합니다. 하나님께서 친히 사람을 '만드셨다'는 사실은 모든 인간 생명의 소유권이 하나님께 있음을 의미합니다. 따라서 살인은 단순히 사회적 범죄가 아니라 창조주의 권한을 침해하는 신성 모독입니다.",
+        "points": [
+          "모든 생명은 하나님께 속하며, 인간은 그것을 빼앗을 권리가 없습니다",
+          "창조주만이 생명을 주시고 거두실 권한이 있습니다",
+          "낙태, 안락사 등 현대 생명 윤리 문제의 근거가 됩니다",
+          "그리스도는 우리를 위해 자발적으로 목숨을 버리심으로 최고의 사랑을 보여주셨습니다(요한복음 10:18)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 사람을 죽이면 그렇게 나쁜 건가요?",
+      "answer": "하나님께서 사람을 만드실 때, 다른 동물들과는 다르게 '하나님의 형상'대로 만드셨어요. 이것은 사람이 정말 특별하고 귀하다는 뜻이에요. 마치 왕님의 초상화를 찢어버리면 왕님을 모욕하는 것처럼, 사람을 죽이는 것은 하나님을 모욕하는 것과 같아요. 왜냐하면 그 사람 안에 하나님의 모습이 있기 때문이에요. 또 하나님만이 생명을 주시고 가져가실 수 있는 분이에요. 우리는 우리 몸도 우리 것이 아니고 하나님께서 주신 선물이에요. 그래서 다른 사람의 생명을 빼앗는 것은 하나님의 선물을 훔치는 것과 같답니다. 하나님은 모든 사람을 너무너무 사랑하시기 때문에, 누군가가 다른 사람을 아프게 하는 것을 정말 싫어하세요.",
+      "bibleReferences": [
+        "창세기 1:27 - '하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고'",
+        "출애굽기 20:13 - '살인하지 말라'",
+        "야고보서 3:9 - '이것으로 우리가 주 아버지를 찬송하고 또 이것으로 하나님의 형상대로 지음을 받은 사람을 저주하나니'",
+        "요한복음 10:10 - '도둑이 오는 것은 도둑질하고 죽이고 멸망시키려는 것뿐이요 내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라'",
+        "로마서 12:19 - '원수 갚는 것이 내게 있으니 내가 갚으리라고 주께서 말씀하시니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9장 6절은 성경의 인권 선언이자 생명 윤리의 토대입니다. '하나님의 형상'(imago Dei) 교리는 모든 인간의 절대적이고 불가침의 존엄성을 확립하며, 이는 인종, 성별, 나이, 능력, 사회적 지위와 무관합니다. 살인이 최고의 범죄인 이유는 그것이 하나님의 형상을 파괴하고 창조주의 주권을 침해하기 때문입니다. 이 구절은 사형 제도의 근거가 되지만, 동시에 하나님만이 궁극적 심판자이심을 강조합니다. 히브리어 교차 대구 구조는 죄와 벌의 상응성을 보여주며, 이는 하나님의 공의가 완전함을 나타냅니다. 타락 후에도 하나님의 형상이 인간에게 남아있다는 사실(야고보서 3:9)은 모든 인간에 대한 존중의 근거가 됩니다. 궁극적으로 이 구절은 그리스도의 십자가를 가리킵니다 - 죄 없으신 분의 피가 흘려져 죄인들의 생명을 구원하셨고, 파손된 하나님의 형상을 회복하셨습니다(골로새서 1:15, 고린도후서 3:18)."
+    }
+  }
+}

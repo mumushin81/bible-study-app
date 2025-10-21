@@ -1,0 +1,170 @@
+{
+  "verse_id": "genesis_7_11",
+  "reference": "창세기 7:11",
+  "hebrew": "בִּשְׁנַ֨ת שֵׁשׁ מֵא֤וֹת שָׁנָה֙ לְחַיֵּי נֹ֔חַ בַּחֹ֨דֶשׁ֙ הַשֵּׁנִ֔י בְּשִׁבְעָֽה עָשָׂ֥ר י֖וֹם לַחֹ֑דֶשׁ בַּיּ֣וֹם הַזֶּ֗ה נִבְקְעוּ֙ כָּֽל מַעְיְנֹת֙ תְּה֣וֹם רַבָּ֔ה וַאֲרֻבֹּ֥ת הַשָּׁמַ֖יִם נִפְתָּֽחוּ",
+  "ipa": "biʃˈnat ʃeʃ meˈʔot ʃaˈna ləχajˈje ˈnoaχ baˈχodeʃ haʃːeˈni bəʃivˈʔa ʔaˈsar ˈjom laˈχodeʃ bajˈjom hazˈze nivqəˈʔu kol maʔjəˈnot təˈhom rabːˈa vaʔaruˈbːot haʃːaˈmajim niftaˈχu",
+  "korean_pronunciation": "비쉬나트 셰쉬 메오트 샤나 레하예 노아흐 바호데쉬 하쉐니 베쉬브아 아사르 욤 라호데쉬 바욤 하제 니브케우 콜 마예노트 테홈 라바 바아루보트 하샤마임 니프타후",
+  "modern": "노아의 생애 육백 년 되던 해 둘째 달 십칠일, 바로 그날에 큰 깊음의 모든 샘들이 터지고 하늘의 창들이 열렸습니다",
+  "words": [
+    {
+      "hebrew": "בִּשְׁנַת שֵׁשׁ מֵאוֹת",
+      "meaning": "육백 년",
+      "ipa": "biʃˈnat ʃeʃ meˈʔot",
+      "korean": "비쉬나트 셰쉬 메오트",
+      "letters": "בִּ(bi) + שְׁנַת(ʃnat) + שֵׁשׁ(ʃeʃ) + מֵאוֹת(meʔot)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(102, 126, 234, 0.2)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#time1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#time1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#time1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#764ba2\" /></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 해)",
+        "זְמַן (제만 - 시간)"
+      ]
+    },
+    {
+      "hebrew": "בַּחֹדֶשׁ הַשֵּׁנִי",
+      "meaning": "둘째 달",
+      "ipa": "baˈχodeʃ haʃːeˈni",
+      "korean": "바호데쉬 하쉐니",
+      "letters": "בַּ(ba) + חֹדֶשׁ(χodeʃ) + הַ(ha) + שֵּׁנִי(ʃːeni)",
+      "root": "חֹדֶשׁ (호데쉬)",
+      "grammar": "명사",
+      "emoji": "🌙",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"moon1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\" /><stop offset=\"100%\" stop-color=\"#D3D3D3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(211, 211, 211, 0.2)\" /><circle cx=\"28\" cy=\"32\" r=\"16\" fill=\"url(#moon1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"36\" cy=\"32\" r=\"14\" fill=\"#1a1a2e\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "בְּשִׁבְעָה עָשָׂר יוֹם",
+      "meaning": "십칠일",
+      "ipa": "bəʃivˈʔa ʔaˈsar ˈjom",
+      "korean": "베쉬브아 아사르 욤",
+      "letters": "בְּ(bə) + שִׁבְעָה(ʃivʔa) + עָשָׂר(ʔasar) + יוֹם(jom)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "emoji": "📆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cal1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C06C84\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"36\" rx=\"4\" fill=\"url(#cal1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"12\" width=\"40\" height=\"8\" rx=\"4\" fill=\"#C06C84\" /><circle cx=\"20\" cy=\"16\" r=\"2\" fill=\"white\" /><circle cx=\"44\" cy=\"16\" r=\"2\" fill=\"white\" /><text x=\"32\" y=\"38\" font-size=\"18\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">17</text></svg>"
+    },
+    {
+      "hebrew": "נִבְקְעוּ",
+      "meaning": "터졌다, 갈라졌다",
+      "ipa": "nivqəˈʔu",
+      "korean": "니브케우",
+      "letters": "נִ(ni) + בְ(v) + קְ(qə) + עוּ(ʔu)",
+      "root": "ב-ק-ע (바카)",
+      "grammar": "동사",
+      "emoji": "💥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"burst1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 53, 0.2)\" /><path d=\"M 32 12 L 36 28 L 52 28 L 38 38 L 44 54 L 32 44 L 20 54 L 26 38 L 12 28 L 28 28 Z\" fill=\"url(#burst1)\" filter=\"drop-shadow(0 0 12px rgba(255, 107, 53, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בֶּקַע (베카 - 골짜기)",
+        "בָּקַע (바카 - 쪼개다)"
+      ]
+    },
+    {
+      "hebrew": "מַעְיְנֹת תְּהוֹם רַבָּה",
+      "meaning": "큰 깊음의 샘들",
+      "ipa": "maʔjəˈnot təˈhom rabːˈa",
+      "korean": "마예노트 테홈 라바",
+      "letters": "מַ(ma) + עְיְנֹת(ʔjənot) + תְּ(tə) + הוֹם(hom) + רַבָּה(rabːa)",
+      "root": "עַיִן (아인)",
+      "grammar": "명사",
+      "emoji": "⛲",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"deep1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E3A8A\" /><stop offset=\"100%\" stop-color=\"#0F172A\" /></linearGradient><radialGradient id=\"water2\"><stop offset=\"0%\" stop-color=\"#60A5FA\" /><stop offset=\"100%\" stop-color=\"#1E40AF\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#deep1)\" opacity=\"0.3\" rx=\"8\" /><circle cx=\"32\" cy=\"48\" r=\"12\" fill=\"url(#water2)\" filter=\"drop-shadow(0 0 12px rgba(96, 165, 250, 0.6))\" /><path d=\"M 32 40 Q 28 32 32 24 Q 36 32 32 40\" fill=\"url(#water2)\" opacity=\"0.7\" /><path d=\"M 24 36 Q 20 28 24 20\" fill=\"url(#water2)\" opacity=\"0.5\" /><path d=\"M 40 36 Q 44 28 40 20\" fill=\"url(#water2)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "תְּהוֹם (테홈 - 깊음, 심연)",
+        "מַעְיָן (마얀 - 샘)"
+      ]
+    },
+    {
+      "hebrew": "אֲרֻבֹּת הַשָּׁמַיִם",
+      "meaning": "하늘의 창들",
+      "ipa": "ʔaruˈbːot haʃːaˈmajim",
+      "korean": "아루보트 하샤마임",
+      "letters": "אֲ(ʔa) + רֻבֹּת(rubːot) + הַ(ha) + שָּׁמַיִם(ʃːamajim)",
+      "root": "אֲרֻבָּה (아루바)",
+      "grammar": "명사",
+      "emoji": "🌌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E3A8A\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky1)\" /><rect x=\"20\" y=\"8\" width=\"24\" height=\"20\" rx=\"2\" fill=\"none\" stroke=\"white\" stroke-width=\"3\" opacity=\"0.8\" /><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"28\" stroke=\"white\" stroke-width=\"2\" opacity=\"0.8\" /><line x1=\"20\" y1=\"18\" x2=\"44\" y1=\"18\" stroke=\"white\" stroke-width=\"2\" opacity=\"0.8\" /><path d=\"M 28 32 L 28 48\" stroke=\"white\" stroke-width=\"2\" opacity=\"0.6\" /><path d=\"M 32 32 L 32 50\" stroke=\"white\" stroke-width=\"2\" opacity=\"0.6\" /><path d=\"M 36\" y1=\"32\" x2=\"36\" y2=\"48\" stroke=\"white\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חַלּוֹן (할론 - 창문)",
+        "שָׁמַיִם (샤마임 - 하늘)"
+      ]
+    },
+    {
+      "hebrew": "נִפְתָּחוּ",
+      "meaning": "열렸다",
+      "ipa": "niftaˈχu",
+      "korean": "니프타후",
+      "letters": "נִ(ni) + פְ(f) + תָּ(ta) + חוּ(χu)",
+      "root": "פ-ת-ח (파타흐)",
+      "grammar": "동사",
+      "emoji": "🚪",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"open1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><linearGradient id=\"light2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.9\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"20\" height=\"48\" rx=\"2\" fill=\"url(#open1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" transform=\"rotate(-30 18 32)\" /><rect x=\"28\" y=\"8\" width=\"28\" height=\"48\" fill=\"url(#light2)\" /><circle cx=\"12\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "פֶּתַח (페타흐 - 문, 입구)",
+        "פָּתַח (파타흐 - 열다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 7장 11절은 대홍수가 시작된 정확한 날짜를 기록하고 있습니다. 이 구절은 홍수가 신화가 아닌 역사적 사건임을 강조하며, '큰 깊음의 샘들'과 '하늘의 창들'이라는 표현으로 우주적 규모의 심판을 묘사합니다. 이는 창조 때의 질서가 역전되는 심판의 순간입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בִּשְׁנַת...בַּחֹדֶשׁ...בְּיוֹם (비쉬나트...바호데쉬...베욤) - 정확한 날짜",
+        "description": "성경은 홍수가 시작된 날짜를 년, 월, 일까지 정확하게 기록합니다. 노아의 생애 600년 2월 17일이라는 구체적 날짜는 이 사건이 신화나 전설이 아닌 실제 역사적 사건임을 강조합니다.",
+        "points": [
+          "하나님의 심판에는 정확한 때가 있습니다",
+          "역사적 정확성은 성경의 신뢰성을 보여줍니다",
+          "하나님은 역사의 주관자이시며 모든 사건을 정확히 기록하십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "נִבְקְעוּ מַעְיְנֹת תְּהוֹם (니브케우 마예노트 테홈) - 깊음의 샘들이 터짐",
+        "description": "'테홈'(깊음)은 창세기 1:2에서 창조 이전의 혼돈을 묘사할 때 사용된 단어입니다. 깊음의 샘들이 터진다는 것은 땅 밑의 거대한 지하수가 분출한 것을 의미하며, 창조의 질서가 역전되는 심판을 상징합니다.",
+        "points": [
+          "홍수는 단순한 비가 아니라 지구 전체의 재앙이었습니다",
+          "창조 때 분리되었던 물들이 다시 합쳐지는 역창조입니다",
+          "땅 위와 땅 아래에서 동시에 물이 나왔습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֲרֻבֹּת הַשָּׁמַיִם (아루보트 하샤마임) - 하늘의 창들",
+        "description": "'아루보트'는 문자적으로 '창문들', '수문들'을 의미합니다. 하늘에 창문이 있어서 그것이 열렸다는 표현은 하늘 위의 물(창세기 1:7)이 쏟아져 내린 것을 묘사합니다. 이는 우주적 규모의 심판을 나타냅니다.",
+        "points": [
+          "하늘과 땅에서 동시에 물이 쏟아졌습니다",
+          "창조 때 세워진 경계들이 무너졌습니다",
+          "말라기 3:10의 복의 통로와 대조를 이룹니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּיּוֹם הַזֶּה (바욤 하제) - 바로 그날",
+        "description": "'바로 그날'이라는 강조는 하나님의 말씀이 정확히 이루어졌음을 보여줍니다. 하나님께서 7일 후에 비를 내리시겠다고 하신 약속(7:4)이 정확히 그날 성취되었습니다.",
+        "points": [
+          "하나님의 말씀은 정확하게 성취됩니다",
+          "심판의 날은 미루어지지 않습니다",
+          "하나님의 시간표는 완벽합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 홍수가 시작된 날짜를 이렇게 자세히 적었을까요?",
+      "answer": "하나님은 홍수 이야기가 만들어낸 신화가 아니라 정말로 일어난 일이라는 것을 우리가 알기 원하셨어요. 마치 우리 생일이 정확한 날짜가 있는 것처럼, 홍수도 정확한 날짜에 일어났답니다. 그리고 하나님께서 '7일 후에 비를 내리겠다'고 약속하셨는데, 정확히 그날 비가 내렸어요. 이것은 하나님의 말씀이 항상 정확하게 이루어진다는 것을 보여주는 거예요!",
+      "bibleReferences": [
+        "창세기 7:4 - '지금부터 칠 일이면 내가 사십 주야를 땅에 비를 내려'",
+        "창세기 8:14 - '이월 이십칠일에 땅이 말랐더라'",
+        "베드로후서 3:5-6 - '이는 하늘이 옛적부터 있는 것과 땅이 물에서 나와 물로 성립된 것도 하나님의 말씀으로 된 것을 그들이 일부러 잊으려 함이로다'",
+        "누가복음 17:27 - '노아가 방주에 들어가던 날까지 사람들이 먹고 마시고 장가 들고 시집가더니 홍수가 나서 그들을 다 멸망시켰으며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "홍수의 정확한 날짜 기록은 하나님의 심판이 역사적 사실임을 확증합니다. 깊음의 샘과 하늘의 창이 동시에 열린 것은 창조 때 세워진 질서가 역전되는 역창조(de-creation)를 의미합니다. 이는 죄에 대한 하나님의 철저한 심판을 보여주는 동시에, 예수 그리스도의 재림과 최후의 심판이 역사적으로 정확하게 이루어질 것을 예표합니다. 창조의 하나님은 심판의 하나님이시며, 새 창조의 하나님이십니다."
+    }
+  }
+}

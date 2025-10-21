@@ -1,0 +1,128 @@
+{
+  "verse_id": "genesis_10_10",
+  "reference": "창세기 10:10",
+  "hebrew": "וַתְּהִי רֵאשִׁית מַמְלַכְתּוֹ בָּבֶל, וְאֶרֶךְ וְאַכַּד וְכַלְנֵה, בְּאֶרֶץ, שִׁנְעָר.",
+  "ipa": "vattəˈhi reʃit mamlaχˈto baˈvɛl vəˈʔɛrɛχ vəʔakˈkad vəχalˈne bəʔɛrɛts ʃinˈʕar",
+  "korean_pronunciation": "바테히 레쉬트 맘라크토 바벨 베에레크 베아카드 베칼네 베에레츠 쉰아르",
+  "modern": "그의 나라는 처음에 시날 땅의 바벨, 에렉, 악갓, 갈네에서 시작되었습니다",
+  "words": [
+    {
+      "hebrew": "רֵאשִׁית",
+      "meaning": "시작, 처음, 기원",
+      "ipa": "reʃit",
+      "korean": "레쉬트",
+      "letters": "רֵ(re) + אשִׁ(shi) + ית(t)",
+      "root": "רֹאשׁ (로쉬)",
+      "grammar": "명사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"begin2\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"sun2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#begin2)\" opacity=\"0.4\" rx=\"8\" /><circle cx=\"48\" cy=\"16\" r=\"10\" fill=\"url(#sun2)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 0.9))\" /><path d=\"M 48 6 L 48 10\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 58 16 L 54 16\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 54 10 L 52 12\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 54 22 L 52 20\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "רֹאשׁ (로쉬 - 머리, 시작)",
+        "בְּרֵאשִׁית (베레쉬트 - 태초에)"
+      ]
+    },
+    {
+      "hebrew": "מַמְלַכְתּוֹ",
+      "meaning": "그의 왕국, 그의 통치",
+      "ipa": "mamlaχˈto",
+      "korean": "맘라크토",
+      "letters": "מַ(ma) + מְ(m) + לַ(la) + כְ(χ) + תּ(t) + וֹ(o)",
+      "root": "מ-ל-ך (말라크)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kingdom1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient></defs><rect x=\"8\" y=\"40\" width=\"48\" height=\"16\" fill=\"url(#kingdom1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 12 40 L 16 24 L 22 28 L 32 16 L 42 28 L 48 24 L 52 40 Z\" fill=\"url(#kingdom1)\" stroke=\"#8B0000\" stroke-width=\"2\" /><circle cx=\"20\" cy=\"28\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"44\" cy=\"28\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (멜레크 - 왕)",
+        "מַלְכוּת (말쿠트 - 왕국, 통치)"
+      ]
+    },
+    {
+      "hebrew": "בָּבֶל",
+      "meaning": "바벨 (혼잡, 혼돈)",
+      "ipa": "baˈvɛl",
+      "korean": "바벨",
+      "letters": "בָּ(ba) + בֶ(ve) + ל(l)",
+      "root": "ב-ל-ל (발랄)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect x=\"20\" y=\"48\" width=\"24\" height=\"8\" fill=\"url(#babel1)\" /><rect x=\"22\" y=\"40\" width=\"20\" height=\"8\" fill=\"url(#babel1)\" opacity=\"0.9\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"8\" fill=\"url(#babel1)\" opacity=\"0.8\" /><rect x=\"26\" y=\"24\" width=\"12\" height=\"8\" fill=\"url(#babel1)\" opacity=\"0.7\" /><rect x=\"28\" y=\"16\" width=\"8\" height=\"8\" fill=\"url(#babel1)\" opacity=\"0.6\" /><path d=\"M 32 8 L 36 16 L 28 16 Z\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><line x1=\"24\" y1=\"56\" x2=\"40\" y2=\"56\" stroke=\"#654321\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "בָּלַל (발랄 - 혼잡하게 하다)",
+        "בָּבֶל (바벨론 - 바빌론)"
+      ]
+    },
+    {
+      "hebrew": "שִׁנְעָר",
+      "meaning": "시날 (바벨론 지역)",
+      "ipa": "ʃinˈʕar",
+      "korean": "쉰아르",
+      "letters": "שִׁ(shi) + נְ(n) + עָ(ʕa) + ר(r)",
+      "root": "שִׁנְעָר (쉰아르)",
+      "grammar": "명사",
+      "emoji": "🗺️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#land1)\" opacity=\"0.3\" rx=\"8\" /><path d=\"M 16 32 Q 24 28 32 32 T 48 32\" stroke=\"#4A90E2\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\" /><ellipse cx=\"20\" cy=\"40\" rx=\"8\" ry=\"6\" fill=\"#228B22\" opacity=\"0.5\" /><ellipse cx=\"44\" cy=\"36\" rx=\"10\" ry=\"7\" fill=\"#228B22\" opacity=\"0.5\" /><rect x=\"28\" y=\"24\" width=\"8\" height=\"12\" fill=\"#8B4513\" /><polygon points=\"32,16 28,24 36,24\" fill=\"#D2691E\" /><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"#4A90E2\" opacity=\"0.7\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장 10절은 니므롯의 제국이 시날 땅의 4개 도시에서 시작되었음을 기록합니다. 특히 '바벨'은 11장의 바벨탑 사건과 직접 연결되며, 이는 니므롯이 바벨탑 건설의 배후 인물임을 강력히 암시합니다. 시날 땅(수메르-바빌로니아 지역)은 인류 최초의 문명 발상지이자, 동시에 하나님께 대한 인간의 반역이 조직화된 곳입니다. 이곳에서 시작된 '바벨론 체제'는 성경 전체를 관통하는 하나님의 적대 세력으로 나타납니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "רֵאשִׁית מַמְלַכְתּוֹ (레쉬트 맘라크토) - 그의 왕국의 시작",
+        "description": "'레쉬트'(처음)는 창세기 1:1의 '베레쉬트'(태초에)와 같은 어근입니다. 니므롯의 제국은 새로운 시작, 즉 하나님 없는 인간 통치의 시작이었습니다. 이는 하나님의 창조('베레쉬트')를 모방하고 대체하려는 사탄적 모방입니다. 하나님이 천지를 창조하셨다면, 니므롯은 인간 제국을 '창조'하려 했습니다.",
+        "points": [
+          "최초의 조직화된 인간 왕국 - 신정이 아닌 왕정",
+          "하나님의 창조 질서를 모방하려는 사탄적 시도",
+          "모든 후속 제국의 원형이자 모델"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּבֶל (바벨) - 혼잡, 하나님께 대한 도전",
+        "description": "바벨은 아카드어로 '신들의 문'(Bab-ilu)을 의미하지만, 히브리어로는 '발랄'(혼잡하게 하다)과 연결됩니다. 11장에서 하나님은 언어를 혼잡케 하심으로써 인간의 교만을 심판하십니다. 바벨은 인류 역사상 처음으로 조직적으로 하나님께 도전한 곳이며, 이후 '바벨론'이라는 이름으로 성경 전체에서 하나님의 적대 세력을 상징합니다.",
+        "points": [
+          "바벨탑 사건의 무대 - 하늘에 닿으려는 인간의 교만",
+          "언어 혼잡의 심판을 받은 도시",
+          "계시록까지 이어지는 '바벨론 체제'의 시작"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שִׁנְעָר (쉰아르) - 반역의 땅, 문명의 요람",
+        "description": "시날은 티그리스-유프라테스 강 사이의 비옥한 평원으로, 인류 최초의 문명(수메르)이 발상한 곳입니다. 그러나 성경은 이곳을 '반역의 땅'으로 묘사합니다. 에덴동산의 동쪽, 가인이 도망친 '놋 땅'과 가까운 이 지역은 인간이 하나님 없이도 고도의 문명을 건설할 수 있음을 보여줍니다. 그러나 그 문명은 하나님께 대항하는 데 사용됩니다.",
+        "points": [
+          "메소포타미아 문명의 중심지 - 우르, 우룩, 바빌론",
+          "인간의 기술과 지혜가 하나님께 대항하는 데 사용됨",
+          "후에 바빌론 포로의 땅이 됨 (단 1:2)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "네 도시 - 제국의 네 기둥",
+        "description": "바벨, 에렉, 악갓, 갈네 - 이 네 도시는 니므롯 제국의 핵심 거점이었습니다. 고고학적으로 이들은 실제 고대 수메르-바빌로니아의 주요 도시들입니다(바빌론, 우룩, 아카드). 숫자 '4'는 성경에서 온 땅, 전 세계를 상징합니다(사방). 니므롯은 네 도시를 통해 전 세계를 지배하려 했습니다.",
+        "points": [
+          "4 = 전 세계 지배의 야망 (동서남북)",
+          "각 도시는 군사, 경제, 종교 중심지",
+          "통합된 제국 체제의 시작"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 니므롯은 바벨에 왕국을 세웠나요? 그리고 왜 그게 나쁜가요?",
+      "answer": "니므롯은 시날이라는 아주 좋은 땅에 바벨이라는 큰 도시를 만들었어요. 그는 사람들에게 '우리가 하늘까지 닿는 큰 탑을 쌓아서 우리 이름을 높이자!'라고 말했어요. 하지만 하나님은 '땅에 흩어져서 살라'고 말씀하셨는데, 니므롯은 '싫어! 우리 모두 여기 모여서 큰 나라를 만들자!'라고 했어요. 그리고 탑 꼭대기까지 올라가서 하나님과 같아지려고 했죠. 이건 하나님께 불순종하는 거예요. 그래서 하나님이 그들의 언어를 섞어버리셔서 탑 쌓기를 멈추게 하셨답니다. 진짜 큰 왕국은 하나님이 세우시는 거예요!",
+      "bibleReferences": [
+        "창세기 11:4 - '또 말하되 자, 성읍과 탑을 건설하여 그 탑 꼭대기를 하늘에 닿게 하여 우리 이름을 내고 온 지면에 흩어짐을 면하자 하였더니'",
+        "다니엘 2:44 - '이 여러 왕들의 시대에 하늘의 하나님이 한 나라를 세우시리니 이것은 영원히 망하지도 아니할 것이요'",
+        "요한계시록 17:5 - '그의 이마에 이름이 기록되었으니 비밀이라, 큰 바벨론이라, 땅의 음녀들과 가증한 것들의 어미라 하였더라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 10:10은 인류 역사에서 '바벨론 체제'의 탄생을 기록합니다. 바벨론은 단순한 고대 도시가 아니라, 하나님 없이 인간 스스로 통합과 안전과 영광을 추구하는 모든 체제를 상징합니다. 이는 정치적(독재), 경제적(물질주의), 종교적(우상숭배) 차원을 모두 포함합니다. 성경은 바벨론 제국(다니엘서), 바사 제국, 그리스 제국, 로마 제국을 거쳐 종말의 '큰 바벨론'(계 17-18장)까지 이 패턴이 반복됨을 보여줍니다. 그러나 모든 바벨론은 결국 무너지며, 오직 그리스도의 왕국만이 영원히 설 것입니다. 니므롯이 땅에서 시작한 왕국은 하늘에서 내려오는 새 예루살렘(계 21장)에 의해 대체될 것입니다."
+    }
+  }
+}

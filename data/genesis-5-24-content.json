@@ -1,0 +1,218 @@
+{
+  "verse_id": "genesis_5_24",
+  "reference": "창세기 5:24",
+  "hebrew": "וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים",
+  "ipa": "vajithaˈleχ χaˈnoχ et haʔeloˈhim vəʔeˈnenu ki laˈqaχ ʔoˈto ʔeloˈhim",
+  "korean_pronunciation": "바이트할레크 하노크 에트 하엘로힘 베에이넨누 키 라카흐 오토 엘로힘",
+  "modern": "에녹이 하나님과 동행하다가 더 이상 보이지 않았으니, 이는 하나님이 그를 데려가셨기 때문입니다",
+  "words": [
+    {
+      "hebrew": "וַיִּתְהַלֵּךְ",
+      "meaning": "그리고 그가 걷다, 동행하다",
+      "ipa": "vajithaˈleχ",
+      "korean": "바이트할레크",
+      "letters": "ו(v) + ַ(a) + יִּ(yi) + ת(t) + ְ(h) + ַ(a) + ל(l) + ֵּ(e) + ךְ(kh)",
+      "root": "הָלַךְ (할라크)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"walk1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"light24\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#667eea\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"24\" fill=\"url(#light24)\" /><circle cx=\"24\" cy=\"20\" r=\"6\" fill=\"url(#walk1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"24\" cy=\"36\" rx=\"8\" ry=\"14\" fill=\"url(#walk1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 24 L 40 32 L 36 38\" stroke=\"url(#walk1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 44 Q 20 48 24 46 Q 28 44 32 48\" stroke=\"url(#walk1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "דֶּרֶךְ (데레크 - 길)",
+        "הָלִיכָה (할리카 - 걷기)"
+      ]
+    },
+    {
+      "hebrew": "חֲנוֹךְ",
+      "meaning": "에녹",
+      "ipa": "χaˈnoχ",
+      "korean": "하노크",
+      "letters": "ח(kh) + ֲ(a) + נ(n) + וֹ(o) + ךְ(kh)",
+      "root": "חָנַךְ (하나크)",
+      "grammar": "명사",
+      "emoji": "👨‍🦳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"enoch2\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"holy2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient><radialGradient id=\"glory1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"30\" ry=\"28\" fill=\"url(#glory1)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#enoch2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"16\" fill=\"url(#enoch2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"14\" r=\"7\" fill=\"url(#holy2)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 1))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "חִנּוּךְ (히누크 - 교육, 헌신)",
+        "חָנַךְ (하나크 - 헌신하다)"
+      ]
+    },
+    {
+      "hebrew": "אֶת",
+      "meaning": "~와 함께",
+      "ipa": "et",
+      "korean": "에트",
+      "letters": "א(') + ֶ(e) + ת(t)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"together1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 16 28 Q 18 24 22 24 Q 24 24 24 26 L 24 32 Q 24 36 20 38 Q 16 40 12 38\" fill=\"url(#together1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 48 28 Q 46 24 42 24 Q 40 24 40 26 L 40 32 Q 40 36 44 38 Q 48 40 52 38\" fill=\"url(#together1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"34\" rx=\"8\" ry=\"10\" fill=\"url(#together1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "עִם (임 - ~와 함께)",
+        "יַחַד (야하드 - 함께)"
+      ]
+    },
+    {
+      "hebrew": "הָאֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "haʔeloˈhim",
+      "korean": "하엘로힘",
+      "letters": "ה(h) + ָ(a) + א(') + ֱ(e) + ל(l) + ֹ(o) + ה(h) + ִ(i) + ם(m)",
+      "root": "אֱלֹהִים (엘로힘)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"30\" ry=\"28\" fill=\"url(#divine1)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"rgba(255, 215, 0, 0.2)\" /><path d=\"M 12 42 L 16 28 L 22 32 L 32 20 L 42 32 L 48 28 L 52 42 Z\" fill=\"url(#god1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"42\" width=\"40\" height=\"6\" fill=\"url(#god1)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 1))\" /><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"30\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 신)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "וְאֵינֶנּוּ",
+      "meaning": "그리고 그가 없다",
+      "ipa": "vəʔeˈnenu",
+      "korean": "베에이넨누",
+      "letters": "ו(v) + ְ(ə) + אֵ(e) + י(y) + נֶ(ne) + נּ(n) + וּ(u)",
+      "root": "אַיִן (아인)",
+      "grammar": "동사",
+      "emoji": "👻",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"vanish1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#87CEEB\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"fade1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.2\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#vanish1)\" /><ellipse cx=\"32\" cy=\"40\" rx=\"14\" ry=\"18\" fill=\"url(#fade1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(135, 206, 235, 0.4))\" /><circle cx=\"28\" cy=\"34\" r=\"2\" fill=\"#4682B4\" opacity=\"0.5\" /><circle cx=\"36\" cy=\"34\" r=\"2\" fill=\"#4682B4\" opacity=\"0.5\" /><path d=\"M 20 28 Q 24 22 28 26\" stroke=\"#87CEEB\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /><path d=\"M 44 28 Q 40 22 36 26\" stroke=\"#87CEEB\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אַיִן (아인 - 없다)",
+        "לֹא (로 - 아니다)"
+      ]
+    },
+    {
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면, ~이므로",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּ(k) + י(i)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "emoji": "➡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#44A08D\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(78, 205, 196, 0.15)\" /><path d=\"M 16 26 L 38 26 L 34 22 M 38 26 L 34 30\" stroke=\"url(#because1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 16 38 L 38 38 L 34 34 M 38 38 L 34 42\" stroke=\"url(#because1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /><circle cx=\"46\" cy=\"32\" r=\"4\" fill=\"url(#because1)\" filter=\"drop-shadow(0 0 6px rgba(78, 205, 196, 0.6))\" /></svg>",
+      "relatedWords": [
+        "לָכֵן (라켄 - 그러므로)",
+        "אִם (임 - 만약)"
+      ]
+    },
+    {
+      "hebrew": "לָקַח",
+      "meaning": "데려가다, 취하다",
+      "ipa": "laˈqaχ",
+      "korean": "라카흐",
+      "letters": "ל(l) + ָ(a) + ק(q) + ַ(a) + ח(kh)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "⬆️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"taken1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient><radialGradient id=\"heaven1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"30\" ry=\"28\" fill=\"url(#heaven1)\" /><path d=\"M 32 52 L 32 20 L 26 26 M 32 20 L 38 26\" stroke=\"url(#taken1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"14\" r=\"6\" fill=\"url(#taken1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"10\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"10\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"26\" cy=\"6\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"6\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "לֶקַח (레카흐 - 가르침)",
+        "מַלְקָח (말카흐 - 집게)"
+      ]
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "meaning": "그를",
+      "ipa": "ʔoˈto",
+      "korean": "오토",
+      "letters": "אֹ(o) + ת(t) + וֹ(o)",
+      "root": "אֵת (에트)",
+      "grammar": "대명사",
+      "emoji": "➡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"him1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#556270\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(78, 205, 196, 0.15)\" /><path d=\"M 14 32 L 42 32 L 36 26 M 42 32 L 36 38\" stroke=\"url(#him1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"50\" cy=\"32\" r=\"5\" fill=\"url(#him1)\" filter=\"drop-shadow(0 0 8px rgba(78, 205, 196, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אוֹתָהּ (오타 - 그녀를)",
+        "אוֹתָם (오탐 - 그들을)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔeloˈhim",
+      "korean": "엘로힘",
+      "letters": "א(') + ֱ(e) + ל(l) + ֹ(o) + ה(h) + ִ(i) + ם(m)",
+      "root": "אֱלֹהִים (엘로힘)",
+      "grammar": "명사",
+      "emoji": "✝️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lord1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"divine2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"30\" ry=\"28\" fill=\"url(#divine2)\" /><path d=\"M 32 12 L 32 52\" stroke=\"url(#lord1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 16 32 L 48 32\" stroke=\"url(#lord1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#lord1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 1))\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 신)",
+        "אֱלוֹהַּ (엘로아 - 하나님)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5:24는 성경에서 가장 극적이고 신비로운 구절 중 하나입니다. 에녹이 '하나님과 동행하다가' '더 이상 보이지 않았다'는 것은, 그가 죽지 않고 하나님께로 옮겨갔음을 의미합니다. 이것은 구약성경 전체에서 단 두 번만 일어난 일로(에녹과 엘리야), 하나님과의 친밀한 동행이 얼마나 놀라운 결과를 가져오는지를 보여줍니다. 히브리서 11:5는 에녹이 '믿음으로 죽음을 보지 않고 옮겨졌다'고 증거하며, 유다서 14-15절은 에녹이 예언자였음을 밝힙니다. 이 구절은 타락한 세상에서도 하나님과 동행하는 삶이 가능하며, 그러한 삶의 종착점이 영생임을 선포합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּתְהַלֵּךְ חֲנוֹךְ אֶת הָאֱלֹהִים (바이트할레크 하노크 에트 하엘로힘) - 에녹이 하나님과 동행하다",
+        "description": "5:22에 이어 두 번째로 반복되는 '동행'의 표현입니다. 히브리어 '히트할레크(הִתְהַלֵּךְ)'의 반복은 에녹의 생애 전체가 하나님과의 지속적인 친밀한 교제로 특징지어졌음을 강조합니다. 이것은 에녹 이야기의 핵심이자 절정입니다.",
+        "points": [
+          "창세기 5장의 족보에서 '동행하다'는 표현은 에녹(5:22, 24)과 노아(6:9)에게만 사용됩니다",
+          "'동행'은 단순히 종교적 행위가 아니라, 하나님과의 지속적이고 친밀한 관계를 의미합니다",
+          "에녹의 동행은 므두셀라를 낳은 후 300년 동안 계속되었으며, 일상 생활 속에서 이루어졌습니다",
+          "미가 6:8은 '겸손히 네 하나님과 함께 행하는 것'을 하나님께서 요구하시는 핵심으로 제시합니다",
+          "에녹의 동행은 아담 이후 타락한 세상에서도 하나님과의 친밀한 관계가 가능함을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְאֵינֶנּוּ (베에이넨누) - 그리고 그가 없다",
+        "description": "'베에이넨누(וְאֵינֶנּוּ)'는 '그가 없다, 그가 더 이상 보이지 않는다'는 의미입니다. 이것은 에녹이 갑자기 사라졌음을 나타내며, 창세기 5장의 다른 모든 인물들에게 사용된 '그리고 그가 죽었다(וַיָּמֹת)'와는 극명하게 대조됩니다.",
+        "points": [
+          "창세기 5장의 모든 인물들은 '그리고 그가 죽었다(וַיָּמֹת)'로 끝나지만, 에녹만 유일하게 예외입니다",
+          "'없다(אֵין)'는 히브리어는 완전한 부재, 사라짐을 의미합니다",
+          "에녹은 죽음이 아닌 다른 방식으로 세상을 떠났습니다",
+          "시편 73:24는 '주께서 나를 인도하시고 후에는 영광으로 영접하시리니'라며 에녹의 경험을 반영합니다",
+          "에녹의 사라짐은 죽음의 권세를 넘어서는 하나님의 능력을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כִּי לָקַח אֹתוֹ אֱלֹהִים (키 라카흐 오토 엘로힘) - 왜냐하면 하나님이 그를 데려가셨기 때문이다",
+        "description": "이것은 에녹이 왜 사라졌는지에 대한 설명입니다. 히브리어 '라카흐(לָקַח)'는 '취하다, 데려가다'를 의미하며, 하나님께서 에녹을 능동적으로 자신에게로 옮기셨음을 나타냅니다. 이것은 성경에서 가장 놀라운 은혜의 표현 중 하나입니다.",
+        "points": [
+          "'라카흐(לָקַח)'는 하나님이 주체가 되어 능동적으로 에녹을 취하셨음을 강조합니다",
+          "이것은 에녹이 죽지 않고 하나님께로 옮겨졌음을 의미하는 휴거(rapture)입니다",
+          "구약에서 죽지 않고 하늘로 올라간 사람은 에녹(창 5:24)과 엘리야(왕하 2:11) 단 두 명뿐입니다",
+          "히브리서 11:5는 '믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니'라고 해석합니다",
+          "에녹의 휴거는 그리스도의 재림 때 살아있는 성도들이 경험할 휴거(살전 4:17)를 예표합니다",
+          "유다서 14-15절은 에녹이 예언자였으며 '불경건한 자들의 심판'을 예언했다고 기록합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֱלֹהִים (엘로힘) - 하나님",
+        "description": "이 구절에서 '엘로힘(하나님)'이 두 번 등장합니다. 첫 번째는 에녹이 '하나님과' 동행했다는 것이고, 두 번째는 '하나님이' 에녹을 데려가셨다는 것입니다. 이것은 에녹의 삶과 죽음(휴거) 전체가 하나님 중심이었음을 보여줍니다.",
+        "points": [
+          "에녹의 삶: 하나님과 함께 걷는 삶",
+          "에녹의 종말: 하나님께로 옮겨진 삶",
+          "에녹의 이야기는 시작부터 끝까지 하나님이 주인공이십니다",
+          "이것은 에녹이 하나님을 기쁘시게 하는 삶을 살았음을 의미합니다(히 11:5-6)",
+          "하나님과의 동행의 궁극적 목적지는 하나님 자신입니다",
+          "에녹의 경험은 '하나님이 모든 것의 모든 것이 되시는'(고전 15:28) 종말론적 비전을 예시합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에녹은 다른 사람들처럼 죽지 않고 하나님께로 옮겨졌을까요?",
+      "answer": "에녹이 죽지 않고 하나님께로 옮겨진 것은 그가 하나님과 동행하는 삶을 살았기 때문이에요. 히브리서 11:5-6은 '믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니... 그는 옮겨지기 전에 하나님을 기쁘시게 하는 자라 하는 증거를 받았느니라'고 말합니다. 에녹은 매일매일 하나님과 함께 걸으며, 하나님을 사랑하고, 하나님의 말씀에 순종하며 살았어요. 그래서 하나님께서 에녹을 너무너무 사랑하셔서 '에녹아, 이제 나와 함께 영원히 살자!'라고 하시며 하늘로 데려가신 거예요. 마치 아빠가 사랑하는 아이를 안아 올리듯이, 하나님께서 에녹을 하늘로 들어 올리신 거죠. 에녹의 이야기는 우리에게도 희망을 줍니다. 우리도 예수님을 믿고 하나님과 동행하면, 언젠가 예수님께서 다시 오실 때 에녹처럼 하늘로 올라가게 될 거예요(살전 4:16-17)! 에녹은 구약시대에 이미 하나님과 함께 영원히 사는 축복을 받은 사람이었어요. 그리고 이것은 우리 모두가 예수님 안에서 받게 될 약속이기도 합니다!",
+      "bibleReferences": [
+        "히브리서 11:5-6 - '믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니 하나님이 그를 옮기심으로 다시 보이지 아니하였느니라 그는 옮겨지기 전에 하나님을 기쁘시게 하는 자라 하는 증거를 받았느니라'",
+        "열왕기하 2:11 - '두 사람이 길을 걸으며 말하더니 불 수레와 불 말들이 두 사람을 갈라놓고 엘리야가 회오리바람으로 하늘로 올라가더라'",
+        "데살로니가전서 4:16-17 - '주께서 호령과 천사장의 소리와 하나님의 나팔 소리로 친히 하늘로부터 강림하시리니 그리스도 안에서 죽은 자들이 먼저 일어나고 그 후에 우리 살아남은 자들도 그들과 함께 구름 속으로 끌어 올려 공중에서 주를 영접하게 하시리니'",
+        "유다서 1:14-15 - '아담의 칠대 손 에녹이 이 사람들에 대하여도 예언하여 이르되 보라 주께서 그 수만의 거룩한 자와 함께 임하셨나니 이는 뭇 사람을 심판하사'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5:24는 성경 전체에서 가장 중요한 휴거(rapture) 구절 중 하나입니다. 에녹이 하나님과 동행하다가 죽음을 보지 않고 하나님께로 옮겨진 것은, 하나님과의 친밀한 관계가 죽음의 권세를 넘어서는 영생으로 인도한다는 것을 보여줍니다. 에녹의 휴거는 단순히 과거의 특별한 사건이 아니라, 그리스도의 재림 때 살아있는 모든 성도들이 경험할 휴거(살전 4:16-17)를 예표합니다. 히브리서 11:5는 에녹이 '믿음으로' 옮겨졌다고 증거하며, 이것은 구원이 행위가 아닌 믿음으로 이루어진다는 복음의 핵심을 보여줍니다. 에녹의 이야기는 타락한 세상에서도 하나님과 동행하는 삶이 가능하며, 그러한 삶의 종착점이 하나님 자신임을 선포합니다. 유다서 14-15절은 에녹이 예언자였으며 심판을 예언했다고 기록하는데, 이것은 에녹이 단순히 경건한 사람이 아니라 하나님의 계시를 받은 선지자였음을 보여줍니다. 궁극적으로 에녹의 휴거는 예수 그리스도의 부활과 승천을 예표하며, 그리스도 안에서 모든 믿는 자들이 누릴 영생과 부활의 소망을 가리킵니다. '하나님과 동행하라, 그러면 하나님이 너를 자신에게로 데려가실 것이다' - 이것이 에녹의 삶이 우리에게 주는 메시지입니다."
+    }
+  }
+}
