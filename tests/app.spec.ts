@@ -18,8 +18,8 @@ test.describe('Bible Study App - Deployment Tests', () => {
   });
 
   test('2. 히브리어 성경 구절 표시 확인', async ({ page }) => {
-    // 히브리어 텍스트가 있는 요소 찾기 (모음 기호 포함)
-    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
+    // 히브리어 텍스트가 있는 요소 찾기 (data-testid 사용)
+    const hebrewText = page.getByTestId('hebrew-text');
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
 
     // 한국어 번역도 있는지 확인

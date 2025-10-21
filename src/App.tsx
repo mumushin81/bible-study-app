@@ -15,24 +15,29 @@ import { useAuth } from './hooks/useAuth';
 import { useUserProgress } from './hooks/useUserProgress';
 import { useVerses } from './hooks/useVerses';
 import { useBooks } from './hooks/useBooks';
+import { useUserPreferences } from './hooks/useUserPreferences';
+import { useAppNavigation } from './hooks/useAppNavigation';
 
 export default function App() {
   // Auth
   const { user } = useAuth();
+  const { preferences, updatePreferences } = useUserPreferences();
 
-  // State
+  // Navigation state (useReducer로 통합)
+  const { navigation, setBook, setVerseIndex, nextVerse, prevVerse } = useAppNavigation();
+  const { bookId: currentBookId, chapter: currentChapter, verseIndex: currentVerseIndex } = navigation;
+
+  // UI State
   const [darkMode, setDarkMode] = useState(false);
-  const [currentBookId, setCurrentBookId] = useState('genesis');
-  const [currentChapter, setCurrentChapter] = useState(1);
-  const [currentVerseIndex, setCurrentVerseIndex] = useState(0);
   const [activeTab, setActiveTab] = useState<'verse' | 'vocabulary' | 'quiz' | 'notes' | 'growth'>('verse');
   const [showBookSheet, setShowBookSheet] = useState(false);
-  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
-  const [isPlaying, setIsPlaying] = useState(false);
-  const [showHebrewHint, setShowHebrewHint] = useState(true);
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showLoginModal, setShowLoginModal] = useState(false);
   const [showSignUpModal, setShowSignUpModal] = useState(false);
+
+  // Audio State
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+  const [isPlaying, setIsPlaying] = useState(false);
 
   // 데이터베이스에서 구절 가져오기
   const { verses: chapterVerses, loading: versesLoading, error: versesError } = useVerses({
@@ -47,27 +52,13 @@ export default function App() {
   // User progress for current verse
   const { progress, markAsCompleted } = useUserProgress(verseData?.id || '');
 
-  // 히브리어 힌트 표시 여부 체크 (localStorage)
-  React.useEffect(() => {
-    try {
-      const hintCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
-      if (hintCount >= 3) {
-        setShowHebrewHint(false);
-      }
-    } catch (error) {
-      console.error('Failed to load hint count:', error);
-    }
-  }, []);
+  // 히브리어 힌트 표시 여부 (user_preferences 사용)
+  const showHebrewHint = user ? (preferences?.show_hebrew_hint ?? true) : true;
 
   // 힌트 닫기 핸들러
-  const handleCloseHint = () => {
-    try {
-      const currentCount = parseInt(localStorage.getItem('hebrewHintShown') || '0');
-      localStorage.setItem('hebrewHintShown', String(currentCount + 1));
-      setShowHebrewHint(false);
-    } catch (error) {
-      console.error('Failed to save hint count:', error);
-      setShowHebrewHint(false);
+  const handleCloseHint = async () => {
+    if (user && updatePreferences) {
+      await updatePreferences({ show_hebrew_hint: false });
     }
   };
 
@@ -136,11 +127,11 @@ export default function App() {
     }
   };
 
-  // 네비게이션 핸들러
+  // 네비게이션 핸들러 (useReducer 사용)
   const goToPrevVerse = () => {
     if (currentVerseIndex > 0) {
       triggerHaptic(10);
-      setCurrentVerseIndex(prev => prev - 1);
+      prevVerse();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
@@ -148,16 +139,14 @@ export default function App() {
   const goToNextVerse = () => {
     if (currentVerseIndex < chapterVerses.length - 1) {
       triggerHaptic(10);
-      setCurrentVerseIndex(prev => prev + 1);
+      nextVerse();
       window.scrollTo({ top: 0, behavior: 'smooth' });
     }
   };
 
   const handleBookSelect = (bookId: string, chapter: number) => {
     triggerHaptic(15);
-    setCurrentBookId(bookId);
-    setCurrentChapter(chapter);
-    setCurrentVerseIndex(0);
+    setBook(bookId, chapter);
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -438,6 +427,7 @@ export default function App() {
                     </motion.button>
                   </div>
                   <p
+                    data-testid="hebrew-text"
                     className={`text-center font-serif whitespace-nowrap overflow-hidden ${
                       darkMode ? 'text-white' : 'text-gray-900'
                     }`}

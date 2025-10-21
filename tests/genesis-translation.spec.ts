@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const LOCAL_URL = 'http://localhost:5173/';
+const LOCAL_URL = 'http://localhost:5177/';
 
 test.describe('Genesis 1-3장 번역 테스트', () => {
   test('Genesis 1장: 히브리어, IPA, 한글 발음, 현대어 의역 표시 확인', async ({ page }) => {
@@ -10,8 +10,8 @@ test.describe('Genesis 1-3장 번역 테스트', () => {
     await page.waitForLoadState('networkidle');
     console.log('✅ 페이지 로드 완료');
 
-    // Genesis 1:1 히브리어 확인 (전체 구절 포함)
-    const hebrewText = page.locator('p, div').filter({ hasText: /בְּרֵאשִׁ֖ית/ }).first();
+    // Genesis 1:1 히브리어 확인 (data-testid 사용)
+    const hebrewText = page.getByTestId('hebrew-text');
     await expect(hebrewText).toBeVisible({ timeout: 10000 });
     console.log('✅ Genesis 1:1 히브리어 표시 확인');
 
