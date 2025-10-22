@@ -32,6 +32,11 @@ export default function StudyTab({ verse, darkMode, onMarkStudied, studied, revi
     }
   }, []);
 
+  // 구절이 바뀔 때 플래시카드 초기화
+  useEffect(() => {
+    setFlippedCards(new Set());
+  }, [verse.id]);
+
   // 북마크 토글
   const toggleBookmark = (wordHebrew: string) => {
     const newBookmarks = new Set(bookmarkedWords);
