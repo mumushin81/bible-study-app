@@ -550,11 +550,295 @@ export type Database = {
           },
         ]
       }
+      hebrew_roots: {
+        Row: {
+          id: string
+          root: string
+          root_hebrew: string
+          core_meaning: string
+          core_meaning_korean: string
+          semantic_field: string | null
+          frequency: number | null
+          importance: number | null
+          mnemonic: string | null
+          pronunciation: string | null
+          story: string | null
+          emoji: string | null
+          created_at: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          id?: string
+          root: string
+          root_hebrew: string
+          core_meaning: string
+          core_meaning_korean: string
+          semantic_field?: string | null
+          frequency?: number | null
+          importance?: number | null
+          mnemonic?: string | null
+          pronunciation?: string | null
+          story?: string | null
+          emoji?: string | null
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          id?: string
+          root?: string
+          root_hebrew?: string
+          core_meaning?: string
+          core_meaning_korean?: string
+          semantic_field?: string | null
+          frequency?: number | null
+          importance?: number | null
+          mnemonic?: string | null
+          pronunciation?: string | null
+          story?: string | null
+          emoji?: string | null
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
+      user_book_progress: {
+        Row: {
+          id: string
+          user_id: string
+          book_id: string
+          total_words: number | null
+          learned_words: number | null
+          mastered_words: number | null
+          progress_percentage: number | null
+          daily_goal: number | null
+          current_streak: number | null
+          longest_streak: number | null
+          started_at: string | null
+          last_studied_at: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          book_id: string
+          total_words?: number | null
+          learned_words?: number | null
+          mastered_words?: number | null
+          progress_percentage?: number | null
+          daily_goal?: number | null
+          current_streak?: number | null
+          longest_streak?: number | null
+          started_at?: string | null
+          last_studied_at?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          book_id?: string
+          total_words?: number | null
+          learned_words?: number | null
+          mastered_words?: number | null
+          progress_percentage?: number | null
+          daily_goal?: number | null
+          current_streak?: number | null
+          longest_streak?: number | null
+          started_at?: string | null
+          last_studied_at?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
+      user_word_progress_v2: {
+        Row: {
+          id: string
+          user_id: string
+          word_hebrew: string
+          next_review: string
+          interval_days: number
+          ease_factor: number
+          review_count: number
+          difficulty_level: number | null
+          initial_difficulty: number | null
+          correct_count: number | null
+          incorrect_count: number | null
+          accuracy_rate: number | null
+          last_study_context: string | null
+          study_methods: Json | null
+          total_study_time_seconds: number | null
+          average_response_time_seconds: number | null
+          mastery_level: number | null
+          last_level_up_at: string | null
+          created_at: string | null
+          updated_at: string | null
+          first_studied_at: string | null
+          last_reviewed_at: string | null
+        }
+        Insert: {
+          id?: string
+          user_id: string
+          word_hebrew: string
+          next_review: string
+          interval_days?: number
+          ease_factor?: number
+          review_count?: number
+          difficulty_level?: number | null
+          initial_difficulty?: number | null
+          correct_count?: number | null
+          incorrect_count?: number | null
+          accuracy_rate?: number | null
+          last_study_context?: string | null
+          study_methods?: Json | null
+          total_study_time_seconds?: number | null
+          average_response_time_seconds?: number | null
+          mastery_level?: number | null
+          last_level_up_at?: string | null
+          created_at?: string | null
+          updated_at?: string | null
+          first_studied_at?: string | null
+          last_reviewed_at?: string | null
+        }
+        Update: {
+          id?: string
+          user_id?: string
+          word_hebrew?: string
+          next_review?: string
+          interval_days?: number
+          ease_factor?: number
+          review_count?: number
+          difficulty_level?: number | null
+          initial_difficulty?: number | null
+          correct_count?: number | null
+          incorrect_count?: number | null
+          accuracy_rate?: number | null
+          last_study_context?: string | null
+          study_methods?: Json | null
+          total_study_time_seconds?: number | null
+          average_response_time_seconds?: number | null
+          mastery_level?: number | null
+          last_level_up_at?: string | null
+          created_at?: string | null
+          updated_at?: string | null
+          first_studied_at?: string | null
+          last_reviewed_at?: string | null
+        }
+        Relationships: []
+      }
+      word_derivations: {
+        Row: {
+          id: string
+          root_id: string | null
+          word_id: string | null
+          binyan: string | null
+          pattern: string | null
+          derivation_note: string | null
+          created_at: string | null
+        }
+        Insert: {
+          id?: string
+          root_id?: string | null
+          word_id?: string | null
+          binyan?: string | null
+          pattern?: string | null
+          derivation_note?: string | null
+          created_at?: string | null
+        }
+        Update: {
+          id?: string
+          root_id?: string | null
+          word_id?: string | null
+          binyan?: string | null
+          pattern?: string | null
+          derivation_note?: string | null
+          created_at?: string | null
+        }
+        Relationships: [
+          {
+            foreignKeyName: "word_derivations_root_id_fkey"
+            columns: ["root_id"]
+            isOneToOne: false
+            referencedRelation: "hebrew_roots"
+            referencedColumns: ["id"]
+          },
+          {
+            foreignKeyName: "word_derivations_word_id_fkey"
+            columns: ["word_id"]
+            isOneToOne: false
+            referencedRelation: "words"
+            referencedColumns: ["id"]
+          },
+        ]
+      }
+      word_metadata: {
+        Row: {
+          id: string
+          word_hebrew: string
+          bible_frequency: number | null
+          genesis_frequency: number | null
+          frequency_rank: number | null
+          objective_difficulty: number | null
+          difficulty_factors: Json | null
+          theological_importance: number | null
+          pedagogical_priority: number | null
+          is_proper_noun: boolean | null
+          is_theological_term: boolean | null
+          is_common_word: boolean | null
+          recommended_review_count: number | null
+          min_exposures: number | null
+          created_at: string | null
+          updated_at: string | null
+        }
+        Insert: {
+          id?: string
+          word_hebrew: string
+          bible_frequency?: number | null
+          genesis_frequency?: number | null
+          frequency_rank?: number | null
+          objective_difficulty?: number | null
+          difficulty_factors?: Json | null
+          theological_importance?: number | null
+          pedagogical_priority?: number | null
+          is_proper_noun?: boolean | null
+          is_theological_term?: boolean | null
+          is_common_word?: boolean | null
+          recommended_review_count?: number | null
+          min_exposures?: number | null
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Update: {
+          id?: string
+          word_hebrew?: string
+          bible_frequency?: number | null
+          genesis_frequency?: number | null
+          frequency_rank?: number | null
+          objective_difficulty?: number | null
+          difficulty_factors?: Json | null
+          theological_importance?: number | null
+          pedagogical_priority?: number | null
+          is_proper_noun?: boolean | null
+          is_theological_term?: boolean | null
+          is_common_word?: boolean | null
+          recommended_review_count?: number | null
+          min_exposures?: number | null
+          created_at?: string | null
+          updated_at?: string | null
+        }
+        Relationships: []
+      }
     }
     Views: {
       [_ in never]: never
     }
     Functions: {
+      calculate_book_progress_percentage: {
+        Args: { p_user_id: string; p_book_id: string }
+        Returns: number
+      }
+      get_derived_word_count: {
+        Args: { p_root_id: string }
+        Returns: number
+      }
       get_user_stats: {
         Args: { user_uuid: string }
         Returns: Json

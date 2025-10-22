@@ -1,11 +1,18 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, TrendingUp, Volume2 } from 'lucide-react';
+import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
 import FlashCard from './shared/FlashCard';
 import HebrewIcon from './shared/HebrewIcon';
+import BookProgressDashboard from './BookProgressDashboard';
+import RootFlashcardDeck from './RootFlashcardDeck';
+import RootCard from './RootCard';
+import { RootGridSkeleton } from './shared/SkeletonLoader';
 import { useWords, WordWithContext } from '../hooks/useWords';
 import { useBookmarks } from '../hooks/useBookmarks';
 import { useSRS } from '../hooks/useSRS';
+import { useBooks } from '../hooks/useBooks';
+import { useBookProgress } from '../hooks/useBookProgress';
+import { useHebrewRoots, type HebrewRoot } from '../hooks/useHebrewRoots';
 import {
   getWordEmoji,
   getWordColor,
@@ -19,23 +26,46 @@ interface VocabularyTabProps {
   darkMode: boolean;
 }
 
-type SubTab = 'all' | 'bookmarked' | 'study';
+type SubTab = 'all' | 'bookmarked' | 'study' | 'new' | 'review' | 'difficult';
+type ViewMode = 'words' | 'dashboard' | 'roots';
 
 export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
   // UI 상태
+  const [viewMode, setViewMode] = useState<ViewMode>('words');
+  const [selectedBook, setSelectedBook] = useState<string>('genesis');
   const [activeSubTab, setActiveSubTab] = useState<SubTab>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [flippedCard, setFlippedCard] = useState<string | null>(null);
   const [flippedCards, setFlippedCards] = useState<Set<string>>(new Set());
   const [studyMode, setStudyMode] = useState(false);
   const [currentStudyIndex, setCurrentStudyIndex] = useState(0);
+  const [selectedRoot, setSelectedRoot] = useState<HebrewRoot | null>(null);
+  const [displayedRootsCount, setDisplayedRootsCount] = useState(15); // 초기에 15개만 표시
 
   // 데이터 hooks
+  const { books, loading: booksLoading } = useBooks();
+  const { progress: bookProgress, loading: progressLoading } = useBookProgress(selectedBook);
   const { words: allWords, loading: wordsLoading, error: wordsError } = useWords({
-    bookId: 'genesis',
+    bookId: selectedBook,
   });
   const { bookmarkedWords, toggleBookmark, isBookmarked } = useBookmarks();
-  const { srsData, updateSRS, isDueForReview, getStats } = useSRS();
+  const { srsData, updateSRS, isDueForReview, isMastered, getStats } = useSRS();
+  const { roots, loading: rootsLoading } = useHebrewRoots();
+
+  // 표시할 어근 목록 (성능 최적화)
+  const displayedRoots = useMemo(() => {
+    return roots.slice(0, displayedRootsCount);
+  }, [roots, displayedRootsCount]);
+
+  // 어근 선택 핸들러 (useCallback으로 최적화)
+  const handleRootSelect = useCallback((root: HebrewRoot) => {
+    setSelectedRoot(root);
+  }, []);
+
+  // 더 보기 핸들러
+  const loadMoreRoots = useCallback(() => {
+    setDisplayedRootsCount(prev => Math.min(prev + 15, roots.length));
+  }, [roots.length]);
 
   // 플래시카드 뒤집기 토글
   const toggleFlip = (hebrew: string) => {
@@ -57,6 +87,20 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
       words = words.filter(w => bookmarkedWords.has(w.hebrew));
     } else if (activeSubTab === 'study') {
       words = words.filter(w => isDueForReview(w.hebrew));
+    } else if (activeSubTab === 'new') {
+      // 새 단어: 한 번도 복습하지 않은 단어
+      words = words.filter(w => !srsData.has(w.hebrew));
+    } else if (activeSubTab === 'review') {
+      // 복습 대기: 오늘 복습해야 하는 단어
+      words = words.filter(w => isDueForReview(w.hebrew) && !isMastered(w.hebrew));
+    } else if (activeSubTab === 'difficult') {
+      // 어려운 단어: 정확도가 60% 이하인 단어
+      words = words.filter(w => {
+        const srs = srsData.get(w.hebrew);
+        if (!srs) return false;
+        // 임시로 reviewCount 기준 사용 (나중에 accuracy 추가)
+        return srs.reviewCount >= 3 && srs.easeFactor < 2.0;
+      });
     }
 
     // 검색 필터
@@ -70,7 +114,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
     }
 
     return words;
-  }, [allWords, activeSubTab, bookmarkedWords, searchQuery, isDueForReview]);
+  }, [allWords, activeSubTab, bookmarkedWords, searchQuery, isDueForReview, isMastered, srsData]);
 
   // 통계
   const stats = useMemo(() => {
@@ -331,17 +375,251 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
 
   return (
     <div className={`${darkMode ? 'text-white' : 'text-gray-900'}`}>
-      {/* 헤더 */}
-      <motion.div
-        initial={{ opacity: 0, y: 20 }}
-        animate={{ opacity: 1, y: 0 }}
-        className={`rounded-3xl shadow-xl p-6 mb-4 ${
-          darkMode ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20' : 'bg-gradient-to-br from-white/90 via-amber-50/50 to-orange-50/50 border border-orange-200'
-        }`}
-      >
-        <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">
-          📚 단어장
-        </h2>
+      {/* 뷰 모드가 대시보드인 경우 */}
+      {viewMode === 'dashboard' && (
+        <div>
+          {/* 뷰 전환 버튼 */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="mb-4"
+          >
+            <div className="flex gap-2">
+              <button
+                onClick={() => setViewMode('words')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
+                  darkMode
+                    ? 'bg-gray-700 text-gray-300 hover:bg-gray-600'
+                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                }`}
+              >
+                <List className="w-4 h-4" />
+                단어장으로 돌아가기
+              </button>
+            </div>
+          </motion.div>
+
+          {/* 대시보드 */}
+          <BookProgressDashboard
+            darkMode={darkMode}
+            onSelectBook={(bookId) => {
+              setSelectedBook(bookId);
+              setViewMode('words');
+            }}
+          />
+        </div>
+      )}
+
+      {/* 뷰 모드가 어근 학습인 경우 */}
+      {viewMode === 'roots' && !selectedRoot && (
+        <div>
+          {/* 뷰 전환 버튼 */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className="mb-4"
+          >
+            <div className="flex gap-2">
+              <button
+                onClick={() => setViewMode('words')}
+                className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
+                  darkMode
+                    ? 'bg-gray-700 text-gray-300 hover:bg-gray-600'
+                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
+                }`}
+              >
+                <List className="w-4 h-4" />
+                단어장으로 돌아가기
+              </button>
+            </div>
+          </motion.div>
+
+          {/* 어근 선택 그리드 */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ delay: 0.1 }}
+            className={`rounded-3xl shadow-xl p-6 mb-4 ${
+              darkMode
+                ? 'bg-gradient-to-br from-slate-900/60 to-purple-900/40 border border-purple-400/20'
+                : 'bg-gradient-to-br from-white/90 via-purple-50/50 to-pink-50/50 border border-purple-200'
+            }`}
+          >
+            <h2 className="text-2xl font-bold mb-4 flex items-center gap-2">
+              <Sparkles className="w-6 h-6" />
+              히브리어 어근 학습
+            </h2>
+            <p className={`mb-6 ${darkMode ? 'text-gray-300' : 'text-gray-700'}`}>
+              학습하고 싶은 어근을 선택하세요. 각 어근에서 파생된 단어들을 플래시카드로 학습할 수 있습니다.
+            </p>
+
+            {rootsLoading ? (
+              <RootGridSkeleton darkMode={darkMode} />
+            ) : (
+              <>
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {displayedRoots.map((root, index) => (
+                    <RootCard
+                      key={root.id}
+                      root={root}
+                      darkMode={darkMode}
+                      onClick={() => handleRootSelect(root)}
+                      index={index}
+                    />
+                  ))}
+                </div>
+
+                {/* 더 보기 버튼 */}
+                {displayedRootsCount < roots.length && (
+                  <motion.div
+                    initial={{ opacity: 0, y: 20 }}
+                    animate={{ opacity: 1, y: 0 }}
+                    className="mt-6 text-center"
+                  >
+                    <button
+                      onClick={loadMoreRoots}
+                      className={`px-8 py-3 rounded-xl font-medium transition-all ${
+                        darkMode
+                          ? 'bg-purple-600 hover:bg-purple-700 text-white'
+                          : 'bg-purple-600 hover:bg-purple-700 text-white'
+                      }`}
+                    >
+                      더 보기 ({roots.length - displayedRootsCount}개 더 있음)
+                    </button>
+                  </motion.div>
+                )}
+
+                {/* 전체 개수 표시 */}
+                <div className={`mt-4 text-center text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+                  {displayedRootsCount} / {roots.length} 어근 표시 중
+                </div>
+              </>
+            )}
+          </motion.div>
+        </div>
+      )}
+
+      {/* 선택된 어근의 플래시카드 덱 */}
+      {viewMode === 'roots' && selectedRoot && (
+        <RootFlashcardDeck
+          root={selectedRoot}
+          darkMode={darkMode}
+          onClose={() => setSelectedRoot(null)}
+        />
+      )}
+
+      {/* 뷰 모드가 단어장인 경우 */}
+      {viewMode === 'words' && (
+        <>
+          {/* 헤더 */}
+          <motion.div
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            className={`rounded-3xl shadow-xl p-6 mb-4 ${
+              darkMode ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20' : 'bg-gradient-to-br from-white/90 via-amber-50/50 to-orange-50/50 border border-orange-200'
+            }`}
+          >
+            <div className="flex items-center justify-between mb-4">
+              <h2 className="text-2xl font-bold flex items-center gap-2">
+                📚 단어장
+              </h2>
+
+              {/* 버튼들 */}
+              <div className="flex gap-2">
+                <button
+                  onClick={() => setViewMode('dashboard')}
+                  className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
+                    darkMode
+                      ? 'bg-purple-600 hover:bg-purple-700 text-white'
+                      : 'bg-purple-600 hover:bg-purple-700 text-white'
+                  }`}
+                >
+                  <BarChart3 className="w-4 h-4" />
+                  진도 대시보드
+                </button>
+
+                <button
+                  onClick={() => {
+                    setViewMode('roots');
+                    setSelectedRoot(null);
+                  }}
+                  className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
+                    darkMode
+                      ? 'bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white'
+                      : 'bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white'
+                  }`}
+                >
+                  <Sparkles className="w-4 h-4" />
+                  어근 학습
+                </button>
+              </div>
+            </div>
+
+        {/* 책 선택 */}
+        <div className="mb-4">
+          <label className={`text-sm font-medium flex items-center gap-2 mb-2 ${
+            darkMode ? 'text-gray-300' : 'text-gray-700'
+          }`}>
+            <BookOpen className="w-4 h-4" />
+            성경책 선택
+          </label>
+          <select
+            value={selectedBook}
+            onChange={(e) => setSelectedBook(e.target.value)}
+            disabled={booksLoading}
+            className={`w-full p-3 rounded-xl font-medium transition-all ${
+              darkMode
+                ? 'bg-gray-700 text-white border border-gray-600 focus:border-cyan-400'
+                : 'bg-white text-gray-900 border border-gray-300 focus:border-purple-500'
+            } focus:outline-none focus:ring-2 ${
+              darkMode ? 'focus:ring-cyan-400/50' : 'focus:ring-purple-500/50'
+            }`}
+          >
+            {booksLoading ? (
+              <option>불러오는 중...</option>
+            ) : books.length === 0 ? (
+              <option>책 정보를 불러올 수 없습니다</option>
+            ) : (
+              books.map(book => (
+                <option key={book.id} value={book.id}>
+                  {book.name} ({book.english_name})
+                </option>
+              ))
+            )}
+          </select>
+
+          {/* 책 진도 표시 */}
+          {bookProgress && !progressLoading && (
+            <div className={`mt-2 p-3 rounded-xl ${
+              darkMode ? 'bg-purple-900/30' : 'bg-purple-50'
+            }`}>
+              <div className="flex justify-between items-center mb-2">
+                <span className={`text-xs ${darkMode ? 'text-purple-300' : 'text-purple-700'}`}>
+                  학습 진도
+                </span>
+                <span className={`text-sm font-bold ${darkMode ? 'text-purple-200' : 'text-purple-900'}`}>
+                  {bookProgress.progress_percentage?.toFixed(1) || 0}%
+                </span>
+              </div>
+              <div className={`w-full h-2 rounded-full ${darkMode ? 'bg-gray-700' : 'bg-gray-200'}`}>
+                <motion.div
+                  className="h-full bg-gradient-to-r from-purple-500 to-pink-500 rounded-full"
+                  initial={{ width: 0 }}
+                  animate={{ width: `${bookProgress.progress_percentage || 0}%` }}
+                  transition={{ duration: 0.5 }}
+                />
+              </div>
+              <div className="flex justify-between mt-2 text-xs">
+                <span className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
+                  학습: {bookProgress.learned_words || 0}개
+                </span>
+                <span className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
+                  완벽 암기: {bookProgress.mastered_words || 0}개
+                </span>
+              </div>
+            </div>
+          )}
+        </div>
 
         {/* 통계 */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-3 mb-4">
@@ -364,10 +642,10 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
         </div>
 
         {/* 서브 탭 */}
-        <div className="flex gap-2 mb-4">
+        <div className="grid grid-cols-3 gap-2 mb-2">
           <button
             onClick={() => setActiveSubTab('all')}
-            className={`flex-1 py-2 px-4 rounded-lg font-medium transition-all ${
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
               activeSubTab === 'all'
                 ? darkMode
                   ? 'bg-purple-600 text-white'
@@ -381,7 +659,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
           </button>
           <button
             onClick={() => setActiveSubTab('bookmarked')}
-            className={`flex-1 py-2 px-4 rounded-lg font-medium transition-all ${
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
               activeSubTab === 'bookmarked'
                 ? darkMode
                   ? 'bg-purple-600 text-white'
@@ -395,7 +673,7 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
           </button>
           <button
             onClick={() => setActiveSubTab('study')}
-            className={`flex-1 py-2 px-4 rounded-lg font-medium transition-all ${
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
               activeSubTab === 'study'
                 ? darkMode
                   ? 'bg-purple-600 text-white'
@@ -406,6 +684,52 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
             }`}
           >
             🎯 암기하기
+          </button>
+        </div>
+
+        {/* 필터 탭 (새 단어, 복습, 어려운 단어) */}
+        <div className="grid grid-cols-3 gap-2 mb-4">
+          <button
+            onClick={() => setActiveSubTab('new')}
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
+              activeSubTab === 'new'
+                ? darkMode
+                  ? 'bg-green-600 text-white'
+                  : 'bg-green-600 text-white'
+                : darkMode
+                  ? 'bg-gray-700 text-gray-300'
+                  : 'bg-gray-200 text-gray-700'
+            }`}
+          >
+            ✨ 새 단어
+          </button>
+          <button
+            onClick={() => setActiveSubTab('review')}
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
+              activeSubTab === 'review'
+                ? darkMode
+                  ? 'bg-orange-600 text-white'
+                  : 'bg-orange-600 text-white'
+                : darkMode
+                  ? 'bg-gray-700 text-gray-300'
+                  : 'bg-gray-200 text-gray-700'
+            }`}
+          >
+            📝 복습 대기
+          </button>
+          <button
+            onClick={() => setActiveSubTab('difficult')}
+            className={`py-2 px-3 rounded-lg font-medium transition-all text-sm ${
+              activeSubTab === 'difficult'
+                ? darkMode
+                  ? 'bg-red-600 text-white'
+                  : 'bg-red-600 text-white'
+                : darkMode
+                  ? 'bg-gray-700 text-gray-300'
+                  : 'bg-gray-200 text-gray-700'
+            }`}
+          >
+            🔥 어려운 단어
           </button>
         </div>
 
@@ -782,6 +1106,8 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
           </motion.div>
         )}
       </AnimatePresence>
+        </>
+      )}
     </div>
   );
 }
