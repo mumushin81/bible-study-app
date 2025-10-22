@@ -326,9 +326,21 @@ iconSvg: `<svg viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
 #### 주의사항
 
 ⚠️ **인라인 스타일**: SVG 문자열 형태로 저장되므로 외부 CSS 참조 불가
-⚠️ **ID 충돌 방지**: 각 단어마다 고유한 gradient ID 사용 (예: `sun1`, `crown1`, `snake1`)
+⚠️ **ID 충돌 방지 (중요!)**: 각 단어마다 **완전히 고유한** gradient ID 사용
+   - ❌ 잘못된 예: `id="grad1"`, `id="sun1"`, `id="point1"` (다른 단어와 중복 가능)
+   - ✅ 올바른 예: `id="bereshit-sun1"`, `id="elohim-crown1"`, `id="nashash-snake1"`
+   - **규칙**: `{히브리어단어영문}-{고유식별자}` 형식 사용
+   - **이유**: HebrewIcon 컴포넌트가 자동으로 고유 ID를 생성하지만, 원본에도 고유 ID 사용 권장
 ⚠️ **따옴표**: SVG 속성값에 `"` 사용, 전체 문자열은 백틱(\`) 사용
 ⚠️ **API 사용 금지**: 외부 API를 호출하지 말고, 직접 SVG 코드를 작성할 것!
+
+#### 🐛 알려진 에러 및 해결법
+
+**에러 1: SVG Gradient ID 충돌**
+- **증상**: 로컬에서는 SVG 아이콘이 표시되지만 Vercel 배포 후 ❓로 표시됨
+- **원인**: 여러 단어에서 동일한 gradient ID (예: `id="grad1"`) 사용 시 DOM 충돌
+- **해결**: 각 단어마다 고유한 prefix 사용 (예: `id="bereshit-grad1"`, `id="bara-grad1"`)
+- **자동 처리**: HebrewIcon.tsx에서 자동으로 고유 ID 생성하지만, 원본도 고유하게 작성 권장
 
 ### 7. relatedWords 필드 (선택)
 어근이 같거나 의미적으로 연관된 히브리어 단어들을 배열로 제공합니다.
