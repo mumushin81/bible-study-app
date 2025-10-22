@@ -10,6 +10,7 @@ interface BookSelectionBottomSheetProps {
   darkMode: boolean;
   currentBookId?: string;
   currentChapter?: number;
+  bookOnly?: boolean; // 책만 선택하고 장 선택 UI 숨기기
 }
 
 export default function BookSelectionBottomSheet({
@@ -19,12 +20,20 @@ export default function BookSelectionBottomSheet({
   darkMode,
   currentBookId,
   currentChapter,
+  bookOnly = false,
 }: BookSelectionBottomSheetProps) {
   const [testament, setTestament] = useState<'old' | 'new'>('old');
   const [selectedBook, setSelectedBook] = useState<BookInfo | null>(null);
 
   const handleBookClick = (book: BookInfo) => {
-    setSelectedBook(book);
+    if (bookOnly) {
+      // 책만 선택 모드: 바로 선택하고 닫기
+      onSelectBook(book.id, 1);
+      onClose();
+    } else {
+      // 일반 모드: 장 선택 UI 표시
+      setSelectedBook(book);
+    }
   };
 
   const handleChapterClick = (chapter: number) => {

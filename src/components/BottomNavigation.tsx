@@ -9,7 +9,7 @@ interface BottomNavigationProps {
 export default function BottomNavigation({ activeTab, onTabChange, darkMode }: BottomNavigationProps) {
   const tabs = [
     { id: 'verse' as const, icon: BookOpen, label: '말씀' },
-    { id: 'vocabulary' as const, icon: Book, label: '단어장' },
+    { id: 'vocabulary' as const, icon: Book, label: '학습' },
     { id: 'quiz' as const, icon: Target, label: '퀴즈' },
     { id: 'notes' as const, icon: FileText, label: '노트' },
     { id: 'growth' as const, icon: TrendingUp, label: '성장' },

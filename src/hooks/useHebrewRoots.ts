@@ -150,7 +150,7 @@ export function useRootStats(rootId: string | null) {
 
       // get_derived_word_count 함수 호출
       const { data, error } = await supabase
-        .rpc('get_derived_word_count', { root_id: rootId });
+        .rpc('get_derived_word_count', { p_root_id: rootId });
 
       if (error) throw error;
 

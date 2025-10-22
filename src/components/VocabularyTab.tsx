@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
 import FlashCard from './shared/FlashCard';
 import HebrewIcon from './shared/HebrewIcon';
-import BookProgressDashboard from './BookProgressDashboard';
+// import BookProgressDashboard from './BookProgressDashboard'; // TODO: Create this component
 import RootFlashcardDeck from './RootFlashcardDeck';
 import RootCard from './RootCard';
 import { RootGridSkeleton } from './shared/SkeletonLoader';
@@ -11,7 +11,7 @@ import { useWords, WordWithContext } from '../hooks/useWords';
 import { useBookmarks } from '../hooks/useBookmarks';
 import { useSRS } from '../hooks/useSRS';
 import { useBooks } from '../hooks/useBooks';
-import { useBookProgress } from '../hooks/useBookProgress';
+// import { useBookProgress } from '../hooks/useBookProgress'; // TODO: Create this hook
 import { useHebrewRoots, type HebrewRoot } from '../hooks/useHebrewRoots';
 import {
   getWordEmoji,
@@ -24,15 +24,30 @@ import {
 
 interface VocabularyTabProps {
   darkMode: boolean;
+  viewMode?: 'words' | 'roots' | 'dashboard';
+  onViewModeChange?: (mode: 'words' | 'roots' | 'dashboard') => void;
+  selectedBook?: string;
+  onBookSelectClick?: () => void;
 }
 
 type SubTab = 'all' | 'bookmarked' | 'study' | 'new' | 'review' | 'difficult';
 type ViewMode = 'words' | 'dashboard' | 'roots';
 
-export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
-  // UI 상태
-  const [viewMode, setViewMode] = useState<ViewMode>('words');
-  const [selectedBook, setSelectedBook] = useState<string>('genesis');
+export default function VocabularyTab({
+  darkMode,
+  viewMode: externalViewMode,
+  onViewModeChange,
+  selectedBook: externalSelectedBook,
+  onBookSelectClick
+}: VocabularyTabProps) {
+  // UI 상태 - external prop이 있으면 사용, 없으면 internal state 사용
+  const [internalViewMode, setInternalViewMode] = useState<ViewMode>('words');
+  const viewMode = externalViewMode ?? internalViewMode;
+  const setViewMode = onViewModeChange ?? setInternalViewMode;
+
+  const [internalSelectedBook, setInternalSelectedBook] = useState<string>('genesis');
+  const selectedBook = externalSelectedBook ?? internalSelectedBook;
+  const setSelectedBook = setInternalSelectedBook; // 내부에서는 사용 안 함
   const [activeSubTab, setActiveSubTab] = useState<SubTab>('all');
   const [searchQuery, setSearchQuery] = useState('');
   const [flippedCard, setFlippedCard] = useState<string | null>(null);
@@ -44,7 +59,9 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
 
   // 데이터 hooks
   const { books, loading: booksLoading } = useBooks();
-  const { progress: bookProgress, loading: progressLoading } = useBookProgress(selectedBook);
+  // const { progress: bookProgress, loading: progressLoading } = useBookProgress(selectedBook); // TODO: Create hook
+  const bookProgress = null; // Temporary placeholder
+  const progressLoading = false; // Temporary placeholder
   const { words: allWords, loading: wordsLoading, error: wordsError } = useWords({
     bookId: selectedBook,
   });
@@ -378,62 +395,23 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
       {/* 뷰 모드가 대시보드인 경우 */}
       {viewMode === 'dashboard' && (
         <div>
-          {/* 뷰 전환 버튼 */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="mb-4"
-          >
-            <div className="flex gap-2">
-              <button
-                onClick={() => setViewMode('words')}
-                className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
-                  darkMode
-                    ? 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                }`}
-              >
-                <List className="w-4 h-4" />
-                단어장으로 돌아가기
-              </button>
-            </div>
-          </motion.div>
-
           {/* 대시보드 */}
-          <BookProgressDashboard
-            darkMode={darkMode}
-            onSelectBook={(bookId) => {
-              setSelectedBook(bookId);
-              setViewMode('words');
-            }}
-          />
+          {/* TODO: Create BookProgressDashboard component */}
+          <div className={`rounded-3xl shadow-xl p-12 text-center ${
+            darkMode
+              ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20'
+              : 'bg-white/90 border border-amber-200'
+          }`}>
+            <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
+              대시보드 기능은 개발 중입니다.
+            </p>
+          </div>
         </div>
       )}
 
       {/* 뷰 모드가 어근 학습인 경우 */}
       {viewMode === 'roots' && !selectedRoot && (
         <div>
-          {/* 뷰 전환 버튼 */}
-          <motion.div
-            initial={{ opacity: 0, y: 20 }}
-            animate={{ opacity: 1, y: 0 }}
-            className="mb-4"
-          >
-            <div className="flex gap-2">
-              <button
-                onClick={() => setViewMode('words')}
-                className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
-                  darkMode
-                    ? 'bg-gray-700 text-gray-300 hover:bg-gray-600'
-                    : 'bg-gray-200 text-gray-700 hover:bg-gray-300'
-                }`}
-              >
-                <List className="w-4 h-4" />
-                단어장으로 돌아가기
-              </button>
-            </div>
-          </motion.div>
-
           {/* 어근 선택 그리드 */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -519,74 +497,53 @@ export default function VocabularyTab({ darkMode }: VocabularyTabProps) {
               darkMode ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20' : 'bg-gradient-to-br from-white/90 via-amber-50/50 to-orange-50/50 border border-orange-200'
             }`}
           >
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-2xl font-bold flex items-center gap-2">
-                📚 단어장
-              </h2>
+        {/* 성경책 선택 버튼 */}
+        <div className="mb-4">
+          <button
+            onClick={onBookSelectClick}
+            disabled={booksLoading}
+            className={`flex items-center gap-3 px-4 py-3 rounded-xl font-medium transition-all border-2 ${
+              darkMode
+                ? 'bg-purple-50/5 border-purple-300/50 text-white hover:bg-purple-50/10'
+                : 'bg-purple-50/70 border-purple-300/70 text-gray-900 hover:bg-purple-100/70'
+            } ${booksLoading ? 'opacity-50 cursor-not-allowed' : ''}`}
+          >
+            {/* 성경책 SVG 아이콘 (파스텔톤) */}
+            <svg viewBox="0 0 64 64" className="w-8 h-8 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
+              <defs>
+                <linearGradient id="vocab-bible-cover" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stopColor="#E9D5FF" />
+                  <stop offset="100%" stopColor="#DDD6FE" />
+                </linearGradient>
+                <linearGradient id="vocab-bible-pages" x1="0%" y1="0%" x2="100%" y2="100%">
+                  <stop offset="0%" stopColor="#FEF3C7" />
+                  <stop offset="100%" stopColor="#FDE68A" />
+                </linearGradient>
+              </defs>
+              {/* 책 커버 */}
+              <rect x="16" y="12" width="32" height="40" rx="2" fill="url(#vocab-bible-cover)" filter="drop-shadow(0 2px 4px rgba(0, 0, 0, 0.15))" />
+              {/* 페이지 효과 */}
+              <rect x="18" y="14" width="28" height="36" rx="1" fill="url(#vocab-bible-pages)" opacity="0.8" />
+              {/* 십자가 */}
+              <rect x="30" y="22" width="4" height="12" rx="1" fill="#A78BFA" filter="drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2))" />
+              <rect x="26" y="26" width="12" height="4" rx="1" fill="#A78BFA" filter="drop-shadow(0 1px 2px rgba(0, 0, 0, 0.2))" />
+              {/* 북마크 리본 */}
+              <path d="M 40 12 L 40 52 L 44 48 L 48 52 L 48 12 Z" fill="#FBCFE8" opacity="0.8" />
+            </svg>
 
-              {/* 버튼들 */}
-              <div className="flex gap-2">
-                <button
-                  onClick={() => setViewMode('dashboard')}
-                  className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
-                    darkMode
-                      ? 'bg-purple-600 hover:bg-purple-700 text-white'
-                      : 'bg-purple-600 hover:bg-purple-700 text-white'
-                  }`}
-                >
-                  <BarChart3 className="w-4 h-4" />
-                  진도 대시보드
-                </button>
-
-                <button
-                  onClick={() => {
-                    setViewMode('roots');
-                    setSelectedRoot(null);
-                  }}
-                  className={`flex items-center gap-2 px-4 py-2 rounded-xl font-medium transition-all ${
-                    darkMode
-                      ? 'bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white'
-                      : 'bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white'
-                  }`}
-                >
-                  <Sparkles className="w-4 h-4" />
-                  어근 학습
-                </button>
+            <div className="flex-1 text-left">
+              <div className="text-base font-semibold">
+                성경
+              </div>
+              <div className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+                {booksLoading ? '불러오는 중...' : books.find(b => b.id === selectedBook)?.name || '창세기'}
               </div>
             </div>
 
-        {/* 책 선택 */}
-        <div className="mb-4">
-          <label className={`text-sm font-medium flex items-center gap-2 mb-2 ${
-            darkMode ? 'text-gray-300' : 'text-gray-700'
-          }`}>
-            <BookOpen className="w-4 h-4" />
-            성경책 선택
-          </label>
-          <select
-            value={selectedBook}
-            onChange={(e) => setSelectedBook(e.target.value)}
-            disabled={booksLoading}
-            className={`w-full p-3 rounded-xl font-medium transition-all ${
-              darkMode
-                ? 'bg-gray-700 text-white border border-gray-600 focus:border-cyan-400'
-                : 'bg-white text-gray-900 border border-gray-300 focus:border-purple-500'
-            } focus:outline-none focus:ring-2 ${
-              darkMode ? 'focus:ring-cyan-400/50' : 'focus:ring-purple-500/50'
-            }`}
-          >
-            {booksLoading ? (
-              <option>불러오는 중...</option>
-            ) : books.length === 0 ? (
-              <option>책 정보를 불러올 수 없습니다</option>
-            ) : (
-              books.map(book => (
-                <option key={book.id} value={book.id}>
-                  {book.name} ({book.english_name})
-                </option>
-              ))
-            )}
-          </select>
+            <svg className="w-5 h-5 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+            </svg>
+          </button>
 
           {/* 책 진도 표시 */}
           {bookProgress && !progressLoading && (

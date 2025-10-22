@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Volume2, Search, Settings, ChevronLeft, ChevronRight, ArrowUp, LogIn } from 'lucide-react';
-import { motion } from 'framer-motion';
+import { motion, AnimatePresence } from 'framer-motion';
 import BottomNavigation from './components/BottomNavigation';
 import BookSelectionBottomSheet from './components/BookSelectionBottomSheet';
 import SwipeableContent from './components/SwipeableContent';
@@ -34,6 +34,8 @@ export default function App() {
   const [showScrollTop, setShowScrollTop] = useState(false);
   const [showLoginModal, setShowLoginModal] = useState(false);
   const [showSignUpModal, setShowSignUpModal] = useState(false);
+  const [vocabularyViewMode, setVocabularyViewMode] = useState<'words' | 'roots' | 'dashboard'>('words');
+  const [vocabularyBookId, setVocabularyBookId] = useState<string>('genesis');
 
   // Audio State
   const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
@@ -146,7 +148,11 @@ export default function App() {
 
   const handleBookSelect = (bookId: string, chapter: number) => {
     triggerHaptic(15);
-    setBook(bookId, chapter);
+    if (activeTab === 'verse') {
+      setBook(bookId, chapter);
+    } else if (activeTab === 'vocabulary') {
+      setVocabularyBookId(bookId);
+    }
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
 
@@ -156,88 +162,274 @@ export default function App() {
         ? 'bg-gradient-to-br from-slate-950 via-indigo-950 to-violet-950'
         : 'bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50'
     }`}>
-      {/* Header */}
-      <div className={`sticky top-0 z-30 backdrop-blur-xl border-b shadow-lg ${
-        darkMode ? 'bg-slate-900/80 border-cyan-500/20' : 'bg-white/70 border-gray-200/50'
+      {/* Header - Minimal Modern Design */}
+      <div className={`sticky top-0 z-30 backdrop-blur-xl ${
+        darkMode ? 'bg-slate-900/50' : 'bg-white/50'
       }`} style={{ backdropFilter: 'blur(20px)', WebkitBackdropFilter: 'blur(20px)' }}>
-        {/* Progress Bar */}
-        <motion.div
-          className={`h-1 ${darkMode ? 'bg-gradient-to-r from-cyan-400 via-emerald-400 to-violet-500' : 'bg-gradient-to-r from-purple-600 to-pink-600'}`}
-          initial={{ width: '0%' }}
-          animate={{ width: `${((currentVerseIndex + 1) / chapterVerses.length) * 100}%` }}
-          transition={{ duration: 0.3 }}
-        />
-        <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
-          {/* Book/Chapter Selector - 간결한 배지 스타일 */}
-          <button
-            onClick={() => setShowBookSheet(true)}
-            className={`flex items-center gap-2 px-3 py-2 rounded-xl font-semibold transition-all backdrop-blur-md border ${
-              darkMode
-                ? 'bg-cyan-500/20 hover:bg-cyan-500/30 border-cyan-400/30 text-cyan-50'
-                : 'bg-white/80 hover:bg-white/95 border-amber-200 text-gray-900'
-            }`}
-            style={{
-              backdropFilter: 'blur(12px)',
-              WebkitBackdropFilter: 'blur(12px)',
-            }}
-          >
-            <span className="text-base">📕</span>
-            <span className="text-xs font-medium">성경</span>
-            <span className="text-sm font-bold whitespace-nowrap">{currentBook?.name || '창세기'} {currentChapter}장</span>
-            <span className={`text-xs ${darkMode ? 'opacity-70' : 'opacity-60'}`}>
-              {currentVerseIndex + 1}/{chapterVerses.length}절
-            </span>
-            <svg className="w-4 h-4 flex-shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-            </svg>
-          </button>
+        {/* Ultra-thin Progress Bar - Only show on verse tab */}
+        {activeTab === 'verse' && (
+          <motion.div
+            className={`h-0.5 ${darkMode ? 'bg-purple-400' : 'bg-purple-600'}`}
+            initial={{ width: '0%' }}
+            animate={{ width: `${((currentVerseIndex + 1) / chapterVerses.length) * 100}%` }}
+            transition={{ duration: 0.3 }}
+          />
+        )}
 
-          {/* Right Icons */}
-          <div className="flex items-center gap-2">
-            <button
-              className={`p-2 rounded-full ${
-                darkMode ? 'hover:bg-white/10' : 'hover:bg-gray-200'
-              }`}
+        <div className="max-w-5xl mx-auto px-4 py-3 flex items-center justify-between">
+          {/* Left Side - Minimal context indicator */}
+          <AnimatePresence mode="wait">
+            <motion.div
+              key={activeTab}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: 0.15 }}
+              className="flex items-center gap-3"
             >
-              <Search className={`w-5 h-5 ${darkMode ? 'text-white' : 'text-gray-700'}`} />
-            </button>
+              {activeTab === 'verse' && (
+                <button
+                  onClick={() => setShowBookSheet(true)}
+                  className={`flex items-center gap-2 px-2.5 py-1.5 rounded-lg transition-all ${
+                    darkMode
+                      ? 'hover:bg-white/10 text-gray-200'
+                      : 'hover:bg-gray-100 text-gray-700'
+                  }`}
+                >
+                  {/* Colorful Bible Icon SVG */}
+                  <svg
+                    viewBox="0 0 64 64"
+                    className="w-8 h-8 flex-shrink-0"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <defs>
+                      <linearGradient id="bible-cover-1" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stopColor="#8B5CF6" />
+                        <stop offset="100%" stopColor="#6366F1" />
+                      </linearGradient>
+                      <linearGradient id="bible-pages-1" x1="0%" y1="0%" x2="100%" y2="100%">
+                        <stop offset="0%" stopColor="#FEF3C7" />
+                        <stop offset="100%" stopColor="#FDE68A" />
+                      </linearGradient>
+                      <linearGradient id="bible-cross-1" x1="0%" y1="0%" x2="0%" y2="100%">
+                        <stop offset="0%" stopColor="#FFD700" />
+                        <stop offset="100%" stopColor="#F59E0B" />
+                      </linearGradient>
+                      <radialGradient id="bible-glow-1">
+                        <stop offset="0%" stopColor="#FFFFFF" stopOpacity="0.8" />
+                        <stop offset="100%" stopColor="#8B5CF6" stopOpacity="0" />
+                      </radialGradient>
+                    </defs>
+
+                    {/* Glow effect */}
+                    <circle cx="32" cy="32" r="28" fill="url(#bible-glow-1)" opacity="0.3" />
+
+                    {/* Book cover */}
+                    <rect
+                      x="14" y="12" width="36" height="40" rx="3"
+                      fill="url(#bible-cover-1)"
+                      filter="drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))"
+                    />
+
+                    {/* Book spine detail */}
+                    <rect x="14" y="12" width="4" height="40" rx="2" fill="#6D28D9" opacity="0.5" />
+
+                    {/* Pages */}
+                    <rect
+                      x="20" y="14" width="28" height="36" rx="1"
+                      fill="url(#bible-pages-1)"
+                      opacity="0.9"
+                    />
+
+                    {/* Page lines */}
+                    <line x1="24" y1="22" x2="44" y2="22" stroke="#D97706" strokeWidth="0.5" opacity="0.3" />
+                    <line x1="24" y1="26" x2="44" y2="26" stroke="#D97706" strokeWidth="0.5" opacity="0.3" />
+                    <line x1="24" y1="30" x2="44" y2="30" stroke="#D97706" strokeWidth="0.5" opacity="0.3" />
+
+                    {/* Golden Cross */}
+                    <g filter="drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))">
+                      <rect x="30" y="34" width="4" height="12" rx="1" fill="url(#bible-cross-1)" />
+                      <rect x="26" y="38" width="12" height="4" rx="1" fill="url(#bible-cross-1)" />
+                    </g>
+
+                    {/* Highlight */}
+                    <rect x="18" y="14" width="2" height="8" rx="1" fill="#FFFFFF" opacity="0.4" />
+                  </svg>
+
+                  <span className="text-base font-semibold">성경</span>
+                </button>
+              )}
+
+              {activeTab === 'vocabulary' && (
+                <div className="flex items-center gap-2">
+                  {/* 단어장 버튼 */}
+                  <button
+                    onClick={() => setVocabularyViewMode('words')}
+                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                      vocabularyViewMode === 'words'
+                        ? darkMode
+                          ? 'bg-purple-500/20 text-purple-300 border-purple-400/50'
+                          : 'bg-purple-50 text-purple-700 border-purple-300/70'
+                        : darkMode
+                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
+                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                    }`}
+                  >
+                    {/* Book/Words SVG Icon */}
+                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                      <defs>
+                        <linearGradient id="vocab-book-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+                          <stop offset="0%" stopColor="#EC4899" />
+                          <stop offset="100%" stopColor="#8B5CF6" />
+                        </linearGradient>
+                        <radialGradient id="vocab-glow">
+                          <stop offset="0%" stopColor="#FFFFFF" stopOpacity="0.6" />
+                          <stop offset="100%" stopColor="#EC4899" stopOpacity="0" />
+                        </radialGradient>
+                      </defs>
+                      <circle cx="32" cy="32" r="24" fill="url(#vocab-glow)" opacity="0.3" />
+                      <rect x="18" y="14" width="28" height="36" rx="2" fill="url(#vocab-book-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
+                      <rect x="18" y="14" width="3" height="36" fill="#A855F7" opacity="0.5" />
+                      <line x1="24" y1="22" x2="42" y2="22" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
+                      <line x1="24" y1="28" x2="42" y2="28" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
+                      <line x1="24" y1="34" x2="38" y2="34" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
+                    </svg>
+                    단어장
+                  </button>
+
+                  {/* 어근학습 버튼 */}
+                  <button
+                    onClick={() => setVocabularyViewMode('roots')}
+                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                      vocabularyViewMode === 'roots'
+                        ? darkMode
+                          ? 'bg-green-500/20 text-green-300 border-green-400/50'
+                          : 'bg-green-50 text-green-700 border-green-300/70'
+                        : darkMode
+                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
+                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                    }`}
+                  >
+                    {/* Tree/Roots SVG Icon */}
+                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                      <defs>
+                        <linearGradient id="roots-tree-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+                          <stop offset="0%" stopColor="#10B981" />
+                          <stop offset="100%" stopColor="#059669" />
+                        </linearGradient>
+                        <radialGradient id="roots-leaves-grad">
+                          <stop offset="0%" stopColor="#6EE7B7" />
+                          <stop offset="100%" stopColor="#10B981" />
+                        </radialGradient>
+                      </defs>
+                      <rect x="28" y="28" width="8" height="24" rx="1" fill="url(#roots-tree-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
+                      <circle cx="32" cy="20" r="12" fill="url(#roots-leaves-grad)" opacity="0.9" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.2))" />
+                      <circle cx="24" cy="26" r="8" fill="url(#roots-leaves-grad)" opacity="0.8" />
+                      <circle cx="40" cy="26" r="8" fill="url(#roots-leaves-grad)" opacity="0.8" />
+                      <path d="M 28 52 Q 20 56 16 60 M 36 52 Q 44 56 48 60 M 32 52 L 32 60" stroke="#059669" strokeWidth="2" fill="none" opacity="0.6" />
+                    </svg>
+                    어근학습
+                  </button>
+
+                  {/* 진도대시보드 버튼 */}
+                  <button
+                    onClick={() => setVocabularyViewMode('dashboard')}
+                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                      vocabularyViewMode === 'dashboard'
+                        ? darkMode
+                          ? 'bg-blue-500/20 text-blue-300 border-blue-400/50'
+                          : 'bg-blue-50 text-blue-700 border-blue-300/70'
+                        : darkMode
+                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
+                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                    }`}
+                  >
+                    {/* Chart/Dashboard SVG Icon */}
+                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                      <defs>
+                        <linearGradient id="dash-chart-grad" x1="0%" y1="100%" x2="100%" y2="0%">
+                          <stop offset="0%" stopColor="#3B82F6" />
+                          <stop offset="100%" stopColor="#60A5FA" />
+                        </linearGradient>
+                      </defs>
+                      <rect x="12" y="40" width="10" height="16" rx="2" fill="url(#dash-chart-grad)" opacity="0.8" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
+                      <rect x="27" y="28" width="10" height="28" rx="2" fill="url(#dash-chart-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
+                      <rect x="42" y="18" width="10" height="38" rx="2" fill="url(#dash-chart-grad)" opacity="0.9" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
+                      <polyline points="12,38 22,28 32,32 42,18 52,22" stroke="#60A5FA" strokeWidth="2" fill="none" opacity="0.6" />
+                      <circle cx="32" cy="12" r="6" fill="#60A5FA" opacity="0.3" />
+                    </svg>
+                    진도대시보드
+                  </button>
+                </div>
+              )}
+
+              {activeTab === 'quiz' && (
+                <span className={`text-sm font-medium ${darkMode ? 'text-gray-200' : 'text-gray-700'}`}>
+                  퀴즈
+                </span>
+              )}
+
+              {activeTab === 'notes' && (
+                <span className={`text-sm font-medium ${darkMode ? 'text-gray-200' : 'text-gray-700'}`}>
+                  노트
+                </span>
+              )}
+
+              {activeTab === 'growth' && (
+                <span className={`text-sm font-medium ${darkMode ? 'text-gray-200' : 'text-gray-700'}`}>
+                  성장
+                </span>
+              )}
+            </motion.div>
+          </AnimatePresence>
+
+          {/* Right Side - Icon-only buttons */}
+          <div className="flex items-center gap-1">
+            {/* Search - Show on verse, vocabulary, notes tabs */}
+            {(activeTab === 'verse' || activeTab === 'vocabulary' || activeTab === 'notes') && (
+              <button
+                className={`p-2 rounded-lg transition-all ${
+                  darkMode ? 'hover:bg-white/10 text-gray-300' : 'hover:bg-gray-100 text-gray-600'
+                }`}
+              >
+                <Search className="w-4.5 h-4.5" />
+              </button>
+            )}
+
+            {/* Dark Mode */}
             <button
               onClick={() => setDarkMode(!darkMode)}
-              className={`p-2 rounded-full ${
-                darkMode ? 'hover:bg-white/10' : 'hover:bg-gray-200'
+              className={`p-2 rounded-lg transition-all ${
+                darkMode ? 'hover:bg-white/10 text-gray-300' : 'hover:bg-gray-100 text-gray-600'
               }`}
             >
-              {darkMode ? '☀️' : '🌙'}
+              <span className="text-base">{darkMode ? '☀️' : '🌙'}</span>
             </button>
+
+            {/* Settings */}
             <button
-              className={`p-2 rounded-full ${
-                darkMode ? 'hover:bg-white/10' : 'hover:bg-gray-200'
+              className={`p-2 rounded-lg transition-all ${
+                darkMode ? 'hover:bg-white/10 text-gray-300' : 'hover:bg-gray-100 text-gray-600'
               }`}
             >
-              <Settings className={`w-5 h-5 ${darkMode ? 'text-white' : 'text-gray-700'}`} />
+              <Settings className="w-4.5 h-4.5" />
             </button>
 
             {/* Login or User Profile */}
             {user ? (
               <UserProfile darkMode={darkMode} />
             ) : (
-              <motion.button
+              <button
                 onClick={() => setShowLoginModal(true)}
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-xl font-semibold text-sm transition-all backdrop-blur-md border ${
+                className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-sm font-medium transition-all ${
                   darkMode
-                    ? 'bg-cyan-500/20 hover:bg-cyan-500/30 border-cyan-400/30 text-cyan-50'
-                    : 'bg-white/80 hover:bg-white/95 border-purple-200 text-purple-600'
+                    ? 'hover:bg-white/10 text-gray-200'
+                    : 'hover:bg-gray-100 text-gray-700'
                 }`}
-                style={{
-                  backdropFilter: 'blur(12px)',
-                  WebkitBackdropFilter: 'blur(12px)',
-                }}
               >
                 <LogIn className="w-4 h-4" />
                 <span className="hidden sm:inline">로그인</span>
-              </motion.button>
+              </button>
             )}
           </div>
         </div>
@@ -525,7 +717,13 @@ export default function App() {
           )}
 
           {activeTab === 'vocabulary' && (
-            <VocabularyTab darkMode={darkMode} />
+            <VocabularyTab
+              darkMode={darkMode}
+              viewMode={vocabularyViewMode}
+              onViewModeChange={setVocabularyViewMode}
+              selectedBook={vocabularyBookId}
+              onBookSelectClick={() => setShowBookSheet(true)}
+            />
           )}
 
           {activeTab === 'quiz' && (
@@ -589,6 +787,7 @@ export default function App() {
         darkMode={darkMode}
         currentBookId={currentBookId}
         currentChapter={currentChapter}
+        bookOnly={activeTab === 'vocabulary'} // 단어장 탭에서는 책만 선택
       />
 
       {/* Auth Modals */}
