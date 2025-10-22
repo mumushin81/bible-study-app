@@ -1,0 +1,458 @@
+[
+  {
+    "verseId": "genesis_14_22",
+    "reference": "창세기 14:22",
+    "hebrew": "וַיֹּאמֶר אַבְרָם אֶל־מֶלֶךְ סְדֹם הֲרִמֹתִי יָדִי אֶל־יְהוָה אֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ׃",
+    "ipa": "vajˈjomɛr ʔavˈram ʔɛl-ˈmɛlɛχ səˈdom həriˈmoti jaˈdi ʔɛl-jəhoˈva ʔel ɛlˈjon koˈne ʃaˈmajim vaˈʔarɛts",
+    "koreanPronunciation": "바요메르 아브람 엘 멜레크 스돔 하리모티 야디 엘 여호와 엘 엘욘 코네 샤마임 바아레츠",
+    "modern": "아브람이 소돔 왕에게 대답했습니다. '나는 하늘과 땅을 만드신 가장 높으신 하나님 여호와께 손을 들어 맹세합니다.'",
+    "words": [
+      {
+        "hebrew": "וַיֹּאמֶר",
+        "meaning": "그리고 말했다",
+        "ipa": "vajˈjomɛr",
+        "korean": "바요메르",
+        "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-speech22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#357ABD\" /></linearGradient><radialGradient id=\"abram-speech22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"40\" height=\"30\" rx=\"8\" fill=\"url(#abram-speech22-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 50 L 16 58 L 24 52 Z\" fill=\"url(#abram-speech22-grad1)\" /><circle cx=\"18\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /><circle cx=\"38\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /></svg>",
+        "relatedWords": [
+          "דָּבָר (다바르 - 말씀)",
+          "פֶּה (페 - 입)"
+        ]
+      },
+      {
+        "hebrew": "הֲרִמֹתִי יָדִי",
+        "meaning": "내 손을 들었다 (맹세하다)",
+        "ipa": "həriˈmoti jaˈdi",
+        "korean": "하리모티 야디",
+        "letters": "הֲ(ha) + רִ(ri) + מֹ(mo) + תִי(ti) + יָ(ya) + דִי(di)",
+        "root": "ר-ו-ם (룸)",
+        "grammar": "동사",
+        "emoji": "✋",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-oath22-grad1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFB74D\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></linearGradient><radialGradient id=\"abram-oath22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><path d=\"M 32 48 L 28 32 L 30 16 L 34 16 L 36 32 L 32 48 Z\" fill=\"url(#abram-oath22-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"16\" rx=\"4\" ry=\"6\" fill=\"url(#abram-oath22-grad1)\" /><path d=\"M 24 32 L 28 28 L 30 20 L 32 20 L 30 28 L 26 32 Z\" fill=\"url(#abram-oath22-grad1)\" /><path d=\"M 40 32 L 36 28 L 34 20 L 32 20 L 34 28 L 38 32 Z\" fill=\"url(#abram-oath22-grad1)\" /><circle cx=\"32\" cy=\"10\" r=\"8\" fill=\"url(#abram-oath22-grad2)\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "נָשָׂא יָד (나사 야드 - 손을 들다)",
+          "שָׁבַע (샤바 - 맹세하다)"
+        ]
+      },
+      {
+        "hebrew": "יְהוָה",
+        "meaning": "여호와",
+        "ipa": "jəhoˈva",
+        "korean": "여호와",
+        "letters": "יְ(ye) + הוָ(ho) + ה(va)",
+        "root": "ה-י-ה (하야)",
+        "grammar": "명사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-yhwh22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"abram-yhwh22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#abram-yhwh22-grad2)\" opacity=\"0.2\" /><path d=\"M 12 40 L 16 28 L 22 32 L 32 20 L 42 32 L 48 28 L 52 40 Z\" fill=\"url(#abram-yhwh22-grad1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"40\" width=\"40\" height=\"6\" fill=\"url(#abram-yhwh22-grad1)\" rx=\"2\" /><circle cx=\"32\" cy=\"24\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><path d=\"M 32 16 L 34 22 L 30 22 Z\" fill=\"#FFD700\" /></svg>",
+        "relatedWords": [
+          "אֲדֹנָי (아도나이 - 주님)",
+          "אֶהְיֶה (에흐예 - 나는 있다)"
+        ]
+      },
+      {
+        "hebrew": "אֵל עֶלְיוֹן",
+        "meaning": "가장 높으신 하나님",
+        "ipa": "ʔel ɛlˈjon",
+        "korean": "엘 엘욘",
+        "letters": "אֵל(el) + עֶ(el) + לְ(ye) + יוֹן(on)",
+        "root": "עָלָה (알라)",
+        "grammar": "명사",
+        "emoji": "⛰️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-elyon22-grad1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6A1B9A\" /><stop offset=\"50%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#AB47BC\" /></linearGradient><linearGradient id=\"abram-elyon22-grad2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A148C\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient><radialGradient id=\"abram-elyon22-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><path d=\"M 32 8 L 52 48 L 44 48 L 32 28 L 20 48 L 12 48 Z\" fill=\"url(#abram-elyon22-grad1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 16 L 44 44 L 36 44 L 32 32 L 28 44 L 20 44 Z\" fill=\"url(#abram-elyon22-grad2)\" /><circle cx=\"32\" cy=\"8\" r=\"6\" fill=\"url(#abram-elyon22-glow)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 4 L 34 8 L 30 8 Z\" fill=\"#FFD700\" /><path d=\"M 28 6 L 32 8 L 28 10 Z\" fill=\"#FFD700\" /><path d=\"M 36 6 L 32 8 L 36 10 Z\" fill=\"#FFD700\" /></svg>",
+        "relatedWords": [
+          "עֶלְיוֹן (엘욘 - 지극히 높으신)",
+          "רָם (람 - 높은)"
+        ]
+      },
+      {
+        "hebrew": "קֹנֵה שָׁמַיִם וָאָרֶץ",
+        "meaning": "하늘과 땅을 만드신 분",
+        "ipa": "koˈne ʃaˈmajim vaˈʔarɛts",
+        "korean": "코네 샤마임 바아레츠",
+        "letters": "קֹ(ko) + נֵה(ne) + שָׁ(sha) + מַיִם(mayim) + וָ(va) + אָ(a) + רֶץ(rets)",
+        "root": "ק-נ-ה (카나)",
+        "grammar": "동사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-creator22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><linearGradient id=\"abram-creator22-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient><radialGradient id=\"abram-creator22-grad3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#BBDEFB\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"36\" r=\"20\" fill=\"url(#abram-creator22-grad1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"22\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#abram-creator22-grad2)\" /><ellipse cx=\"42\" cy=\"36\" rx=\"6\" ry=\"10\" fill=\"url(#abram-creator22-grad2)\" /><ellipse cx=\"32\" cy=\"30\" rx=\"5\" ry=\"6\" fill=\"url(#abram-creator22-grad2)\" /><circle cx=\"32\" cy=\"36\" r=\"22\" fill=\"url(#abram-creator22-grad3)\" /><path d=\"M 12 20 Q 32 8 52 20\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"10\" r=\"4\" fill=\"#FFEB3B\" filter=\"drop-shadow(0 0 6px rgba(255, 235, 59, 0.8))\" /></svg>",
+        "relatedWords": [
+          "בָּרָא (바라 - 창조하다)",
+          "עָשָׂה (아사 - 만들다)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "아브람이 소돔 왕의 제안을 단호하게 거절하며 맹세하는 장면입니다. '손을 들어 맹세한다'는 표현은 고대 근동의 공식적인 맹세 의식을 나타내며, 아브람은 여호와를 '엘 엘욘(가장 높으신 하나님)'이라 부르며 창조주 하나님께 대한 신앙을 고백합니다. 이 맹세는 아브람이 물질보다 하나님을 선택하는 결정적인 순간입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "הֲרִמֹתִי יָדִי (하리모티 야디) - 손을 들어 맹세하다",
+          "description": "히브리어 '하림 야드'는 '손을 높이 들다'라는 의미로, 고대 근동에서 공식적인 맹세나 서약을 할 때 사용하던 의식적 제스처입니다. 손을 하늘로 들어 올림으로써 하나님을 증인으로 삼고, 그 앞에서 진실을 말하겠다는 서약의 표시였습니다.",
+          "points": [
+            "공식적이고 구속력 있는 맹세의 표현입니다",
+            "하나님을 증인으로 세우는 엄숙한 행위입니다",
+            "아브람의 결단이 일시적 감정이 아닌 신앙적 결정임을 보여줍니다",
+            "신약의 '손을 들어 기도하다'의 배경이 됩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "אֵל עֶלְיוֹן (엘 엘욘) - 가장 높으신 하나님",
+          "description": "'엘 엘욘'은 하나님의 지고하심과 주권을 강조하는 호칭입니다. '엘욘'은 '가장 높은', '지극히 높은'을 의미하며, 이는 멜기세덱이 사용했던 호칭(14:18-20)을 아브람이 그대로 고백하는 것입니다. 아브람은 여호와가 모든 신들 위에 계신 유일하신 참 하나님임을 선포합니다.",
+          "points": [
+            "멜기세덱의 신앙 고백을 아브람이 받아들였습니다",
+            "여호와께서 소돔의 신들보다 높으심을 선언합니다",
+            "하나님의 절대적 주권과 초월성을 인정합니다",
+            "시편 91:1의 '지극히 높으신 자의 은밀한 곳'과 연결됩니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "קֹנֵה שָׁמַיִם וָאָרֶץ (코네 샤마임 바아레츠) - 하늘과 땅의 소유주",
+          "description": "'코네'는 '소유하다', '창조하다', '획득하다'는 의미를 모두 담고 있습니다. 하나님은 하늘과 땅을 창조하셨을 뿐 아니라 그것의 정당한 소유주이시며, 따라서 그 안의 모든 것도 하나님의 것입니다. 아브람은 이 고백을 통해 소돔 왕의 재물을 거절할 신학적 근거를 제시합니다.",
+          "points": [
+            "하나님은 우주의 창조주이자 소유주이십니다",
+            "모든 재물의 궁극적 주인은 하나님이십니다",
+            "아브람이 소돔 왕의 재물을 거절할 수 있는 이유입니다",
+            "창세기 1:1의 창조 신앙을 재확인합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "יְהוָה אֵל עֶלְיוֹן (여호와 엘 엘욘) - 언약의 하나님이자 우주의 통치자",
+          "description": "아브람은 '여호와'(언약의 하나님)와 '엘 엘욘'(우주의 통치자)을 결합하여 사용합니다. 이는 자신과 언약을 맺으신 하나님이 바로 온 우주를 다스리시는 지극히 높으신 분임을 고백하는 것입니다. 개인적 신앙과 우주적 주권이 하나로 통합됩니다.",
+          "points": [
+            "개인적 언약의 하나님이 우주적 통치자이심을 고백합니다",
+            "아브람의 신앙이 더욱 깊어지고 확장되었음을 보여줍니다",
+            "멜기세덱과의 만남이 아브람의 신학을 풍성하게 했습니다",
+            "신약의 '주 예수 그리스도' 고백의 구약적 원형입니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 손을 들어 하나님께 맹세했을까요?",
+        "answer": "아브람은 자신이 한 말이 정말 진심이라는 것을 보여주고 싶었어요. 옛날 사람들은 중요한 약속을 할 때 하늘을 향해 손을 들었답니다. 마치 '하나님, 제가 거짓말하는지 보고 계세요!'라고 말하는 것 같아요. 아브람은 하나님께서 하늘과 땅을 모두 만드셨기 때문에, 소돔 왕의 재물 같은 것은 필요 없다고 말하고 싶었어요. 하나님이 가장 중요하다는 것을 보여주기 위해 손을 들어 맹세한 거예요.",
+        "bibleReferences": [
+          "출애굽기 6:8 - '내가 손을 들어 아브라함과 이삭과 야곱에게 주기로 맹세한 땅'",
+          "신명기 32:40 - '내가 하늘을 향하여 내 손을 들고 말하노니 나는 영원히 살아 있노라'",
+          "시편 63:4 - '이러므로 내가 평생에 주를 송축하며 주의 이름으로 말미암아 내 손을 들리이다'",
+          "디모데전서 2:8 - '그러므로 각처에서 남자들이 분노와 다툼이 없이 거룩한 손을 들어 기도하기를 원하노라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 맹세는 신앙과 삶의 일치를 보여줍니다. 하나님을 '가장 높으신 분', '하늘과 땅의 소유주'로 고백하는 것은 단순한 신학적 진술이 아니라, 구체적인 삶의 선택으로 이어집니다. 우리도 하나님을 주님으로 고백한다면, 세상의 재물과 명예보다 하나님의 뜻을 우선시하는 결단이 따라야 합니다. '너희는 하나님과 재물을 겸하여 섬기지 못하느니라'(마태복음 6:24)는 예수님의 말씀이 여기서 예표됩니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_23",
+    "reference": "창세기 14:23",
+    "hebrew": "אִם־מִחוּט וְעַד שְׂרוֹךְ־נַעַל וְאִם־אֶקַּח מִכָּל־אֲשֶׁר־לָךְ וְלֹא תֹאמַר אֲנִי הֶעֱשַׁרְתִּי אֶת־אַבְרָם׃",
+    "ipa": "ʔim-miˈχut vəˈʔad səˈroχ-ˈnaʔal vəʔim-ʔɛkˈkaχ mikol-ʔaˈʃɛr-ˈlaχ vəˈlo toˈmar ʔaˈni hɛʔɛʃarˈti ʔɛt-ʔavˈram",
+    "koreanPronunciation": "임 미후트 베아드 스로크 나알 베임 에카흐 미콜 아쉐르 라크 베로 토마르 아니 헤에샤르티 에트 아브람",
+    "modern": "실 한 오라기나 신발 끈 하나라도 당신의 것은 절대 받지 않겠습니다. 그래야 당신이 '내가 아브람을 부자로 만들었다'고 말하지 못할 것입니다.",
+    "words": [
+      {
+        "hebrew": "מִחוּט",
+        "meaning": "실에서, 실 한 오라기",
+        "ipa": "miˈχut",
+        "korean": "미후트",
+        "letters": "מִ(mi) + חוּט(khut)",
+        "root": "חוּט (후트)",
+        "grammar": "명사",
+        "emoji": "🧵",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"refuse23-thread-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient><linearGradient id=\"refuse23-thread-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F48FB1\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><path d=\"M 10 32 Q 20 20 32 28 Q 44 36 54 24\" stroke=\"url(#refuse23-thread-grad1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 36 Q 24 26 36 32 Q 48 38 56 28\" stroke=\"url(#refuse23-thread-grad2)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><circle cx=\"10\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 4px rgba(233, 30, 99, 0.6))\" /><circle cx=\"54\" cy=\"24\" r=\"3\" fill=\"#C2185B\" filter=\"drop-shadow(0 0 4px rgba(194, 24, 91, 0.6))\" /></svg>",
+        "relatedWords": [
+          "חֶבֶל (헤벨 - 줄, 밧줄)",
+          "פְּתִיל (페틸 - 실, 끈)"
+        ]
+      },
+      {
+        "hebrew": "שְׂרוֹךְ־נַעַל",
+        "meaning": "신발 끈",
+        "ipa": "səˈroχ-ˈnaʔal",
+        "korean": "스로크 나알",
+        "letters": "שְׂ(se) + רוֹךְ(rokh) + נַ(na) + עַל(al)",
+        "root": "שָׂרַךְ (사라크)",
+        "grammar": "명사",
+        "emoji": "👟",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"refuse23-sandal-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient><linearGradient id=\"refuse23-sandal-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"42\" rx=\"20\" ry=\"10\" fill=\"url(#refuse23-sandal-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 20 42 Q 20 38 24 36 L 40 36 Q 44 38 44 42\" fill=\"url(#refuse23-sandal-grad2)\" /><path d=\"M 32 36 Q 32 28 32 20\" stroke=\"#8D6E63\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"#A1887F\" /><path d=\"M 28 38 L 28 32 M 36 38 L 36 32\" stroke=\"#6D4C41\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "נַעַל (나알 - 신발, 샌들)",
+          "מִנְעָל (민알 - 신)"
+        ]
+      },
+      {
+        "hebrew": "וְלֹא תֹאמַר",
+        "meaning": "그리고 말하지 못하도록",
+        "ipa": "vəˈlo toˈmar",
+        "korean": "베로 토마르",
+        "letters": "וְ(ve) + לֹא(lo) + תֹ(to) + אמַר(mar)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "🚫",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"refuse23-no-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F44336\" /><stop offset=\"100%\" stop-color=\"#C62828\" /></linearGradient><radialGradient id=\"refuse23-no-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#F44336\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#refuse23-no-grad1)\" stroke-width=\"6\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#refuse23-no-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#refuse23-no-grad2)\" /></svg>",
+        "relatedWords": [
+          "לֹא (로 - 아니다)",
+          "אָמַר (아마르 - 말하다)"
+        ]
+      },
+      {
+        "hebrew": "הֶעֱשַׁרְתִּי",
+        "meaning": "내가 부자로 만들었다",
+        "ipa": "hɛʔɛʃarˈti",
+        "korean": "헤에샤르티",
+        "letters": "הֶ(he) + עֱ(e) + שַׁ(sha) + רְ(r) + תִּי(ti)",
+        "root": "ע-ש-ר (아샤르)",
+        "grammar": "동사",
+        "emoji": "💰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"refuse23-riches-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"refuse23-riches-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><linearGradient id=\"refuse23-riches-grad3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#C62828\" /></linearGradient></defs><rect x=\"16\" y=\"20\" width=\"32\" height=\"24\" rx=\"4\" fill=\"url(#refuse23-riches-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#refuse23-riches-grad2)\" /><text x=\"32\" y=\"37\" font-size=\"12\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#FF6B35\">$</text><line x1=\"12\" y1=\"12\" x2=\"52\" y2=\"52\" stroke=\"url(#refuse23-riches-grad3)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /></svg>",
+        "relatedWords": [
+          "עֹשֶׁר (오셰르 - 부, 재산)",
+          "עָשִׁיר (아쉬르 - 부자)"
+        ]
+      },
+      {
+        "hebrew": "אֶת־אַבְרָם",
+        "meaning": "아브람을",
+        "ipa": "ʔɛt-ʔavˈram",
+        "korean": "에트 아브람",
+        "letters": "אֶת(et) + אַ(av) + בְרָם(ram)",
+        "root": "אַבְרָם (아브람)",
+        "grammar": "명사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"refuse23-abram-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></linearGradient><radialGradient id=\"refuse23-abram-grad2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#refuse23-abram-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 30 Q 20 32 16 44 L 16 56 L 48 56 L 48 44 Q 44 32 32 30 Z\" fill=\"url(#refuse23-abram-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"18\" r=\"2\" fill=\"#1565C0\" /><circle cx=\"38\" cy=\"18\" r=\"2\" fill=\"#1565C0\" /><path d=\"M 28 24 Q 32 26 36 24\" stroke=\"#1565C0\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "אַבְרָהָם (아브라함 - 많은 민족의 아버지)",
+          "אָב (아브 - 아버지)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 극단적인 예를 들어 자신의 결심을 강조합니다. '실 한 오라기'와 '신발 끈'은 가장 사소하고 가치 없는 물건을 상징하며, 아브람은 그 어떤 것도, 아무리 작은 것이라도 소돔 왕으로부터 받지 않겠다고 선언합니다. 이는 하나님만이 자신의 유일한 공급자이심을 고백하는 것입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "מִחוּט וְעַד שְׂרוֹךְ־נַעַל (미후트 베아드 스로크 나알) - 실 한 오라기에서 신발 끈까지",
+          "description": "'실 한 오라기'는 가장 작고 가치 없는 물건의 하한선을, '신발 끈'은 일상적이고 보잘것없는 물건을 상징합니다. 히브리어에서 '~에서...까지'라는 표현은 완전성을 나타내는 메리즘(merism)으로, 아브람은 가장 작은 것부터 큰 것까지 그 무엇도 받지 않겠다는 완전한 거절을 표현합니다.",
+          "points": [
+            "가장 사소한 것조차 받지 않겠다는 철저한 결단입니다",
+            "부분적 타협이 아닌 완전한 거절을 의미합니다",
+            "물질의 크기나 가치가 아니라 원칙의 문제임을 보여줍니다",
+            "세상과의 영적 독립을 선언하는 상징적 표현입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וְלֹא תֹאמַר (베로 토마르) - 말하지 못하도록",
+          "description": "아브람의 거절은 단순히 물질을 원하지 않아서가 아니라, 소돔 왕이 자신을 부자로 만들었다고 주장하지 못하도록 하기 위함입니다. '토마르'(말하다)라는 동사는 미래형으로, 아브람은 미래에 있을 수 있는 모든 허튼 주장을 사전에 차단합니다.",
+          "points": [
+            "아브람의 부(富)는 하나님의 축복임을 명확히 합니다",
+            "사람의 공로가 아닌 하나님의 은혜를 증거합니다",
+            "미래의 오해나 왜곡을 사전에 방지하는 지혜입니다",
+            "신앙의 순수성을 지키기 위한 예방적 조치입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "הֶעֱשַׁרְתִּי אֶת־אַבְרָם (헤에샤르티 에트 아브람) - 내가 아브람을 부자로 만들었다",
+          "description": "'헤에샤르'는 '부자로 만들다'는 뜻의 히필(Hiphil, 사역형) 동사로, 소돔 왕이 아브람을 부자로 만드는 원인이 되었다는 의미입니다. 아브람은 이런 주장이 나올 가능성 자체를 원천 봉쇄합니다. 하나님만이 아브람에게 복을 주시는 유일한 근원이어야 하기 때문입니다.",
+          "points": [
+            "하나님만이 아브람을 축복하시는 유일한 근원입니다",
+            "사람에게 빚지지 않고 오직 하나님께만 의지합니다",
+            "창세기 12:2의 '내가 너를 큰 민족으로 만들리라'는 약속을 지킵니다",
+            "인간의 자랑을 배제하고 하나님의 영광만을 구합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "אִם־אֶקַּח (임 에카흐) - 절대로 취하지 않으리라",
+          "description": "'임'은 조건절로 사용될 때 '만약 ~한다면'이지만, 강한 부정과 함께 쓰이면 '절대로 ~하지 않으리라'는 맹세의 표현이 됩니다. 아브람은 이 구문을 통해 자신의 거절이 일시적 감정이 아닌 확고한 결단임을 강조합니다.",
+          "points": [
+            "히브리어 맹세 표현으로 변경 불가능한 결단을 나타냅니다",
+            "어떤 유혹에도 흔들리지 않을 확고한 의지입니다",
+            "신앙적 원칙에 대한 절대적 순종을 보여줍니다",
+            "다니엘서 1:8의 '뜻을 정하여'와 같은 신앙적 결단입니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 실 한 오라기나 신발 끈조차 받지 않으려고 했을까요?",
+        "answer": "아브람은 작은 것이라도 소돔 왕에게서 받으면, 나중에 소돔 왕이 '내가 아브람을 부자로 만들어줬어!'라고 자랑할까봐 걱정했어요. 아브람은 자신이 가진 모든 것이 하나님께서 주신 것이라는 걸 사람들이 알기를 원했어요. 마치 여러분이 부모님께 용돈을 받는 것처럼, 아브람도 하나님께만 복을 받고 싶었던 거예요. 실 하나, 신발 끈 하나라도 다른 사람 것을 받으면, 그 사람이 자기 덕분이라고 말할 수 있으니까요.",
+        "bibleReferences": [
+          "시편 50:10-12 - '삼림의 짐승들과 천산의 가축이 다 내 것이며... 내가 세계와 거기에 충만한 것을 소유하였음이로다'",
+          "빌립보서 4:19 - '나의 하나님이 그리스도 예수 안에서 영광 가운데 그 풍성한 대로 너희 모든 쓸 것을 채우시리라'",
+          "야고보서 1:17 - '온갖 좋은 은사와 온전한 선물이 다 위로부터 빛들의 아버지께로부터 내려오나니'",
+          "고린도전서 4:7 - '네게 있는 것 중에 받지 아니한 것이 무엇이냐 네가 받았은즉 어찌하여 받지 아니한 것 같이 자랑하느냐'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 철저한 거절은 '오직 하나님만'이라는 신앙의 순수성을 보여줍니다. 세상의 도움을 받으면 그만큼 하나님의 영광이 가려질 수 있다는 통찰입니다. 바울도 '아무에게도 빚지지 말라'(로마서 13:8)고 했으며, 예수님도 '한 사람이 두 주인을 섬기지 못한다'(마태복음 6:24)고 가르치셨습니다. 아브람의 결단은 믿음으로 사는 삶이 얼마나 철저해야 하는지를 보여주는 모범입니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_24",
+    "reference": "창세기 14:24",
+    "hebrew": "בִּלְעָדַי רַק אֲשֶׁר אָכְלוּ הַנְּעָרִים וְחֵלֶק הָאֲנָשִׁים אֲשֶׁר הָלְכוּ אִתִּי עָנֵר אֶשְׁכֹּל וּמַמְרֵא הֵם יִקְחוּ חֶלְקָם׃",
+    "ipa": "bilʔaˈdaj rak ʔaˈʃɛr ʔaχəˈlu hanːəʔaˈrim vəˈχelɛk haʔanaˈʃim ʔaˈʃɛr haləˈχu ʔiˈti ʔaˈner ʔɛʃˈkol uˈmamre hem jikˈχu χɛlˈkam",
+    "koreanPronunciation": "빌아다이 라크 아쉐르 아클루 한나아림 베헬레크 하아나쉼 아쉐르 할쿠 이티 아네르 에쉬콜 우맘레 헴 이크후 헬캄",
+    "modern": "다만 젊은이들이 먹은 것과, 나와 함께 간 아네르, 에스골, 마므레의 몫은 예외입니다. 그들은 자기 몫을 가지게 하십시오.",
+    "words": [
+      {
+        "hebrew": "בִּלְעָדַי",
+        "meaning": "나를 제외하고는, 나 외에는",
+        "ipa": "bilʔaˈdaj",
+        "korean": "빌아다이",
+        "letters": "בִּ(bil) + לְ(le) + עָ(a) + דַי(day)",
+        "root": "בִּלְעֲדֵי (빌아데)",
+        "grammar": "전치사",
+        "emoji": "➖",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allies24-except-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></linearGradient><radialGradient id=\"allies24-except-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#allies24-except-grad2)\" /><rect x=\"12\" y=\"30\" width=\"40\" height=\"4\" rx=\"2\" fill=\"url(#allies24-except-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"none\" stroke=\"url(#allies24-except-grad1)\" stroke-width=\"3\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "רַק (라크 - 오직, 단지)",
+          "זוּלָתִי (줄라티 - ~을 제외하고)"
+        ]
+      },
+      {
+        "hebrew": "אֲשֶׁר אָכְלוּ הַנְּעָרִים",
+        "meaning": "젊은이들이 먹은 것",
+        "ipa": "ʔaˈʃɛr ʔaχəˈlu hanːəʔaˈrim",
+        "korean": "아쉐르 아클루 한나아림",
+        "letters": "אֲ(a) + שֶׁר(sher) + אָ(a) + כְלוּ(khlu) + הַ(ha) + נְּעָ(ne'a) + רִים(rim)",
+        "root": "א-כ-ל (아칼)",
+        "grammar": "동사",
+        "emoji": "🍞",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allies24-food-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#F57C00\" /></linearGradient><radialGradient id=\"allies24-food-grad2\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"12\" fill=\"url(#allies24-food-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"10\" fill=\"url(#allies24-food-grad2)\" /><circle cx=\"26\" cy=\"30\" r=\"2\" fill=\"#D84315\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#D84315\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"30\" r=\"2\" fill=\"#D84315\" opacity=\"0.6\" /><path d=\"M 20 32 Q 32 28 44 32\" stroke=\"#F57C00\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+        "relatedWords": [
+          "לֶחֶם (레헴 - 빵)",
+          "מַאֲכָל (마아칼 - 음식)"
+        ]
+      },
+      {
+        "hebrew": "חֵלֶק",
+        "meaning": "몫, 분깃",
+        "ipa": "ˈχelɛk",
+        "korean": "헬레크",
+        "letters": "חֵ(khe) + לֶק(lek)",
+        "root": "חָלַק (할라크)",
+        "grammar": "명사",
+        "emoji": "📊",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allies24-portion-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient><linearGradient id=\"allies24-portion-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient><linearGradient id=\"allies24-portion-grad3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#66BB6A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#E0E0E0\" stroke-width=\"12\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#allies24-portion-grad1)\" stroke-width=\"12\" stroke-dasharray=\"51.8 103.6\" transform=\"rotate(-90 32 32)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#allies24-portion-grad2)\" stroke-width=\"12\" stroke-dasharray=\"51.8 103.6\" transform=\"rotate(0 32 32)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#allies24-portion-grad3)\" stroke-width=\"12\" stroke-dasharray=\"51.8 103.6\" transform=\"rotate(90 32 32)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+        "relatedWords": [
+          "נַחֲלָה (나할라 - 기업, 유산)",
+          "גּוֹרָל (고랄 - 제비, 몫)"
+        ]
+      },
+      {
+        "hebrew": "עָנֵר אֶשְׁכֹּל וּמַמְרֵא",
+        "meaning": "아네르, 에스골, 마므레",
+        "ipa": "ʔaˈner ʔɛʃˈkol uˈmamre",
+        "korean": "아네르 에쉬콜 우맘레",
+        "letters": "עָ(a) + נֵר(ner) + אֶ(esh) + שְׁכֹּל(kol) + וּ(u) + מַ(mam) + מְרֵא(re)",
+        "root": "고유명사",
+        "grammar": "명사",
+        "emoji": "🤝",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allies24-allies-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#EE5A6F\" /></linearGradient><linearGradient id=\"allies24-allies-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#44A08D\" /></linearGradient><radialGradient id=\"allies24-allies-glow\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"8\" fill=\"url(#allies24-allies-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#allies24-allies-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"8\" fill=\"url(#allies24-allies-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 36 L 24 44 L 28 44 L 32 36\" fill=\"url(#allies24-allies-grad1)\" /><path d=\"M 32 28 L 36 36 L 40 36 L 44 36\" fill=\"url(#allies24-allies-grad2)\" /><path d=\"M 16 36 L 20 36 L 24 36 L 28 28\" fill=\"url(#allies24-allies-grad2)\" /><circle cx=\"32\" cy=\"44\" r=\"6\" fill=\"url(#allies24-allies-glow)\" opacity=\"0.5\" /></svg>",
+        "relatedWords": [
+          "אָח (아흐 - 형제)",
+          "רֵעַ (레아 - 친구, 동료)"
+        ]
+      },
+      {
+        "hebrew": "הֵם יִקְחוּ חֶלְקָם",
+        "meaning": "그들이 자기 몫을 가지게 하라",
+        "ipa": "hem jikˈχu χɛlˈkam",
+        "korean": "헴 이크후 헬캄",
+        "letters": "הֵם(hem) + יִ(yi) + קְחוּ(khu) + חֶ(khel) + לְקָם(kam)",
+        "root": "ל-ק-ח (라카흐)",
+        "grammar": "동사",
+        "emoji": "✅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allies24-take-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#00A040\" /></linearGradient><radialGradient id=\"allies24-take-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#00C853\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#allies24-take-grad2)\" /><path d=\"M 16 32 L 26 44 L 50 18\" stroke=\"url(#allies24-take-grad1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"44\" r=\"3\" fill=\"#00C853\" filter=\"drop-shadow(0 0 4px rgba(0, 200, 83, 0.6))\" /></svg>",
+        "relatedWords": [
+          "לָקַח (라카흐 - 취하다, 받다)",
+          "נָשָׂא (나사 - 들다, 받다)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 자신의 원칙을 지키면서도 동시에 타인의 수고를 인정하는 지혜를 보여줍니다. 젊은이들이 먹은 식량과 동맹군의 몫은 정당한 보상이므로 받아야 한다고 주장합니다. 이는 아브람의 거절이 독선적 순수주의가 아니라, 균형 잡힌 신앙적 원칙임을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "בִּלְעָדַי רַק (빌아다이 라크) - 나를 제외하고는, 오직",
+          "description": "'빌아다이'는 '나를 제외하고'라는 의미로, 아브람은 자신의 원칙을 다른 사람에게 강요하지 않습니다. '라크'(오직, 단지)는 예외 조항을 도입하며, 아브람이 융통성 없는 원리주의자가 아니라 현실적 지혜를 가진 지도자임을 보여줍니다.",
+          "points": [
+            "자신의 신앙적 결단을 타인에게 강요하지 않습니다",
+            "원칙을 지키되 타인의 권리도 존중합니다",
+            "신앙과 관계의 균형을 보여주는 지혜입니다",
+            "개인의 양심과 공동체의 필요를 조화시킵니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "אֲשֶׁר אָכְלוּ הַנְּעָרִים (아쉐르 아클루 한나아림) - 젊은이들이 먹은 것",
+          "description": "'나아림'(젊은이들)은 아브람의 종들을 가리키며, '아클루'(먹었다)는 전투 중 소비한 식량을 의미합니다. 아브람은 전쟁 수행 과정에서 불가피하게 사용한 것들은 정당한 비용으로 인정합니다. 이는 실용적 필요와 신앙적 원칙의 조화를 보여줍니다.",
+          "points": [
+            "정당한 노동과 비용은 인정하고 보상해야 합니다",
+            "신앙적 원칙이 비현실적 이상주의가 되지 않도록 합니다",
+            "종들의 수고와 필요를 배려하는 선한 주인의 모습입니다",
+            "신약의 '일꾼이 그 삯을 받는 것이 마땅하다'는 원리의 예표입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "חֵלֶק הָאֲנָשִׁים (헬레크 하아나쉼) - 사람들의 몫",
+          "description": "'헬레크'는 '몫', '분깃', '할당된 부분'을 의미하며, 고대 전쟁 관습에서 동맹군은 전리품의 일부를 받을 권리가 있었습니다. 아브람은 이 관습을 존중하며, 아네르, 에스골, 마므레가 자신들의 몫을 받도록 허락합니다.",
+          "points": [
+            "동맹군의 정당한 권리를 인정하고 존중합니다",
+            "자신의 신앙적 결단으로 타인의 이익을 침해하지 않습니다",
+            "공정함과 정의를 실천하는 리더십을 보여줍니다",
+            "신앙인도 세상의 정당한 관습을 존중해야 함을 가르칩니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "עָנֵר אֶשְׁכֹּל וּמַמְרֵא (아네르 에쉬콜 우맘레) - 충성된 동맹군",
+          "description": "아네르, 에스골, 마므레는 아브람의 이웃이자 동맹으로, 자신들의 이익과 무관하게 아브람을 도와 전쟁에 참여했습니다(14:13). 아브람은 이들의 충성과 희생을 기억하며, 그들이 정당한 보상을 받도록 배려합니다. 이는 신앙 공동체 안에서의 상호 존중과 배려를 보여줍니다.",
+          "points": [
+            "위험을 무릅쓰고 도운 동맹에 대한 감사와 보상입니다",
+            "신앙인도 의로운 관계와 우정을 소중히 여겨야 합니다",
+            "혼자가 아닌 공동체 안에서 신앙을 실천합니다",
+            "신약의 '선을 행하되 낙심하지 말라'는 가르침의 배경입니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 자기는 안 받으면서 다른 사람들은 받게 했을까요?",
+        "answer": "아브람은 공정하고 지혜로운 사람이었어요. 자기가 소돔 왕의 재물을 받지 않기로 결심한 건 하나님께 대한 믿음 때문이었지만, 다른 사람들까지 그렇게 하라고 강요하지 않았어요. 젊은 종들은 전쟁하면서 음식을 먹었으니 그건 당연한 거예요. 그리고 아네르, 에스골, 마므레는 아브람을 도와주려고 자기 목숨을 걸고 싸워줬으니, 그들이 보상을 받는 건 공정한 거예요. 아브람은 자기 믿음을 지키면서도 다른 사람들에게 친절하고 공정했답니다.",
+        "bibleReferences": [
+          "마태복음 10:10 - '일꾼이 자기의 먹을 것 받는 것이 마땅하니라'",
+          "누가복음 10:7 - '일꾼이 그 삯을 받는 것이 마땅하니라'",
+          "디모데전서 5:18 - '일꾼이 그 삯을 받는 것이 마땅하다 하였느니라'",
+          "로마서 14:1-4 - '믿음이 연약한 자를 너희가 받되 그의 의견을 비판하지 말라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 지혜는 신앙적 원칙과 현실적 배려의 균형을 보여줍니다. 자신은 하나님만을 의지하는 순수한 믿음을 지키면서도, 타인의 수고와 권리는 존중합니다. 이는 바울이 말한 '각각 자기 일을 돌볼지니라'(갈라디아서 6:5)와 '서로 짐을 지라'(갈라디아서 6:2)의 균형입니다. 진정한 신앙은 자기 의만 주장하는 것이 아니라, 하나님 앞에서 정직하되 이웃에게는 공정하고 관대한 것입니다."
+      }
+    }
+  }
+]

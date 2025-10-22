@@ -1,0 +1,560 @@
+[
+  {
+    "verseId": "genesis_13_15",
+    "ipa": "ki ʔɛt kol haˈʔarɛts ʔaˈʃɛr ʔatˈta roˈɛ ləˈχa ʔɛtəˈnɛnna ulzarʔaˈχa ʕad ʕoˈlam",
+    "koreanPronunciation": "키 에트 콜 하아레츠 아쉐르 아타 로에 레카 에테넨나 울자르아카 아드 올람",
+    "modern": "네가 보고 있는 이 모든 땅을 내가 너와 네 후손에게 영원히 주겠다",
+    "words": [
+      {
+        "hebrew": "כִּי",
+        "meaning": "왜냐하면, ~이기 때문에",
+        "ipa": "ki",
+        "korean": "키",
+        "letters": "כִּ(ki) + י(i)",
+        "root": "כִּי (키)",
+        "grammar": "접속사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-reason\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"promise-land1-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#promise-land1-reason)\" opacity=\"0.2\" /><path d=\"M 20 32 Q 32 20 44 32\" stroke=\"url(#promise-land1-reason)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"32\" r=\"4\" fill=\"url(#promise-land1-glow)\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.8))\" /><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"url(#promise-land1-glow)\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.8))\" /><path d=\"M 26 40 L 32 46 L 38 40\" stroke=\"#667eea\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "אִם (임 - 만약)",
+          "לָכֵן (라켄 - 그러므로)"
+        ]
+      },
+      {
+        "hebrew": "אֶת כָּל הָאָרֶץ",
+        "meaning": "모든 땅을",
+        "ipa": "ʔɛt kol haˈʔarɛts",
+        "korean": "에트 콜 하아레츠",
+        "letters": "אֶת(et) + כָּל(kol) + הָ(ha) + אָרֶץ(aretz)",
+        "root": "כֹּל (콜) + אֶרֶץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-earth\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#CDDC39\" /></linearGradient><radialGradient id=\"promise-land1-sky\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#promise-land1-sky)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"40\" rx=\"24\" ry=\"10\" fill=\"url(#promise-land1-earth)\" opacity=\"0.9\" /><path d=\"M 8 35 Q 16 30 24 35 Q 32 40 40 35 Q 48 30 56 35\" fill=\"url(#promise-land1-earth)\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#FFD700\" opacity=\"0.8\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /></svg>",
+        "relatedWords": [
+          "אֶרֶץ (에레츠 - 땅, 지구)",
+          "אֲדָמָה (아다마 - 흙, 토지)"
+        ]
+      },
+      {
+        "hebrew": "אֲשֶׁר אַתָּה רֹאֶה",
+        "meaning": "네가 보는",
+        "ipa": "ʔaˈʃɛr ʔatˈta roˈɛ",
+        "korean": "아쉐르 아타 로에",
+        "letters": "אֲ(a) + שֶׁר(sher) + אַ(a) + תָּה(ta) + רֹ(ro) + אֶה(eh)",
+        "root": "אֲשֶׁר (아쉐르) + ר-א-ה (라아)",
+        "grammar": "동사",
+        "emoji": "👁️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-eye\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#2980b9\" /><stop offset=\"100%\" stop-color=\"#1a5490\" /></linearGradient><radialGradient id=\"promise-land1-pupil\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"#FFFFFF\" stroke=\"url(#promise-land1-eye)\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"14\" fill=\"url(#promise-land1-eye)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#promise-land1-pupil)\" filter=\"drop-shadow(0 0 4px rgba(0, 0, 0, 0.5))\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "רָאָה (라아 - 보다)",
+          "חָזָה (하자 - 환상을 보다)"
+        ]
+      },
+      {
+        "hebrew": "לְךָ אֶתְּנֶנָּה",
+        "meaning": "너에게 주겠다",
+        "ipa": "ləˈχa ʔɛtəˈnɛnna",
+        "korean": "레카 에테넨나",
+        "letters": "לְ(le) + ךָ(kha) + אֶ(e) + תְּ(te) + נֶנָּה(nenna)",
+        "root": "נ-ת-ן (나탄)",
+        "grammar": "동사",
+        "emoji": "🎁",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-gift\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"promise-land1-ribbon\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"14\" y=\"22\" width=\"36\" height=\"28\" rx=\"3\" fill=\"url(#promise-land1-gift)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"22\" width=\"8\" height=\"28\" fill=\"url(#promise-land1-ribbon)\" /><rect x=\"14\" y=\"32\" width=\"36\" height=\"8\" fill=\"url(#promise-land1-ribbon)\" /><path d=\"M 32 22 Q 26 16 28 12 Q 30 8 32 10 Q 34 8 36 12 Q 38 16 32 22\" fill=\"url(#promise-land1-ribbon)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"36\" r=\"4\" fill=\"#FFD700\" opacity=\"0.5\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
+        "relatedWords": [
+          "נָתַן (나탄 - 주다)",
+          "מַתָּנָה (마타나 - 선물)"
+        ]
+      },
+      {
+        "hebrew": "וּלְזַרְעֲךָ",
+        "meaning": "그리고 네 후손에게",
+        "ipa": "ulzarʔaˈχa",
+        "korean": "울자르아카",
+        "letters": "וּ(u) + לְ(le) + זַ(za) + רְ(re) + עֲ(a) + ךָ(kha)",
+        "root": "זֶרַע (제라)",
+        "grammar": "명사",
+        "emoji": "👨‍👩‍👧‍👦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed-descendants1-family\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9b59b6\" /><stop offset=\"50%\" stop-color=\"#8e44ad\" /><stop offset=\"100%\" stop-color=\"#6c3483\" /></linearGradient><radialGradient id=\"seed-descendants1-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9b59b6\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"url(#seed-descendants1-family)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"20\" width=\"12\" height=\"14\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"18\" cy=\"26\" r=\"5\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"14\" y=\"29\" width=\"8\" height=\"11\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"46\" cy=\"26\" r=\"5\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"42\" y=\"29\" width=\"8\" height=\"11\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"22\" cy=\"44\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"46\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"44\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /></svg>",
+        "relatedWords": [
+          "זֶרַע (제라 - 씨, 후손)",
+          "בֵּן (벤 - 아들, 자손)"
+        ]
+      },
+      {
+        "hebrew": "עַד עוֹלָם",
+        "meaning": "영원히",
+        "ipa": "ʕad ʕoˈlam",
+        "korean": "아드 올람",
+        "letters": "עַד(ad) + עוֹ(o) + לָם(lam)",
+        "root": "עוֹלָם (올람)",
+        "grammar": "명사",
+        "emoji": "♾️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-forever\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1e3c72\" /><stop offset=\"50%\" stop-color=\"#2a5298\" /><stop offset=\"100%\" stop-color=\"#1e3c72\" /></linearGradient><radialGradient id=\"promise-land1-star\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><path d=\"M 10 32 Q 20 20 32 32 Q 44 44 54 32 Q 44 20 32 32 Q 20 44 10 32 Z\" fill=\"none\" stroke=\"url(#promise-land1-forever)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#promise-land1-star)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"10\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"54\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"22\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"22\" cy=\"50\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"50\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "עוֹלָם (올람 - 영원, 세계)",
+          "נֶצַח (네차흐 - 영원, 승리)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "하나님께서 아브람에게 약속하신 첫 번째 언약입니다. 롯과 헤어진 직후, 하나님은 아브람이 보는 모든 땅을 그와 그의 후손에게 영원히 주시겠다고 약속하십니다. 이는 단순한 토지 약속이 아니라, 하나님의 영원한 계획과 신실하심을 보여주는 언약입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "אֶת כָּל הָאָרֶץ (에트 콜 하아레츠) - 모든 땅의 약속",
+          "description": "'콜(모든)'이라는 단어는 제한이 없는 완전한 소유를 의미합니다. 하나님은 아브람이 눈으로 볼 수 있는 동서남북 모든 방향의 땅을 약속하십니다. 이는 가나안 땅 전체를 의미하며, 후에 이스라엘 민족의 약속의 땅이 됩니다.",
+          "points": [
+            "하나님의 약속은 부분적이 아니라 완전합니다",
+            "눈에 보이는 모든 것이 약속의 대상입니다",
+            "물리적 땅은 영적 유업의 상징입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "לְךָ אֶתְּנֶנָּה (레카 에테넨나) - 너에게 주겠다",
+          "description": "하나님은 '나탄(주다)'이라는 동사를 사용하여 이것이 선물임을 강조합니다. 아브람이 전쟁으로 얻거나 구매하는 것이 아니라, 하나님께서 은혜로 주시는 것입니다. 미래형 동사는 약속의 확실성을 나타냅니다.",
+          "points": [
+            "하나님의 약속은 일방적인 은혜입니다",
+            "인간의 노력이나 공로가 아닌 하나님의 선물입니다",
+            "미래형은 반드시 이루어질 확실한 약속입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וּלְזַרְעֲךָ (울자르아카) - 네 후손에게",
+          "description": "'제라(씨, 후손)'는 단순히 생물학적 자손만이 아니라, 믿음의 후손을 포함합니다. 이 약속은 이삭, 야곱, 그리고 궁극적으로 그리스도를 통한 모든 믿는 자들에게까지 확장됩니다.",
+          "points": [
+            "약속은 한 세대로 끝나지 않고 계속됩니다",
+            "후손은 육체적 자손과 영적 자손을 모두 포함합니다",
+            "그리스도를 통해 모든 믿는 자가 아브라함의 자손입니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "עַד עוֹלָם (아드 올람) - 영원히",
+          "description": "'올람(영원)'은 시간의 끝이 없는 영속성을 의미합니다. 하나님의 약속은 일시적이거나 조건부가 아니라, 영원토록 지속되는 언약입니다. 이는 하나님의 변치 않는 신실하심을 보여줍니다.",
+          "points": [
+            "하나님의 약속에는 만료일이 없습니다",
+            "영원한 약속은 하나님의 신실하심의 표현입니다",
+            "이 약속은 새 하늘과 새 땅에서 완성될 것입니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 아브람에게 '영원히' 땅을 주신다고 하셨을까요?",
+        "answer": "하나님은 아브람과 그 자손들이 언제까지나 하나님의 사랑을 받는 특별한 가족이라는 것을 보여주고 싶으셨어요. 마치 부모님이 아이에게 '영원히 사랑해'라고 말씀하시는 것처럼, 하나님도 아브람에게 '내가 너희를 영원히 돌보고 축복할게'라고 약속하신 거예요. 그리고 예수님을 믿는 우리도 아브람의 자손이 되어서 이 영원한 약속을 함께 받게 되었답니다!",
+        "bibleReferences": [
+          "갈라디아서 3:29 - '너희가 그리스도의 것이면 곧 아브라함의 자손이요 약속대로 유업을 이을 자니라'",
+          "로마서 4:13 - '아브라함이나 그 후손에게 세상의 상속자가 되리라고 하신 언약은 율법으로 말미암은 것이 아니요 오직 믿음의 의로 말미암은 것이니라'",
+          "히브리서 11:16 - '그들이 더 나은 본향을 사모하니 곧 하늘에 있는 것이라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하나님의 땅 약속은 단순한 부동산 약속이 아니라, 하나님의 백성과 함께 거하시려는 영원한 계획의 시작입니다. 이 약속은 궁극적으로 새 예루살렘, 곧 하나님이 사람과 함께 거하시는 새 하늘과 새 땅에서 완성됩니다. 우리는 그리스도 안에서 이 영원한 유업의 상속자가 되었습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_16",
+    "ipa": "vəsamˈti ʔɛt zarʔaˈχa kaʕaˈfar haˈʔarɛts ʔaˈʃɛr ʔim juˈχal ʔiʃ limnot ʔɛt ʕaˈfar haˈʔarɛts gam zarʔaˈχa jimmaˈnɛ",
+    "koreanPronunciation": "베삼티 에트 자르아카 카아파르 하아레츠 아쉐르 임 유칼 이쉬 림노트 에트 아파르 하아레츠 감 자르아카 이마네",
+    "modern": "내가 네 후손을 땅의 티끌처럼 많게 하리니, 사람이 땅의 티끌을 셀 수 있다면 네 후손도 셀 수 있을 것이다",
+    "words": [
+      {
+        "hebrew": "וְשַׂמְתִּי אֶת זַרְעֲךָ",
+        "meaning": "그리고 내가 네 후손을 만들겠다",
+        "ipa": "vəsamˈti ʔɛt zarʔaˈχa",
+        "korean": "베삼티 에트 자르아카",
+        "letters": "וְ(ve) + שַׂ(sa) + מְתִּי(mti) + אֶת(et) + זַרְעֲךָ(zarakha)",
+        "root": "שׂ-ו-ם (숨)",
+        "grammar": "동사",
+        "emoji": "🎯",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed-descendants1-make\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#a93226\" /></linearGradient><radialGradient id=\"seed-descendants1-center\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#seed-descendants1-make)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#seed-descendants1-make)\" stroke-width=\"3\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#seed-descendants1-make)\" stroke-width=\"2\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#seed-descendants1-center)\" filter=\"drop-shadow(0 0 8px rgba(231, 76, 60, 0.8))\" /><path d=\"M 32 12 L 32 22\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 42 L 32 52\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 12 32 L 22 32\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 42 32 L 52 32\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "שׂוּם (숨 - 두다, 만들다)",
+          "עָשָׂה (아사 - 만들다)"
+        ]
+      },
+      {
+        "hebrew": "כַּעֲפַר הָאָרֶץ",
+        "meaning": "땅의 티끌처럼",
+        "ipa": "kaʕaˈfar haˈʔarɛts",
+        "korean": "카아파르 하아레츠",
+        "letters": "כַּ(ka) + עֲ(a) + פַר(far) + הָ(ha) + אָרֶץ(aretz)",
+        "root": "עָפָר (아파르)",
+        "grammar": "명사",
+        "emoji": "🏜️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-sand\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f4e7d7\" /><stop offset=\"50%\" stop-color=\"#d4a373\" /><stop offset=\"100%\" stop-color=\"#b8956a\" /></linearGradient><radialGradient id=\"dust-earth1-particle\"><stop offset=\"0%\" stop-color=\"#f4e7d7\" /><stop offset=\"100%\" stop-color=\"#d4a373\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"10\" fill=\"url(#dust-earth1-sand)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"32\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"26\" r=\"3\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.9\" /><circle cx=\"40\" cy=\"30\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"28\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"20\" cy=\"38\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"42\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"40\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"38\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"12\" cy=\"36\" r=\"1.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.5\" /><circle cx=\"52\" cy=\"36\" r=\"1.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.5\" /></svg>",
+        "relatedWords": [
+          "עָפָר (아파르 - 티끌, 먼지)",
+          "אָבָק (아박 - 먼지)"
+        ]
+      },
+      {
+        "hebrew": "אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת",
+        "meaning": "만약 사람이 셀 수 있다면",
+        "ipa": "ʔaˈʃɛr ʔim juˈχal ʔiʃ limnot",
+        "korean": "아쉐르 임 유칼 이쉬 림노트",
+        "letters": "אֲ(a) + שֶׁר(sher) + אִם(im) + יוּ(yu) + כַל(khal) + אִישׁ(ish) + לִ(li) + מְנוֹת(mnot)",
+        "root": "י-כ-ל (야칼) + מ-נ-ה (마나)",
+        "grammar": "동사",
+        "emoji": "🔢",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-count\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#16a085\" /><stop offset=\"50%\" stop-color=\"#1abc9c\" /><stop offset=\"100%\" stop-color=\"#0e6655\" /></linearGradient><radialGradient id=\"dust-earth1-number\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#16a085\" /></radialGradient></defs><rect x=\"8\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><text x=\"14\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">1</text><text x=\"32\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">2</text><text x=\"50\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">3</text><circle cx=\"14\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"20\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"26\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"50\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><text x=\"32\" y=\"56\" font-size=\"10\" fill=\"#999\" text-anchor=\"middle\">...</text></svg>",
+        "relatedWords": [
+          "יָכֹל (야콜 - 할 수 있다)",
+          "מָנָה (마나 - 세다, 계산하다)"
+        ]
+      },
+      {
+        "hebrew": "גַּם זַרְעֲךָ יִמָּנֶה",
+        "meaning": "네 후손도 셀 수 있을 것이다",
+        "ipa": "gam zarʔaˈχa jimmaˈnɛ",
+        "korean": "감 자르아카 이마네",
+        "letters": "גַּם(gam) + זַ(za) + רְ(re) + עֲ(a) + ךָ(kha) + יִ(yi) + מָּ(mma) + נֶה(neh)",
+        "root": "זֶרַע (제라) + מ-נ-ה (마나)",
+        "grammar": "동사",
+        "emoji": "♾️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-countless\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f39c12\" /><stop offset=\"50%\" stop-color=\"#e67e22\" /><stop offset=\"100%\" stop-color=\"#d35400\" /></linearGradient><radialGradient id=\"dust-earth1-star\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#f39c12\" /></radialGradient></defs><circle cx=\"16\" cy=\"16\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"28\" cy=\"12\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"40\" cy=\"14\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"52\" cy=\"18\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"12\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"24\" cy=\"26\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"36\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"48\" cy=\"30\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"18\" cy=\"40\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"30\" cy=\"42\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"42\" cy=\"44\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"54\" cy=\"42\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"22\" cy=\"52\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"34\" cy=\"54\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"46\" cy=\"56\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /></svg>",
+        "relatedWords": [
+          "רַב (라브 - 많은)",
+          "אֵין מִסְפָּר (에인 미스파르 - 셀 수 없는)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "하나님은 아브람에게 땅뿐 아니라 셀 수 없는 후손도 약속하십니다. '땅의 티끌'이라는 비유는 수적으로 셀 수 없을 만큼 많음을 의미하며, 이는 후에 '하늘의 별'과 '바다의 모래'라는 비유와 함께 반복되는 약속입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "כַּעֲפַר הָאָרֶץ (카아파르 하아레츠) - 땅의 티끌처럼",
+          "description": "티끌은 발밑에 깔린 무수히 많은 먼지 입자를 의미합니다. 이는 사람이 셀 수 없을 정도로 많은 수를 나타내는 히브리어 관용 표현입니다. 하나님은 아브람의 후손이 셀 수 없이 많아질 것을 약속하십니다.",
+          "points": [
+            "티끌은 인간이 셀 수 없을 만큼 많은 수의 상징입니다",
+            "이 약속은 육체적 후손과 영적 후손 모두를 포함합니다",
+            "수적 증가는 하나님의 축복의 표현입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "אִם יוּכַל אִישׁ לִמְנוֹת (임 유칼 이쉬 림노트) - 만약 사람이 셀 수 있다면",
+          "description": "하나님은 불가능한 가정을 제시합니다. 땅의 티끌을 세는 것은 인간의 능력 밖의 일입니다. 이러한 수사적 표현은 약속의 위대함과 불가능함을 강조합니다.",
+          "points": [
+            "불가능한 가정을 통해 약속의 크기를 강조합니다",
+            "인간의 계산 능력을 초월하는 하나님의 축복입니다",
+            "자녀가 없던 아브람에게 이는 놀라운 약속입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "זַרְעֲךָ (자르아카) - 네 후손",
+          "description": "'제라(씨)'는 생물학적 자손뿐 아니라 영적 후손을 포함합니다. 신약에서 바울은 이 약속이 그리스도를 믿는 모든 사람에게 확장된다고 설명합니다(갈라디아서 3:29).",
+          "points": [
+            "후손은 육체적 자손과 신앙의 자손을 모두 포함합니다",
+            "그리스도 안에서 모든 믿는 자가 아브라함의 자손입니다",
+            "이 약속은 전 세계 모든 민족에게 열려 있습니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 아브람의 후손을 '티끌'에 비유하셨을까요?",
+        "answer": "티끌은 우리가 발로 밟고 지나가는 땅바닥에 셀 수 없이 많이 있어요. 하나님은 아브람의 자손이 이렇게 많아질 거라고 약속하신 거예요. 그때 아브람은 아직 자녀가 한 명도 없었는데, 하나님은 '너의 자손이 이렇게 많아질 거야'라고 말씀하신 거예요. 그리고 정말로 이 약속대로 이스라엘 백성은 엄청나게 많아졌고, 예수님을 믿는 우리들도 아브람의 자손이 되었답니다!",
+        "bibleReferences": [
+          "창세기 15:5 - '하늘을 우러러 뭇별을 셀 수 있나 보라 또 그에게 이르시되 네 자손이 이와 같으리라'",
+          "창세기 22:17 - '내가 네게 큰 복을 주고 네 씨가 크게 번성하여 하늘의 별과 같고 바닷가의 모래와 같게 하리니'",
+          "로마서 4:18 - '그가 바랄 수 없는 중에 바라고 믿었으니 이는 네 후손이 이같으리라 하신 말씀대로 많은 민족의 조상이 되게 하려 하심이라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하나님의 약속은 인간의 계산이나 이해를 초월합니다. '티끌처럼 많은' 후손의 약속은 단순히 수적 증가가 아니라, 하나님의 구원 계획이 전 세계 모든 민족에게 확장될 것을 예표합니다. 그리스도 안에서 이 약속은 성취되었고, 믿음으로 말미암아 우리 모두가 아브라함의 자손이 되었습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_17",
+    "ipa": "kum hithaˈleχ baˈʔarɛts ləʔorˈka ulroxˈba ki ləˈχa ʔɛtəˈnɛnna",
+    "koreanPronunciation": "쿰 히트할레크 바아레츠 레오르카 울로크바 키 레카 에테넨나",
+    "modern": "일어나 이 땅을 종과 횡으로 두루 다녀 보라, 내가 그것을 네게 주겠다",
+    "words": [
+      {
+        "hebrew": "קוּם הִתְהַלֵּךְ",
+        "meaning": "일어나 두루 다녀라",
+        "ipa": "kum hithaˈleχ",
+        "korean": "쿰 히트할레크",
+        "letters": "קוּם(kum) + הִ(hi) + תְ(t) + הַ(ha) + לֵּךְ(lekh)",
+        "root": "ק-ו-ם (쿰) + ה-ל-ךְ (할라크)",
+        "grammar": "동사",
+        "emoji": "🚶‍♂️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-walk\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#2ecc71\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></linearGradient><radialGradient id=\"hebron-altar1-path\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><path d=\"M 8 32 L 20 28 L 32 32 L 44 28 L 56 32\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /><path d=\"M 32 8 L 32 20 L 32 32 L 32 44 L 32 56\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"24\" rx=\"8\" ry=\"10\" fill=\"url(#hebron-altar1-walk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"27\" y=\"32\" width=\"10\" height=\"14\" rx=\"2\" fill=\"url(#hebron-altar1-walk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 30 46 L 28 54\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 34 46 L 36 54\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"16\" cy=\"30\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"24\" cy=\"28\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"28\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"30\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "קוּם (쿰 - 일어나다)",
+          "הָלַךְ (할라크 - 걷다, 가다)"
+        ]
+      },
+      {
+        "hebrew": "בָּאָרֶץ",
+        "meaning": "땅을",
+        "ipa": "baˈʔarɛts",
+        "korean": "바아레츠",
+        "letters": "בָּ(ba) + אָ(a) + רֶץ(retz)",
+        "root": "אֶרֶץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🗺️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-land\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#CDDC39\" /></linearGradient><linearGradient id=\"hebron-altar1-border\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#795548\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"3\" fill=\"url(#hebron-altar1-land)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"url(#hebron-altar1-border)\" stroke-width=\"2\" /><path d=\"M 16 24 Q 20 28 24 24 Q 28 20 32 24 Q 36 28 40 24 Q 44 20 48 24\" stroke=\"#388E3C\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "אֶרֶץ (에레츠 - 땅, 지역)",
+          "גְּבוּל (게불 - 경계)"
+        ]
+      },
+      {
+        "hebrew": "לְאָרְכָּהּ וּלְרָחְבָּהּ",
+        "meaning": "그 길이와 너비로",
+        "ipa": "ləʔorˈka ulroxˈba",
+        "korean": "레오르카 울로크바",
+        "letters": "לְ(le) + אָ(o) + רְכָּהּ(rkah) + וּ(u) + לְ(le) + רָ(ro) + חְבָּהּ(khbah)",
+        "root": "אֹרֶךְ (오레크) + רֹחַב (로하브)",
+        "grammar": "명사",
+        "emoji": "📏",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-measure\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#e67e22\" /><stop offset=\"100%\" stop-color=\"#d35400\" /></linearGradient><radialGradient id=\"hebron-altar1-arrow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#e67e22\" /></radialGradient></defs><line x1=\"12\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"url(#hebron-altar1-measure)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 32 L 18 28 L 18 36 Z\" fill=\"url(#hebron-altar1-arrow)\" /><path d=\"M 52 32 L 46 28 L 46 36 Z\" fill=\"url(#hebron-altar1-arrow)\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"52\" stroke=\"url(#hebron-altar1-measure)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 28 18 L 36 18 Z\" fill=\"url(#hebron-altar1-arrow)\" /><path d=\"M 32 52 L 28 46 L 36 46 Z\" fill=\"url(#hebron-altar1-arrow)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#e67e22\" filter=\"drop-shadow(0 0 6px rgba(230, 126, 34, 0.8))\" /></svg>",
+        "relatedWords": [
+          "אֹרֶךְ (오레크 - 길이)",
+          "רֹחַב (로하브 - 너비)"
+        ]
+      },
+      {
+        "hebrew": "כִּי לְךָ אֶתְּנֶנָּה",
+        "meaning": "왜냐하면 내가 그것을 네게 주겠기 때문이다",
+        "ipa": "ki ləˈχa ʔɛtəˈnɛnna",
+        "korean": "키 레카 에테넨나",
+        "letters": "כִּי(ki) + לְ(le) + ךָ(kha) + אֶ(e) + תְּ(te) + נֶנָּה(nenna)",
+        "root": "נ-ת-ן (나탄)",
+        "grammar": "동사",
+        "emoji": "🤝",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-give\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"hebron-altar1-hand\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><ellipse cx=\"20\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hebron-altar1-give)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"26\" y=\"26\" width=\"16\" height=\"12\" rx=\"2\" fill=\"url(#hebron-altar1-give)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hebron-altar1-give)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#hebron-altar1-hand)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 24 20 L 28 24\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 36 24 L 40 20\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 24 44 L 28 40\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 36 40 L 40 44\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "נָתַן (나탄 - 주다)",
+          "יָהַב (야하브 - 주다)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "하나님은 아브람에게 단순히 땅을 보라고만 하지 않으시고, 직접 그 땅을 걸어다니라고 명령하십니다. 이는 약속의 땅을 실제로 체험하고 소유하라는 의미입니다. 발로 밟는 모든 곳이 아브람의 것이 될 것이라는 약속의 확증입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "קוּם הִתְהַלֵּךְ (쿰 히트할레크) - 일어나 두루 다녀라",
+          "description": "'쿰(일어나다)'과 '히트할레크(두루 다니다)'는 수동적인 관찰이 아닌 능동적인 참여를 요구합니다. 하나님은 아브람이 약속의 땅을 직접 걸으며 체험하기를 원하십니다. 이는 믿음의 실천적 행동을 의미합니다.",
+          "points": [
+            "믿음은 단순히 듣는 것이 아니라 행동하는 것입니다",
+            "약속의 땅을 직접 체험하라는 명령입니다",
+            "발로 밟는 땅은 소유권의 상징입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "לְאָרְכָּהּ וּלְרָחְבָּהּ (레오르카 울로크바) - 그 길이와 너비로",
+          "description": "동서남북, 즉 모든 방향으로 다니라는 의미입니다. 하나님은 아브람에게 땅의 일부가 아니라 전체를 주시려고 합니다. 이는 하나님의 축복이 제한적이지 않고 완전함을 보여줍니다.",
+          "points": [
+            "하나님의 약속에는 제한이 없습니다",
+            "모든 방향, 전체 영역이 약속의 대상입니다",
+            "하나님의 축복은 부분적이 아니라 완전합니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "כִּי לְךָ אֶתְּנֶנָּה (키 레카 에테넨나) - 내가 그것을 네게 주겠다",
+          "description": "하나님은 다시 한 번 땅을 주시겠다는 약속을 확인하십니다. '에테넨나(주겠다)'는 미래형으로 확실한 약속을 나타냅니다. 이는 아브람이 걷는 모든 땅이 그의 소유가 될 것임을 보증합니다.",
+          "points": [
+            "약속의 재확인은 하나님의 신실하심을 보여줍니다",
+            "걷는 행위 자체가 소유의 예표입니다",
+            "하나님의 약속은 반드시 이루어집니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 아브람에게 땅을 직접 '걸어다니라'고 하셨을까요?",
+        "answer": "하나님은 아브람이 눈으로만 보는 것이 아니라, 발로 직접 밟아보면서 '이 땅이 정말 내 것이 될 거야'라고 느끼기를 원하셨어요. 마치 우리가 새 집에 이사 가면 모든 방을 구석구석 다녀보고 싶은 것처럼, 하나님은 아브람이 약속의 땅을 직접 체험하기를 원하셨답니다. 그리고 발로 밟는 모든 곳이 아브람의 것이 될 거라고 약속하신 거예요!",
+        "bibleReferences": [
+          "신명기 11:24 - '너희의 발바닥으로 밟는 곳은 다 너희의 소유가 되리니'",
+          "여호수아 1:3 - '내가 모세에게 말한 바와 같이 너희 발바닥으로 밟는 곳은 모두 내가 너희에게 주었노니'",
+          "히브리서 11:8-9 - '믿음으로 아브라함은 부르심을 받았을 때에 순종하여 장래의 유업으로 받을 땅에 나아갈새'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "땅을 걷는 행위는 단순한 관광이 아니라 소유권의 상징입니다. 하나님은 아브람에게 믿음으로 약속을 받아들이고 실천하라고 명령하십니다. 이는 우리에게도 적용됩니다 - 하나님의 약속을 단순히 듣는 것이 아니라, 믿음으로 행동하며 체험해야 합니다. 우리가 믿음으로 밟는 모든 영역에서 하나님의 축복을 경험하게 됩니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_18",
+    "ipa": "vajɛˈʔɛhal ʔavˈram vajjaˈvo vajˈjɛʃɛv bəʔeloˈne mamˈre ʔaˈʃɛr bəxɛvˈron vajˈjivɛn ʃam mizbˈeax lajhoˈva",
+    "koreanPronunciation": "바예에할 아브람 바야보 바예셰브 베엘로네 맘레 아쉐르 베헤브론 바이벤 샴 미즈베아흐 라이호바",
+    "modern": "이에 아브람이 장막을 옮겨 헤브론에 있는 마므레의 상수리나무들 곁에 가서 거주하며, 거기서 여호와를 위하여 제단을 쌓았다",
+    "words": [
+      {
+        "hebrew": "וַיֶּאֱהַל אַבְרָם",
+        "meaning": "그리고 아브람이 장막을 쳤다",
+        "ipa": "vajɛˈʔɛhal ʔavˈram",
+        "korean": "바예에할 아브람",
+        "letters": "וַ(va) + יֶּ(ye) + אֱ(e) + הַל(hal) + אַבְרָם(avram)",
+        "root": "א-ה-ל (아할)",
+        "grammar": "동사",
+        "emoji": "⛺",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-tent\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#6B5344\" /></linearGradient><linearGradient id=\"hebron-altar1-stripe\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#C19A6B\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#C19A6B\" /></linearGradient></defs><path d=\"M 32 12 L 52 48 L 12 48 Z\" fill=\"url(#hebron-altar1-tent)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 40 48\" stroke=\"url(#hebron-altar1-stripe)\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 12 L 24 48\" stroke=\"url(#hebron-altar1-stripe)\" stroke-width=\"2\" opacity=\"0.5\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"16\" fill=\"#4a3f2f\" rx=\"1\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"6\" stroke=\"#6B5344\" stroke-width=\"2\" stroke-linecap=\"round\" /><rect y=\"48\" width=\"64\" height=\"4\" fill=\"#C19A6B\" opacity=\"0.4\" /></svg>",
+        "relatedWords": [
+          "אֹהֶל (오헬 - 장막, 천막)",
+          "מִשְׁכָּן (미쉬칸 - 성막)"
+        ]
+      },
+      {
+        "hebrew": "וַיָּבֹא וַיֵּשֶׁב",
+        "meaning": "그리고 와서 거주했다",
+        "ipa": "vajjaˈvo vajˈjɛʃɛv",
+        "korean": "바야보 바예셰브",
+        "letters": "וַ(va) + יָּ(ya) + בֹא(vo) + וַ(va) + יֵּ(ye) + שֶׁב(shev)",
+        "root": "ב-ו-א (보) + י-ש-ב (야샤브)",
+        "grammar": "동사",
+        "emoji": "🏡",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-settle\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9b59b6\" /><stop offset=\"50%\" stop-color=\"#8e44ad\" /><stop offset=\"100%\" stop-color=\"#6c3483\" /></linearGradient><radialGradient id=\"hebron-altar1-home\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9b59b6\" /></radialGradient></defs><path d=\"M 32 8 L 54 28 L 50 28 L 50 52 L 14 52 L 14 28 L 10 28 Z\" fill=\"url(#hebron-altar1-settle)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"16\" fill=\"#6c3483\" /><rect x=\"38\" y=\"20\" width=\"8\" height=\"8\" fill=\"#8e44ad\" rx=\"1\" /><circle cx=\"32\" cy=\"18\" r=\"4\" fill=\"url(#hebron-altar1-home)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(155, 89, 182, 0.8))\" /></svg>",
+        "relatedWords": [
+          "בּוֹא (보 - 오다)",
+          "יָשַׁב (야샤브 - 앉다, 거주하다)"
+        ]
+      },
+      {
+        "hebrew": "בְּאֵלֹנֵי מַמְרֵא",
+        "meaning": "마므레의 상수리나무들에",
+        "ipa": "bəʔeloˈne mamˈre",
+        "korean": "베엘로네 맘레",
+        "letters": "בְּ(be) + אֵ(e) + לֹ(lo) + נֵי(ne) + מַ(ma) + מְ(m) + רֵא(re)",
+        "root": "אֵלוֹן (엘론) + מַמְרֵא (맘레)",
+        "grammar": "명사",
+        "emoji": "🌳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-tree\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#27ae60\" /><stop offset=\"50%\" stop-color=\"#229954\" /><stop offset=\"100%\" stop-color=\"#1e8449\" /></linearGradient><linearGradient id=\"hebron-altar1-trunk\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" fill=\"url(#hebron-altar1-trunk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"20\" rx=\"20\" ry=\"14\" fill=\"url(#hebron-altar1-tree)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"26\" rx=\"12\" ry=\"10\" fill=\"url(#hebron-altar1-tree)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"26\" rx=\"12\" ry=\"10\" fill=\"url(#hebron-altar1-tree)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"14\" rx=\"10\" ry=\"8\" fill=\"#2ecc71\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "אֵלוֹן (엘론 - 상수리나무)",
+          "עֵץ (에츠 - 나무)"
+        ]
+      },
+      {
+        "hebrew": "אֲשֶׁר בְּחֶבְרוֹן",
+        "meaning": "헤브론에 있는",
+        "ipa": "ʔaˈʃɛr bəxɛvˈron",
+        "korean": "아쉐르 베헤브론",
+        "letters": "אֲ(a) + שֶׁר(sher) + בְּ(be) + חֶ(khe) + בְ(v) + רוֹן(ron)",
+        "root": "חֶבְרוֹן (헤브론)",
+        "grammar": "명사",
+        "emoji": "🏛️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-city\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a373\" /><stop offset=\"50%\" stop-color=\"#c9915a\" /><stop offset=\"100%\" stop-color=\"#a67c52\" /></linearGradient><radialGradient id=\"hebron-altar1-light\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#d4a373\" /></radialGradient></defs><rect x=\"8\" y=\"32\" width=\"12\" height=\"24\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"24\" width=\"12\" height=\"32\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"28\" width=\"12\" height=\"28\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"10\" y=\"38\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><rect x=\"46\" y=\"36\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><circle cx=\"32\" cy=\"10\" r=\"6\" fill=\"url(#hebron-altar1-light)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(212, 163, 115, 0.6))\" /></svg>",
+        "relatedWords": [
+          "חֶבְרוֹן (헤브론 - 도시 이름)",
+          "עִיר (이르 - 도시)"
+        ]
+      },
+      {
+        "hebrew": "וַיִּבֶן שָׁם מִזְבֵּחַ",
+        "meaning": "그리고 거기에 제단을 쌓았다",
+        "ipa": "vajˈjivɛn ʃam mizbˈeax",
+        "korean": "바이벤 샴 미즈베아흐",
+        "letters": "וַ(va) + יִּ(yi) + בֶן(ven) + שָׁם(sham) + מִ(mi) + זְ(z) + בֵּ(be) + חַ(akh)",
+        "root": "ב-נ-ה (바나) + מִזְבֵּחַ (미즈베아흐)",
+        "grammar": "동사",
+        "emoji": "⛏️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-altar\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#95a5a6\" /><stop offset=\"50%\" stop-color=\"#7f8c8d\" /><stop offset=\"100%\" stop-color=\"#5d6d7e\" /></linearGradient><linearGradient id=\"hebron-altar1-fire\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"60%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"32\" width=\"32\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"20\" width=\"24\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 18 Q 28 14 30 10 Q 31 6 32 8 Q 33 6 34 10 Q 36 14 32 18\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 8px rgba(255, 165, 0, 0.8))\" /><path d=\"M 28 16 Q 26 12 27 10\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.7\" /><path d=\"M 36 16 Q 38 12 37 10\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "בָּנָה (바나 - 짓다, 세우다)",
+          "מִזְבֵּחַ (미즈베아흐 - 제단)"
+        ]
+      },
+      {
+        "hebrew": "לַיהוָה",
+        "meaning": "여호와를 위하여",
+        "ipa": "lajhoˈva",
+        "korean": "라이호바",
+        "letters": "לַ(la) + יהוָה(yhwh)",
+        "root": "יְהוָה (여호와)",
+        "grammar": "명사",
+        "emoji": "✨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-yhwh\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"hebron-altar1-glory\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hebron-altar1-glory)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#hebron-altar1-glory)\" opacity=\"0.5\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#hebron-altar1-yhwh)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 1))\" /><path d=\"M 32 8 L 34 16 L 42 14 L 36 20 L 42 26 L 34 24 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 32 56 L 30 48 L 22 50 L 28 44 L 22 38 L 30 40 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 8 32 L 16 30 L 14 22 L 20 28 L 26 22 L 24 30 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 56 32 L 48 34 L 50 42 L 44 36 L 38 42 L 40 34 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "יְהוָה (여호와 - 하나님의 이름)",
+          "אֲדֹנָי (아도나이 - 주님)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 하나님의 명령에 순종하여 헤브론의 마므레로 이동합니다. 그리고 도착하자마자 제일 먼저 한 일은 여호와를 위한 제단을 쌓는 것이었습니다. 이는 아브람의 믿음과 예배의 우선순위를 보여주는 행동입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "בְּאֵלֹנֵי מַמְרֵא (베엘로네 맘레) - 마므레의 상수리나무들",
+          "description": "마므레는 헤브론 근처의 지역으로, 큰 상수리나무들이 있는 곳이었습니다. 이곳은 후에 아브람이 삼위일체 하나님의 현현을 경험하는 장소가 되고(창 18장), 사라와 아브라함이 묻히는 막벨라 굴이 있는 곳 근처입니다.",
+          "points": [
+            "마므레는 아브람의 주요 거주지가 됩니다",
+            "상수리나무는 견고함과 장수의 상징입니다",
+            "이곳은 하나님과의 만남의 장소가 됩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "חֶבְרוֹן (헤브론) - 교제의 도시",
+          "description": "헤브론은 '교제, 동맹'이라는 뜻을 가진 고대 도시입니다. 이곳은 예루살렘보다 남쪽에 위치하며, 후에 이스라엘 역사에서 중요한 역할을 하게 됩니다. 다윗이 처음 왕으로 기름부음 받은 곳이기도 합니다.",
+          "points": [
+            "헤브론은 하나님과의 교제를 상징합니다",
+            "아브람은 약속의 땅 중심부에 정착합니다",
+            "이곳은 족장들의 매장지가 됩니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיִּבֶן שָׁם מִזְבֵּחַ (바이벤 샴 미즈베아흐) - 제단을 쌓았다",
+          "description": "아브람은 새로운 곳에 도착할 때마다 제단을 쌓았습니다(창 12:7, 8; 13:4, 18). 제단은 예배와 헌신의 장소이며, 하나님과의 관계를 최우선으로 두는 아브람의 신앙을 보여줍니다.",
+          "points": [
+            "제단은 하나님께 드리는 예배의 장소입니다",
+            "아브람은 어디를 가든 하나님을 최우선으로 합니다",
+            "제단은 하나님의 소유권을 인정하는 표시입니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "לַיהוָה (라이호바) - 여호와를 위하여",
+          "description": "'여호와'는 하나님의 언약의 이름입니다. 아브람은 다른 신이 아닌 자신에게 약속하신 여호와 하나님만을 예배합니다. 이는 유일신 신앙의 확고한 표현입니다.",
+          "points": [
+            "여호와는 언약을 지키시는 신실한 하나님입니다",
+            "아브람의 예배는 개인적이고 배타적입니다",
+            "제단은 하나님과의 언약 관계를 확인합니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 새로운 곳에 도착할 때마다 제단을 쌓았을까요?",
+        "answer": "아브람은 새로운 곳에 가면 제일 먼저 하나님께 예배드리는 제단을 만들었어요. 마치 우리가 새 집에 이사 가면 가장 먼저 하나님께 감사 기도를 드리는 것처럼, 아브람은 '이 땅도 하나님께서 주신 것이고, 하나님이 여기서도 나와 함께 계셔요'라고 고백한 거예요. 제단은 '하나님, 감사합니다. 저는 여기서도 하나님만 섬기겠습니다'라고 말하는 특별한 표시였답니다!",
+        "bibleReferences": [
+          "창세기 12:7 - '아브람이 여호와께 그 땅을 주신 것을 인하여 그곳에서 여호와를 위하여 제단을 쌓았더라'",
+          "창세기 26:25 - '이삭이 거기 제단을 쌓고 여호와의 이름을 부르며 거기 장막을 쳤더니'",
+          "로마서 12:1 - '너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 제단 쌓기는 단순한 종교 의식이 아니라, 삶의 모든 영역에서 하나님을 최우선으로 두는 신앙의 표현입니다. 그는 물질적 안정이나 성공보다 먼저 하나님과의 관계를 정립했습니다. 이는 오늘날 우리에게도 적용됩니다 - 삶의 모든 새로운 단계에서 하나님께 예배하고 헌신하는 것이 우선되어야 합니다. 우리의 일상이 살아있는 제단이 되어야 합니다."
+      }
+    }
+  }
+]

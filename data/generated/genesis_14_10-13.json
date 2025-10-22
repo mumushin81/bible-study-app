@@ -1,0 +1,647 @@
+[
+  {
+    "verseId": "genesis_14_10",
+    "ipa": "vəˈʕɛmɛk haśidˈdim bɛʔɛˈrot bɛʔɛˈrot ħeˈmar vajjaˈnusu ˈmɛlɛx səˈdom vaʕamoˈra vajjipəˈlu ˈʃamma vəhannišʔaˈrim ˈhɛra ˈnasu",
+    "koreanPronunciation": "베에메크 하시딤 베에로트 베에로트 헤마르 바야누수 멜레크 스돔 바아모라 바이프루 샴마 베하니쉬아림 헤라 나수",
+    "modern": "싯딤 골짜기에는 역청 구덩이들이 많았는데, 소돔과 고모라 왕들이 도망하다가 거기에 빠지고, 나머지는 산으로 도망쳤습니다",
+    "words": [
+      {
+        "hebrew": "וְעֵמֶק הַשִׂדִּים",
+        "meaning": "그리고 싯딤 골짜기는",
+        "ipa": "vəˈʕɛmɛk haśidˈdim",
+        "korean": "베에메크 하시딤",
+        "letters": "וְ(ve) + עֵ(e) + מֶק(mek) + הַ(ha) + שִׂ(si) + דִּים(dim)",
+        "root": "עֵמֶק (에메크) + שִׂדִּים (시딤)",
+        "grammar": "명사",
+        "emoji": "🏞️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bitumen-valley1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#6B5344\" /><stop offset=\"100%\" stop-color=\"#4A3728\" /></linearGradient><radialGradient id=\"bitumen-pit1\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#2c2c2c\" /></radialGradient></defs><path d=\"M 4 40 Q 16 32 32 36 Q 48 40 60 32 L 60 56 L 4 56 Z\" fill=\"url(#bitumen-valley1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"20\" cy=\"42\" rx=\"8\" ry=\"6\" fill=\"url(#bitumen-pit1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6))\" /><ellipse cx=\"44\" cy=\"38\" rx=\"7\" ry=\"5\" fill=\"url(#bitumen-pit1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6))\" /><path d=\"M 4 24 L 12 28 L 20 24 L 32 20 L 44 24 L 56 20 L 60 24\" stroke=\"#6B5344\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "עֵמֶק (에메크 - 골짜기)",
+          "בִּקְעָה (비크아 - 평지)"
+        ]
+      },
+      {
+        "hebrew": "בֶּאֱרֹת בֶּאֱרֹת חֵמָר",
+        "meaning": "역청 구덩이들, 구덩이들",
+        "ipa": "bɛʔɛˈrot bɛʔɛˈrot ħeˈmar",
+        "korean": "베에로트 베에로트 헤마르",
+        "letters": "בֶּ(be) + אֱ(e) + רֹת(rot) + חֵ(ḥe) + מָר(mar)",
+        "root": "בְּאֵר (베에르) + חֵמָר (헤마르)",
+        "grammar": "명사",
+        "emoji": "⚫",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bitumen-pits1\"><stop offset=\"0%\" stop-color=\"#1a1a1a\" /><stop offset=\"50%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#2c2c2c\" /></radialGradient><linearGradient id=\"bitumen-sticky1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3a3a3a\" /><stop offset=\"100%\" stop-color=\"#1a1a1a\" /></linearGradient></defs><ellipse cx=\"24\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#bitumen-pits1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.8))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#bitumen-pits1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.8))\" /><ellipse cx=\"24\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#bitumen-sticky1)\" opacity=\"0.5\" /><ellipse cx=\"44\" cy=\"28\" rx=\"10\" ry=\"6\" fill=\"url(#bitumen-sticky1)\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"34\" r=\"2\" fill=\"#4a4a4a\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"36\" r=\"1.5\" fill=\"#4a4a4a\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#4a4a4a\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "בְּאֵר (베에르 - 우물, 구덩이)",
+          "חֵמָר (헤마르 - 역청, 아스팔트)"
+        ]
+      },
+      {
+        "hebrew": "וַיָּנֻסוּ",
+        "meaning": "그리고 그들이 도망했다",
+        "ipa": "vajjaˈnusu",
+        "korean": "바야누수",
+        "letters": "וַ(va) + יָּ(ya) + נֻ(nu) + סוּ(su)",
+        "root": "נ-ו-ס (누스)",
+        "grammar": "동사",
+        "emoji": "🏃",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flee-mountain1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#fc466b\" /><stop offset=\"50%\" stop-color=\"#ff6b9d\" /><stop offset=\"100%\" stop-color=\"#c94b4b\" /></linearGradient><radialGradient id=\"flee-panic1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#ff6b9d\" opacity=\"0\" /></radialGradient></defs><path d=\"M 12 48 L 20 40 L 28 44 L 36 36 L 44 40 L 52 32\" stroke=\"url(#flee-mountain1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"44\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"38\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"34\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"32\" r=\"8\" fill=\"url(#flee-panic1)\" opacity=\"0.4\" /><path d=\"M 48 30 L 52 24 L 56 28\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "נוּס (누스 - 도망가다, 달아나다)",
+          "בָּרַח (바라흐 - 도피하다)"
+        ]
+      },
+      {
+        "hebrew": "מֶלֶךְ סְדֹם וַעֲמֹרָה",
+        "meaning": "소돔과 고모라 왕",
+        "ipa": "ˈmɛlɛx səˈdom vaʕamoˈra",
+        "korean": "멜레크 스돔 바아모라",
+        "letters": "מֶ(me) + לֶךְ(lekh) + סְ(se) + דֹם(dom) + וַ(va) + עֲ(a) + מֹ(mo) + רָה(rah)",
+        "root": "מֶלֶךְ (멜레크) + סְדֹם (스돔) + עֲמֹרָה (아모라)",
+        "grammar": "명사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kings-defeat1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><radialGradient id=\"kings-fall1\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#kings-defeat1)\" stroke=\"#A0522D\" stroke-width=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.7\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#kings-defeat1)\" /><circle cx=\"24\" cy=\"32\" r=\"6\" fill=\"url(#kings-fall1)\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"36\" r=\"6\" fill=\"url(#kings-fall1)\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" opacity=\"0.8\" /><path d=\"M 20 28 L 18 24 M 28 28 L 30 24\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 36 32 L 34 28 M 44 32 L 46 28\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+        "relatedWords": [
+          "מֶלֶךְ (멜레크 - 왕)",
+          "סְדֹם (스돔 - 소돔)"
+        ]
+      },
+      {
+        "hebrew": "וַיִּפְּלוּ שָׁמָּה",
+        "meaning": "그리고 거기에 빠졌다",
+        "ipa": "vajjipəˈlu ˈʃamma",
+        "korean": "바이프루 샴마",
+        "letters": "וַ(va) + יִּ(yi) + פְּ(pe) + לוּ(lu) + שָׁ(sha) + מָּה(mah)",
+        "root": "נ-פ-ל (나팔) + שָׁם (샴)",
+        "grammar": "동사",
+        "emoji": "⬇️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fall-pit1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient><radialGradient id=\"fall-danger1\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"20\" ry=\"12\" fill=\"url(#fall-pit1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.8))\" /><circle cx=\"28\" cy=\"40\" r=\"6\" fill=\"url(#fall-danger1)\" filter=\"drop-shadow(0 0 8px rgba(255, 107, 53, 0.7))\" /><circle cx=\"36\" cy=\"44\" r=\"5\" fill=\"url(#fall-danger1)\" filter=\"drop-shadow(0 0 8px rgba(255, 107, 53, 0.7))\" /><path d=\"M 32 20 L 28 28 L 32 36 L 36 28 Z\" fill=\"#FFD700\" opacity=\"0.6\" /><path d=\"M 32 16 L 32 36\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 32 L 32 36 L 36 32\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "נָפַל (나팔 - 떨어지다, 넘어지다)",
+          "שָׁם (샴 - 거기, 그곳)"
+        ]
+      },
+      {
+        "hebrew": "וְהַנִּשְׁאָרִים הֶרָה נָּסוּ",
+        "meaning": "그리고 나머지는 산으로 도망했다",
+        "ipa": "vəhannišʔaˈrim ˈhɛra ˈnasu",
+        "korean": "베하니쉬아림 헤라 나수",
+        "letters": "וְ(ve) + הַ(ha) + נִּ(ni) + שְׁ(she) + אָ(a) + רִים(rim) + הֶ(he) + רָה(rah) + נָּ(na) + סוּ(su)",
+        "root": "שׁ-א-ר (샤아르) + הַר (하르) + נ-ו-ס (누스)",
+        "grammar": "동사",
+        "emoji": "⛰️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mountain-refuge1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient><linearGradient id=\"mountain-escape1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><path d=\"M 4 56 L 20 24 L 32 36 L 44 16 L 60 56 Z\" fill=\"url(#mountain-refuge1)\" filter=\"drop-shadow(3px 4px 8px rgba(0, 0, 0, 0.5))\" /><path d=\"M 16 48 L 20 40 L 26 44 L 32 36 L 38 40 L 44 32\" stroke=\"url(#mountain-escape1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"40\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"44\" cy=\"32\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"44\" cy=\"16\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" /></svg>",
+        "relatedWords": [
+          "שָׁאַר (샤아르 - 남다, 남겨지다)",
+          "הַר (하르 - 산)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 14장 10절은 싯딤 골짜기 전투의 결정적 순간을 묘사합니다. 소돔과 고모라 왕들이 역청 구덩이에 빠지는 장면은 단순한 전술적 패배가 아니라, 죄악으로 가득한 도시들의 운명을 예표하는 상징적 사건입니다. 역청 구덩이는 훗날 소돔과 고모라를 멸망시킬 유황과 불의 심판을 암시합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "בֶּאֱרֹת בֶּאֱרֹת חֵמָר (베에로트 베에로트 헤마르) - 역청 구덩이들",
+          "description": "'베에로트'는 우물이나 구덩이를 의미하며, 반복된 표현은 구덩이가 매우 많았음을 강조합니다. '헤마르'는 역청(아스팔트, 타르)으로, 사해 지역에 풍부했던 천연 자원입니다. 이 역청 구덩이들은 전투 중 치명적인 함정이 되었습니다.",
+          "points": [
+            "사해 주변 지역은 지질학적으로 역청이 풍부하여 고대부터 채굴되었습니다",
+            "역청은 건축 재료로 사용되었지만(창 11:3), 여기서는 치명적 함정이 되었습니다",
+            "구덩이에 빠진다는 것은 성경에서 죄와 심판의 상징으로 자주 사용됩니다(시 40:2, 잠 28:10)",
+            "역청의 끈적거림과 검은색은 죄의 속박과 어둠을 상징적으로 보여줍니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וַיָּנֻסוּ מֶלֶךְ סְדֹם וַעֲמֹרָה (바야누수 멜레크 스돔 바아모라) - 소돔과 고모라 왕들이 도망했다",
+          "description": "소돔과 고모라 왕들의 도주는 그들의 완전한 패배를 보여줍니다. 14년 동안 그돌라오멜의 지배 아래 있다가 반역했지만, 결국 전투에서 참패하여 목숨을 부지하기 위해 도망쳤습니다. 이는 하나님 없는 인간의 힘이 얼마나 무력한지 보여줍니다.",
+          "points": [
+            "소돔과 고모라는 당시 번영했지만 도덕적으로 타락한 도시들이었습니다(창 13:13)",
+            "그들의 반역은 용기처럼 보였지만, 하나님의 도우심 없이는 실패할 수밖에 없었습니다",
+            "도망가는 왕들의 모습은 교만이 패배로 이어지는 과정을 보여줍니다",
+            "창세기 19장에서 이 도시들은 완전히 멸망하게 됩니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיִּפְּלוּ שָׁמָּה (바이프루 샴마) - 거기에 빠졌다",
+          "description": "'나팔'은 떨어지다, 넘어지다는 의미로, 단순한 물리적 추락뿐 아니라 권세와 명예의 몰락을 의미합니다. 역청 구덩이에 빠진다는 것은 빠져나올 수 없는 치명적 상황을 뜻하며, 죄의 결과로 인한 심판을 상징합니다.",
+          "points": [
+            "역청 구덩이는 끈적거려서 빠지면 거의 빠져나올 수 없는 치명적 함정입니다",
+            "전투 중 지형을 모르고 도망가다가 구덩이에 빠진 것은 그들의 무지와 절망을 보여줍니다",
+            "시편 40:2는 '진흙 구덩이'에서 건져내시는 하나님의 구원을 노래합니다",
+            "소돔과 고모라 왕들의 추락은 죄악의 도시가 맞이할 최종 심판을 예표합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "וְהַנִּשְׁאָרִים הֶרָה נָּסוּ (베하니쉬아림 헤라 나수) - 나머지는 산으로 도망했다",
+          "description": "'니쉬아림'은 '남겨진 자들', '생존자들'을 의미하며, 역청 구덩이에 빠지지 않은 병사들을 가리킵니다. 그들은 산으로 도망쳐 목숨을 구했지만, 이는 완전한 패배를 인정하는 것이었습니다.",
+          "points": [
+            "산은 고대 전쟁에서 피난처와 방어 요새 역할을 했습니다",
+            "평지 전투에서 패배한 후 산으로 도망가는 것은 재집결보다는 생존을 위한 선택입니다",
+            "남은 자들의 개념은 성경 전체에서 중요한 신학적 주제입니다(이사야 10:20-22)",
+            "심판 가운데서도 하나님은 남은 자를 보존하시며, 이는 그분의 자비를 보여줍니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 소돔과 고모라 왕들은 역청 구덩이에 빠졌을까요?",
+        "answer": "싯딤 골짜기에는 검고 끈적끈적한 역청(아스팔트) 구덩이들이 많았어요. 전쟁에서 진 소돔과 고모라 왕들이 도망가다가 앞도 제대로 못 보고 그 구덩이에 빠져버렸답니다. 역청 구덩이는 마치 끈적끈적한 진흙탕처럼 한번 빠지면 빠져나오기 정말 어려워요. 이것은 나쁜 일을 하면 결국 곤경에 빠지게 된다는 것을 보여주는 거예요. 소돔과 고모라는 나쁜 일을 많이 하는 도시였고, 결국 이렇게 큰 어려움을 겪게 된 거랍니다.",
+        "bibleReferences": [
+          "시편 40:2 - '나를 기가 막힐 웅덩이와 수렁에서 끌어내시고 내 발을 반석 위에 두사 내 걸음을 견고하게 하셨도다'",
+          "잠언 28:10 - '정직한 자를 악한 길로 유혹하는 자는 스스로 자기 함정에 빠져도 성실한 자는 복을 얻느니라'",
+          "창세기 19:24-25 - '여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사 그 성들과 온 들과 성에 거주하는 모든 백성을 멸하셨더라'",
+          "전도서 10:8 - '함정을 파는 자는 거기에 빠질 것이요 담을 허는 자는 뱀에게 물리리라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "역청 구덩이 사건은 죄의 결과와 하나님의 심판을 예표합니다. 소돔과 고모라는 번영했지만 도덕적으로 타락했고, 이 전투에서의 패배는 창세기 19장의 완전한 멸망을 예고합니다. 역청 구덩이는 죄의 끈적거리는 속박을 상징하며, 한번 빠지면 스스로는 빠져나올 수 없습니다. 그러나 하나님은 시편 40편처럼 '진흙 구덩이'에서 우리를 건져내실 수 있는 유일한 분이십니다. 이 사건은 또한 인간의 힘과 교만이 얼마나 무력한지, 그리고 하나님의 구원이 얼마나 절실한지를 보여줍니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_11",
+    "ipa": "vajjikˈħu ʔɛt kol rəˈxuʃ səˈdom vaʕamoˈra vəʔɛt kol ʔoxəˈlam vajjeˈlɛxu",
+    "koreanPronunciation": "바이크후 에트 콜 레쿠쉬 스돔 바아모라 베에트 콜 오클람 바예레쿠",
+    "modern": "그들이 소돔과 고모라의 모든 재산과 양식을 빼앗아 가버렸습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּקְחוּ",
+        "meaning": "그리고 그들이 취했다",
+        "ipa": "vajjikˈħu",
+        "korean": "바이크후",
+        "letters": "וַ(va) + יִּ(yi) + קְ(ke) + חוּ(ḥu)",
+        "root": "ל-ק-ח (라카흐)",
+        "grammar": "동사",
+        "emoji": "👐",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plunder-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#8b1a1a\" /></linearGradient><radialGradient id=\"plunder-grab1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></radialGradient></defs><path d=\"M 16 40 L 20 32 L 16 28 L 12 32 Z\" fill=\"url(#plunder-take1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 48 40 L 44 32 L 48 28 L 52 32 Z\" fill=\"url(#plunder-take1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"22\" y=\"26\" width=\"20\" height=\"16\" rx=\"2\" fill=\"url(#plunder-grab1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.5))\" /><circle cx=\"28\" cy=\"32\" r=\"3\" fill=\"#c0392b\" /><circle cx=\"36\" cy=\"36\" r=\"3\" fill=\"#c0392b\" /><path d=\"M 24 48 L 32 20 L 40 48\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "לָקַח (라카흐 - 취하다, 가져가다)",
+          "בָּזַז (바자즈 - 약탈하다)"
+        ]
+      },
+      {
+        "hebrew": "אֶת כָּל רְכֻשׁ",
+        "meaning": "모든 재산을",
+        "ipa": "ʔɛt kol rəˈxuʃ",
+        "korean": "에트 콜 레쿠쉬",
+        "letters": "אֶת(et) + כָּ(ko) + ל(l) + רְ(re) + כֻשׁ(khush)",
+        "root": "כֹּל (콜) + רְכוּשׁ (레쿠쉬)",
+        "grammar": "명사",
+        "emoji": "💰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wealth-goods1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f39c12\" /><stop offset=\"50%\" stop-color=\"#e67e22\" /><stop offset=\"100%\" stop-color=\"#d35400\" /></linearGradient><radialGradient id=\"wealth-shine1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#f39c12\" /></radialGradient></defs><rect x=\"14\" y=\"24\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#wealth-goods1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><rect x=\"34\" y=\"24\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#wealth-goods1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"22\" cy=\"32\" r=\"4\" fill=\"url(#wealth-shine1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><circle cx=\"42\" cy=\"36\" r=\"4\" fill=\"url(#wealth-shine1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"12\" rx=\"1\" fill=\"#d35400\" opacity=\"0.7\" /><path d=\"M 28 16 L 32 12 L 36 16\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+          "הוֹן (혼 - 부, 재산)"
+        ]
+      },
+      {
+        "hebrew": "סְדֹם וַעֲמֹרָה",
+        "meaning": "소돔과 고모라",
+        "ipa": "səˈdom vaʕamoˈra",
+        "korean": "스돔 바아모라",
+        "letters": "סְ(se) + דֹם(dom) + וַ(va) + עֲ(a) + מֹ(mo) + רָה(rah)",
+        "root": "סְדֹם (스돔) + עֲמֹרָה (아모라)",
+        "grammar": "명사",
+        "emoji": "🏙️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cities-doom1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b4513\" /><stop offset=\"50%\" stop-color=\"#cd853f\" /><stop offset=\"100%\" stop-color=\"#deb887\" /></linearGradient><radialGradient id=\"cities-judgment1\"><stop offset=\"0%\" stop-color=\"#ff6b6b\" /><stop offset=\"100%\" stop-color=\"#8b0000\" opacity=\"0.3\" /></radialGradient></defs><rect x=\"12\" y=\"32\" width=\"12\" height=\"20\" fill=\"url(#cities-doom1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><rect x=\"28\" y=\"28\" width=\"12\" height=\"24\" fill=\"url(#cities-doom1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><rect x=\"44\" y=\"34\" width=\"12\" height=\"18\" fill=\"url(#cities-doom1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><rect x=\"16\" y=\"38\" width=\"4\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><rect x=\"32\" y=\"36\" width=\"4\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><rect x=\"48\" y=\"40\" width=\"4\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#cities-judgment1)\" opacity=\"0.4\" /></svg>",
+        "relatedWords": [
+          "עִיר (이르 - 도시)",
+          "בָּבֶל (바벨 - 바벨론)"
+        ]
+      },
+      {
+        "hebrew": "וְאֶת כָּל אָכְלָם",
+        "meaning": "그리고 모든 양식을",
+        "ipa": "vəʔɛt kol ʔoxəˈlam",
+        "korean": "베에트 콜 오클람",
+        "letters": "וְ(ve) + אֶת(et) + כָּ(ko) + ל(l) + אָ(o) + כְ(khe) + לָם(lam)",
+        "root": "כֹּל (콜) + אֹכֶל (오켈)",
+        "grammar": "명사",
+        "emoji": "🍞",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"food-provisions1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f4e4c1\" /><stop offset=\"50%\" stop-color=\"#e8d5a7\" /><stop offset=\"100%\" stop-color=\"#d4a574\" /></linearGradient><linearGradient id=\"food-basket1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"100%\" stop-color=\"#a0826d\" /></linearGradient></defs><path d=\"M 16 44 L 12 28 L 52 28 L 48 44 Z\" fill=\"url(#food-basket1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"24\" cy=\"32\" rx=\"6\" ry=\"4\" fill=\"url(#food-provisions1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"34\" rx=\"5\" ry=\"4\" fill=\"url(#food-provisions1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"40\" cy=\"32\" rx=\"6\" ry=\"4\" fill=\"url(#food-provisions1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"36\" r=\"3\" fill=\"#e67e22\" opacity=\"0.7\" /><circle cx=\"36\" cy=\"37\" r=\"2.5\" fill=\"#e67e22\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "אֹכֶל (오켈 - 음식, 양식)",
+          "לֶחֶם (레헴 - 빵)"
+        ]
+      },
+      {
+        "hebrew": "וַיֵּלֵכוּ",
+        "meaning": "그리고 떠나갔다",
+        "ipa": "vajjeˈlɛxu",
+        "korean": "바예레쿠",
+        "letters": "וַ(va) + יֵּ(ye) + לֵ(le) + כוּ(khu)",
+        "root": "ה-ל-ךְ (할라크)",
+        "grammar": "동사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"depart-march1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><radialGradient id=\"depart-victory1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#667eea\" opacity=\"0\" /></radialGradient></defs><path d=\"M 8 32 Q 20 28 32 32 Q 44 36 56 32\" stroke=\"url(#depart-march1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"30\" r=\"5\" fill=\"url(#depart-march1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"url(#depart-march1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"34\" r=\"5\" fill=\"url(#depart-march1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"34\" r=\"10\" fill=\"url(#depart-victory1)\" opacity=\"0.4\" /><path d=\"M 44 30 L 48 24 L 52 30\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "הָלַךְ (할라크 - 가다, 걷다)",
+          "נָסַע (나사 - 출발하다)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 14장 11절은 전쟁의 직접적 결과를 보여줍니다. 승리한 왕들이 소돔과 고모라의 모든 재산과 양식을 약탈해 갔다는 것은 완전한 패배와 황폐화를 의미합니다. 고대 전쟁에서 약탈은 단순한 전리품 획득이 아니라 패배한 도시의 생존 기반을 파괴하는 행위였습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּקְחוּ אֶת כָּל רְכֻשׁ (바이크후 에트 콜 레쿠쉬) - 모든 재산을 취했다",
+          "description": "'라카흐'는 취하다, 가져가다는 의미로, 여기서는 전쟁 약탈을 뜻합니다. '콜 레쿠쉬(모든 재산)'는 금, 은, 가축, 의복 등 모든 가치 있는 것들을 포함하며, 완전한 경제적 파탄을 의미합니다.",
+          "points": [
+            "고대 전쟁에서 약탈은 승리의 정당한 보상으로 여겨졌습니다",
+            "재산의 상실은 단순한 물질적 손실을 넘어 사회적 지위와 안전의 상실을 의미했습니다",
+            "소돔과 고모라는 번영한 도시였지만(창 13:10), 순식간에 모든 것을 잃었습니다",
+            "이 약탈은 창세기 19장의 완전한 멸망의 예고편이었습니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וְאֶת כָּל אָכְלָם (베에트 콜 오클람) - 모든 양식을",
+          "description": "'오켈'은 음식, 양식을 의미하며, 생존에 필수적인 자원입니다. 양식의 약탈은 재산보다 더 치명적이었는데, 이는 도시 주민들이 기근에 직면하게 됨을 의미했기 때문입니다.",
+          "points": [
+            "고대 사회에서 양식은 생명 그 자체였고, 양식 부족은 곧 죽음을 의미했습니다",
+            "재산은 다시 모을 수 있지만, 양식이 없으면 즉각적인 생존 위기에 처합니다",
+            "곡식, 기름, 포도주 등 저장된 모든 식량이 약탈되었을 것입니다",
+            "이는 신명기 28장의 불순종에 대한 저주, 즉 원수가 와서 모든 것을 빼앗아가는 것을 예표합니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "סְדֹם וַעֲמֹרָה (스돔 바아모라) - 소돔과 고모라",
+          "description": "소돔과 고모라는 창세기 전체에서 죄악의 상징으로 등장하는 도시들입니다. 이 두 도시의 이름이 함께 언급되는 것은 그들의 운명이 밀접하게 연결되어 있음을 보여줍니다. 번영했지만 도덕적으로 타락한 이 도시들은 결국 심판을 받게 됩니다.",
+          "points": [
+            "소돔과 고모라는 요단 지역의 가장 비옥한 땅에 위치했습니다(창 13:10)",
+            "그러나 물질적 풍요는 영적 타락과 공존했습니다(창 13:13, 18:20)",
+            "이 약탈 사건은 하나님의 보호 없는 번영이 얼마나 취약한지 보여줍니다",
+            "두 도시는 성경 전체에서 심판과 멸망의 상징으로 사용됩니다(마 10:15, 벧후 2:6)"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "וַיֵּלֵכוּ (바예레쿠) - 그리고 떠나갔다",
+          "description": "'할라크'는 가다, 떠나다는 의미로, 승리한 왕들이 전리품을 가지고 자신들의 땅으로 돌아가는 것을 묘사합니다. 간결한 표현이지만, 소돔과 고모라에 남겨진 황폐함과 절망을 암시합니다.",
+          "points": [
+            "승리한 왕들은 전리품을 가지고 의기양양하게 돌아갔을 것입니다",
+            "소돔과 고모라는 재산도, 양식도, 많은 주민도 잃고 황폐해졌습니다",
+            "이 출발은 롯의 포로됨을 의미하며, 아브라함의 구출 작전의 배경이 됩니다",
+            "하나님 없는 번영은 순식간에 사라질 수 있음을 보여줍니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 전쟁에서 이긴 사람들은 모든 재산과 음식을 가져갔을까요?",
+        "answer": "옛날 전쟁에서는 이긴 편이 진 편의 물건들을 전부 가져가는 게 당연했어요. 마치 게임에서 이기면 상품을 받는 것처럼요. 하지만 이것은 게임이 아니라 실제 삶이었기 때문에 정말 심각한 일이었어요. 소돔과 고모라 사람들은 금, 은, 옷, 가축 같은 재산뿐만 아니라 먹을 것까지 모두 빼앗겼어요. 먹을 것이 없으면 살 수가 없잖아요. 이것은 소돔과 고모라가 완전히 망했다는 것을 보여줘요. 하나님을 믿지 않고 나쁜 일만 하던 도시가 이렇게 비참한 결과를 맞이한 거랍니다.",
+        "bibleReferences": [
+          "신명기 28:31 - '네 소는 네 목전에서 잡혀도 네가 먹지 못할 것이며 네 나귀는 네 목전에서 빼앗겨도 다시 돌아오지 아니할 것이며'",
+          "신명기 28:33 - '네 토지 소산과 네 수고로 얻은 것을 네가 알지 못하는 민족이 먹겠고 너는 항상 압제와 학대를 받을 뿐이리니'",
+          "이사야 1:7 - '너희의 땅은 황폐하였고 너희의 성읍들은 불에 탔고 너희의 토지는 너희 목전에서 이방인에게 삼켜졌으며'",
+          "잠언 13:22 - '선인은 그 산업을 자손에게 끼쳐도 죄인의 재물은 의인을 위하여 쌓이느니라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "소돔과 고모라의 완전한 약탈은 하나님의 보호 없는 번영이 얼마나 허무한지 보여줍니다. 요단 지역에서 가장 비옥하고 번영한 도시들이 순식간에 모든 것을 잃었습니다. 이는 물질적 풍요가 진정한 안전과 축복을 보장하지 못한다는 교훈을 줍니다. 반면, 가난했지만 하나님과 동행한 아브라함은 후에 롯을 구출하고 모든 재산을 되찾아 줄 수 있었습니다. 진정한 보호와 번영은 하나님과의 관계에서 옵니다. 우리도 물질적 성공에 집착하기보다 먼저 하나님의 나라와 그의 의를 구해야 합니다(마 6:33)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_12",
+    "ipa": "vajjikˈħu ʔɛt lot vəʔɛt rəxuˈʃo bɛn ʔaˈħi ʔavˈram vajjeˈlɛxu vəˈhu joˈʃɛv bisəˈdom",
+    "koreanPronunciation": "바이크후 에트 로트 베에트 레쿠쇼 벤 아히 아브람 바예레쿠 베후 요쉐브 비스돔",
+    "modern": "그들이 아브람의 조카 롯과 그의 재산도 사로잡아 갔는데, 롯은 소돔에 살고 있었습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּקְחוּ אֶת לוֹט",
+        "meaning": "그리고 롯을 사로잡았다",
+        "ipa": "vajjikˈħu ʔɛt lot",
+        "korean": "바이크후 에트 로트",
+        "letters": "וַ(va) + יִּ(yi) + קְ(ke) + חוּ(ḥu) + אֶת(et) + לוֹט(lot)",
+        "root": "ל-ק-ח (라카흐) + לוֹט (로트)",
+        "grammar": "동사",
+        "emoji": "⛓️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-capture1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7f8c8d\" /><stop offset=\"50%\" stop-color=\"#95a5a6\" /><stop offset=\"100%\" stop-color=\"#bdc3c7\" /></linearGradient><radialGradient id=\"lot-captive1\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"100%\" stop-color=\"#c0392b\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#lot-captive1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#d4a574\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 40 Q 18 44 20 48\" stroke=\"url(#lot-capture1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 44 40 Q 46 44 44 48\" stroke=\"url(#lot-capture1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"38\" width=\"6\" height=\"3\" rx=\"1\" fill=\"url(#lot-capture1)\" /><rect x=\"40\" y=\"38\" width=\"6\" height=\"3\" rx=\"1\" fill=\"url(#lot-capture1)\" /><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#8b4513\" stroke-width=\"2\" fill=\"none\" /></svg>",
+        "relatedWords": [
+          "שָׁבָה (샤바 - 사로잡다, 포로로 삼다)",
+          "לוֹט (로트 - 롯, 아브람의 조카)"
+        ]
+      },
+      {
+        "hebrew": "וְאֶת רְכֻשׁוֹ",
+        "meaning": "그리고 그의 재산을",
+        "ipa": "vəʔɛt rəxuˈʃo",
+        "korean": "베에트 레쿠쇼",
+        "letters": "וְ(ve) + אֶת(et) + רְ(re) + כֻ(khu) + שׁוֹ(sho)",
+        "root": "רְכוּשׁ (레쿠쉬)",
+        "grammar": "명사",
+        "emoji": "📦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-goods1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"50%\" stop-color=\"#a0826d\" /><stop offset=\"100%\" stop-color=\"#d4a574\" /></linearGradient><linearGradient id=\"lot-treasure1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#f39c12\" /><stop offset=\"100%\" stop-color=\"#e67e22\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#lot-goods1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"34\" y=\"28\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#lot-goods1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"8\" rx=\"1\" fill=\"url(#lot-treasure1)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#FFD700\" /><path d=\"M 20 24 L 24 20 L 28 24\" stroke=\"#c0392b\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 24 L 40 20 L 44 24\" stroke=\"#c0392b\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+          "נְכָסִים (네카심 - 재산들)"
+        ]
+      },
+      {
+        "hebrew": "בֶּן אֲחִי אַבְרָם",
+        "meaning": "아브람의 형제의 아들",
+        "ipa": "bɛn ʔaˈħi ʔavˈram",
+        "korean": "벤 아히 아브람",
+        "letters": "בֶּן(ben) + אֲ(a) + חִי(ḥi) + אַ(av) + בְ(be) + רָם(ram)",
+        "root": "בֵּן (벤) + אָח (아흐) + אַבְרָם (아브람)",
+        "grammar": "명사",
+        "emoji": "👨‍👦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-nephew1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><linearGradient id=\"lot-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#lot-abram1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#lot-nephew1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"26\" r=\"3\" fill=\"#2c3e50\" /><circle cx=\"44\" cy=\"30\" r=\"2.5\" fill=\"#2c3e50\" /><path d=\"M 20 32 Q 24 35 28 32\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 40 36 Q 44 38 48 36\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 30 30 Q 36 28 40 30\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.5))\" /></svg>",
+        "relatedWords": [
+          "בֵּן (벤 - 아들)",
+          "אָח (아흐 - 형제)"
+        ]
+      },
+      {
+        "hebrew": "וַיֵּלֵכוּ",
+        "meaning": "그리고 그들이 갔다",
+        "ipa": "vajjeˈlɛxu",
+        "korean": "바예레쿠",
+        "letters": "וַ(va) + יֵּ(ye) + לֵ(le) + כוּ(khu)",
+        "root": "ה-ל-ךְ (할라크)",
+        "grammar": "동사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-depart1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b0000\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></linearGradient><radialGradient id=\"lot-captivity1\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#8b0000\" opacity=\"0.3\" /></radialGradient></defs><path d=\"M 8 36 Q 20 32 32 36 Q 44 40 56 36\" stroke=\"url(#lot-depart1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"16\" cy=\"34\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"36\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"38\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#lot-captivity1)\" opacity=\"0.3\" /><path d=\"M 44 34 L 48 28 L 52 34\" stroke=\"#e74c3c\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "הָלַךְ (할라크 - 가다, 걷다)",
+          "יָצָא (야차 - 나가다)"
+        ]
+      },
+      {
+        "hebrew": "וְהוּא יֹשֵׁב בִּסְדֹם",
+        "meaning": "그리고 그는 소돔에 거주하고 있었다",
+        "ipa": "vəˈhu joˈʃɛv bisəˈdom",
+        "korean": "베후 요쉐브 비스돔",
+        "letters": "וְ(ve) + הוּא(hu) + יֹ(yo) + שֵׁב(shev) + בִּ(bi) + סְ(se) + דֹם(dom)",
+        "root": "י-ש-ב (야샤브) + סְדֹם (스돔)",
+        "grammar": "동사",
+        "emoji": "🏘️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-sodom1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b4513\" /><stop offset=\"50%\" stop-color=\"#cd853f\" /><stop offset=\"100%\" stop-color=\"#deb887\" /></linearGradient><radialGradient id=\"lot-sin1\"><stop offset=\"0%\" stop-color=\"#ff6b6b\" /><stop offset=\"100%\" stop-color=\"#8b0000\" opacity=\"0.4\" /></radialGradient></defs><rect x=\"20\" y=\"32\" width=\"24\" height=\"20\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><path d=\"M 16 32 L 32 20 L 48 32\" fill=\"#c0392b\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#8b4513\" /><rect x=\"22\" y=\"38\" width=\"6\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><rect x=\"36\" y=\"38\" width=\"6\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#lot-sin1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#dc143c\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" /></svg>",
+        "relatedWords": [
+          "יָשַׁב (야샤브 - 거주하다, 앉다)",
+          "סְדֹם (스돔 - 소돔)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 14장 12절은 롯의 포로됨을 기록합니다. 롯이 소돔에 살았기 때문에 전쟁의 피해자가 되었다는 사실은 우리의 선택이 가져오는 결과를 보여줍니다. 창세기 13장에서 롯은 육신의 눈으로 보기 좋은 소돔 평지를 선택했지만, 그 결정은 결국 포로와 위험으로 이어졌습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּקְחוּ אֶת לוֹט (바이크후 에트 로트) - 롯을 사로잡았다",
+          "description": "롯의 포로됨은 단순한 전쟁 포로가 아니라 그의 선택의 결과였습니다. 소돔에 거주하기로 한 결정이 그를 위험에 빠뜨렸고, 결국 노예가 되어 끌려가는 신세가 되었습니다. 이는 세상과의 타협이 가져오는 위험을 보여줍니다.",
+          "points": [
+            "롯은 부유했지만(창 13:5), 재산이 그를 보호하지 못했습니다",
+            "육신의 눈으로 보기 좋은 곳을 선택했지만(창 13:10), 그것이 영적으로 안전한 곳은 아니었습니다",
+            "하나님과 함께한 아브람은 가난해도 안전했지만, 세상과 타협한 롯은 부유해도 위험했습니다",
+            "포로됨은 죄의 결과로서의 속박을 상징합니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וְאֶת רְכֻשׁוֹ (베에트 레쿠쇼) - 그리고 그의 재산을",
+          "description": "롯의 재산도 함께 약탈되었다는 것은 그가 소돔에서 모은 모든 물질적 성공이 순식간에 사라졌음을 의미합니다. 창세기 13장에서 롯은 풍부한 초원을 선택했고, 그곳에서 번영했을 것입니다. 그러나 그 모든 것이 하루아침에 사라졌습니다.",
+          "points": [
+            "롯은 물질적 번영을 위해 소돔을 선택했지만, 결국 모든 것을 잃었습니다",
+            "재산은 진정한 안전과 행복을 보장하지 못합니다",
+            "하나님 없는 번영은 언제든지 사라질 수 있는 허무한 것입니다",
+            "예수님은 '세상에서 자기를 위하여 재물을 쌓지 말라'고 경고하셨습니다(마 6:19-20)"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "בֶּן אֲחִי אַבְרָם (벤 아히 아브람) - 아브람의 형제의 아들",
+          "description": "본문이 롯을 '아브람의 조카'로 명시한 것은 중요한 의미가 있습니다. 이는 롯과 아브람의 관계를 상기시키며, 아브람이 롯을 구출할 책임과 동기를 강조합니다. 또한 하나님의 언약을 받은 아브람의 가족이라는 정체성을 보여줍니다.",
+          "points": [
+            "가족 관계는 고대 사회에서 매우 중요했으며, 서로를 보호할 의무가 있었습니다",
+            "롯은 아브람과 함께 갈대아 우르에서 출발했고(창 11:31), 가나안까지 동행했습니다(창 12:4)",
+            "롯이 소돔으로 떠난 후에도 아브람은 그를 가족으로 여기고 돌보았습니다",
+            "이는 그리스도께서 잃어버린 양을 찾으시는 사랑을 예표합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "וְהוּא יֹשֵׁב בִּסְדֹם (베후 요쉐브 비스돔) - 그는 소돔에 거주하고 있었다",
+          "description": "'야샤브'는 단순히 머무는 것이 아니라 정착하여 거주한다는 의미입니다. 창세기 13:12에서는 롯이 '소돔 근처에 장막을 쳤다'고 했지만, 여기서는 '소돔에 거주했다'고 말합니다. 이는 롯이 점점 더 세상 속으로 깊이 들어갔음을 보여줍니다.",
+          "points": [
+            "롯은 처음에는 소돔 근처에 있었지만, 결국 성 안에 들어가 살게 되었습니다",
+            "창세기 19:1에서 롯은 소돔 성문에 앉아 있는데, 이는 그가 도시의 지도자가 되었음을 암시합니다",
+            "세상과의 타협은 점진적이며, 처음에는 '가까이'만 가다가 결국 '안에' 거하게 됩니다",
+            "야고보서 4:4는 '세상과 벗된 것이 하나님과 원수됨인 줄 알지 못하느냐'고 경고합니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 롯은 아브람의 조카인데도 포로로 잡혀갔을까요?",
+        "answer": "롯은 아브람의 조카지만, 아브람과 다른 선택을 했어요. 아브람은 하나님을 따라 가나안 땅에서 천막을 치고 살았지만, 롯은 돈을 많이 벌 수 있는 소돔이라는 도시로 이사 갔어요. 소돔은 땅이 좋고 부자가 될 수 있었지만, 나쁜 사람들이 많이 사는 곳이었답니다. 전쟁이 일어났을 때 소돔 사람들이 전쟁에서 졌기 때문에, 소돔에 살던 롯도 함께 포로로 잡혀가게 된 거예요. 이것은 우리가 어디에 사는지, 누구와 함께 있는지가 정말 중요하다는 것을 보여줘요. 좋은 선택을 하면 안전하지만, 나쁜 선택을 하면 위험해질 수 있거든요.",
+        "bibleReferences": [
+          "창세기 13:10-11 - '이에 롯이 눈을 들어 요단 들을 바라본즉... 롯이 요단 온 들을 택하고'",
+          "창세기 13:12-13 - '롯은 그 지방 성읍들에 머물러 장막을 옮겨 소돔까지 이르렀더라 소돔 사람은 악하여 여호와 앞에 큰 죄인이었더라'",
+          "베드로후서 2:7-8 - '무법한 자의 음란한 행실로 말미암아 고통당하는 의로운 롯을 건지셨으니 (이 의인이 그들 중에 거하여 날마다 저 불법한 행실을 보고 들음으로 그 의로운 심령이 상하였더라)'",
+          "야고보서 4:4 - '간음한 여인들아 세상과 벗된 것이 하나님과 원수됨인 줄 알지 못하느냐'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "롯의 포로됨은 세상과의 타협이 가져오는 위험을 경고합니다. 롯은 육신의 눈으로 보기 좋은 소돔을 선택했고, 물질적으로는 번영했지만 영적으로는 타락한 환경에 노출되었습니다. 결국 그 선택은 포로와 재산 상실로 이어졌습니다. 반면 아브람은 가난했지만 하나님과 동행했고, 결국 롯을 구출할 수 있는 위치에 있었습니다. 우리도 세상의 가치관과 하나님의 뜻 사이에서 선택해야 할 때가 있습니다. 눈에 보이는 것이 좋다고 해서 그것이 하나님의 뜻은 아닙니다. 진정한 안전과 축복은 하나님과의 관계 안에 있습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_13",
+    "ipa": "vajjaˈvo happaˈlit vajjaˈgɛd ləʔavˈram haʕivˈri vəˈhu ʃoˈxɛn bəʔeˈlonɛ mamˈrɛ haʔɛmoˈri ʔaˈħi ʔɛʃˈkol vaʔaˈħi ʕaˈnɛr vəˈhɛm baʕaˈlɛ vəˈrit ʔavˈram",
+    "koreanPronunciation": "바야보 하팔리트 바야게드 레아브람 하이브리 베후 쇼켄 베엘로네 맘레 하에모리 아히 에쉬콜 바아히 아네르 베헴 바알레 베리트 아브람",
+    "modern": "도망친 자가 와서 히브리 사람 아브람에게 알렸는데, 아브람은 아모리 사람 마므레의 상수리나무 숲에 거주하고 있었고, 마므레는 에스골과 아넬의 형제로서 이들은 아브람과 동맹을 맺은 자들이었습니다",
+    "words": [
+      {
+        "hebrew": "וַיָּבֹא הַפָּלִיט",
+        "meaning": "그리고 도망친 자가 왔다",
+        "ipa": "vajjaˈvo happaˈlit",
+        "korean": "바야보 하팔리트",
+        "letters": "וַ(va) + יָּ(ya) + בֹא(vo) + הַ(ha) + פָּ(pa) + לִיט(lit)",
+        "root": "ב-ו-א (보) + פ-ל-ט (팔라트)",
+        "grammar": "동사",
+        "emoji": "🏃‍♂️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fugitive-tell1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"50%\" stop-color=\"#f5576c\" /><stop offset=\"100%\" stop-color=\"#ffecd2\" /></linearGradient><radialGradient id=\"fugitive-urgent1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#f093fb\" opacity=\"0\" /></radialGradient></defs><path d=\"M 8 48 Q 16 42 24 46 Q 32 50 40 44 Q 48 38 56 42\" stroke=\"url(#fugitive-tell1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"44\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"36\" cy=\"46\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"40\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"40\" r=\"12\" fill=\"url(#fugitive-urgent1)\" opacity=\"0.5\" /><path d=\"M 48 36 L 52 28 L 56 36\" stroke=\"#f5576c\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"52\" cy=\"24\" rx=\"8\" ry=\"4\" fill=\"#ffecd2\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "פָּלִיט (팔리트 - 도망자, 생존자)",
+          "בּוֹא (보 - 오다)"
+        ]
+      },
+      {
+        "hebrew": "וַיַּגֵּד לְאַבְרָם",
+        "meaning": "그리고 아브람에게 알렸다",
+        "ipa": "vajjaˈgɛd ləʔavˈram",
+        "korean": "바야게드 레아브람",
+        "letters": "וַ(va) + יַּ(ya) + גֵּד(ged) + לְ(le) + אַ(av) + בְ(be) + רָם(ram)",
+        "root": "נ-ג-ד (나가드) + אַבְרָם (아브람)",
+        "grammar": "동사",
+        "emoji": "📢",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tell-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><radialGradient id=\"tell-message1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#4facfe\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"16\" fill=\"url(#tell-abram1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><path d=\"M 20 46 L 24 38 L 30 46\" fill=\"url(#tell-abram1)\" /><circle cx=\"24\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" /><path d=\"M 22 36 Q 32 40 42 36\" stroke=\"#FFFFFF\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#tell-message1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" opacity=\"0.7\" /><path d=\"M 28 14 L 32 10 L 36 14\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "נָגַד (나가드 - 알리다, 보고하다)",
+          "אַבְרָם (아브람 - 아브람)"
+        ]
+      },
+      {
+        "hebrew": "הָעִבְרִי",
+        "meaning": "히브리 사람",
+        "ipa": "haʕivˈri",
+        "korean": "하이브리",
+        "letters": "הָ(ha) + עִ(i) + בְ(ve) + רִי(ri)",
+        "root": "עִבְרִי (이브리)",
+        "grammar": "형용사",
+        "emoji": "🕎",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebrew-identity1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><radialGradient id=\"hebrew-covenant1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hebrew-identity1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.3\" /><path d=\"M 32 16 L 36 24 L 44 26 L 38 32 L 40 40 L 32 36 L 24 40 L 26 32 L 20 26 L 28 24 Z\" fill=\"url(#hebrew-covenant1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#667eea\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.5))\" /><text x=\"32\" y=\"36\" font-family=\"Arial\" font-size=\"8\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-weight=\"bold\">ע</text></svg>",
+        "relatedWords": [
+          "עֵבֶר (에베르 - 에벨, 히브리인의 조상)",
+          "עָבַר (아바르 - 건너다, 지나가다)"
+        ]
+      },
+      {
+        "hebrew": "שֹׁכֵן בְּאֵלֹנֵי מַמְרֵא",
+        "meaning": "마므레의 상수리나무 숲에 거주하는",
+        "ipa": "ʃoˈxɛn bəʔeˈlonɛ mamˈrɛ",
+        "korean": "쇼켄 베엘로네 맘레",
+        "letters": "שֹׁ(sho) + כֵן(khen) + בְּ(be) + אֵ(e) + לֹ(lo) + נֵי(nei) + מַ(ma) + מְ(me) + רֵא(re)",
+        "root": "שׁ-כ-נ (샤칸) + אֵלוֹן (엘론) + מַמְרֵא (맘레)",
+        "grammar": "동사",
+        "emoji": "🌳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mamre-oaks1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#2d5016\" /></linearGradient><radialGradient id=\"mamre-leaves1\"><stop offset=\"0%\" stop-color=\"#43e97b\" /><stop offset=\"100%\" stop-color=\"#38f9d7\" /></radialGradient></defs><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" fill=\"url(#mamre-oaks1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"18\" ry=\"16\" fill=\"url(#mamre-leaves1)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"22\" r=\"8\" fill=\"#2d5016\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"24\" r=\"7\" fill=\"#2d5016\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"#2d5016\" opacity=\"0.6\" /><path d=\"M 20 52 L 24 48 L 32 52 L 40 48 L 44 52\" fill=\"#6B5344\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+        "relatedWords": [
+          "שָׁכַן (샤칸 - 거주하다, 머물다)",
+          "אֵלוֹן (엘론 - 상수리나무, 큰 나무)"
+        ]
+      },
+      {
+        "hebrew": "הָאֱמֹרִי",
+        "meaning": "아모리 사람",
+        "ipa": "haʔɛmoˈri",
+        "korean": "하에모리",
+        "letters": "הָ(ha) + אֱ(e) + מֹ(mo) + רִי(ri)",
+        "root": "אֱמֹרִי (에모리)",
+        "grammar": "형용사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"amorite-people1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a574\" /><stop offset=\"100%\" stop-color=\"#8b6f47\" /></linearGradient><linearGradient id=\"amorite-mountain1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></linearGradient></defs><path d=\"M 8 56 L 20 32 L 32 40 L 44 28 L 56 56 Z\" fill=\"url(#amorite-mountain1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#amorite-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"26\" r=\"3.5\" fill=\"#2c3e50\" /><path d=\"M 28 32 Q 32 35 36 32\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><rect x=\"28\" y=\"38\" width=\"8\" height=\"12\" rx=\"1\" fill=\"url(#amorite-people1)\" /><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"#8b6f47\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "אֱמֹרִי (에모리 - 아모리족)",
+          "כְּנַעֲנִי (케나아니 - 가나안 사람)"
+        ]
+      },
+      {
+        "hebrew": "אֲחִי אֶשְׁכֹּל וַאֲחִי עָנֵר",
+        "meaning": "에스골의 형제, 아넬의 형제",
+        "ipa": "ʔaˈħi ʔɛʃˈkol vaʔaˈħi ʕaˈnɛr",
+        "korean": "아히 에쉬콜 바아히 아네르",
+        "letters": "אֲ(a) + חִי(ḥi) + אֶ(e) + שְׁ(she) + כֹּל(kol) + וַ(va) + אֲ(a) + חִי(ḥi) + עָ(a) + נֵר(ner)",
+        "root": "אָח (아흐) + אֶשְׁכּוֹל (에쉬콜) + עָנֵר (아네르)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brothers-alliance1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><radialGradient id=\"brothers-unity1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><circle cx=\"32\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><circle cx=\"44\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><path d=\"M 26 30 L 38 30\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.5))\" /><circle cx=\"32\" cy=\"42\" r=\"10\" fill=\"url(#brothers-unity1)\" opacity=\"0.3\" /></svg>",
+        "relatedWords": [
+          "אָח (아흐 - 형제)",
+          "בְּרִית (베리트 - 언약, 동맹)"
+        ]
+      },
+      {
+        "hebrew": "בַּעֲלֵי בְרִית אַבְרָם",
+        "meaning": "아브람의 동맹자들",
+        "ipa": "baʕaˈlɛ vəˈrit ʔavˈram",
+        "korean": "바알레 베리트 아브람",
+        "letters": "בַּ(ba) + עֲ(a) + לֵי(lei) + בְ(be) + רִית(rit) + אַ(av) + בְ(be) + רָם(ram)",
+        "root": "בַּעַל (바알) + בְּרִית (베리트) + אַבְרָם (아브람)",
+        "grammar": "명사",
+        "emoji": "🤝",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant-alliance1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><radialGradient id=\"covenant-bond1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#4facfe\" /></radialGradient></defs><path d=\"M 16 32 L 20 28 L 28 32 L 32 28 L 36 32 L 44 28 L 48 32\" stroke=\"url(#covenant-alliance1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"28\" r=\"5\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"5\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#covenant-bond1)\" opacity=\"0.3\" /><path d=\"M 24 40 L 28 36 L 32 40 L 36 36 L 40 40\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+        "relatedWords": [
+          "בְּרִית (베리트 - 언약, 계약)",
+          "בַּעַל (바알 - 주인, 소유자)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 14장 13절은 롯의 포로 소식이 아브람에게 전달되는 중요한 전환점입니다. 한 도망자가 위험을 무릅쓰고 아브람에게 알렸고, 이는 아브람의 구출 작전의 시작이 됩니다. 본문은 또한 아브람의 정체성('히브리 사람')과 그의 동맹 관계를 상세히 묘사하여, 아브람이 고립된 유목민이 아니라 존중받는 지도자였음을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיָּבֹא הַפָּלִיט (바야보 하팔리트) - 도망친 자가 왔다",
+          "description": "'팔리트'는 도망자, 생존자를 의미하며, 전투에서 살아남아 탈출한 사람을 가리킵니다. 이 사람은 위험을 무릅쓰고 아브람에게 소식을 전하러 왔는데, 이는 아브람이 롯을 도울 수 있는 유일한 희망이었기 때문입니다.",
+          "points": [
+            "도망자가 아브람을 찾아온 것은 아브람의 명성과 능력을 알고 있었기 때문입니다",
+            "그는 소돔 사람이거나 롯의 종이었을 가능성이 높습니다",
+            "위험한 여정을 감수하고 소식을 전한 것은 큰 용기를 보여줍니다",
+            "성경에서 '남은 자', '도피한 자'는 하나님의 구원 계획의 중요한 도구가 됩니다(이사야 10:20)"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "לְאַבְרָם הָעִבְרִי (레아브람 하이브리) - 히브리 사람 아브람",
+          "description": "이것은 성경에서 '히브리'라는 단어가 처음 등장하는 곳입니다. '이브리'는 '에벨의 자손' 또는 '강을 건너온 자'를 의미하며, 아브람의 민족적 정체성을 나타냅니다. 이는 그가 유프라테스 강을 건너 가나안에 온 이방인임을 보여줍니다.",
+          "points": [
+            "히브리라는 이름은 에벨(창 10:21, 25)의 자손을 가리킵니다",
+            "'건너온 자'라는 의미는 아브람이 갈대아 우르에서 강을 건너 가나안에 왔음을 암시합니다",
+            "가나안 원주민들의 관점에서 아브람은 '외국인', '강 건너에서 온 자'였습니다",
+            "이 명칭은 하나님의 백성이 이 세상에서 나그네요 외국인임을 상징합니다(히 11:13)"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "שֹׁכֵן בְּאֵלֹנֵי מַמְרֵא הָאֱמֹרִי (쇼켄 베엘로네 맘레 하에모리) - 아모리 사람 마므레의 상수리나무 숲에 거주하는",
+          "description": "'엘로네 마므레'는 '마므레의 상수리나무들'을 의미하며, 헤브론 근처의 성소였습니다. 아브람이 여기에 거주한 것은 창세기 13:18에서 언급되었으며, 이곳은 아브람이 제단을 쌓고 하나님을 예배한 장소였습니다.",
+          "points": [
+            "상수리나무 숲은 고대 근동에서 성스러운 장소로 여겨졌습니다",
+            "아브람은 여기서 하나님께 제단을 쌓았고(창 13:18), 하나님의 방문을 받았습니다(창 18:1)",
+            "마므레는 아모리 사람의 이름이며, 그는 아브람과 동맹을 맺은 지역 족장이었습니다",
+            "아브람은 천막 생활을 했지만, 특정 장소에 정착하여 예배와 삶의 중심지로 삼았습니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "בַּעֲלֵי בְרִית אַבְרָם (바알레 베리트 아브람) - 아브람의 동맹자들",
+          "description": "'바알레 베리트'는 '언약의 주인들', 즉 동맹 관계를 맺은 자들을 의미합니다. 마므레, 에스골, 아넬 세 형제는 아브람과 상호 방어 조약을 맺었으며, 이는 고대 사회에서 매우 중요한 관계였습니다.",
+          "points": [
+            "아브람은 고립된 유목민이 아니라 지역 족장들과 존중과 신뢰의 관계를 맺었습니다",
+            "이 동맹은 상호 보호와 협력을 의미하며, 곧 롯 구출 작전에서 중요한 역할을 합니다(창 14:24)",
+            "아브람은 외국인이었지만, 공의와 신실함으로 가나안 땅에서 명성을 얻었습니다",
+            "언약은 성경의 핵심 주제이며, 아브람 자신도 하나님과 언약 관계에 있었습니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 도망친 사람은 아브람에게 소식을 전하러 갔을까요?",
+        "answer": "전쟁에서 살아남은 사람은 롯을 도와줄 수 있는 사람을 생각했어요. 그때 떠오른 사람이 바로 아브람이었답니다! 아브람은 롯의 삼촌이었고, 착하고 강한 사람으로 유명했거든요. 아브람은 하나님을 믿고 따르는 사람이었고, 주변 사람들과도 친하게 지냈어요. 마므레, 에스골, 아넬이라는 친구들도 있었죠. 도망친 사람은 '아브람이라면 롯을 구해줄 수 있을 거야'라고 생각하고 위험한 길을 달려와서 소식을 전한 거예요. 아브람이 평소에 좋은 사람으로 살았기 때문에, 어려울 때 도움을 청할 수 있었던 거랍니다.",
+        "bibleReferences": [
+          "창세기 13:18 - '이에 아브람이 장막을 옮겨 헤브론에 있는 마므레 상수리 수풀에 이르러 거주하며 거기서 여호와를 위하여 제단을 쌓았더라'",
+          "창세기 18:1 - '여호와께서 마므레의 상수리나무들이 있는 곳에서 아브라함에게 나타나시니라'",
+          "잠언 22:1 - '많은 재물보다 명예를 택할 것이요 은이나 금보다 은총을 더욱 택할 것이니라'",
+          "베드로전서 2:12 - '너희가 이방인 중에서 행실을 선하게 가져 너희를 악행한다고 비방하는 자들로 하여금 너희 선한 일을 보고 오시는 날에 하나님께 영광을 돌리게 하라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "이 구절은 아브람의 신앙과 인격이 주변 사람들에게 어떤 영향을 미쳤는지 보여줍니다. 그는 '히브리 사람', 즉 외국인이었지만, 공의와 신실함으로 가나안 땅에서 명성을 얻었고, 지역 족장들과 동맹을 맺었습니다. 위기의 순간에 도망자가 아브람을 찾아온 것은 그가 구원자로 신뢰받았기 때문입니다. 이는 우리 그리스도인들이 세상에서 어떻게 살아야 하는지를 보여줍니다. 우리는 이 땅의 나그네요 외국인이지만(히 11:13), 선한 행실로 하나님의 영광을 드러내야 합니다(벧전 2:12). 아브람처럼 신실하고 공의롭게 살 때, 하나님은 우리를 통해 다른 사람들을 구원하시는 도구로 사용하십니다."
+      }
+    }
+  }
+]

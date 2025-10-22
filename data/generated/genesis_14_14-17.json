@@ -1,0 +1,591 @@
+[
+  {
+    "verseId": "genesis_14_14",
+    "reference": "창세기 14:14",
+    "hebrew": "וַיִּשְׁמַע אַבְרָם, כִּי נִשְׁבָּה אָחִיו; וַיָּרֶק אֶת-חֲנִיכָיו יְלִידֵי בֵיתוֹ, שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת, וַיִּרְדֹּף, עַד-דָּן.",
+    "ipa": "vajjirdof ʔad dan meʔot ʊʃloʃ ʔasar ʃəmona beto jiˈlide ħaniˈkav ʔɛt vajjareq ʔaˈħiv niʃba ki ʔavram vajjišˈmaʔ",
+    "koreanPronunciation": "바이르도프 아드 단 메오트 우슬로쉬 아사르 쉐모나 베이토 일리데 하니카브 에트 바야레크 아히브 니쉬바 키 아브람 바이쉬마",
+    "modern": "아브람은 그의 조카 롯이 사로잡혔다는 소식을 듣고, 자기 집에서 태어난 훈련된 사람 318명을 이끌고 단까지 추격하였습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּשְׁמַע",
+        "meaning": "그리고 들었다",
+        "ipa": "vajjišˈmaʔ",
+        "korean": "바이쉬마",
+        "letters": "וַ(va) + יִּ(yi) + שְׁ(sh) + מַע(ma)",
+        "root": "שׁ-מ-ע (샤마)",
+        "grammar": "동사",
+        "emoji": "👂",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-hear14-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#357ABD\" /></linearGradient><radialGradient id=\"abram-hear14-grad2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"14\" ry=\"18\" fill=\"url(#abram-hear14-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 46 22 Q 52 28 46 34\" stroke=\"url(#abram-hear14-grad2)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 50 18 Q 58 28 50 38\" stroke=\"url(#abram-hear14-grad2)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"26\" r=\"3\" fill=\"#2C3E50\" /><path d=\"M 26 36 Q 32 40 38 36\" stroke=\"#2C3E50\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /></svg>",
+        "relatedWords": [
+          "שְׁמַע יִשְׂרָאֵל (쉐마 이스라엘 - 들으라 이스라엘)",
+          "שֹׁמֵעַ (쇼메아 - 듣는 자)"
+        ]
+      },
+      {
+        "hebrew": "אָחִיו",
+        "meaning": "그의 형제, 조카",
+        "ipa": "ʔaˈħiv",
+        "korean": "아히브",
+        "letters": "אָ(a) + חִ(ħi) + יו(v)",
+        "root": "אָח (아흐)",
+        "grammar": "명사",
+        "emoji": "👨‍👦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-brother14-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient><linearGradient id=\"abram-brother14-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA07A\" /><stop offset=\"100%\" stop-color=\"#FF7F50\" /></linearGradient></defs><circle cx=\"22\" cy=\"22\" r=\"8\" fill=\"url(#abram-brother14-grad1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"42\" cy=\"22\" r=\"8\" fill=\"url(#abram-brother14-grad2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 30 L 18 46 L 26 46 Z\" fill=\"url(#abram-brother14-grad1)\" /><path d=\"M 42 30 L 38 46 L 46 46 Z\" fill=\"url(#abram-brother14-grad2)\" /><path d=\"M 26 40 Q 32 36 38 40\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+        "relatedWords": [
+          "אַחִים (아힘 - 형제들)",
+          "אָחוֹת (아호트 - 자매)"
+        ]
+      },
+      {
+        "hebrew": "חֲנִיכָיו",
+        "meaning": "그의 훈련된 자들",
+        "ipa": "ħaniˈkav",
+        "korean": "하니카브",
+        "letters": "חֲ(ħa) + נִי(ni) + כָ(ka) + יו(v)",
+        "root": "ח-נ-ך (하나크)",
+        "grammar": "명사",
+        "emoji": "⚔️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-trained14-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"50%\" stop-color=\"#E8E8E8\" /><stop offset=\"100%\" stop-color=\"#C0C0C0\" /></linearGradient><linearGradient id=\"abram-trained14-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"abram-trained14-grad3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect x=\"28\" y=\"8\" width=\"8\" height=\"40\" fill=\"url(#abram-trained14-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 8 L 24 16 L 32 12 L 40 16 Z\" fill=\"url(#abram-trained14-grad1)\" /><ellipse cx=\"32\" cy=\"52\" rx=\"10\" ry=\"6\" fill=\"url(#abram-trained14-grad2)\" /><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"url(#abram-trained14-grad3)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><rect x=\"20\" y=\"24\" width=\"24\" height=\"4\" fill=\"url(#abram-trained14-grad2)\" rx=\"2\" /></svg>"
+      },
+      {
+        "hebrew": "שְׁמֹנָה עָשָׂר וּשְׁלֹשׁ מֵאוֹת",
+        "meaning": "318명",
+        "ipa": "meʔot ʊʃloʃ ʔasar ʃəmona",
+        "korean": "메오트 우슬로쉬 아사르 쉐모나",
+        "letters": "שְׁ(sh) + מֹ(mo) + נָה(na) + עָ(a) + שָׂר(sar) + וּ(u) + שְׁ(sh) + לֹשׁ(losh) + מֵ(me) + אוֹת(ot)",
+        "root": "מֵאָה (메아) + שָׁלוֹשׁ (샬로쉬) + שְׁמוֹנֶה (쉐모네)",
+        "grammar": "명사",
+        "emoji": "💪",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-318-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><linearGradient id=\"abram-318-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#abram-318-grad1)\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#abram-318-grad1)\" /><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#abram-318-grad1)\" /><circle cx=\"26\" cy=\"36\" r=\"6\" fill=\"url(#abram-318-grad2)\" /><circle cx=\"38\" cy=\"36\" r=\"6\" fill=\"url(#abram-318-grad2)\" /><circle cx=\"20\" cy=\"48\" r=\"6\" fill=\"url(#abram-318-grad2)\" /><circle cx=\"32\" cy=\"50\" r=\"6\" fill=\"url(#abram-318-grad2)\" /><circle cx=\"44\" cy=\"48\" r=\"6\" fill=\"url(#abram-318-grad2)\" /><text x=\"32\" y=\"16\" font-family=\"Arial\" font-size=\"10\" font-weight=\"bold\" fill=\"#FFD700\" text-anchor=\"middle\" filter=\"drop-shadow(0 0 2px rgba(0, 0, 0, 0.8))\">318</text></svg>"
+      },
+      {
+        "hebrew": "וַיִּרְדֹּף",
+        "meaning": "그리고 추격하였다",
+        "ipa": "vajjirdof",
+        "korean": "바이르도프",
+        "letters": "וַ(va) + יִּ(yi) + רְ(r) + דֹּף(dof)",
+        "root": "ר-ד-ף (라다프)",
+        "grammar": "동사",
+        "emoji": "🏃",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-pursue14-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient><linearGradient id=\"abram-pursue14-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#95E1D3\" /><stop offset=\"100%\" stop-color=\"#38ADA9\" /></linearGradient></defs><circle cx=\"18\" cy=\"20\" r=\"6\" fill=\"url(#abram-pursue14-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 26 L 14 38\" stroke=\"url(#abram-pursue14-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 18 26 L 22 38\" stroke=\"url(#abram-pursue14-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 14 38 L 10 50\" stroke=\"url(#abram-pursue14-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 22 38 L 26 48\" stroke=\"url(#abram-pursue14-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 24 16 L 56 16\" stroke=\"url(#abram-pursue14-grad2)\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"4 2\" opacity=\"0.8\" /><path d=\"M 28 24 L 56 24\" stroke=\"url(#abram-pursue14-grad2)\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"4 2\" opacity=\"0.6\" /><polygon points=\"56,16 60,16 58,12\" fill=\"url(#abram-pursue14-grad2)\" /></svg>",
+        "relatedWords": [
+          "רוֹדֵף (로데프 - 추격자)",
+          "מִרְדָּף (미르다프 - 추적)"
+        ]
+      },
+      {
+        "hebrew": "דָּן",
+        "meaning": "단 (지명)",
+        "ipa": "dan",
+        "korean": "단",
+        "letters": "דָּ(da) + ן(n)",
+        "root": "דָּן (단)",
+        "grammar": "명사",
+        "emoji": "🏛️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-dan14-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\" /><stop offset=\"100%\" stop-color=\"#B8960C\" /></linearGradient><linearGradient id=\"abram-dan14-grad2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient></defs><rect x=\"8\" y=\"44\" width=\"48\" height=\"12\" fill=\"url(#abram-dan14-grad2)\" /><rect x=\"12\" y=\"28\" width=\"6\" height=\"16\" fill=\"url(#abram-dan14-grad1)\" /><rect x=\"29\" y=\"28\" width=\"6\" height=\"16\" fill=\"url(#abram-dan14-grad1)\" /><rect x=\"46\" y=\"28\" width=\"6\" height=\"16\" fill=\"url(#abram-dan14-grad1)\" /><polygon points=\"32,8 8,28 56,28\" fill=\"url(#abram-dan14-grad1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"8\" fill=\"#8B4513\" /></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 조카 롯이 사로잡혔다는 소식을 듣고 즉각적으로 구출 작전에 나섭니다. 이는 아브람의 용기와 가족에 대한 헌신, 그리고 하나님께 대한 믿음을 보여주는 중요한 순간입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּשְׁמַע (바이쉬마) - 듣고 행동하다",
+          "description": "히브리어 '샤마'는 단순히 듣는 것을 넘어 듣고 순종하며 행동하는 것을 의미합니다. 아브람은 나쁜 소식을 듣자마자 즉각 행동에 나섰습니다.",
+          "points": [
+            "듣는 것은 책임을 수반합니다 - 알면 행동해야 합니다",
+            "가족의 위기를 외면하지 않는 아브람의 성품",
+            "신속한 결단과 행동은 믿음의 표현입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "חֲנִיכָיו (하니카브) - 훈련된 사람들",
+          "description": "'하니카브'는 훈련되고 교육받은 사람들을 의미합니다. 아브람은 평소에 자기 집안 사람들을 전투에 대비해 훈련시켰음을 알 수 있습니다.",
+          "points": [
+            "평화 시에도 위기를 대비하는 지혜",
+            "318명이라는 숫자는 상당한 규모의 조직된 전력",
+            "믿음의 사람도 현실적 준비를 게을리하지 않음"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיִּרְדֹּף עַד־דָּן (바이르도프 아드 단) - 단까지 추격하다",
+          "description": "단은 이스라엘 북쪽 끝에 위치한 도시로, 아브람이 헤브론에서 약 200km를 추격했음을 보여줍니다. 이는 엄청난 헌신과 인내를 요구하는 여정이었습니다.",
+          "points": [
+            "사랑하는 사람을 위한 끝없는 헌신",
+            "거리와 어려움에도 불구하고 포기하지 않는 결단",
+            "하나님께서 함께하신다는 믿음으로 나아가는 용기"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "יְלִידֵי בֵיתוֹ (일리데 베이토) - 집에서 태어난 자들",
+          "description": "이들은 종으로 사온 사람들이 아니라 아브람의 집에서 태어나 자란 사람들입니다. 이는 아브람과 그들 사이의 깊은 유대관계를 보여줍니다.",
+          "points": [
+            "진정한 공동체는 함께 성장하며 형성됩니다",
+            "아브람은 단순한 주인이 아닌 가족의 수장",
+            "믿음의 가정은 세대를 이어 함께 싸우는 공동체"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 318명의 사람들만 데리고 큰 군대를 쫓아갔을까요?",
+        "answer": "아브람은 하나님을 믿었기 때문이에요. 비록 318명은 적은 숫자였지만, 하나님이 함께하시면 이길 수 있다는 것을 알았어요. 마치 다윗이 작은 돌멩이로 거인 골리앗을 이긴 것처럼, 중요한 것은 사람의 힘이 아니라 하나님의 능력이랍니다. 아브람은 조카 롯을 구하기 위해 용감하게 나섰고, 하나님께서 그와 함께하셨어요.",
+        "bibleReferences": [
+          "사무엘상 17:47 - '여호와의 구원하심이 칼과 창에 있지 아니함을 이 무리가 알리라'",
+          "역대하 20:15 - '이 전쟁은 너희에게 속한 것이 아니요 하나님께 속한 것이니라'",
+          "로마서 8:31 - '하나님이 우리를 위하시면 누가 우리를 대적하리요'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 구출 작전은 예수 그리스도의 구속 사역을 예표합니다. 사로잡힌 롯을 구하기 위해 위험을 무릅쓴 아브람처럼, 예수님은 죄에 사로잡힌 우리를 구원하시기 위해 이 땅에 오셨습니다. 318명이라는 작은 군대로 승리한 것은 하나님의 능력이 인간의 약함 속에서 완전하게 나타남을 보여줍니다 (고린도후서 12:9)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_15",
+    "reference": "창세기 14:15",
+    "hebrew": "וַיֵּחָלֵק עֲלֵיהֶם לַיְלָה, הוּא וַעֲבָדָיו, וַיַּכֵּם; וַיִּרְדְּפֵם, עַד-חוֹבָה, אֲשֶׁר מִשְּׂמֹאל לְדַמָּשֶׂק.",
+    "ipa": "ləðamˈmaśɛq miśśəˈmol ʔaˈʃɛr ħoba ʔad vajjirdəˈfem vajjakˈkem vaʔavaˈdav huʔ ˈlajla ʔaleˈhɛm vajjeħaˈleq",
+    "koreanPronunciation": "레다마세크 미쉐몰 아쉐르 호바 아드 바이르데페므 바야켐 바아바다브 후 라일라 알레헴 바예할레크",
+    "modern": "아브람은 밤에 자기 사람들을 나누어 적을 공격하여 쳐부수고, 다마스쿠스 북쪽에 있는 호바까지 추격하였습니다",
+    "words": [
+      {
+        "hebrew": "וַיֵּחָלֵק",
+        "meaning": "그리고 나누었다, 분할하였다",
+        "ipa": "vajjeħaˈleq",
+        "korean": "바예할레크",
+        "letters": "וַ(va) + יֵּ(ye) + חָ(ħa) + לֵק(leq)",
+        "root": "ח-ל-ק (할라크)",
+        "grammar": "동사",
+        "emoji": "✂️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"night-divide15-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><linearGradient id=\"night-divide15-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#F5576C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#night-divide15-grad1)\" opacity=\"0.2\" /><path d=\"M 32 12 L 32 52\" stroke=\"url(#night-divide15-grad2)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(245, 87, 108, 0.6))\" /><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"url(#night-divide15-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#night-divide15-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 28 20 L 36 20\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 28 44 L 36 44\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+        "relatedWords": [
+          "חֵלֶק (헬렉 - 부분, 몫)",
+          "מַחֲלֹקֶת (마할로켓 - 분열, 분쟁)"
+        ]
+      },
+      {
+        "hebrew": "לַיְלָה",
+        "meaning": "밤에",
+        "ipa": "ˈlajla",
+        "korean": "라일라",
+        "letters": "לַ(la) + יְ(y) + לָה(la)",
+        "root": "לַיִל (라일)",
+        "grammar": "명사",
+        "emoji": "🌙",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"night-moon15-grad1\"><stop offset=\"0%\" stop-color=\"#1A1A2E\" /><stop offset=\"100%\" stop-color=\"#0F3460\" /></radialGradient><linearGradient id=\"night-moon15-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F7DC6F\" /><stop offset=\"100%\" stop-color=\"#F39C12\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#night-moon15-grad1)\" rx=\"8\" /><path d=\"M 40 16 Q 36 24 36 32 Q 36 40 40 48 Q 28 44 28 32 Q 28 20 40 16 Z\" fill=\"url(#night-moon15-grad2)\" filter=\"drop-shadow(0 0 8px rgba(247, 220, 111, 0.8))\" /><circle cx=\"18\" cy=\"20\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"16\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"24\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"52\" cy=\"36\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"44\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "לֵילוֹת (레일로트 - 밤들)",
+          "יוֹם וָלַיְלָה (욤 바라일라 - 낮과 밤)"
+        ]
+      },
+      {
+        "hebrew": "וַיַּכֵּם",
+        "meaning": "그리고 그들을 쳤다, 공격하였다",
+        "ipa": "vajjakˈkem",
+        "korean": "바야켐",
+        "letters": "וַ(va) + יַּ(ya) + כֵּם(kem)",
+        "root": "נ-כ-ה (나카)",
+        "grammar": "동사",
+        "emoji": "⚔️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"night-strike15-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><linearGradient id=\"night-strike15-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><path d=\"M 16 48 L 48 16\" stroke=\"url(#night-strike15-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><polygon points=\"48,16 52,12 56,16 52,20\" fill=\"url(#night-strike15-grad2)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"16\" cy=\"48\" r=\"6\" fill=\"url(#night-strike15-grad2)\" /><path d=\"M 28 36 L 36 28\" stroke=\"#FFA500\" stroke-width=\"3\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"#FF6B35\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"40\" r=\"3\" fill=\"#FF6B35\" opacity=\"0.8\" /></svg>",
+        "relatedWords": [
+          "מַכָּה (마카 - 타격, 재앙)",
+          "נִכָּה (니카 - 패배하다)"
+        ]
+      },
+      {
+        "hebrew": "וַיִּרְדְּפֵם",
+        "meaning": "그리고 그들을 추격하였다",
+        "ipa": "vajjirdəˈfem",
+        "korean": "바이르데페므",
+        "letters": "וַ(va) + יִּ(yi) + רְ(r) + דְּ(də) + פֵם(fem)",
+        "root": "ר-ד-ף (라다프)",
+        "grammar": "동사",
+        "emoji": "🏃‍♂️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"night-chase15-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient><linearGradient id=\"night-chase15-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FC466B\" /><stop offset=\"100%\" stop-color=\"#3F5EFB\" /></linearGradient></defs><path d=\"M 8 32 Q 20 24 32 32 Q 44 40 56 32\" stroke=\"url(#night-chase15-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" stroke-dasharray=\"6 3\" opacity=\"0.7\" /><circle cx=\"12\" cy=\"30\" r=\"6\" fill=\"url(#night-chase15-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 36 L 8 48\" stroke=\"url(#night-chase15-grad2)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 12 36 L 16 48\" stroke=\"url(#night-chase15-grad2)\" stroke-width=\"3\" stroke-linecap=\"round\" /><polygon points=\"56,32 60,28 62,32 60,36\" fill=\"url(#night-chase15-grad1)\" filter=\"drop-shadow(0 0 4px rgba(56, 239, 125, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "חוֹבָה",
+        "meaning": "호바 (다마스쿠스 북쪽 지명)",
+        "ipa": "ħoba",
+        "korean": "호바",
+        "letters": "חוֹ(ħo) + בָה(ba)",
+        "root": "חוֹבָה (호바)",
+        "grammar": "명사",
+        "emoji": "🗺️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"night-hobah15-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#9B59B6\" /></linearGradient><radialGradient id=\"night-hobah15-grad2\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></radialGradient></defs><path d=\"M 32 8 Q 20 16 16 28 Q 12 40 20 48 Q 28 56 32 60 Q 36 56 44 48 Q 52 40 48 28 Q 44 16 32 8 Z\" fill=\"url(#night-hobah15-grad1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#night-hobah15-grad2)\" filter=\"drop-shadow(0 0 6px rgba(231, 76, 60, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFFFFF\" /></svg>"
+      },
+      {
+        "hebrew": "דַּמָּשֶׂק",
+        "meaning": "다마스쿠스 (시리아 수도)",
+        "ipa": "ðamˈmaśɛq",
+        "korean": "다마세크",
+        "letters": "דַּ(da) + מָּ(ma) + שֶׂק(seq)",
+        "root": "דַּמֶּשֶׂק (다메섹)",
+        "grammar": "명사",
+        "emoji": "🏙️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"night-damascus15-grad1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#D4AF37\" /><stop offset=\"50%\" stop-color=\"#F4D03F\" /><stop offset=\"100%\" stop-color=\"#D4AF37\" /></linearGradient><linearGradient id=\"night-damascus15-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8DAEF\" /><stop offset=\"100%\" stop-color=\"#BB8FCE\" /></linearGradient></defs><rect x=\"8\" y=\"40\" width=\"48\" height=\"16\" fill=\"url(#night-damascus15-grad2)\" /><rect x=\"12\" y=\"24\" width=\"8\" height=\"16\" fill=\"url(#night-damascus15-grad1)\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"20\" fill=\"url(#night-damascus15-grad1)\" /><rect x=\"44\" y=\"24\" width=\"8\" height=\"16\" fill=\"url(#night-damascus15-grad1)\" /><polygon points=\"32,4 24,20 40,20\" fill=\"url(#night-damascus15-grad1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#E74C3C\" filter=\"drop-shadow(0 0 4px rgba(231, 76, 60, 0.8))\" /></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 전략적으로 밤에 병력을 나누어 기습 공격을 감행합니다. 이는 단순한 무모함이 아니라 지혜롭고 계획적인 군사 작전이었으며, 하나님의 인도하심 가운데 이루어진 승리였습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיֵּחָלֵק לַיְלָה (바예할레크 라일라) - 밤에 나누다",
+          "description": "아브람은 병력을 여러 부대로 나누어 밤에 공격했습니다. 이는 고대 전쟁에서 효과적인 전술로, 적을 혼란에 빠뜨리고 실제보다 많은 병력이 있는 것처럼 보이게 합니다.",
+          "points": [
+            "지혜로운 전략은 믿음과 모순되지 않습니다",
+            "밤의 어둠을 이용한 기습 공격의 효과",
+            "하나님께서 주신 지혜를 실천하는 순종"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וַיַּכֵּם (바야켐) - 그들을 치다",
+          "description": "'나카'는 타격을 가하다, 쳐부수다는 뜻으로, 아브람의 공격이 결정적이고 효과적이었음을 보여줍니다. 318명으로 대군을 무찌른 것은 하나님의 도우심이 있었기에 가능했습니다.",
+          "points": [
+            "하나님이 함께하시면 소수가 다수를 이깁니다",
+            "기드온의 300명 전사와 유사한 패턴 (사사기 7장)",
+            "인간의 약함 속에 나타나는 하나님의 능력"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "עַד־חוֹבָה (아드 호바) - 호바까지",
+          "description": "호바는 다마스쿠스 북쪽에 위치한 곳으로, 아브람이 적을 완전히 격파하고 철저히 추격했음을 보여줍니다. 이는 하나님께서 완전한 승리를 주셨음을 의미합니다.",
+          "points": [
+            "불완전한 승리가 아닌 완전한 구출",
+            "끝까지 추격하여 모든 것을 회복함",
+            "하나님의 구원은 부분적이 아닌 완전한 구원"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 낮이 아니라 밤에 공격했을까요?",
+        "answer": "아브람은 아주 똑똑한 작전을 세웠어요. 밤에는 어두워서 적들이 아브람의 군사가 얼마나 되는지 정확히 알 수 없어요. 그리고 자고 있는 적들을 갑자기 공격하면 더 놀라서 혼란스러워하죠. 하나님은 아브람에게 지혜를 주셔서 적은 수로도 이길 수 있게 하셨답니다. 기드온도 비슷하게 밤에 적을 공격해서 이겼어요!",
+        "bibleReferences": [
+          "사사기 7:19-21 - '기드온이 밤중에 적진을 공격하여 승리하다'",
+          "출애굽기 14:20 - '구름 기둥이 밤새도록 이스라엘을 보호하다'",
+          "잠언 21:31 - '말은 싸움 날을 위하여 갖추거니와 이김은 여호와께 있느니라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 야간 기습 작전은 믿음과 지혜의 조화를 보여줍니다. 하나님을 신뢰하는 것이 무모함을 의미하지 않으며, 오히려 하나님께서 주신 지혜를 최대한 활용하는 것이 진정한 믿음입니다. 또한 밤의 어둠 속에서 이루어진 승리는, 우리 인생의 가장 어두운 순간에도 하나님께서 함께하시며 승리를 주심을 상징합니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_16",
+    "reference": "창세기 14:16",
+    "hebrew": "וַיָּשֶׁב, אֵת כָּל-הָרְכֻשׁ; וְגַם אֶת-לוֹט אָחִיו וּרְכֻשׁוֹ הֵשִׁיב, וְגַם אֶת-הַנָּשִׁים וְאֶת-הָעָם.",
+    "ipa": "vəʔɛt haˈʔam vəʔɛt hannašˈšim heˈšiv urəχuˈšo ʔaˈħiv lot ʔɛt vəˈɣam harrəˈχuš kal ʔɛt vajˈjašɛv",
+    "koreanPronunciation": "베에트 하암 베에트 한나쉼 헤쉬브 우레쿠쇼 아히브 로트 에트 베감 하르쿠쉬 칼 에트 바야셰브",
+    "modern": "아브람은 모든 재물을 되찾았고, 그의 조카 롯과 그의 재산, 그리고 여인들과 백성들도 다시 데려왔습니다",
+    "words": [
+      {
+        "hebrew": "וַיָּשֶׁב",
+        "meaning": "그리고 되돌려 가져왔다, 회복하였다",
+        "ipa": "vajˈjašɛv",
+        "korean": "바야셰브",
+        "letters": "וַ(va) + יָּ(ya) + שֶׁב(shev)",
+        "root": "שׁ-ו-ב (슈브)",
+        "grammar": "동사",
+        "emoji": "🔄",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-return16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00B4DB\" /><stop offset=\"100%\" stop-color=\"#0083B0\" /></linearGradient><linearGradient id=\"recovery-return16-grad2\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#56CCF2\" /><stop offset=\"100%\" stop-color=\"#2F80ED\" /></linearGradient></defs><path d=\"M 48 20 Q 56 32 48 44\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(0, 180, 219, 0.6))\" /><path d=\"M 48 44 L 16 44\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" /><polygon points=\"16,44 12,40 12,48\" fill=\"url(#recovery-return16-grad2)\" filter=\"drop-shadow(0 0 4px rgba(47, 128, 237, 0.8))\" /><circle cx=\"16\" cy=\"44\" r=\"6\" fill=\"url(#recovery-return16-grad2)\" /><path d=\"M 48 20 L 20 20\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.4\" stroke-dasharray=\"4 2\" /></svg>",
+        "relatedWords": [
+          "תְּשׁוּבָה (테슈바 - 회개, 돌이킴)",
+          "שָׁב (샤브 - 돌아가다)"
+        ]
+      },
+      {
+        "hebrew": "כָּל־הָרְכֻשׁ",
+        "meaning": "모든 재물",
+        "ipa": "harrəˈχuš kal",
+        "korean": "칼 하르쿠쉬",
+        "letters": "כָּל(kol) + הָ(ha) + רְ(rə) + כֻשׁ(khush)",
+        "root": "רְכוּשׁ (레쿠쉬)",
+        "grammar": "명사",
+        "emoji": "💎",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-goods16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F7971E\" /><stop offset=\"100%\" stop-color=\"#FFD200\" /></linearGradient><radialGradient id=\"recovery-goods16-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#43C6AC\" /></radialGradient><linearGradient id=\"recovery-goods16-grad3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"24\" fill=\"url(#recovery-goods16-grad3)\" rx=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><rect x=\"20\" y=\"36\" width=\"24\" height=\"16\" fill=\"url(#recovery-goods16-grad1)\" /><circle cx=\"26\" cy=\"20\" r=\"6\" fill=\"url(#recovery-goods16-grad2)\" filter=\"drop-shadow(0 0 6px rgba(67, 198, 172, 0.8))\" /><circle cx=\"38\" cy=\"16\" r=\"5\" fill=\"url(#recovery-goods16-grad2)\" filter=\"drop-shadow(0 0 6px rgba(67, 198, 172, 0.8))\" /><polygon points=\"48,12 52,8 56,12 52,20\" fill=\"url(#recovery-goods16-grad1)\" filter=\"drop-shadow(0 0 4px rgba(255, 210, 0, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "לוֹט",
+        "meaning": "롯 (아브람의 조카)",
+        "ipa": "lot",
+        "korean": "로트",
+        "letters": "לוֹ(lo) + ט(t)",
+        "root": "לוֹט (로트)",
+        "grammar": "명사",
+        "emoji": "👨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-lot16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FC466B\" /><stop offset=\"100%\" stop-color=\"#3F5EFB\" /></linearGradient><radialGradient id=\"recovery-lot16-grad2\"><stop offset=\"0%\" stop-color=\"#FDB99B\" /><stop offset=\"100%\" stop-color=\"#CF8BF3\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#recovery-lot16-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#2C3E50\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#2C3E50\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#2C3E50\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 32 34 L 28 52 L 36 52 Z\" fill=\"url(#recovery-lot16-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"24\" y=\"38\" width=\"4\" height=\"14\" fill=\"url(#recovery-lot16-grad1)\" /><rect x=\"36\" y=\"38\" width=\"4\" height=\"14\" fill=\"url(#recovery-lot16-grad1)\" /></svg>",
+        "relatedWords": [
+          "אָח (아흐 - 형제)",
+          "מִשְׁפָּחָה (미쉬파하 - 가족)"
+        ]
+      },
+      {
+        "hebrew": "וּרְכֻשׁוֹ",
+        "meaning": "그리고 그의 재산",
+        "ipa": "urəχuˈšo",
+        "korean": "우레쿠쇼",
+        "letters": "וּ(u) + רְ(rə) + כֻ(khu) + שׁוֹ(sho)",
+        "root": "רְכוּשׁ (레쿠쉬)",
+        "grammar": "명사",
+        "emoji": "💰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-property16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"recovery-property16-grad2\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"20\" fill=\"url(#recovery-property16-grad1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"6\" fill=\"url(#recovery-property16-grad2)\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#8B4513\" opacity=\"0.3\" /><text x=\"32\" y=\"38\" font-family=\"Arial\" font-size=\"16\" font-weight=\"bold\" fill=\"#8B4513\" text-anchor=\"middle\">$</text></svg>"
+      },
+      {
+        "hebrew": "הַנָּשִׁים",
+        "meaning": "여인들",
+        "ipa": "hannašˈšim",
+        "korean": "한나쉼",
+        "letters": "הַ(ha) + נָּ(na) + שִׁים(shim)",
+        "root": "אִשָּׁה (이샤)",
+        "grammar": "명사",
+        "emoji": "👩",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-women16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient><linearGradient id=\"recovery-women16-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8B4F0\" /><stop offset=\"100%\" stop-color=\"#A569BD\" /></linearGradient></defs><circle cx=\"22\" cy=\"24\" r=\"8\" fill=\"url(#recovery-women16-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"42\" cy=\"24\" r=\"8\" fill=\"url(#recovery-women16-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 32 L 18 50 L 26 50 Z\" fill=\"url(#recovery-women16-grad1)\" /><path d=\"M 42 32 L 38 50 L 46 50 Z\" fill=\"url(#recovery-women16-grad2)\" /><path d=\"M 18 40 L 26 40\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 38 40 L 46 40\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+        "relatedWords": [
+          "אִשָּׁה (이샤 - 여인)",
+          "נָשִׁים (나쉼 - 아내들, 여인들)"
+        ]
+      },
+      {
+        "hebrew": "הָעָם",
+        "meaning": "백성들, 사람들",
+        "ipa": "haˈʔam",
+        "korean": "하암",
+        "letters": "הָ(ha) + עָם(am)",
+        "root": "עַם (암)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-people16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><linearGradient id=\"recovery-people16-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#F5576C\" /></linearGradient></defs><circle cx=\"20\" cy=\"20\" r=\"6\" fill=\"url(#recovery-people16-grad1)\" /><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"url(#recovery-people16-grad2)\" /><circle cx=\"44\" cy=\"20\" r=\"6\" fill=\"url(#recovery-people16-grad1)\" /><path d=\"M 20 26 L 16 40 L 24 40 Z\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.8\" /><path d=\"M 32 22 L 28 36 L 36 36 Z\" fill=\"url(#recovery-people16-grad2)\" opacity=\"0.8\" /><path d=\"M 44 26 L 40 40 L 48 40 Z\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"44\" r=\"5\" fill=\"url(#recovery-people16-grad2)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"44\" r=\"5\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "עַמִּים (아밈 - 민족들)",
+          "עַם יִשְׂרָאֵל (암 이스라엘 - 이스라엘 백성)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "아브람은 단순히 롯만 구출한 것이 아니라 모든 재물과 사람들을 완전히 회복시켰습니다. 이는 하나님께서 주시는 구원이 부분적이 아닌 완전한 회복임을 보여주는 아름다운 그림입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיָּשֶׁב (바야셰브) - 되돌려 가져오다",
+          "description": "히브리어 '슈브'는 단순히 돌아온다는 의미를 넘어 회복, 회개, 복원을 의미하는 중요한 신학적 용어입니다. 아브람은 빼앗긴 것을 원상태로 되돌려 놓았습니다.",
+          "points": [
+            "하나님의 구원은 잃어버린 것의 완전한 회복",
+            "회복(슈브)은 구약성경의 핵심 주제 중 하나",
+            "그리스도를 통한 우리의 회복을 예표함"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "כָּל־הָרְכֻשׁ (칼 하르쿠쉬) - 모든 재물",
+          "description": "'칼'(모든)이라는 단어가 강조되어 있습니다. 아브람은 하나도 남김없이 모든 것을 되찾았으며, 이는 하나님께서 주시는 승리가 완전함을 보여줍니다.",
+          "points": [
+            "부분적 회복이 아닌 완전한 회복",
+            "하나님은 우리가 잃어버린 것을 아시고 되찾아 주심",
+            "물질도 하나님의 관심과 돌보심의 대상"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "לוֹט וְהַנָּשִׁים וְהָעָם (로트 베한나쉼 베하암) - 롯과 여인들과 백성들",
+          "description": "사람들이 재물보다 먼저 언급되지는 않지만, 함께 기록되어 있습니다. 아브람은 재물뿐만 아니라 모든 사람을 구출했으며, 이는 그의 인간애와 책임감을 보여줍니다.",
+          "points": [
+            "사람의 가치는 물질보다 중요함",
+            "아브람은 가족뿐 아니라 다른 사람들도 구출함",
+            "선한 목자의 모습 - 한 마리도 잃지 않음"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "הֵשִׁיב (헤쉬브) - 돌려놓다, 회복시키다",
+          "description": "이 단어는 '슈브'의 사역형(Hiphil)으로, 단순히 돌아오는 것이 아니라 능동적으로 돌려놓는 행위를 의미합니다. 아브람은 적극적으로 모든 것을 원위치시켰습니다.",
+          "points": [
+            "수동적 구원이 아닌 능동적 회복",
+            "아브람은 단순한 구조자가 아닌 회복자",
+            "예수님께서 우리를 하나님께 돌려놓으심을 예표"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 재물을 자기가 가지지 않고 다 돌려주었을까요?",
+        "answer": "아브람은 하나님께서 이미 그에게 복을 주시기로 약속하셨다는 것을 믿었어요. 그래서 다른 사람의 것을 빼앗아 부자가 될 필요가 없었답니다. 아브람은 정직한 사람이었고, 옳은 일을 하는 것이 더 중요하다는 것을 알았어요. 하나님은 정직하고 다른 사람을 돕는 사람을 더욱 축복하신답니다.",
+        "bibleReferences": [
+          "창세기 14:22-23 - '나는 실 한 오라기나 신발끈 하나도 가지지 않겠노라'",
+          "잠언 10:22 - '여호와께서 복을 주시므로 부하게 하시고 근심을 겸하여 주지 아니하시느니라'",
+          "누가복음 19:8 - '삭개오가 재산의 절반을 가난한 자들에게 주다'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람의 완전한 회복 사역은 예수 그리스도의 구속 사역을 예표합니다. 그리스도께서는 죄로 인해 잃어버린 모든 것 - 하나님과의 관계, 의로움, 영생 - 을 완전히 회복시켜 주셨습니다. '모든 것'을 되찾았다는 표현은 그리스도 안에서 우리가 받는 완전한 구원을 상징합니다 (에베소서 1:7-10)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_14_17",
+    "reference": "창세기 14:17",
+    "hebrew": "וַיֵּצֵא מֶלֶךְ-סְדֹם לִקְרָאתוֹ, אַחֲרֵי שׁוּבוֹ מֵהַכּוֹת אֶת-כְּדָרְלָעֹמֶר, וְאֶת-הַמְּלָכִים אֲשֶׁר אִתּוֹ--אֶל-עֵמֶק שָׁוֵה, הוּא עֵמֶק הַמֶּלֶךְ.",
+    "ipa": "hammɛlɛχ ʔɛmɛq huʔ šave ʔɛmɛq ʔɛl ʔitto ʔaˈšɛr hamməlaˈχim vəʔɛt kədarlaˈʔomɛr ʔɛt mehakˈkot šuˈvo ʔaħˈare liqraˈto sədˈom mɛlɛχ vajjɛˈse",
+    "koreanPronunciation": "함멜렉 에메크 후 샤베 에메크 엘 이토 아쉐르 함멜라킴 베에트 케다르라오메르 에트 메하코트 슈보 아하레 리크라토 세돔 멜렉 바예체",
+    "modern": "아브람이 그돌라오멜과 그와 함께한 왕들을 무찌르고 돌아올 때, 소돔 왕이 그를 만나러 사웨 골짜기 곧 왕의 골짜기로 나왔습니다",
+    "words": [
+      {
+        "hebrew": "וַיֵּצֵא",
+        "meaning": "그리고 나왔다",
+        "ipa": "vajjɛˈse",
+        "korean": "바예체",
+        "letters": "וַ(va) + יֵּ(ye) + צֵא(tse)",
+        "root": "י-צ-א (야차)",
+        "grammar": "동사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-exit17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#4ECDC4\" /></linearGradient><radialGradient id=\"sodom-exit17-grad2\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"100%\" stop-color=\"#FF6B6B\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"20\" height=\"28\" fill=\"url(#sodom-exit17-grad1)\" opacity=\"0.3\" rx=\"2\" /><circle cx=\"40\" cy=\"22\" r=\"7\" fill=\"url(#sodom-exit17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 29 L 36 45\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 40 29 L 44 45\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 36 35 L 40 33\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 18 32 L 32 32\" stroke=\"#4ECDC4\" stroke-width=\"2\" stroke-dasharray=\"2 2\" opacity=\"0.7\" /><polygon points=\"32,32 28,30 28,34\" fill=\"#4ECDC4\" /></svg>",
+        "relatedWords": [
+          "יְצִיאָה (예치아 - 출구, 나감)",
+          "מוֹצָא (모차 - 출처, 기원)"
+        ]
+      },
+      {
+        "hebrew": "מֶלֶךְ־סְדֹם",
+        "meaning": "소돔의 왕",
+        "ipa": "sədˈom mɛlɛχ",
+        "korean": "멜렉 세돔",
+        "letters": "מֶ(me) + לֶךְ(lekh) + סְ(sə) + דֹם(dom)",
+        "root": "מֶלֶךְ (멜렉) + סְדֹם (세돔)",
+        "grammar": "명사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-king17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><linearGradient id=\"sodom-king17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient><radialGradient id=\"sodom-king17-grad3\"><stop offset=\"0%\" stop-color=\"#D4AF37\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#sodom-king17-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 38 L 28 56 L 36 56 Z\" fill=\"url(#sodom-king17-grad2)\" /><path d=\"M 12 48 L 16 40 L 22 44 L 32 34 L 42 44 L 48 40 L 52 48 Z\" fill=\"url(#sodom-king17-grad3)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"4\" fill=\"url(#sodom-king17-grad3)\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#E74C3C\" /></svg>",
+        "relatedWords": [
+          "מֶלֶךְ (멜렉 - 왕)",
+          "מַלְכוּת (말쿠트 - 왕국)"
+        ]
+      },
+      {
+        "hebrew": "לִקְרָאתוֹ",
+        "meaning": "그를 만나러",
+        "ipa": "liqraˈto",
+        "korean": "리크라토",
+        "letters": "לִ(li) + קְ(q) + רָא(ra) + תוֹ(to)",
+        "root": "ק-ר-א (카라)",
+        "grammar": "동사",
+        "emoji": "🤝",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-meet17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FA8BFF\" /><stop offset=\"50%\" stop-color=\"#2BD2FF\" /><stop offset=\"100%\" stop-color=\"#2BFF88\" /></linearGradient><radialGradient id=\"sodom-meet17-grad2\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"6\" fill=\"url(#sodom-meet17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"6\" fill=\"url(#sodom-meet17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 34 L 16 48\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 34 L 48 48\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 20 38 L 28 40 L 36 40 L 44 38\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(43, 210, 255, 0.6))\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "אַחֲרֵי שׁוּבוֹ",
+        "meaning": "그가 돌아온 후에",
+        "ipa": "šuˈvo ʔaħˈare",
+        "korean": "아하레 슈보",
+        "letters": "אַ(a) + חֲ(ħa) + רֵי(re) + שׁוּ(shu) + בוֹ(vo)",
+        "root": "אַחַר (아하르) + שׁ-ו-ב (슈브)",
+        "grammar": "전치사",
+        "emoji": "🔙",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-after17-grad1\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#36D1DC\" /><stop offset=\"100%\" stop-color=\"#5B86E5\" /></linearGradient><linearGradient id=\"sodom-after17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F2994A\" /><stop offset=\"100%\" stop-color=\"#F2C94C\" /></linearGradient></defs><path d=\"M 48 16 L 48 48\" stroke=\"url(#sodom-after17-grad1)\" stroke-width=\"3\" stroke-dasharray=\"4 2\" opacity=\"0.5\" /><path d=\"M 48 48 L 16 48\" stroke=\"url(#sodom-after17-grad1)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(54, 209, 220, 0.6))\" /><polygon points=\"16,48 20,44 20,52\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(0 0 4px rgba(242, 201, 76, 0.8))\" /><circle cx=\"48\" cy=\"16\" r=\"5\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"48\" r=\"6\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+      },
+      {
+        "hebrew": "כְּדָרְלָעֹמֶר",
+        "meaning": "그돌라오멜 (엘람 왕)",
+        "ipa": "kədarlaˈʔomɛr",
+        "korean": "케다르라오메르",
+        "letters": "כְּ(kə) + דָר(dar) + לָ(la) + עֹ(o) + מֶר(mer)",
+        "root": "כְּדָרְלָעֹמֶר (케다르라오메르)",
+        "grammar": "명사",
+        "emoji": "👨‍✈️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-kedor17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2C3E50\" /><stop offset=\"100%\" stop-color=\"#34495E\" /></linearGradient><linearGradient id=\"sodom-kedor17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#BDC3C7\" /><stop offset=\"100%\" stop-color=\"#95A5A6\" /></linearGradient><radialGradient id=\"sodom-kedor17-grad3\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#sodom-kedor17-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 34 L 28 52 L 36 52 Z\" fill=\"url(#sodom-kedor17-grad1)\" /><rect x=\"20\" y=\"38\" width=\"24\" height=\"6\" fill=\"url(#sodom-kedor17-grad2)\" /><path d=\"M 20 16 L 24 12 L 32 16 L 40 12 L 44 16 L 40 20 L 32 20 L 24 20 Z\" fill=\"url(#sodom-kedor17-grad2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"url(#sodom-kedor17-grad3)\" filter=\"drop-shadow(0 0 4px rgba(231, 76, 60, 0.8))\" /></svg>"
+      },
+      {
+        "hebrew": "עֵמֶק שָׁוֵה",
+        "meaning": "사웨 골짜기, 왕의 골짜기",
+        "ipa": "šave ʔɛmɛq",
+        "korean": "에메크 샤베",
+        "letters": "עֵ(e) + מֶק(meq) + שָׁ(sha) + וֵה(veh)",
+        "root": "עֵמֶק (에메크) + שָׁוֶה (샤베)",
+        "grammar": "명사",
+        "emoji": "🏞️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-valley17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient><linearGradient id=\"sodom-valley17-grad2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#6B8E23\" /></linearGradient><radialGradient id=\"sodom-valley17-grad3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#sodom-valley17-grad1)\" /><path d=\"M 0 32 Q 16 24 32 32 Q 48 40 64 32 L 64 64 L 0 64 Z\" fill=\"url(#sodom-valley17-grad2)\" /><path d=\"M 8 32 L 20 20 L 24 26 L 32 32\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 56 32 L 44 20 L 40 26 L 32 32\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"32\" cy=\"12\" r=\"8\" fill=\"url(#sodom-valley17-grad3)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" opacity=\"0.8\" /></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "소돔 왕이 승리하고 돌아오는 아브람을 맞이하러 나옵니다. 이 만남은 두 가지 대조적인 왕을 소개하는 중요한 장면으로, 다음 구절에서 나올 멜기세덱과의 만남을 위한 무대를 마련합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיֵּצֵא מֶלֶךְ־סְדֹם (바예체 멜렉 세돔) - 소돔 왕이 나왔다",
+          "description": "소돔 왕은 아브람을 맞이하러 나왔습니다. '나왔다'는 능동적인 행동으로, 그가 아브람에게 무언가를 제안하거나 요청할 의도가 있었음을 암시합니다.",
+          "points": [
+            "소돔은 후에 하나님의 심판을 받을 악한 도시",
+            "왕이 직접 나온 것은 아브람의 위상을 보여줌",
+            "세상 권력자들도 믿음의 사람을 인정할 수밖에 없음"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "אַחֲרֵי שׁוּבוֹ מֵהַכּוֹת (아하레 슈보 메하코트) - 쳐부수고 돌아온 후",
+          "description": "'슈브'(돌아오다)와 '하코트'(치다, 패배시키다)의 조합은 아브람의 완전한 승리를 강조합니다. 그는 적을 물리치고 승리자로 돌아왔습니다.",
+          "points": [
+            "아브람은 정복자요 승리자로 돌아옴",
+            "하나님께서 함께하시는 자의 승리는 확실함",
+            "영적 전쟁에서도 그리스도 안에서 승리함"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "עֵמֶק שָׁוֵה (에메크 샤베) - 사웨 골짜기",
+          "description": "'샤베'는 '평평한', '공평한'이라는 뜻으로, 왕의 골짜기라고도 불립니다. 이곳은 예루살렘 근처에 위치한 것으로 추정되며, 중요한 만남의 장소였습니다.",
+          "points": [
+            "중립적이고 공개적인 만남의 장소",
+            "후에 압살롬의 기념비가 세워진 곳 (사무엘하 18:18)",
+            "왕들이 만나는 장소 - 주권의 교류"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "כְּדָרְלָעֹמֶר וְהַמְּלָכִים (케다르라오메르 베함멜라킴) - 그돌라오멜과 왕들",
+          "description": "아브람이 물리친 적들이 다시 한 번 언급됩니다. 이는 그의 승리가 얼마나 대단한 것이었는지를 강조하며, 소돔 왕이 그를 맞이하러 나온 이유를 설명합니다.",
+          "points": [
+            "네 왕 연합군을 물리친 엄청난 승리",
+            "인간적으로는 불가능해 보이는 승리",
+            "하나님의 능력이 함께할 때 모든 것이 가능함"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 소돔 왕이 아브람을 만나러 나왔을까요?",
+        "answer": "소돔 왕은 아브람이 자기 백성들과 재물을 구해준 것에 감사하고 싶었어요. 그리고 아마도 아브람이 가져온 재물 중 일부를 돌려받고 싶었을 거예요. 하지만 다음 이야기를 보면, 아브람은 소돔 왕의 제안을 거절하고 하나님만 의지하기로 했답니다. 아브람은 악한 소돔 왕에게 빚지고 싶지 않았어요.",
+        "bibleReferences": [
+          "창세기 14:21-23 - '소돔 왕의 제안을 거절하는 아브람'",
+          "창세기 13:13 - '소돔 사람들은 여호와 앞에 악하여 큰 죄인이었더라'",
+          "고린도후서 6:14 - '믿지 않는 자와 멍에를 함께 메지 말라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "소돔 왕의 등장은 두 종류의 왕국을 대표합니다 - 세상의 왕국과 하나님의 왕국. 다음 구절에서 나타날 멜기세덱(의의 왕)과 소돔 왕(죄악의 도시)의 대조는 우리에게 선택을 요구합니다. 아브람이 소돔 왕의 제안을 거절하는 것은, 우리가 세상의 유혹을 거절하고 하나님만을 의지해야 함을 가르칩니다 (마태복음 6:24)."
+      }
+    }
+  }
+]

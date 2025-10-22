@@ -1,0 +1,675 @@
+[
+  {
+    "verseId": "genesis_15_17",
+    "reference": "창세기 15:17",
+    "hebrew": "וַיְהִי הַשֶּׁמֶשׁ בָּאָה וַעֲלָטָה הָיָה וְהִנֵּה תַנּוּר עָשָׁן וְלַפִּיד אֵשׁ אֲשֶׁר עָבַר בֵּין הַגְּזָרִים הָאֵלֶּה׃",
+    "ipa": "vajəˈhi haˈʃɛmɛʃ ˈbaʔa vaʔaˈlaʈa ˈhaja vəhinˈne tanˈnur ʕaˈʃan vəlapˈpid ʔeʃ ʔaˈʃɛr ʕaˈvar ben haggəzaˈrim haˈʔellɛ",
+    "koreanPronunciation": "바예히 하셰메쉬 바아 바알라타 하야 베힌네 탄누르 아샨 벨라피드 에쉬 아셰르 아바르 벤 학게자림 하엘레",
+    "modern": "해가 지고 어둠이 깊어지자, 연기 나는 화덕과 타오르는 횃불이 쪼갠 고기 조각들 사이를 지나갔습니다",
+    "words": [
+      {
+        "hebrew": "הַשֶּׁמֶשׁ בָּאָה",
+        "meaning": "해가 들어가다, 해가 지다",
+        "ipa": "haˈʃɛmɛʃ ˈbaʔa",
+        "korean": "하셰메쉬 바아",
+        "letters": "הַ(ha) + שֶּׁ(she) + מֶשׁ(mesh) + בָּ(ba) + אָה(ah)",
+        "root": "ש-מ-ש (샤마쉬), ב-ו-א (보)",
+        "grammar": "명사",
+        "emoji": "🌅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-sunset1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#FF8C42\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></linearGradient><radialGradient id=\"theophany17-sun1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF4500\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#theophany17-sunset1)\" /><circle cx=\"32\" cy=\"48\" r=\"18\" fill=\"url(#theophany17-sun1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 12px rgba(255, 69, 0, 0.6))\" /><line x1=\"0\" y1=\"48\" x2=\"64\" y2=\"48\" stroke=\"#3D1F47\" stroke-width=\"8\" opacity=\"0.5\" /></svg>",
+        "relatedWords": [
+          "שֶׁמֶשׁ (셰메쉬 - 태양)",
+          "בּוֹא (보 - 들어오다, 가다)"
+        ]
+      },
+      {
+        "hebrew": "עֲלָטָה",
+        "meaning": "어둠, 짙은 어둠",
+        "ipa": "ʕaˈlaʈa",
+        "korean": "알라타",
+        "letters": "עֲ(a) + לָ(la) + טָה(tah)",
+        "root": "ע-ל-ט (알라트)",
+        "grammar": "명사",
+        "emoji": "🌑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"theophany17-dark1\"><stop offset=\"0%\" stop-color=\"#1A1A2E\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#theophany17-dark1)\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"#0F0F1E\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"#000000\" filter=\"drop-shadow(0 0 8px rgba(0, 0, 0, 0.8))\" /></svg>",
+        "relatedWords": [
+          "חֹשֶׁךְ (호셰크 - 어둠)",
+          "לַיְלָה (라일라 - 밤)"
+        ]
+      },
+      {
+        "hebrew": "תַנּוּר עָשָׁן",
+        "meaning": "연기 나는 화덕",
+        "ipa": "tanˈnur ʕaˈʃan",
+        "korean": "탄누르 아샨",
+        "letters": "תַּ(ta) + נּוּר(nur) + עָ(a) + שָׁן(shan)",
+        "root": "תַּנּוּר (탄누르), ע-ש-ן (아샨)",
+        "grammar": "명사",
+        "emoji": "🔥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-furnace1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"theophany17-smoke1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A4A4A\" /><stop offset=\"50%\" stop-color=\"#808080\" /><stop offset=\"100%\" stop-color=\"#C0C0C0\" opacity=\"0.3\" /></linearGradient></defs><rect x=\"18\" y=\"38\" width=\"28\" height=\"20\" fill=\"url(#theophany17-furnace1)\" rx=\"4\" filter=\"drop-shadow(0 4px 8px rgba(255, 69, 0, 0.6))\" /><ellipse cx=\"32\" cy=\"38\" rx=\"14\" ry=\"6\" fill=\"#FF6347\" opacity=\"0.8\" /><path d=\"M 28 38 Q 28 20 24 8 Q 22 4 20 2\" stroke=\"url(#theophany17-smoke1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 36 38 Q 36 18 40 6 Q 42 3 44 1\" stroke=\"url(#theophany17-smoke1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "אֵשׁ (에쉬 - 불)",
+          "עָשָׁן (아샨 - 연기)"
+        ]
+      },
+      {
+        "hebrew": "לַפִּיד אֵשׁ",
+        "meaning": "불의 횃불, 타오르는 횃불",
+        "ipa": "lapˈpid ʔeʃ",
+        "korean": "라피드 에쉬",
+        "letters": "לַ(la) + פִּיד(pid) + אֵשׁ(esh)",
+        "root": "לַפִּיד (라피드), אֵשׁ (에쉬)",
+        "grammar": "명사",
+        "emoji": "🔦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-torch1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"40%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"theophany17-flame1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"30%\" stop-color=\"#FF8C00\" /><stop offset=\"70%\" stop-color=\"#FF4500\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient></defs><rect x=\"28\" y=\"32\" width=\"8\" height=\"28\" fill=\"url(#theophany17-torch1)\" rx=\"2\" /><ellipse cx=\"32\" cy=\"20\" rx=\"10\" ry=\"14\" fill=\"url(#theophany17-flame1)\" filter=\"drop-shadow(0 0 12px rgba(255, 140, 0, 0.8))\" /><path d=\"M 32 6 Q 28 12 30 18 Q 32 14 34 18 Q 36 12 32 6\" fill=\"#FFFF00\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"18\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+        "relatedWords": [
+          "נֵר (네르 - 등불)",
+          "אוֹר (오르 - 빛)"
+        ]
+      },
+      {
+        "hebrew": "עָבַר בֵּין הַגְּזָרִים",
+        "meaning": "조각들 사이를 지나가다",
+        "ipa": "ʕaˈvar ben haggəzaˈrim",
+        "korean": "아바르 벤 학게자림",
+        "letters": "עָ(a) + בַר(var) + בֵּין(ben) + הַ(ha) + גְּזָ(ge) + רִים(rim)",
+        "root": "ע-ב-ר (아바르), גּ-ז-ר (가자르)",
+        "grammar": "동사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-path1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"theophany17-pieces1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"0\" y=\"28\" width=\"64\" height=\"8\" fill=\"url(#theophany17-path1)\" opacity=\"0.4\" /><ellipse cx=\"16\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(15 16 24)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"16\" cy=\"40\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(-15 16 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"48\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(15 48 24)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"48\" cy=\"40\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(-15 48 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 8 32 L 56 32\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-dasharray=\"4 2\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+        "relatedWords": [
+          "דֶּרֶךְ (데레크 - 길)",
+          "הָלַךְ (할라크 - 걷다)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 15:17은 하나님이 아브람과 맺으신 언약의 인준 의식을 묘사합니다. 해가 지고 깊은 어둠이 내린 후, 연기 나는 화덕과 타오르는 횃불이 쪼갠 동물 조각들 사이를 지나갔습니다. 이는 고대 근동의 언약 의식에서 언약 당사자들이 쪼갠 고기 사이를 지나가며 맹세하던 관습을 반영하지만, 놀랍게도 하나님만 홀로 지나가셨습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "תַנּוּר עָשָׁן וְלַפִּיד אֵשׁ (탄누르 아샨 벨라피드 에쉬) - 하나님의 임재",
+          "description": "연기 나는 화덕과 타오르는 횃불은 하나님의 임재를 상징하는 신현(神顯, theophany)입니다. 출애굽 당시 이스라엘을 인도하신 불기둥(출애굽기 13:21)과 시내산의 연기(출애굽기 19:18)를 연상시킵니다.",
+          "points": [
+            "화덕과 횃불은 하나님 자신을 나타내는 상징입니다",
+            "불과 연기는 하나님의 거룩하심과 심판의 능력을 표현합니다",
+            "하나님의 임재는 두렵지만 동시에 보호와 인도를 의미합니다",
+            "이 신현은 하나님이 언약에 직접 참여하심을 보여줍니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "עָבַר בֵּין הַגְּזָרִים (아바르 벤 학게자림) - 하나님만의 통과",
+          "description": "고대 근동의 언약 의식에서는 쌍방이 모두 쪼갠 고기 사이를 지나가며 '내가 언약을 어기면 이 짐승처럼 될지어다'라고 맹세했습니다. 그러나 여기서는 하나님만 홀로 지나가십니다. 아브람은 깊은 잠에 빠져 있었고(15:12), 언약의 의무를 하나님만이 떠맡으신 것입니다.",
+          "points": [
+            "하나님만 홀로 언약 의식을 통과하셨습니다",
+            "이는 무조건적이고 일방적인 은혜 언약입니다",
+            "아브람의 역할이나 행위가 아닌 하나님의 주권적 선택입니다",
+            "하나님이 언약을 지키지 못할 때의 저주까지도 떠맡으셨습니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "עֲלָטָה (알라타) - 깊은 어둠",
+          "description": "해가 완전히 지고 깊은 어둠이 내렸다는 표현은 단순한 시간적 배경이 아니라 신학적 의미를 담고 있습니다. 어둠 속에서 오직 하나님의 불빛만이 빛나며, 인간의 노력이 완전히 배제된 상태에서 하나님만이 행동하십니다.",
+          "points": [
+            "어둠은 인간의 무능력과 죄성을 상징합니다",
+            "완전한 어둠 속에서 하나님의 빛만이 드러납니다",
+            "아브람이 잠들어 있었던 것처럼 인간은 구원에 참여할 수 없습니다",
+            "이는 은혜로만 구원받는 복음의 예표입니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "הַגְּזָרִים (학게자림) - 쪼개진 조각들",
+          "description": "쪼개진 동물 조각들은 언약을 어길 때 받을 저주를 상징합니다. 고대 언약 의식에서 '이 짐승처럼 쪼개지기를 맹세한다'는 의미였습니다. 하나님이 홀로 이 사이를 지나가신 것은 궁극적으로 십자가에서 그리스도가 언약의 저주를 대신 받으심을 예표합니다.",
+          "points": [
+            "쪼개진 조각들은 언약 파기 시의 심판을 나타냅니다",
+            "하나님이 홀로 지나가심으로 저주를 자신에게 돌리셨습니다",
+            "이는 그리스도께서 우리 대신 저주를 받으신 십자가를 예표합니다",
+            "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받으사'"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님만 불과 연기로 쪼갠 고기 사이를 지나가셨을까요?",
+        "answer": "보통 약속을 할 때는 양쪽이 모두 '내가 약속을 안 지키면 벌을 받을게'라고 하잖아요. 그런데 하나님은 아브람에게 '네가 잘못해도 내가 책임질게'라고 하신 거예요. 마치 엄마 아빠가 아이에게 '네가 실수해도 괜찮아, 우리가 다 책임질게'라고 하는 것처럼요. 하나님은 아브람이 약속을 못 지켜도 하나님이 다 책임지시겠다고 약속하신 거랍니다. 나중에 예수님이 우리 대신 십자가에서 벌을 받으신 것도 바로 이 약속 때문이에요.",
+        "bibleReferences": [
+          "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받으사 율법의 저주에서 우리를 속량하셨으니'",
+          "로마서 5:8 - '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로 하나님께서 우리에 대한 자기의 사랑을 확증하셨느니라'",
+          "히브리서 9:15 - '이로써 그는 새 언약의 중보자시니'",
+          "예레미야 34:18-19 - '송아지를 둘로 쪼개고 그 두 사이로 지난 사람들'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하나님만 홀로 쪼갠 고기 사이를 지나가신 것은 무조건적 은혜 언약의 본질을 보여줍니다. 이는 우리의 행위나 신실함이 아니라 오직 하나님의 신실하심만으로 구원이 이루어짐을 가르칩니다. 궁극적으로 이 언약은 그리스도의 십자가에서 성취되었습니다. 예수님이 우리 대신 언약의 저주를 받으심으로써, 하나님은 아브라함과 맺으신 약속을 완전히 이루셨습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_15_18",
+    "reference": "창세기 15:18",
+    "hebrew": "בַּיּוֹם הַהוּא כָּרַת יְהוָה אֶת־אַבְרָם בְּרִית לֵאמֹר לְזַרְעֲךָ נָתַתִּי אֶת־הָאָרֶץ הַזֹּאת מִנְּהַר מִצְרַיִם עַד־הַנָּהָר הַגָּדֹל נְהַר־פְּרָת׃",
+    "ipa": "bajˈjom haˈhu kaˈrat jəhˈwa ʔɛt-ʔavˈram bəˈrit leˈmor ləzarʕaˈka naˈtatti ʔɛt-haˈʔarɛts hazˈzot minneˈhar mitsˈrajim ʕad-hannaˈhar haggaˈdol nəhar-pəˈrat",
+    "koreanPronunciation": "바욤 하후 카라트 여호와 에트 아브람 베리트 레모르 레자르아카 나타티 에트 하아레츠 하조트 민네하르 미츠라임 아드 하나하르 하가돌 네하르 페라트",
+    "modern": "그날 여호와께서 아브람과 언약을 맺으시며 말씀하셨습니다: '내가 네 후손에게 이 땅을 주노니, 애굽 강에서부터 큰 강 유브라데까지라'",
+    "words": [
+      {
+        "hebrew": "כָּרַת בְּרִית",
+        "meaning": "언약을 맺다, 언약을 자르다",
+        "ipa": "kaˈrat bəˈrit",
+        "korean": "카라트 베리트",
+        "letters": "כָּ(ka) + רַת(rat) + בְּ(be) + רִית(rit)",
+        "root": "כ-ר-ת (카라트), בְּרִית (베리트)",
+        "grammar": "동사",
+        "emoji": "🤝",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-handshake1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"covenant18-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#covenant18-glow1)\" opacity=\"0.3\" /><rect x=\"4\" y=\"24\" width=\"24\" height=\"16\" rx=\"4\" fill=\"url(#covenant18-handshake1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"36\" y=\"24\" width=\"24\" height=\"16\" rx=\"4\" fill=\"url(#covenant18-handshake1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"#FF6B35\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 20 L 32 44\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "בְּרִית (베리트 - 언약, 계약)",
+          "כָּרַת (카라트 - 자르다, 맺다)"
+        ]
+      },
+      {
+        "hebrew": "יְהוָה",
+        "meaning": "여호와, 주님",
+        "ipa": "jəhˈwa",
+        "korean": "여호와",
+        "letters": "יְ(ye) + הוָ(ho) + ה(wah)",
+        "root": "יהוה (여호와)",
+        "grammar": "명사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-yhwh1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"covenant18-glory1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#covenant18-glory1)\" /><path d=\"M 12 44 L 16 32 L 22 36 L 32 24 L 42 36 L 48 32 L 52 44 Z\" fill=\"url(#covenant18-yhwh1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"44\" width=\"40\" height=\"6\" fill=\"url(#covenant18-yhwh1)\" rx=\"2\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><text x=\"32\" y=\"54\" font-family=\"serif\" font-size=\"10\" fill=\"#FFD700\" text-anchor=\"middle\" opacity=\"0.8\">יהוה</text></svg>",
+        "relatedWords": [
+          "אֱלֹהִים (엘로힘 - 하나님)",
+          "אֲדֹנָי (아도나이 - 주)"
+        ]
+      },
+      {
+        "hebrew": "לְזַרְעֲךָ",
+        "meaning": "네 씨에게, 네 자손에게",
+        "ipa": "ləzarʕaˈka",
+        "korean": "레자르아카",
+        "letters": "לְ(le) + זַ(za) + רְעֲ(r'a) + ךָ(kha)",
+        "root": "ז-ר-ע (자라)",
+        "grammar": "명사",
+        "emoji": "👶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-seed1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#98D8C8\" /><stop offset=\"100%\" stop-color=\"#2E8B57\" /></linearGradient><radialGradient id=\"covenant18-tree1\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"16\" ry=\"4\" fill=\"#8B4513\" opacity=\"0.4\" /><rect x=\"28\" y=\"40\" width=\"8\" height=\"16\" fill=\"#8B4513\" /><circle cx=\"20\" cy=\"28\" r=\"8\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"8\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"50\" rx=\"3\" ry=\"4\" fill=\"url(#covenant18-seed1)\" filter=\"drop-shadow(0 0 4px rgba(152, 216, 200, 0.6))\" /></svg>",
+        "relatedWords": [
+          "זֶרַע (제라 - 씨앗, 자손)",
+          "בֵּן (벤 - 아들)"
+        ]
+      },
+      {
+        "hebrew": "הָאָרֶץ",
+        "meaning": "땅, 지역",
+        "ipa": "haˈʔarɛts",
+        "korean": "하아레츠",
+        "letters": "הָ(ha) + אָ(a) + רֶץ(rets)",
+        "root": "אֶרֶץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-earth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><linearGradient id=\"covenant18-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\" /><stop offset=\"100%\" stop-color=\"#556B2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#covenant18-earth1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 12 32 Q 20 24 32 26 Q 44 28 52 32 Q 44 38 32 40 Q 20 42 12 32\" fill=\"url(#covenant18-land1)\" opacity=\"0.8\" /><path d=\"M 20 18 Q 28 16 36 20 Q 32 26 28 24 Q 24 22 20 18\" fill=\"url(#covenant18-land1)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+        "relatedWords": [
+          "אֲדָמָה (아다마 - 흙, 땅)",
+          "שָׂדֶה (사데 - 들판)"
+        ]
+      },
+      {
+        "hebrew": "נְהַר־פְּרָת",
+        "meaning": "유브라데 강",
+        "ipa": "nəhar-pəˈrat",
+        "korean": "네하르 페라트",
+        "letters": "נְ(ne) + הַר(har) + פְּ(pe) + רָת(rat)",
+        "root": "נָהָר (나하르), פְּרָת (페라트)",
+        "grammar": "명사",
+        "emoji": "🌊",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-river1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#1E90FF\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient><linearGradient id=\"covenant18-flow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" opacity=\"0\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" opacity=\"0\" /></linearGradient></defs><path d=\"M 0 24 Q 16 20 32 24 Q 48 28 64 24 L 64 40 Q 48 44 32 40 Q 16 36 0 40 Z\" fill=\"url(#covenant18-river1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 0 26 Q 16 22 32 26 Q 48 30 64 26\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 32 Q 16 28 32 32 Q 48 36 64 32\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 38 Q 16 34 32 38 Q 48 42 64 38\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "נָהָר (나하르 - 강)",
+          "מַיִם (마임 - 물)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 15:18은 하나님이 아브람과 공식적으로 언약을 체결하신 역사적 순간을 기록합니다. '카라트 베리트(언약을 자르다)'라는 표현은 고대 언약 의식의 피 흘림을 가리킵니다. 하나님은 아브람의 후손에게 주실 땅의 구체적인 경계를 선언하시며, 이는 단순한 약속이 아니라 법적 효력을 가진 언약 문서와 같은 것이었습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "כָּרַת בְּרִית (카라트 베리트) - 언약을 자르다",
+          "description": "히브리어로 언약을 맺는다는 표현은 문자적으로 '언약을 자르다'입니다. 이는 15:9-10에서 동물들을 쪼갠 것을 가리키며, 고대 근동의 언약 의식에서 필수적인 피 흘림을 의미합니다. 이 표현은 언약의 엄숙함과 신성함을 강조합니다.",
+          "points": [
+            "언약은 가벼운 약속이 아니라 피로 인준된 법적 계약입니다",
+            "쪼갠 동물은 언약 파기 시의 심판을 상징합니다",
+            "하나님은 이 언약을 생명을 건 맹세로 받아들이셨습니다",
+            "신약의 '새 언약'도 그리스도의 피로 인준되었습니다(눅 22:20)"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "נָתַתִּי (나타티) - 이미 주었다",
+          "description": "하나님은 '주겠다(미래)'가 아니라 '주었다(과거)'는 완료형을 사용하셨습니다. 이는 히브리어의 '예언적 완료형'으로, 하나님의 약속은 이미 이루어진 것처럼 확실하다는 의미입니다. 하나님께는 과거, 현재, 미래가 모두 동일하게 확실합니다.",
+          "points": [
+            "하나님의 약속은 미래에 이루어질 것이 아니라 이미 확정된 것입니다",
+            "예언적 완료형은 하나님 약속의 확실성을 표현합니다",
+            "아직 소유하지 못했지만 하나님 안에서는 이미 소유한 것입니다",
+            "이는 믿음으로 보는 것의 본질입니다(히 11:1)"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "מִנְּהַר מִצְרַיִם עַד־נְהַר־פְּרָת (민네하르 미츠라임 아드 네하르 페라트) - 땅의 경계",
+          "description": "하나님은 약속의 땅을 구체적으로 정의하셨습니다. '애굽 강'(와디 엘 아리쉬)에서 '유브라데 강'까지는 남서쪽에서 북동쪽까지의 광대한 영토를 의미합니다. 이는 솔로몬 시대에 부분적으로 성취되었지만(왕상 4:21), 완전한 성취는 메시아 왕국에서 이루어질 것입니다.",
+          "points": [
+            "애굽 강은 시내 반도와 가나안의 경계선입니다",
+            "유브라데 강은 메소포타미아의 주요 강입니다",
+            "이 땅은 솔로몬 시대에 부분적으로 소유되었습니다(왕상 4:21)",
+            "완전한 성취는 그리스도의 재림과 함께 올 것입니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 아브람에게 땅을 약속하셨을까요?",
+        "answer": "하나님은 아브람과 그의 자손이 안전하게 살 곳이 필요하다는 것을 아셨어요. 마치 부모님이 아이를 위해 집을 마련하는 것처럼, 하나님도 아브람의 후손들을 위해 땅을 준비하신 거예요. 그런데 이 땅은 단순한 집터가 아니라, 하나님을 예배하고 온 세상에 하나님을 알릴 특별한 나라가 될 곳이었답니다. 그리고 나중에 이 땅에서 예수님이 태어나셔서 온 세상을 구원하셨어요.",
+        "bibleReferences": [
+          "신명기 7:7-8 - '여호와께서 너희를 기뻐하시고 너희를 택하심은 너희가 다른 민족보다 수효가 많기 때문이 아니라... 너희를 사랑하심으로 말미암아'",
+          "출애굽기 6:8 - '내가 아브라함과 이삭과 야곱에게 주기로 맹세한 땅으로 너희를 인도하고'",
+          "열왕기상 4:21 - '솔로몬이 유브라데 강에서부터 블레셋 사람의 땅과 애굽 경계까지의 모든 나라를 다스리므로'",
+          "마태복음 2:6 - '네게서 한 다스리는 자가 나와서 내 백성 이스라엘의 목자가 되리라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브라함 언약의 땅 약속은 단순한 영토 분배가 아니라 하나님 나라의 예표입니다. 이 땅은 하나님의 백성이 하나님과 함께 거하며 하나님의 통치를 누리는 곳입니다. 신약에서 이 약속은 확장되어 '새 하늘과 새 땅'(계 21:1)으로 성취됩니다. 예수 그리스도를 통해 모든 민족이 아브라함의 영적 자손이 되어 이 땅의 유업을 함께 받게 됩니다(갈 3:29, 엡 3:6)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_15_19",
+    "reference": "창세기 15:19",
+    "hebrew": "אֶת־הַקֵּינִי וְאֶת־הַקְּנִזִּי וְאֵת הַקַּדְמֹנִי׃",
+    "ipa": "ʔɛt-hakkeniˈ vəʔɛt-hakkənizˈzi vəʔet hakkadmoniˈ",
+    "koreanPronunciation": "에트 하케이니 베에트 하케니지 베에트 하카드모니",
+    "modern": "겐 족속과 그니스 족속과 갓몬 족속",
+    "words": [
+      {
+        "hebrew": "הַקֵּינִי",
+        "meaning": "겐 족속",
+        "ipa": "hakkeniˈ",
+        "korean": "하케이니",
+        "letters": "הַ(ha) + קֵּי(kei) + נִי(ni)",
+        "root": "קַיִן (카인)",
+        "grammar": "명사",
+        "emoji": "⚒️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land19-kenite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"50%\" stop-color=\"#808080\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient><linearGradient id=\"land19-fire1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><rect x=\"20\" y=\"44\" width=\"24\" height=\"12\" fill=\"#8B4513\" rx=\"2\" /><path d=\"M 24 44 L 20 32 L 44 32 L 40 44\" fill=\"url(#land19-kenite1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"12\" width=\"6\" height=\"24\" fill=\"#8B4513\" rx=\"2\" /><ellipse cx=\"32\" cy=\"24\" rx=\"10\" ry=\"8\" fill=\"url(#land19-fire1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255, 69, 0, 0.6))\" /><circle cx=\"32\" cy=\"22\" r=\"3\" fill=\"#FFFF00\" opacity=\"0.9\" /></svg>",
+        "relatedWords": [
+          "קַיִן (카인 - 대장장이)",
+          "חֹבָב (호밥 - 모세의 장인, 겐 족속)"
+        ]
+      },
+      {
+        "hebrew": "הַקְּנִזִּי",
+        "meaning": "그니스 족속",
+        "ipa": "hakkənizˈzi",
+        "korean": "하케니지",
+        "letters": "הַ(ha) + קְּנִ(ke) + זִּי(zi)",
+        "root": "קְנַז (케나즈)",
+        "grammar": "명사",
+        "emoji": "🏕️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land19-kenizzite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"land19-tent1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#CD853F\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"6\" fill=\"#8B4513\" opacity=\"0.3\" /><path d=\"M 32 16 L 8 48 L 56 48 Z\" fill=\"url(#land19-tent1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 16 L 32 48\" stroke=\"#8B4513\" stroke-width=\"2\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#654321\" rx=\"2\" /></svg>",
+        "relatedWords": [
+          "קְנַז (케나즈 - 사람 이름)",
+          "עָתְנִיאֵל (오트니엘 - 그니스 족속 출신 사사)"
+        ]
+      },
+      {
+        "hebrew": "הַקַּדְמֹנִי",
+        "meaning": "갓몬 족속",
+        "ipa": "hakkadmoniˈ",
+        "korean": "하카드모니",
+        "letters": "הַ(ha) + קַּ(ka) + דְמֹ(d'mo) + נִי(ni)",
+        "root": "קֶדֶם (케뎀)",
+        "grammar": "명사",
+        "emoji": "🌄",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land19-kadmonite1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><linearGradient id=\"land19-east1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#F0E68C\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#land19-east1)\" /><circle cx=\"48\" cy=\"16\" r=\"10\" fill=\"url(#land19-kadmonite1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><path d=\"M 0 48 Q 16 40 32 44 Q 48 48 64 44 L 64 64 L 0 64 Z\" fill=\"#D2691E\" opacity=\"0.7\" /><path d=\"M 8 54 L 20 42 L 32 50 L 44 38 L 56 46\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+        "relatedWords": [
+          "קֶדֶם (케뎀 - 동쪽, 옛날)",
+          "קַדְמוֹן (카드몬 - 고대의)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 15:19는 아브람의 후손이 소유할 땅에 거주하던 민족들을 나열하기 시작합니다. 15:19-21절은 총 10개 족속을 언급하는데, 이는 가나안 땅의 완전한 소유를 상징하는 숫자입니다. 이 세 족속(겐, 그니스, 갓몬)은 상대적으로 덜 알려진 민족들로, 가나안 땅의 주변부나 동쪽 지역에 거주했던 것으로 추정됩니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "הַקֵּינִי (하케이니) - 겐 족속",
+          "description": "겐 족속은 '대장장이' 또는 '금속 세공인'을 의미하는 '카인'에서 유래한 이름입니다. 이들은 유목 민족으로 광산과 금속 가공 기술을 가진 것으로 알려져 있습니다. 흥미롭게도 모세의 장인 이드로는 겐 족속 출신이었고(사사기 1:16), 겐 족속은 후에 이스라엘과 우호적인 관계를 맺었습니다.",
+          "points": [
+            "겐 족속은 금속 세공 기술을 가진 유목 민족이었습니다",
+            "모세의 장인 이드로(호밥)가 겐 족속 출신입니다(민 10:29)",
+            "이들은 이스라엘 정복 시대에 남쪽 광야에 거주했습니다",
+            "헵 가문은 이스라엘과 동맹을 맺고 야엘이 시스라를 죽였습니다(사사기 4:17-22)"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "הַקְּנִזִּי (하케니지) - 그니스 족속",
+          "description": "'케나즈'라는 조상의 이름에서 유래한 족속입니다. 이들은 에돔 족속과 연관이 있으며(창 36:11, 15), 남쪽 지역에 거주했습니다. 흥미롭게도 이스라엘의 첫 사사 옷니엘은 그니스 족속 출신이었습니다(수 15:17, 사사기 1:13).",
+          "points": [
+            "그니스 족속은 에돔과 연관된 민족입니다",
+            "이들은 헤브론 남쪽 지역에 거주했습니다",
+            "갈렙과 옷니엘이 그니스 족속 출신으로 여겨집니다",
+            "일부는 이스라엘에 동화되어 유다 지파의 일부가 되었습니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "הַקַּדְמֹנִי (하카드모니) - 갓몬 족속",
+          "description": "'케뎀(동쪽, 옛날)'에서 유래한 이름으로 '동쪽 사람들' 또는 '고대 민족'을 의미합니다. 이들은 가나안 땅의 동쪽, 아마도 시리아 사막 지역에 거주했던 것으로 추정됩니다. 성경에서 이들에 대한 다른 언급은 거의 없어 신비로운 민족입니다.",
+          "points": [
+            "갓몬 족속은 '동쪽 사람들'이라는 의미입니다",
+            "이들은 가나안 땅의 동쪽 경계 지역에 거주했습니다",
+            "욥기의 '동방 사람들'과 연관될 수 있습니다",
+            "고대로부터 그 지역에 거주한 원주민으로 추정됩니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 이 땅에 살고 있던 민족들의 이름을 다 말씀하셨을까요?",
+        "answer": "하나님은 아브람에게 정확히 어떤 땅을 주실지 분명하게 알려주고 싶으셨어요. 마치 부모님이 '우리 새 집은 저기 있는 파란 지붕 집이야'라고 구체적으로 알려주는 것처럼요. 그리고 이 땅에 다른 민족들이 살고 있지만, 하나님이 주시겠다고 약속하셨으니 반드시 아브람의 자손이 받게 될 거예요. 이것은 하나님의 약속이 얼마나 구체적이고 확실한지를 보여주는 거랍니다.",
+        "bibleReferences": [
+          "출애굽기 3:8 - '내가 내려가서 그들을 애굽인의 손에서 건져내고... 젖과 꿀이 흐르는 땅 곧 가나안 족속... 의 지방에 데려가려 하노라'",
+          "신명기 7:1 - '네 하나님 여호와께서 네가 차지하고 들어갈 땅으로 너를 인도하사 네 앞에서 여러 민족을 쫓아내실 때'",
+          "여호수아 24:11 - '너희가 요단을 건너 여리고에 이른즉... 가나안 족속이 너희와 싸웠으나 내가 그들을 너희의 손에 넘겨 주었으며'",
+          "시편 105:11 - '이르시되 내가 가나안 땅을 네게 주어 너희 기업의 지경이 되게 하리라 하셨도다'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하나님이 이 민족들의 이름을 구체적으로 나열하신 것은 약속의 확실성과 구체성을 보여줍니다. 하나님의 계획은 막연하지 않고 정확하며, 역사 속에서 실제로 이루어집니다. 동시에 이것은 하나님의 심판을 예고하기도 합니다. 이 민족들은 400년 후 그들의 죄악이 가득 찰 때 이스라엘을 통해 심판받게 됩니다(15:16). 하나님의 약속 성취는 동시에 죄에 대한 공의로운 심판이기도 합니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_15_20",
+    "reference": "창세기 15:20",
+    "hebrew": "וְאֶת־הַחִתִּי וְאֶת־הַפְּרִזִּי וְאֶת־הָרְפָאִים׃",
+    "ipa": "vəʔɛt-hahittiˈ vəʔɛt-happərizˈzi vəʔɛt-harəfaˈʔim",
+    "koreanPronunciation": "베에트 하히티 베에트 하페리지 베에트 하레파임",
+    "modern": "헷 족속과 브리스 족속과 르바 족속",
+    "words": [
+      {
+        "hebrew": "הַחִתִּי",
+        "meaning": "헷 족속, 히타이트",
+        "ipa": "hahittiˈ",
+        "korean": "하히티",
+        "letters": "הַ(ha) + חִ(hi) + תִּי(ti)",
+        "root": "חֵת (헤트)",
+        "grammar": "명사",
+        "emoji": "🏛️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-hittite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient><linearGradient id=\"nations20-stone1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#nations20-stone1)\" /><path d=\"M 8 44 L 32 20 L 56 44\" fill=\"url(#nations20-hittite1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"18\" y=\"32\" width=\"8\" height=\"12\" fill=\"url(#nations20-stone1)\" /><rect x=\"38\" y=\"32\" width=\"8\" height=\"12\" fill=\"url(#nations20-stone1)\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"8\" fill=\"#654321\" rx=\"2\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+        "relatedWords": [
+          "חֵת (헤트 - 함의 아들)",
+          "אֶפְרוֹן (에브론 - 아브라함에게 땅을 판 헷 족속)"
+        ]
+      },
+      {
+        "hebrew": "הַפְּרִזִּי",
+        "meaning": "브리스 족속",
+        "ipa": "happərizˈzi",
+        "korean": "하페리지",
+        "letters": "הַ(ha) + פְּ(pe) + רִ(ri) + זִּי(zi)",
+        "root": "פְּרָזִי (페라지)",
+        "grammar": "명사",
+        "emoji": "🌾",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-perizzite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\" /><stop offset=\"100%\" stop-color=\"#BDB76B\" /></linearGradient><linearGradient id=\"nations20-field1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\" /><stop offset=\"100%\" stop-color=\"#556B2F\" /></linearGradient></defs><rect x=\"0\" y=\"32\" width=\"64\" height=\"32\" fill=\"url(#nations20-field1)\" /><path d=\"M 16 32 Q 16 24 18 20 L 18 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 24 32 Q 24 20 26 16 L 26 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 32 32 Q 32 18 34 14 L 34 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 40 32 Q 40 20 42 16 L 42 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 48 32 Q 48 24 50 20 L 50 32\" fill=\"url(#nations20-perizzite1)\" /><ellipse cx=\"32\" cy=\"12\" rx=\"16\" ry=\"8\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.5))\" /></svg>",
+        "relatedWords": [
+          "פְּרָזָה (페라자 - 성벽 없는 촌락)",
+          "פְּרָזוֹן (페라존 - 시골, 농촌)"
+        ]
+      },
+      {
+        "hebrew": "הָרְפָאִים",
+        "meaning": "르바 족속, 거인들",
+        "ipa": "harəfaˈʔim",
+        "korean": "하레파임",
+        "letters": "הָ(ha) + רְ(re) + פָ(fa) + אִים(im)",
+        "root": "רָפָא (라파)",
+        "grammar": "명사",
+        "emoji": "👹",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-rephaim1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"nations20-shadow1\"><stop offset=\"0%\" stop-color=\"#000000\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#000000\" opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"58\" rx=\"24\" ry=\"4\" fill=\"url(#nations20-shadow1)\" /><rect x=\"26\" y=\"16\" width=\"12\" height=\"42\" rx=\"6\" fill=\"url(#nations20-rephaim1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"10\" r=\"8\" fill=\"url(#nations20-rephaim1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"24\" width=\"8\" height=\"20\" rx=\"4\" fill=\"url(#nations20-rephaim1)\" /><rect x=\"38\" y=\"24\" width=\"8\" height=\"20\" rx=\"4\" fill=\"url(#nations20-rephaim1)\" /><line x1=\"12\" y1=\"48\" x2=\"52\" y2=\"48\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /><line x1=\"12\" y1=\"54\" x2=\"52\" y2=\"54\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+        "relatedWords": [
+          "עֲנָקִים (아나킴 - 거인족)",
+          "גִּבּוֹר (기보르 - 용사, 거인)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 15:20은 가나안 땅에 거주하던 세 주요 족속을 언급합니다. 헷 족속은 강력한 제국을 이루었던 히타이트의 후손이고, 브리스 족속은 성벽 없는 촌락에 거주하던 농경민이며, 르바 족속은 전설적인 거인족입니다. 이들은 각각 다른 특징과 문화를 가진 민족으로, 가나안 땅의 다양성을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "הַחִתִּי (하히티) - 헷 족속",
+          "description": "헷 족속은 소아시아(현 터키)의 강력한 히타이트 제국과 연관된 민족입니다. 성경에서 이들은 가나안 땅의 주요 거주민 중 하나로 자주 언급됩니다. 아브라함은 헷 족속 에브론으로부터 막벨라 굴을 매입했고(창 23장), 에서는 헷 족속 여인들과 결혼했습니다(창 26:34).",
+          "points": [
+            "헷 족속은 함의 아들 헤트의 후손입니다(창 10:15)",
+            "이들은 가나안 중부 산지, 특히 헤브론 지역에 거주했습니다",
+            "히타이트 제국(기원전 1600-1200년)과 연관이 있습니다",
+            "아브라함과 이삭 시대에 이미 가나안에 정착해 있었습니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "הַפְּרִזִּי (하페리지) - 브리스 족속",
+          "description": "'페라지'는 '성벽 없는 촌락에 사는 사람'을 의미합니다. 브리스 족속은 도시 국가를 이루지 않고 농촌 지역에 분산되어 살았던 민족으로 추정됩니다. 이들은 가나안 족속과 함께 자주 언급되며, 평화로운 농경민이었던 것으로 보입니다.",
+          "points": [
+            "브리스 족속은 성벽 없는 시골 마을에 거주했습니다",
+            "이들은 도시 국가가 아닌 농경 공동체를 이루었습니다",
+            "가나안 중부 산지의 숲이 우거진 지역에 살았습니다",
+            "기원이 불분명하지만 가나안의 원주민으로 여겨집니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "הָרְפָאִים (하레파임) - 르바 족속",
+          "description": "르바 족속은 '거인들'로 알려진 전설적인 민족입니다. 이들은 요단 동편, 특히 바산과 아모리 지역에 거주했으며, 신명기는 이들을 '키가 크고 수가 많은' 민족으로 묘사합니다(신 2:20-21). 바산 왕 옥이 마지막 르바 족속이었다고 기록되어 있습니다(신 3:11).",
+          "points": [
+            "르바 족속은 키가 크고 강력한 거인족이었습니다",
+            "이들은 요단 동편 바산과 길르앗 지역에 거주했습니다",
+            "아나킴 족속도 르바 족속의 일부로 여겨집니다",
+            "바산 왕 옥의 침상이 4미터가 넘었다고 기록됩니다(신 3:11)"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "מֶמְשָׁלָה (멤샬라) - 하나님의 주권",
+          "description": "이 세 족속은 각각 제국의 후손(헷), 농경민(브리스), 거인족(르바)으로 매우 다른 특징을 가지고 있습니다. 그럼에도 불구하고 하나님은 이 모든 민족의 땅을 아브람의 후손에게 주시겠다고 약속하십니다. 이는 하나님의 주권이 모든 민족과 모든 땅 위에 있음을 보여줍니다.",
+          "points": [
+            "각 민족은 고유한 문화와 강점을 가지고 있었습니다",
+            "어떤 민족도 하나님의 계획을 막을 수 없습니다",
+            "하나님은 거인족조차도 이스라엘 앞에서 물리치십니다",
+            "민족의 크기나 힘이 아니라 하나님의 약속이 역사를 결정합니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 거인족이 사는 땅까지 아브람의 후손에게 주시겠다고 하셨을까요?",
+        "answer": "르바 족속은 정말 크고 무섭고 강한 사람들이었어요. 마치 우리가 무서워하는 괴물처럼요. 그런데 하나님은 '거인족이 살고 있어도 괜찮아, 내가 너희 편이니까 너희가 이길 수 있어'라고 말씀하신 거예요. 하나님은 아무리 크고 강한 적이라도 하나님보다 강할 수 없다는 것을 보여주신 거랍니다. 우리가 무서운 것을 만나도 하나님이 함께하시면 이길 수 있어요!",
+        "bibleReferences": [
+          "민수기 13:33 - '거기서 네피림 후손인 아낙 자손의 거인들을 보았나니 우리는 스스로 보기에도 메뚜기 같았고'",
+          "신명기 3:11 - '바산 왕 옥은 르바의 남은 족속이라 그의 침상은 철 침상이니 길이가 아홉 규빗이요 너비가 네 규빗이라'",
+          "신명기 9:2 - '그 백성은 강하고 키가 큰 아낙 자손이라... 누가 아낙 자손을 능히 당하리요'",
+          "여호수아 11:21-22 - '그 때에 여호수아가... 아낙 족속을 진멸하였으므로 이스라엘 자손의 산지에는 아낙 족속이 하나도 남지 아니하였고'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "이 세 족속의 다양성은 하나님의 약속이 얼마나 포괄적인지를 보여줍니다. 제국의 후손이든, 평화로운 농민이든, 무시무시한 거인족이든 상관없이 하나님은 그들의 땅을 이스라엘에게 주실 것입니다. 이는 우리에게도 적용됩니다. 우리 앞에 어떤 장애물이 있든지, 그것이 아무리 크고 강해 보이든지, 하나님의 약속은 반드시 성취됩니다. '너희를 위하여 싸우실 이는 너희 하나님 여호와시니라'(신 3:22)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_15_21",
+    "reference": "창세기 15:21",
+    "hebrew": "וְאֶת־הָאֱמֹרִי וְאֶת־הַכְּנַעֲנִי וְאֶת־הַגִּרְגָּשִׁי וְאֶת־הַיְבוּסִי׃",
+    "ipa": "vəʔɛt-haʔɛmoriˈ vəʔɛt-hakkənaʕaniˈ vəʔɛt-haggirgaʃiˈ vəʔɛt-hajəvusiˈ",
+    "koreanPronunciation": "베에트 하에모리 베에트 하케나아니 베에트 하기르가쉬 베에트 하예부시",
+    "modern": "아모리 족속과 가나안 족속과 기르가스 족속과 여부스 족속이라",
+    "words": [
+      {
+        "hebrew": "הָאֱמֹרִי",
+        "meaning": "아모리 족속",
+        "ipa": "haʔɛmoriˈ",
+        "korean": "하에모리",
+        "letters": "הָ(ha) + אֱ(e) + מֹ(mo) + רִי(ri)",
+        "root": "אֱמֹרִי (에모리)",
+        "grammar": "명사",
+        "emoji": "⛰️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven21-amorite1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><linearGradient id=\"seven21-sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#B0C4DE\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#seven21-sky1)\" /><path d=\"M 0 56 L 16 40 L 32 48 L 48 32 L 64 44 L 64 64 L 0 64 Z\" fill=\"url(#seven21-amorite1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 28 48 L 32 36 L 36 48\" fill=\"#654321\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#FFFF00\" opacity=\"0.7\" /></svg>",
+        "relatedWords": [
+          "הַר (하르 - 산)",
+          "גִּבּוֹר (기보르 - 용사)"
+        ]
+      },
+      {
+        "hebrew": "הַכְּנַעֲנִי",
+        "meaning": "가나안 족속",
+        "ipa": "hakkənaʕaniˈ",
+        "korean": "하케나아니",
+        "letters": "הַ(ha) + כְּ(ke) + נַ(na) + עֲ(a) + נִי(ni)",
+        "root": "כְּנַעַן (케나안)",
+        "grammar": "명사",
+        "emoji": "🏙️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven21-canaanite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#8B6914\" /></linearGradient><linearGradient id=\"seven21-wall1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2B48C\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient></defs><rect x=\"8\" y=\"32\" width=\"48\" height=\"28\" fill=\"url(#seven21-wall1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"24\" width=\"8\" height=\"12\" fill=\"url(#seven21-canaanite1)\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"16\" fill=\"url(#seven21-canaanite1)\" /><rect x=\"40\" y=\"24\" width=\"8\" height=\"12\" fill=\"url(#seven21-canaanite1)\" /><rect x=\"20\" y=\"44\" width=\"6\" height=\"8\" fill=\"#654321\" rx=\"1\" /><rect x=\"38\" y=\"44\" width=\"6\" height=\"8\" fill=\"#654321\" rx=\"1\" /><path d=\"M 4 60 L 32 12 L 60 60\" stroke=\"#8B6914\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+        "relatedWords": [
+          "כְּנַעַן (케나안 - 가나안 땅)",
+          "סֹחֵר (소헤르 - 상인)"
+        ]
+      },
+      {
+        "hebrew": "הַגִּרְגָּשִׁי",
+        "meaning": "기르가스 족속",
+        "ipa": "haggirgaʃiˈ",
+        "korean": "하기르가쉬",
+        "letters": "הַ(ha) + גִּ(gi) + רְגָּ(r'ga) + שִׁי(shi)",
+        "root": "גִּרְגָּשִׁי (기르가쉬)",
+        "grammar": "명사",
+        "emoji": "🌊",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven21-girgashite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E3A5F\" /></linearGradient><linearGradient id=\"seven21-wave1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" opacity=\"0.3\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" opacity=\"0.3\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#seven21-girgashite1)\" /><path d=\"M 0 36 Q 8 32 16 36 Q 24 40 32 36 Q 40 32 48 36 Q 56 40 64 36 L 64 48 Q 56 44 48 48 Q 40 52 32 48 Q 24 44 16 48 Q 8 52 0 48 Z\" fill=\"url(#seven21-wave1)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"24\" rx=\"12\" ry=\"8\" fill=\"#4169E1\" opacity=\"0.5\" filter=\"drop-shadow(0 0 8px rgba(65, 105, 225, 0.6))\" /></svg>",
+        "relatedWords": [
+          "גֵּרְשׁוֹם (게르숌 - 이름)",
+          "גָּרַשׁ (가라쉬 - 쫓아내다)"
+        ]
+      },
+      {
+        "hebrew": "הַיְבוּסִי",
+        "meaning": "여부스 족속",
+        "ipa": "hajəvusiˈ",
+        "korean": "하예부시",
+        "letters": "הַ(ha) + יְ(ye) + בוּ(vu) + סִי(si)",
+        "root": "יְבוּס (예부스)",
+        "grammar": "명사",
+        "emoji": "🏰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven21-jebusite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" /></linearGradient><linearGradient id=\"seven21-fortress1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient></defs><rect x=\"12\" y=\"36\" width=\"40\" height=\"24\" fill=\"url(#seven21-jebusite1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.5))\" /><rect x=\"8\" y=\"32\" width=\"4\" height=\"8\" fill=\"url(#seven21-fortress1)\" /><rect x=\"52\" y=\"32\" width=\"4\" height=\"8\" fill=\"url(#seven21-fortress1)\" /><rect x=\"20\" y=\"28\" width=\"8\" height=\"12\" fill=\"url(#seven21-fortress1)\" /><rect x=\"36\" y=\"28\" width=\"8\" height=\"12\" fill=\"url(#seven21-fortress1)\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"20\" fill=\"url(#seven21-fortress1)\" /><rect x=\"26\" y=\"46\" width=\"12\" height=\"10\" fill=\"#8B4513\" rx=\"2\" /><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
+        "relatedWords": [
+          "יְבוּס (예부스 - 예루살렘의 옛 이름)",
+          "יְרוּשָׁלַיִם (예루살라임 - 예루살렘)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 15:21은 10개 민족 목록의 마지막 네 족속을 언급하며 아브라함 언약의 땅 약속을 완성합니다. 아모리 족속은 산지의 강력한 왕국들을, 가나안 족속은 해안 평야의 상업 도시들을, 기르가스 족속은 신비로운 원주민을, 여부스 족속은 예루살렘의 원래 주인을 대표합니다. 이렇게 총 10개 민족을 나열함으로써 하나님은 약속의 땅의 완전한 소유를 선언하십니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "הָאֱמֹרִי (하에모리) - 아모리 족속",
+          "description": "'에모리'는 '산지 사람' 또는 '높은 곳의 사람'을 의미합니다. 아모리 족속은 가나안 땅에서 가장 강력한 민족 중 하나로, 요단 동편과 서편 산지에 왕국들을 세웠습니다. 시혼 왕과 옥 왕이 대표적인 아모리 왕들입니다. 성경에서 '아모리 족속'은 때때로 가나안 전체 거주민을 대표하는 용어로 사용되기도 합니다.",
+          "points": [
+            "아모리 족속은 가나안의 산지에 강력한 왕국을 세웠습니다",
+            "시혼과 옥은 요단 동편을 지배한 아모리 왕들이었습니다(민 21:21-35)",
+            "예루살렘을 포함한 다섯 아모리 왕국이 남부를 지배했습니다(수 10:5)",
+            "'아모리 족속의 죄악이 아직 가득 차지 않았다'(창 15:16)는 표현이 사용됩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "הַכְּנַעֲנִי (하케나아니) - 가나안 족속",
+          "description": "가나안 족속은 이 땅의 이름을 제공한 주요 민족입니다. '케나안'은 '낮은 땅' 또는 '자주색(상인)'을 의미하며, 이들은 주로 해안 평야와 계곡에 거주하며 상업 활동에 종사했습니다. 페니키아인들이 가나안 족속의 후손으로 여겨집니다.",
+          "points": [
+            "가나안은 함의 아들로 노아에게 저주받았습니다(창 9:25)",
+            "가나안 족속은 해안 평야와 요단 계곡에 주로 거주했습니다",
+            "이들은 상업과 무역으로 유명했으며 부유했습니다",
+            "페니키아(두로, 시돈)가 가나안 족속의 도시들입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "הַגִּרְגָּשִׁי (하기르가쉬) - 기르가스 족속",
+          "description": "기르가스 족속은 10개 민족 중 가장 신비��운 민족입니다. 성경에서 이 족속에 대한 구체적인 언급이 거의 없으며, 그들의 위치와 역사가 불분명합니다. 유대 전승에 따르면 이들은 이스라엘이 오는 것을 보고 스스로 땅을 떠나 아프리카로 이주했다고 합니다.",
+          "points": [
+            "기르가스 족속은 가나안의 아들로 기록됩니다(창 10:16)",
+            "이들에 대한 역사적 기록이 거의 없습니다",
+            "아마도 갈릴리 호수 동편이나 북쪽에 거주했을 것으로 추정됩니다",
+            "유대 전승에서는 평화롭게 땅을 떠난 유일한 민족으로 기록됩니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "הַיְבוּסִי (하예부시) - 여부스 족속",
+          "description": "여부스 족속은 예루살렘(여부스)의 원래 주인입니다. 이들은 강력한 요새 도시를 건설했으며, 다윗 시대까지 예루살렘을 지배했습니다. 다윗이 여부스를 정복하고 '다윗 성'으로 만든 것이 통일 이스라엘 왕국의 수도가 되었습니다.",
+          "points": [
+            "여부스는 예루살렘의 옛 이름입니다(사사기 19:10)",
+            "여부스 족속은 요새화된 산성을 건설했습니다",
+            "이스라엘 정복 이후에도 예루살렘을 계속 지배했습니다(수 15:63)",
+            "다윗이 여부스를 정복하여 이스라엘의 수도로 삼았습니다(삼하 5:6-9)"
+          ],
+          "color": "pink"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "שִׁבְעָה גוֹיִם (쉬바 고임) - 일곱 민족의 완전한 정복",
+          "description": "성경은 대부분의 경우 가나안의 '일곱 민족'을 언급하지만(신 7:1), 여기서는 10개 민족이 나열됩니다. 10은 성경에서 완전함을 상징하는 숫자로, 약속의 땅의 완전한 소유를 의미합니다. 일곱 민족은 보통 헷, 기르가스, 아모리, 가나안, 브리스, 히위, 여부스를 가리킵니다.",
+          "points": [
+            "10개 민족 목록은 약속의 땅의 완전한 범위를 나타냅니다",
+            "일곱 민족(신 7:1)은 실제 정복 대상을 의미합니다",
+            "각 민족은 가나안 땅의 다른 지역과 문화를 대표합니다",
+            "하나님의 약속은 한 민족도 예외 없이 모든 땅을 포함합니다"
+          ],
+          "color": "orange"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 이렇게 많은 민족들의 이름을 하나하나 말씀하셨을까요?",
+        "answer": "하나님은 아브람에게 '어딘가에 땅을 줄게'가 아니라, 정확히 어떤 땅의 어떤 민족들을 다 이기고 그 땅을 받을 것인지 구체적으로 알려주신 거예요. 마치 보물지도처럼요! 10개나 되는 민족 이름을 하나하나 말씀하신 것은 '하나도 빠짐없이 다 네 것이 될 거야'라는 뜻이에요. 나중에 여호수아가 이 땅을 차지할 때, 하나님이 약속하신 대로 정확히 이루어졌답니다. 그리고 그중에 여부스라는 민족이 살던 도시가 나중에 예루살렘이 되어서, 예수님이 오신 곳이 되었어요!",
+        "bibleReferences": [
+          "신명기 7:1 - '네 하나님 여호와께서 네가 차지하고 들어갈 땅으로 너를 인도하사 네 앞에서 일곱 족속 곧 헷 족속과 기르가스 족속과 아모리 족속과 가나안 족속과 브리스 족속과 히위 족속과 여부스 족속을 쫓아내실 때'",
+          "여호수아 3:10 - '살아 계신 하나님이 너희 가운데에 계시사 가나안 족속과... 여부스 족속을 너희 앞에서 반드시 쫓아내실 줄을 이것으로 알리라'",
+          "사무엘하 5:6-7 - '왕과 그의 사람들이 예루살렘으로 가서... 다윗이 시온 산성을 빼앗았으니 이는 다윗 성이더라'",
+          "여호수아 21:43-45 - '여호와께서... 그들의 조상들에게 맹세하신 온 땅을 이스라엘에게 다 주셨으므로... 여호와께서 이스라엘 족속에게 말씀하신 선한 말씀이 하나도 남김없이 다 응하였더라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "10개 민족의 나열은 하나님 약속의 구체성과 완전성을 보여줍니다. 하나님의 계획은 막연하지 않고 역사 속에서 구체적으로 성취됩니다. 특히 여부스 족속이 거주하던 예루살렘이 다윗의 수도가 되고, 솔로몬 성전이 세워지고, 궁극적으로 예수 그리스도가 십자가에 달리신 곳이 된 것은 우연이 아닙니다. 아브라함에게 주신 약속은 그리스도를 통해 모든 민족이 복을 받는 것으로 확장되었고(창 12:3, 갈 3:8), 이제 예루살렘은 '위에 있는 예루살렘'(갈 4:26)으로 모든 믿는 자의 영적 고향이 되었습니다."
+      }
+    }
+  }
+]

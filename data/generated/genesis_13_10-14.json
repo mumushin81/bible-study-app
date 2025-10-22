@@ -1,0 +1,797 @@
+[
+  {
+    "verseId": "genesis_13_10",
+    "ipa": "vajiˈsa lot ʔɛt ʕeˈnav vajˈjarʔ ʔɛt kol kikˈkar hajarˈden ki xoˈla maʃˈka lifˈne ʃaˈxet jəhoˈva ʔɛt səˈdom vəʔɛt ʕamoˈra kəˈɡan jəhoˈva kəˈʔerɛʦ miʦˈrajim boʔaˈxa ʦoˈʕar",
+    "koreanPronunciation": "바이사 롯 에트 에나브 바야르 에트 콜 키카르 하야르덴 키 콜라 마쉬카 리프네 샤헤트 예호와 에트 스돔 베에트 아모라 케간 예호와 케에레츠 미츠라임 보아하 쪼아르",
+    "modern": "롯이 눈을 들어 요단 온 들을 바라보니, 여호와께서 소돔과 고모라를 멸하시기 전이라 소알까지 온 땅에 물이 넉넉하니 여호와의 동산 같고 애굽 땅과 같았습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּשָּׂא",
+        "meaning": "그리고 들어올리다",
+        "ipa": "vajiˈsa",
+        "korean": "바이사",
+        "letters": "וַ(va) + יִּ(yi) + שָּׂא(sa)",
+        "root": "נ-שׂ-א (나사)",
+        "grammar": "동사",
+        "emoji": "👁️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-eyes1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient><radialGradient id=\"lot-pupil1\"><stop offset=\"0%\" stop-color=\"#000000\"/><stop offset=\"100%\" stop-color=\"#333333\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"url(#lot-eyes1)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#lot-pupil1)\"/><circle cx=\"29\" cy=\"29\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\"/><path d=\"M 12 26 Q 32 20 52 26\" stroke=\"#4682B4\" stroke-width=\"3\" fill=\"none\"/></svg>"
+      },
+      {
+        "hebrew": "לוֹט",
+        "meaning": "롯",
+        "ipa": "lot",
+        "korean": "롯",
+        "letters": "לוֹ(lo) + ט(t)",
+        "root": "לוֹט (롯)",
+        "grammar": "명사",
+        "emoji": "🧑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-person1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#lot-person1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"16\" fill=\"url(#lot-person1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"28\" cy=\"18\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"18\" r=\"2\" fill=\"#333\"/></svg>"
+      },
+      {
+        "hebrew": "אֶת עֵינָיו",
+        "meaning": "그의 눈들을",
+        "ipa": "ʔɛt ʕeˈnav",
+        "korean": "에트 에나브",
+        "letters": "אֶת(et) + עֵ(e) + ינָיו(nav)",
+        "root": "ע-י-ן (아인)",
+        "grammar": "명사",
+        "emoji": "👀",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-eyes2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4169E1\"/></linearGradient></defs><ellipse cx=\"22\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#lot-eyes2)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.3))\"/><ellipse cx=\"42\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#lot-eyes2)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.3))\"/><circle cx=\"22\" cy=\"32\" r=\"4\" fill=\"#000\"/><circle cx=\"42\" cy=\"32\" r=\"4\" fill=\"#000\"/><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/></svg>"
+      },
+      {
+        "hebrew": "וַיַּרְא",
+        "meaning": "그리고 보다",
+        "ipa": "vajˈjarʔ",
+        "korean": "바야르",
+        "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+        "root": "ר-א-ה (라아)",
+        "grammar": "동사",
+        "emoji": "🔍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-see1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"none\" stroke=\"url(#lot-see1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 6px rgba(255, 165, 0, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#lot-see1)\"/><line x1=\"44\" y1=\"44\" x2=\"52\" y2=\"52\" stroke=\"url(#lot-see1)\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "כִּכַּר הַיַּרְדֵּן",
+        "meaning": "요단의 둥근 평야",
+        "ipa": "kikˈkar hajarˈden",
+        "korean": "키카르 하야르덴",
+        "letters": "כִּ(ki) + כַּר(kar) + הַ(ha) + יַּרְדֵּן(yarden)",
+        "root": "כ-ר-ר (카라르)",
+        "grammar": "명사",
+        "emoji": "🌄",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jordan-plain1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"50%\" stop-color=\"#9ACD32\"/><stop offset=\"100%\" stop-color=\"#6B8E23\"/></linearGradient><linearGradient id=\"jordan-river1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"50%\" stop-color=\"#5F9EA0\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#jordan-plain1)\"/><path d=\"M 8 36 Q 20 32 32 36 Q 44 40 56 36 L 56 48 Q 44 44 32 48 Q 20 52 8 48 Z\" fill=\"url(#jordan-river1)\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.3))\"/><circle cx=\"16\" cy=\"20\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\"/><circle cx=\"48\" cy=\"24\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\"/></svg>"
+      },
+      {
+        "hebrew": "כֻּלָּהּ",
+        "meaning": "그것 전체",
+        "ipa": "kuˈla",
+        "korean": "쿨라",
+        "letters": "כֻּ(ku) + לָּהּ(lah)",
+        "root": "כ-ל-ל (칼랄)",
+        "grammar": "명사",
+        "emoji": "💯",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"lot-all1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#lot-all1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#lot-all1)\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 6px rgba(255, 165, 0, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#lot-all1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.6))\"/></svg>"
+      },
+      {
+        "hebrew": "מַשְׁקֶה",
+        "meaning": "물이 넉넉함",
+        "ipa": "maʃˈke",
+        "korean": "마쉬케",
+        "letters": "מַ(ma) + שְׁקֶה(shke)",
+        "root": "שׁ-ק-ה (샤카)",
+        "grammar": "명사",
+        "emoji": "💧",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"50%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 32 12 Q 28 20 32 28 Q 36 36 32 44 Q 28 52 32 56 Q 36 52 32 44 Q 28 36 32 28 Q 36 20 32 12\" fill=\"url(#lot-water1)\" filter=\"drop-shadow(0 3px 6px rgba(30, 144, 255, 0.5))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>"
+      },
+      {
+        "hebrew": "לִפְנֵי",
+        "meaning": "~전에",
+        "ipa": "lifˈne",
+        "korean": "리프네",
+        "letters": "לִ(li) + פְנֵי(fne)",
+        "root": "פ-נ-ה (파나)",
+        "grammar": "전치사",
+        "emoji": "⏮️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-before1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#E1BEE7\"/></linearGradient></defs><path d=\"M 48 32 L 32 20 L 32 28 L 16 28 L 16 36 L 32 36 L 32 44 Z\" fill=\"url(#lot-before1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "שַׁחֵת יְהוָה",
+        "meaning": "여호와께서 멸하시다",
+        "ipa": "ʃaˈxet jəhoˈva",
+        "korean": "샤헤트 예호와",
+        "letters": "שַׁ(sha) + חֵת(het) + יְ(ye) + הוָה(hovah)",
+        "root": "שׁ-ח-ת (샤하트)",
+        "grammar": "동사",
+        "emoji": "🔥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-warning1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"50%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><path d=\"M 32 52 L 28 40 Q 24 32 28 24 L 32 12 L 36 24 Q 40 32 36 40 Z\" fill=\"url(#sodom-warning1)\" filter=\"drop-shadow(0 3px 8px rgba(255, 69, 0, 0.6))\"/><path d=\"M 26 44 Q 22 36 26 28\" fill=\"url(#sodom-warning1)\" opacity=\"0.7\"/><path d=\"M 38 44 Q 42 36 38 28\" fill=\"url(#sodom-warning1)\" opacity=\"0.7\"/></svg>"
+      },
+      {
+        "hebrew": "סְדֹם וְאֶת עֲמֹרָה",
+        "meaning": "소돔과 고모라를",
+        "ipa": "səˈdom vəʔɛt ʕamoˈra",
+        "korean": "스돔 베에트 아모라",
+        "letters": "סְ(se) + דֹם(dom) + וְ(ve) + עֲ(a) + מֹרָה(morah)",
+        "root": "סְדֹם (스돔)",
+        "grammar": "명사",
+        "emoji": "🏙️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-cities1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><linearGradient id=\"sodom-fire1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"12\" height=\"20\" fill=\"url(#sodom-cities1)\"/><rect x=\"36\" y=\"32\" width=\"12\" height=\"24\" fill=\"url(#sodom-cities1)\"/><rect x=\"18\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"24\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"38\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"44\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><path d=\"M 22 36 L 22 28 L 20 32 L 24 32 Z\" fill=\"url(#sodom-fire1)\" opacity=\"0.4\"/><path d=\"M 42 32 L 42 24 L 40 28 L 44 28 Z\" fill=\"url(#sodom-fire1)\" opacity=\"0.4\"/></svg>"
+      },
+      {
+        "hebrew": "כְּגַן יְהוָה",
+        "meaning": "여호와의 동산같이",
+        "ipa": "kəˈɡan jəhoˈva",
+        "korean": "케간 예호와",
+        "letters": "כְּ(ke) + גַן(gan) + יְ(ye) + הוָה(hovah)",
+        "root": "ג-נ-ן (가난)",
+        "grammar": "명사",
+        "emoji": "🌳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eden-garden1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"50%\" stop-color=\"#228B22\"/><stop offset=\"100%\" stop-color=\"#006400\"/></linearGradient><radialGradient id=\"eden-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#eden-glow1)\" opacity=\"0.3\"/><circle cx=\"28\" cy=\"24\" r=\"12\" fill=\"url(#eden-garden1)\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.5))\"/><circle cx=\"36\" cy=\"26\" r=\"10\" fill=\"url(#eden-garden1)\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#eden-garden1)\" opacity=\"0.9\"/><rect x=\"30\" y=\"40\" width=\"4\" height=\"12\" fill=\"#8B4513\"/></svg>"
+      },
+      {
+        "hebrew": "כְּאֶרֶץ מִצְרַיִם",
+        "meaning": "애굽 땅같이",
+        "ipa": "kəˈʔerɛʦ miʦˈrajim",
+        "korean": "케에레츠 미츠라임",
+        "letters": "כְּ(ke) + אֶ(e) + רֶץ(retz) + מִ(mi) + צְרַיִם(tzrayim)",
+        "root": "א-ר-ץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🏜️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#F4A460\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><linearGradient id=\"egypt-nile1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#5F9EA0\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#egypt-land1)\"/><path d=\"M 8 40 Q 20 36 32 40 Q 44 44 56 40 L 56 48 L 8 48 Z\" fill=\"url(#egypt-nile1)\" opacity=\"0.6\"/><path d=\"M 20 16 L 28 24 L 24 24 L 24 32 L 16 32 L 16 24 L 12 24 Z\" fill=\"#FFD700\" opacity=\"0.5\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 13장 10절은 롯의 선택의 순간을 기록합니다. 롯이 눈을 들어 요단 평야를 바라본 것은 단순한 관찰이 아니라 탐욕적인 욕망의 시작이었습니다. 소돔과 고모라가 멸망하기 전 그곳은 에덴동산처럼 아름답고 풍요로웠지만, 롯은 외적인 풍요만 보고 영적 위험을 보지 못했습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּשָּׂא לוֹט אֶת עֵינָיו (바이사 롯 에트 에나브) - 롯이 눈을 들어",
+          "description": "'눈을 들다'는 표현은 성경에서 중요한 선택의 순간을 나타냅니다. 아브라함도 눈을 들어 하나님의 약속을 보았지만(창 13:14), 롯은 눈을 들어 세상의 풍요를 보았습니다. 같은 행동이지만 다른 방향을 향했습니다.",
+          "points": [
+            "눈을 들어 무엇을 보느냐가 우리 선택을 결정합니다",
+            "롯은 육신의 눈으로만 보고 신앙의 눈으로 보지 못했습니다",
+            "외적 풍요가 반드시 하나님의 축복은 아닙니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "כִּכַּר הַיַּרְדֵּן (키카르 하야르덴) - 요단의 둥근 평야",
+          "description": "'키카르'는 '둥근 것', '평야'를 의미하며, 요단 강 주변의 비옥한 평지를 가리킵니다. 이 지역은 당시 농업과 목축에 최적의 조건을 갖춘 곳이었지만, 동시에 악한 소돔과 고모라가 위치한 곳이었습니다.",
+          "points": [
+            "요단 평야는 물이 풍부하고 비옥한 땅이었습니다",
+            "외적 조건만으로 선택하는 것은 위험합니다",
+            "소돔과 고모라의 죄악을 간과한 선택"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "כְּגַן יְהוָה (케간 예호와) - 여호와의 동산같이",
+          "description": "이 표현은 에덴동산을 연상시킵니다. 요단 평야가 에덴동산처럼 아름답고 풍요로웠다는 것은 하나님의 창조의 완전함을 보여주지만, 동시에 타락 이전의 완전함은 이미 상실되었음을 암시합니다.",
+          "points": [
+            "외적으로는 에덴동산처럼 아름다웠지만 영적으로는 타락한 곳",
+            "진정한 '여호와의 동산'은 하나님의 임재가 있는 곳입니다",
+            "겉모습의 아름다움이 내면의 거룩함을 보장하지 않습니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "לִפְנֵי שַׁחֵת יְהוָה (리프네 샤헤트 예호와) - 여호와께서 멸하시기 전",
+          "description": "본문은 의도적으로 '소돔과 고모라 멸망 전'이라는 시간적 배경을 명시합니다. 이는 롯이 본 풍요가 일시적이며, 하나님의 심판이 임할 것임을 예고합니다. 죄악이 가득한 곳의 풍요는 오래가지 못합니다.",
+          "points": [
+            "겉으로 보기 좋은 것이 영원하지 않습니다",
+            "하나님의 심판이 임하면 모든 것이 사라집니다",
+            "롯의 선택은 결국 큰 손실로 이어집니다 (창 19장)"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "롯은 왜 그렇게 아름다운 요단 평야를 선택했나요?",
+        "answer": "롯이 본 요단 평야는 정말 아름답고 물도 많아서 농사짓기에 최고였어요. 마치 하나님의 에덴동산이나 애굽의 나일강처럼 풍요로웠답니다. 롯은 그 아름다움만 보고 그곳을 선택했어요. 하지만 그곳에는 나쁜 사람들이 사는 소돔과 고모라라는 도시가 있었는데, 롯은 그것을 생각하지 않았어요. 겉으로만 보기 좋은 것을 선택하면 나중에 후회할 수 있어요.",
+        "bibleReferences": [
+          "마태복음 6:33 - '너희는 먼저 그의 나라와 그의 의를 구하라'",
+          "요한일서 2:16 - '육신의 정욕과 안목의 정욕과 이생의 자랑'",
+          "창세기 19:24-25 - '여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사'",
+          "누가복음 17:28-29 - '롯의 때와 같으리니... 롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비 오듯 하여'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "롯의 선택은 '안목의 정욕'(요일 2:16)의 전형적인 예입니다. 외적 풍요와 현세적 이익만을 추구하는 선택은 영적 파멸로 이어질 수 있습니다. 진정한 축복은 하나님의 임재와 말씀이 있는 곳에 있으며, 우리는 보이는 것이 아니라 믿음으로 선택해야 합니다. 롯의 선택은 결국 모든 것을 잃는 결과로 이어졌지만(창 19장), 아브라함의 선택은 영원한 축복의 근원이 되었습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_11",
+    "ipa": "vajivˈxar lo lot ʔet kol kikˈkar hajarˈden vajiˈsa lot miˈkedem vajipaˈrədu ʔiʃ meˈʕal ʔaˈxiv",
+    "koreanPronunciation": "바이브하르 로 롯 에트 콜 키카르 하야르덴 바이사 롯 미케뎀 바이파르두 이쉬 메알 아히브",
+    "modern": "이에 롯이 요단 온 들을 선택한 후 동쪽으로 떠나니, 그들이 서로 떠났습니다",
+    "words": [
+      {
+        "hebrew": "וַיִּבְחַר",
+        "meaning": "그리고 선택하다",
+        "ipa": "vajivˈxar",
+        "korean": "바이브하르",
+        "letters": "וַ(va) + יִּ(yi) + בְחַר(vhar)",
+        "root": "ב-ח-ר (바하르)",
+        "grammar": "동사",
+        "emoji": "👈",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-choice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C92A2A\"/></linearGradient></defs><path d=\"M 32 12 L 24 32 L 12 32 L 32 48 L 52 32 L 40 32 Z\" fill=\"url(#lot-choice1)\" filter=\"drop-shadow(0 3px 6px rgba(201, 42, 42, 0.4))\"/><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "לוֹ לוֹט",
+        "meaning": "자신을 위해 롯이",
+        "ipa": "lo lot",
+        "korean": "로 롯",
+        "letters": "לוֹ(lo) + לוֹט(lot)",
+        "root": "לוֹט (롯)",
+        "grammar": "명사",
+        "emoji": "🙋",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-self1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#lot-self1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"16\" fill=\"url(#lot-self1)\"/><path d=\"M 18 30 L 12 20\" stroke=\"url(#lot-self1)\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"10\" cy=\"18\" r=\"4\" fill=\"url(#lot-self1)\"/></svg>"
+      },
+      {
+        "hebrew": "מִקֶּדֶם",
+        "meaning": "동쪽으로부터",
+        "ipa": "miˈkedem",
+        "korean": "미케뎀",
+        "letters": "מִ(mi) + קֶּ(ke) + דֶם(dem)",
+        "root": "ק-ד-ם (카담)",
+        "grammar": "명사",
+        "emoji": "🌅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-east1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"50%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><circle cx=\"48\" cy=\"24\" r=\"14\" fill=\"url(#lot-east1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 140, 0, 0.5))\"/><line x1=\"48\" y1=\"8\" x2=\"48\" y2=\"16\"/><line x1=\"60\" y1=\"12\" x2=\"56\" y2=\"16\"/><line x1=\"64\" y1=\"24\" x2=\"56\" y2=\"24\"/><line x1=\"60\" y1=\"36\" x2=\"56\" y2=\"32\"/><g stroke=\"#FFD700\" stroke-width=\"2\"><line x1=\"48\" y1=\"8\" x2=\"48\" y2=\"16\"/><line x1=\"60\" y1=\"12\" x2=\"56\" y2=\"16\"/><line x1=\"64\" y1=\"24\" x2=\"56\" y2=\"24\"/><line x1=\"60\" y1=\"36\" x2=\"56\" y2=\"32\"/></g><path d=\"M 8 48 L 24 48\" stroke=\"#4682B4\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-east1)\"/><defs><marker id=\"lot-arrow-east1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#4682B4\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "וַיִּסַּע",
+        "meaning": "그리고 떠나다",
+        "ipa": "vajiˈsa",
+        "korean": "바이사",
+        "letters": "וַ(va) + יִּ(yi) + סַּע(sa)",
+        "root": "נ-ס-ע (나사)",
+        "grammar": "동사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-depart1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"44\" cy=\"20\" r=\"8\" fill=\"url(#lot-depart1)\"/><ellipse cx=\"44\" cy=\"38\" rx=\"10\" ry=\"12\" fill=\"url(#lot-depart1)\"/><path d=\"M 34 50 L 30 56\" stroke=\"url(#lot-depart1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 54 50 L 58 56\" stroke=\"url(#lot-depart1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 12 32 L 56 32\" stroke=\"url(#lot-depart1)\" stroke-width=\"2\" stroke-dasharray=\"4 2\" opacity=\"0.5\"/></svg>"
+      },
+      {
+        "hebrew": "וַיִּפָּרְדוּ",
+        "meaning": "그리고 떨어지다, 분리되다",
+        "ipa": "vajipaˈrədu",
+        "korean": "바이파르두",
+        "letters": "וַ(va) + יִּ(yi) + פָּרְדוּ(par'du)",
+        "root": "פ-ר-ד (파라드)",
+        "grammar": "동사",
+        "emoji": "↔️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-separate1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#4ECDC4\"/></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"10\" fill=\"#FF6B6B\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 107, 0.4))\"/><circle cx=\"44\" cy=\"32\" r=\"10\" fill=\"#4ECDC4\" filter=\"drop-shadow(0 2px 4px rgba(78, 205, 196, 0.4))\"/><line x1=\"20\" y1=\"32\" x2=\"8\" y2=\"32\" stroke=\"#FF6B6B\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-left1)\"/><line x1=\"44\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"#4ECDC4\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-right1)\"/><defs><marker id=\"lot-arrow-left1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"0\" refY=\"3\" orient=\"auto\"><path d=\"M 9 0 L 9 6 L 0 3 Z\" fill=\"#FF6B6B\"/></marker><marker id=\"lot-arrow-right1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#4ECDC4\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "אִישׁ מֵעַל אָחִיו",
+        "meaning": "사람이 그의 형제로부터",
+        "ipa": "ʔiʃ meˈʕal ʔaˈxiv",
+        "korean": "이쉬 메알 아히브",
+        "letters": "אִישׁ(ish) + מֵ(me) + עַל(al) + אָ(a) + חִיו(hiv)",
+        "root": "א-ח (아흐)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-brothers1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#673AB7\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#lot-brothers1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#lot-brothers1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.3))\"/><ellipse cx=\"24\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#lot-brothers1)\" opacity=\"0.8\"/><ellipse cx=\"40\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#lot-brothers1)\" opacity=\"0.8\"/><path d=\"M 30 36 L 34 36\" stroke=\"#9C27B0\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 13장 11절은 롯의 선택이 실행되는 순간을 기록합니다. '선택했다'는 히브리어 '바하르'는 의도적이고 결정적인 선택을 의미합니다. 이 선택으로 아브라함과 롯은 물리적으로뿐 아니라 영적으로도 분리되었습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּבְחַר לוֹ (바이브하르 로) - 자신을 위해 선택하다",
+          "description": "'자신을 위해'라는 표현이 강조됩니다. 롯의 선택은 철저히 자기 중심적이었습니다. 그는 삼촌 아브라함을 배려하지 않고, 하나님의 뜻도 구하지 않고, 오직 자신의 이익만을 추구했습니다.",
+          "points": [
+            "자기 중심적 선택은 결국 손실로 이어집니다",
+            "아브라함은 양보했지만 더 큰 축복을 받았습니다 (13:14-17)",
+            "이기적인 선택은 하나님과의 관계를 해칩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "מִקֶּדֶם (미케뎀) - 동쪽으로",
+          "description": "성경에서 '동쪽으로 가다'는 종종 하나님으로부터 멀어지는 것을 상징합니다. 아담과 하와가 에덴 동쪽으로 쫓겨났고 (창 3:24), 가인도 에덴 동쪽 놋 땅으로 떠났습니다 (창 4:16). 롯도 동쪽으로 가면서 영적으로 하나님과 멀어졌습니다.",
+          "points": [
+            "동쪽은 성경에서 하나님의 임재로부터 떠남을 상징",
+            "지리적 이동이 영적 이동을 반영합니다",
+            "외적 풍요를 선택했지만 영적 빈곤으로 향했습니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיִּפָּרְדוּ (바이파르두) - 분리되다",
+          "description": "'파라드'는 '분리되다', '나뉘다'를 의미하는 동사입니다. 이 분리는 단순한 물리적 분리가 아니라 영적 방향의 분리였습니다. 아브라함은 가나안에 남아 하나님의 약속을 붙들었고, 롯은 소돔을 향해 갔습니다.",
+          "points": [
+            "선택은 결국 분리를 가져옵니다",
+            "세상과 하나님을 동시에 섬길 수 없습니다 (마 6:24)",
+            "물리적 분리 이상의 영적 방향의 차이"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "아브라함과 롯은 왜 서로 헤어졌나요?",
+        "answer": "롯이 자기가 보기에 좋은 요단 평야를 선택하고 그곳으로 떠났기 때문이에요. 삼촌 아브라함은 롯에게 먼저 선택하라고 양보했는데, 롯은 제일 좋아 보이는 곳을 골랐어요. 그래서 롯은 동쪽 요단 평야로 갔고, 아브라함은 가나안 땅에 남게 되었답니다. 때로는 우리의 선택이 사랑하는 사람과의 이별을 가져올 수 있어요.",
+        "bibleReferences": [
+          "창세기 13:9 - '네 앞에 온 땅이 있지 아니하냐 나를 떠나가라'",
+          "야고보서 4:4 - '세상과 벗된 것이 하나님과 원수 됨을 알지 못하느냐'",
+          "마태복음 6:24 - '한 사람이 두 주인을 섬기지 못할 것이니'",
+          "요한일서 2:15 - '이 세상이나 세상에 있는 것들을 사랑하지 말라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "롯의 선택은 자기 중심적 결정의 위험성을 경고합니다. 외적 풍요와 이익만을 추구하는 선택은 결국 하나님과의 분리, 영적 공동체로부터의 이탈로 이어집니다. 반면 아브라함의 양보는 더 큰 축복을 가져왔습니다. 하나님 나라에서는 자기를 낮추는 자가 높아지고, 양보하는 자가 더 큰 것을 얻습니다 (마 5:5, 빌 2:3-11)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_12",
+    "ipa": "ˈavram jaˈʃav bəˈʔerɛʦ kəˈnaʕan vəlot jaˈʃav bəʕare hakikˈkar vajeˈʔɛhal ʕad səˈdom",
+    "koreanPronunciation": "아브람 야샤브 베에레츠 케나안 베롯 야샤브 베아레 하키카르 바예에할 아드 스돔",
+    "modern": "아브람은 가나안 땅에 거주하였고, 롯은 평지의 성읍들에 거주하며 점점 소돔까지 장막을 옮겼습니다",
+    "words": [
+      {
+        "hebrew": "אַבְרָם",
+        "meaning": "아브람",
+        "ipa": "ˈavram",
+        "korean": "아브람",
+        "letters": "אַ(av) + בְרָם(ram)",
+        "root": "אַבְרָם (아브람)",
+        "grammar": "명사",
+        "emoji": "👴",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-faith1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#B8860B\"/></linearGradient><radialGradient id=\"abram-blessing1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#abram-blessing1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#abram-faith1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"14\" fill=\"url(#abram-faith1)\"/><path d=\"M 32 10 L 32 16\" stroke=\"#FFD700\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"8\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "יָשַׁב",
+        "meaning": "거주하다",
+        "ipa": "jaˈʃav",
+        "korean": "야샤브",
+        "letters": "יָ(ya) + שַׁב(shav)",
+        "root": "י-שׁ-ב (야샤브)",
+        "grammar": "동사",
+        "emoji": "🏕️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-dwell1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient></defs><path d=\"M 32 16 L 12 40 L 52 40 Z\" fill=\"url(#abram-dwell1)\" filter=\"drop-shadow(0 2px 4px rgba(210, 105, 30, 0.4))\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#8B4513\"/><path d=\"M 32 16 L 32 12\" stroke=\"#D2691E\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"10\" r=\"2\" fill=\"#FFD700\"/></svg>"
+      },
+      {
+        "hebrew": "בְּאֶרֶץ כְּנַעַן",
+        "meaning": "가나안 땅에",
+        "ipa": "bəˈʔerɛʦ kəˈnaʕan",
+        "korean": "베에레츠 케나안",
+        "letters": "בְּ(be) + אֶ(e) + רֶץ(retz) + כְּ(ke) + נַעַן(na'an)",
+        "root": "א-ר-ץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🗺️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-canaan1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"50%\" stop-color=\"#6B8E23\"/><stop offset=\"100%\" stop-color=\"#556B2F\"/></linearGradient><radialGradient id=\"abram-promise-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"4\" fill=\"url(#abram-canaan1)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#abram-promise-glow1)\" opacity=\"0.4\"/><path d=\"M 20 28 L 32 20 L 44 28 L 44 44 L 20 44 Z\" fill=\"#8B4513\" opacity=\"0.6\"/><path d=\"M 28 36 L 28 44\" stroke=\"#FFD700\" stroke-width=\"2\"/><path d=\"M 36 36 L 36 44\" stroke=\"#FFD700\" stroke-width=\"2\"/></svg>"
+      },
+      {
+        "hebrew": "וְלוֹט",
+        "meaning": "그리고 롯은",
+        "ipa": "vəlot",
+        "korean": "베롯",
+        "letters": "וְ(ve) + לוֹט(lot)",
+        "root": "לוֹט (롯)",
+        "grammar": "명사",
+        "emoji": "🧑‍🦱",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-contrast1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#A9A9A9\"/></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#lot-contrast1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#lot-contrast1)\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#333\"/></svg>"
+      },
+      {
+        "hebrew": "בְּעָרֵי הַכִּכָּר",
+        "meaning": "평야의 성읍들에",
+        "ipa": "bəʕare hakikˈkar",
+        "korean": "베아레 하키카르",
+        "letters": "בְּ(be) + עָ(a) + רֵי(re) + הַ(ha) + כִּכָּר(kikar)",
+        "root": "ע-י-ר (이르)",
+        "grammar": "명사",
+        "emoji": "🏘️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-cities1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B0B0B0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient></defs><rect x=\"12\" y=\"32\" width=\"12\" height=\"20\" fill=\"url(#lot-cities1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><rect x=\"28\" y=\"28\" width=\"12\" height=\"24\" fill=\"url(#lot-cities1)\"/><rect x=\"44\" y=\"36\" width=\"12\" height=\"16\" fill=\"url(#lot-cities1)\"/><rect x=\"14\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/><rect x=\"30\" y=\"32\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/><rect x=\"46\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/></svg>"
+      },
+      {
+        "hebrew": "וַיֶּאֱהַל",
+        "meaning": "그리고 장막을 치다",
+        "ipa": "vajeˈʔɛhal",
+        "korean": "바예에할",
+        "letters": "וַ(va) + יֶּ(ye) + אֱהַל(ehal)",
+        "root": "א-ה-ל (아할)",
+        "grammar": "동사",
+        "emoji": "⛺",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-tent1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"lot-shadow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"rgba(0,0,0,0.3)\"/><stop offset=\"100%\" stop-color=\"rgba(0,0,0,0)\"/></linearGradient></defs><path d=\"M 32 20 L 16 44 L 48 44 Z\" fill=\"url(#lot-tent1)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\"/><rect x=\"30\" y=\"44\" width=\"4\" height=\"10\" fill=\"#654321\"/><ellipse cx=\"32\" cy=\"54\" rx=\"16\" ry=\"4\" fill=\"url(#lot-shadow1)\"/></svg>"
+      },
+      {
+        "hebrew": "עַד סְדֹם",
+        "meaning": "소돔까지",
+        "ipa": "ʕad səˈdom",
+        "korean": "아드 스돔",
+        "letters": "עַד(ad) + סְ(se) + דֹם(dom)",
+        "root": "סְדֹם (스돔)",
+        "grammar": "명사",
+        "emoji": "🔥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-sodom1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"50%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><rect x=\"20\" y=\"36\" width=\"24\" height=\"20\" fill=\"#2F4F4F\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.4))\"/><rect x=\"24\" y=\"42\" width=\"4\" height=\"6\" fill=\"#FF4500\" opacity=\"0.6\"/><rect x=\"36\" y=\"42\" width=\"4\" height=\"6\" fill=\"#FF4500\" opacity=\"0.6\"/><path d=\"M 26 36 L 26 28 Q 24 32 22 28 L 24 32 Z\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(0 0 4px rgba(255, 69, 0, 0.6))\"/><path d=\"M 38 36 L 38 28 Q 36 32 34 28 L 36 32 Z\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(0 0 4px rgba(255, 69, 0, 0.6))\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 13장 12절은 아브라함과 롯의 대조적인 거처를 보여줍니다. 아브라함은 가나안 땅에 거주했고, 롯은 점차 소돔으로 가까이 갔습니다. '장막을 쳤다'는 표현은 단순한 물리적 이동이 아니라 점진적인 영적 타협을 의미합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "יָשַׁב בְּאֶרֶץ כְּנַעַן (야샤브 베에레츠 케나안) - 가나안 땅에 거주하다",
+          "description": "아브라함이 '거주했다'는 것은 하나님의 약속의 땅에 머물렀다는 의미입니다. 그는 외적으로는 덜 풍요로워 보이는 땅을 선택했지만, 이곳이 하나님께서 약속하신 언약의 땅이었습니다.",
+          "points": [
+            "하나님의 약속을 신뢰하고 그 땅에 머물렀습니다",
+            "외적 조건보다 하나님의 말씀을 따랐습니다",
+            "가나안은 후에 이스라엘의 기업이 될 약속의 땅"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "בְּעָרֵי הַכִּכָּר (베아레 하키카르) - 평야의 성읍들에",
+          "description": "롯은 '성읍들'에 거주했습니다. 이는 문명의 편리함과 도시의 풍요를 추구했다는 의미입니다. 그러나 이 성읍들은 소돔과 고모라를 포함한 죄악된 도시들이었습니다.",
+          "points": [
+            "문명의 편리함과 세상적 풍요를 선택했습니다",
+            "영적 위험을 간과한 채 물질적 이익만 추구",
+            "성읍들은 곧 하나님의 심판을 받을 곳들"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "וַיֶּאֱהַל עַד סְדֹם (바예에할 아드 스돔) - 소돔까지 장막을 치다",
+          "description": "'소돔까지'라는 표현은 점진적인 타협을 보여줍니다. 처음에는 멀리서 바라보다가(10절), 평야로 이동하고(11절), 이제는 소돔 가까이까지 장막을 쳤습니다. 다음 장(14:12)에서는 소돔 성 안에 살게 됩니다.",
+          "points": [
+            "죄와의 타협은 점진적으로 이루어집니다",
+            "처음에는 '가까이'만 하다가 결국 '안'으로 들어가게 됩니다",
+            "작은 타협이 큰 영적 위기로 이어집니다"
+          ],
+          "color": "orange"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "אֹהֶל בְּכְנַעַן וְאֹהֶל עַד סְדֹם (오헬 베크나안 베오헬 아드 세돔) - 두 가지 장막",
+          "description": "이 구절은 아브라함과 롯의 선택이 가져온 결과를 대조적으로 보여줍니다. 아브라함은 약속의 땅에 장막을 치며 순례자로 살았고, 롯은 세상 도시에 정착하며 편안함을 추구했습니다.",
+          "points": [
+            "아브라함: 약속을 신뢰하며 순례자의 삶",
+            "롯: 현세적 안정을 추구하며 세상과 타협",
+            "우리의 거처는 우리의 가치관을 반영합니다 (히 11:9-10)"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "롯은 왜 점점 소돔 가까이로 장막을 옮겼나요?",
+        "answer": "롯은 처음에는 멀리서 소돔을 바라보기만 했어요. 하지만 그곳이 너무 좋아 보여서 조금씩 가까이 갔답니다. 처음에는 '조금만'이라고 생각했겠지만, 점점 더 가까이 가다가 결국 소돔 성 안에 살게 되었어요. 이것은 우리가 나쁜 것에 조금씩 가까이 가면 결국 그 안으로 들어가게 된다는 것을 보여줘요. 그래서 처음부터 나쁜 것과는 멀리 떨어져 있어야 해요.",
+        "bibleReferences": [
+          "창세기 14:12 - '소돔에 거주하는 아브람의 조카 롯도 사로잡고'",
+          "창세기 19:1 - '그 때에 롯이 소돔 성문에 앉았더라'",
+          "야고보서 1:14-15 - '각 사람이 시험을 받는 것은 자기 욕심에 끌려 미혹됨이니'",
+          "히브리서 11:9-10 - '믿음으로 그가 이방의 땅에 있는 것 같이 약속의 땅에 거류하여'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "이 구절은 '점진적 타협'의 위험성을 경고합니다. 롯의 소돔행은 한순간에 이루어진 것이 아니라 단계적으로 진행되었습니다: 바라봄(10절) → 선택(11절) → 가까이 장막을 침(12절) → 성 안에 거주(14:12). 반면 아브라함은 약속의 땅에 순례자로 거하며 영원한 성을 바라보았습니다(히 11:10). 우리의 거처는 우리의 시민권이 어디에 있는지를 보여줍니다(빌 3:20)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_13",
+    "ipa": "vəʔanˈʃe səˈdom raˈʕim vəxataˈʔim lajhoˈva məˈʔod",
+    "koreanPronunciation": "베안셰 스돔 라임 베하타임 라예호와 메오드",
+    "modern": "소돔 사람들은 여호와 앞에 악하며 큰 죄인이었습니다",
+    "words": [
+      {
+        "hebrew": "וְאַנְשֵׁי",
+        "meaning": "그리고 사람들",
+        "ipa": "vəʔanˈʃe",
+        "korean": "베안셰",
+        "letters": "וְ(ve) + אַ(an) + נְשֵׁי(she)",
+        "root": "א-נ-שׁ (에노쉬)",
+        "grammar": "명사",
+        "emoji": "👥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-people1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4B0082\"/><stop offset=\"100%\" stop-color=\"#8B008B\"/></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.8\"/><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/><ellipse cx=\"20\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/><ellipse cx=\"32\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.8\"/><ellipse cx=\"44\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/></svg>"
+      },
+      {
+        "hebrew": "סְדֹם",
+        "meaning": "소돔",
+        "ipa": "səˈdom",
+        "korean": "스돔",
+        "letters": "סְ(se) + דֹם(dom)",
+        "root": "סְדֹם (스돔)",
+        "grammar": "명사",
+        "emoji": "🏙️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-city1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2F4F4F\"/><stop offset=\"100%\" stop-color=\"#000000\"/></linearGradient><linearGradient id=\"sodom-evil1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#FF0000\"/></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"28\" fill=\"url(#sodom-city1)\" filter=\"drop-shadow(0 2px 6px rgba(0,0,0,0.5))\"/><rect x=\"20\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><rect x=\"30\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><rect x=\"40\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><path d=\"M 32 8 L 28 20 L 36 20 Z\" fill=\"url(#sodom-evil1)\" opacity=\"0.4\"/></svg>"
+      },
+      {
+        "hebrew": "רָעִים",
+        "meaning": "악한",
+        "ipa": "raˈʕim",
+        "korean": "라임",
+        "letters": "רָ(ra) + עִים(im)",
+        "root": "ר-ע-ע (라아)",
+        "grammar": "형용사",
+        "emoji": "😈",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-evil-glow1\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#000000\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sodom-evil-glow1)\" filter=\"drop-shadow(0 2px 8px rgba(139, 0, 0, 0.6))\"/><circle cx=\"24\" cy=\"28\" r=\"4\" fill=\"#FF0000\"/><circle cx=\"40\" cy=\"28\" r=\"4\" fill=\"#FF0000\"/><path d=\"M 20 40 Q 32 36 44 40\" stroke=\"#FF0000\" stroke-width=\"3\" fill=\"none\"/></svg>"
+      },
+      {
+        "hebrew": "וְחַטָּאִים",
+        "meaning": "그리고 죄인들",
+        "ipa": "vəxataˈʔim",
+        "korean": "베하타임",
+        "letters": "וְ(ve) + חַ(ha) + טָּאִים(ta'im)",
+        "root": "ח-ט-א (하타)",
+        "grammar": "명사",
+        "emoji": "⚠️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-sin1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><polygon points=\"32,8 38,24 56,24 42,36 48,52 32,40 16,52 22,36 8,24 26,24\" fill=\"url(#sodom-sin1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 69, 0, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#000000\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" fill=\"#FFFFFF\" font-weight=\"bold\">!</text></svg>"
+      },
+      {
+        "hebrew": "לַיהוָה",
+        "meaning": "여호와 앞에",
+        "ipa": "lajhoˈva",
+        "korean": "라예호와",
+        "letters": "לַ(la) + יְ(ye) + הוָה(hovah)",
+        "root": "י-ה-ו-ה (야훼)",
+        "grammar": "명사",
+        "emoji": "👁️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-yhwh-eye1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"url(#sodom-yhwh-eye1)\" opacity=\"0.3\"/><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#4682B4\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#000000\"/><circle cx=\"30\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+      },
+      {
+        "hebrew": "מְאֹד",
+        "meaning": "매우, 크게",
+        "ipa": "məˈʔod",
+        "korean": "메오드",
+        "letters": "מְ(me) + אֹד(od)",
+        "root": "מ-א-ד (마오드)",
+        "grammar": "부사",
+        "emoji": "‼️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-very1\"><stop offset=\"0%\" stop-color=\"#FF0000\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#sodom-very1)\" filter=\"drop-shadow(0 3px 8px rgba(255, 0, 0, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#sodom-very1)\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 6px rgba(255, 0, 0, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#sodom-very1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 0, 0, 0.7))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"20\" fill=\"#FFFFFF\" font-weight=\"bold\">!</text></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 13장 13절은 소돔의 도덕적 상태를 단호하게 선언합니다. 이 구절은 롯이 선택한 땅의 영적 실상을 폭로하며, 외적 풍요가 내적 부패를 가릴 수 없음을 보여줍니다. '여호와 앞에'라는 표현은 하나님께서 그들의 죄를 보고 계심을 강조합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "רָעִים (라임) - 악한",
+          "description": "'라'는 '악하다', '나쁘다'를 의미하는 히브리어입니다. 이는 단순한 도덕적 결함이 아니라 하나님의 성품에 정면으로 반대되는 적극적인 악을 의미합니다. 소돔 사람들은 선을 행하지 않은 소극적 죄가 아니라 적극적으로 악을 행했습니다.",
+          "points": [
+            "적극적이고 의도적인 악행",
+            "하나님의 성품과 완전히 반대되는 삶",
+            "개인의 죄가 아닌 사회 전체의 부패 (창 19:4)"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "חַטָּאִים (하타임) - 죄인들",
+          "description": "'하타'는 '과녁을 빗나가다', '죄를 짓다'를 의미합니다. 소돔 사람들은 하나님께서 정하신 기준을 완전히 벗어나 살았습니다. 그들의 삶은 하나님의 목적과 계획에서 완전히 이탈한 상태였습니다.",
+          "points": [
+            "하나님의 기준에서 완전히 벗어난 삶",
+            "계속적이고 습관적인 죄의 상태",
+            "회개하지 않는 완고함 (창 19:9)"
+          ],
+          "color": "orange"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "לַיהוָה (라예호와) - 여호와 앞에",
+          "description": "이 표현은 소돔의 죄가 사람들 앞에서만이 아니라 하나님 앞에서 저지른 것임을 강조합니다. 하나님께서 그들의 모든 행위를 보고 계시며, 심판하실 것입니다. 사람들은 속일 수 있어도 하나님은 속일 수 없습니다.",
+          "points": [
+            "하나님께서 모든 것을 보고 계십니다",
+            "죄는 궁극적으로 하나님께 대한 것입니다 (시 51:4)",
+            "숨겨진 죄도 하나님 앞에서는 드러납니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "מְאֹד (메오드) - 매우, 크게",
+          "description": "'메오드'는 '매우', '심히', '극도로'를 의미하는 강조 부사입니다. 소돔의 죄는 정도를 넘어섰고, 하나님의 인내의 한계를 초과했습니다. 이는 임박한 심판을 예고합니다.",
+          "points": [
+            "죄의 극도로 심각한 상태",
+            "하나님의 심판이 불가피함을 암시",
+            "롯이 선택한 곳의 영적 위험성이 극대화됨"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "소돔 사람들은 왜 그렇게 나빴나요?",
+        "answer": "소돔 사람들은 하나님을 믿지 않고 아주 나쁜 일들을 많이 했어요. 그들은 서로 사랑하지도 않고, 가난한 사람들을 돕지도 않았으며, 하나님께서 싫어하시는 일들을 계속했답니다. 성경은 그들이 '여호와 앞에 매우 악하고 큰 죄인'이었다고 말해요. 하나님께서는 모든 것을 보고 계시는데, 소돔 사람들은 하나님 앞에서도 계속 나쁜 일을 했어요. 그래서 나중에 하나님께서 그 도시를 심판하셨답니다.",
+        "bibleReferences": [
+          "창세기 18:20 - '소돔과 고모라에 대한 부르짖음이 크고 그들의 죄악이 심히 무거우니'",
+          "창세기 19:4-5 - '그들이 눕기 전에 그 성 사람 곧 소돔 백성들이... 집을 에워싸되'",
+          "에스겔 16:49 - '네 아우 소돔의 죄악은 이것이니 그와 그의 딸들에게 교만함과 음식물의 풍족함과 태평함이 있음이며'",
+          "유다서 1:7 - '소돔과 고모라와 그 이웃 도시들도... 음란하며 다른 육체를 따라 가므로'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "이 구절은 외적 풍요가 내적 부패를 가릴 수 없음을 보여줍니다. 소돔은 경제적으로 번영했지만(13:10) 영적으로는 완전히 타락했습니다. 롯의 선택은 이제 그 진정한 대가를 드러내기 시작합니다. 우리는 보이는 것으로 판단하지 말고, 하나님의 관점에서 선택해야 합니다. 모든 것은 '여호와 앞에' 평가되며, 숨겨진 죄도 결국 드러나고 심판받게 됩니다 (전 12:14)."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_13_14",
+    "ipa": "vajhoˈva ʔaˈmar ʔɛl ˈavram ʔaxaˈre hipaˈred lot meʕiˈmo sa na ʕeˈnexa ureˈʔe min hamaˈkom ʔaˈʃer ʔaˈta ʃam ʦaˈfona vaˈneɡva vaˈkedma vaˈjama",
+    "koreanPronunciation": "바예호와 아마르 엘 아브람 아하레 히파레드 롯 메이모 사 나 에네하 우레에 민 하마콤 아셰르 아타 샴 차포나 바네그바 바케드마 바야마",
+    "modern": "롯이 아브람을 떠난 후에 여호와께서 아브람에게 이르시되, '너는 네가 있는 곳에서 눈을 들어 북쪽과 남쪽, 동쪽과 서쪽을 바라보라'",
+    "words": [
+      {
+        "hebrew": "וַיהוָה",
+        "meaning": "그리고 여호와께서",
+        "ipa": "vajhoˈva",
+        "korean": "바예호와",
+        "letters": "וַ(va) + יְ(ye) + הוָה(hovah)",
+        "root": "י-ה-ו-ה (야훼)",
+        "grammar": "명사",
+        "emoji": "✨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"abram-yhwh1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"abram-light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#abram-yhwh1)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#abram-yhwh1)\" opacity=\"0.6\"/><g stroke=\"url(#abram-light1)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"18\"/><line x1=\"48\" y1=\"12\" x2=\"42\" y2=\"20\"/><line x1=\"56\" y1=\"28\" x2=\"46\" y2=\"30\"/><line x1=\"56\" y1=\"36\" x2=\"46\" y2=\"34\"/><line x1=\"48\" y1=\"52\" x2=\"42\" y2=\"44\"/><line x1=\"32\" y1=\"56\" x2=\"32\" y2=\"46\"/><line x1=\"16\" y1=\"52\" x2=\"22\" y2=\"44\"/><line x1=\"8\" y1=\"36\" x2=\"18\" y2=\"34\"/></g><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\"/></svg>"
+      },
+      {
+        "hebrew": "אָמַר אֶל אַבְרָם",
+        "meaning": "아브람에게 말씀하시다",
+        "ipa": "ʔaˈmar ʔɛl ˈavram",
+        "korean": "아마르 엘 아브람",
+        "letters": "אָ(a) + מַר(mar) + אֶל(el) + אַבְרָם(avram)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-speak1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient><radialGradient id=\"abram-word1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><rect x=\"16\" y=\"16\" width=\"38\" height=\"26\" rx=\"6\" fill=\"url(#abram-speak1)\" filter=\"drop-shadow(0 2px 6px rgba(30, 144, 255, 0.4))\"/><path d=\"M 28 42 L 24 50 L 32 42 Z\" fill=\"url(#abram-speak1)\"/><circle cx=\"24\" cy=\"26\" r=\"2\" fill=\"url(#abram-word1)\"/><circle cx=\"32\" cy=\"26\" r=\"2\" fill=\"url(#abram-word1)\"/><circle cx=\"40\" cy=\"26\" r=\"2\" fill=\"url(#abram-word1)\"/><path d=\"M 20 32 L 44 32\" stroke=\"#FFD700\" stroke-width=\"2\"/></svg>"
+      },
+      {
+        "hebrew": "אַחֲרֵי הִפָּרֶד לוֹט",
+        "meaning": "롯이 떠난 후에",
+        "ipa": "ʔaxaˈre hipaˈred lot",
+        "korean": "아하레 히파레드 롯",
+        "letters": "אַ(a) + חֲרֵי(hare) + הִ(hi) + פָּרֶד(pared) + לוֹט(lot)",
+        "root": "פ-ר-ד (파라드)",
+        "grammar": "동사",
+        "emoji": "⏰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-after1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#abram-after1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(106, 27, 154, 0.4))\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#abram-after1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#abram-after1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#9C27B0\"/></svg>"
+      },
+      {
+        "hebrew": "שָׂא נָא עֵינֶיךָ",
+        "meaning": "네 눈을 들어라",
+        "ipa": "sa na ʕeˈnexa",
+        "korean": "사 나 에네하",
+        "letters": "שָׂא(sa) + נָא(na) + עֵ(e) + ינֶיךָ(nekha)",
+        "root": "נ-שׂ-א (나사)",
+        "grammar": "동사",
+        "emoji": "👁️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-eyes1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient><radialGradient id=\"abram-vision1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><ellipse cx=\"22\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#abram-eyes1)\" filter=\"drop-shadow(0 2px 4px rgba(30, 144, 255, 0.3))\"/><ellipse cx=\"42\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#abram-eyes1)\" filter=\"drop-shadow(0 2px 4px rgba(30, 144, 255, 0.3))\"/><circle cx=\"22\" cy=\"32\" r=\"5\" fill=\"#000\"/><circle cx=\"42\" cy=\"32\" r=\"5\" fill=\"#000\"/><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"16\" r=\"12\" fill=\"url(#abram-vision1)\" opacity=\"0.4\"/></svg>"
+      },
+      {
+        "hebrew": "וּרְאֵה",
+        "meaning": "그리고 보라",
+        "ipa": "ureˈʔe",
+        "korean": "우레에",
+        "letters": "וּ(u) + רְאֵה(re'e)",
+        "root": "ר-א-ה (라아)",
+        "grammar": "동사",
+        "emoji": "👀",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"abram-see1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#abram-see1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#abram-see1)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"18\" stroke=\"#FFD700\" stroke-width=\"2\"/><line x1=\"48\" y1=\"16\" x2=\"42\" y2=\"22\" stroke=\"#FFD700\" stroke-width=\"2\"/><line x1=\"56\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"#FFD700\" stroke-width=\"2\"/><line x1=\"48\" y1=\"48\" x2=\"42\" y2=\"42\" stroke=\"#FFD700\" stroke-width=\"2\"/></svg>"
+      },
+      {
+        "hebrew": "מִן הַמָּקוֹם",
+        "meaning": "그 장소로부터",
+        "ipa": "min hamaˈkom",
+        "korean": "민 하마콤",
+        "letters": "מִן(min) + הַ(ha) + מָּקוֹם(makom)",
+        "root": "ק-ו-ם (쿰)",
+        "grammar": "명사",
+        "emoji": "📍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-place1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C92A2A\"/></linearGradient></defs><path d=\"M 32 12 Q 20 12 20 24 Q 20 36 32 52 Q 44 36 44 24 Q 44 12 32 12 Z\" fill=\"url(#abram-place1)\" filter=\"drop-shadow(0 3px 6px rgba(201, 42, 42, 0.4))\"/><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"#FFFFFF\"/></svg>"
+      },
+      {
+        "hebrew": "צָפֹנָה",
+        "meaning": "북쪽으로",
+        "ipa": "ʦaˈfona",
+        "korean": "차포나",
+        "letters": "צָ(tsa) + פֹנָה(fonah)",
+        "root": "צ-פ-ן (차판)",
+        "grammar": "명사",
+        "emoji": "⬆️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-north1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#87CEEB\"/></linearGradient></defs><path d=\"M 32 52 L 32 16 L 22 26 M 32 16 L 42 26\" stroke=\"url(#abram-north1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "וָנֶגְבָּה",
+        "meaning": "그리고 남쪽으로",
+        "ipa": "vaˈneɡva",
+        "korean": "바네그바",
+        "letters": "וָ(va) + נֶגְבָּה(negbah)",
+        "root": "נ-ג-ב (네게브)",
+        "grammar": "명사",
+        "emoji": "⬇️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-south1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><path d=\"M 32 12 L 32 48 L 22 38 M 32 48 L 42 38\" stroke=\"url(#abram-south1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 140, 0, 0.4))\"/><circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "וָקֵדְמָה",
+        "meaning": "그리고 동쪽으로",
+        "ipa": "vaˈkedma",
+        "korean": "바케드마",
+        "letters": "וָ(va) + קֵדְמָה(kedmah)",
+        "root": "ק-ד-ם (카담)",
+        "grammar": "명사",
+        "emoji": "➡️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-east1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><path d=\"M 12 32 L 48 32 L 38 22 M 48 32 L 38 42\" stroke=\"url(#abram-east1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 215, 0, 0.4))\"/><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "וָיָמָּה",
+        "meaning": "그리고 서쪽으로(바다쪽)",
+        "ipa": "vaˈjama",
+        "korean": "바야마",
+        "letters": "וָ(va) + יָמָּה(yamah)",
+        "root": "י-מ-ם (얌)",
+        "grammar": "명사",
+        "emoji": "⬅️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-west1\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#87CEEB\"/></linearGradient></defs><path d=\"M 52 32 L 16 32 L 26 22 M 16 32 L 26 42\" stroke=\"url(#abram-west1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#87CEEB\" filter=\"drop-shadow(0 0 4px rgba(135, 206, 235, 0.8))\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 13장 14절은 롯이 떠난 직후 하나님께서 아브라함에게 주신 위로와 약속의 말씀입니다. 롯이 가장 좋은 땅을 선택하고 떠났을 때, 아브라함은 외적으로는 손해를 본 것처럼 보였습니다. 그러나 하나님께서는 이 순간 아브라함에게 나타나셔서 훨씬 더 큰 약속을 주셨습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "אַחֲרֵי הִפָּרֶד לוֹט (아하레 히파레드 롯) - 롯이 떠난 후에",
+          "description": "하나님께서는 롯이 떠난 바로 그 순간에 아브라함에게 말씀하셨습니다. 이는 하나님의 완벽한 타이밍을 보여줍니다. 인간적 손실의 순간이 하나님의 축복의 시작점이 되었습니다. 롯과의 분리가 완전히 이루어진 후에야 하나님의 온전한 약속이 주어졌습니다.",
+          "points": [
+            "하나님의 위로는 정확한 때에 임합니다",
+            "세상적 손실이 영적 이득의 시작이 됩니다",
+            "세상과의 분리는 하나님과의 더 깊은 교제의 전제조건"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "שָׂא נָא עֵינֶיךָ וּרְאֵה (사 나 에네하 우레에) - 눈을 들어 보라",
+          "description": "롯도 '눈을 들었지만'(10절) 세상의 풍요를 보았습니다. 이제 하나님께서 아브라함에게도 '눈을 들라'고 명하십니다. 그러나 아브라함이 볼 것은 하나님의 약속의 땅이었습니다. 같은 '눈을 든다'는 행동이지만 무엇을 보느냐에 따라 전혀 다른 결과를 가져옵니다.",
+          "points": [
+            "신앙의 눈으로 보는 것과 육신의 눈으로 보는 것의 차이",
+            "하나님께서 보여주시는 것을 보는 것이 진정한 비전",
+            "현재의 모습이 아니라 하나님의 약속을 보는 믿음"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "צָפֹנָה וָנֶגְבָּה וָקֵדְמָה וָיָמָּה (차포나 바네그바 바케드마 바야마) - 사방",
+          "description": "하나님께서는 아브라함에게 동서남북 사방을 보라고 하셨습니다. 롯은 한 방향(요단 평야)만 선택했지만, 아브라함은 모든 방향, 즉 온 땅을 약속받았습니다. 제한된 시야와 무제한의 약속의 대조입니다.",
+          "points": [
+            "하나님의 축복은 우리의 상상을 초월합니다",
+            "부분을 선택한 롯과 전체를 받은 아브라함의 대조",
+            "하나님의 약속은 경계가 없습니다 (사 54:2-3)"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "מִן הַמָּקוֹם אֲשֶׁר אַתָּה שָׁם (민 하마콤 아셰르 아타 샴) - 네가 있는 그곳에서",
+          "description": "'네가 있는 곳에서'라는 표현은 중요합니다. 아브라함은 특별한 곳으로 갈 필요가 없었습니다. 하나님께서 그가 서 있는 바로 그 자리를 축복의 출발점으로 삼으셨습니다. 양보하고 남은 그 자리가 하나님의 약속의 기점이 되었습니다.",
+          "points": [
+            "하나님의 축복은 지금 여기서 시작됩니다",
+            "순종하고 양보한 그 자리가 축복의 터전",
+            "하나님께서는 우리가 있는 곳에서 역사하십니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "하나님께서는 왜 롯이 떠난 후에 아브라함에게 말씀하셨나요?",
+        "answer": "롯이 좋은 땅을 선택하고 떠났을 때, 아브라함은 속상했을 수 있어요. 하지만 바로 그때 하나님께서 나타나셔서 아브라함을 위로해 주셨어요. 하나님은 아브라함에게 '눈을 들어 동서남북을 보라'고 하시면서, 보이는 모든 땅을 주시겠다고 약속하셨어요. 롯은 한 방향만 선택했지만, 아브라함은 모든 방향을 받은 거예요! 하나님께서는 우리가 세상 것을 포기할 때, 훨씬 더 좋은 것을 주신답니다.",
+        "bibleReferences": [
+          "창세기 13:15-17 - '보이는 땅을 내가 너와 네 자손에게 주리니 영원히 이르리라'",
+          "마태복음 5:5 - '온유한 자는 복이 있나니 그들이 땅을 기업으로 받을 것임이요'",
+          "마가복음 10:29-30 - '나와 복음을 위하여 집이나... 버린 자는... 백 배를 받되'",
+          "히브리서 11:8-10 - '믿음으로 아브라함은... 갈 바를 알지 못하고 나아갔으며'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "이 구절은 '하나님의 타이밍'과 '믿음의 보상'을 보여줍니다. 아브라함이 양보하고 손해 본 것처럼 보이는 바로 그 순간, 하나님께서는 롯이 선택한 것보다 무한히 큰 약속을 주셨습니다. 롯은 육신의 눈으로 본 것을 선택했지만, 아브라함은 신앙의 눈으로 하나님의 약속을 보았습니다. 세상 것을 양보하는 자에게 하나님은 세상이 줄 수 없는 것을 주십니다. 이것이 바로 '온유한 자가 땅을 기업으로 받는다'(마 5:5)는 천국 원리입니다."
+      }
+    }
+  }
+]

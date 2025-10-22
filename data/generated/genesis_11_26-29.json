@@ -1,0 +1,577 @@
+[
+  {
+    "verseId": "genesis_11_26",
+    "reference": "창세기 11:26",
+    "hebrew": "וַיְחִי-תֶרַח שִׁבְעִים שָׁנָה וַיּוֹלֶד אֶת-אַבְרָם אֶת-נָחוֹר וְאֶת-הָרָן.",
+    "ipa": "vajəˈħi ˈtɛraħ ʃivˈʕim ʃaˈna vajˈjolɛd ʔɛt ʔavˈram ʔɛt naˈħor vəʔɛt haˈran",
+    "koreanPronunciation": "바예히 테라흐 쉬브임 샤나 바요레드 에트 아브람 에트 나호르 베에트 하란",
+    "modern": "데라가 70세가 되었을 때 아브람과 나호르와 하란을 낳았습니다",
+    "words": [
+      {
+        "hebrew": "וַיְחִי",
+        "meaning": "살았다, 되었다",
+        "ipa": "vajəˈħi",
+        "korean": "바예히",
+        "letters": "וַ(va) + יְ(ye) + חִי(hi)",
+        "root": "ח-י-ה (하야)",
+        "grammar": "동사",
+        "emoji": "👴",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-life1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient><radialGradient id=\"terah26-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-glow1)\" opacity=\"0.2\"/><path d=\"M 32 12 L 32 52\" stroke=\"url(#terah26-life1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"url(#terah26-life1)\" filter=\"drop-shadow(0 2px 6px rgba(76,175,80,0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#4CAF50\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"46\" r=\"6\" fill=\"#2E7D32\" opacity=\"0.5\"/></svg>",
+        "relatedWords": [
+          "חַי (하이 - 살아있는)",
+          "חַיִּים (하임 - 생명)"
+        ]
+      },
+      {
+        "hebrew": "תֶרַח",
+        "meaning": "데라",
+        "ipa": "ˈtɛraħ",
+        "korean": "테라흐",
+        "letters": "תֶּ(te) + רַ(ra) + ח(h)",
+        "root": "תֶרַח (테라흐)",
+        "grammar": "명사",
+        "emoji": "👨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-person1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#5D2E0F\"/></linearGradient><radialGradient id=\"terah26-halo1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\" stop-opacity=\"0.4\"/></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"24\" fill=\"url(#terah26-halo1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#terah26-person1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 16 48 Q 24 36 32 36 Q 40 36 48 48\" fill=\"url(#terah26-person1)\" stroke=\"#8B4513\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/></svg>"
+      },
+      {
+        "hebrew": "שִׁבְעִים",
+        "meaning": "70",
+        "ipa": "ʃivˈʕim",
+        "korean": "쉬브임",
+        "letters": "שִׁ(shi) + בְ(v) + עִ(i) + ים(m)",
+        "root": "שֶׁבַע (쉐바)",
+        "grammar": "명사",
+        "emoji": "7️⃣0️⃣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"50%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#FF5722\"/></linearGradient><radialGradient id=\"terah26-numglow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-numglow1)\"/><text x=\"32\" y=\"44\" font-size=\"32\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"url(#terah26-num1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.5))\">70</text></svg>"
+      },
+      {
+        "hebrew": "שָׁנָה",
+        "meaning": "해, 년",
+        "ipa": "ʃaˈna",
+        "korean": "샤나",
+        "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+        "root": "שָׁנָה (샤나)",
+        "grammar": "명사",
+        "emoji": "📅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-year1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\"/><stop offset=\"100%\" stop-color=\"#0D47A1\"/></linearGradient><linearGradient id=\"terah26-sun1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#terah26-year1)\" opacity=\"0.2\" stroke=\"url(#terah26-year1)\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#terah26-sun1)\" filter=\"drop-shadow(0 2px 6px rgba(255,215,0,0.7))\"/><path d=\"M 32 32 L 44 32 A 12 12 0 0 1 32 44\" fill=\"none\" stroke=\"url(#terah26-year1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>",
+        "relatedWords": [
+          "שָׁנִים (שanimaninim - 여러 해들)",
+          "יוֹם (욤 - 날)"
+        ]
+      },
+      {
+        "hebrew": "וַיּוֹלֶד",
+        "meaning": "낳았다, 아버지가 되었다",
+        "ipa": "vajˈjolɛd",
+        "korean": "바요레드",
+        "letters": "וַ(va) + יּוֹ(yo) + לֶ(le) + ד(d)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "동사",
+        "emoji": "👶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-birth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FF1493\"/></linearGradient><radialGradient id=\"terah26-love1\"><stop offset=\"0%\" stop-color=\"#FFE0F0\"/><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-love1)\"/><path d=\"M 32 48 Q 18 38 18 28 Q 18 20 24 20 Q 28 20 32 24 Q 36 20 40 20 Q 46 20 46 28 Q 46 38 32 48 Z\" fill=\"url(#terah26-birth1)\" filter=\"drop-shadow(0 4px 6px rgba(255,20,147,0.5))\"/><circle cx=\"26\" cy=\"26\" r=\"3\" fill=\"#FFE0F0\" opacity=\"0.8\"/><circle cx=\"38\" cy=\"26\" r=\"3\" fill=\"#FFE0F0\" opacity=\"0.8\"/></svg>",
+        "relatedWords": [
+          "יֶלֶד (옐레드 - 아이)",
+          "תּוֹלְדוֹת (톨도트 - 족보, 세대)"
+        ]
+      },
+      {
+        "hebrew": "אַבְרָם",
+        "meaning": "아브람 (높은 아버지)",
+        "ipa": "ʔavˈram",
+        "korean": "아브람",
+        "letters": "אַ(av) + בְ(ra) + רָ(m)",
+        "root": "אַבְרָם (아브람)",
+        "grammar": "명사",
+        "emoji": "⭐",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF6B35\"/></linearGradient><radialGradient id=\"terah26-starglow1\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-starglow1)\"/><path d=\"M 32 8 L 36 24 L 52 24 L 40 34 L 44 50 L 32 40 L 20 50 L 24 34 L 12 24 L 28 24 Z\" fill=\"url(#terah26-abram1)\" filter=\"drop-shadow(0 4px 8px rgba(255,215,0,0.8))\"/><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>",
+        "relatedWords": [
+          "אַבְרָהָם (아브라함 - 많은 민족의 아버지)",
+          "אָב (아브 - 아버지)"
+        ]
+      },
+      {
+        "hebrew": "נָחוֹר",
+        "meaning": "나호르 (코고는 자)",
+        "ipa": "naˈħor",
+        "korean": "나호르",
+        "letters": "נָ(na) + חוֹ(ho) + ר(r)",
+        "root": "נָחוֹר (나호르)",
+        "grammar": "명사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-nahor1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#607D8B\"/><stop offset=\"100%\" stop-color=\"#37474F\"/></linearGradient><radialGradient id=\"terah26-person2\"><stop offset=\"0%\" stop-color=\"#90A4AE\"/><stop offset=\"100%\" stop-color=\"#607D8B\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-person2)\"/><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#terah26-nahor1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><ellipse cx=\"32\" cy=\"46\" rx=\"16\" ry=\"12\" fill=\"url(#terah26-nahor1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "הָרָן",
+        "meaning": "하란 (산악인)",
+        "ipa": "haˈran",
+        "korean": "하란",
+        "letters": "הָ(ha) + רָ(ra) + ן(n)",
+        "root": "הָרָן (하란)",
+        "grammar": "명사",
+        "emoji": "🏔️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-haran1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#5D4037\"/></linearGradient><linearGradient id=\"terah26-mountain1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\"/><stop offset=\"100%\" stop-color=\"#6D4C41\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"rgba(161,136,127,0.2)\" rx=\"8\"/><path d=\"M 10 52 L 32 16 L 54 52 Z\" fill=\"url(#terah26-mountain1)\" filter=\"drop-shadow(2px 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 32 16 L 42 34 L 32 34 Z\" fill=\"#FFFFFF\" opacity=\"0.4\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 11장 26절은 아브라함 이야기의 시작점이자 구속사의 새로운 장을 여는 중요한 구절입니다. 데라가 70세에 세 아들을 낳았다는 기록은 단순한 족보 정보를 넘어, 하나님의 구원 계획이 구체적인 가족을 통해 전개되기 시작함을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "תֶרַח (테라흐) - 새로운 세대의 시작",
+          "description": "데라는 노아의 아들 셈의 후손으로, 우상 숭배가 만연한 갈대아 우르에서 살았던 인물입니다. 그의 이름은 '배회하다' 또는 '지체하다'를 의미하며, 후에 하란으로 이주했지만 약속의 땅에는 도달하지 못한 그의 삶을 암시합니다.",
+          "points": [
+            "데라는 셈의 9대 후손으로, 노아로부터 아브라함까지의 계보를 잇습니다",
+            "우상 숭배의 중심지 갈대아 우르에서 살았지만, 하나님은 그의 가족을 선택하셨습니다",
+            "70세에 자녀를 낳은 것은 하나님의 섭리적 타이밍을 보여줍니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "וַיּוֹלֶד (바요레드) - 하나님의 계획을 잇는 출생",
+          "description": "'낳았다'는 히브리어 '얄라드'의 동사형으로, 단순한 생물학적 출생이 아니라 언약의 계보를 이어가는 신학적 의미를 담고 있습니다. 창세기에서 출생 기록은 항상 하나님의 구원 계획과 연결됩니다.",
+          "points": [
+            "족보는 하나님의 구원 역사가 특정 가계를 통해 이어짐을 보여줍니다",
+            "아브람의 출생은 우연이 아니라 하나님의 섭리적 계획입니다",
+            "이 출생은 결국 예수 그리스도의 계보로 이어집니다 (마태복음 1장)"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "אַבְרָם (아브람) - 높임 받는 아버지",
+          "description": "아브람('높은 아버지')이라는 이름은 후에 아브라함('많은 민족의 아버지')으로 바뀌게 됩니다. 세 아들 중 첫 번째로 언급된 것은 족보상의 순서가 아니라 구속사적 중요성 때문입니다.",
+          "points": [
+            "이름에 담긴 의미가 하나님의 부르심을 통해 실현됩니다",
+            "믿음의 조상으로서 유대인, 기독교인, 이슬람교도 모두에게 중요한 인물",
+            "그를 통해 '땅의 모든 족속이 복을 받게' 될 것입니다 (창세기 12:3)"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "שִׁבְעִים שָׁנָה (쉬브임 샤나) - 70년의 의미",
+          "description": "70이라는 숫자는 성경에서 완전성과 충만함을 상징합니다. 데라가 70세에 아들들을 낳기 시작한 것은 하나님의 완전한 때가 되었음을 나타내며, 인간의 연약함 속에서도 역사하시는 하나님의 주권을 보여줍니다.",
+          "points": [
+            "70은 성경에서 완전한 수로, 하나님의 때가 충만함을 의미합니다",
+            "늦은 나이의 출산은 사라의 경우처럼 하나님의 초자연적 역사를 암시합니다",
+            "인간의 연약함과 한계 속에서도 하나님의 계획은 진행됩니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 데라의 아들 중에서 특별히 아브람을 선택하셨을까요?",
+        "answer": "하나님은 우리가 얼마나 착하거나 훌륭한지를 보고 선택하시는 것이 아니라, 당신의 사랑과 계획에 따라 선택하세요. 아브람도 우상을 섬기는 가정에서 자랐지만, 하나님은 그를 특별히 부르셔서 믿음의 조상으로 삼으셨어요. 마치 선생님이 여러분 중 한 명을 반장으로 뽑으시는 것처럼, 하나님은 아브람을 선택하셔서 온 세상을 축복하는 일에 쓰기로 하신 거예요. 이것이 바로 하나님의 놀라운 은혜랍니다!",
+        "bibleReferences": [
+          "신명기 7:7-8 - '여호와께서 너희를 기뻐하시고 너희를 택하심은 너희가 다른 민족보다 수효가 많기 때문이 아니라'",
+          "로마서 9:11 - '그 자식들이 아직 나지도 아니하고 무슨 선이나 악을 행하지 아니한 때에'",
+          "에베소서 1:4 - '곧 창세 전에 그리스도 안에서 우리를 택하사'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "데라의 세 아들 출생 기록은 하나님의 구원 역사가 평범한 가정을 통해 시작됨을 보여줍니다. 우상 숭배의 중심지에서도, 노년의 부모를 통해서도 하나님의 계획은 진행됩니다. 이는 우리의 환경이나 조건과 상관없이 하나님이 우리를 부르시고 사용하실 수 있음을 의미합니다. 아브람의 출생은 결국 예수 그리스도로 이어지는 구속사의 중요한 고리입니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_11_27",
+    "reference": "창세기 11:27",
+    "hebrew": "וְאֵלֶּה תּוֹלְדֹת תֶּרַח תֶּרַח הוֹלִיד אֶת-אַבְרָם אֶת-נָחוֹר וְאֶת-הָרָן וְהָרָן הוֹלִיד אֶת-לוֹט.",
+    "ipa": "vəˈʔɛllɛ toləˈdot ˈtɛraħ ˈtɛraħ hoˈlid ʔɛt ʔavˈram ʔɛt naˈħor vəʔɛt haˈran vəhaˈran hoˈlid ʔɛt lot",
+    "koreanPronunciation": "베엘레 톨도트 테라흐 테라흐 홀리드 에트 아브람 에트 나호르 베에트 하란 베하란 홀리드 에트 로트",
+    "modern": "이것은 데라의 족보입니다. 데라는 아브람과 나호르와 하란을 낳았고, 하란은 롯을 낳았습니다",
+    "words": [
+      {
+        "hebrew": "תּוֹלְדֹת",
+        "meaning": "족보, 세대, 후손",
+        "ipa": "toləˈdot",
+        "korean": "톨도트",
+        "letters": "תּוֹ(to) + לְ(le) + דֹ(do) + ת(t)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "명사",
+        "emoji": "📜",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-scroll1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient><linearGradient id=\"generations27-paper1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\"/><stop offset=\"100%\" stop-color=\"#F5DEB3\"/></linearGradient></defs><rect x=\"12\" y=\"8\" width=\"40\" height=\"48\" rx=\"4\" fill=\"url(#generations27-paper1)\" filter=\"drop-shadow(2px 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"16\" cy=\"12\" r=\"6\" fill=\"url(#generations27-scroll1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"48\" cy=\"12\" r=\"6\" fill=\"url(#generations27-scroll1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"20\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"36\" x2=\"44\" y2=\"36\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"44\" x2=\"36\" y2=\"44\" stroke=\"#8B7355\" stroke-width=\"2\"/></svg>",
+        "relatedWords": [
+          "יָלַד (얄라드 - 낳다)",
+          "דּוֹר (도르 - 세대)"
+        ]
+      },
+      {
+        "hebrew": "הוֹלִיד",
+        "meaning": "낳았다 (아버지가)",
+        "ipa": "hoˈlid",
+        "korean": "홀리드",
+        "letters": "הוֹ(ho) + לִ(li) + יד(d)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "동사",
+        "emoji": "👨‍👦",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-father1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3F51B5\"/><stop offset=\"100%\" stop-color=\"#1A237E\"/></linearGradient><linearGradient id=\"generations27-child1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></linearGradient><radialGradient id=\"generations27-bond1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#generations27-bond1)\"/><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"url(#generations27-father1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><circle cx=\"40\" cy=\"40\" r=\"8\" fill=\"url(#generations27-child1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><path d=\"M 24 34 Q 32 36 40 40\" stroke=\"url(#generations27-father1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "לוֹט",
+        "meaning": "롯 (덮개, 가림)",
+        "ipa": "lot",
+        "korean": "로트",
+        "letters": "לוֹ(lo) + ט(t)",
+        "root": "לוֹט (로트)",
+        "grammar": "명사",
+        "emoji": "👨‍🦱",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-lot1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#795548\"/><stop offset=\"100%\" stop-color=\"#4E342E\"/></linearGradient><radialGradient id=\"generations27-veil1\"><stop offset=\"0%\" stop-color=\"#E0E0E0\"/><stop offset=\"100%\" stop-color=\"#9E9E9E\" stop-opacity=\"0.6\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#generations27-veil1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#generations27-lot1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><ellipse cx=\"32\" cy=\"48\" rx=\"14\" ry=\"10\" fill=\"url(#generations27-lot1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><path d=\"M 20 28 Q 32 16 44 28\" fill=\"url(#generations27-veil1)\" opacity=\"0.5\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 11장 27절은 '톨도트'(족보) 공식으로 시작하며, 데라의 세대를 소개합니다. 이 구절은 단순한 가계도를 넘어 하나님의 구원 역사가 어떻게 구체적인 가족을 통해 전개되는지를 보여주는 신학적 구조입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "תּוֹלְדֹת (톨도트) - 세대의 기록",
+          "description": "'톨도트'는 '낳다'를 의미하는 '얄라드'에서 파생된 명사로, 창세기 전체를 구조화하는 핵심 단어입니다. 창세기는 10개의 톨도트로 나뉘며, 이 구절은 데라의 톨도트를 시작하며 아브라함 이야기로 넘어갑니다.",
+          "points": [
+            "창세기는 '톨도트' 구조로 짜여진 책입니다 (2:4, 5:1, 6:9, 10:1, 11:10, 11:27, 25:12, 25:19, 36:1, 37:2)",
+            "각 톨도트는 단순한 족보가 아니라 신학적 의미를 담은 역사 기록입니다",
+            "데라의 톨도트는 아브라함 언약으로 이어지는 전환점입니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "תֶּרַח הוֹלִיד (테라흐 홀리드) - 계보의 연속성",
+          "description": "'홀리드'(낳았다)는 히프일 동사 형태로, 아버지가 자녀를 낳는 행위를 강조합니다. 히브리 족보에서 아버지의 이름을 두 번 반복하는 것은 새로운 단락의 시작을 알리는 문학적 장치입니다.",
+          "points": [
+            "족보는 하나님의 언약이 혈통을 통해 이어짐을 보여줍니다",
+            "반복된 '데라'는 이야기의 초점이 그의 자녀들로 옮겨감을 알립니다",
+            "세 아들의 순서는 출생 순이 아니라 중요도에 따른 것입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "הָרָן הוֹלִיד אֶת-לוֹט (하란 홀리드 에트 로트) - 조카 롯의 등장",
+          "description": "하란이 롯을 낳았다는 기록은 곧 하란이 일찍 죽게 되고 롯이 아브람의 보호 아래 놓이게 될 것을 암시합니다. 롯은 후에 아브람과 함께 가나안으로 가지만, 결국 소돔에 정착하게 됩니다.",
+          "points": [
+            "롯의 언급은 그가 아브라함 이야기에서 중요한 역할을 할 것을 예고합니다",
+            "롯은 아브람의 조카이지만 후계자로 간주되지 않습니다",
+            "롯의 후손(모압, 암몬)도 이스라엘 역사에 등장하게 됩니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 성경에는 이렇게 긴 족보가 많이 나올까요?",
+        "answer": "성경의 족보는 단순한 이름 목록이 아니라 하나님의 약속이 어떻게 이루어지는지 보여주는 증거예요. 마치 여러분의 가족 앨범을 보면서 할아버지, 아버지, 그리고 여러분으로 이어지는 이야기를 듣는 것처럼, 성경의 족보는 하나님이 약속하신 구원자 예수님이 실제로 오셨다는 것을 증명해줍니다. 아브람에서 시작된 이 족보는 결국 예수님까지 이어지거든요!",
+        "bibleReferences": [
+          "마태복음 1:1 - '아브라함과 다윗의 자손 예수 그리스도의 계보라'",
+          "누가복음 3:34 - '야곱의 아들이요 이삭의 아들이요 아브라함의 아들이요'",
+          "갈라디아서 3:16 - '이 약속들은 아브라함과 그 자손에게 말씀하신 것인데'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "톨도트 공식은 하나님의 구원 역사가 추상적 개념이 아니라 실제 역사 속 구체적인 가족을 통해 이루어짐을 보여줍니다. 데라의 세대 기록은 아브라함 언약의 시작이며, 궁극적으로 예수 그리스도의 계보로 이어집니다. 이는 하나님이 우리의 일상적 삶, 가족, 관계 속에서 당신의 구원 계획을 이루어가심을 의미합니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_11_28",
+    "reference": "창세기 11:28",
+    "hebrew": "וַיָּמָת הָרָן עַל-פְּנֵי תֶּרַח אָבִיו בְּאֶרֶץ מוֹלַדְתּוֹ בְּאוּר כַּשְׂדִּים.",
+    "ipa": "vajˈjamat haˈran ʕal pəˈne ˈtɛraħ ʔaˈviv bəˈʔɛrɛts moladˈto bəˈʔur kasˈdim",
+    "koreanPronunciation": "바야마트 하란 알 페네 테라흐 아비브 베에레츠 몰라드토 베우르 카스딤",
+    "modern": "하란은 그의 아버지 데라보다 먼저 그의 고향 갈대아의 우르에서 죽었습니다",
+    "words": [
+      {
+        "hebrew": "וַיָּמָת",
+        "meaning": "죽었다",
+        "ipa": "vajˈjamat",
+        "korean": "바야마트",
+        "letters": "וַ(va) + יָּ(ya) + מָ(ma) + ת(t)",
+        "root": "מ-ו-ת (무트)",
+        "grammar": "동사",
+        "emoji": "⚰️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#424242\"/><stop offset=\"100%\" stop-color=\"#212121\"/></linearGradient><radialGradient id=\"haran28-shadow1\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.5\"/><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"8\" fill=\"url(#haran28-shadow1)\"/><rect x=\"16\" y=\"32\" width=\"32\" height=\"20\" rx=\"2\" fill=\"url(#haran28-death1)\" filter=\"drop-shadow(0 4px 8px rgba(0,0,0,0.5))\"/><path d=\"M 28 38 L 28 46 M 32 34 L 32 46 M 36 38 L 36 46\" stroke=\"#757575\" stroke-width=\"1.5\"/><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"#616161\" opacity=\"0.6\"/></svg>",
+        "relatedWords": [
+          "מָוֶת (마벳 - 죽음)",
+          "מֵת (메트 - 죽은 자)"
+        ]
+      },
+      {
+        "hebrew": "עַל-פְּנֵי",
+        "meaning": "~보다 먼저, ~앞에서",
+        "ipa": "ʕal pəˈne",
+        "korean": "알 페네",
+        "letters": "עַל(al) + פְּנֵי(pene)",
+        "root": "פָּנִים (파님)",
+        "grammar": "전치사",
+        "emoji": "⏰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C92A2A\"/></linearGradient><radialGradient id=\"haran28-clock1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#E0E0E0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#haran28-clock1)\" stroke=\"url(#haran28-time1)\" stroke-width=\"3\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#haran28-time1)\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#haran28-time1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#haran28-time1)\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M 48 10 L 54 16 L 48 22\" fill=\"none\" stroke=\"#FF6B6B\" stroke-width=\"2\"/></svg>"
+      },
+      {
+        "hebrew": "אָבִיו",
+        "meaning": "그의 아버지",
+        "ipa": "ʔaˈviv",
+        "korean": "아비브",
+        "letters": "אָ(a) + בִ(vi) + יו(v)",
+        "root": "אָב (아브)",
+        "grammar": "명사",
+        "emoji": "👨‍🦳",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-father1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6D4C41\"/><stop offset=\"100%\" stop-color=\"#3E2723\"/></linearGradient><radialGradient id=\"haran28-wisdom1\"><stop offset=\"0%\" stop-color=\"#FFF8E1\"/><stop offset=\"100%\" stop-color=\"#FFD54F\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-wisdom1)\"/><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#haran28-father1)\" filter=\"drop-shadow(0 3px 6px rgba(0,0,0,0.4))\"/><path d=\"M 14 50 Q 23 38 32 38 Q 41 38 50 50\" fill=\"url(#haran28-father1)\" stroke=\"#6D4C41\" stroke-width=\"2\"/><path d=\"M 26 20 Q 28 18 32 18 Q 36 18 38 20\" stroke=\"#E0E0E0\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+        "relatedWords": [
+          "אָב (아브 - 아버지)",
+          "אָבוֹת (아보트 - 조상들)"
+        ]
+      },
+      {
+        "hebrew": "מוֹלַדְתּוֹ",
+        "meaning": "그의 출생지, 고향",
+        "ipa": "moladˈto",
+        "korean": "몰라드토",
+        "letters": "מוֹ(mo) + לַ(la) + דְ(d) + תּוֹ(to)",
+        "root": "י-ל-ד (얄라드)",
+        "grammar": "명사",
+        "emoji": "🏠",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-home1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#5D4037\"/></linearGradient><linearGradient id=\"haran28-roof1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D84315\"/><stop offset=\"100%\" stop-color=\"#BF360C\"/></linearGradient><radialGradient id=\"haran28-warmth1\"><stop offset=\"0%\" stop-color=\"#FFE082\"/><stop offset=\"100%\" stop-color=\"#FFA726\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-warmth1)\"/><path d=\"M 32 12 L 52 28 L 48 28 L 48 52 L 16 52 L 16 28 L 12 28 Z\" fill=\"url(#haran28-roof1)\" filter=\"drop-shadow(0 4px 8px rgba(0,0,0,0.4))\"/><rect x=\"20\" y=\"32\" width=\"24\" height=\"20\" fill=\"url(#haran28-home1)\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#4E342E\"/><rect x=\"36\" y=\"36\" width=\"6\" height=\"6\" fill=\"#64B5F6\" opacity=\"0.8\"/></svg>",
+        "relatedWords": [
+          "יֶלֶד (옐레드 - 아이)",
+          "לֵדָה (레다 - 출산)"
+        ]
+      },
+      {
+        "hebrew": "אוּר כַּשְׂדִּים",
+        "meaning": "갈대아의 우르",
+        "ipa": "ʔur kasˈdim",
+        "korean": "우르 카스딤",
+        "letters": "אוּר(ur) + כַּשְׂדִּים(kasdim)",
+        "root": "אוּר (우르) + כַּשְׂדִּים (카스딤)",
+        "grammar": "명사",
+        "emoji": "🏛️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-ur1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient><linearGradient id=\"haran28-ziggurat1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD853F\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><radialGradient id=\"haran28-desert1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-desert1)\"/><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#haran28-ziggurat1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><rect x=\"18\" y=\"36\" width=\"28\" height=\"8\" fill=\"url(#haran28-ziggurat1)\" opacity=\"0.9\"/><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"url(#haran28-ziggurat1)\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"url(#haran28-ur1)\" filter=\"drop-shadow(0 2px 4px rgba(212,175,55,0.6))\"/></svg>",
+        "relatedWords": [
+          "כַּשְׂדִּים (카스딤 - 갈대아인)",
+          "בָּבֶל (바벨 - 바벨론)"
+        ]
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 11장 28절은 하란의 조기 사망을 기록하며, 이는 자연스러운 순서를 거스르는 비극적 사건입니다. 아들이 아버지보다 먼저 죽는 것은 고대 근동 문화에서 특별히 슬픈 일로 여겨졌으며, 이는 데라 가족의 이주 동기와 롯이 아브람의 보호 아래 놓이게 되는 배경을 설명합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיָּמָת הָרָן עַל-פְּנֵי תֶּרַח (바야마트 하란 알 페네 테라흐) - 자연스러운 순서의 파괴",
+          "description": "'알 페네'는 문자적으로 '~의 얼굴 앞에서'를 의미하며, 아버지가 살아있는 동안 아들이 죽었음을 강조합니다. 이는 단순한 연대기적 순서가 아니라 부모가 자식의 죽음을 목격하는 비극을 나타냅니다.",
+          "points": [
+            "고대 근동에서 자식이 부모보다 먼저 죽는 것은 큰 불행으로 여겨졌습니다",
+            "하란의 조기 사망은 데라 가족에게 깊은 슬픔을 가져왔을 것입니다",
+            "이 사건은 후에 데라가 우르를 떠나는 동기 중 하나가 되었을 수 있습니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "בְּאֶרֶץ מוֹלַדְתּוֹ (베에레츠 몰라드토) - 고향 땅에서의 죽음",
+          "description": "'몰라드토'는 '태어난 땅'을 의미하며, 하란이 그가 태어나고 자란 고향에서 생을 마감했음을 보여줍니다. 이는 아브람이 후에 이 땅을 떠나 약속의 땅으로 가게 될 것과 대조를 이룹니다.",
+          "points": [
+            "하란은 고향을 떠나지 못하고 그곳에서 죽었습니다",
+            "이는 아브람이 하나님의 부르심에 순종하여 고향을 떠날 것과 대조됩니다",
+            "고향에서의 죽음은 그의 인생이 출발점을 벗어나지 못했음을 암시합니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "בְּאוּר כַּשְׂדִּים (베우르 카스딤) - 갈대아의 우르",
+          "description": "우르는 고대 메소포타미아의 중요한 도시로, 달의 신 난나(Sin)를 숭배하는 중심지였습니다. '갈대아의 우르'라는 표현은 지리적 위치와 함께 우상 숭배의 문화적 배경을 암시합니다.",
+          "points": [
+            "우르는 고도로 발달한 문명과 우상 숭배의 중심지였습니다",
+            "하나님은 이런 배경 속에서도 아브람을 부르셨습니다",
+            "우르를 떠나는 것은 단순한 이주가 아니라 우상 숭배로부터의 분리를 의미했습니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "יָתוֹם (야톰) - 롯의 고아 됨과 하나님의 섭리",
+          "description": "하란의 죽음으로 롯은 고아가 되어 삼촌 아브람의 보호 아래 놓이게 됩니다. 이는 우연이 아니라 하나님의 섭리로, 롯이 아브람과 함께 가나안으로 가게 되는 배경이 됩니다.",
+          "points": [
+            "비극적 사건 속에서도 하나님의 섭리가 작동합니다",
+            "롯은 아브람의 보호 아래서 약속의 땅으로 가게 됩니다",
+            "인간의 슬픔과 하나님의 계획이 동시에 존재할 수 있습니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 하란이 젊은 나이에 죽도록 허락하셨을까요?",
+        "answer": "성경은 하란이 왜 일찍 죽었는지 자세히 말해주지 않아요. 하지만 우리가 알 수 있는 것은, 슬픈 일이 생겨도 하나님은 여전히 우리를 돌보신다는 거예요. 하란이 죽은 후 그의 아들 롯은 삼촌 아브람이 돌봐주었고, 롯도 하나님의 축복을 받았어요. 때로는 우리가 이해할 수 없는 일이 생기지만, 하나님은 그 모든 것을 통해서도 좋은 일을 하실 수 있는 분이랍니다.",
+        "bibleReferences": [
+          "로마서 8:28 - '우리가 알거니와 하나님을 사랑하는 자 곧 그의 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라'",
+          "시편 34:18 - '여호와는 마음이 상한 자에게 가까이 하시고'",
+          "시편 68:5 - '하나님은 그의 거룩한 처소에 계시며 고아의 아버지시며'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하란의 조기 사망은 타락한 세상에서의 죽음의 현실을 보여주지만, 동시에 이런 비극 속에서도 하나님의 구원 계획은 계속됨을 보여줍니다. 고향 우르에서의 죽음은 아브람이 곧 떠나게 될 출애굽의 예표이며, 롯의 고아 됨은 하나님이 고아와 과부를 돌보시는 분임을 암시합니다. 우리의 슬픔과 상실 속에서도 하나님의 섭리는 멈추지 않습니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_11_29",
+    "reference": "창세기 11:29",
+    "hebrew": "וַיִּקַּח אַבְרָם וְנָחוֹר לָהֶם נָשִׁים שֵׁם אֵשֶׁת-אַבְרָם שָׂרָי וְשֵׁם אֵשֶׁת-נָחוֹר מִלְכָּה בַּת-הָרָן אֲבִי-מִלְכָּה וַאֲבִי יִסְכָּה.",
+    "ipa": "vajjiqˈqaħ ʔavˈram vənaˈħor laˈhɛm naˈʃim ʃem ʔeˈʃɛt ʔavˈram saˈraj vəʃem ʔeˈʃɛt naˈħor milˈka bat haˈran ʔaˈvi milˈka vaʔaˈvi jisˈka",
+    "koreanPronunciation": "바이카흐 아브람 베나호르 라헴 나쉼 쉠 에쉐트 아브람 사라이 베쉠 에쉐트 나호르 밀카 바트 하란 아비 밀카 바아비 이스카",
+    "modern": "아브람과 나호르가 아내를 맞이했는데, 아브람의 아내 이름은 사라이였고, 나호르의 아내 이름은 밀가였습니다. 밀가는 하란의 딸이며, 하란은 밀가와 이스가의 아버지입니다",
+    "words": [
+      {
+        "hebrew": "וַיִּקַּח",
+        "meaning": "취했다, 맞이했다",
+        "ipa": "vajjiqˈqaħ",
+        "korean": "바이카흐",
+        "letters": "וַ(va) + יִּ(yi) + קַּ(qa) + ח(h)",
+        "root": "ל-ק-ח (라카흐)",
+        "grammar": "동사",
+        "emoji": "💍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient><radialGradient id=\"wives29-union1\"><stop offset=\"0%\" stop-color=\"#E1BEE7\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient><linearGradient id=\"wives29-ring1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-union1)\"/><circle cx=\"22\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"url(#wives29-ring1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(255,215,0,0.6))\"/><circle cx=\"42\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"url(#wives29-ring1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(255,215,0,0.6))\"/><circle cx=\"32\" cy=\"26\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 4px rgba(255,20,147,0.8))\"/></svg>",
+        "relatedWords": [
+          "לָקַח (라카흐 - 취하다)",
+          "מַלְקוֹחַ (말코아흐 - 집게)"
+        ]
+      },
+      {
+        "hebrew": "נָשִׁים",
+        "meaning": "아내들, 여자들",
+        "ipa": "naˈʃim",
+        "korean": "나쉼",
+        "letters": "נָ(na) + שִׁ(shi) + ים(m)",
+        "root": "אִשָּׁה (이샤)",
+        "grammar": "명사",
+        "emoji": "👰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-women1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EC407A\"/><stop offset=\"100%\" stop-color=\"#AD1457\"/></linearGradient><radialGradient id=\"wives29-grace1\"><stop offset=\"0%\" stop-color=\"#FCE4EC\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-grace1)\"/><circle cx=\"24\" cy=\"26\" r=\"10\" fill=\"url(#wives29-women1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"26\" r=\"10\" fill=\"url(#wives29-women1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><path d=\"M 14 46 Q 20 38 24 38 Q 28 38 34 46\" fill=\"url(#wives29-women1)\" opacity=\"0.8\"/><path d=\"M 30 46 Q 36 38 40 38 Q 44 38 50 46\" fill=\"url(#wives29-women1)\" opacity=\"0.8\"/></svg>",
+        "relatedWords": [
+          "אִשָּׁה (이샤 - 여자, 아내)",
+          "אִישׁ (이쉬 - 남자, 남편)"
+        ]
+      },
+      {
+        "hebrew": "שָׂרָי",
+        "meaning": "사라이 (나의 공주)",
+        "ipa": "saˈraj",
+        "korean": "사라이",
+        "letters": "שָׂ(sa) + רָ(ra) + י(i)",
+        "root": "שָׂרָה (사라)",
+        "grammar": "명사",
+        "emoji": "👸",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-sarai1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#880E4F\"/></linearGradient><linearGradient id=\"wives29-crown1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"wives29-royalty1\"><stop offset=\"0%\" stop-color=\"#FCE4EC\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-royalty1)\"/><circle cx=\"32\" cy=\"30\" r=\"12\" fill=\"url(#wives29-sarai1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 16 18 L 20 12 L 24 16 L 28 10 L 32 14 L 36 10 L 40 16 L 44 12 L 48 18 L 44 22 L 20 22 Z\" fill=\"url(#wives29-crown1)\" filter=\"drop-shadow(0 3px 5px rgba(255,215,0,0.7))\"/><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 4px rgba(255,20,147,0.8))\"/></svg>",
+        "relatedWords": [
+          "שָׂרָה (사라 - 공주)",
+          "שַׂר (사르 - 지도자, 고관)"
+        ]
+      },
+      {
+        "hebrew": "מִלְכָּה",
+        "meaning": "밀가 (여왕)",
+        "ipa": "milˈka",
+        "korean": "밀카",
+        "letters": "מִ(mi) + לְ(l) + כָּ(ka) + ה(h)",
+        "root": "מֶלֶךְ (멜레크)",
+        "grammar": "명사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-milcah1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7B1FA2\"/><stop offset=\"100%\" stop-color=\"#4A148C\"/></linearGradient><linearGradient id=\"wives29-queencrown1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"wives29-majesty1\"><stop offset=\"0%\" stop-color=\"#E1BEE7\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-majesty1)\"/><path d=\"M 12 40 L 16 28 L 22 34 L 28 24 L 32 30 L 36 24 L 42 34 L 48 28 L 52 40 Z\" fill=\"url(#wives29-queencrown1)\" filter=\"drop-shadow(0 4px 8px rgba(255,215,0,0.8))\"/><rect x=\"12\" y=\"40\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#wives29-queencrown1)\"/><circle cx=\"22\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 4px rgba(233,30,99,0.8))\"/><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#9C27B0\" filter=\"drop-shadow(0 0 6px rgba(156,39,176,0.8))\"/><circle cx=\"42\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 4px rgba(233,30,99,0.8))\"/></svg>",
+        "relatedWords": [
+          "מֶלֶךְ (멜레크 - 왕)",
+          "מַלְכָּה (말카 - 여왕)"
+        ]
+      },
+      {
+        "hebrew": "בַּת",
+        "meaning": "딸",
+        "ipa": "bat",
+        "korean": "바트",
+        "letters": "בַּ(ba) + ת(t)",
+        "root": "בַּת (바트)",
+        "grammar": "명사",
+        "emoji": "👧",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-daughter1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C2185B\"/></linearGradient><radialGradient id=\"wives29-innocence1\"><stop offset=\"0%\" stop-color=\"#FFE0F0\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-innocence1)\"/><circle cx=\"32\" cy=\"26\" r=\"11\" fill=\"url(#wives29-daughter1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><path d=\"M 16 48 Q 24 38 32 38 Q 40 38 48 48\" fill=\"url(#wives29-daughter1)\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\"/><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+        "relatedWords": [
+          "בֵּן (벤 - 아들)",
+          "בָּנִים (바님 - 자녀들)"
+        ]
+      },
+      {
+        "hebrew": "יִסְכָּה",
+        "meaning": "이스가 (바라보는 자)",
+        "ipa": "jisˈka",
+        "korean": "이스카",
+        "letters": "יִ(yi) + סְ(s) + כָּ(ka) + ה(h)",
+        "root": "ס-כ-ה (사카)",
+        "grammar": "명사",
+        "emoji": "👀",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-iscah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00ACC1\"/><stop offset=\"100%\" stop-color=\"#00838F\"/></linearGradient><radialGradient id=\"wives29-vision1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#00ACC1\" stop-opacity=\"0.3\"/></radialGradient><radialGradient id=\"wives29-eye1\"><stop offset=\"0%\" stop-color=\"#64B5F6\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-vision1)\"/><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"#FFFFFF\" stroke=\"url(#wives29-iscah1)\" stroke-width=\"3\" filter=\"drop-shadow(0 3px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#wives29-eye1)\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#212121\"/><circle cx=\"34\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 11장 29절은 아브람과 나호르의 결혼을 기록하며, 특별히 아브람의 아내 사라이를 소개합니다. 이 구절은 단순한 결혼 기록을 넘어 하나님의 구원 역사에서 중요한 역할을 하게 될 사라의 등장을 알립니다. 밀가가 하란의 딸임을 명시한 것은 근친혼이 일반적이었던 당시 문화와 가족 내 결속을 보여줍니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "וַיִּקַּח...נָשִׁים (바이카흐...나쉼) - 아내를 맞이함",
+          "description": "'라카흐'(취하다)는 히브리어에서 결혼을 나타내는 일반적 표현으로, 남자가 능동적으로 여자를 아내로 맞이하는 행위를 의미합니다. 두 형제가 함께 언급된 것은 비슷한 시기에 결혼했음을 암시합니다.",
+          "points": [
+            "고대 근동에서 결혼은 가문 간의 중요한 연합이었습니다",
+            "아브람과 나호르의 결혼은 가족의 연속성과 후손을 이어가는 수단이었습니다",
+            "하나님의 언약은 결혼과 가정을 통해 다음 세대로 전달됩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "שָׂרָי (사라이) - 나의 공주",
+          "description": "사라이('나의 공주')라는 이름은 후에 사라('공주')로 바뀌게 됩니다. 소유격 접미사 '-이'가 제거되어 개인적 소유를 넘어 보편적 공주, 즉 많은 민족의 어머니가 될 것을 상징합니다. 다음 절(30절)에서 그녀가 불임이었음이 드러나는데, 이는 하나님의 초자연적 개입을 위한 무대 설정입니다.",
+          "points": [
+            "사라이는 믿음의 조상이자 언약의 어머니가 될 인물입니다",
+            "그녀의 이름에 담긴 왕족적 의미는 후손들의 운명을 암시합니다",
+            "사라의 불임은 인간적 불가능 속에서 하나님의 기적을 드러내게 됩니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "מִלְכָּה בַּת-הָרָן (밀카 바트 하란) - 하란의 딸 밀가",
+          "description": "밀가('여왕')는 하란의 딸로, 삼촌 나호르와 결혼했습니다. 이는 당시 일반적이었던 근친혼 관습을 보여주며, 가문의 순수성과 재산 보존을 위한 것이었습니다. 밀가는 후에 이삭의 아내 리브가의 할머니가 됩니다.",
+          "points": [
+            "밀가는 나호르와의 결혼을 통해 아브라함 가계와 연결됩니다",
+            "그녀의 손녀 리브가는 이삭과 결혼하여 언약의 계보를 잇게 됩니다",
+            "하란의 죽음 후에도 그의 딸들을 통해 가문은 계속됩니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "יִסְכָּה (이스카) - 신비로운 여동생",
+          "description": "이스가('바라보는 자')는 밀가의 여동생으로 언급되지만, 성경에서 다시 등장하지 않습니다. 유대 전승(미드라쉬)에서는 이스가가 사라이와 동일 인물이라고 주장하기도 하지만, 본문상으로는 별개의 인물로 보입니다. 그녀의 언급은 하란의 가계를 완전하게 기록하려는 의도로 보입니다.",
+          "points": [
+            "성경은 때로 역사적 완전성을 위해 다시 등장하지 않는 인물도 기록합니다",
+            "이스가의 운명은 알려지지 않았지만, 하나님의 역사는 기록된 것 이상입니다",
+            "모든 사람이 주인공은 아니지만, 각자는 하나님의 이야기에서 의미 있는 역할을 합니다"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 아브람은 삼촌의 딸이 아니라 이복여동생과 결혼했을까요?",
+        "answer": "당시에는 가까운 친척끼리 결혼하는 것이 흔한 일이었어요. 사라이는 아브람과 아버지는 같지만 어머니가 다른 여동생이었어요. 그때는 하나님이 아직 가까운 친척 간의 결혼을 금지하지 않으셨거든요. 나중에 모세 시대에 가서야 하나님이 법을 주시며 이런 결혼을 금하셨어요. 하나님은 역사 속에서 점진적으로 당신의 뜻을 나타내시며 백성들을 가르치셨답니다.",
+        "bibleReferences": [
+          "창세기 20:12 - '또 그는 실로 나의 이복 누이로서 내 아내가 되었음이니라'",
+          "레위기 18:9 - '네 자매 곧 네 아버지의 딸이나 네 어머니의 딸이나...그들의 하체를 범하지 말지니라'",
+          "신명기 27:22 - '그의 자매 곧 그의 아버지의 딸이나 어머니의 딸과 동침하는 자는 저주를 받을 것이라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "아브람과 사라이의 결혼은 단순한 개인적 결합이 아니라 구속사적 의미를 가진 하나님의 섭리입니다. 사라이의 불임(30절에서 드러남)은 인간적으로는 비극이지만, 하나님의 기적적 개입을 위한 무대가 됩니다. 이는 구원이 인간의 능력이 아닌 하나님의 은혜로 이루어짐을 보여주는 상징입니다. 밀가와 이스가의 언급은 하나님의 이야기가 유명한 인물뿐 아니라 알려지지 않은 사람들도 포함함을 보여줍니다."
+      }
+    }
+  }
+]
