@@ -241,7 +241,7 @@
         "root": "ע-י-ר (이르)",
         "grammar": "명사",
         "emoji": "➡️",
-        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#arrow18)\" stroke-width=\"4\" marker-end=\"url(#arrowhead18)\"/><defs><marker id=\"arrowhead18\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#arrow18)\"/></svg>"
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#arrow18)\" stroke-width=\"4\" marker-end=\"url(#arrowhead18)\"/><defs><marker id=\"arrowhead18\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#arrow18)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"></svg>"
       },
       {
         "hebrew": "יָלַד",
@@ -274,7 +274,7 @@
         "root": "מ-ח-י (마하)",
         "grammar": "명사",
         "emoji": "🔗",
-        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"link18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF8C00\"/><stop offset=\"100%\" stop-color=\"#FF6347\"/></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/><circle cx=\"40\" cy=\"36\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/><rect x=\"28\" y=\"30\" width=\"8\" height=\"4\" fill=\"url(#link18)\" transform=\"rotate(30 32 32)\"/></svg>"
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"link18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF8C00\"/><stop offset=\"100%\" stop-color=\"#FF6347\"/></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"40\" cy=\"36\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/><rect x=\"28\" y=\"30\" width=\"8\" height=\"4\" fill=\"url(#link18)\" transform=\"rotate(30 32 32)\"/></svg>"
       },
       {
         "hebrew": "אֶת מְתֽוּשָׁאֵל",

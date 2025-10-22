@@ -80,7 +80,7 @@
         "root": "א-נ-ש (아나쉬)",
         "grammar": "명사",
         "emoji": "👩‍❤️‍👨",
-        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient></defs><path d=\"M 32 52 Q 16 36 16 24 Q 16 16 22 16 Q 28 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><path d=\"M 32 52 Q 48 36 48 24 Q 48 16 42 16 Q 36 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><circle cx=\"22\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/><circle cx=\"42\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/></svg>"
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient></defs><path d=\"M 32 52 Q 16 36 16 24 Q 16 16 22 16 Q 28 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><path d=\"M 32 52 Q 48 36 48 24 Q 48 16 42 16 Q 36 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><circle cx=\"22\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"42\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/></svg>"
       },
       {
         "hebrew": "הַאְזֵנָּה",
@@ -272,7 +272,7 @@
         "root": "נ-ק-ם (나캄)",
         "grammar": "동사",
         "emoji": "⚖️",
-        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"revenge1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B8860B\"/><stop offset=\"100%\" stop-color=\"#8B6914\"/></linearGradient></defs><rect x=\"28\" y=\"8\" width=\"8\" height=\"48\" fill=\"url(#revenge1)\"/><rect x=\"8\" y=\"12\" width=\"48\" height=\"4\" fill=\"url(#revenge1)\"/><path d=\"M 12 16 L 12 32 L 24 32 L 24 16 Z\" fill=\"none\" stroke=\"url(#revenge1)\" stroke-width=\"2\"/><path d=\"M 40 16 L 40 32 L 52 32 L 52 16 Z\" fill=\"none\" stroke=\"url(#revenge1)\" stroke-width=\"2\"/><circle cx=\"18\" cy=\"24\" r=\"3\" fill=\"#DC143C\"/><circle cx=\"46\" cy=\"24\" r=\"3\" fill=\"#DC143C\"/></svg>"
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"revenge1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B8860B\"/><stop offset=\"100%\" stop-color=\"#8B6914\"/></linearGradient></defs><rect x=\"28\" y=\"8\" width=\"8\" height=\"48\" fill=\"url(#revenge1)\"/><rect x=\"8\" y=\"12\" width=\"48\" height=\"4\" fill=\"url(#revenge1)\"/><path d=\"M 12 16 L 12 32 L 24 32 L 24 16 Z\" fill=\"none\" stroke=\"url(#revenge1)\" stroke-width=\"2\"/><path d=\"M 40 16 L 40 32 L 52 32 L 52 16 Z\" fill=\"none\" stroke=\"url(#revenge1)\" stroke-width=\"2\"/><circle cx=\"18\" cy=\"24\" r=\"3\" fill=\"#DC143C\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"46\" cy=\"24\" r=\"3\" fill=\"#DC143C\"/></svg>"
       },
       {
         "hebrew": "קָיִן",

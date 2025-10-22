@@ -26,7 +26,13 @@
     "generate:content": "tsx scripts/generate/index.ts",
     "save:content": "tsx scripts/generate/saveFromJson.ts",
     "icon:generate": "tsx scripts/icons/generateIcon.ts",
-    "icon:batch": "tsx scripts/icons/generateIcon.ts --batch"
+    "icon:batch": "tsx scripts/icons/generateIcon.ts --batch",
+    "icon:validate": "node scripts/validate-svg-icons.cjs",
+    "icon:analyze": "node scripts/analyze-svg-consistency.cjs",
+    "migrate:vocabulary": "tsx scripts/migrations/runVocabularyMigrationSimple.ts",
+    "types:generate": "echo 'ℹ️  Please generate types manually from Supabase Dashboard → Project Settings → API → Generate Types'",
+    "roots:generate": "tsx scripts/roots/generateHebrewRoots.ts",
+    "roots:map": "tsx scripts/roots/mapWordDerivations.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.67.0",
