@@ -1,0 +1,8 @@
+Generating comprehensive content for Genesis 11:1-8...
+
+Error: Error: Could not resolve authentication method. Expected either apiKey or authToken to be set. Or for one of the "X-Api-Key" or "Authorization" headers to be explicitly omitted
+    at Anthropic.validateHeaders (/Users/jinxin/dev/bible-study-app/node_modules/@anthropic-ai/sdk/src/client.ts:372:11)
+    at Anthropic.buildHeaders (/Users/jinxin/dev/bible-study-app/node_modules/@anthropic-ai/sdk/src/client.ts:891:10)
+    at async Anthropic.buildRequest (/Users/jinxin/dev/bible-study-app/node_modules/@anthropic-ai/sdk/src/client.ts:839:24)
+    at async Anthropic.makeRequest (/Users/jinxin/dev/bible-study-app/node_modules/@anthropic-ai/sdk/src/client.ts:535:35)
+    at async generateContent (/Users/jinxin/dev/bible-study-app/scripts/generate/genesis_11_1-8.ts:115:19)
