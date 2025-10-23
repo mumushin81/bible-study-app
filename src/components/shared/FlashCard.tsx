@@ -186,16 +186,7 @@ export default function FlashCard({
               />
             </div>
 
-            {/* 2. 원문 단어 - 반응형 폰트 */}
-            <div
-              className={`text-2xl sm:text-3xl md:text-4xl font-bold ${darkMode ? 'text-white' : 'text-gray-900'}`}
-              dir="rtl"
-              style={{ fontFamily: 'David, serif' }}
-            >
-              {word.hebrew}
-            </div>
-
-            {/* 3. 뜻 - 반응형 폰트 */}
+            {/* 2. 뜻 - 반응형 폰트 */}
             <div
               className={`text-xl sm:text-2xl md:text-3xl font-bold ${
                 darkMode ? 'text-white' : 'text-gray-900'
@@ -204,7 +195,7 @@ export default function FlashCard({
               {word.meaning}
             </div>
 
-            {/* 4. 어근 - 반응형 */}
+            {/* 3. 어근 - 반응형 */}
             {word.root && (
               <div className="space-y-1 sm:space-y-2">
                 <div
@@ -221,26 +212,6 @@ export default function FlashCard({
                   dir="rtl"
                 >
                   {word.root}
-                </div>
-              </div>
-            )}
-
-            {/* 5. 품사 - 반응형 */}
-            {word.grammar && (
-              <div className="space-y-1 sm:space-y-2">
-                <div
-                  className={`text-xs sm:text-sm font-semibold ${
-                    darkMode ? 'text-purple-400' : 'text-purple-700'
-                  }`}
-                >
-                  품사
-                </div>
-                <div
-                  className={`text-base sm:text-lg md:text-xl font-medium ${
-                    darkMode ? 'text-purple-200' : 'text-purple-900'
-                  }`}
-                >
-                  {getSimpleGrammar(word.grammar)}
                 </div>
               </div>
             )}
