@@ -8,6 +8,7 @@ import {
   getSimpleGrammar,
   speakHebrew,
 } from '../../utils/wordHelpers';
+import { getGrammarColors } from '../../utils/grammarColors';
 
 interface FlashCardProps {
   word: Word | WordWithContext;
@@ -31,6 +32,7 @@ export default function FlashCard({
   index = 0,
 }: FlashCardProps) {
   const colors = getWordColor(word, darkMode);
+  const grammarColors = word.grammar ? getGrammarColors(word.grammar) : null;
 
   return (
     <motion.div
@@ -75,10 +77,10 @@ export default function FlashCard({
             />
           </button>
 
-          {/* 품사 표시 (상단 왼쪽) */}
-          {word.grammar && (
+          {/* 품사 표시 (상단 왼쪽) - 품사별 색상 */}
+          {word.grammar && grammarColors && (
             <div className={`absolute top-4 left-4 px-3 py-1 rounded-full text-xs font-semibold ${
-              darkMode ? 'bg-purple-900/30 text-purple-300' : 'bg-purple-100 text-purple-700'
+              darkMode ? `${grammarColors.dark.bg} ${grammarColors.dark.text}` : `${grammarColors.light.bg} ${grammarColors.light.text}`
             }`}>
               {getSimpleGrammar(word.grammar)}
             </div>
