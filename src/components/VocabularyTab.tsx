@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
 import FlashCard from './shared/FlashCard';
 import HebrewIcon from './shared/HebrewIcon';
-// import BookProgressDashboard from './BookProgressDashboard'; // TODO: Create this component
+import BookProgressDashboard from './BookProgressDashboard';
 import RootFlashcardDeck from './RootFlashcardDeck';
 import RootCard from './RootCard';
 import { RootGridSkeleton } from './shared/SkeletonLoader';
@@ -11,7 +11,7 @@ import { useWords, WordWithContext } from '../hooks/useWords';
 import { useBookmarks } from '../hooks/useBookmarks';
 import { useSRS } from '../hooks/useSRS';
 import { useBooks } from '../hooks/useBooks';
-// import { useBookProgress } from '../hooks/useBookProgress'; // TODO: Create this hook
+import { useBookProgress } from '../hooks/useBookProgress';
 import { useHebrewRoots, type HebrewRoot } from '../hooks/useHebrewRoots';
 import {
   getWordEmoji,
@@ -59,9 +59,7 @@ export default function VocabularyTab({
 
   // 데이터 hooks
   const { books, loading: booksLoading } = useBooks();
-  // const { progress: bookProgress, loading: progressLoading } = useBookProgress(selectedBook); // TODO: Create hook
-  const bookProgress = null; // Temporary placeholder
-  const progressLoading = false; // Temporary placeholder
+  const { progress: bookProgress, loading: progressLoading } = useBookProgress(selectedBook);
   const { words: allWords, loading: wordsLoading, error: wordsError } = useWords({
     bookId: selectedBook,
   });
@@ -394,19 +392,13 @@ export default function VocabularyTab({
     <div className={`${darkMode ? 'text-white' : 'text-gray-900'}`}>
       {/* 뷰 모드가 대시보드인 경우 */}
       {viewMode === 'dashboard' && (
-        <div>
-          {/* 대시보드 */}
-          {/* TODO: Create BookProgressDashboard component */}
-          <div className={`rounded-3xl shadow-xl p-12 text-center ${
-            darkMode
-              ? 'bg-gradient-to-br from-slate-900/60 to-indigo-900/40 border border-cyan-400/20'
-              : 'bg-white/90 border border-amber-200'
-          }`}>
-            <p className={darkMode ? 'text-gray-400' : 'text-gray-600'}>
-              대시보드 기능은 개발 중입니다.
-            </p>
-          </div>
-        </div>
+        <BookProgressDashboard
+          darkMode={darkMode}
+          onSelectBook={(bookId) => {
+            setInternalSelectedBook(bookId);
+            setInternalViewMode('words');
+          }}
+        />
       )}
 
       {/* 뷰 모드가 어근 학습인 경우 */}
