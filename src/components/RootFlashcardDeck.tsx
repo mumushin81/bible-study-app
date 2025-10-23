@@ -104,7 +104,13 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
 
           {/* 어근 카드 */}
           <div className="text-center">
-            <div className="text-5xl mb-2">{root.emoji}</div>
+            <div className="mb-4 flex justify-center">
+              <BookOpen
+                size={64}
+                className={darkMode ? 'text-purple-400' : 'text-purple-600'}
+                strokeWidth={1.5}
+              />
+            </div>
             <h1 className="text-4xl font-bold mb-2" dir="rtl" style={{ fontFamily: 'David, serif' }}>
               {root.root_hebrew}
             </h1>

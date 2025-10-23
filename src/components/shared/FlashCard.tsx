@@ -4,10 +4,8 @@ import { Word } from '../../types';
 import { WordWithContext } from '../../hooks/useWords';
 import HebrewIcon from './HebrewIcon';
 import {
-  getWordEmoji,
   getWordColor,
   getSimpleGrammar,
-  getGrammarEmoji,
   speakHebrew,
 } from '../../utils/wordHelpers';
 
@@ -22,25 +20,6 @@ interface FlashCardProps {
   index?: number;
 }
 
-// Enhanced Emoji Component with better styling
-function EnhancedEmoji({ emoji, size = 72 }: { emoji: string; size?: number }) {
-  return (
-    <span
-      style={{
-        fontSize: `${size}px`,
-        lineHeight: 1,
-        display: 'inline-block',
-        fontFamily: 'Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji, Android Emoji, EmojiSymbols, EmojiOne Color',
-        textShadow: '0 2px 4px rgba(0,0,0,0.1)',
-      }}
-      role="img"
-      aria-label={emoji}
-    >
-      {emoji}
-    </span>
-  );
-}
-
 export default function FlashCard({
   word,
   darkMode,
@@ -51,7 +30,6 @@ export default function FlashCard({
   reference,
   index = 0,
 }: FlashCardProps) {
-  const emoji = getWordEmoji(word);
   const colors = getWordColor(word, darkMode);
 
   return (
@@ -108,14 +86,13 @@ export default function FlashCard({
           )}
 
           <div className="text-center w-full">
-            {/* 아이콘 */}
+            {/* SVG 아이콘 */}
             <div className="mb-4 flex justify-center">
               <HebrewIcon
                 word={word.hebrew}
                 iconSvg={word.iconSvg}
                 size={80}
                 color={darkMode ? '#ffffff' : '#1f2937'}
-                fallback={emoji}
               />
             </div>
 
@@ -233,9 +210,8 @@ export default function FlashCard({
                   <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-purple-400' : 'text-purple-700'}`}>
                     품사
                   </div>
-                  <div className={`text-sm font-medium flex items-center gap-2 ${darkMode ? 'text-purple-200' : 'text-purple-900'}`}>
-                    <span>{getSimpleGrammar(word.grammar)}</span>
-                    <EnhancedEmoji emoji={getGrammarEmoji(word.grammar)} size={18} />
+                  <div className={`text-sm font-medium ${darkMode ? 'text-purple-200' : 'text-purple-900'}`}>
+                    {getSimpleGrammar(word.grammar)}
                   </div>
                 </div>
               )}

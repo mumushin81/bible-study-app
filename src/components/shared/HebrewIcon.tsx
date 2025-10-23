@@ -1,10 +1,10 @@
 import React, { useId, useMemo } from 'react';
 import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWord, type IconProps } from '../icons';
+import { FileText } from 'lucide-react';
 
 interface HebrewIconProps extends IconProps {
   word: string;
   iconSvg?: string; // 커스텀 SVG 코드
-  fallback?: string; // fallback emoji
 }
 
 const HebrewIcon: React.FC<HebrewIconProps> = ({
@@ -12,8 +12,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   iconSvg,
   size = 32,
   className = '',
-  color = 'currentColor',
-  fallback = '📜'
+  color = 'currentColor'
 }) => {
   // React 18 useId: SSR/Hydration safe, deterministic
   const reactId = useId();
@@ -97,22 +96,25 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         break;
     }
   }
-  
-  // 커스텀 아이콘이 없으면 fallback 이모지 사용
+
+  // 기본 SVG 아이콘 사용 (이모지 대신)
   return (
-    <span 
-      style={{
-        fontSize: `${size}px`,
-        lineHeight: 1,
-        display: 'inline-block',
-        fontFamily: 'Apple Color Emoji, Segoe UI Emoji, Noto Color Emoji',
-      }}
+    <div
       className={className}
-      role="img"
-      aria-label={word}
+      style={{
+        width: `${size}px`,
+        height: `${size}px`,
+        display: 'inline-flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
     >
-      {fallback}
-    </span>
+      <FileText
+        size={size * 0.8}
+        color={color}
+        strokeWidth={1.5}
+      />
+    </div>
   );
 };
 

@@ -1,5 +1,6 @@
 import { memo } from 'react';
 import { motion } from 'framer-motion';
+import { BookOpen } from 'lucide-react';
 import type { HebrewRoot } from '../hooks/useHebrewRoots';
 
 interface RootCardProps {
@@ -24,7 +25,13 @@ const RootCard = memo(function RootCard({ root, darkMode, onClick, index }: Root
           : 'bg-gradient-to-br from-white/80 to-purple-50/60 hover:from-purple-50/80 hover:to-pink-50/60 border border-purple-200/50'
       }`}
     >
-      <div className="text-4xl mb-3">{root.emoji}</div>
+      <div className="mb-3">
+        <BookOpen
+          size={40}
+          className={darkMode ? 'text-purple-400' : 'text-purple-600'}
+          strokeWidth={1.5}
+        />
+      </div>
       <div className="text-2xl font-bold mb-2" dir="rtl" style={{ fontFamily: 'David, serif' }}>
         {root.root_hebrew}
       </div>

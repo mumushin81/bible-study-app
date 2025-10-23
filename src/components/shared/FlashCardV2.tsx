@@ -105,7 +105,6 @@ export default function FlashCardV2({
                 iconSvg={word.iconSvg}
                 size={96}
                 color={darkMode ? '#ffffff' : '#1f2937'}
-                fallback={word.emoji || '📜'}
               />
             </div>
 
@@ -200,7 +199,6 @@ export default function FlashCardV2({
                 iconSvg={word.iconSvg}
                 size={80}
                 color={darkMode ? '#ffffff' : '#1f2937'}
-                fallback={word.emoji || '📜'}
               />
             </div>
 
