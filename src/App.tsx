@@ -261,11 +261,12 @@ export default function App() {
               )}
 
               {activeTab === 'vocabulary' && (
-                <div className="flex items-center gap-2">
+                <div className="flex items-center gap-1.5 sm:gap-2">
                   {/* 단어장 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('words')}
-                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    title="단어장"
+                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
                       vocabularyViewMode === 'words'
                         ? darkMode
                           ? 'bg-purple-500/20 text-purple-300 border-purple-400/50'
@@ -276,7 +277,7 @@ export default function App() {
                     }`}
                   >
                     {/* Book/Words SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
                       <defs>
                         <linearGradient id="vocab-book-grad" x1="0%" y1="0%" x2="100%" y2="100%">
                           <stop offset="0%" stopColor="#EC4899" />
@@ -294,13 +295,14 @@ export default function App() {
                       <line x1="24" y1="28" x2="42" y2="28" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
                       <line x1="24" y1="34" x2="38" y2="34" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
                     </svg>
-                    단어장
+                    <span className="hidden sm:inline">단어장</span>
                   </button>
 
                   {/* 어근학습 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('roots')}
-                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    title="어근학습"
+                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
                       vocabularyViewMode === 'roots'
                         ? darkMode
                           ? 'bg-green-500/20 text-green-300 border-green-400/50'
@@ -311,7 +313,7 @@ export default function App() {
                     }`}
                   >
                     {/* Tree/Roots SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
                       <defs>
                         <linearGradient id="roots-tree-grad" x1="0%" y1="0%" x2="0%" y2="100%">
                           <stop offset="0%" stopColor="#10B981" />
@@ -328,13 +330,14 @@ export default function App() {
                       <circle cx="40" cy="26" r="8" fill="url(#roots-leaves-grad)" opacity="0.8" />
                       <path d="M 28 52 Q 20 56 16 60 M 36 52 Q 44 56 48 60 M 32 52 L 32 60" stroke="#059669" strokeWidth="2" fill="none" opacity="0.6" />
                     </svg>
-                    어근학습
+                    <span className="hidden sm:inline">어근학습</span>
                   </button>
 
                   {/* 진도대시보드 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('dashboard')}
-                    className={`flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    title="진도대시보드"
+                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
                       vocabularyViewMode === 'dashboard'
                         ? darkMode
                           ? 'bg-blue-500/20 text-blue-300 border-blue-400/50'
@@ -345,7 +348,7 @@ export default function App() {
                     }`}
                   >
                     {/* Chart/Dashboard SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5" xmlns="http://www.w3.org/2000/svg">
+                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
                       <defs>
                         <linearGradient id="dash-chart-grad" x1="0%" y1="100%" x2="100%" y2="0%">
                           <stop offset="0%" stopColor="#3B82F6" />
@@ -358,7 +361,7 @@ export default function App() {
                       <polyline points="12,38 22,28 32,32 42,18 52,22" stroke="#60A5FA" strokeWidth="2" fill="none" opacity="0.6" />
                       <circle cx="32" cy="12" r="6" fill="#60A5FA" opacity="0.3" />
                     </svg>
-                    진도대시보드
+                    <span className="hidden sm:inline">진도대시보드</span>
                   </button>
                 </div>
               )}
