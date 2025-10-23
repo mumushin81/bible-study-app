@@ -1,0 +1,200 @@
+{
+  "id": "genesis_9_26",
+  "reference": "창세기 9:26",
+  "hebrew": "וַיֹּאמֶר בָּרוּךְ יְהוָה אֱלֹהֵי שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
+  "ipa": "vajːoːmɛr baːruːχ jəhoːvaː ʔɛloːheː ʃeːm viːhiː kənaːʕan ʕɛvɛd laːmoː",
+  "koreanPronunciation": "바요메르 바루크 여호와 엘로헤 쉠 비히 크나안 에베드 라모",
+  "modern": "그가 말했다: '셈의 하나님 여호와를 찬송하리로다. 가나안은 그들의 종이 될 것이다'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말했다",
+      "ipa": "vajːoːmɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "אָמַר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"said_vayomer2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"20\" ry=\"16\" fill=\"url(#said_vayomer2)\" opacity=\"0.8\" /><path d=\"M 24 40 L 32 44 L 28 40 Z\" fill=\"url(#said_vayomer2)\" opacity=\"0.8\" /><path d=\"M 26 22 Q 28 20 30 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 34 22 Q 36 20 38 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבַר (다바르 - 말하다)"
+      ]
+    },
+    {
+      "hebrew": "בָּרוּךְ",
+      "meaning": "찬송받으시는",
+      "ipa": "baːruːχ",
+      "korean": "바루크",
+      "letters": "בָּ(ba) + רוּךְ(rukh)",
+      "root": "בָּרַךְ (바라크)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"blessed_barukh\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#blessed_barukh)\" opacity=\"0.9\" filter=\"drop-shadow(0 4px 12px rgba(255, 215, 0, 0.6))\" /><path d=\"M 32 16 L 36 24 L 44 24 L 38 30 L 40 38 L 32 34 L 24 38 L 26 30 L 20 24 L 28 24 Z\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בָּרַךְ (바라크 - 축복하다)",
+        "בְּרָכָה (브라카 - 축복)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoːvaː",
+      "korean": "여호와",
+      "letters": "יְ(ye) + הוָה(hovah)",
+      "root": "יְהוָה (여호와)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh_name\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#yhwh_name)\" opacity=\"0.9\" filter=\"drop-shadow(0 6px 16px rgba(255, 215, 0, 0.8))\" /><text x=\"32\" y=\"40\" font-size=\"24\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" opacity=\"0.9\">יהוה</text></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "אֶהְיֶה (에흐예 - 나는 있다)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהֵי",
+      "meaning": "하나님",
+      "ipa": "ʔɛloːheː",
+      "korean": "엘로헤",
+      "letters": "אֱ(e) + לֹ(lo) + הֵי(hei)",
+      "root": "אֱלֹהִים (엘로힘)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god_elohei\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohei\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohei)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#god_elohei)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֵל (엘 - 하나님, 권능자)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃeːm",
+      "korean": "쉠",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shem_name2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#shem_name2)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#shem_name2)\" opacity=\"0.8\" /><path d=\"M 24 20 L 28 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 40 20 L 36 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 16 L 32 12\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "שָׂם (삼 - 두다, 놓다)"
+      ]
+    },
+    {
+      "hebrew": "וִיהִי",
+      "meaning": "그리고 되리라",
+      "ipa": "viːhiː",
+      "korean": "비히",
+      "letters": "וִ(vi) + יהִי(hi)",
+      "root": "הָיָה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"letbe_vihi\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#letbe_vihi)\" opacity=\"0.5\" /><path d=\"M 32 32 L 48 32\" stroke=\"url(#letbe_vihi)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#letbe_vihi)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יִהְיֶה (이혜예 - ~일 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כְנַעַן",
+      "meaning": "가나안",
+      "ipa": "kənaːʕan",
+      "korean": "크나안",
+      "letters": "כְּ(ke) + נַ(na) + עַן(an)",
+      "root": "כְּנַעַן (크나안)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan_kenaan3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><path d=\"M 12 48 L 12 32 Q 12 24 20 20 L 44 20 Q 52 24 52 32 L 52 48 Z\" fill=\"url(#canaan_kenaan3)\" opacity=\"0.8\" /><rect x=\"24\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><rect x=\"34\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "כָּנַע (카나 - 복종하다)",
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)"
+      ]
+    },
+    {
+      "hebrew": "עֶבֶד",
+      "meaning": "종",
+      "ipa": "ʕɛvɛd",
+      "korean": "에베드",
+      "letters": "עֶ(e) + בֶד(ved)",
+      "root": "עָבַד (아바드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"servant_eved2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#servant_eved2)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"14\" fill=\"url(#servant_eved2)\" opacity=\"0.8\" /><rect x=\"18\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved2)\" opacity=\"0.7\" /><rect x=\"38\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved2)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עָבַד (아바드 - 섬기다)",
+        "עֲבוֹדָה (아보다 - 일, 섬김)"
+      ]
+    },
+    {
+      "hebrew": "לָמוֹ",
+      "meaning": "그들에게",
+      "ipa": "laːmoː",
+      "korean": "라모",
+      "letters": "לָ(la) + מוֹ(mo)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tothem_lamo\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"url(#tothem_lamo)\" opacity=\"0.8\" /><path d=\"M 24 32 L 48 32\" stroke=\"url(#tothem_lamo)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"24\" r=\"6\" fill=\"url(#tothem_lamo)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"6\" fill=\"url(#tothem_lamo)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"40\" r=\"6\" fill=\"url(#tothem_lamo)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "לְ (레 - ~에게)",
+        "לָהֶם (라헴 - 그들에게)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "셈에 대한 노아의 축복입니다. 이는 단순히 셈을 축복하는 것이 아니라, '셈의 하나님 여호와'를 찬송하는 것으로 시작합니다. 이는 신앙과 하나님과의 관계가 가장 큰 축복임을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בָּרוּךְ יְהוָה (바루크 여호와) - 여호와를 찬송하리로다",
+        "description": "노아는 셈을 직접 축복하지 않고 하나님을 찬송합니다. 진정한 축복은 하나님과의 관계에서 나오기 때문입니다. 이는 물질적 축복보다 영적 축복이 우선임을 보여줍니다.",
+        "points": [
+          "가장 큰 축복은 하나님과의 관계입니다",
+          "물질적 축복보다 영적 축복이 우선입니다",
+          "하나님을 아는 것이 모든 축복의 근원입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֱלֹהֵי שֵׁם (엘로헤 쉠) - 셈의 하나님",
+        "description": "'셈의 하나님'이라는 표현은 하나님과 셈의 특별한 언약 관계를 나타냅니다. 하나님은 '아브라함의 하나님, 이삭의 하나님, 야곱의 하나님'으로 불리시듯, 셈과 그 후손(특히 이스라엘)과 특별한 관계를 맺으십니다.",
+        "points": [
+          "셈의 후손(아브라함, 이삭, 야곱, 이스라엘)은 하나님의 선민이 됩니다",
+          "메시아(예수 그리스도)가 셈의 혈통으로 오십니다",
+          "구속사는 주로 셈의 후손을 통해 전개됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "여호와(יְהוָה) - 언약의 하나님",
+        "description": "이 구절에서 처음으로 '여호와'(YHWH)라는 하나님의 언약 이름이 사용됩니다. 이는 셈과 그 후손에게 특별한 언약적 관계가 주어질 것을 암시합니다.",
+        "points": [
+          "여호와는 '스스로 있는 자'라는 의미입니다",
+          "언약의 하나님으로서 신실하심을 나타냅니다",
+          "셈의 후손을 통해 하나님의 구원 계획이 이루어집니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וִיהִי כְנַעַן עֶבֶד לָמוֹ (비히 크나안 에베드 라모) - 가나안이 그들의 종이 되리라",
+        "description": "셈의 축복은 가나안이 그들의 종이 될 것이라는 예언과 함께 주어집니다. 이는 여호수아의 가나안 정복에서 역사적으로 성취됩니다.",
+        "points": [
+          "이스라엘(셈의 후손)이 가나안 땅을 차지합니다",
+          "가나안 족속은 이스라엘의 종이 됩니다(여호수아 9:23)",
+          "영적으로 선민이 악을 이기는 것을 상징합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 셈을 축복하는 대신 하나님을 찬송했나요?",
+      "answer": "노아는 정말 지혜로운 할아버지였어요! 노아는 셈에게 '너는 부자가 되고 강해질 거야'라고 말하지 않았어요. 대신 '셈의 하나님 여호와를 찬송하리라'고 말했어요. 왜 그랬을까요? 노아는 가장 큰 축복이 돈이나 힘이 아니라 하나님을 아는 것이라는 걸 알았기 때문이에요! 하나님을 아는 사람은 무엇이든 할 수 있고, 어려울 때 도움을 받을 수 있어요. 셈의 후손인 아브라함, 이삭, 야곱은 모두 하나님과 친구가 되었고, 결국 예수님도 셈의 자손으로 태어나셨어요! 노아는 셈이 하나님과 친한 친구가 되기를 바랐던 거예요. 이것이 가장 큰 축복이랍니다!",
+      "bibleReferences": [
+        "시편 144:15 - '이러한 백성은 복이 있나니 여호와를 자기 하나님으로 삼은 백성은 복이 있도다'",
+        "예레미야 9:23-24 - '지혜로운 자는 그의 지혜를 자랑하지 말라... 자랑하는 자는 이것으로 자랑할지니 곧 명철하여 나를 아는 것'",
+        "요한복음 17:3 - '영생은 곧 유일하신 참 하나님과 그가 보내신 자 예수 그리스도를 아는 것이니이다'",
+        "빌립보서 3:8 - '내 주 그리스도 예수를 아는 지식이 가장 고상하므로 내가 그를 위하여 모든 것을 잃어버리고 배설물로 여김은'",
+        "출애굽기 3:6 - '나는 네 조상의 하나님이니 아브라함의 하나님, 이삭의 하나님, 야곱의 하나님이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:26은 구속사에서 가장 중요한 축복 중 하나입니다. 노아는 셈을 직접 축복하지 않고 '셈의 하나님 여호와'를 찬송함으로써, 진정한 축복이 하나님과의 관계에 있음을 보여줍니다. 이 예언은 역사적으로 완벽하게 성취되었습니다. 셈의 후손인 아브라함은 하나님과 특별한 언약을 맺었고(창세기 12:1-3), 이삭과 야곱을 통해 이스라엘 민족이 형성되었습니다. 모세는 십계명을 받았고, 다윗은 위대한 왕이 되었으며, 궁극적으로 예수 그리스도께서 셈의 혈통(누가복음 3:36)으로 오셔서 모든 민족의 구원자가 되셨습니다. '셈의 하나님'은 후에 '아브라함의 하나님, 이삭의 하나님, 야곱의 하나님'(출애굽기 3:6)으로 불리시며, 언약의 하나님으로서 신실하심을 보이셨습니다. 이 축복은 물질적 번영보다 영적 관계가 우선임을 가르치며, 하나님을 아는 것이 가장 큰 축복임을 보여줍니다(예레미야 9:23-24, 요한복음 17:3)."
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": "genesis_4_4",
+  "reference": "창세기 4:4",
+  "hebrew": "",
+  "ipa": "vəˈhevel heˈvi ɡam ˈhu mibəkoˈrot ʦoˈno umeˈxelbeˌhen vajˈjiʃa jəhoˈva ʔɛl ˈhevel vəʔɛl minxaˈto",
+  "koreanPronunciation": "베헤벨 헤비 감 후 미베코로트 쪼노 우메헬베헨 바이샤 예호와 엘 헤벨 베엘 민하토",
+  "modern": "아벨도 그의 양 떼 중에서 첫 새끼와 그 기름으로 제물을 드렸는데, 여호와께서 아벨과 그의 제물을 기쁘게 받으셨습니다",
+  "words": [
+    {
+      "hebrew": "וְהֶבֶל",
+      "meaning": "그리고 아벨도",
+      "ipa": "vəˈhevel",
+      "korean": "베헤벨",
+      "letters": "וְ(ve) + הֶ(he) + בֶל(vel)",
+      "root": "ה-ב-ל (헤벨)",
+      "grammar": "명사",
+      "emoji": "🐑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abel2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#D3D3D3\"/></linearGradient><radialGradient id=\"innocence1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#innocence1)\" opacity=\"0.4\"/><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"14\" fill=\"url(#abel2)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"24\" r=\"8\" fill=\"url(#abel2)\"/><circle cx=\"26\" cy=\"22\" r=\"2\" fill=\"#333\"/><circle cx=\"30\" cy=\"22\" r=\"2\" fill=\"#333\"/><path d=\"M 16 40 L 18 48 L 20 40\" stroke=\"#D3D3D3\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 44 40 L 46 48 L 48 40\" stroke=\"#D3D3D3\" stroke-width=\"2\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "הֵבִיא",
+      "meaning": "가져왔다, 드렸다",
+      "ipa": "heˈvi",
+      "korean": "헤비",
+      "letters": "הֵ(he) + בִיא(vi)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#glow2)\" opacity=\"0.3\"/><path d=\"M 12 32 L 32 16 L 52 32\" stroke=\"url(#bring2)\" stroke-width=\"4\" fill=\"none\" marker-end=\"url(#arrow4)\"/><rect x=\"28\" y=\"32\" width=\"8\" height=\"16\" fill=\"url(#bring2)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/><defs><marker id=\"arrow4\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "גַם הוּא",
+      "meaning": "그도 또한",
+      "ipa": "ɡam ˈhu",
+      "korean": "감 후",
+      "letters": "גַם(gam) + הוּא(hu)",
+      "root": "ג-ם (감)",
+      "grammar": "부사",
+      "emoji": "➕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"also1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#also1)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(25, 118, 210, 0.3))\"/><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#also1)\" filter=\"drop-shadow(0 2px 4px rgba(25, 118, 210, 0.4))\"/><path d=\"M 34 32 L 30 32\" stroke=\"#1976D2\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "מִבְּכֹרוֹת",
+      "meaning": "첫 새끼들로부터",
+      "ipa": "mibəkoˈrot",
+      "korean": "미베코로트",
+      "letters": "מִ(mi) + בְּ(be) + כֹרוֹת(korot)",
+      "root": "ב-כ-ר (바카르)",
+      "grammar": "명사",
+      "emoji": "🐑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"firstborn1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient><linearGradient id=\"lamb1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#F0F0F0\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#firstborn1)\" opacity=\"0.2\"/><ellipse cx=\"32\" cy=\"36\" rx=\"14\" ry=\"12\" fill=\"url(#lamb1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"7\" fill=\"url(#lamb1)\"/><circle cx=\"26\" cy=\"24\" r=\"1.5\" fill=\"#333\"/><circle cx=\"30\" cy=\"24\" r=\"1.5\" fill=\"#333\"/><path d=\"M 32 20 L 34 16 L 36 20\" stroke=\"url(#firstborn1)\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"34\" cy=\"14\" r=\"3\" fill=\"url(#firstborn1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "צֹאנוֹ",
+      "meaning": "그의 양 떼",
+      "ipa": "ʦoˈno",
+      "korean": "쪼노",
+      "letters": "צֹ(tso) + אנוֹ(no)",
+      "root": "צ-א-ן (쪼안)",
+      "grammar": "명사",
+      "emoji": "🐏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flock1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#D3D3D3\"/></linearGradient></defs><ellipse cx=\"20\" cy=\"38\" rx=\"10\" ry=\"8\" fill=\"url(#flock1)\" opacity=\"0.7\"/><ellipse cx=\"32\" cy=\"36\" rx=\"12\" ry=\"10\" fill=\"url(#flock1)\"/><ellipse cx=\"44\" cy=\"38\" rx=\"10\" ry=\"8\" fill=\"url(#flock1)\" opacity=\"0.7\"/><circle cx=\"20\" cy=\"30\" r=\"5\" fill=\"url(#flock1)\" opacity=\"0.7\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#flock1)\"/><circle cx=\"44\" cy=\"30\" r=\"5\" fill=\"url(#flock1)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "וּמֵחֶלְבֵהֶן",
+      "meaning": "그리고 그것들의 기름으로부터",
+      "ipa": "umeˈxelbeˌhen",
+      "korean": "우메헬베헨",
+      "letters": "וּ(u) + מֵ(me) + חֶלְבֵ(helbe) + הֶן(hen)",
+      "root": "ח-ל-ב (헬레브)",
+      "grammar": "명사",
+      "emoji": "💎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fat1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#fat1)\" filter=\"drop-shadow(0 3px 6px rgba(255, 140, 0, 0.5))\"/><ellipse cx=\"32\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#shine1)\" opacity=\"0.6\"/><path d=\"M 28 28 L 32 24 L 36 28 L 32 32 Z\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "וַיִּשַׁע",
+      "meaning": "그리고 (눈길을) 돌리시다, 주목하시다",
+      "ipa": "vajˈjiʃa",
+      "korean": "바이샤",
+      "letters": "וַ(va) + יִּ(yi) + שַׁע(sha)",
+      "root": "ש-ע-ה (샤아)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"regard1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"eye1\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#regard1)\" opacity=\"0.4\"/><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"url(#eye1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#1E3A5F\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#000000\"/><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈva",
+      "korean": "예호와",
+      "letters": "יְ(ye) + הוָה(hovah)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh3\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh3)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam3)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+    },
+    {
+      "hebrew": "אֶל הֶבֶל",
+      "meaning": "아벨에게",
+      "ipa": "ʔɛl ˈhevel",
+      "korean": "엘 헤벨",
+      "letters": "אֶל(el) + הֶ(he) + בֶל(vel)",
+      "root": "ה-ב-ל (헤벨)",
+      "grammar": "명사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"acceptance1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient><radialGradient id=\"blessing1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"18\" fill=\"url(#blessing1)\" opacity=\"0.5\"/><path d=\"M 24 36 L 24 28 L 28 24 L 32 28 L 28 36 Z\" fill=\"url(#acceptance1)\" filter=\"drop-shadow(0 2px 4px rgba(106, 27, 154, 0.4))\"/><path d=\"M 40 36 L 40 28 L 36 24 L 32 28 L 36 36 Z\" fill=\"url(#acceptance1)\" filter=\"drop-shadow(0 2px 4px rgba(106, 27, 154, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "וְאֶל מִנְחָתוֹ",
+      "meaning": "그리고 그의 제물에게",
+      "ipa": "vəʔɛl minxaˈto",
+      "korean": "베엘 민하토",
+      "letters": "וְ(ve) + אֶל(el) + מִנְחָתוֹ(minhato)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fire1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"smoke2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><rect x=\"20\" y=\"44\" width=\"24\" height=\"12\" fill=\"#8B4513\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 26 44 Q 24 36 26 24 Q 28 16 26 8\" stroke=\"url(#smoke2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 32 44 Q 32 36 32 24 Q 32 16 32 8\" stroke=\"url(#smoke2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 38 44 Q 40 36 38 24 Q 36 16 38 8\" stroke=\"url(#smoke2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 26 44 Q 28 38 26 32 Q 24 28 26 24\" fill=\"url(#fire1)\" opacity=\"0.8\"/><path d=\"M 32 44 Q 34 36 32 28 Q 30 24 32 20\" fill=\"url(#fire1)\"/><path d=\"M 38 44 Q 40 38 38 32 Q 36 28 38 24\" fill=\"url(#fire1)\" opacity=\"0.8\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 4절은 아벨의 제사가 하나님께 받아들여진 순간을 기록합니다. '첫 새끼'와 '기름'이라는 표현은 아벨이 최상의 것을 하나님께 드렸음을 보여주며, 하나님께서 그와 그의 제물을 '주목하셨다'는 것은 기쁘게 받으셨음을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מִבְּכֹרוֹת (미베코로트) - 첫 새끼들, 최상의 것",
+        "description": "'베코라'는 '맏이', '첫 번째'를 의미하는 히브리어입니다. 아벨은 양 떼 중에서 가장 먼저 태어난 어린 양을 드렸습니다. 이는 가장 좋은 것, 가장 귀한 것을 하나님께 드린 것입니다.",
+        "points": [
+          "처음 것을 하나님께 드리는 것은 하나님을 최우선으로 하는 신앙",
+          "출애굽기 13:2에서 모든 첫 것은 하나님께 속함",
+          "레위기에서 흠 없는 제물을 요구함 - 최상의 것을 드려야 함",
+          "잠언 3:9 '네 소산의 처음 익은 열매로 여호와를 공경하라'"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וּמֵחֶלְבֵהֶן (우메헬베헨) - 그것들의 기름",
+        "description": "'헬레브'는 동물의 내장 기름, 가장 좋은 부분을 의미합니다. 레위기에서 기름은 하나님께만 드려야 하는 가장 귀한 부분으로 규정됩니다. 아벨은 최상의 것을 드렸습니다.",
+        "points": [
+          "기름은 동물의 가장 귀하고 좋은 부분",
+          "레위기 3:16 '모든 기름은 여호와의 것이라'",
+          "최고의 것을 하나님께 드리는 온전한 헌신",
+          "형식이 아닌 진심과 최선을 다하는 예배"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּשַׁע (바이샤) - 주목하시다, 받으시다",
+        "description": "'샤아'는 '바라보다', '주목하다'를 의미합니다. 하나님께서 아벨과 그의 제물에 눈길을 돌리셨다는 것은 기쁘게 받으셨다는 의미입니다. 이는 외적 행위가 아니라 내적 태도를 보시는 하나님을 보여줍니다.",
+        "points": [
+          "하나님은 제물 자체보다 드리는 자의 마음을 보심",
+          "히브리서 11:4 '믿음으로 아벨은 가인보다 더 나은 제사를 하나님께 드림'",
+          "하나님께 나아가는 올바른 태도와 믿음이 중요함",
+          "가인의 제물은 '주목하지 않으셨다' - 대조적 반응"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֶל הֶבֶל וְאֶל מִנְחָתוֹ (엘 헤벨 베엘 민하토) - 아벨과 그의 제물",
+        "description": "하나님은 '제물'만이 아니라 '아벨과 제물' 모두를 받으셨습니다. 이는 하나님이 무엇을 드렸느냐보다 누가, 어떤 마음으로 드렸느냐를 중시하심을 보여줍니다.",
+        "points": [
+          "제물 이전에 드리는 사람이 먼저 하나님께 받아들여져야 함",
+          "예배자의 마음과 삶이 제물보다 중요함",
+          "사무엘상 15:22 '순종이 제사보다 낫고'",
+          "신약의 '산 제사' 개념 - 삶 전체가 예배 (로마서 12:1)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 아벨의 제사를 기쁘게 받으셨나요?",
+      "answer": "아벨은 하나님께 가장 좋은 것을 드렸어요. 양 떼 중에서 가장 먼저 태어난 새끼와 가장 좋은 부분인 기름을 드렸답니다. 마치 생일 선물을 준비할 때 가장 좋은 것을 고르는 것처럼, 아벨은 하나님을 정말 사랑하는 마음으로 최고의 것을 준비했어요. 하나님은 우리가 무엇을 드리느냐보다 어떤 마음으로 드리느냐를 보세요. 아벨은 진심으로 하나님을 사랑하고 믿는 마음으로 드렸기 때문에 하나님이 기뻐하셨답니다.",
+      "bibleReferences": [
+        "히브리서 11:4 - '믿음으로 아벨은 가인보다 더 나은 제사를 하나님께 드림으로 의로운 자라 하시는 증거를 얻었으니'",
+        "잠언 3:9 - '네 재물과 네 소산의 처음 익은 열매로 여호와를 공경하라'",
+        "레위기 3:16 - '제사장은 그것을 제단 위에서 불사를지니 이는 화제로 드리는 음식이요 향기로운 냄새라 모든 기름은 여호와의 것이니라'",
+        "사무엘상 16:7 - '사람은 외모를 보거니와 나 여호와는 중심을 보느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아벨의 제사는 하나님께 나아가는 올바른 예배의 모델을 보여줍니다. '첫 새끼'와 '기름'은 최상의 것을 드리는 헌신을 상징하며, '믿음으로' 드린 제사(히 11:4)는 피 흘림을 통한 속죄를 예표합니다. 하나님은 제물 그 자체가 아니라 제물을 드리는 자의 마음과 믿음을 보십니다. 이는 신약에서 예수 그리스도께서 '하나님의 어린 양'으로 드려진 완전한 제사를 가리킵니다."
+    }
+  }
+}

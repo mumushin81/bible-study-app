@@ -1,0 +1,227 @@
+{
+  "id": "genesis_12_1",
+  "reference": "창세기 12:1",
+  "hebrew": "וַיֹּאמֶר יְהוָה אֶל־אַבְרָם, לֶךְ־לְךָ מֵאַרְצְךָ וּמִמּוֹלַדְתְּךָ וּמִבֵּית אָבִיךָ, אֶל־הָאָרֶץ אֲשֶׁר אַרְאֶךָּ.",
+  "ipa": "vaˈjomɛr ʔadonai ʔɛl ʔavˈram lɛx ləˈxa meʔarˈtsəxa ummimmoladˈtəxa ummiˈbet ʔaˈvixa ʔɛl haˈʔarɛts ʔaˈʃɛr ʔarˈʔɛka",
+  "koreanPronunciation": "바요메르 아도나이 엘 아브람 레크 레카 메아르츠카 움몰라드트카 움미베트 아비카 엘 하아레츠 아쉐르 아르에카",
+  "modern": "여호와께서 아브람에게 말씀하셨습니다. '너는 네 고향과 친척과 아버지의 집을 떠나 내가 네게 보여줄 땅으로 가라.'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vaˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak_vayomer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speak_vayomer)\" opacity=\"0.2\" /><path d=\"M 20 32 Q 26 28 32 32 Q 38 36 44 32\" stroke=\"url(#speak_vayomer)\" stroke-width=\"3\" fill=\"none\" /><circle cx=\"20\" cy=\"32\" r=\"2\" fill=\"#667EEA\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#667EEA\" /><circle cx=\"44\" cy=\"32\" r=\"2\" fill=\"#667EEA\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבָר (다바르 - 말씀, 사물)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "ʔadonai",
+      "korean": "아도나이",
+      "letters": "יְ(ye) + הוָ(ho) + ה(vah)",
+      "root": "היה (하야 - 존재하다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh_light\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#yhwh_light)\" opacity=\"0.3\" /><text x=\"32\" y=\"40\" font-size=\"24\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"#FFD700\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֲדֹנָי (아도나이 - 주님)",
+        "אֱלֹהִים (엘로힘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "אֶל־אַבְרָם",
+      "meaning": "아브람에게",
+      "ipa": "ʔɛl ʔavˈram",
+      "korean": "엘 아브람",
+      "letters": "אֶל(el) + אַבְ(av) + רָם(ram)",
+      "root": "אֵל (엘 - ~에게)",
+      "grammar": "전치사 + 고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram_grad\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#abram_grad)\" opacity=\"0.5\" /><path d=\"M 32 20 L 32 44 M 20 32 L 44 32\" stroke=\"#4FACFE\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אַבְרָהָם (아브라함 - 많은 민족의 아버지)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "לֶךְ־לְךָ",
+      "meaning": "가라, 너 자신을 위해 가라",
+      "ipa": "lɛx ləˈxa",
+      "korean": "레크 레카",
+      "letters": "לֶךְ(lech) + לְ(le) + ךָ(kha)",
+      "root": "ה-ל-ך (할라크 - 가다)",
+      "grammar": "명령형 동사 + 전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"walk_lech\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><path d=\"M 10 32 L 54 32\" stroke=\"url(#walk_lech)\" stroke-width=\"4\" stroke-dasharray=\"5,5\" /><circle cx=\"54\" cy=\"32\" r=\"5\" fill=\"#FA709A\" /><path d=\"M 48 28 L 58 32 L 48 36 Z\" fill=\"#FA709A\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 걷다, 가다)",
+        "דֶּרֶךְ (데레크 - 길, 방법)"
+      ]
+    },
+    {
+      "hebrew": "מֵאַרְצְךָ",
+      "meaning": "네 땅으로부터",
+      "ipa": "meʔarˈtsəxa",
+      "korean": "메아르츠카",
+      "letters": "מֵ(me) + אַרְ(ar) + צְ(tse) + ךָ(kha)",
+      "root": "אֶרֶץ (에레츠 - 땅)",
+      "grammar": "전치사 + 명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land_eretz\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"100%\" stop-color=\"#689F38\" /></linearGradient></defs><rect x=\"10\" y=\"10\" width=\"44\" height=\"44\" rx=\"5\" fill=\"url(#land_eretz)\" opacity=\"0.4\" /><text x=\"32\" y=\"40\" font-size=\"16\" text-anchor=\"middle\" fill=\"#689F38\">Land</text></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 나라)",
+        "אֲדָמָה (아다마 - 흙, 토지)"
+      ]
+    },
+    {
+      "hebrew": "וּמִמּוֹלַדְתְּךָ",
+      "meaning": "그리고 네 친척으로부터",
+      "ipa": "ummimmoladˈtəxa",
+      "korean": "움몰라드트카",
+      "letters": "וּ(u) + מִ(mi) + מּוֹלַדְתְּ(molad) + ךָ(kha)",
+      "root": "י-ל-ד (얄라드 - 낳다)",
+      "grammar": "접속사 + 전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"family_molad\"><stop offset=\"0%\" stop-color=\"#FF9A9E\" /><stop offset=\"100%\" stop-color=\"#FAD0C4\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#family_molad)\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#family_molad)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"40\" r=\"8\" fill=\"url(#family_molad)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מוֹלֶדֶת (모레데트 - 출생지, 친족)",
+        "יָלַד (얄라드 - 낳다)"
+      ]
+    },
+    {
+      "hebrew": "וּמִבֵּית",
+      "meaning": "그리고 ~의 집으로부터",
+      "ipa": "ummiˈbet",
+      "korean": "움미베트",
+      "letters": "וּ(u) + מִ(mi) + בֵּית(bet)",
+      "root": "בַּיִת (바이트 - 집)",
+      "grammar": "접속사 + 전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"house_beit\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><path d=\"M 32 12 L 52 28 L 48 28 L 48 48 L 16 48 L 16 28 L 12 28 Z\" fill=\"url(#house_beit)\" opacity=\"0.6\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#A8EDEA\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집, 가문)",
+        "בֵּית־לֶחֶם (베이트 레헴 - 베들레헴)"
+      ]
+    },
+    {
+      "hebrew": "אָבִיךָ",
+      "meaning": "네 아버지",
+      "ipa": "ʔaˈvixa",
+      "korean": "아비카",
+      "letters": "אָ(a) + בִי(vi) + ךָ(kha)",
+      "root": "אָב (아브 - 아버지)",
+      "grammar": "명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"father_av\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#father_av)\" opacity=\"0.7\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#father_av)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אָבוֹת (아보트 - 조상들)"
+      ]
+    },
+    {
+      "hebrew": "אֶל־הָאָרֶץ",
+      "meaning": "그 땅으로",
+      "ipa": "ʔɛl haˈʔarɛts",
+      "korean": "엘 하아레츠",
+      "letters": "אֶל(el) + הָ(ha) + אָרֶץ(aretz)",
+      "root": "אֶרֶץ (에레츠 - 땅)",
+      "grammar": "전치사 + 관사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"newland_aretz\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#newland_aretz)\" opacity=\"0.5\" /><path d=\"M 20 26 Q 32 20 44 26 L 44 38 Q 32 44 20 38 Z\" fill=\"#4CAF50\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֶרֶץ יִשְׂרָאֵל (에레츠 이스라엘 - 이스라엘 땅)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר",
+      "meaning": "~인, ~하는",
+      "ipa": "ʔaˈʃɛr",
+      "korean": "아쉐르",
+      "letters": "אֲ(a) + שֶׁ(she) + ר(r)",
+      "root": "אֲשֶׁר (아쉐르)",
+      "grammar": "관계대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rel_asher\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 16 32 L 32 16 L 48 32 L 32 48 Z\" fill=\"url(#rel_asher)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#667EEA\" /></svg>",
+      "relatedWords": [
+        "אֲשֶׁר (아쉐르 - 관계대명사)",
+        "כִּי (키 - ~때문에, ~인)"
+      ]
+    },
+    {
+      "hebrew": "אַרְאֶךָּ",
+      "meaning": "내가 네게 보여줄",
+      "ipa": "ʔarˈʔɛka",
+      "korean": "아르에카",
+      "letters": "אַ(ar) + רְ(r) + אֶ(e) + ךָּ(ka)",
+      "root": "ר-א-ה (라아 - 보다)",
+      "grammar": "동사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"see_raah\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#see_raah)\" opacity=\"0.4\" /><ellipse cx=\"32\" cy=\"32\" rx=\"14\" ry=\"8\" fill=\"none\" stroke=\"#0288D1\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#0288D1\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "רְאִיָּה (레이야 - 시각, 환상)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 1절은 아브라함 이야기의 시작이자, 구속 역사의 새로운 전환점입니다. 홍수 심판 이후 흩어진 인류 가운데서 하나님께서 한 사람을 부르시어 언약 백성의 역사를 시작하십니다. '레크 레카(לֶךְ־לְךָ)'라는 히브리어 명령은 단순히 '가라'가 아니라 '너 자신을 위해 가라'는 깊은 의미를 담고 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לֶךְ־לְךָ (레크 레카) - 자기 자신을 위한 여정",
+        "description": "히브리어 '레크 레카'는 직역하면 '가라, 너 자신을 위해'입니다. 이는 단순한 이동이 아니라 자기 발견과 운명 성취의 여정을 의미합니다. 아브람은 모든 것을 떠남으로써 진정한 자신을 발견하게 됩니다.",
+        "points": [
+          "떠남은 상실이 아니라 더 큰 것을 얻기 위한 과정입니다",
+          "하나님의 부르심은 개인적이고 구체적입니다",
+          "순종은 축복으로 가는 길입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "세 가지 떠남 - 단계적 분리",
+        "description": "하나님은 아브람에게 세 가지를 떠나라고 명하십니다: 1) 고향(אַרְצְךָ), 2) 친척(מוֹלַדְתְּךָ), 3) 아버지의 집(בֵּית אָבִיךָ). 이는 점점 더 가까운 관계로부터의 분리를 요구하며, 완전한 헌신을 의미합니다.",
+        "points": [
+          "지리적 떠남 - 익숙한 환경을 떠나는 것",
+          "문화적 떠남 - 혈연과 전통을 넘어서는 것",
+          "정서적 떠남 - 가장 가까운 가족을 뒤로 하는 것"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֶל־הָאָרֶץ אֲשֶׁר אַרְאֶךָּ - 보여줄 땅",
+        "description": "하나님은 목적지를 구체적으로 밝히지 않으시고 '내가 네게 보여줄 땅'이라고만 하십니다. 이는 믿음의 본질입니다 - 목적지를 모르면서도 부르시는 분을 신뢰하고 따라가는 것입니다.",
+        "points": [
+          "믿음은 모든 것을 알지 못해도 순종하는 것입니다",
+          "하나님의 계획은 단계적으로 드러납니다",
+          "최종 목적지는 하나님이 정하십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יְהוָה (아도나이) - 언약의 하나님",
+        "description": "이 부르심에서 하나님은 '엘로힘'이 아닌 '여호와'로 나타나십니다. 이는 언약과 관계의 하나님으로서, 아브람과 개인적인 관계를 맺으시는 것을 의미합니다.",
+        "points": [
+          "여호와는 언약을 지키시는 하나님의 이름입니다",
+          "하나님은 역사 속에서 개입하시고 관계 맺으십니다",
+          "이 부르심은 모든 족속을 위한 구원 계획의 시작입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 모든 것을 떠나라고 하셨을까요?",
+      "answer": "하나님께서 아브람에게 고향과 가족을 떠나라고 하신 것은 아브람을 괴롭히려는 것이 아니에요. 오히려 더 큰 축복을 주시기 위한 것이었답니다. 마치 씨앗이 땅에 심겨져야 큰 나무로 자라는 것처럼, 아브람도 익숙한 곳을 떠나야 하나님이 예비하신 큰 축복을 받을 수 있었어요. 하나님은 아브람을 통해 세상 모든 사람들에게 축복을 주려는 놀라운 계획을 가지고 계셨어요. 때로 우리도 익숙한 것을 떠나야 할 때가 있지만, 그것은 하나님이 더 좋은 것을 주시기 위한 거예요.",
+      "bibleReferences": [
+        "히브리서 11:8 - '믿음으로 아브라함은 부르심을 받았을 때에 순종하여 장래의 유업으로 받을 땅에 나아갈새 갈 바를 알지 못하고 나아갔으며'",
+        "창세기 12:2-3 - '내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대하게 하리니 너는 복이 될지라 너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라'",
+        "사도행전 7:2-3 - '스데반이 이르되 여러분 부형들이여 들으소서 우리 조상 아브라함이 하란에 있기 전 메소보다미아에 있을 때에 영광의 하나님이 그에게 보여 이르시되 네 고향과 친척을 떠나 내가 네게 보일 땅으로 가라 하시매'",
+        "요한복음 12:24-25 - '내가 진실로 진실로 너희에게 이르노니 한 알의 밀이 땅에 떨어져 죽지 아니하면 한 알 그대로 있고 죽으면 많은 열매를 맺느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:1은 구속사의 새로운 국면을 엽니다. 바벨탑 사건 이후 흩어진 인류를 향한 하나님의 구원 계획이 아브람의 부르심으로 시작됩니다. 이 부르심은 단순히 한 개인의 이주가 아니라, 이스라엘 민족의 형성, 그리스도의 오심, 그리고 궁극적으로 모든 민족의 구원으로 이어지는 거대한 구속사의 첫 걸음입니다. 히브리서 11장은 아브라함의 이 순종을 믿음의 본보기로 제시합니다. 우리도 하나님의 부르심에 응답할 때, 우리가 가는 곳이 어디인지 완전히 알지 못할지라도 신뢰하며 따라가야 합니다."
+    }
+  }
+}

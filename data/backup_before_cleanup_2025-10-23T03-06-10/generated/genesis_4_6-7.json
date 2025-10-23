@@ -1,0 +1,373 @@
+[
+  {
+    "verseId": "genesis_4_6",
+    "ipa": "vaˈjomɛr jəhoˈva ʔɛl ˈkajin ˈlama xaˈra laχ vəˈlama nafəˈlu faneˈχa",
+    "koreanPronunciation": "바요메르 예호와 엘 카인 라마 하라 라크 베라마 나페루 파네카",
+    "modern": "여호와께서 가인에게 말씀하시기를 '네가 왜 분노하며, 왜 얼굴을 떨구었느냐?'",
+    "words": [
+      {
+        "hebrew": "וַיֹּאמֶר",
+        "meaning": "그리고 말씀하셨다",
+        "ipa": "vaˈjomɛr",
+        "korean": "바요메르",
+        "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech6)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#speech6)\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/></svg>"
+      },
+      {
+        "hebrew": "יְהוָה",
+        "meaning": "여호와",
+        "ipa": "jəhoˈva",
+        "korean": "예호와",
+        "letters": "יְ(ye) + הוָה(hovah)",
+        "root": "י-ה-ו-ה (야훼)",
+        "grammar": "명사",
+        "emoji": "✨",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh6\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh6)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam6)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+      },
+      {
+        "hebrew": "אֶל קָיִן",
+        "meaning": "가인에게",
+        "ipa": "ʔɛl ˈkajin",
+        "korean": "엘 카인",
+        "letters": "אֶל(el) + קָ(ka) + יִן(yin)",
+        "root": "ק-י-ן (카인)",
+        "grammar": "전치사",
+        "emoji": "👉",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"to6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#to6)\" stroke-width=\"4\" fill=\"none\" marker-end=\"url(#arrow6)\"/><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#to6)\" opacity=\"0.3\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><defs><marker id=\"arrow6\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#6A1B9A\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "לָמָּה",
+        "meaning": "왜",
+        "ipa": "ˈlama",
+        "korean": "라마",
+        "letters": "לָ(la) + מָּה(mah)",
+        "root": "מָה (마)",
+        "grammar": "부사",
+        "emoji": "❓",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"why6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#why6)\" opacity=\"0.2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><text x=\"32\" y=\"42\" text-anchor=\"middle\" font-size=\"32\" fill=\"url(#why6)\" font-weight=\"bold\">?</text><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"url(#why6)\"/></svg>"
+      },
+      {
+        "hebrew": "חָרָה",
+        "meaning": "불타다, 분노하다",
+        "ipa": "xaˈra",
+        "korean": "하라",
+        "letters": "חָ(ha) + רָה(rah)",
+        "root": "ח-ר-ה (하라)",
+        "grammar": "동사",
+        "emoji": "🔥",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"anger6\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"50%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"heat6\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 69, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#heat6)\" opacity=\"0.5\"/><path d=\"M 32 48 Q 28 44 28 38 Q 28 32 32 28 Q 36 32 36 38 Q 36 44 32 48 Z\" fill=\"url(#anger6)\" filter=\"drop-shadow(0 0 8px rgba(255, 69, 0, 0.6))\"/><path d=\"M 26 44 Q 24 40 24 36 Q 24 32 26 28\" fill=\"url(#anger6)\" opacity=\"0.7\"/><path d=\"M 38 44 Q 40 40 40 36 Q 40 32 38 28\" fill=\"url(#anger6)\" opacity=\"0.7\"/></svg>"
+      },
+      {
+        "hebrew": "לָךְ",
+        "meaning": "너에게",
+        "ipa": "laχ",
+        "korean": "라크",
+        "letters": "לָ(la) + ךְ(kh)",
+        "root": "ל (르)",
+        "grammar": "전치사",
+        "emoji": "👤",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"you6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#you6)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 36 L 32 32 L 44 36 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#you6)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+      },
+      {
+        "hebrew": "וְלָמָּה",
+        "meaning": "그리고 왜",
+        "ipa": "vəˈlama",
+        "korean": "베라마",
+        "letters": "וְ(ve) + לָ(la) + מָּה(mah)",
+        "root": "מָה (마)",
+        "grammar": "부사",
+        "emoji": "❔",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"why26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"100%\" stop-color=\"#8B008B\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#why26)\" opacity=\"0.2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><text x=\"32\" y=\"42\" text-anchor=\"middle\" font-size=\"32\" fill=\"url(#why26)\" font-weight=\"bold\">?</text><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"url(#why26)\"/></svg>"
+      },
+      {
+        "hebrew": "נָפְלוּ",
+        "meaning": "떨어지다, 떨구다",
+        "ipa": "nafəˈlu",
+        "korean": "나페루",
+        "letters": "נָ(na) + פְלוּ(felu)",
+        "root": "נ-פ-ל (나팔)",
+        "grammar": "동사",
+        "emoji": "😞",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fall6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#fall6)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 26 34 Q 32 30 38 34\" stroke=\"#333\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 32 48 L 28 52 L 32 56 L 36 52 Z\" fill=\"url(#fall6)\" opacity=\"0.5\"/></svg>"
+      },
+      {
+        "hebrew": "פָנֶיךָ",
+        "meaning": "너의 얼굴",
+        "ipa": "faneˈχa",
+        "korean": "파네카",
+        "letters": "פָּ(pa) + נֶ(ne) + יךָ(kha)",
+        "root": "פָּנִים (파님)",
+        "grammar": "명사",
+        "emoji": "😔",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"face6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"18\" fill=\"url(#face6)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"26\" cy=\"28\" r=\"2.5\" fill=\"#333\"/><circle cx=\"38\" cy=\"28\" r=\"2.5\" fill=\"#333\"/><path d=\"M 24 40 Q 32 36 40 40\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 24 26 Q 26 24 28 26\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 36 26 Q 38 24 40 26\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 6절은 하나님께서 가인의 분노와 낙심에 대해 질문하시는 장면입니다. 하나님은 가인의 마음 상태를 아시면서도 스스로 돌아보게 하시기 위해 질문하십니다. 이는 하나님의 목회적 배려이자 회개의 기회를 주시는 은혜입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "לָמָּה (라마) - 왜냐고 묻는 하나님",
+          "description": "하나님은 두 번 '라마(왜)'를 반복하여 가인에게 질문하십니다. 이는 단순한 정보 요청이 아니라, 가인이 자신의 마음을 성찰하도록 돕는 치유적 질문입니다.",
+          "points": [
+            "하나님은 이미 모든 것을 아시지만 인간에게 스스로 깨닫게 하십니다",
+            "반복된 질문은 가인에게 회개의 기회를 주는 은혜입니다",
+            "예수님도 제자들에게 질문을 통해 깨달음을 주셨습니다 (마태복음 16:15)"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "חָרָה (하라) - 타오르는 분노",
+          "description": "'하라'는 '불타다', '뜨겁게 타오르다'를 의미하며, 격렬한 감정적 반응을 나타냅니다. 가인의 분노는 단순한 불만이 아니라 통제되지 않는 격한 감정입니다.",
+          "points": [
+            "분노는 불처럼 타오르며 사람을 파괴할 수 있습니다",
+            "의로운 분노도 있지만, 가인의 분노는 자기중심적입니다",
+            "에베소서 4:26 '분을 내어도 죄를 짓지 말며' - 분노 자체가 아니라 반응이 문제"
+          ],
+          "color": "orange"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "נָפְלוּ פָנֶיךָ (나페루 파네카) - 떨어진 얼굴",
+          "description": "'얼굴이 떨어지다'는 히브리 관용구로 낙심, 좌절, 수치심을 의미합니다. 외적으로 드러나는 낙담의 모습입니다.",
+          "points": [
+            "내면의 분노와 질투가 외적인 낙심으로 나타남",
+            "얼굴 표정은 마음 상태의 거울입니다",
+            "하나님은 겉모습이 아닌 마음을 보시지만, 겉모습도 중요하게 다루십니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "יְהוָה אֶל קָיִן (예호와 엘 카인) - 가인에게 먼저 다가오시는 하나님",
+          "description": "가인이 하나님을 찾은 것이 아니라, 하나님이 먼저 가인에게 말씀하셨습니다. 이는 타락한 인간을 찾아오시는 하나님의 선제적 은혜입니다.",
+          "points": [
+            "에덴에서도 하나님이 먼저 '네가 어디 있느냐'고 물으셨습니다 (창 3:9)",
+            "하나님은 죄인이 돌아오기를 기다리며 먼저 찾아오십니다",
+            "이는 예수 그리스도의 구원 사역을 예표합니다"
+          ],
+          "color": "green"
+        }
+      ],
+      "whyQuestion": {
+        "question": "하나님은 왜 가인에게 '왜 화가 났느냐'고 물으셨나요?",
+        "answer": "하나님은 이미 가인의 마음을 다 아시지만, 가인이 스스로 자기 마음을 돌아보게 하시려고 질문하셨어요. 마치 부모님이 잘못한 아이에게 '왜 그랬니?'라고 물어보는 것처럼, 하나님도 가인이 자신의 잘못을 깨닫고 바른 마음을 가질 기회를 주신 거예요. 하나님은 가인을 포기하지 않으시고 도와주고 싶으셨답니다.",
+        "bibleReferences": [
+          "창세기 3:9 - '여호와 하나님이 아담을 부르시며 그에게 이르시되 네가 어디 있느냐'",
+          "누가복음 15:20 - '아직도 거리가 먼데 아버지가 그를 보고 측은히 여겨'",
+          "로마서 2:4 - '하나님의 인자하심이 너를 인도하여 회개하게 하심을 알지 못하느냐'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "하나님의 질문은 단순한 정보 요청이 아니라 목회적 돌봄입니다. 하나님은 가인의 분노와 낙심을 아시면서도 스스로 깨닫고 돌이킬 기회를 주십니다. 이는 '먼저 찾아오시는 하나님'의 성품을 보여주며, 예수 그리스도께서 죄인을 찾아오신 복음의 예표입니다. 하나님은 우리의 감정 상태에 무관심하지 않으시며, 회개와 변화의 길을 열어두십니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_4_7",
+    "ipa": "haloˈ ʔim teˈtiv səˈʔet vəʔim lo teˈtiv lapˈetax xataˈʔt roˈveʦ vəʔeleˈχa təʃukaˈto vəʔaˈta timˈʃal bo",
+    "koreanPronunciation": "할로 임 테티브 세에트 베임 로 테티브 라페타흐 하타트 로베츠 베엘레카 테슈카토 베아타 팀샬 보",
+    "modern": "네가 선을 행하면 어찌 낯을 들지 못하겠느냐? 선을 행하지 않으면 죄가 문에 엎드려 있느니라. 죄의 소원은 네게 있으나 너는 죄를 다스려야 하느니라",
+    "words": [
+      {
+        "hebrew": "הֲלוֹא",
+        "meaning": "~이 아니냐? (수사 의문)",
+        "ipa": "haloˈ",
+        "korean": "할로",
+        "letters": "הֲ(ha) + לוֹא(lo)",
+        "root": "לֹא (로)",
+        "grammar": "부사",
+        "emoji": "🤔",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"quest7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6495ED\"/><stop offset=\"100%\" stop-color=\"#4169E1\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#quest7)\" opacity=\"0.2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><text x=\"32\" y=\"42\" text-anchor=\"middle\" font-size=\"28\" fill=\"url(#quest7)\" font-weight=\"bold\">?</text><path d=\"M 24 20 Q 32 16 40 20 Q 40 28 32 32\" stroke=\"url(#quest7)\" stroke-width=\"3\" fill=\"none\"/></svg>"
+      },
+      {
+        "hebrew": "אִם תֵּיטִיב",
+        "meaning": "만약 네가 선을 행하면",
+        "ipa": "ʔim teˈtiv",
+        "korean": "임 테티브",
+        "letters": "אִם(im) + תֵּי(te) + טִיב(tiv)",
+        "root": "י-ט-ב (야타브)",
+        "grammar": "동사",
+        "emoji": "✅",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"good7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"100%\" stop-color=\"#228B22\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#good7)\" opacity=\"0.2\"/><path d=\"M 20 32 L 28 40 L 44 24\" stroke=\"url(#good7)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "שְׂאֵת",
+        "meaning": "들어올림, 용납",
+        "ipa": "səˈʔet",
+        "korean": "세에트",
+        "letters": "שְׂ(se) + אֵת(et)",
+        "root": "נ-שׂ-א (나사)",
+        "grammar": "명사",
+        "emoji": "⬆️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lift7\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#20B2AA\"/><stop offset=\"100%\" stop-color=\"#00CED1\"/></linearGradient></defs><path d=\"M 32 48 L 32 20\" stroke=\"url(#lift7)\" stroke-width=\"5\" marker-end=\"url(#arrow7)\" filter=\"drop-shadow(0 2px 4px rgba(32, 178, 170, 0.4))\"/><path d=\"M 24 28 L 32 20 L 40 28\" stroke=\"url(#lift7)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\"/><defs><marker id=\"arrow7\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#00CED1\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "וְאִם לֹא תֵיטִיב",
+        "meaning": "그리고 만약 선을 행하지 않으면",
+        "ipa": "vəʔim lo teˈtiv",
+        "korean": "베임 로 테티브",
+        "letters": "וְ(ve) + אִם(im) + לֹא(lo) + תֵיטִיב(tetiv)",
+        "root": "י-ט-ב (야타브)",
+        "grammar": "동사",
+        "emoji": "❌",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bad7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#bad7)\" opacity=\"0.2\"/><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"44\" stroke=\"url(#bad7)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.4))\"/><line x1=\"44\" y1=\"20\" x2=\"20\" y2=\"44\" stroke=\"url(#bad7)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "לַפֶּתַח",
+        "meaning": "문에, 입구에",
+        "ipa": "lapˈetax",
+        "korean": "라페타흐",
+        "letters": "לַ(la) + פֶּ(pe) + תַח(tah)",
+        "root": "פ-ת-ח (파타흐)",
+        "grammar": "명사",
+        "emoji": "🚪",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><radialGradient id=\"doorlight7\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><rect x=\"16\" y=\"8\" width=\"32\" height=\"48\" rx=\"2\" fill=\"url(#door7)\" filter=\"drop-shadow(0 3px 6px rgba(101, 67, 33, 0.5))\"/><rect x=\"18\" y=\"10\" width=\"14\" height=\"44\" fill=\"#654321\" opacity=\"0.3\"/><circle cx=\"40\" cy=\"32\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#doorlight7)\" opacity=\"0.3\"/></svg>"
+      },
+      {
+        "hebrew": "חַטָּאת",
+        "meaning": "죄",
+        "ipa": "xataˈʔt",
+        "korean": "하타트",
+        "letters": "חַ(ha) + טָּ(ta) + את(at)",
+        "root": "ח-ט-א (하타)",
+        "grammar": "명사",
+        "emoji": "⚠️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sin7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#000000\"/></linearGradient><radialGradient id=\"sinlight7\"><stop offset=\"0%\" stop-color=\"#FF0000\"/><stop offset=\"100%\" stop-color=\"rgba(139, 0, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sinlight7)\" opacity=\"0.4\"/><path d=\"M 32 12 L 28 30 L 36 30 Z\" fill=\"url(#sin7)\" filter=\"drop-shadow(0 2px 6px rgba(139, 0, 0, 0.6))\"/><circle cx=\"32\" cy=\"44\" r=\"4\" fill=\"url(#sin7)\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.6))\"/></svg>"
+      },
+      {
+        "hebrew": "רֹבֵץ",
+        "meaning": "엎드려 있다, 웅크리다",
+        "ipa": "roˈveʦ",
+        "korean": "로베츠",
+        "letters": "רֹ(ro) + בֵץ(vets)",
+        "root": "ר-ב-ץ (라바츠)",
+        "grammar": "동사",
+        "emoji": "🐆",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crouch7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><ellipse cx=\"36\" cy=\"44\" rx=\"20\" ry=\"12\" fill=\"url(#crouch7)\" opacity=\"0.3\"/><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"10\" fill=\"url(#crouch7)\" filter=\"drop-shadow(0 2px 6px rgba(139, 0, 0, 0.5))\"/><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#crouch7)\"/><circle cx=\"22\" cy=\"26\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#FFD700\"/><path d=\"M 14 42 L 18 48\" stroke=\"url(#crouch7)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 20 42 L 22 48\" stroke=\"url(#crouch7)\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "וְאֵלֶיךָ",
+        "meaning": "그리고 너를 향하여",
+        "ipa": "vəʔeleˈχa",
+        "korean": "베엘레카",
+        "letters": "וְ(ve) + אֵ(e) + לֶיךָ(lekha)",
+        "root": "אֶל (엘)",
+        "grammar": "전치사",
+        "emoji": "🎯",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"toward7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient></defs><circle cx=\"44\" cy=\"32\" r=\"12\" fill=\"url(#toward7)\" opacity=\"0.2\"/><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#toward7)\" opacity=\"0.4\"/><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"url(#toward7)\"/><path d=\"M 12 32 L 36 32\" stroke=\"url(#toward7)\" stroke-width=\"3\" marker-end=\"url(#arrow7t)\" filter=\"drop-shadow(0 2px 4px rgba(199, 21, 133, 0.4))\"/><defs><marker id=\"arrow7t\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#C71585\"/></marker></defs></svg>"
+      },
+      {
+        "hebrew": "תְּשׁוּקָתוֹ",
+        "meaning": "그것의 욕망, 갈망",
+        "ipa": "təʃukaˈto",
+        "korean": "테슈카토",
+        "letters": "תְּ(te) + שׁוּ(shu) + קָתוֹ(kato)",
+        "root": "שׁ-ו-ק (슈크)",
+        "grammar": "명사",
+        "emoji": "💔",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"desire7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B008B\"/><stop offset=\"100%\" stop-color=\"#4B0082\"/></linearGradient></defs><path d=\"M 32 52 Q 12 32 12 20 Q 12 8 22 8 Q 32 8 32 16 Q 32 8 42 8 Q 52 8 52 20 Q 52 32 32 52 Z\" fill=\"url(#desire7)\" opacity=\"0.6\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 139, 0.5))\"/><path d=\"M 20 28 L 44 28\" stroke=\"#000000\" stroke-width=\"3\"/><circle cx=\"24\" cy=\"20\" r=\"2\" fill=\"#000000\"/><circle cx=\"40\" cy=\"20\" r=\"2\" fill=\"#000000\"/></svg>"
+      },
+      {
+        "hebrew": "וְאַתָּה",
+        "meaning": "그리고 너는",
+        "ipa": "vəʔaˈta",
+        "korean": "베아타",
+        "letters": "וְ(ve) + אַ(a) + תָּה(tah)",
+        "root": "אַתָּה (아타)",
+        "grammar": "대명사",
+        "emoji": "👊",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"you7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF8C00\"/><stop offset=\"100%\" stop-color=\"#FF4500\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#you7)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#you7)\" filter=\"drop-shadow(0 2px 6px rgba(255, 69, 0, 0.5))\"/><text x=\"32\" y=\"40\" text-anchor=\"middle\" font-size=\"20\" fill=\"#FFFFFF\" font-weight=\"bold\">YOU</text></svg>"
+      },
+      {
+        "hebrew": "תִּמְשָׁל",
+        "meaning": "다스리다, 통치하다",
+        "ipa": "timˈʃal",
+        "korean": "팀샬",
+        "letters": "תִּ(ti) + מְשָׁל(mshal)",
+        "root": "מ-שׁ-ל (마샬)",
+        "grammar": "동사",
+        "emoji": "👑",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rule7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\"/><path d=\"M 12 44 L 16 32 L 22 36 L 32 24 L 42 36 L 48 32 L 52 44 Z\" fill=\"url(#rule7)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(255, 140, 0, 0.4))\"/><rect x=\"12\" y=\"44\" width=\"40\" height=\"6\" fill=\"url(#rule7)\"/><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\"/></svg>"
+      },
+      {
+        "hebrew": "בּוֹ",
+        "meaning": "그것을",
+        "ipa": "bo",
+        "korean": "보",
+        "letters": "בּ(b) + וֹ(o)",
+        "root": "ב (베)",
+        "grammar": "전치사",
+        "emoji": "🎯",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"it7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"100%\" stop-color=\"#191970\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#it7)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#it7)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#it7)\" filter=\"drop-shadow(0 0 8px rgba(65, 105, 225, 0.6))\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 7절은 성경에서 '죄'라는 단어가 처음 등장하는 구절입니다. 하나님은 가인에게 선택의 기로를 제시하시며, 죄의 본질과 인간의 책임을 명확히 가르치십니다. 이는 죄론과 자유의지에 대한 가장 근본적인 신학적 가르침입니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "אִם תֵּיטִיב (임 테티브) - 선택의 자유",
+          "description": "'만약 네가 선을 행하면'이라는 조건문은 인간에게 선택의 자유가 있음을 보여줍니다. 하나님은 가인에게 운명이 아닌 선택의 기회를 주십니다.",
+          "points": [
+            "인간은 선과 악을 선택할 자유의지를 가지고 있습니다",
+            "하나님은 강제하지 않으시고 권면하십니다",
+            "타락 이후에도 선을 행할 능력이 남아 있음을 암시합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "שְׂאֵת (세에트) - 들려질 얼굴",
+          "description": "'세에트'는 '들어올림'을 의미하며, 6절의 '떨어진 얼굴'과 대조됩니다. 선을 행하면 얼굴이 들려지고, 하나님께 용납받게 됩니다.",
+          "points": [
+            "낙심에서 회복으로, 수치에서 존귀로의 변화",
+            "하나님의 용납과 은총을 받는 상태",
+            "민수기 6:26 '여호와께서 그의 얼굴을 네게로 향하여 드사' - 축복의 표현"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "לַפֶּתַח חַטָּאת רֹבֵץ (라페타흐 하타트 로베츠) - 문에 엎드린 죄",
+          "description": "죄를 맹수처럼 의인화하여, 문 앞에 웅크리고 있다가 기회를 노리는 모습으로 묘사합니다. 이는 죄의 능동적이고 공격적인 본성을 보여줍니다.",
+          "points": [
+            "죄는 수동적이 아니라 능동적으로 인간을 노립니다 (베드로전서 5:8)",
+            "'문'은 마음의 문, 결정의 순간을 의미합니다",
+            "죄는 언제나 가까이 있으며 틈을 노리고 있습니다"
+          ],
+          "color": "orange"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "תְּשׁוּקָתוֹ...תִּמְשָׁל (테슈카토...팀샬) - 욕망과 다스림",
+          "description": "'테슈카'는 창세기 3:16에서 '여자의 남편에 대한 소원'에 사용된 단어와 같습니다. 죄가 가인을 지배하려 하지만, 가인이 죄를 다스려야 합니다.",
+          "points": [
+            "죄는 인간을 지배하려는 욕망을 가지고 있습니다",
+            "그러나 하나님은 인간이 죄를 다스릴 수 있다고 말씀하십니다",
+            "로마서 6:14 '죄가 너희를 주장하지 못하리니' - 은혜 안에서의 승리"
+          ],
+          "color": "purple"
+        }
+      ],
+      "whyQuestion": {
+        "question": "죄가 '문에 엎드려 있다'는 것은 무슨 뜻인가요?",
+        "answer": "죄를 무서운 맹수처럼 비유한 거예요. 마치 사자가 먹이를 노리며 숨어서 기다리는 것처럼, 죄도 우리가 잘못된 선택을 하기를 기다리고 있어요. 하지만 하나님은 가인에게 '너는 죄를 다스려야 한다'고 말씀하셨어요. 이것은 우리가 죄에게 질 필요 없이, 하나님의 도움으로 이길 수 있다는 뜻이에요.",
+        "bibleReferences": [
+          "베드로전서 5:8 - '너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니'",
+          "로마서 6:14 - '죄가 너희를 주장하지 못하리니 이는 너희가 법 아래에 있지 아니하고 은혜 아래에 있음이라'",
+          "야고보서 4:7 - '마귀를 대적하라 그리하면 너희를 피하리라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "창세기 4:7은 성경 신학의 핵심 진리들을 담고 있습니다. 첫째, 인간의 자유의지와 책임입니다. 하나님은 가인에게 선택권을 주시며 '네가 선을 행하면'이라고 말씀하십니다. 둘째, 죄의 본질과 위험성입니다. 죄는 수동적이 아니라 능동적으로 인간을 노리는 세력입니다. 셋째, 승리의 가능성입니다. '너는 죄를 다스려야 한다'는 명령은 하나님의 은혜 안에서 죄를 이길 수 있다는 약속입니다. 이는 예수 그리스도를 통한 죄와 사망의 권세로부터의 완전한 승리를 예표합니다."
+      }
+    }
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "id": "genesis_14_10",
+  "reference": "창세기 14:10",
+  "hebrew": "",
+  "ipa": "vəˈʕɛmɛk haśidˈdim bɛʔɛˈrot bɛʔɛˈrot ħeˈmar vajjaˈnusu ˈmɛlɛx səˈdom vaʕamoˈra vajjipəˈlu ˈʃamma vəhannišʔaˈrim ˈhɛra ˈnasu",
+  "koreanPronunciation": "베에메크 하시딤 베에로트 베에로트 헤마르 바야누수 멜레크 스돔 바아모라 바이프루 샴마 베하니쉬아림 헤라 나수",
+  "modern": "싯딤 골짜기에는 역청 구덩이들이 많았는데, 소돔과 고모라 왕들이 도망하다가 거기에 빠지고, 나머지는 산으로 도망쳤습니다",
+  "words": [
+    {
+      "hebrew": "וְעֵמֶק הַשִׂדִּים",
+      "meaning": "그리고 싯딤 골짜기는",
+      "ipa": "vəˈʕɛmɛk haśidˈdim",
+      "korean": "베에메크 하시딤",
+      "letters": "וְ(ve) + עֵ(e) + מֶק(mek) + הַ(ha) + שִׂ(si) + דִּים(dim)",
+      "root": "עֵמֶק (에메크) + שִׂדִּים (시딤)",
+      "grammar": "명사",
+      "emoji": "🏞️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bitumen-valley1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#6B5344\" /><stop offset=\"100%\" stop-color=\"#4A3728\" /></linearGradient><radialGradient id=\"bitumen-pit1\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#2c2c2c\" /></radialGradient></defs><path d=\"M 4 40 Q 16 32 32 36 Q 48 40 60 32 L 60 56 L 4 56 Z\" fill=\"url(#bitumen-valley1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"20\" cy=\"42\" rx=\"8\" ry=\"6\" fill=\"url(#bitumen-pit1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6))\" /><ellipse cx=\"44\" cy=\"38\" rx=\"7\" ry=\"5\" fill=\"url(#bitumen-pit1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6))\" /><path d=\"M 4 24 L 12 28 L 20 24 L 32 20 L 44 24 L 56 20 L 60 24\" stroke=\"#6B5344\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עֵמֶק (에메크 - 골짜기)",
+        "בִּקְעָה (비크아 - 평지)"
+      ]
+    },
+    {
+      "hebrew": "בֶּאֱרֹת בֶּאֱרֹת חֵמָר",
+      "meaning": "역청 구덩이들, 구덩이들",
+      "ipa": "bɛʔɛˈrot bɛʔɛˈrot ħeˈmar",
+      "korean": "베에로트 베에로트 헤마르",
+      "letters": "בֶּ(be) + אֱ(e) + רֹת(rot) + חֵ(ḥe) + מָר(mar)",
+      "root": "בְּאֵר (베에르) + חֵמָר (헤마르)",
+      "grammar": "명사",
+      "emoji": "⚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bitumen-pits1\"><stop offset=\"0%\" stop-color=\"#1a1a1a\" /><stop offset=\"50%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#2c2c2c\" /></radialGradient><linearGradient id=\"bitumen-sticky1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3a3a3a\" /><stop offset=\"100%\" stop-color=\"#1a1a1a\" /></linearGradient></defs><ellipse cx=\"24\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#bitumen-pits1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.8))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#bitumen-pits1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.8))\" /><ellipse cx=\"24\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#bitumen-sticky1)\" opacity=\"0.5\" /><ellipse cx=\"44\" cy=\"28\" rx=\"10\" ry=\"6\" fill=\"url(#bitumen-sticky1)\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"34\" r=\"2\" fill=\"#4a4a4a\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"36\" r=\"1.5\" fill=\"#4a4a4a\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#4a4a4a\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בְּאֵר (베에르 - 우물, 구덩이)",
+        "חֵמָר (헤마르 - 역청, 아스팔트)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּנֻסוּ",
+      "meaning": "그리고 그들이 도망했다",
+      "ipa": "vajjaˈnusu",
+      "korean": "바야누수",
+      "letters": "וַ(va) + יָּ(ya) + נֻ(nu) + סוּ(su)",
+      "root": "נ-ו-ס (누스)",
+      "grammar": "동사",
+      "emoji": "🏃",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flee-mountain1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#fc466b\" /><stop offset=\"50%\" stop-color=\"#ff6b9d\" /><stop offset=\"100%\" stop-color=\"#c94b4b\" /></linearGradient><radialGradient id=\"flee-panic1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#ff6b9d\" opacity=\"0\" /></radialGradient></defs><path d=\"M 12 48 L 20 40 L 28 44 L 36 36 L 44 40 L 52 32\" stroke=\"url(#flee-mountain1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"44\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"38\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"34\" r=\"5\" fill=\"url(#flee-mountain1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"32\" r=\"8\" fill=\"url(#flee-panic1)\" opacity=\"0.4\" /><path d=\"M 48 30 L 52 24 L 56 28\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "נוּס (누스 - 도망가다, 달아나다)",
+        "בָּרַח (바라흐 - 도피하다)"
+      ]
+    },
+    {
+      "hebrew": "מֶלֶךְ סְדֹם וַעֲמֹרָה",
+      "meaning": "소돔과 고모라 왕",
+      "ipa": "ˈmɛlɛx səˈdom vaʕamoˈra",
+      "korean": "멜레크 스돔 바아모라",
+      "letters": "מֶ(me) + לֶךְ(lekh) + סְ(se) + דֹם(dom) + וַ(va) + עֲ(a) + מֹ(mo) + רָה(rah)",
+      "root": "מֶלֶךְ (멜레크) + סְדֹם (스돔) + עֲמֹרָה (아모라)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kings-defeat1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><radialGradient id=\"kings-fall1\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#kings-defeat1)\" stroke=\"#A0522D\" stroke-width=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.7\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" fill=\"url(#kings-defeat1)\" /><circle cx=\"24\" cy=\"32\" r=\"6\" fill=\"url(#kings-fall1)\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"36\" r=\"6\" fill=\"url(#kings-fall1)\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" opacity=\"0.8\" /><path d=\"M 20 28 L 18 24 M 28 28 L 30 24\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 36 32 L 34 28 M 44 32 L 46 28\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (멜레크 - 왕)",
+        "סְדֹם (스돔 - 소돔)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּפְּלוּ שָׁמָּה",
+      "meaning": "그리고 거기에 빠졌다",
+      "ipa": "vajjipəˈlu ˈʃamma",
+      "korean": "바이프루 샴마",
+      "letters": "וַ(va) + יִּ(yi) + פְּ(pe) + לוּ(lu) + שָׁ(sha) + מָּה(mah)",
+      "root": "נ-פ-ל (나팔) + שָׁם (샴)",
+      "grammar": "동사",
+      "emoji": "⬇️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fall-pit1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient><radialGradient id=\"fall-danger1\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"20\" ry=\"12\" fill=\"url(#fall-pit1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.8))\" /><circle cx=\"28\" cy=\"40\" r=\"6\" fill=\"url(#fall-danger1)\" filter=\"drop-shadow(0 0 8px rgba(255, 107, 53, 0.7))\" /><circle cx=\"36\" cy=\"44\" r=\"5\" fill=\"url(#fall-danger1)\" filter=\"drop-shadow(0 0 8px rgba(255, 107, 53, 0.7))\" /><path d=\"M 32 20 L 28 28 L 32 36 L 36 28 Z\" fill=\"#FFD700\" opacity=\"0.6\" /><path d=\"M 32 16 L 32 36\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 32 L 32 36 L 36 32\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "נָפַל (나팔 - 떨어지다, 넘어지다)",
+        "שָׁם (샴 - 거기, 그곳)"
+      ]
+    },
+    {
+      "hebrew": "וְהַנִּשְׁאָרִים הֶרָה נָּסוּ",
+      "meaning": "그리고 나머지는 산으로 도망했다",
+      "ipa": "vəhannišʔaˈrim ˈhɛra ˈnasu",
+      "korean": "베하니쉬아림 헤라 나수",
+      "letters": "וְ(ve) + הַ(ha) + נִּ(ni) + שְׁ(she) + אָ(a) + רִים(rim) + הֶ(he) + רָה(rah) + נָּ(na) + סוּ(su)",
+      "root": "שׁ-א-ר (샤아르) + הַר (하르) + נ-ו-ס (누스)",
+      "grammar": "동사",
+      "emoji": "⛰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mountain-refuge1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient><linearGradient id=\"mountain-escape1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><path d=\"M 4 56 L 20 24 L 32 36 L 44 16 L 60 56 Z\" fill=\"url(#mountain-refuge1)\" filter=\"drop-shadow(3px 4px 8px rgba(0, 0, 0, 0.5))\" /><path d=\"M 16 48 L 20 40 L 26 44 L 32 36 L 38 40 L 44 32\" stroke=\"url(#mountain-escape1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"40\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"44\" cy=\"32\" r=\"3\" fill=\"#4facfe\" /><circle cx=\"44\" cy=\"16\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" /></svg>",
+      "relatedWords": [
+        "שָׁאַר (샤아르 - 남다, 남겨지다)",
+        "הַר (하르 - 산)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14장 10절은 싯딤 골짜기 전투의 결정적 순간을 묘사합니다. 소돔과 고모라 왕들이 역청 구덩이에 빠지는 장면은 단순한 전술적 패배가 아니라, 죄악으로 가득한 도시들의 운명을 예표하는 상징적 사건입니다. 역청 구덩이는 훗날 소돔과 고모라를 멸망시킬 유황과 불의 심판을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בֶּאֱרֹת בֶּאֱרֹת חֵמָר (베에로트 베에로트 헤마르) - 역청 구덩이들",
+        "description": "'베에로트'는 우물이나 구덩이를 의미하며, 반복된 표현은 구덩이가 매우 많았음을 강조합니다. '헤마르'는 역청(아스팔트, 타르)으로, 사해 지역에 풍부했던 천연 자원입니다. 이 역청 구덩이들은 전투 중 치명적인 함정이 되었습니다.",
+        "points": [
+          "사해 주변 지역은 지질학적으로 역청이 풍부하여 고대부터 채굴되었습니다",
+          "역청은 건축 재료로 사용되었지만(창 11:3), 여기서는 치명적 함정이 되었습니다",
+          "구덩이에 빠진다는 것은 성경에서 죄와 심판의 상징으로 자주 사용됩니다(시 40:2, 잠 28:10)",
+          "역청의 끈적거림과 검은색은 죄의 속박과 어둠을 상징적으로 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיָּנֻסוּ מֶלֶךְ סְדֹם וַעֲמֹרָה (바야누수 멜레크 스돔 바아모라) - 소돔과 고모라 왕들이 도망했다",
+        "description": "소돔과 고모라 왕들의 도주는 그들의 완전한 패배를 보여줍니다. 14년 동안 그돌라오멜의 지배 아래 있다가 반역했지만, 결국 전투에서 참패하여 목숨을 부지하기 위해 도망쳤습니다. 이는 하나님 없는 인간의 힘이 얼마나 무력한지 보여줍니다.",
+        "points": [
+          "소돔과 고모라는 당시 번영했지만 도덕적으로 타락한 도시들이었습니다(창 13:13)",
+          "그들의 반역은 용기처럼 보였지만, 하나님의 도우심 없이는 실패할 수밖에 없었습니다",
+          "도망가는 왕들의 모습은 교만이 패배로 이어지는 과정을 보여줍니다",
+          "창세기 19장에서 이 도시들은 완전히 멸망하게 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּפְּלוּ שָׁמָּה (바이프루 샴마) - 거기에 빠졌다",
+        "description": "'나팔'은 떨어지다, 넘어지다는 의미로, 단순한 물리적 추락뿐 아니라 권세와 명예의 몰락을 의미합니다. 역청 구덩이에 빠진다는 것은 빠져나올 수 없는 치명적 상황을 뜻하며, 죄의 결과로 인한 심판을 상징합니다.",
+        "points": [
+          "역청 구덩이는 끈적거려서 빠지면 거의 빠져나올 수 없는 치명적 함정입니다",
+          "전투 중 지형을 모르고 도망가다가 구덩이에 빠진 것은 그들의 무지와 절망을 보여줍니다",
+          "시편 40:2는 '진흙 구덩이'에서 건져내시는 하나님의 구원을 노래합니다",
+          "소돔과 고모라 왕들의 추락은 죄악의 도시가 맞이할 최종 심판을 예표합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְהַנִּשְׁאָרִים הֶרָה נָּסוּ (베하니쉬아림 헤라 나수) - 나머지는 산으로 도망했다",
+        "description": "'니쉬아림'은 '남겨진 자들', '생존자들'을 의미하며, 역청 구덩이에 빠지지 않은 병사들을 가리킵니다. 그들은 산으로 도망쳐 목숨을 구했지만, 이는 완전한 패배를 인정하는 것이었습니다.",
+        "points": [
+          "산은 고대 전쟁에서 피난처와 방어 요새 역할을 했습니다",
+          "평지 전투에서 패배한 후 산으로 도망가는 것은 재집결보다는 생존을 위한 선택입니다",
+          "남은 자들의 개념은 성경 전체에서 중요한 신학적 주제입니다(이사야 10:20-22)",
+          "심판 가운데서도 하나님은 남은 자를 보존하시며, 이는 그분의 자비를 보여줍니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 소돔과 고모라 왕들은 역청 구덩이에 빠졌을까요?",
+      "answer": "싯딤 골짜기에는 검고 끈적끈적한 역청(아스팔트) 구덩이들이 많았어요. 전쟁에서 진 소돔과 고모라 왕들이 도망가다가 앞도 제대로 못 보고 그 구덩이에 빠져버렸답니다. 역청 구덩이는 마치 끈적끈적한 진흙탕처럼 한번 빠지면 빠져나오기 정말 어려워요. 이것은 나쁜 일을 하면 결국 곤경에 빠지게 된다는 것을 보여주는 거예요. 소돔과 고모라는 나쁜 일을 많이 하는 도시였고, 결국 이렇게 큰 어려움을 겪게 된 거랍니다.",
+      "bibleReferences": [
+        "시편 40:2 - '나를 기가 막힐 웅덩이와 수렁에서 끌어내시고 내 발을 반석 위에 두사 내 걸음을 견고하게 하셨도다'",
+        "잠언 28:10 - '정직한 자를 악한 길로 유혹하는 자는 스스로 자기 함정에 빠져도 성실한 자는 복을 얻느니라'",
+        "창세기 19:24-25 - '여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사 그 성들과 온 들과 성에 거주하는 모든 백성을 멸하셨더라'",
+        "전도서 10:8 - '함정을 파는 자는 거기에 빠질 것이요 담을 허는 자는 뱀에게 물리리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "역청 구덩이 사건은 죄의 결과와 하나님의 심판을 예표합니다. 소돔과 고모라는 번영했지만 도덕적으로 타락했고, 이 전투에서의 패배는 창세기 19장의 완전한 멸망을 예고합니다. 역청 구덩이는 죄의 끈적거리는 속박을 상징하며, 한번 빠지면 스스로는 빠져나올 수 없습니다. 그러나 하나님은 시편 40편처럼 '진흙 구덩이'에서 우리를 건져내실 수 있는 유일한 분이십니다. 이 사건은 또한 인간의 힘과 교만이 얼마나 무력한지, 그리고 하나님의 구원이 얼마나 절실한지를 보여줍니다."
+    }
+  }
+}

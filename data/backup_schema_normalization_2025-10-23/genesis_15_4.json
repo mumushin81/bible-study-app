@@ -1,0 +1,151 @@
+{
+  "id": "genesis_15_4",
+  "reference": "창세기 15:4",
+  "hebrew": "",
+  "ipa": "vəhiˈne dəvar jəhoˈva ʔeˈlav leˈmor lo jiˈraʃəχa ze ki ʔim ʔaˈʃer jeˈʦe mimeˈʕeχa hu jiˈraʃeχa",
+  "koreanPronunciation": "베히네 드바르 예호와 엘라브 레모르 로 이라쉬카 제 키 임 아셰르 예체 미메에카 후 이라셰카",
+  "modern": "여호와의 말씀이 그에게 임하여 이르시되 '그 사람이 네 상속자가 아니라 네 몸에서 날 자가 네 상속자가 되리라'",
+  "words": [
+    {
+      "hebrew": "וְהִנֵּה דְבַר יְהוָה",
+      "meaning": "그리고 보라 여호와의 말씀이",
+      "ipa": "vəhiˈne dəvar jəhoˈva",
+      "korean": "베히네 드바르 예호와",
+      "letters": "וְ(ve) + הִנֵּה(hine) + דְ(də) + בַר(var) + יְ(ye) + הוָה(hovah)",
+      "root": "ד-ב-ר (다바르)",
+      "grammar": "명사",
+      "emoji": "⚡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gen15-4-word1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient><linearGradient id=\"gen15-4-lightning1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#gen15-4-word1)\" opacity=\"0.6\"/><path d=\"M 28 12 L 24 28 L 32 28 L 28 48 L 42 24 L 34 24 Z\" fill=\"url(#gen15-4-lightning1)\" filter=\"drop-shadow(0 2px 8px rgba(255, 215, 0, 0.6))\"/></svg>"
+    },
+    {
+      "hebrew": "אֵלָיו",
+      "meaning": "그에게",
+      "ipa": "ʔeˈlav",
+      "korean": "엘라브",
+      "letters": "אֵ(e) + לָיו(lav)",
+      "root": "אֶל (엘)",
+      "grammar": "전치사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-4-him1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#gen15-4-him1)\" stroke-width=\"5\" stroke-linecap=\"round\"/><path d=\"M 36 24 L 44 32 L 36 40\" stroke=\"url(#gen15-4-him1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"52\" cy=\"32\" r=\"8\" fill=\"url(#gen15-4-him1)\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "לֹא יִירָשְׁךָ זֶה",
+      "meaning": "이 사람이 너를 상속하지 않을 것이다",
+      "ipa": "lo jiˈraʃəχa ze",
+      "korean": "로 이라쉬카 제",
+      "letters": "לֹא(lo) + יִי(yi) + רָשְׁךָ(rashcha) + זֶה(ze)",
+      "root": "י-ר-שׁ (야라쉬)",
+      "grammar": "동사",
+      "emoji": "🚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-4-not1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E57373\"/><stop offset=\"100%\" stop-color=\"#C62828\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#gen15-4-not1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#gen15-4-not1)\" stroke-width=\"5\" filter=\"drop-shadow(0 2px 6px rgba(198, 40, 40, 0.4))\"/><line x1=\"18\" y1=\"18\" x2=\"46\" y2=\"46\" stroke=\"url(#gen15-4-not1)\" stroke-width=\"5\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "כִּי אִם",
+      "meaning": "오직, 다만",
+      "ipa": "ki ʔim",
+      "korean": "키 임",
+      "letters": "כִּי(ki) + אִם(im)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "emoji": "✅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-4-but1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#gen15-4-but1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#gen15-4-but1)\" stroke-width=\"5\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.4))\"/><path d=\"M 20 32 L 28 40 L 44 24\" stroke=\"url(#gen15-4-but1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "אֲשֶׁר יֵצֵא מִמֵּעֶיךָ",
+      "meaning": "네 몸에서 나올 자",
+      "ipa": "ʔaˈʃer jeˈʦe mimeˈʕeχa",
+      "korean": "아셰르 예체 미메에카",
+      "letters": "אֲ(a) + שֶׁר(sher) + יֵ(ye) + צֵא(tse) + מִ(mi) + מֵּעֶיךָ(meecha)",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-4-offspring1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"gen15-4-life1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"14\" fill=\"url(#gen15-4-life1)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"30\" r=\"12\" fill=\"url(#gen15-4-offspring1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#333\"/><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"46\" rx=\"10\" ry=\"12\" fill=\"url(#gen15-4-offspring1)\"/><path d=\"M 20 20 Q 32 10 44 20\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨, 자손)",
+        "בֵּן (벤 - 아들)"
+      ]
+    },
+    {
+      "hebrew": "הוּא יִירָשֶׁךָ",
+      "meaning": "그가 너를 상속할 것이다",
+      "ipa": "hu jiˈraʃeχa",
+      "korean": "후 이라셰카",
+      "letters": "הוּא(hu) + יִי(yi) + רָשֶׁךָ(rashecha)",
+      "root": "י-ר-שׁ (야라쉬)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-4-heir1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"gen15-4-ribbon1\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient></defs><rect x=\"18\" y=\"28\" width=\"28\" height=\"24\" rx=\"2\" fill=\"url(#gen15-4-heir1)\" filter=\"drop-shadow(0 3px 8px rgba(255, 140, 0, 0.5))\"/><rect x=\"30\" y=\"28\" width=\"4\" height=\"24\" fill=\"url(#gen15-4-ribbon1)\"/><rect x=\"18\" y=\"38\" width=\"28\" height=\"4\" fill=\"url(#gen15-4-ribbon1)\"/><path d=\"M 26 28 Q 28 22 30 28\" fill=\"url(#gen15-4-ribbon1)\"/><path d=\"M 34 28 Q 36 22 38 28\" fill=\"url(#gen15-4-ribbon1)\"/><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/></svg>",
+      "relatedWords": [
+        "נַחֲלָה (나할라 - 기업, 유산)",
+        "יְרֻשָּׁה (예루샤 - 상속)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 4절은 하나님께서 아브람의 탄식에 대한 명확하고 구체적인 응답을 주시는 결정적 순간입니다. '네 몸에서 날 자'라는 약속은 양자나 종이 아닌, 아브람의 친자녀가 상속자가 될 것임을 확증합니다. 이는 인간의 계획을 뛰어넘는 하나님의 초자연적 섭리를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְהִנֵּה דְבַר יְהוָה (베히네 드바르 예호와) - 보라 여호와의 말씀",
+        "description": "'힌네'는 강조된 감탄사로, 중요한 계시가 임박했음을 알립니다. 하나님의 말씀이 다시 임한 것은 아브람의 솔직한 호소에 대한 직접적 응답이며, 하나님은 우리의 질문과 고뇌를 외면하지 않으십니다.",
+        "points": [
+          "하나님은 아브람의 탄식을 듣고 즉시 응답하심",
+          "'드바르 예호와'는 단순한 말이 아니라 창조적 능력을 가진 말씀",
+          "요한복음 1:1 '태초에 말씀이 계시니라' - 말씀은 인격이신 그리스도",
+          "히브리서 4:12 '하나님의 말씀은 살아있고 활력이 있어'"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לֹא יִירָשְׁךָ זֶה (로 이라쉬카 제) - 이 사람이 상속하지 않으리라",
+        "description": "하나님은 아브람의 인간적 해결책(엘리에셀)을 분명히 거부하십니다. '제(이)'는 엘리에셀을 가리키며, 하나님의 약속은 인간의 계획과 방법으로 이루어지지 않음을 선포합니다.",
+        "points": [
+          "하나님의 방법은 인간의 논리와 다름",
+          "이사야 55:8-9 '내 생각은 너희의 생각과 다르며'",
+          "후에 이스마엘도 거부되고 이삭이 약속의 자녀가 됨",
+          "구원은 인간의 노력이 아닌 하나님의 은혜로만"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֲשֶׁר יֵצֵא מִמֵּעֶיךָ (아셰르 예체 미메에카) - 네 몸에서 나올 자",
+        "description": "'메에카'는 문자적으로 '네 내장, 창자'를 의미하며, 아브람의 친생자를 강조합니다. 이는 생물학적으로 불가능해 보이는 상황(아브람 85세, 사래 75세)에서 주어진 초자연적 약속입니다.",
+        "points": [
+          "로마서 4:19 '백 세나 되어 자기 몸이 죽은 것 같고'",
+          "육체적으로 불가능한 상황에서 주어진 약속 - 믿음의 시험",
+          "히브리서 11:11 '사라도 믿음으로 나이가 지나 잉태할 수 있었으니'",
+          "이삭의 탄생은 부활의 능력을 예표함"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "הוּא יִירָשֶׁךָ (후 이라셰카) - 그가 네 상속자가 되리라",
+        "description": "'후(그)'는 강조된 3인칭 대명사로, 엘리에셀이 아닌 '그 아이'가 상속자임을 명확히 합니다. 이는 단순히 재산 상속이 아니라, 언약과 축복의 계승을 의미합니다.",
+        "points": [
+          "갈라디아서 3:16 '네 씨에게 하셨으니 곧 그리스도라'",
+          "이삭 → 야곱 → 유다 → 다윗 → 예수 그리스도로 이어지는 메시아 계보",
+          "로마서 9:8 '육신의 자녀가 하나님의 자녀가 아니라 약속의 자녀가'",
+          "모든 믿는 자는 믿음으로 아브라함의 자손 (갈 3:29)"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 엘리에셀이 아니라 아브람의 아들이 상속자가 되어야 했나요?",
+      "answer": "하나님께서 아브람에게 '너의 후손이 하늘의 별처럼 많아질 거야'라고 약속하셨는데, 엘리에셀은 아브람의 진짜 아들이 아니었어요. 하나님의 약속은 반드시 하나님의 방법으로 이루어져야 해요. 마치 부모님이 '네가 직접 그림을 그려야 해'라고 하셨는데, 친구에게 그려달라고 하면 안 되는 것과 같아요. 하나님은 아브람이 늙어서 아기를 가질 수 없을 것 같았지만, 하나님의 능력으로 이삭을 주셨어요.",
+      "bibleReferences": [
+        "로마서 4:17 - '죽은 자를 살리시며 없는 것을 있는 것으로 부르시는 이시니라'",
+        "로마서 9:8 - '육신의 자녀가 하나님의 자녀가 아니라 약속의 자녀가 씨로 여기심을 받느니라'",
+        "히브리서 11:12 - '죽은 자와 같은 한 사람으로 말미암아 하늘의 허다한 별과 같고'",
+        "갈라디아서 4:28 - '형제들아 너희는 이삭과 같이 약속의 자녀라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 15:4는 은혜 언약의 본질을 계시합니다. 구원은 인간의 노력(엘리에셀)이나 율법(이스마엘)으로 이루어지지 않고, 오직 하나님의 초자연적 은혜(이삭)로만 성취됩니다. '네 몸에서 날 자'라는 약속은 불가능해 보이는 상황에서 하나님의 능력으로 이루어지는 믿음의 원리를 가르칩니다. 이는 궁극적으로 처녀 마리아에게서 태어난 예수 그리스도를 예표하며, 구원이 전적으로 하나님의 은혜임을 선포합니다(에베소서 2:8-9)."
+    }
+  }
+}

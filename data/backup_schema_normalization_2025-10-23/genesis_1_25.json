@@ -1,0 +1,189 @@
+{
+  "id": "genesis_1_25",
+  "reference": "창세기 1:25",
+  "hebrew": "וַיַּעַשׂ אֱלֹהִים אֶת-חַיַּת הָאָרֶץ לְמִינָהּ, וְאֶת-הַבְּהֵמָה לְמִינָהּ, וְאֵת כָּל-רֶמֶשׂ הָאֲדָמָה, לְמִינֵהוּ; וַיַּרְא אֱלֹהִים, כִּי-טוֹב.",
+  "ipa": "vaˈjaʕaś ʔɛloˈhim ʔɛt ħajˈjat haˈʔarɛts ləmiˈnah vəʔɛt habəheˈmah ləmiˈnah vəʔet kol ˈrɛmɛś haʔadaˈmah ləmiˈnehu vaˈjar ʔɛloˈhim ki ˈtov",
+  "koreanPronunciation": "바야아스 엘로힘 에트 하야트 하아레츠 레미나, 베에트 하베헤마 레미나, 베에트 콜 레메스 하아다마 레미네후; 바야르 엘로힘 키 토브",
+  "modern": "하나님께서 땅의 짐승을 그 종류대로, 가축을 그 종류대로, 땅에 기는 모든 것을 그 종류대로 만드시고, 하나님께서 보시기에 좋았습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "ipa": "vaˈjaʕaś",
+      "korean": "바야아스",
+      "letters": "וַ(va) + יַּ(ya) + עַ(a) + שׂ(s)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"maker1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient><radialGradient id=\"spark1\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 107, 53, 0.15)\" /><path d=\"M 20 40 L 28 32 L 36 40 L 44 32 L 36 24 L 28 32 Z\" fill=\"url(#maker1)\" stroke=\"#D84315\" stroke-width=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"20\" r=\"4\" fill=\"url(#spark1)\" filter=\"drop-shadow(0 0 6px rgba(255, 235, 59, 0.8))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#spark1)\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><circle cx=\"20\" cy=\"28\" r=\"3\" fill=\"url(#spark1)\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /></svg>",
+      "relatedWords": [
+        "מַעֲשֶׂה (마아세 - 행위, 작품)",
+        "עֲשִׂיָּה (아시야 - 제작)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown25\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"jewel25\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></radialGradient><linearGradient id=\"glow25\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow25)\" opacity=\"0.2\" /><path d=\"M 12 46 L 16 34 L 22 38 L 28 26 L 32 30 L 36 26 L 42 38 L 48 34 L 52 46 Z\" fill=\"url(#crown25)\" stroke=\"#FF8C00\" stroke-width=\"2.5\" filter=\"drop-shadow(0 5px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"46\" width=\"40\" height=\"7\" fill=\"url(#crown25)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"30\" r=\"4\" fill=\"url(#jewel25)\" filter=\"drop-shadow(0 0 8px rgba(233, 30, 99, 0.9))\" /><circle cx=\"22\" cy=\"38\" r=\"2.5\" fill=\"url(#jewel25)\" opacity=\"0.9\" /><circle cx=\"42\" cy=\"38\" r=\"2.5\" fill=\"url(#jewel25)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 신)",
+        "אֱלוֹהַּ (엘로아 - 하나님 단수형)"
+      ]
+    },
+    {
+      "hebrew": "חַיַּת הָאָרֶץ",
+      "meaning": "땅의 짐승",
+      "ipa": "ħajˈjat haˈʔarɛts",
+      "korean": "하야트 하아레츠",
+      "letters": "חַ(ha) + יַּ(yya) + ת(t) / הָ(ha) + אָ(a) + רֶ(re) + ץ(ts)",
+      "root": "חַי (하이 - 살아있는)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wild25\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#CD853F\" /></linearGradient><radialGradient id=\"earth25\"><stop offset=\"0%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#654321\" /></radialGradient><linearGradient id=\"grass25\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"50\" rx=\"28\" ry=\"8\" fill=\"url(#earth25)\" opacity=\"0.4\" /><rect x=\"8\" y=\"48\" width=\"48\" height=\"12\" fill=\"url(#grass25)\" opacity=\"0.3\" rx=\"2\" /><ellipse cx=\"28\" cy=\"28\" rx=\"16\" ry=\"14\" fill=\"url(#wild25)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"22\" cy=\"24\" r=\"2.5\" fill=\"#000000\" /><circle cx=\"34\" cy=\"24\" r=\"2.5\" fill=\"#000000\" /><ellipse cx=\"28\" cy=\"30\" rx=\"3\" ry=\"2\" fill=\"#8B4513\" /><path d=\"M 12 20 Q 10 16 8 20 M 16 18 Q 14 14 12 16 M 20 16 Q 18 12 16 14\" stroke=\"url(#wild25)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 16 Q 38 12 40 14 M 40 18 Q 42 14 44 16 M 44 20 Q 46 16 48 20\" stroke=\"url(#wild25)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "חַיָּה (하야 - 생명, 살아있는 것)",
+        "חַי (하이 - 살아있는)"
+      ]
+    },
+    {
+      "hebrew": "לְמִינָהּ",
+      "meaning": "그 종류대로",
+      "ipa": "ləmiˈnah",
+      "korean": "레미나",
+      "letters": "לְ(le) + מִ(mi) + ינָ(na) + הּ(h)",
+      "root": "מִין (민 - 종류)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dna25\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3F51B5\" /><stop offset=\"50%\" stop-color=\"#2196F3\" /><stop offset=\"100%\" stop-color=\"#03A9F4\" /></linearGradient><linearGradient id=\"dna25b\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"50%\" stop-color=\"#F06292\" /><stop offset=\"100%\" stop-color=\"#EC407A\" /></linearGradient><radialGradient id=\"glow_dna25\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#2196F3\" opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_dna25)\" /><path d=\"M 24 8 Q 20 16 24 24 Q 28 32 24 40 Q 20 48 24 56\" stroke=\"url(#dna25)\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(33, 150, 243, 0.5))\" /><path d=\"M 40 8 Q 44 16 40 24 Q 36 32 40 40 Q 44 48 40 56\" stroke=\"url(#dna25b)\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(233, 30, 99, 0.5))\" /><line x1=\"24\" y1=\"12\" x2=\"40\" y2=\"12\" stroke=\"url(#dna25)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"24\" x2=\"40\" y2=\"24\" stroke=\"url(#dna25b)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"36\" x2=\"40\" y2=\"36\" stroke=\"url(#dna25)\" stroke-width=\"2\" /><line x1=\"24\" y1=\"48\" x2=\"40\" y2=\"48\" stroke=\"url(#dna25b)\" stroke-width=\"2\" /><circle cx=\"24\" cy=\"12\" r=\"3\" fill=\"url(#dna25)\" /><circle cx=\"40\" cy=\"12\" r=\"3\" fill=\"url(#dna25b)\" /><circle cx=\"24\" cy=\"36\" r=\"3\" fill=\"url(#dna25)\" /><circle cx=\"40\" cy=\"36\" r=\"3\" fill=\"url(#dna25b)\" /></svg>",
+      "relatedWords": [
+        "מִין (민 - 종, 종류)",
+        "מִינוּת (미눗 - 종 분류)"
+      ]
+    },
+    {
+      "hebrew": "הַבְּהֵמָה",
+      "meaning": "가축",
+      "ipa": "habəheˈmah",
+      "korean": "하베헤마",
+      "letters": "הַ(ha) + בְּ(be) + הֵ(he) + מָ(ma) + ה(h)",
+      "root": "בְּהֵמָה (베헤마)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle25\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#BC9B7A\" /></linearGradient><linearGradient id=\"spot25\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#F5F5DC\" /></linearGradient><radialGradient id=\"ground25\"><stop offset=\"0%\" stop-color=\"#8B7355\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#654321\" opacity=\"0.1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"6\" fill=\"url(#ground25)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"14\" fill=\"url(#cattle25)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"28\" cy=\"24\" rx=\"6\" ry=\"7\" fill=\"url(#cattle25)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"22\" r=\"2\" fill=\"#3E2723\" /><circle cx=\"32\" cy=\"22\" r=\"2\" fill=\"#3E2723\" /><ellipse cx=\"28\" cy=\"26\" rx=\"2\" ry=\"1.5\" fill=\"#D7CCC8\" /><path d=\"M 20 18 L 18 14 L 22 16 Z\" fill=\"url(#cattle25)\" /><path d=\"M 36 18 L 38 14 L 34 16 Z\" fill=\"url(#cattle25)\" /><ellipse cx=\"26\" cy=\"34\" rx=\"4\" ry=\"3\" fill=\"url(#spot25)\" opacity=\"0.6\" /><ellipse cx=\"36\" cy=\"30\" rx=\"3.5\" ry=\"2.5\" fill=\"url(#spot25)\" opacity=\"0.6\" /><rect x=\"20\" y=\"40\" width=\"3\" height=\"10\" fill=\"url(#cattle25)\" rx=\"1.5\" /><rect x=\"28\" y=\"40\" width=\"3\" height=\"10\" fill=\"url(#cattle25)\" rx=\"1.5\" /><rect x=\"33\" y=\"40\" width=\"3\" height=\"10\" fill=\"url(#cattle25)\" rx=\"1.5\" /><rect x=\"41\" y=\"40\" width=\"3\" height=\"10\" fill=\"url(#cattle25)\" rx=\"1.5\" /></svg>",
+      "relatedWords": [
+        "בָּקָר (바카르 - 소)",
+        "צֹאן (촌 - 양 떼)"
+      ]
+    },
+    {
+      "hebrew": "רֶמֶשׂ הָאֲדָמָה",
+      "meaning": "땅에 기는 것",
+      "ipa": "ˈrɛmɛś haʔadaˈmah",
+      "korean": "레메스 하아다마",
+      "letters": "רֶ(re) + מֶ(me) + שׂ(s) / הָ(ha) + אֲ(a) + דָ(da) + מָ(ma) + ה(h)",
+      "root": "ר-מ-שׂ (라마스 - 기다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creep25\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"50%\" stop-color=\"#69F0AE\" /><stop offset=\"100%\" stop-color=\"#00E676\" /></linearGradient><linearGradient id=\"soil25\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#5D4037\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient><radialGradient id=\"shine25\"><stop offset=\"0%\" stop-color=\"#76FF03\" /><stop offset=\"100%\" stop-color=\"#00C853\" /></radialGradient></defs><rect x=\"4\" y=\"44\" width=\"56\" height=\"16\" fill=\"url(#soil25)\" rx=\"4\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 10 40 Q 8 36 12 32 Q 16 28 12 24 Q 8 20 12 16 Q 16 12 12 8\" stroke=\"url(#creep25)\" stroke-width=\"7\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"12\" cy=\"8\" rx=\"5\" ry=\"4\" fill=\"url(#shine25)\" transform=\"rotate(-20 12 8)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"10\" cy=\"7\" r=\"1.5\" fill=\"#FFEB3B\" /><circle cx=\"14\" cy=\"7\" r=\"1.5\" fill=\"#FFEB3B\" /><path d=\"M 28 48 Q 32 44 36 48 Q 40 44 44 48 Q 48 44 52 48\" stroke=\"url(#creep25)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><circle cx=\"36\" cy=\"50\" r=\"2\" fill=\"url(#shine25)\" /><circle cx=\"28\" cy=\"52\" r=\"1.5\" fill=\"url(#shine25)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"52\" r=\"1.5\" fill=\"url(#shine25)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "רָמַשׂ (라마스 - 기어다니다)",
+        "רֶמֶשׂ (레메스 - 기는 생물)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보셨다",
+      "ipa": "vaˈjar",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eye25\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1E88E5\" /><stop offset=\"50%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#64B5F6\" /></linearGradient><radialGradient id=\"iris25\"><stop offset=\"0%\" stop-color=\"#03A9F4\" /><stop offset=\"60%\" stop-color=\"#0288D1\" /><stop offset=\"100%\" stop-color=\"#01579B\" /></radialGradient><radialGradient id=\"pupil25\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#212121\" /></radialGradient><radialGradient id=\"light25\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#eye25)\" stroke=\"#0D47A1\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#iris25)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#pupil25)\" filter=\"drop-shadow(0 1px 2px rgba(0, 0, 0, 0.5))\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"url(#light25)\" /><path d=\"M 8 32 Q 4 28 8 24 Q 12 20 16 20\" stroke=\"#0D47A1\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 56 32 Q 60 28 56 24 Q 52 20 48 20\" stroke=\"#0D47A1\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "רְאִיָּה (레이야 - 시각, 보는 것)"
+      ]
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "meaning": "좋았다",
+      "ipa": "ki ˈtov",
+      "korean": "키 토브",
+      "letters": "כִּי(ki) / טוֹ(to) + ב(v)",
+      "root": "טוֹב (토브 - 좋은)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"good25\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></radialGradient><linearGradient id=\"ray25\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FFC107\" /></linearGradient><radialGradient id=\"glow_good25\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_good25)\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#good25)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g transform=\"translate(32, 32)\" stroke=\"url(#ray25)\" stroke-width=\"3\" stroke-linecap=\"round\"><line x1=\"0\" y1=\"-20\" x2=\"0\" y2=\"-26\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"14\" y1=\"-14\" x2=\"18\" y2=\"-18\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"20\" y1=\"0\" x2=\"26\" y2=\"0\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"14\" y1=\"14\" x2=\"18\" y2=\"18\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"0\" y1=\"20\" x2=\"0\" y2=\"26\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"-14\" y1=\"14\" x2=\"-18\" y2=\"18\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"-20\" y1=\"0\" x2=\"-26\" y2=\"0\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /><line x1=\"-14\" y1=\"-14\" x2=\"-18\" y2=\"-18\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.8))\" /></g><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.4\" /><path d=\"M 26 30 Q 28 34 32 34 Q 36 34 38 30\" stroke=\"#FF6F00\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "טוֹבָה (토바 - 선함, 좋음)",
+        "יָטַב (야타브 - 좋게 하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:25는 여섯째 날 창조의 마지막 단계로, 육지 동물들의 창조를 기록합니다. 하나님께서 땅의 짐승, 가축, 그리고 땅에 기는 모든 생물을 '그 종류대로' 만드시고, 이를 보시고 좋다고 선포하셨습니다. 이는 모든 피조물이 하나님의 설계에 따라 완벽하게 창조되었음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּעַשׂ (바야아스) - 형성하고 만드시다",
+        "description": "히브리어 '아사'는 '만들다', '형성하다', '제작하다'를 의미하는 동사입니다. 앞서 사용된 '바라'(무에서 유를 창조하다)와 달리, '아사'는 이미 존재하는 재료로부터 무언가를 형성하고 만드는 것을 의미합니다. 하나님께서 땅(아다마)으로부터 동물들을 빚어 형성하셨음을 암시합니다.",
+        "points": [
+          "하나님은 직접 손으로 빚으시듯 세밀하게 각 생명체를 만드셨습니다",
+          "땅의 흙으로부터 동물들을 형성하셨으며, 이는 후에 사람을 흙으로 만드신 것과 연결됩니다(창 2:7, 2:19)",
+          "창조주의 장인정신과 섬세함이 드러나는 표현입니다",
+          "각 생물은 우연이 아닌 하나님의 설계와 목적을 가지고 만들어졌습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְמִינָהּ/לְמִינֵהוּ (레미나/레미네후) - 각각 그 종류대로",
+        "description": "'민'은 '종류', '종', '분류'를 의미하는 히브리어입니다. 이 표현은 25절에서만 세 번 반복되며, 하나님께서 각 생물에게 고유한 특성과 재생산 능력을 부여하셨음을 강조합니다. 생물학적 질서와 다양성이 하나님의 설계임을 보여줍니다.",
+        "points": [
+          "각 종은 하나님이 정하신 경계와 특성을 가지고 있습니다",
+          "종류대로 번식하는 것은 창조 질서의 안정성을 보장합니다",
+          "다양성 속의 질서 - 무수히 많은 종이지만 각각 명확한 분류가 있습니다",
+          "진화론이 아닌 창조론의 성경적 근거가 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "חַיַּת הָאָרֶץ, הַבְּהֵמָה, רֶמֶשׂ (하야트 하아레츠, 하베헤마, 레메스) - 세 가지 범주의 육지 동물",
+        "description": "하나님은 육지 동물을 세 가지 범주로 창조하셨습니다. '하야트 하아레츠'는 야생 짐승(사자, 늑대 등), '베헤마'는 가축(소, 양 등), '레메스'는 땅에 기는 생물(뱀, 도마뱀, 곤충 등)을 가리킵니다. 이 분류는 동물들의 생태적 역할과 인간과의 관계를 고려한 구분입니다.",
+        "points": [
+          "야생 짐승은 자연의 생태계를 유지하며 하나님의 위엄을 드러냅니다",
+          "가축은 인간을 섬기고 돕기 위해 창조되었으며, 인간의 청지기 역할을 보여줍니다",
+          "땅에 기는 생물들도 생태계에서 중요한 역할을 감당합니다",
+          "모든 동물은 각자의 자리에서 창조 질서를 완성합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "כִּי-טוֹב (키 토브) - 하나님의 승인과 만족",
+        "description": "'토브'는 단순히 '좋다'는 의미를 넘어 '완전하다', '아름답다', '적합하다', '올바르다'는 뜻을 포함합니다. 하나님께서 친히 창조하신 동물들을 살펴보시고 그것이 완벽하고 아름다우며 그분의 계획에 정확히 부합한다고 선포하셨습니다.",
+        "points": [
+          "하나님의 창조는 결함이 없고 완전합니다",
+          "각 생명체는 하나님 보시기에 가치 있고 의미 있습니다",
+          "창조 질서는 도덕적으로나 미학적으로 완벽합니다",
+          "타락 이전의 세상은 모든 면에서 '매우 좋았습니다'(창 1:31)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 동물들을 '종류대로' 만드셨을까요?",
+      "answer": "하나님은 세상을 질서 있고 아름답게 만들고 싶으셨어요. 강아지는 강아지끼리, 고양이는 고양이끼리, 새는 새끼를 낳게 하셨죠. 만약 강아지가 어느 날 갑자기 고양이를 낳거나 새가 물고기를 낳는다면 세상이 얼마나 혼란스러울까요? 하나님은 각 동물이 자기 모습대로 아기를 낳게 하셔서, 세상이 늘 아름답고 질서 있게 유지되도록 하셨답니다. 그리고 각 동물은 특별한 능력과 아름다움을 가지고 있어요!",
+      "bibleReferences": [
+        "창세기 2:19 - '여호와 하나님이 흙으로 각종 들짐승과 공중의 각종 새를 지으시고'",
+        "시편 104:24-25 - '여호와여 주께서 하신 일이 어찌 그리 많은지요 주께서 지혜로 그들을 다 지으셨으니'",
+        "욥기 39:1-2 - '산 염소가 새끼 치는 때를 네가 아느냐 암사슴이 새끼 낳을 때를 네가 보았느냐'",
+        "시편 148:10 - '짐승과 모든 가축과 기는 것과 나는 새들아 여호와를 찬양할지어다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1:25는 하나님의 창조가 우연이나 혼돈이 아닌 질서와 목적을 가진 설계임을 보여줍니다. 각 생명체가 '종류대로' 창조되었다는 것은 하나님께서 생물학적 다양성과 안정성을 모두 고려하셨음을 의미합니다. 또한 하나님께서 친히 보시고 '좋다'고 선언하신 것은 모든 피조물이 본질적으로 선하고 가치 있다는 것을 가르쳐줍니다. 이는 우리가 자연과 동물을 존중하고 돌보아야 할 청지기로서의 책임을 상기시킵니다. 하나님의 창조 질서를 보존하는 것은 창조주를 영화롭게 하는 일입니다."
+    }
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "id": "genesis_9_3",
+  "reference": "창세기 9:3",
+  "hebrew": "כָּל-רֶמֶשׂ אֲשֶׁר הוּא-חַי, לָכֶם יִהְיֶה לְאָכְלָה; כְּיֶרֶק עֵשֶׂב, נָתַתִּי לָכֶם אֶת-כֹּל.",
+  "ipa": "kol ˈrɛmɛs ʔaˈʃɛr hu χaj laˈχɛm jihˈjɛ ləʔoχˈla kəˈjɛrɛq ˈʕesɛv naˈtati laˈχɛm ʔɛt kol",
+  "koreanPronunciation": "콜 레메스 아쉐르 후 하이 라켐 이흐예 레오클라 케예레크 에세브 나타티 라켐 에트 콜",
+  "modern": "모든 산 동물이 너희의 먹을 것이 될 것이니, 채소 같이 내가 이것을 다 너희에게 주노라",
+  "words": [
+    {
+      "hebrew": "רֶמֶשׂ",
+      "meaning": "움직이는 것, 동물",
+      "ipa": "ˈrɛmɛs",
+      "korean": "레메스",
+      "letters": "רֶ(re) + מֶ(me) + שׂ(s)",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creature_life\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"url(#creature_life)\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"30\" r=\"3\" fill=\"#000000\" /><circle cx=\"38\" cy=\"30\" r=\"3\" fill=\"#000000\" /><path d=\"M 20 36 Q 16 32 12 36\" stroke=\"#228B22\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 44 36 Q 48 32 52 36\" stroke=\"#228B22\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "רָמַשׂ (라마스 - 기다)",
+        "חַיָּה (하야 - 생물)"
+      ]
+    },
+    {
+      "hebrew": "חַי",
+      "meaning": "살아있는",
+      "ipa": "χaj",
+      "korean": "하이",
+      "letters": "חַ(kha) + י(i)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"life_pulse\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"50%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient></defs><path d=\"M 32 48 Q 20 36 16 28 Q 12 20 16 16 Q 20 12 24 16 Q 28 20 32 24 Q 36 20 40 16 Q 44 12 48 16 Q 52 20 48 28 Q 44 36 32 48 Z\" fill=\"url(#life_pulse)\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"#FF1493\" stroke-width=\"1\" opacity=\"0.3\" stroke-dasharray=\"4,4\" /></svg>",
+      "relatedWords": [
+        "חַיִּים (하이임 - 생명)",
+        "חָיָה (하야 - 살다)"
+      ]
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "meaning": "먹을 것으로",
+      "ipa": "ləʔoχˈla",
+      "korean": "레오클라",
+      "letters": "לְ(le) + אָ(o) + כְ(kh) + לָה(la)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"food_gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#food_gradient)\" /><path d=\"M 24 28 Q 32 24 40 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"26\" cy=\"34\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"34\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "מַאֲכָל (마아칼 - 음식)"
+      ]
+    },
+    {
+      "hebrew": "יֶרֶק",
+      "meaning": "채소, 푸른 것",
+      "ipa": "ˈjɛrɛq",
+      "korean": "예레크",
+      "letters": "יֶ(ye) + רֶ(re) + ק(q)",
+      "root": "י-ר-ק (야라크)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"green_leaf\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><path d=\"M 32 12 Q 24 20 20 32 Q 24 44 32 52 Q 40 44 44 32 Q 40 20 32 12 Z\" fill=\"url(#green_leaf)\" /><path d=\"M 32 12 L 32 52\" stroke=\"#228B22\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 24 Q 28 28 26 32\" stroke=\"#228B22\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 32 32 Q 36 36 38 40\" stroke=\"#228B22\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָרֹק (야로크 - 푸른)",
+        "יְרַקָּה (예라카 - 채소)"
+      ]
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "meaning": "풀",
+      "ipa": "ˈʕesɛv",
+      "korean": "에세브",
+      "letters": "עֵ(e) + שֶׂ(se) + ב(v)",
+      "root": "ע-שׂ-ב (아사브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"grass_blade\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient></defs><path d=\"M 20 56 Q 18 40 20 24\" stroke=\"url(#grass_blade)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 28 56 Q 28 36 30 20\" stroke=\"url(#grass_blade)\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 56 Q 36 38 34 22\" stroke=\"url(#grass_blade)\" stroke-width=\"3.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 44 56 Q 46 42 44 26\" stroke=\"url(#grass_blade)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"32\" cy=\"56\" rx=\"16\" ry=\"4\" fill=\"#228B22\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "דֶּשֶׁא (데쉐 - 풀)",
+        "חָצִיר (하치르 - 건초)"
+      ]
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "meaning": "내가 주었다",
+      "ipa": "naˈtati",
+      "korean": "나타티",
+      "letters": "נָ(na) + תַ(ta) + תִּי(ti)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"giving_hand\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#giving_hand)\" opacity=\"0.4\" /><path d=\"M 28 32 L 24 36 L 24 52 L 28 56 L 36 56 L 40 52 L 40 36 L 36 32 Z\" fill=\"#FFE4B5\" stroke=\"#CD853F\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"44\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 24 L 32 38\" stroke=\"#FFA500\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 홍수 이후 처음으로 인간에게 동물을 식물로 허락하십니다. 이전에는 채식만 허용되었으나(창 1:29), 이제는 육식도 가능해졌습니다. 이는 타락한 세상에서 인간의 생존을 위한 하나님의 배려입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל-רֶמֶשׂ אֲשֶׁר הוּא-חַי (콜 레메스 아쉐르 후 하이) - 모든 산 것",
+        "description": "창조 때는 인간에게 '씨 맺는 모든 채소와 열매 맺는 모든 나무'만 주셨습니다(창 1:29). 그러나 홍수 후 타락한 환경에서는 동물성 단백질이 필요했을 것입니다. 하나님은 변화된 환경에 맞춰 인간의 식단을 확장하십니다.",
+        "points": [
+          "하나님은 실제적인 필요를 아시고 공급하십니다",
+          "원래 창조의 이상(채식)에서 현실적 타협(육식)으로의 변화",
+          "이는 타락의 결과이자 하나님의 은혜입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לָכֶם יִהְיֶה לְאָכְלָה (라켐 이흐예 레오클라) - 너희 먹을 것",
+        "description": "'될 것이다'라는 미래형은 하나님의 허락이자 명령입니다. 이는 단순한 허용이 아니라, 새로운 질서의 선포입니다. 동물을 먹는 것이 이제 정당한 일이 되었습니다.",
+        "points": [
+          "하나님의 명시적 허락이 있어야 먹을 수 있습니다",
+          "음식에 대한 권한은 하나님께 있습니다",
+          "감사함으로 받아야 합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כְּיֶרֶק עֵשֶׂב (케예레크 에세브) - 채소 같이",
+        "description": "동물을 '채소처럼' 주신다는 표현은 흥미롭습니다. 이는 창조 때 주신 채소와 동등한 지위로 동물을 먹을 수 있게 되었음을 의미합니다. 그러나 다음 구절(9:4)에서는 '피는 먹지 말라'는 제한을 두십니다.",
+        "points": [
+          "채소와 고기 모두 하나님의 선물입니다",
+          "그러나 생명(피)은 여전히 하나님의 것입니다",
+          "모든 음식은 감사함으로 받아야 합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "נָתַתִּי לָכֶם אֶת-כֹּל (나타티 라켐 에트 콜) - 내가 너희에게 모든 것을 주었다",
+        "description": "'나타티'는 완료형으로, 이미 주어진 것을 확인하는 말입니다. 하나님은 과거에 채소를 주셨고, 이제 동물까지 '모든 것'을 주십니다. 이는 하나님의 풍성한 공급을 강조합니다.",
+        "points": [
+          "하나님은 풍성하게 공급하시는 분입니다",
+          "모든 것이 하나님의 선물임을 인정해야 합니다",
+          "감사와 청지기 정신이 필요합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 처음에는 채소만 먹게 하시다가 나중에는 고기도 먹게 하셨을까요?",
+      "answer": "하나님이 처음 세상을 만드셨을 때는 모든 것이 완벽했어요. 사람도, 동물도, 식물도 모두 건강했죠. 그래서 채소만 먹어도 충분했답니다. 하지만 죄가 세상에 들어온 후, 땅도 저주를 받고 환경이 나빠졌어요. 특히 홍수 후에는 식물이 자라기 더 어려워졌을 거예요. 그래서 하나님은 우리가 건강하게 살 수 있도록 고기도 먹을 수 있게 하셨어요. 이것은 하나님이 우리의 실제 필요를 아시고 돌보신다는 증거랍니다. 하지만 생명은 여전히 하나님의 것이기 때문에 피는 먹으면 안 돼요.",
+      "bibleReferences": [
+        "창세기 1:29 - '하나님이 이르시되 내가 온 지면의 씨 맺는 모든 채소와 씨 가진 열매 맺는 모든 나무를 너희에게 주노니 너희의 먹을거리가 되리라'",
+        "창세기 3:17-18 - '땅은 너로 말미암아 저주를 받고... 땅이 네게 가시덤불과 엉겅퀴를 낼 것이라'",
+        "디모데전서 4:3-4 - '하나님께서 지으신 모든 것이 선하매 감사함으로 받으면 버릴 것이 없나니'",
+        "사도행전 10:13-15 - '베드로야 일어나 잡아먹어라... 하나님께서 깨끗하게 하신 것을 네가 속되다 하지 말라'",
+        "로마서 14:2-3 - '어떤 사람은 모든 것을 먹을 만한 믿음이 있고 믿음이 약한 자는 채소만 먹느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:3은 하나님의 점진적 계시와 실제적 배려를 보여줍니다. 완벽한 창조의 이상은 채식이었지만, 타락한 세상의 현실에서는 육식이 필요했습니다. 이는 하나님이 이상주의자가 아니라 현실적인 필요를 아시는 분임을 보여줍니다. 동시에 다음 구절의 '피 금지 명령'은 생명의 존엄성을 강조합니다. 신약에서 바울은 '모든 음식이 깨끗하다'고 선포하지만(롬 14:20), 동시에 '믿음이 약한 자'를 배려해야 한다고 가르칩니다. 궁극적으로 새 하늘과 새 땅에서는 다시 이사야가 예언한 평화의 시대가 올 것입니다(사 11:6-9)."
+    }
+  }
+}

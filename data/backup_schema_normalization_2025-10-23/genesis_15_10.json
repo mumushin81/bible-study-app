@@ -1,0 +1,128 @@
+{
+  "id": "genesis_15_10",
+  "reference": "창세기 15:10",
+  "hebrew": "וַיִּקַּח-לוֹ אֶת-כָּל-אֵלֶּה, וַיְבַתֵּר אֹתָם בַּתָּוֶךְ, וַיִּתֵּן אִישׁ-בִּתְרוֹ לִקְרַאת רֵעֵהוּ; וְאֶת-הַצִּפֹּר, לֹא בָתָר.",
+  "ipa": "lo vatar hatsipˈpor veˈʔɛt reʕeˈhu liqˈrat bitˈro ˈʔiʃ vajitˈten bataˈvɛx ʔoˈtam vajəvatˈter ˈʔɛllɛ kol ʔɛt lo vajiqˈqax",
+  "koreanPronunciation": "로 바타르, 하칩포르 베에트, 레에후 리크라트 비트로 이쉬 바이텐, 바타베크 오탐 바예바테르, 엘레 콜 에트 로 바이카흐",
+  "modern": "아브람이 그 모든 것을 가져다가 그것들을 반으로 쪼개어 쪼갠 각 부분을 서로 마주 보게 놓았으나, 새들은 쪼개지 않았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקַּח-לוֹ",
+      "meaning": "그리고 그가 가져왔다",
+      "ipa": "lo vajiqˈqax",
+      "korean": "로 바이카흐",
+      "letters": "וַ(va) + יִּ(yi) + קַּ(qa) + ח(kh) + לוֹ(lo)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "✋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cutting10-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4ECDC4\" /><stop offset=\"100%\" stop-color=\"#44A08D\" /></linearGradient><radialGradient id=\"cutting10-shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4ECDC4\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#cutting10-shine1)\" opacity=\"0.3\" /><path d=\"M 32 48 L 28 38 L 24 36 L 22 30 L 24 24 L 28 22 L 32 24 L 36 22 L 40 24 L 42 30 L 40 36 L 36 38 Z\" fill=\"url(#cutting10-take1)\" filter=\"drop-shadow(0 3px 6px rgba(68, 160, 141, 0.4))\" /><ellipse cx=\"32\" cy=\"26\" rx=\"8\" ry=\"6\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.5))\" /></svg>"
+    },
+    {
+      "hebrew": "וַיְבַתֵּר אֹתָם",
+      "meaning": "그리고 그것들을 쪼개었다",
+      "ipa": "ʔoˈtam vajəvatˈter",
+      "korean": "오탐 바예바테르",
+      "letters": "וַ(va) + יְ(ye) + בַ(va) + תֵּ(te) + ר(r) + אֹ(o) + תָ(ta) + ם(m)",
+      "root": "ב-ת-ר (바타르)",
+      "grammar": "동사",
+      "emoji": "✂️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cutting10-cut1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><linearGradient id=\"cutting10-blade1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E8E8E8\" /><stop offset=\"100%\" stop-color=\"#B0B0B0\" /></linearGradient></defs><rect x=\"14\" y=\"28\" width=\"36\" height=\"8\" rx=\"2\" fill=\"url(#cutting10-cut1)\" filter=\"drop-shadow(0 3px 6px rgba(196, 30, 58, 0.5))\" /><path d=\"M 24 32 L 18 24 L 22 26 L 24 28 Z\" fill=\"url(#cutting10-blade1)\" filter=\"drop-shadow(0 2px 4px rgba(176, 176, 176, 0.4))\" /><path d=\"M 40 32 L 46 24 L 42 26 L 40 28 Z\" fill=\"url(#cutting10-blade1)\" filter=\"drop-shadow(0 2px 4px rgba(176, 176, 176, 0.4))\" /><line x1=\"32\" y1=\"20\" x2=\"32\" y2=\"44\" stroke=\"#FFD700\" stroke-width=\"2\" stroke-dasharray=\"4 2\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "בַּתָּוֶךְ",
+      "meaning": "중간으로, 반으로",
+      "ipa": "bataˈvɛx",
+      "korean": "바타베크",
+      "letters": "בַּ(ba) + תָּ(ta) + וֶ(ve) + ךְ(kh)",
+      "root": "ת-ו-ך (타베크)",
+      "grammar": "전치사",
+      "emoji": "↔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cutting10-middle1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#667EEA\" /></linearGradient><radialGradient id=\"cutting10-center1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" stop-opacity=\"0.3\" /></radialGradient></defs><rect x=\"8\" y=\"28\" width=\"20\" height=\"8\" rx=\"2\" fill=\"#667EEA\" opacity=\"0.7\" /><rect x=\"36\" y=\"28\" width=\"20\" height=\"8\" rx=\"2\" fill=\"#667EEA\" opacity=\"0.7\" /><line x1=\"32\" y1=\"16\" x2=\"32\" y2=\"48\" stroke=\"url(#cutting10-middle1)\" stroke-width=\"3\" stroke-dasharray=\"6 3\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#cutting10-center1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><path d=\"M 28 32 L 24 28 L 26 30 L 24 32 L 26 34 L 24 36 L 28 32 Z\" fill=\"#FFD700\" opacity=\"0.8\" /><path d=\"M 36 32 L 40 28 L 38 30 L 40 32 L 38 34 L 40 36 L 36 32 Z\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "אִישׁ-בִּתְרוֹ לִקְרַאת רֵעֵהוּ",
+      "meaning": "각 부분을 서로 마주 보게",
+      "ipa": "reʕeˈhu liqˈrat bitˈro ʔiʃ",
+      "korean": "레에후 리크라트 비트로 이쉬",
+      "letters": "אִ(i) + ישׁ(sh) + בִּ(bi) + תְ(t) + רוֹ(ro) + לִ(li) + קְ(q) + רַ(ra) + את(at) + רֵ(re) + עֵ(e) + הוּ(hu)",
+      "root": "א-י-ש (이쉬), ב-ת-ר (바타르), ק-ר-א (카라), ר-ע-ה (라아)",
+      "grammar": "명사",
+      "emoji": "🔄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cutting10-opposite1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#F5576C\" /></linearGradient><linearGradient id=\"cutting10-opposite2\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"18\" height=\"16\" rx=\"3\" fill=\"url(#cutting10-opposite1)\" filter=\"drop-shadow(0 3px 6px rgba(245, 87, 108, 0.4))\" /><rect x=\"38\" y=\"24\" width=\"18\" height=\"16\" rx=\"3\" fill=\"url(#cutting10-opposite2)\" filter=\"drop-shadow(0 3px 6px rgba(0, 242, 254, 0.4))\" /><path d=\"M 26 32 L 30 28 L 30 30 L 34 30 L 34 28 L 38 32 L 34 36 L 34 34 L 30 34 L 30 36 Z\" fill=\"#FFD700\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(255, 215, 0, 0.5))\" /><circle cx=\"17\" cy=\"32\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"47\" cy=\"32\" r=\"2\" fill=\"#FFFFFF\" /></svg>"
+    },
+    {
+      "hebrew": "הַצִּפֹּר לֹא בָתָר",
+      "meaning": "새들은 쪼개지 않았다",
+      "ipa": "vatar lo hatsipˈpor",
+      "korean": "바타르 로 하칩포르",
+      "letters": "הַ(ha) + צִּ(tsi) + פֹּ(po) + ר(r) + לֹ(lo) + א(a) + בָ(va) + תָ(ta) + ר(r)",
+      "root": "צ-פ-ר (차파르), ב-ת-ר (바타르)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cutting10-bird1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient><radialGradient id=\"cutting10-whole1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"cutting10-shield1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#64DD17\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"18\" fill=\"url(#cutting10-whole1)\" /><ellipse cx=\"36\" cy=\"28\" rx=\"10\" ry=\"12\" fill=\"url(#cutting10-bird1)\" filter=\"drop-shadow(0 3px 6px rgba(224, 224, 224, 0.5))\" /><path d=\"M 18 26 Q 14 22 12 24 Q 10 28 14 32 Q 18 34 22 32 Q 24 30 26 28 Z\" fill=\"url(#cutting10-bird1)\" opacity=\"0.9\" /><path d=\"M 46 26 Q 50 22 52 24 Q 54 28 50 32 Q 46 34 42 32 Q 40 30 38 28 Z\" fill=\"url(#cutting10-bird1)\" opacity=\"0.9\" /><circle cx=\"38\" cy=\"26\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 38 Q 32 42 36 38\" stroke=\"#FFD700\" stroke-width=\"1.5\" fill=\"none\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#cutting10-shield1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 10절은 아브람이 하나님의 명령에 순종하여 언약 의식을 준비하는 장면입니다. 동물을 쪼개어 마주 보게 놓는 행위는 고대 근동의 언약 의식인 '베리트 카라트'(언약을 자르다)의 핵심 절차입니다. 새들만 쪼개지 않은 것은 그들의 작은 크기와 온전함의 상징성을 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְבַתֵּר (바예바테르) - 쪼개다, 언약을 자르다",
+        "description": "히브리어 '바타르'는 '쪼개다', '나누다'를 의미하며, 언약을 맺는다는 표현 '카라트 베리트'(언약을 자르다)의 어원이 됩니다. 이는 단순한 절단이 아니라 언약의 엄숙함과 불가역성을 상징하는 의식입니다.",
+        "points": [
+          "언약 의식의 핵심 행위: 동물을 쪼개어 그 사이로 지나감",
+          "언약을 어기면 이 동물처럼 쪼개질 것이라는 저주의 상징",
+          "히브리어로 '언약을 맺다'를 '언약을 자르다'로 표현하는 이유"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בַּתָּוֶךְ (바타베크) - 중간으로, 통로를 만들다",
+        "description": "'바타베크'는 '중간', '가운데'를 의미합니다. 동물을 쪼개어 중간에 통로를 만드는 것은 언약 당사자들이 그 사이를 지나가며 '내가 이 언약을 어기면 이 동물처럼 되리라'는 서약을 하는 의식입니다.",
+        "points": [
+          "언약 의식의 통로를 만드는 행위",
+          "양쪽에 쪼개진 부분을 마주 보게 배치",
+          "15장 17절에서 하나님 홀로 이 통로를 지나가심"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אִישׁ-בִּתְרוֹ לִקְרַאת רֵעֵהוּ (이쉬 비트로 리크라트 레에후) - 각 부분이 서로 마주 보게",
+        "description": "이 표현은 쪼개진 동물의 각 부분이 정확히 서로 마주 보도록 배치되었음을 강조합니다. 이는 언약의 대칭성과 완전성을 시각적으로 표현하는 것입니다.",
+        "points": [
+          "정확하고 질서 있는 언약 의식의 배치",
+          "쪼개진 부분들의 대칭은 언약의 완전성을 상징",
+          "양쪽 사이의 공간은 언약 당사자가 지나갈 통로"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "הַצִּפֹּר לֹא בָתָר (하칩포르 로 바타르) - 새들은 쪼개지 않았다",
+        "description": "새들만 쪼개지 않은 것은 그들의 작은 크기 때문이기도 하지만, 더 깊은 신학적 의미가 있습니다. 온전한 새는 순결과 완전함을 상징하며, 레위기 1:17에서도 새는 완전히 쪼개지 않고 찢기만 합니다.",
+        "points": [
+          "새의 온전함은 언약의 순결성을 상징",
+          "작은 것도 귀중히 여기시는 하나님의 섭리",
+          "레위기 번제법과의 연속성"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 동물들을 반으로 쪼개어 놓았을까요?",
+      "answer": "옛날 사람들이 아주 중요한 약속을 할 때 하던 특별한 방법이에요. 동물을 반으로 쪼개어 놓고 그 사이를 지나가면서 '내가 이 약속을 어기면 저 동물처럼 되겠습니다'라고 서약했어요. 이것은 '나는 이 약속을 목숨 걸고 지키겠다'는 뜻이었답니다. 하나님은 아브람에게 약속을 정말 진지하게 하고 싶으셨기 때문에 이런 방법을 사용하신 거예요.",
+      "bibleReferences": [
+        "예레미야 34:18 - '송아지를 둘로 쪼개고 그 두 사이로 지나간 자들이 내 언약을 어기고'",
+        "창세기 15:17 - '해가 져서 어두울 때에 연기 나는 화로와 타는 횃불이 쪼갠 고기 사이로 지나갔더라'",
+        "히브리서 6:17-18 - '하나님이 약속을 얻는 자들에게 그 뜻이 변하지 아니함을 충분히 나타내시려고 그 일을 맹세로 보증하셨나니'",
+        "레위기 1:17 - '새의 번제는 그 날개 자리에서 그것을 찢되 완전히 쪼개지 말고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "동물을 쪼개는 언약 의식은 언약의 엄숙함과 불가역성을 보여줍니다. 그러나 놀라운 것은 15장 17절에서 하나님 홀로 이 쪼개진 동물들 사이를 지나가신다는 점입니다. 이는 하나님께서 일방적으로 언약의 책임을 지시며, 우리의 실패에도 불구하고 언약을 지키시겠다는 은혜의 약속입니다. 새들이 쪼개지지 않은 것은 하나님의 언약 안에서 온전함이 보존된다는 희망을 보여줍니다."
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "id": "genesis_6_15",
+  "reference": "창세기 6:15",
+  "hebrew": "וְזֶה, אֲשֶׁר תַּעֲשֶׂה אֹתָהּ: שְׁלֹשׁ מֵאוֹת אַמָּה, אֹרֶךְ הַתֵּבָה, חֲמִשִּׁים אַמָּה רָחְבָּהּ, וּשְׁלֹשִׁים אַמָּה קוֹמָתָהּ.",
+  "ipa": "vəˈze ʔaˈʃer taʔaˈse ʔoˈtah ʃəˈloʃ meˈot ʔaˈma ˈorɛχ hateˈva χamiˈʃim ʔaˈma roχˈbah uʃəloˈʃim ʔaˈma qomaˈtah",
+  "koreanPronunciation": "베제 아쉐르 타아세 오타 쉴로쉬 메오트 암마 오레크 하테바 하미쉼 암마 로흐바 우쉴로쉼 암마 코마타",
+  "modern": "이것이 네가 만들 방주의 크기이다: 방주의 길이는 300규빗, 너비는 50규빗, 높이는 30규빗이다",
+  "words": [
+    {
+      "hebrew": "וְזֶה",
+      "meaning": "그리고 이것",
+      "ipa": "vəˈze",
+      "korean": "베제",
+      "letters": "וְ(ve) + זֶה(ze)",
+      "root": "זֶה (제)",
+      "grammar": "지시대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"this_vezeh\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 32 16 L 32 48\" stroke=\"url(#this_vezeh)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 24 24 L 32 16 L 40 24\" stroke=\"url(#this_vezeh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것)",
+        "זֹאת (조트 - 이것, 여성)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשׁ מֵאוֹת",
+      "meaning": "삼백",
+      "ipa": "ʃəˈloʃ meˈot",
+      "korean": "쉴로쉬 메오트",
+      "letters": "שְׁלֹשׁ(sheלosh) + מֵאוֹת(meot)",
+      "root": "שָׁלֹשׁ (샬로쉬) + מֵאָה (메아)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"threehundred\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#threehundred)\" text-anchor=\"middle\">300</text></svg>",
+      "relatedWords": [
+        "שָׁלֹשׁ (샬로쉬 - 셋)",
+        "מֵאָה (메아 - 백)"
+      ]
+    },
+    {
+      "hebrew": "אַמָּה",
+      "meaning": "규빗 (팔꿈치 길이)",
+      "ipa": "ʔaˈma",
+      "korean": "암마",
+      "letters": "אַ(a) + מָּה(ma)",
+      "root": "אַמָּה (암마)",
+      "grammar": "명사 - 길이 단위",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cubit_ammah\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><path d=\"M 12 32 L 52 32\" stroke=\"url(#cubit_ammah)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#cubit_ammah)\" /><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"url(#cubit_ammah)\" /></svg>",
+      "relatedWords": [
+        "זֶרֶת (제레트 - 뼘)",
+        "טֶפַח (테파흐 - 손너비)"
+      ]
+    },
+    {
+      "hebrew": "אֹרֶךְ",
+      "meaning": "길이",
+      "ipa": "ˈorɛχ",
+      "korean": "오레크",
+      "letters": "אֹ(o) + רֶךְ(rɛχ)",
+      "root": "א-ר-ך (아라크)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"length_orech\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 12 32 L 52 32\" stroke=\"url(#length_orech)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 16 28 L 12 32 L 16 36\" stroke=\"url(#length_orech)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 48 28 L 52 32 L 48 36\" stroke=\"url(#length_orech)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "אָרֹךְ (아로크 - 긴)",
+        "הֶאֱרִיךְ (헤에리크 - 길게 하다)"
+      ]
+    },
+    {
+      "hebrew": "חֲמִשִּׁים",
+      "meaning": "오십",
+      "ipa": "χamiˈʃim",
+      "korean": "하미쉼",
+      "letters": "חֲ(χa) + מִשִּׁים(mishim)",
+      "root": "חָמֵשׁ (하메쉬)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fifty\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#fifty)\" text-anchor=\"middle\">50</text></svg>",
+      "relatedWords": [
+        "חָמֵשׁ (하메쉬 - 다섯)",
+        "חֲמִישִׁי (하미쉬 - 다섯째)"
+      ]
+    },
+    {
+      "hebrew": "רָחְבָּהּ",
+      "meaning": "그것의 너비",
+      "ipa": "roχˈbah",
+      "korean": "로흐바",
+      "letters": "רָ(ro) + חְ(χ) + בָּהּ(bah)",
+      "root": "ר-ח-ב (라하브)",
+      "grammar": "명사 - 소유격",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"width_rochbah\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 32 16 L 32 48\" stroke=\"url(#width_rochbah)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 28 20 L 32 16 L 36 20\" stroke=\"url(#width_rochbah)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 28 44 L 32 48 L 36 44\" stroke=\"url(#width_rochbah)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "רֹחַב (로하브 - 너비)",
+        "רָחָב (라하브 - 넓은)"
+      ]
+    },
+    {
+      "hebrew": "וּשְׁלֹשִׁים",
+      "meaning": "그리고 삼십",
+      "ipa": "uʃəloˈʃim",
+      "korean": "우쉴로쉼",
+      "letters": "וּ(u) + שְׁ(she) + לֹשִׁים(loshim)",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"thirty\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#thirty)\" text-anchor=\"middle\">30</text></svg>",
+      "relatedWords": [
+        "שָׁלֹשׁ (샬로쉬 - 셋)",
+        "שְׁלִישִׁי (쉴리쉬 - 셋째)"
+      ]
+    },
+    {
+      "hebrew": "קוֹמָתָהּ",
+      "meaning": "그것의 높이",
+      "ipa": "qomaˈtah",
+      "korean": "코마타",
+      "letters": "קוֹ(qo) + מָ(ma) + תָהּ(tah)",
+      "root": "ק-ו-ם (쿰)",
+      "grammar": "명사 - 소유격",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"height_qomatah\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 32 12 L 32 52\" stroke=\"url(#height_qomatah)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 28 16 L 32 12 L 36 16\" stroke=\"url(#height_qomatah)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 28 48 L 32 52 L 36 48\" stroke=\"url(#height_qomatah)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "קוֹמָה (코마 - 키, 높이)",
+        "קָם (캄 - 일어서다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "방주의 정확한 치수가 주어집니다. 이는 하나님의 명령이 구체적이고 실제적임을 보여줍니다. 방주의 크기는 약 137m x 23m x 14m로, 현대 선박과 비교해도 안정적인 비율입니다.",
+    "sections": [
+      {
+        "emoji": "📐",
+        "title": "방주의 치수",
+        "description": "방주의 비율(30:5:3)은 해양공학적으로 매우 안정적인 구조입니다. 이는 현대 선박 설계와도 유사합니다.",
+        "points": [
+          "길이 300규빗 (약 137m)",
+          "너비 50규빗 (약 23m)",
+          "높이 30규빗 (약 14m)",
+          "총 부피 약 43,000㎥"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "방주는 얼마나 컸을까요?",
+      "answer": "방주는 정말정말 컸어요! 축구장보다 더 길고, 3층 건물만큼 높았답니다. 노아의 가족 8명과 수많은 동물들이 1년 넘게 그 안에서 살 수 있을 만큼 컸어요. 하나님은 모두를 위한 충분한 공간을 만들게 하셨어요.",
+      "bibleReferences": [
+        "창세기 7:20 - '물이 불어서 십오 규빗이나 오르니 산들이 잠긴지라'",
+        "베드로전서 3:20 - '방주에서 물로 말미암아 구원을 얻은 자가 몇 명뿐이니 겨우 여덟 명이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "하나님의 완벽한 계획",
+      "content": "방주의 치수는 하나님의 완벽한 계획을 보여줍니다. 우연이나 추측이 아니라 정확한 설계도에 따른 건축이었습니다. 이는 하나님의 구원 계획도 치밀하고 완벽함을 상징합니다."
+    }
+  }
+}

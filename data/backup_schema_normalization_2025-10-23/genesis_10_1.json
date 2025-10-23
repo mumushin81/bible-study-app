@@ -1,0 +1,171 @@
+{
+  "id": "genesis_10_1",
+  "reference": "창세기 10:1",
+  "hebrew": "וְאֵלֶּה תּוֹלְדֹת בְּנֵי־נֹחַ, שֵׁם חָם וָיָפֶת; וַיִּוָּלְדוּ לָהֶם בָּנִים, אַחַר הַמַּבּוּל.",
+  "ipa": "vəʔɛlɛ toləˈdot bənenoax ʃem xam vaˈjafɛt vajivvaləˈdu lahɛm baˈnim ʔaxar hamabˈbul",
+  "koreanPronunciation": "베엘레 톨도트 브네이노아흐 셰ム 함 바야페트 바이발레두 라헴 바님 아하르 함마불",
+  "modern": "노아의 아들 셈과 함과 야벳의 계보는 이러하니라. 홍수 후에 그들이 아들들을 낳았으니",
+  "words": [
+    {
+      "hebrew": "וְאֵלֶּה",
+      "meaning": "그리고 이들은",
+      "ipa": "vəʔɛlɛ",
+      "korean": "베엘레",
+      "letters": "וְ(ve) + אֵ(e) + לֶּ(le) + ה(h)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"scroll_veeleh\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect x=\"12\" y=\"8\" width=\"40\" height=\"48\" rx=\"2\" fill=\"url(#scroll_veeleh)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"18\" y1=\"16\" x2=\"46\" y2=\"16\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"18\" y1=\"24\" x2=\"46\" y2=\"24\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"18\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"#8B4513\" stroke-width=\"1.5\" /></svg>",
+      "relatedWords": [
+        "אֵלֶּה (엘레 - 이들)",
+        "זֹאת (조트 - 이것)"
+      ]
+    },
+    {
+      "hebrew": "תּוֹלְדֹת",
+      "meaning": "계보, 족보",
+      "ipa": "toləˈdot",
+      "korean": "톨도트",
+      "letters": "תּ(to) + וֹ(o) + לְ(le) + דֹ(do) + ת(t)",
+      "root": "י-ל-ד (yalad - 낳다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tree_toledot\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"30%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><rect x=\"28\" y=\"32\" width=\"8\" height=\"24\" fill=\"#8B4513\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#4CAF50\" /><circle cx=\"24\" cy=\"20\" r=\"5\" fill=\"#66BB6A\" /><circle cx=\"40\" cy=\"20\" r=\"5\" fill=\"#66BB6A\" /><circle cx=\"20\" cy=\"12\" r=\"4\" fill=\"#81C784\" /><circle cx=\"44\" cy=\"12\" r=\"4\" fill=\"#81C784\" /></svg>",
+      "relatedWords": [
+        "יָלַד (야라드 - 낳다)",
+        "דּוֹר (도르 - 세대)"
+      ]
+    },
+    {
+      "hebrew": "נֹחַ",
+      "meaning": "노아",
+      "ipa": "ˈnoax",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(ach)",
+      "root": "נ-ו-ח (누아흐 - 쉬다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark_noah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><path d=\"M 12 40 L 16 28 L 48 28 L 52 40 Z\" fill=\"url(#ark_noah)\" /><rect x=\"16\" y=\"40\" width=\"32\" height=\"12\" fill=\"#8B4513\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"8\" fill=\"#654321\" /><line x1=\"24\" y1=\"32\" x2=\"24\" y2=\"40\" stroke=\"#000\" stroke-width=\"1\" /><line x1=\"40\" y1=\"32\" x2=\"40\" y2=\"40\" stroke=\"#000\" stroke-width=\"1\" /></svg>",
+      "relatedWords": [
+        "נוֹחַ (노아흐 - 쉼, 안식)",
+        "נָחָה (나하 - 인도하다)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃem",
+      "korean": "셈",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (셈 - 이름)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"name_shem\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#name_shem)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"38\" font-size=\"20\" fill=\"#FFF\" text-anchor=\"middle\" font-weight=\"bold\">名</text></svg>",
+      "relatedWords": [
+        "שֵׁם (셈 - 이름, 명성)",
+        "שָׁמַיִם (샤마임 - 하늘)"
+      ]
+    },
+    {
+      "hebrew": "חָם",
+      "meaning": "함",
+      "ipa": "xam",
+      "korean": "함",
+      "letters": "חָ(cha) + ם(m)",
+      "root": "ח-מ-ם (하맘 - 뜨겁다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"heat_cham\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#heat_cham)\" filter=\"drop-shadow(0 0 8px rgba(255, 107, 53, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FFD700\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חַם (함 - 뜨거운)",
+        "חֹם (홈 - 열기)"
+      ]
+    },
+    {
+      "hebrew": "יָפֶת",
+      "meaning": "야벳",
+      "ipa": "ˈjafɛt",
+      "korean": "야페트",
+      "letters": "יָ(ya) + פֶ(fe) + ת(t)",
+      "root": "י-פ-ה (야파 - 아름답다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"beauty_yafet\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#2196F3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#beauty_yafet)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 20 L 36 28 L 44 28 L 38 34 L 40 42 L 32 36 L 24 42 L 26 34 L 20 28 L 28 28 Z\" fill=\"#FFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יָפֶה (야페 - 아름다운)",
+        "יְפִי (예피 - 아름다움)"
+      ]
+    },
+    {
+      "hebrew": "הַמַּבּוּל",
+      "meaning": "홍수",
+      "ipa": "hamabˈbul",
+      "korean": "함마불",
+      "letters": "הַ(ha) + מַ(ma) + בּ(b) + וּ(u) + ל(l)",
+      "root": "מַבּוּל (마불)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flood_mabbul\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#flood_mabbul)\" opacity=\"0.6\" rx=\"8\" /><path d=\"M 0 40 Q 16 35 32 40 T 64 40 L 64 64 L 0 64 Z\" fill=\"#01579B\" opacity=\"0.8\" /><path d=\"M 0 48 Q 16 43 32 48 T 64 48\" fill=\"none\" stroke=\"#B3E5FC\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מַיִם (마임 - 물)",
+        "שֶׁטֶף (쉐테프 - 범람)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 10장은 '민족들의 표(Table of Nations)'로 알려져 있으며, 홍수 이후 노아의 세 아들을 통해 온 인류가 어떻게 퍼져나갔는지를 기록합니다. 이 장은 모든 민족이 한 뿌리에서 나왔다는 성경의 중요한 메시지를 담고 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תּוֹלְדֹת (톨도트) - 계보의 의미",
+        "description": "'톨도트'는 '낳다'라는 동사 야라드(ילד)에서 파생된 명사로, 단순한 이름 나열이 아니라 생명의 연속성과 하나님의 약속의 성취를 보여줍니다. 창세기에서 이 단어는 구조적 전환점을 표시합니다.",
+        "points": [
+          "창세기의 열 개 톨도트 중 하나로 구조를 형성합니다",
+          "홍수 이후 인류의 새로운 시작을 나타냅니다",
+          "하나님의 '생육하고 번성하라'는 명령의 성취입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "노아의 세 아들 - 인류의 세 갈래",
+        "description": "셈, 함, 야벳은 각각 고대 근동의 주요 민족 그룹을 대표합니다. 셈은 셈족(히브리인, 아랍인), 함은 함족(아프리카, 가나안), 야벳은 인도-유럽 민족의 조상으로 여겨집니다.",
+        "points": [
+          "세 아들 모두 하나님의 축복 아래 있습니다",
+          "모든 인류가 한 가족에서 나왔음을 보여줍니다",
+          "민족의 다양성이 하나님의 창조 계획임을 나타냅니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַחַר הַמַּבּוּל (아하르 함마불) - 홍수 이후",
+        "description": "홍수는 단순한 역사적 사건이 아니라 인류 역사의 결정적 분기점입니다. '홍수 이후'라는 표현은 새로운 시대, 새로운 시작을 의미합니다.",
+        "points": [
+          "심판 이후의 새로운 은혜의 시대를 나타냅니다",
+          "노아 언약 아래 인류의 재출발을 의미합니다",
+          "과거의 죄악이 정리되고 새 희망이 시작됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "민족들의 형성 - 하나님의 섭리",
+        "description": "민족들의 분산과 다양화는 무질서한 과정이 아니라 하나님의 주권적 계획 안에서 이루어졌습니다. 각 민족은 고유한 목적과 역할을 가지고 있습니다.",
+        "points": [
+          "민족의 다양성은 하나님의 창조적 풍성함을 반영합니다",
+          "각 민족은 하나님의 형상을 지닌 존재들입니다",
+          "이스라엘의 선택은 이 민족들을 축복하기 위함입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 여러 민족을 만드셨을까요?",
+      "answer": "하나님은 우리 모두가 다르지만 한 가족이라는 것을 보여주시려고 여러 민족을 만드셨어요. 마치 꽃밭에 빨간 장미, 노란 해바라기, 보라색 라벤더가 함께 있으면 더 아름다운 것처럼, 서로 다른 피부색과 언어를 가진 사람들이 함께 살면 세상이 더 풍성하고 아름다워져요. 하나님은 우리 모두가 서로를 사랑하고 도우며 살기를 원하세요. 우리는 모두 노아의 후손이고, 결국 한 가족이랍니다.",
+      "bibleReferences": [
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고'",
+        "창세기 12:3 - '땅의 모든 족속이 너로 말미암아 복을 얻을 것이라'",
+        "계시록 7:9 - '각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가'",
+        "말라기 2:10 - '우리는 한 아버지를 가지지 아니하였느냐 한 하나님께서 지으신 바가 아니냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 10장은 모든 민족이 공통 조상에서 나왔다는 인류의 단일성(unity)과 동시에 민족의 다양성(diversity)을 보여줍니다. 이는 인종차별과 민족주의를 거부하는 성경적 근거가 됩니다. 또한 아브라함을 통한 하나님의 구원 계획이 특정 민족에 국한되지 않고 모든 민족을 향한 것임을 보여주는 무대를 설정합니다. 궁극적으로 그리스도 안에서 모든 민족이 하나의 새로운 인류로 재통합될 것을 예표합니다(에베소서 2:14-16)."
+    }
+  }
+}

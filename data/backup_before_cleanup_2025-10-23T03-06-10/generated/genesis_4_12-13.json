@@ -1,0 +1,317 @@
+[
+  {
+    "verseId": "genesis_4_12",
+    "ipa": "ki taʕavod ʔɛt haʔadama lo tosɛf tɛt koxa lax naʕ vanad tihje baʔarɛʦ",
+    "koreanPronunciation": "키 타아보드 에트 하아다마 로 토세프 테트 코하 라크 나 바나드 티헤예 바아레츠",
+    "modern": "네가 땅을 경작해도 땅이 더 이상 너에게 그 힘을 내지 않을 것이며, 너는 땅에서 떠도는 유랑자가 될 것이다",
+    "words": [
+      {
+        "hebrew": "כִּי",
+        "meaning": "~때문에, 만약",
+        "ipa": "ki",
+        "korean": "키",
+        "letters": "כִּ(ki) + י()",
+        "root": "כִּי (키)",
+        "grammar": "접속사",
+        "emoji": "🔗",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"link1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 20 28 Q 16 32 20 36 L 28 36 Q 32 32 28 28 Z\" fill=\"url(#link1)\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/><path d=\"M 36 28 Q 32 32 36 36 L 44 36 Q 48 32 44 28 Z\" fill=\"url(#link1)\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/><rect x=\"28\" y=\"30\" width=\"8\" height=\"4\" fill=\"url(#link1)\"/></svg>"
+      },
+      {
+        "hebrew": "תַֽעֲבֹד",
+        "meaning": "네가 경작할 때",
+        "ipa": "taʕavod",
+        "korean": "타아보드",
+        "letters": "תַּ(ta) + עֲ(a) + בֹד(vod)",
+        "root": "ע-ב-ד (아바드)",
+        "grammar": "동사",
+        "emoji": "🌾",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"work1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><linearGradient id=\"plant2\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"100%\" stop-color=\"#6B8E23\"/></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#work1)\" filter=\"drop-shadow(0 2px 4px rgba(101, 67, 33, 0.4))\"/><path d=\"M 24 44 Q 24 38 22 32\" stroke=\"url(#plant2)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 32 44 Q 32 36 32 28\" stroke=\"url(#plant2)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 40 44 Q 40 38 42 32\" stroke=\"url(#plant2)\" stroke-width=\"3\" fill=\"none\"/><circle cx=\"22\" cy=\"32\" r=\"3\" fill=\"#9ACD32\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#9ACD32\" opacity=\"0.5\"/><circle cx=\"42\" cy=\"32\" r=\"3\" fill=\"#9ACD32\" opacity=\"0.5\"/></svg>"
+      },
+      {
+        "hebrew": "אֶת הָ֣אֲדָמָ֔ה",
+        "meaning": "그 땅을",
+        "ipa": "ʔɛt haʔadama",
+        "korean": "에트 하아다마",
+        "letters": "אֶת(et) + הָ(ha) + אֲדָמָה(adamah)",
+        "root": "א-ד-ם (아담)",
+        "grammar": "명사",
+        "emoji": "🌍",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"50%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"rgba(210, 105, 30, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#glow2)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 3px 6px rgba(101, 67, 33, 0.5))\"/><path d=\"M 20 26 Q 28 22 36 26 Q 40 30 36 34\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/></svg>"
+      },
+      {
+        "hebrew": "לֹֽא תֹסֵ֥ף",
+        "meaning": "더 이상 ~하지 않을 것이다",
+        "ipa": "lo tosɛf",
+        "korean": "로 토세프",
+        "letters": "לֹא(lo) + תֹ(to) + סֵף(sef)",
+        "root": "י-ס-ף (야사프)",
+        "grammar": "동사",
+        "emoji": "🚫",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"no1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#no1)\" stroke-width=\"6\" filter=\"drop-shadow(0 2px 6px rgba(196, 30, 58, 0.5))\"/><line x1=\"18\" y1=\"18\" x2=\"46\" y2=\"46\" stroke=\"url(#no1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.5))\"/></svg>"
+      },
+      {
+        "hebrew": "תֵּת כֹּחָ֖הּ",
+        "meaning": "그것의 힘을 주다",
+        "ipa": "tɛt koxa",
+        "korean": "테트 코하",
+        "letters": "תֵּת(tet) + כֹּ(ko) + חָהּ(hah)",
+        "root": "נ-ת-ן (나탄)",
+        "grammar": "동사",
+        "emoji": "💪",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"strength1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient><radialGradient id=\"power1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#power1)\" opacity=\"0.4\"/><path d=\"M 20 32 Q 20 24 24 20 L 28 24 L 28 36 Q 26 40 20 40 Z\" fill=\"url(#strength1)\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.4))\"/><path d=\"M 44 32 Q 44 24 40 20 L 36 24 L 36 36 Q 38 40 44 40 Z\" fill=\"url(#strength1)\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.4))\"/><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#strength1)\"/></svg>"
+      },
+      {
+        "hebrew": "לָ֑ךְ",
+        "meaning": "너에게",
+        "ipa": "lax",
+        "korean": "라크",
+        "letters": "לָ(la) + ךְ(kh)",
+        "root": "לְ (레)",
+        "grammar": "전치사",
+        "emoji": "👉",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 12 28 L 40 28 L 40 20 L 52 32 L 40 44 L 40 36 L 12 36 Z\" fill=\"url(#point1)\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/></svg>"
+      },
+      {
+        "hebrew": "נָ֥ע וָנָ֖ד",
+        "meaning": "떠도는 자, 유랑자",
+        "ipa": "naʕ vanad",
+        "korean": "나 바나드",
+        "letters": "נָע(na) + וָ(va) + נָד(nad)",
+        "root": "נ-ו-ע / נ-ו-ד (누아 / 누드)",
+        "grammar": "명사",
+        "emoji": "🚶",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wander1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#708090\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><path d=\"M 8 32 Q 16 20 24 32 Q 32 44 40 32 Q 48 20 56 32\" stroke=\"url(#wander1)\" stroke-width=\"4\" fill=\"none\" stroke-dasharray=\"6,4\" filter=\"drop-shadow(0 2px 4px rgba(47, 79, 79, 0.4))\"/><circle cx=\"48\" cy=\"24\" r=\"6\" fill=\"url(#wander1)\"/><path d=\"M 48 30 L 48 40 L 44 48\" stroke=\"url(#wander1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 48 30 L 48 40 L 52 48\" stroke=\"url(#wander1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><line x1=\"44\" y1=\"34\" x2=\"52\" y2=\"38\" stroke=\"url(#wander1)\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "תִּֽהְיֶ֥ה",
+        "meaning": "너는 될 것이다",
+        "ipa": "tihje",
+        "korean": "티헤예",
+        "letters": "תִּ(ti) + הְ(he) + יֶה(yeh)",
+        "root": "ה-י-ה (하야)",
+        "grammar": "동사",
+        "emoji": "🔮",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"future1\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"50%\" stop-color=\"#8A2BE2\"/><stop offset=\"100%\" stop-color=\"#4B0082\"/></radialGradient><radialGradient id=\"glow3\"><stop offset=\"0%\" stop-color=\"#E6E6FA\"/><stop offset=\"100%\" stop-color=\"rgba(230, 230, 250, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#glow3)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#future1)\" filter=\"drop-shadow(0 2px 6px rgba(138, 43, 226, 0.6))\"/><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#E6E6FA\" opacity=\"0.8\"/><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#E6E6FA\" opacity=\"0.6\"/></svg>"
+      },
+      {
+        "hebrew": "בָאָֽרֶץ",
+        "meaning": "땅에서",
+        "ipa": "baʔarɛʦ",
+        "korean": "바아레츠",
+        "letters": "בָ(ba) + אָרֶץ(aretz)",
+        "root": "א-ר-ץ (에레츠)",
+        "grammar": "명사",
+        "emoji": "🗺️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"50%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"28\" rx=\"4\" fill=\"url(#land1)\" filter=\"drop-shadow(0 3px 6px rgba(101, 67, 33, 0.4))\"/><path d=\"M 16 32 Q 24 28 32 32 Q 40 36 48 32\" stroke=\"#6B8E23\" stroke-width=\"2\" fill=\"none\"/><circle cx=\"24\" cy=\"28\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"40\" cy=\"36\" r=\"2\" fill=\"#FFD700\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 12절은 가인이 받은 저주의 구체적인 내용을 담고 있습니다. 농부였던 가인에게 땅이 더 이상 열매를 맺지 않는다는 것은 생계의 수단을 잃는 것이며, 떠도는 유랑자가 된다는 것은 정착과 안정을 잃는 것을 의미합니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "לֹֽא תֹסֵ֥ף תֵּת כֹּחָ֖הּ לָ֑ךְ (로 토세프 테트 코하 라크) - 땅의 힘이 사라지다",
+          "description": "가인의 직업은 농부였지만, 하나님의 저주로 인해 땅은 더 이상 그에게 힘을 주지 않습니다. '코아흐(힘)'는 땅의 생산력, 비옥함을 의미하며, 가인의 노동은 이제 헛수고가 될 것입니다.",
+          "points": [
+            "농부에게 땅의 생산력 상실은 생계 수단의 박탈을 의미합니다",
+            "아담의 저주(창 3:17-19)보다 더 심한 저주입니다",
+            "죄의 결과는 직업과 삶의 기반을 무너뜨립니다",
+            "노동의 무의미함과 좌절을 경험하게 됩니다"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "נָ֥ע וָנָ֖ד (나 바나드) - 떠도는 유랑자",
+          "description": "'나'와 '나드'는 둘 다 '흔들리다', '떠돌다'를 의미하는 유사한 단어입니다. 이 두 단어를 함께 사용함으로써 끊임없는 방황과 불안정을 강조합니다. 가인은 정착하지 못하고 떠돌아다니는 삶을 살게 됩니다.",
+          "points": [
+            "두 개의 유사어를 반복하여 방황의 심각성을 강조합니다",
+            "정착과 안정을 잃고 끊임없이 이동하는 삶",
+            "공동체와 가족으로부터의 단절을 의미합니다",
+            "내면의 불안과 평안 없는 삶의 상징입니다"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "תַֽעֲבֹד אֶת הָ֣אֲדָמָ֔ה (타아보드 에트 하아다마) - 땅을 경작하는 저주",
+          "description": "가인은 계속 땅을 경작할 것이지만, 그의 노동은 열매를 맺지 못합니다. 이는 '아다마(땅)'에서 나온 '아담(사람)'이 '아담(땅)'을 경작하지만 아무 소용이 없는 역설적 상황입니다.",
+          "points": [
+            "노동은 계속되지만 결실은 없는 무의미한 수고",
+            "창조 질서의 파괴 - 땅과 사람의 관계가 단절됨",
+            "형제의 피가 땅에 흡수되었으므로 땅이 저주받음",
+            "죄는 우리와 창조 세계의 관계를 파괴합니다"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "בָאָֽרֶץ (바아레츠) - 땅 위에서의 방황",
+          "description": "'에레츠(땅)'는 단순한 물리적 공간이 아니라 삶의 터전, 안식의 장소를 의미합니다. 가인은 땅 위에 있지만 땅에 속하지 못하고, 어디에도 뿌리내리지 못하는 삶을 살게 됩니다.",
+          "points": [
+            "땅 위에 있지만 땅의 축복을 누리지 못함",
+            "하나님과의 단절은 창조 세계와의 단절을 가져옵니다",
+            "에덴에서 쫓겨난 아담보다 더 심한 추방",
+            "진정한 안식처를 잃어버린 영혼의 방황"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "왜 하나님은 가인이 농사를 지어도 땅이 열매를 맺지 않게 하셨나요?",
+        "answer": "가인은 농부였는데, 동생 아벨을 죽였기 때문에 하나님께서 가인의 일을 할 수 없게 만드셨어요. 마치 잘못을 저지른 어린이가 좋아하는 장난감을 빼앗기는 것처럼, 가인도 자기 직업을 제대로 할 수 없게 되었어요. 또 가인이 한 곳에 머물지 못하고 계속 떠돌아다니게 하셨는데, 이것은 가인이 저지른 나쁜 일의 결과였어요. 하나님은 우리가 잘못을 저지르면 그에 대한 책임을 지게 하신답니다.",
+        "bibleReferences": [
+          "창세기 3:17 - '땅은 너로 말미암아 저주를 받고 너는 네 평생에 수고하여야 그 소산을 먹으리라'",
+          "신명기 28:23 - '네 머리 위의 하늘은 놋이 되고 네 아래의 땅은 철이 될 것이며'",
+          "호세아 8:7 - '그들이 바람을 심고 광풍을 거두리라'",
+          "갈라디아서 6:7 - '사람이 무엇으로 심든지 그대로 거두리라'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "가인에게 내려진 저주는 죄의 본질적 결과를 보여줍니다. 죄는 우리의 노동을 무의미하게 만들고, 안식과 안정을 빼앗아가며, 관계를 파괴합니다. 가인은 땅을 경작하지만 열매를 얻지 못하고, 땅 위에 있지만 땅에 속하지 못하는 역설적 존재가 됩니다. 이는 하나님 없이 사는 삶의 허무함과 방황을 상징합니다. 그리스도 안에서만 진정한 안식과 열매 맺는 삶이 가능합니다."
+      }
+    }
+  },
+  {
+    "verseId": "genesis_4_13",
+    "ipa": "vajjomɛr kajin ʔɛl jəhova gadol ʕavoni minneso",
+    "koreanPronunciation": "바요메르 카인 엘 예호와 가돌 아보니 민네소",
+    "modern": "가인이 여호와께 말하기를 '나의 죄벌이 너무 커서 감당할 수 없습니다'라고 하였습니다",
+    "words": [
+      {
+        "hebrew": "וַיֹּ֥אמֶר",
+        "meaning": "그리고 말했다",
+        "ipa": "vajjomɛr",
+        "korean": "바요메르",
+        "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+        "root": "א-מ-ר (아마르)",
+        "grammar": "동사",
+        "emoji": "💬",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech2)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#speech2)\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/></svg>"
+      },
+      {
+        "hebrew": "קַ֖יִן",
+        "meaning": "가인",
+        "ipa": "kajin",
+        "korean": "카인",
+        "letters": "קַ(ka) + יִן(yin)",
+        "root": "ק-י-ן (카인)",
+        "grammar": "명사",
+        "emoji": "😰",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cain4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#cain4)\" filter=\"drop-shadow(0 2px 4px rgba(47, 79, 79, 0.5))\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 26 34 Q 32 30 38 34\" stroke=\"#2F4F4F\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"46\" rx=\"12\" ry=\"14\" fill=\"url(#cain4)\"/><path d=\"M 28 22 L 26 18\" stroke=\"#2F4F4F\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M 36 22 L 38 18\" stroke=\"#2F4F4F\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+      },
+      {
+        "hebrew": "אֶל יְהוָ֑ה",
+        "meaning": "여호와께",
+        "ipa": "ʔɛl jəhova",
+        "korean": "엘 예호와",
+        "letters": "אֶל(el) + יְ(ye) + הוָה(hovah)",
+        "root": "י-ה-ו-ה (야훼)",
+        "grammar": "명사",
+        "emoji": "🙏",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh3\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh3)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam3)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+      },
+      {
+        "hebrew": "גָּד֥וֹל",
+        "meaning": "크다, 무겁다",
+        "ipa": "gadol",
+        "korean": "가돌",
+        "letters": "גָּ(ga) + דוֹל(dol)",
+        "root": "ג-ד-ל (가달)",
+        "grammar": "형용사",
+        "emoji": "⚖️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heavy1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#708090\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><linearGradient id=\"weight1\"><stop offset=\"0%\" stop-color=\"#C41E3A\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><rect x=\"20\" y=\"28\" width=\"24\" height=\"24\" fill=\"url(#weight1)\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 0, 0.6))\"/><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"28\" stroke=\"url(#heavy1)\" stroke-width=\"4\"/><path d=\"M 28 12 L 32 8 L 36 12\" fill=\"url(#heavy1)\"/><line x1=\"24\" y1=\"48\" x2=\"40\" y2=\"48\" stroke=\"#000000\" stroke-width=\"2\" opacity=\"0.3\"/></svg>"
+      },
+      {
+        "hebrew": "עֲוֺנִ֖י",
+        "meaning": "나의 죄벌, 나의 형벌",
+        "ipa": "ʕavoni",
+        "korean": "아보니",
+        "letters": "עֲ(a) + וֺ(vo) + נִי(ni)",
+        "root": "ע-ו-ן (아본)",
+        "grammar": "명사",
+        "emoji": "⛓️",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"guilt1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2F4F4F\"/><stop offset=\"100%\" stop-color=\"#000000\"/></linearGradient><radialGradient id=\"shadow1\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"rgba(105, 105, 105, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#shadow1)\" opacity=\"0.3\"/><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"none\" stroke=\"url(#guilt1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5))\"/><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"none\" stroke=\"url(#guilt1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5))\"/><rect x=\"20\" y=\"26\" width=\"8\" height=\"4\" fill=\"url(#guilt1)\"/><rect x=\"36\" y=\"26\" width=\"8\" height=\"4\" fill=\"url(#guilt1)\"/><line x1=\"24\" y1=\"36\" x2=\"24\" y2=\"48\" stroke=\"url(#guilt1)\" stroke-width=\"3\"/><line x1=\"40\" y1=\"36\" x2=\"40\" y2=\"48\" stroke=\"url(#guilt1)\" stroke-width=\"3\"/></svg>"
+      },
+      {
+        "hebrew": "מִנְּשֹֽׂא",
+        "meaning": "~보다 (견디기에) 너무 큰, 감당할 수 없는",
+        "ipa": "minneso",
+        "korean": "민네소",
+        "letters": "מִ(mi) + נְּ(ne) + שֹׂא(so)",
+        "root": "נ-ש-א (나사)",
+        "grammar": "동사",
+        "emoji": "😣",
+        "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"burden1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B22222\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><circle cx=\"32\" cy=\"40\" r=\"12\" fill=\"url(#burden1)\" opacity=\"0.3\"/><path d=\"M 32 20 Q 28 24 28 30 L 28 36\" stroke=\"url(#burden1)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 32 20 Q 36 24 36 30 L 36 36\" stroke=\"url(#burden1)\" stroke-width=\"3\" fill=\"none\"/><rect x=\"20\" y=\"14\" width=\"24\" height=\"8\" rx=\"2\" fill=\"url(#burden1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 0, 0, 0.5))\"/><circle cx=\"32\" cy=\"44\" r=\"8\" fill=\"url(#burden1)\"/><line x1=\"28\" y1=\"48\" x2=\"24\" y2=\"54\" stroke=\"url(#burden1)\" stroke-width=\"2\" stroke-linecap=\"round\"/><line x1=\"36\" y1=\"48\" x2=\"40\" y2=\"54\" stroke=\"url(#burden1)\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+      }
+    ],
+    "commentary": {
+      "intro": "창세기 4장 13절은 가인이 하나님의 심판을 들은 후 보인 첫 반응을 기록합니다. '나의 죄벌이 너무 커서 감당할 수 없습니다'라는 가인의 고백은 진정한 회개인지, 아니면 단순한 형벌에 대한 두려움인지 논쟁의 여지가 있습니다.",
+      "sections": [
+        {
+          "emoji": "1️⃣",
+          "title": "עֲוֺנִ֖י (아보니) - 죄와 그 결과",
+          "description": "'아본'은 복합적인 의미를 가진 히브리어 단어입니다. 이는 '죄', '죄책감', '죄의 형벌' 모두를 의미할 수 있습니다. 가인이 감당할 수 없다고 말한 것이 죄 자체인지, 형벌인지, 죄책감인지는 해석에 따라 다릅니다.",
+          "points": [
+            "죄와 그 결과(형벌)를 동시에 의미하는 단어",
+            "죄는 항상 그에 따른 무거운 짐을 가져옵니다",
+            "가인의 고백은 죄의 무게를 인정하는 것",
+            "그러나 진정한 회개보다는 형벌에 대한 두려움일 수 있음"
+          ],
+          "color": "purple"
+        },
+        {
+          "emoji": "2️⃣",
+          "title": "גָּד֥וֹל (가돌) - 너무 크다, 감당할 수 없다",
+          "description": "'가돌'은 '크다', '위대하다'를 의미하지만, 여기서는 '너무 무겁다', '감당할 수 없다'는 의미로 사용됩니다. 가인은 자신에게 내려진 저주의 무게를 느끼고 있습니다.",
+          "points": [
+            "죄의 결과는 우리가 감당할 수 없을 정도로 무겁습니다",
+            "가인은 자신의 죄가 가져온 결과의 심각성을 깨달음",
+            "그러나 이것이 죄에 대한 진정한 뉘우침인지는 불분명",
+            "형벌의 무게만 느낄 뿐, 살인의 죄악성은 언급하지 않음"
+          ],
+          "color": "blue"
+        },
+        {
+          "emoji": "3️⃣",
+          "title": "מִנְּשֹֽׂא (민네소) - 견디다, 용서하다",
+          "description": "'나사'는 '들어올리다', '견디다', '용서하다'를 의미합니다. 가인의 말은 두 가지로 해석될 수 있습니다: '형벌이 너무 커서 견딜 수 없다' 또는 '죄가 너무 커서 용서받을 수 없다'.",
+          "points": [
+            "첫 번째 해석: 형벌이 너무 가혹하다는 불평",
+            "두 번째 해석: 죄가 용서받을 수 없을 만큼 크다는 절망",
+            "가인의 반응에는 자기 연민이 담겨 있음",
+            "피해자(아벨)에 대한 언급이 없고, 자신의 고통에만 집중"
+          ],
+          "color": "green"
+        },
+        {
+          "emoji": "4️⃣",
+          "title": "וַיֹּ֥אמֶר קַ֖יִן אֶל יְהוָ֑ה (바요메르 카인 엘 예호와) - 가인의 하나님께 대한 호소",
+          "description": "가인은 여전히 하나님께 말할 수 있었고, 하나님도 그의 말을 들으셨습니다. 이는 심판 가운데서도 하나님과의 대화가 가능함을 보여줍니다.",
+          "points": [
+            "가인은 하나님으로부터 완전히 단절되지 않았음",
+            "하나님은 죄인의 호소도 들으시는 분",
+            "그러나 가인의 고백은 회개가 아닌 자기 변호에 가까움",
+            "진정한 회개는 죄에 대한 인정과 용서를 구하는 것"
+          ],
+          "color": "pink"
+        }
+      ],
+      "whyQuestion": {
+        "question": "가인은 왜 '나의 죄벌이 너무 크다'고 말했나요?",
+        "answer": "가인은 동생을 죽인 후에 하나님께서 주신 벌이 너무 무겁다고 느꼈어요. 농사를 지어도 아무것도 나지 않고, 한곳에 정착하지 못하고 떠돌아다녀야 한다는 것이 너무 힘들었거든요. 하지만 가인은 '동생을 죽여서 미안합니다'라고 말하지 않고, '벌이 너무 무겁습니다'라고만 말했어요. 이것은 진짜 미안해하는 것이 아니라, 벌받는 것이 싫다고 불평하는 것과 비슷해요. 우리도 잘못을 저질렀을 때 '들켜서 속상하다'가 아니라 '잘못해서 미안하다'라고 생각해야 해요.",
+        "bibleReferences": [
+          "시편 38:4 - '내 죄악이 내 머리에 넘쳐서 무거운 짐 같으니 감당할 수 없나이다'",
+          "이사야 1:4 - '슬프다 범죄한 나라요 허물 진 백성이요 행악의 종자요 행위가 부패한 자식이로다'",
+          "누가복음 18:13 - '세리는 멀리 서서 감히 눈을 들어 하늘을 쳐다보지도 못하고 다만 가슴을 치며 이르되 하나님이여 불쌍히 여기소서 나는 죄인이로소이다'",
+          "고린도후서 7:10 - '하나님의 뜻대로 하는 근심은 후회할 것이 없는 구원에 이르게 하는 회개를 이루는 것이요'"
+        ]
+      },
+      "conclusion": {
+        "title": "💡 신학적 의미",
+        "content": "가인의 고백은 진정한 회개와 거짓 회개의 차이를 보여줍니다. 그는 죄의 결과가 무겁다는 것을 인정했지만, 죄 자체에 대한 뉘우침이나 피해자에 대한 애도는 없었습니다. 이는 형벌에 대한 두려움일 뿐 진정한 회개가 아닙니다. 진정한 회개는 죄의 결과가 아니라 죄 자체를 슬퍼하며, 하나님께 용서를 구하고, 피해자에게 진심으로 사과하는 것입니다. 우리는 가인의 잘못된 반응에서 교훈을 얻어, 진정으로 하나님 앞에 회개하는 삶을 살아야 합니다."
+      }
+    }
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "id": "genesis_11_7",
+  "reference": "창세기 11:7",
+  "hebrew": "",
+  "ipa": "ˈhava nˈerda vənavˈla ʃam śəfaˈtam ʔaˈʃɛr lo jiʃməˈʕu ʔiʃ śəˈfat reʕeˈhu",
+  "koreanPronunciation": "하바 네르다 베나블라 샴 세파탐 아쉐르 로 이쉬므우 이쉬 세파트 레에후",
+  "modern": "자, 우리가 내려가서 거기서 그들의 언어를 혼잡하게 하여 그들이 서로의 말을 알아듣지 못하게 하자",
+  "words": [
+    {
+      "hebrew": "הָבָה",
+      "meaning": "자, 오라",
+      "ipa": "ˈhava",
+      "korean": "하바",
+      "letters": "הָ(ha) + בָה(vah)",
+      "root": "יָהַב (야하브)",
+      "grammar": "감탄사",
+      "emoji": "👋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-come1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#fa709a\" /><stop offset=\"100%\" stop-color=\"#fee140\" /></linearGradient><radialGradient id=\"babel-confuse-energy1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#fa709a\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#babel-confuse-energy1)\" opacity=\"0.3\" /><path d=\"M 16 32 Q 24 20 32 32 Q 40 44 48 32\" stroke=\"url(#babel-confuse-come1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#babel-confuse-come1)\" filter=\"drop-shadow(0 0 6px rgba(250, 112, 154, 0.6))\" /></svg>",
+      "relatedWords": [
+        "יָהַב (야하브 - 주다)",
+        "בּוֹא (보 - 오다)"
+      ]
+    },
+    {
+      "hebrew": "נֵרְדָה",
+      "meaning": "우리가 내려가자",
+      "ipa": "nˈerda",
+      "korean": "네르다",
+      "letters": "נֵ(ne) + רְ(re) + דָה(dah)",
+      "root": "י-ר-ד (야라드)",
+      "grammar": "동사",
+      "emoji": "⬇️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-descend1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><radialGradient id=\"babel-confuse-presence1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#babel-confuse-presence1)\" opacity=\"0.3\" /><path d=\"M 32 8 L 32 56\" stroke=\"url(#babel-confuse-descend1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 8px rgba(255, 215, 0, 0.6))\" /><path d=\"M 24 48 L 32 56 L 40 48\" stroke=\"#FFD700\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"12\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.9))\" /></svg>",
+      "relatedWords": [
+        "יָרַד (야라드 - 내려가다)",
+        "יָרַד יְהוָה (야라드 여호와 - 여호와께서 내려오시다)"
+      ]
+    },
+    {
+      "hebrew": "וְנָבְלָה",
+      "meaning": "그리고 혼잡하게 하자",
+      "ipa": "vənavˈla",
+      "korean": "베나블라",
+      "letters": "וְ(ve) + נָ(na) + בְ(ve) + לָה(lah)",
+      "root": "ב-ל-ל (발랄)",
+      "grammar": "동사",
+      "emoji": "🌀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-mix1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><radialGradient id=\"babel-confuse-chaos1\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"100%\" stop-color=\"#667eea\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#babel-confuse-chaos1)\" /><path d=\"M 32 12 Q 48 24 32 32 Q 16 40 32 52\" stroke=\"url(#babel-confuse-mix1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 52 32 Q 40 16 32 32 Q 24 48 12 32\" stroke=\"url(#babel-confuse-mix1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בָּלַל (발랄 - 섞다, 혼잡하게 하다)",
+        "בָּבֶל (바벨 - 혼잡, 바벨론)"
+      ]
+    },
+    {
+      "hebrew": "שָׁם שְׂפָתָם",
+      "meaning": "거기서 그들의 언어를",
+      "ipa": "ʃam śəfaˈtam",
+      "korean": "샴 세파탐",
+      "letters": "שָׁם(sham) + שְׂ(se) + פָ(fa) + תָם(tam)",
+      "root": "שָׁם (샴) + שָׂפָה (사파)",
+      "grammar": "명사",
+      "emoji": "🗣️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-language1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><linearGradient id=\"babel-confuse-speech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"24\" ry=\"18\" fill=\"url(#babel-confuse-speech1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><path d=\"M 24 44 L 28 36 L 34 44\" fill=\"url(#babel-confuse-speech1)\" /><circle cx=\"20\" cy=\"24\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"28\" cy=\"26\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"36\" cy=\"26\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"44\" cy=\"24\" r=\"2.5\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "שָׂפָה (사파 - 언어, 입술)",
+        "לָשׁוֹן (라숀 - 혀, 언어)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר לֹא יִשְׁמְעוּ",
+      "meaning": "그들이 듣지 못하도록",
+      "ipa": "ʔaˈʃɛr lo jiʃməˈʕu",
+      "korean": "아쉐르 로 이쉬므우",
+      "letters": "אֲ(a) + שֶׁר(sher) + לֹא(lo) + יִ(yi) + שְׁ(she) + מְ(me) + עוּ(u)",
+      "root": "אֲשֶׁר (아쉐르) + לֹא (로) + שׁ-מ-ע (샤마)",
+      "grammar": "동사",
+      "emoji": "🚫👂",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-nohear1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f5576c\" /><stop offset=\"100%\" stop-color=\"#c0392b\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#babel-confuse-nohear1)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(245, 87, 108, 0.6))\" /><path d=\"M 16 16 L 48 48\" stroke=\"url(#babel-confuse-nohear1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(192, 57, 43, 0.6))\" /><path d=\"M 24 28 Q 20 32 24 36\" stroke=\"#f5576c\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 42 32 L 48 28 L 48 36 L 42 32\" fill=\"#f5576c\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(245, 87, 108, 0.1)\" /></svg>",
+      "relatedWords": [
+        "שָׁמַע (샤마 - 듣다, 순종하다)",
+        "לֹא (로 - 아니다, ~하지 않다)"
+      ]
+    },
+    {
+      "hebrew": "אִישׁ שְׂפַת רֵעֵהוּ",
+      "meaning": "각 사람이 그 이웃의 언어를",
+      "ipa": "ʔiʃ śəˈfat reʕeˈhu",
+      "korean": "이쉬 세파트 레에후",
+      "letters": "אִישׁ(ish) + שְׂ(se) + פַת(fat) + רֵ(re) + עֵ(e) + הוּ(hu)",
+      "root": "אִישׁ (이쉬) + שָׂפָה (사파) + רֵעַ (레아)",
+      "grammar": "명사",
+      "emoji": "👥❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-confuse-neighbor1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><linearGradient id=\"babel-confuse-barrier1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><circle cx=\"20\" cy=\"28\" r=\"10\" fill=\"url(#babel-confuse-neighbor1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"28\" r=\"10\" fill=\"url(#babel-confuse-neighbor1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"20\" cy=\"48\" rx=\"10\" ry=\"12\" fill=\"url(#babel-confuse-neighbor1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"48\" rx=\"10\" ry=\"12\" fill=\"url(#babel-confuse-neighbor1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"30\" y=\"16\" width=\"4\" height=\"40\" fill=\"url(#babel-confuse-barrier1)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 32 Q 28 28 24 24\" stroke=\"#667eea\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 40 24 Q 36 28 40 32\" stroke=\"#667eea\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 사람, 남자)",
+        "רֵעַ (레아 - 이웃, 친구)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 7절은 바벨탑 사건의 전환점입니다. 하나님께서 '우리가 내려가서'라고 하시며 삼위일체적 심의(divine council)를 하십니다. 이는 창세기 1:26('우리의 형상대로')과 3:22('우리 중 하나같이')와 유사한 표현으로, 중대한 결정을 내리실 때 사용됩니다. 하나님의 심판은 언어 혼잡이라는 독특한 방법으로 이루어지며, 이는 인류의 교만을 꺾으면서도 생명을 보존하시는 은혜로운 심판입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הָבָה נֵרְדָה (하바 네르다) - 자, 우리가 내려가자",
+        "description": "'하바 네르다'는 11:3-4에서 사람들이 사용한 표현('하바, 우리가 벽돌을 만들자... 성읍과 탑을 건설하자')을 하나님께서 그대로 반영하시는 것입니다. 이는 강력한 아이러니입니다. 또한 '우리가(복수)'는 삼위일체의 신비를 암시하며, 하나님께서 중대한 결정을 내리실 때 사용하시는 표현입니다.",
+        "points": [
+          "하나님은 인간이 사용한 바로 그 언어('하바')를 사용하셔서 심판의 아이러니를 강조하십니다",
+          "'우리가 내려가자'는 삼위일체 하나님의 신적 심의를 나타냅니다(창 1:26, 3:22)",
+          "11:5의 '내려오셨다'는 관찰이었고, 이제 '내려가자'는 심판을 위한 행동입니다",
+          "하나님의 '내려감'은 인간의 '올라감'(탑 건축)에 대한 응답이며, 하나님의 주권을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְנָבְלָה שָׁם שְׂפָתָם (베나블라 샴 세파탐) - 거기서 그들의 언어를 혼잡하게 하자",
+        "description": "'발랄(בָּלַל)'은 '섞다', '혼잡하게 하다'는 의미로, 9절의 '바벨(בָּבֶל)' 이름의 어원이 됩니다. 하나님은 언어를 완전히 없애지 않으시고, '혼잡하게' 만드셔서 서로 의사소통할 수 없게 하십니다. 이는 물리적 파괴가 아닌, 문화적·언어적 분리를 통한 심판입니다.",
+        "points": [
+          "언어 혼잡은 하나님의 창조적 심판 방식입니다 - 생명을 보존하면서 교만을 꺾으십니다",
+          "11:1의 '한 언어(사파 에하트)'가 11:7의 '혼잡한 언어들(발랄 세파탐)'로 바뀝니다",
+          "'거기서(샴)'가 강조되어, 바벨이 언어 분열의 기원지임을 표시합니다",
+          "언어는 하나님의 선물이었지만, 악용되면 하나님께서 회수하십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֲשֶׁר לֹא יִשְׁמְעוּ אִישׁ שְׂפַת רֵעֵהוּ (아쉐르 로 이쉬므우 이쉬 세파트 레에후) - 서로의 말을 알아듣지 못하게",
+        "description": "'샤마(שָׁמַע)'는 단순히 '듣다'뿐 아니라 '이해하다', '순종하다'를 의미합니다. 하나님은 사람들이 '서로를 듣지 못하게' 하셨으니, 이는 의사소통의 완전한 단절입니다. '각 사람(이쉬 이쉬)'과 '그 이웃(레에후)'이라는 표현은 개인적 관계의 파괴를 강조합니다.",
+        "points": [
+          "하나님께 듣지 않는(순종하지 않는) 자들은 결국 서로도 듣지 못하게 됩니다",
+          "언어 장벽은 인간 관계, 협력, 공동체를 근본적으로 파괴합니다",
+          "'이웃(레에후)'이라는 단어는 레위기 19:18('네 이웃을 네 몸같이 사랑하라')과 연결되며, 언어 혼잡이 사랑의 명령을 실천하기 어렵게 만들었음을 암시합니다",
+          "오순절 성령 강림(행 2장)에서 이 저주는 역전되어, 각자의 언어로 복음을 듣게 됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "נֵרְדָה וְנָבְלָה (네르다 베나블라) - 내려가서 혼잡하게 하자 (하나님의 은혜로운 심판)",
+        "description": "하나님의 심판은 노아 홍수처럼 파괴적이지 않고, 언어 혼잡이라는 비폭력적 방법을 사용합니다. 이는 인류를 보존하시면서도 교만을 제한하시는 지혜로운 심판입니다. 언어 다양성은 저주이자 동시에 축복이 되어, 다양한 문화와 민족이 생겨나게 됩니다.",
+        "points": [
+          "하나님은 바벨탑을 직접 파괴하지 않으시고, 협력 불가능하게 만드심으로 건축을 중단시키십니다",
+          "언어 혼잡은 심판이지만, 동시에 인류가 더 큰 악(신과 같이 되려는 시도)으로 나아가는 것을 막는 은혜입니다",
+          "다양한 언어와 문화는 하나님의 창조적 지혜를 다양하게 반영하게 됩니다(요한계시록 7:9)",
+          "언어의 다양성은 겸손을 요구하며, 우리가 서로를 필요로 하게 만듭니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님께서 언어를 혼잡하게 하셨을까요?",
+      "answer": "사람들이 하나님의 말씀을 듣지 않고 자기들 마음대로 하려고 했어요. 그래서 하나님은 그들이 서로의 말도 듣지 못하게 하셨어요. 마치 친구들이 함께 나쁜 장난을 계획할 때, 선생님이 친구들을 다른 교실로 나누시는 것과 같아요. 하나님은 사람들을 벌주려는 것이 아니라, 더 큰 잘못을 하지 못하도록 보호하신 거예요. 그리고 놀라운 일이 있어요! 나중에 예수님이 오신 후 성령님이 오셨을 때(오순절), 각 나라 사람들이 자기 나라 말로 하나님의 말씀을 듣게 되었어요. 바벨에서 흩어졌던 사람들이, 예수님 안에서 다시 하나가 되는 거랍니다!",
+      "bibleReferences": [
+        "창세기 11:1 - '온 땅의 언어가 하나요 말이 하나였더라'",
+        "신명기 28:49 - '네가 그 언어를 알지 못하는 민족을 먼 곳 땅 끝에서 독수리가 날아오는 것같이 너를 치러 오게 하시리니'",
+        "사도행전 2:4-6 - '그들이 다 성령의 충만함을 받고 성령이 말하게 하심을 따라 다른 언어들로 말하기를 시작하니라... 각각 자기의 방언으로 제자들이 말하는 것을 듣고'",
+        "요한계시록 7:9 - '이 일 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 나와 보좌 앞과 어린 양 앞에 서서'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "언어 혼잡은 하나님의 심판이자 동시에 은혜입니다. 인류는 하나님께 순종하지 않았기에 서로에게도 순종하지 못하게 되었습니다. 그러나 이는 인류를 더 큰 악(하나님과 동등해지려는 시도)으로부터 보호하시는 지혜로운 조치였습니다. 언어의 다양성은 인간의 교만을 제한하지만, 동시에 하나님의 창조적 풍요로움을 반영합니다. 궁극적으로 오순절 성령 강림(사도행전 2장)에서 바벨의 저주는 역전되며, 그리스도 안에서 모든 족속과 방언이 하나 되는 새로운 통일이 시작됩니다(에베소서 2:14-18, 요한계시록 7:9)."
+    }
+  }
+}

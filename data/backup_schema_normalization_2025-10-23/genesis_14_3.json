@@ -1,0 +1,117 @@
+{
+  "id": "genesis_14_3",
+  "reference": "창세기 14:3",
+  "hebrew": "כָּל־אֵלֶּה, חָבְרוּ אֶל־עֵמֶק הַשִּׂדִּים--הוּא יָם הַמֶּלַח.",
+  "ipa": "kol ʔelːɛ χavˈru ʔɛl ʔeˈmɛq haśːidːˈim hu jam hamˈmɛlaχ",
+  "koreanPronunciation": "콜 엘레 하브루 엘 에메크 하시딤 후 얌 하멜라흐",
+  "modern": "이 모든 왕들이 싯딤 골짜기, 곧 지금의 염해에서 연합했습니다.",
+  "words": [
+    {
+      "hebrew": "חָבְרוּ",
+      "meaning": "연합했다, 동맹했다",
+      "ipa": "χavˈru",
+      "korean": "하브루",
+      "letters": "חָ(cha) + בְרוּ(vru)",
+      "root": "ח-ב-ר (하바르 - 연합하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"unite\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#unite)\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#unite)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"42\" r=\"8\" fill=\"#00F2FE\" opacity=\"0.6\" /><path d=\"M 24 28 L 32 42 M 40 28 L 32 42\" stroke=\"#4FACFE\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "חָבַר (하바르 - 연합하다)",
+        "חֶבֶר (헤베르 - 동료, 친구)"
+      ]
+    },
+    {
+      "hebrew": "עֵמֶק",
+      "meaning": "골짜기, 평야",
+      "ipa": "ʔeˈmɛq",
+      "korean": "에메크",
+      "letters": "עֵ(e) + מֶק(meq)",
+      "root": "ע-מ-ק (아마크 - 깊다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"valley\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><path d=\"M 8 20 L 28 44 L 36 44 L 56 20\" stroke=\"url(#valley)\" stroke-width=\"3\" fill=\"none\" /><rect x=\"24\" y=\"44\" width=\"16\" height=\"8\" fill=\"#4CAF50\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "עֵמֶק (에메크 - 골짜기)",
+        "עָמֹק (아모크 - 깊은)"
+      ]
+    },
+    {
+      "hebrew": "הַשִּׂדִּים",
+      "meaning": "싯딤 (들판들)",
+      "ipa": "haśːidːˈim",
+      "korean": "하시딤",
+      "letters": "הַ(ha) + שִּׂדִּים(siddim)",
+      "root": "שָׂדֶה (사데 - 들판)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fields\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><rect x=\"12\" y=\"32\" width=\"40\" height=\"20\" fill=\"url(#fields)\" opacity=\"0.5\" /><path d=\"M 16 28 L 20 36 M 24 28 L 28 36 M 32 28 L 36 36 M 40 28 L 44 36\" stroke=\"#228B22\" stroke-width=\"1\" /></svg>",
+      "relatedWords": [
+        "שָׂדֶה (사데 - 들판)",
+        "שְׂדֵמוֹת (세데모트 - 들판들)"
+      ]
+    },
+    {
+      "hebrew": "יָם־הַמֶּלַח",
+      "meaning": "염해 (소금 바다, 사해)",
+      "ipa": "jam hamˈmɛlaχ",
+      "korean": "얌 하멜라흐",
+      "letters": "יָם(yam) + הַ(ha) + מֶּלַח(melach)",
+      "root": "מֶלַח (멜라흐 - 소금)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"salt_sea\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"24\" ry=\"16\" fill=\"url(#salt_sea)\" opacity=\"0.5\" /><path d=\"M 16 32 Q 24 28 32 32 Q 40 36 48 32\" stroke=\"#4FC3F7\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "מֶלַח (멜라흐 - 소금)",
+        "יָם (얌 - 바다, 호수)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14:3은 전쟁이 벌어진 장소를 밝힙니다. 싯딤 골짜기, 곧 오늘날의 사해(염해) 지역입니다. 이곳은 후에 소돔과 고모라가 멸망당하는 장소가 되며, 지금도 그 심판의 흔적이 남아있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "싯딤 골짜기 - 전쟁터",
+        "description": "싯딤(שִׂדִּים) 골짜기는 사해 남쪽의 평야 지대입니다. 이곳은 평지여서 전투하기에 적합했지만, 후에 하나님의 심판으로 황폐한 땅이 됩니다.",
+        "points": [
+          "전쟁은 종종 평야에서 벌어집니다",
+          "이 골짜기는 후에 심판의 장소가 됩니다",
+          "지리적 위치가 역사적 의미를 갖게 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "염해(사해) - 심판의 표시",
+        "description": "사해는 지구에서 가장 낮은 곳(-430m)이며, 염도가 매우 높아 생물이 살 수 없습니다. 이것은 소돔과 고모라에 내린 심판의 결과로 여겨집니다.",
+        "points": [
+          "사해의 황폐함은 하나님의 심판을 상기시킵니다",
+          "생명이 없는 바다는 죄의 결과를 보여줍니다",
+          "지금도 그 흔적이 남아 경고합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "연합 - 공동의 목적",
+        "description": "5대 왕들이 '연합했다'(חָבְרוּ)는 것은 공동의 위협에 대항하기 위함이었습니다. 그러나 악한 동맹은 결국 실패합니다.",
+        "points": [
+          "연합이 항상 선한 것은 아닙니다",
+          "목적이 정당해야 연합이 의미있습니다",
+          "하나님 없는 연합은 무너집니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 사해는 지금도 생물이 살 수 없을까요?",
+      "answer": "사해는 소금이 너무 많아서 물고기나 다른 생물들이 살 수 없어요. 옛날 소돔과 고모라가 멸망당했을 때, 하나님께서 유황과 불로 그 도시들을 벌하셨는데, 그 후로 그 지역이 사막처럼 황폐해졌답니다. 사해는 하나님의 심판이 얼마나 무서운지를 보여주는 증거예요. 우리가 그곳을 보면 '나쁜 일을 하면 안 되겠구나'라고 배울 수 있어요. 하나님은 사랑이 많으신 분이지만, 죄는 반드시 벌하시는 분이기도 해요.",
+      "bibleReferences": [
+        "창세기 19:24-25 - '여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사 그 성들과 온 들과 성에 거주하는 모든 백성과 땅에 난 것을 다 엎어 멸하셨더라'",
+        "신명기 29:23 - '그 온 땅이 유황이 되며 소금이 되며 불에 탄 것이 되어 심지도 못하며 결실함도 없으며 아무 풀도 나지 아니함이 여호와께서 진노하사 뒤엎어 멸하신 소돔과 고모라와 아드마와 스보임의 무너짐과 같음을 보고 말할 것이요'",
+        "베드로후서 2:6 - '소돔과 고모라 성을 재가 되게 하여 멸망하기로 정하여 후세에 경건하지 아니할 자들에게 본을 삼으셨으며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "싯딤 골짜기와 염해는 하나님의 심판을 상기시키는 지리적 증거입니다. 사해는 지금도 생명이 살 수 없는 죽음의 바다로 남아있어, 소돔과 고모라에 내린 심판의 영속적 증거가 됩니다. 이는 하나님의 심판이 단순히 과거의 이야기가 아니라 실제 역사 속에서 일어난 사건임을 보여줍니다. 또한 이 지역이 전쟁터가 되었다는 것은, 죄악된 곳은 항상 분쟁과 폭력의 중심이 된다는 영적 원리를 보여줍니다."
+    }
+  }
+}

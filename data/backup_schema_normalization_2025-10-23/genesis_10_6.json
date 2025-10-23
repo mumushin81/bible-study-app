@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_6",
+  "reference": "창세기 10:6",
+  "hebrew": "וּבְנֵי חָם, כּוּשׁ וּמִצְרַיִם וּפוּט וּכְנָעַן.",
+  "ipa": "uvəˈne xam kuʃ umitsˈrajim uˈfut uxənaˈʕan",
+  "koreanPronunciation": "우브네이 함 쿠쉬 우미츠라임 우푸트 우크나안",
+  "modern": "함의 아들들은 구스와 미스라임과 붓과 가나안이요",
+  "words": [
+    {
+      "hebrew": "חָם",
+      "meaning": "함 (뜨거운)",
+      "ipa": "xam",
+      "korean": "함",
+      "letters": "חָ(cha) + ם(m)",
+      "root": "ח-מ-ם (하맘 - 뜨겁다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"heat_cham2\"><stop offset=\"0%\" stop-color=\"#FFF\" /><stop offset=\"30%\" stop-color=\"#FFD54F\" /><stop offset=\"70%\" stop-color=\"#FF6F00\" /><stop offset=\"100%\" stop-color=\"#E65100\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#heat_cham2)\" filter=\"drop-shadow(0 0 12px rgba(255, 111, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"#FFEB3B\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "חַם (함 - 뜨거운)",
+        "חֹם (홈 - 열)"
+      ]
+    },
+    {
+      "hebrew": "כּוּשׁ",
+      "meaning": "구스 (에티오피아, 누비아)",
+      "ipa": "kuʃ",
+      "korean": "쿠쉬",
+      "letters": "כּ(ku) + וּ(u) + שׁ(sh)",
+      "root": "כּוּשׁ (쿠쉬)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"africa_kush\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6D4C41\" /><stop offset=\"50%\" stop-color=\"#5D4037\" /><stop offset=\"100%\" stop-color=\"#4E342E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#africa_kush)\" opacity=\"0.7\" /><path d=\"M 32 16 L 36 26 L 46 28 L 38 34 L 40 44 L 32 38 L 24 44 L 26 34 L 18 28 L 28 26 Z\" fill=\"#FFD700\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כּוּשִׁי (쿠쉬 - 구스 사람)",
+        "אֶתְיוֹפִּיָה (에티오피아)"
+      ]
+    },
+    {
+      "hebrew": "מִצְרַיִם",
+      "meaning": "미스라임 (이집트)",
+      "ipa": "mitsˈrajim",
+      "korean": "미츠라임",
+      "letters": "מִ(mi) + צְ(ts) + רַ(ra) + יִם(yim)",
+      "root": "מָצוֹר (마초르 - 요새, 경계)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt_mitsrayim\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#FFE4B5\" /></linearGradient></defs><polygon points=\"32,8 48,44 16,44\" fill=\"url(#egypt_mitsrayim)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"44\" width=\"32\" height=\"8\" fill=\"#D2691E\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "מִצְרִי (미츠리 - 이집트인)",
+        "מֵצַר (메차르 - 곤경, 좁은 곳)"
+      ]
+    },
+    {
+      "hebrew": "פּוּט",
+      "meaning": "붓 (리비아)",
+      "ipa": "ˈfut",
+      "korean": "푸트",
+      "letters": "פּ(fu) + וּ(u) + ט(t)",
+      "root": "פּוּט (푸트)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"libya_put\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"100%\" stop-color=\"#F9A825\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#libya_put)\" opacity=\"0.5\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"none\" stroke=\"#F57F17\" stroke-width=\"3\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לוּב (루브 - 리비아)",
+        "צָפוֹן אַפְרִיקָה (차폰 아프리카 - 북아프리카)"
+      ]
+    },
+    {
+      "hebrew": "כְּנָעַן",
+      "meaning": "가나안 (약속의 땅)",
+      "ipa": "xənaˈʕan",
+      "korean": "크나안",
+      "letters": "כְּ(ke) + נָ(na) + עַ(a) + ן(n)",
+      "root": "כ-נ-ע (카나 - 낮추다, 굴복시키다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan_kenaan\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8BC34A\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#canaan_kenaan)\" opacity=\"0.5\" rx=\"8\" /><path d=\"M 24 20 Q 32 12 40 20 L 40 44 L 24 44 Z\" fill=\"#7CB342\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "כְּנַעֲנִי (크나아니 - 가나안 사람)",
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "함의 네 아들은 주로 아프리카와 중동의 민족들의 조상이 됩니다. 이들은 성경 역사에서 이스라엘과 가장 많은 접촉과 갈등을 겪은 민족들이며, 특히 가나안은 이스라엘의 약속의 땅이 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "함 - 저주받은 자인가?",
+        "description": "노아의 저주(창 9:25)는 함이 아니라 가나안에게 선언되었습니다. 함 자체는 저주받지 않았으며, 그의 후손들은 위대한 문명을 건설했습니다. '함의 저주'를 인종차별의 근거로 삼는 것은 성경 해석의 오류입니다.",
+        "points": [
+          "함 자신은 저주받지 않았습니다(가나안만 저주받음)",
+          "함의 후손들은 고대 세계의 강대국이 되었습니다",
+          "인종차별의 근거로 악용되어서는 안 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "구스 - 아프리카의 영광",
+        "description": "구스는 나일강 상류의 누비아와 에티오피아 지역을 가리킵니다. 강력한 왕국을 건설했으며, 성경은 구스를 부정적으로만 보지 않습니다. 시편 68:31은 '구스가... 하나님께 손을 신속히 펴리로다'고 예언합니다.",
+        "points": [
+          "고대의 강력한 왕국(나파타, 메로에)을 건설했습니다",
+          "모세의 아내가 구스 여인이었습니다(민 12:1)",
+          "에디오피아 내시가 초대교회의 중요한 개종자가 됩니다(행 8장)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "미스라임 - 이집트의 양면성",
+        "description": "미스라임(이집트)은 성경에서 이중적 이미지를 가집니다. 노예의 집이자 피난처, 압제자이자 도움의 손길. 이집트는 이스라엘 역사에서 떼어낼 수 없는 부분입니다.",
+        "points": [
+          "요셉과 야곱 가족의 피난처가 되었습니다",
+          "출애굽의 무대로 하나님의 권능을 드러냈습니다",
+          "이사야는 이집트도 구원받을 것을 예언합니다(사 19:25)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "가나안 - 약속과 심판의 땅",
+        "description": "가나안은 아브라함에게 약속된 땅이지만, 동시에 죄악으로 심판받을 땅입니다. 가나안의 후손들(가나안 족속)은 우상숭배와 부도덕으로 하나님의 심판을 받게 됩니다.",
+        "points": [
+          "아브라함의 약속의 땅이 됩니다",
+          "여호수아 시대에 정복당합니다",
+          "죄악의 관영함으로 심판받는 예로 제시됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 가나안 땅이 이스라엘에게 주어졌나요?",
+      "answer": "하나님은 아브라함에게 가나안 땅을 약속하셨어요. 하지만 그 땅에 살던 가나안 사람들이 계속 나쁜 짓을 하고 우상을 섬겼기 때문에, 하나님이 그들을 심판하시고 이스라엘에게 그 땅을 주셨어요. 이것은 하나님이 공평하시다는 것을 보여줘요. 하나님은 누구든지 잘못하면 벌을 주시고, 약속을 지키는 분이세요. 우리도 하나님의 말씀대로 살아야 하나님의 축복을 받을 수 있어요. 하나님은 사람의 피부색이나 민족을 보시는 게 아니라 마음을 보세요.",
+      "bibleReferences": [
+        "창세기 15:16 - '아모리 족속의 죄악이 아직 관영하지 아니함이니라'",
+        "신명기 9:4-5 - '이 민족들의 악함으로 말미암아 여호와께서 그들을 네 앞에서 쫓아내심이라'",
+        "레위기 18:24-25 - '너희는 이 모든 일로 스스로 더럽히지 말라... 그 땅도 더러워졌으므로 내가 그 악을 인하여 벌하고'",
+        "사도행전 10:34-35 - '하나님은 사람의 외모를 보지 아니하시고 각 나라 중 하나님을 경외하며 의를 행하는 사람은 다 받으시는 줄 깨달았도다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "함의 후손 목록은 하나님의 구원 역사가 모든 민족을 포함한다는 것을 보여줍니다. 비록 가나안이 심판을 받았지만, 라합과 룻같은 가나안 여인들이 믿음으로 구원받고 심지어 예수님의 족보에 포함됩니다(마 1장). 이집트는 노예의 집이었지만 예수님의 피난처가 되고(마 2:15), 이사야 19:25는 '애굽 내 백성'이라 부를 날을 예언합니다. 구스(에티오피아)는 시편 68:31과 사도행전 8장의 내시를 통해 복음의 확산을 보여줍니다. 이는 하나님의 심판이 최종적이지 않고, 회개와 믿음을 통해 어떤 민족이든 하나님의 백성이 될 수 있음을 가르칩니다. 계시록 7:9의 '각 나라와 족속'에는 함의 후손들도 포함될 것입니다."
+    }
+  }
+}

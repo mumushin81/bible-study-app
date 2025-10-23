@@ -1,0 +1,157 @@
+{
+  "id": "genesis_9_19",
+  "reference": "창세기 9:19",
+  "hebrew": "שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ וּמֵאֵלֶּה נָפְצָה כָל־הָאָרֶץ",
+  "ipa": "ʃəloːʃaː ʔeːlːɛ vəneː nɔːaχ uːmeːʔeːlːɛ naːfətsaː kɔl haːʔaːrɛts",
+  "koreanPronunciation": "슐로샤 엘레 베네 노아흐 우메엘레 나페차 콜 하아레츠",
+  "modern": "이 세 사람이 노아의 아들들이며, 이들로부터 온 땅에 사람들이 흩어졌다",
+  "words": [
+    {
+      "hebrew": "שְׁלֹשָׁה",
+      "meaning": "셋",
+      "ipa": "ʃəloːʃaː",
+      "korean": "슐로샤",
+      "letters": "שְׁ(she) + לֹ(lo) + שָׁה(shah)",
+      "root": "שָׁלוֹשׁ (샬로쉬)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"three_sheloshah\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C44569\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"10\" fill=\"url(#three_sheloshah)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#three_sheloshah)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"32\" r=\"10\" fill=\"url(#three_sheloshah)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "שָׁלוֹשׁ (샬로쉬 - 셋)",
+        "שְׁלִישִׁי (슐리쉬 - 셋째)"
+      ]
+    },
+    {
+      "hebrew": "אֵלֶּה",
+      "meaning": "이들",
+      "ipa": "ʔeːlːɛ",
+      "korean": "엘레",
+      "letters": "אֵ(e) + לֶּה(leh)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "지시대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"these_eleh\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></radialGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#these_eleh)\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#these_eleh)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"40\" r=\"8\" fill=\"url(#these_eleh)\" opacity=\"0.8\" /><path d=\"M 32 16 L 32 12\" stroke=\"url(#these_eleh)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 12 L 28 8\" stroke=\"url(#these_eleh)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 12 L 36 8\" stroke=\"url(#these_eleh)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것)",
+        "הֵם (헴 - 그들)"
+      ]
+    },
+    {
+      "hebrew": "בְּנֵי־נֹחַ",
+      "meaning": "노아의 아들들",
+      "ipa": "vəneː nɔːaχ",
+      "korean": "베네 노아흐",
+      "letters": "בְּ(be) + נֵי(nei) + נֹחַ(noach)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_benei\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#sons_benei)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"12\" ry=\"16\" fill=\"url(#sons_benei)\" opacity=\"0.8\" /><circle cx=\"20\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "וּמֵאֵלֶּה",
+      "meaning": "그리고 이들로부터",
+      "ipa": "uːmeːʔeːlːɛ",
+      "korean": "우메엘레",
+      "letters": "וּ(u) + מֵ(me) + אֵלֶּה(eleh)",
+      "root": "מִן (민)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"from_umeeleh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"10\" fill=\"url(#from_umeeleh)\" opacity=\"0.9\" /><path d=\"M 26 32 L 48 28\" stroke=\"url(#from_umeeleh)\" stroke-width=\"3\" opacity=\"0.8\" /><path d=\"M 26 32 L 48 36\" stroke=\"url(#from_umeeleh)\" stroke-width=\"3\" opacity=\"0.8\" /><path d=\"M 48 28 L 44 26\" stroke=\"url(#from_umeeleh)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 48 36 L 44 38\" stroke=\"url(#from_umeeleh)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מִן (민 - ~로부터)",
+        "מֵאֵת (메에트 - ~에게서)"
+      ]
+    },
+    {
+      "hebrew": "נָפְצָה",
+      "meaning": "흩어졌다",
+      "ipa": "naːfətsaː",
+      "korean": "나페차",
+      "letters": "נָ(na) + פְ(fe) + צָה(tzah)",
+      "root": "פּוּץ (푸츠)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"scatter_nafetzah\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"60%\" stop-color=\"#F7931E\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#F7931E\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FF6B35\" opacity=\"0.9\" /><circle cx=\"16\" cy=\"16\" r=\"4\" fill=\"#F7931E\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"16\" r=\"4\" fill=\"#F7931E\" opacity=\"0.7\" /><circle cx=\"16\" cy=\"48\" r=\"4\" fill=\"#F7931E\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"48\" r=\"4\" fill=\"#F7931E\" opacity=\"0.7\" /><path d=\"M 32 32 L 16 16\" stroke=\"#FF6B35\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 32 L 48 16\" stroke=\"#FF6B35\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 32 L 16 48\" stroke=\"#FF6B35\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 32 L 48 48\" stroke=\"#FF6B35\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "פּוּץ (푸츠 - 흩어지다)",
+        "פָּזַר (파자르 - 흩뜨리다)"
+      ]
+    },
+    {
+      "hebrew": "כָל־הָאָרֶץ",
+      "meaning": "온 땅",
+      "ipa": "kɔl haːʔaːrɛts",
+      "korean": "콜 하아레츠",
+      "letters": "כָּל(kol) + הָאָרֶץ(haaretz)",
+      "root": "כֹּל (콜)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_kolhaaretz\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"40%\" stop-color=\"#4CAF50\" /><stop offset=\"70%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient><linearGradient id=\"ocean_kolhaaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#0288D1\" /><stop offset=\"100%\" stop-color=\"#01579B\" /></linearGradient><linearGradient id=\"land_kolhaaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#ocean_kolhaaretz)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 20 Q 22 18 28 20 Q 32 22 36 20 Q 42 18 46 22 L 44 32 Q 40 36 36 34 Q 32 32 28 34 Q 24 36 20 32 Z\" fill=\"url(#land_kolhaaretz)\" opacity=\"0.9\" /><ellipse cx=\"48\" cy=\"44\" rx=\"10\" ry=\"8\" fill=\"url(#land_kolhaaretz)\" opacity=\"0.85\" /><ellipse cx=\"16\" cy=\"48\" rx=\"8\" ry=\"6\" fill=\"url(#land_kolhaaretz)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#earth_kolhaaretz)\" stroke-width=\"2\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"0.5\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든)",
+        "אֶרֶץ (에레츠 - 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 노아의 세 아들이 전 세계 모든 민족의 조상이 되었음을 선언합니다. 홍수로 인류가 거의 멸절된 후, 하나님은 이 세 사람을 통해 인류를 다시 번성하게 하셨습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שְׁלֹשָׁה אֵלֶּה בְּנֵי־נֹחַ (슐로샤 엘레 베네 노아흐) - 이 세 사람이 노아의 아들들",
+        "description": "'세'라는 숫자는 성경에서 종종 완전함이나 신적 질서를 상징합니다. 노아의 세 아들은 하나님의 섭리 안에서 인류의 새로운 시작을 대표합니다.",
+        "points": [
+          "숫자 '셋'은 완전함과 조화를 상징합니다",
+          "세 아들은 홍수 이후 유일한 인류의 조상입니다",
+          "하나님의 구원 계획이 이들을 통해 계속됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וּמֵאֵלֶּה נָפְצָה (우메엘레 나페차) - 이들로부터 흩어졌다",
+        "description": "'나페차'(흩어지다)는 하나님의 명령인 '땅에 충만하라'는 말씀의 성취입니다. 이는 바벨탑 사건(창세기 11장)과 연결되어, 인류가 온 땅에 퍼지게 되는 과정을 보여줍니다.",
+        "points": [
+          "흩어짐은 하나님의 창조 명령의 성취입니다",
+          "다양한 민족과 언어가 형성되는 시작입니다",
+          "하나님의 주권이 모든 민족에게 미칩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כָל־הָאָרֶץ (콜 하아레츠) - 온 땅",
+        "description": "'온 땅'은 지리적 보편성을 강조합니다. 노아의 세 아들로부터 아시아, 아프리카, 유럽의 모든 민족이 나왔으며, 이는 모든 인류가 한 뿌리에서 나왔음을 의미합니다.",
+        "points": [
+          "모든 민족은 노아를 통해 하나의 조상을 공유합니다",
+          "인류의 보편적 형제애의 근거가 됩니다",
+          "하나님의 구원은 모든 민족을 향합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "민족의 분산 - 하나님의 섭리",
+        "description": "창세기 10장은 '민족의 표'(Table of Nations)로 알려져 있으며, 노아의 세 아들로부터 70개(또는 72개) 민족이 나왔음을 기록합니다. 이는 고대 근동의 알려진 모든 민족을 포괄합니다.",
+        "points": [
+          "셈: 아시리아, 엘람, 아람, 히브리 등",
+          "함: 이집트, 구스, 가나안, 블레셋 등",
+          "야벳: 그리스, 소아시아, 북방 민족 등"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람들을 온 땅에 흩으셨을까요?",
+      "answer": "하나님은 처음에 아담에게 '땅에 충만하라'고 말씀하셨어요. 그런데 사람들은 한곳에만 모여 살려고 했어요. 그래서 하나님께서는 사람들을 여러 곳으로 보내셔서 온 세상 곳곳에서 살게 하셨답니다. 마치 우리가 씨앗을 한곳에만 심지 않고 여러 곳에 뿌리는 것처럼요. 그렇게 해야 온 세상이 아름답게 꽃이 피잖아요! 하나님은 세계 곳곳에 사람들이 살면서 각자의 장소에서 하나님을 찬양하고 땅을 돌보기를 원하셨어요.",
+      "bibleReferences": [
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "창세기 10:32 - '이들은 노아 자손의 족속들이요 그들의 세계와 나라대로라 홍수 후에 이들에게서 땅의 백성들이 나뉘었더라'",
+        "창세기 11:8-9 - '여호와께서 거기서 그들을 온 지면에 흩으셨으므로 그들이 그 도시를 건설하기를 그쳤더라'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:19는 인류의 보편적 기원을 선언합니다. 모든 민족은 노아의 세 아들로부터 나왔으며, 이는 모든 인류가 하나의 가족임을 의미합니다. 이 진리는 인종차별과 민족주의를 반대하는 성경적 근거가 됩니다. 동시에 민족의 다양성은 하나님의 창조의 풍성함을 드러냅니다. 신약에서 예수 그리스도는 '모든 민족'을 제자 삼으라고 명령하셨으며(마태복음 28:19), 요한계시록은 '각 나라와 족속과 백성과 방언'에서 온 무리가 하나님을 경배하는 장면을 보여줍니다(요한계시록 7:9). 이는 모두 노아의 언약에서 시작된 하나님의 보편적 구원 계획의 성취입니다."
+    }
+  }
+}

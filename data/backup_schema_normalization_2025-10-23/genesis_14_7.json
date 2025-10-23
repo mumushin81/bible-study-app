@@ -1,0 +1,105 @@
+{
+  "id": "genesis_14_7",
+  "reference": "창세기 14:7",
+  "hebrew": "וַיָּשֻׁבוּ וַיָּבֹאוּ אֶל־עֵין מִשְׁפָּט, הִוא קָדֵשׁ, וַיַּכּוּ, אֶת־כָּל־שְׂדֵה הָעֲמָלֵקִי, וְגַם אֶת־הָאֱמֹרִי, הַיֹּשֵׁב בְּחַצְצֹן תָּמָר.",
+  "ipa": "vajjaˈʃuvu vajjaˈvoʔu ʔɛl ʔen miʃˈpat hiʔ qaˈdeʃ vajjakːˈu ʔɛt kol səˈde haʔamaˈleqi vəˈgam ʔɛt haʔɛmoˈri hajjoˈʃev bəχatsəˈtson taˈmar",
+  "koreanPronunciation": "바야슈부 바야보우 엘 엔 미쉬파트 히 카데쉬 바야쿠 에트 콜 세데 하아말레키 베감 에트 하에모리 하요쉐브 베하체촌 타마르",
+  "modern": "그들이 돌아서 엔미스밧 곧 가데스에 이르러, 아말렉 족속의 온 땅과 하사손다말에 거주하는 아모리 족속을 쳤습니다.",
+  "words": [
+    {
+      "hebrew": "וַיָּשֻׁבוּ",
+      "meaning": "그리고 그들이 돌아왔다",
+      "ipa": "vajjaˈʃuvu",
+      "korean": "바야슈부",
+      "letters": "וַ(va) + יָּשֻׁבוּ(yashuvu)",
+      "root": "שׁ-ו-ב (슈브 - 돌아오다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 16 32 Q 24 16 40 24 Q 48 28 48 32\" stroke=\"url(#return)\" stroke-width=\"3\" fill=\"none\" /><path d=\"M 48 32 Q 44 24 32 28 Q 20 32 16 32\" stroke=\"#00F2FE\" stroke-width=\"3\" fill=\"none\" marker-end=\"url(#arrow)\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아오다)",
+        "תְּשׁוּבָה (테슈바 - 회개, 돌아옴)"
+      ]
+    },
+    {
+      "hebrew": "עֵין מִשְׁפָּט",
+      "meaning": "엔미스밧 (심판의 샘)",
+      "ipa": "ʔen miʃˈpat",
+      "korean": "엔 미쉬파트",
+      "letters": "עֵין(en) + מִשְׁפָּט(mishpat)",
+      "root": "עַיִן (아인 - 샘) + מִשְׁפָּט (미쉬파트 - 심판)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"spring\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#spring)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#4FC3F7\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "עַיִן (아인 - 샘, 눈)",
+        "מִשְׁפָּט (미쉬파트 - 심판, 공의)"
+      ]
+    },
+    {
+      "hebrew": "קָדֵשׁ",
+      "meaning": "가데스 (거룩한)",
+      "ipa": "qaˈdeʃ",
+      "korean": "카데쉬",
+      "letters": "קָ(qa) + דֵשׁ(desh)",
+      "root": "ק-ד-שׁ (카다쉬 - 거룩하다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"kadesh\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#kadesh)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FFD700\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "קָדוֹשׁ (카도쉬 - 거룩한)",
+        "קֹדֶשׁ (코데쉬 - 거룩함)"
+      ]
+    },
+    {
+      "hebrew": "עֲמָלֵקִי",
+      "meaning": "아말렉 족속",
+      "ipa": "ʔamaˈleqi",
+      "korean": "아말레키",
+      "letters": "עֲ(a) + מָלֵקִי(maleqi)",
+      "root": "עֲמָלֵק (아말렉)",
+      "grammar": "민족명",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"amalek\"><stop offset=\"0%\" stop-color=\"#666666\" /><stop offset=\"100%\" stop-color=\"#333333\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#amalek)\" opacity=\"0.5\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#amalek)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עֲמָלֵק (아말렉 - 이스라엘의 원수)",
+        "אֱדוֹם (에돔 - 에서의 후손)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14:7은 그돌라오멜의 귀환 경로를 기록합니다. 그들은 가데스(엔미스밧)를 거쳐 아말렉과 아모리 족속을 정복하며 돌아왔습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "가데스 - 이스라엘 역사의 중요 장소",
+        "description": "가데스는 후에 이스라엘 백성이 40년 광야 생활의 대부분을 보내는 곳입니다. '심판의 샘'이라는 이름은 예언적입니다.",
+        "points": [
+          "가데스는 이스라엘 역사에서 중요한 장소가 됩니다",
+          "'심판의 샘'이라는 이름의 의미",
+          "하나님의 섭리 안에서의 역사"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "아말렉 - 이스라엘의 영원한 원수",
+        "description": "아말렉은 후에 이스라엘의 대적이 되는 민족입니다. 출애굽 후 광야에서 이스라엘을 먼저 공격한 민족이 바로 아말렉입니다.",
+        "points": [
+          "아말렉은 이스라엘의 숙적이 됩니다",
+          "여기서 처음 언급됩니다",
+          "하나님께서 아말렉을 진멸하라고 명하십니다"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 그돌라오멜이 간 경로를 자세히 기록했을까요?",
+      "answer": "성경이 그돌라오멜의 경로를 자세히 기록한 것은 나중에 이스라엘 백성이 지나가게 될 곳들이기 때문이에요. 가데스에서 이스라엘 백성이 40년을 보냈고, 아말렉 족속은 이스라엘을 공격한 나쁜 민족이 되었어요. 하나님은 이미 이 모든 것을 아시고, 역사 속에서 일하고 계셨답니다.",
+      "bibleReferences": [
+        "출애굽기 17:8 - '그 때에 아말렉이 와서 이스라엘과 르비딤에서 싸우니라'",
+        "신명기 25:17-19 - '너희가 애굽에서 나오는 길에 아말렉이 네게 행한 일을 기억하라 곧 그들이 하나님을 두려워하지 아니하고 네가 곤하고 피곤할 때에 네 뒤에 떨어진 약한 자들을 쳤느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 하나님의 주권적 섭리를 보여줍니다. 그돌라오멜의 원정 경로는 우연이 아니라 하나님의 계획 안에 있었습니다. 후에 이스라엘이 지나갈 땅들, 싸워야 할 민족들이 이미 여기 언급됩니다. 역사는 하나님의 손 안에 있습니다."
+    }
+  }
+}

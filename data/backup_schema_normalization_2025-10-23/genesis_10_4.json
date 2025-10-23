@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_4",
+  "reference": "창세기 10:4",
+  "hebrew": "וּבְנֵי יָוָן, אֱלִישָׁה וְתַרְשִׁישׁ, כִּתִּים וְדֹדָנִים.",
+  "ipa": "uvəˈne jaˈvan ʔɛliˈʃa vətarˈʃiʃ kitˈtim vədodaˈnim",
+  "koreanPronunciation": "우브네이 야반 엘리샤 베타르쉬쉬 키팀 베도다님",
+  "modern": "야완의 아들들은 엘리사와 달시스와 깃딤과 도다님이라",
+  "words": [
+    {
+      "hebrew": "יָוָן",
+      "meaning": "야완 (그리스, 이오니아)",
+      "ipa": "jaˈvan",
+      "korean": "야반",
+      "letters": "יָ(ya) + וָ(va) + ן(n)",
+      "root": "יָוָן (야반)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"greece_yavan2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#greece_yavan2)\" opacity=\"0.3\" rx=\"8\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"none\" stroke=\"#1976D2\" stroke-width=\"2\" /><rect x=\"16\" y=\"32\" width=\"8\" height=\"20\" fill=\"#1976D2\" opacity=\"0.7\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"20\" fill=\"#1976D2\" opacity=\"0.7\" /><rect x=\"40\" y=\"32\" width=\"8\" height=\"20\" fill=\"#1976D2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יְוָנִית (예바니트 - 그리스어)",
+        "יַיִן (야인 - 포도주)"
+      ]
+    },
+    {
+      "hebrew": "אֱלִישָׁה",
+      "meaning": "엘리사 (키프로스 섬)",
+      "ipa": "ʔɛliˈʃa",
+      "korean": "엘리샤",
+      "letters": "אֱ(e) + לִ(li) + שָׁ(sha) + ה(h)",
+      "root": "אֱלִישָׁה (엘리샤)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"island_elisha\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><rect width=\"64\" height=\"48\" fill=\"url(#island_elisha)\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"12\" fill=\"#66BB6A\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"36\" r=\"3\" fill=\"#FFF\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אִי (이 - 섬, 해안)",
+        "אֵל (엘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "תַרְשִׁישׁ",
+      "meaning": "달시스 (스페인 또는 사르데냐)",
+      "ipa": "tarˈʃiʃ",
+      "korean": "타르쉬쉬",
+      "letters": "תַ(tar) + רְ(r) + שִׁ(shi) + ישׁ(sh)",
+      "root": "תַרְשִׁישׁ (타르쉬쉬)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ship_tarshish\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><rect y=\"40\" width=\"64\" height=\"24\" fill=\"#4FC3F7\" opacity=\"0.4\" /><path d=\"M 20 40 L 16 28 L 48 28 L 44 40 Z\" fill=\"url(#ship_tarshish)\" /><polygon points=\"32,12 32,28 26,28\" fill=\"#FFF\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֳנִיּוֹת תַּרְשִׁישׁ (오니요트 타르쉬쉬 - 다시스 배들)",
+        "סְחוֹרָה (세호라 - 무역)"
+      ]
+    },
+    {
+      "hebrew": "כִּתִּים",
+      "meaning": "깃딤 (키프로스, 지중해 섬들)",
+      "ipa": "kitˈtim",
+      "korean": "키팀",
+      "letters": "כִּ(ki) + תִּ(ti) + ים(im)",
+      "root": "כִּתִּי (키티)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"islands_kittim\"><stop offset=\"0%\" stop-color=\"#4DB6AC\" /><stop offset=\"100%\" stop-color=\"#00695C\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"#4FC3F7\" opacity=\"0.3\" rx=\"8\" /><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#islands_kittim)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"32\" r=\"8\" fill=\"url(#islands_kittim)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"44\" r=\"5\" fill=\"url(#islands_kittim)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "כִּתִּיִּים (키티임 - 키프로스인들)",
+        "אִי (이 - 섬)"
+      ]
+    },
+    {
+      "hebrew": "דֹדָנִים",
+      "meaning": "도다님 (로도스 섬, 에게해)",
+      "ipa": "dodaˈnim",
+      "korean": "도다님",
+      "letters": "דֹ(do) + דָ(da) + נִ(ni) + ים(im)",
+      "root": "דֹדָן (도단)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"aegean_dodanim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#aegean_dodanim)\" opacity=\"0.4\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#8D6E63\" opacity=\"0.6\" /><path d=\"M 32 20 L 36 28 L 44 28 L 38 34 L 40 42 L 32 36 L 24 42 L 26 34 L 20 28 L 28 28 Z\" fill=\"#FFD700\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רֹדֶס (로데스 - 로도스)",
+        "דּוֹדִים (도딤 - 사랑)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "야완(그리스)의 네 아들은 지중해의 주요 섬들과 해안 지역에 정착한 민족들의 조상입니다. 이들은 해양 무역과 문화 교류의 중심지가 되었으며, 나중에 헬라 문명의 토대를 형성했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "엘리사 - 키프로스의 보라 염료",
+        "description": "엘리사는 키프로스 섬과 동일시되며, 에스겔 27:7에서 '보라색 염료'로 유명한 곳으로 언급됩니다. 고대 지중해 무역에서 중요한 역할을 했습니다.",
+        "points": [
+          "키프로스는 구리(copper)로 유명했고 이름의 어원이기도 합니다",
+          "바울이 첫 선교여행에서 방문한 곳입니다(행 13장)",
+          "바나바의 고향으로 초대교회와 깊은 연관이 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "달시스 - 먼 곳의 상징",
+        "description": "달시스는 '세상 끝'을 의미하는 상징적 장소로, 정확한 위치는 논쟁의 여지가 있으나 스페인의 타르테수스나 사르데냐로 추정됩니다. 요나가 도망가려 했던 곳으로 유명합니다.",
+        "points": [
+          "은, 철, 주석, 납의 주요 산지였습니다(겔 27:12)",
+          "솔로몬의 '다시스 배'는 대양 항해 능력을 상징합니다",
+          "하나님의 부르심을 피해 달아날 수 없음을 보여줍니다(욥 1:3)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "깃딤 - 서쪽 섬들",
+        "description": "깃딤은 키프로스의 도시 키티온(Kition)에서 유래했으며, 점차 지중해의 모든 서쪽 섬들과 해안 지역을 포괄하는 이름이 되었습니다. 다니엘서에서는 로마를 가리키기도 합니다.",
+        "points": [
+          "민수기 24:24에서 서쪽에서 오는 세력으로 예언됩니다",
+          "다니엘 11:30의 '깃딤 선박'은 로마 해군을 의미합니다",
+          "지중해 문명권 전체를 대표하게 됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "도다님 - 에게해의 무역상",
+        "description": "도다님(일부 사본에서는 로다님)은 로도스 섬과 에게해 지역과 연관됩니다. 역대상 1:7에서는 '로다님'으로 기록되어 로도스와의 연결이 더 명확합니다.",
+        "points": [
+          "로도스는 고대 칠대 불가사의 중 하나인 거상이 있던 곳입니다",
+          "중요한 해상 무역 중심지였습니다",
+          "에게해 문명의 발전에 기여했습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 이 사람들은 섬에 살게 되었을까요?",
+      "answer": "하나님은 어떤 사람들에게는 넓은 땅을, 어떤 사람들에게는 아름다운 섬을 주셨어요. 섬에 사는 사람들은 배를 타고 여행하며 다른 나라 사람들과 물건을 나누고 친구가 되었어요. 마치 우리 반 친구들이 각자 다른 재능을 가진 것처럼, 섬 사람들은 항해와 무역의 재능을 받았어요. 하나님은 모든 사람에게 서로 다른 선물을 주셔서, 우리가 서로 필요하고 도우며 살게 하셨어요. 혼자서는 모든 것을 가질 수 없지만, 함께하면 풍성해져요.",
+      "bibleReferences": [
+        "시편 72:10 - '다시스와 섬의 왕들이 공물을 바치며'",
+        "이사야 42:4 - '섬들이 그의 율법을 앙망하리라'",
+        "이사야 60:9 - '섬들이 나를 앙망하고 다시스의 배들이 먼저 이르되'",
+        "고린도전서 12:12 - '몸은 하나인데 많은 지체가 있고... 그러므로 다 한 몸이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "야완의 아들들이 정착한 지중해 세계는 신약시대 복음 전파의 핵심 무대가 됩니다. 특히 헬라어가 이 지역의 공통어가 되어 신약성경이 기록되고, 로마의 도로망과 해상 교통로를 통해 복음이 빠르게 전파되었습니다. 달시스는 요나가 도망갔던 곳으로 하나님의 부르심을 피할 수 없음을, 깃딤(키프로스)은 바울의 첫 선교지로서 이방 선교의 시작을 상징합니다. 성경에서 '섬들'은 종종 먼 이방 민족을 의미하며(사 41:1, 42:4, 49:1), 이들에게도 구원의 빛이 이를 것을 예언합니다. 창세기 10장의 이 이름들은 단순한 지리적 정보가 아니라, 하나님의 구원 역사가 온 세계로 확장될 것을 미리 보여주는 예표입니다."
+    }
+  }
+}

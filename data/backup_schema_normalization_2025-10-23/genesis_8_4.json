@@ -1,0 +1,158 @@
+{
+  "id": "genesis_8_4",
+  "reference": "창세기 8:4",
+  "hebrew": "וַתָּנַח הַתֵּבָה בַּחֹדֶשׁ הַשְּׁבִיעִי בְּשִׁבְעָה־עָשָׂר יוֹם לַחֹדֶשׁ עַל הָרֵי אֲרָרָט.",
+  "ipa": "vataˈnax hateva baxoˈdeʃ haʃəviˈi bəʃivˈa ʔaˈsar jom laxoˈdeʃ ʔal haˈre ʔaraˈrat",
+  "koreanPronunciation": "바타나흐 하테바 바호데쉬 하슈비이 베쉬바 아사르 욤 라호데쉬 알 하레 아라라트",
+  "modern": "일곱째 달 열이레째 되는 날, 방주가 아라랏 산에 머물렀습니다",
+  "words": [
+    {
+      "hebrew": "וַתָּנַח",
+      "meaning": "그리고 머물렀다, 안착했다",
+      "ipa": "vataˈnax",
+      "korean": "바타나흐",
+      "letters": "וַ(va) + תָּ(ta) + נַח(nach)",
+      "root": "נ-ו-ח (nuach)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark_rest\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"mountain_rest\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#795548\" /><stop offset=\"100%\" stop-color=\"#A1887F\" /></linearGradient></defs><path d=\"M 8 48 L 32 20 L 56 48 Z\" fill=\"url(#mountain_rest)\" /><path d=\"M 20 42 L 16 46 L 48 46 L 44 42 Z\" fill=\"url(#ark_rest)\" /><rect x=\"22\" y=\"36\" width=\"20\" height=\"6\" rx=\"1\" fill=\"url(#ark_rest)\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"4\" rx=\"1\" fill=\"#8B4513\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "נֹחַ (노아흐 - 노아)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "הַתֵּבָה",
+      "meaning": "방주",
+      "ipa": "hateva",
+      "korean": "하테바",
+      "letters": "הַ(ha) + תֵּ(te) + בָה(vah)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark_wood\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><path d=\"M 12 38 L 8 46 L 56 46 L 52 38 Z\" fill=\"url(#ark_wood)\" /><rect x=\"14\" y=\"22\" width=\"36\" height=\"16\" rx=\"2\" fill=\"url(#ark_wood)\" /><path d=\"M 14 22 L 10 38 L 54 38 L 50 22 Z\" fill=\"url(#ark_wood)\" stroke=\"#654321\" stroke-width=\"2\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"10\" rx=\"1\" fill=\"#8B4513\" opacity=\"0.8\" /><line x1=\"18\" y1=\"28\" x2=\"46\" y2=\"28\" stroke=\"#654321\" stroke-width=\"1.5\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "תֵּבָה (테바 - 상자, 궤)",
+        "אָרוֹן (아론 - 궤)"
+      ]
+    },
+    {
+      "hebrew": "הַשְּׁבִיעִי",
+      "meaning": "일곱째",
+      "ipa": "haʃəviˈi",
+      "korean": "하슈비이",
+      "letters": "הַ(ha) + שְּׁ(shə) + בִי(vi) + עִי(i)",
+      "root": "שֶׁבַע (셰바)",
+      "grammar": "서수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number_seven\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AB47BC\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"url(#number_seven)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">7</text><circle cx=\"32\" cy=\"32\" r=\"28\" stroke=\"url(#number_seven)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 32 8 L 36 16 L 28 16 Z\" fill=\"#AB47BC\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שֶׁבַע (셰바 - 7)",
+        "שַׁבָּת (샤바트 - 안식일)"
+      ]
+    },
+    {
+      "hebrew": "בְּשִׁבְעָה־עָשָׂר",
+      "meaning": "열일곱에",
+      "ipa": "bəʃivˈa ʔaˈsar",
+      "korean": "베쉬바 아사르",
+      "letters": "בְּ(bə) + שִׁ(shi) + בְ(v) + עָה(ah) + עָ(a) + שָׂר(sar)",
+      "root": "שֶׁבַע + עֶשֶׂר (셰바 + 에세르)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number_17\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5C6BC0\" /><stop offset=\"100%\" stop-color=\"#3F51B5\" /></linearGradient></defs><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#number_17)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">17</text><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"url(#number_17)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שֶׁבַע (셰바 - 7)",
+        "עֶשֶׂר (에세르 - 10)"
+      ]
+    },
+    {
+      "hebrew": "חֹדֶשׁ",
+      "meaning": "달, 월",
+      "ipa": "xoˈdeʃ",
+      "korean": "호데쉬",
+      "letters": "חֹ(cho) + דֶשׁ(desh)",
+      "root": "ח-ד-ש (chadash)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"moon_chodesh\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"70%\" stop-color=\"#F5F5F5\" /><stop offset=\"100%\" stop-color=\"#BDBDBD\" /></radialGradient><linearGradient id=\"night_sky\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1A237E\" /><stop offset=\"100%\" stop-color=\"#311B92\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#night_sky)\" opacity=\"0.3\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#moon_chodesh)\" filter=\"drop-shadow(0 0 12px rgba(255, 255, 255, 0.6))\" /><circle cx=\"38\" cy=\"28\" r=\"3\" fill=\"#BDBDBD\" opacity=\"0.3\" /><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#BDBDBD\" opacity=\"0.25\" /><circle cx=\"16\" cy=\"16\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"20\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"52\" cy=\"44\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "חָדָשׁ (하다쉬 - 새로운)",
+        "יֶרַח (예라흐 - 달)"
+      ]
+    },
+    {
+      "hebrew": "אֲרָרָט",
+      "meaning": "아라랏",
+      "ipa": "ʔaraˈrat",
+      "korean": "아라라트",
+      "letters": "אֲ(a) + רָ(ra) + רָט(rat)",
+      "root": "אֲרָרָט (아라라트)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mountain_ararat\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#5D4037\" /><stop offset=\"50%\" stop-color=\"#795548\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient><linearGradient id=\"sky_ararat\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#81D4FA\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky_ararat)\" opacity=\"0.4\" rx=\"8\" /><path d=\"M 8 54 L 20 38 L 32 16 L 44 38 L 56 54 Z\" fill=\"url(#mountain_ararat)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 26 28 L 32 16 L 38 28\" fill=\"#FFFFFF\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"4\" fill=\"#4CAF50\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "הַר (하르 - 산)",
+        "הָרִים (하림 - 산들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 4절은 방주가 아라랏 산에 안착한 역사적 순간을 기록합니다. '타나흐(안착하다)'는 노아(נֹחַ)의 이름과 같은 어근에서 나온 동사로, 그의 이름의 의미인 '안식'이 실현되는 순간입니다. 정확한 날짜 기록은 이것이 실제 역사적 사건임을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַתָּנַח (바타나흐) - 안식의 실현",
+        "description": "'타나흐(안착하다)'는 노아(נֹחַ)와 같은 어근 נ-ו-ח에서 왔습니다. 노아의 이름이 '안식'을 의미하듯, 이제 진정한 안식이 시작됩니다.",
+        "points": [
+          "노아의 이름과 동일한 어근 - 이름의 의미가 실현됩니다",
+          "안착은 심판의 끝과 안식의 시작을 표시합니다",
+          "방주가 멈춘 것은 하나님의 구원 계획의 새로운 단계입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "일곱째 달 열이레 - 정확한 시간",
+        "description": "성경은 방주가 안착한 정확한 날짜를 기록합니다. 이는 홍수가 신화가 아니라 실제 역사적 사건임을 강조합니다.",
+        "points": [
+          "7은 완전함을 상징하는 숫자입니다",
+          "정확한 날짜는 역사성을 강조합니다",
+          "하나님의 계획은 정확한 시간표를 따릅니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הָרֵי אֲרָרָט (하레 아라라트) - 아라랏 산들",
+        "description": "아라랏은 오늘날 터키 동부 지역으로, 높은 산지대입니다. 복수형 '하림(산들)'은 아라랏 산맥을 의미합니다.",
+        "points": [
+          "아라랏은 실제 지리적 위치입니다",
+          "높은 산은 새로운 시작의 장소입니다",
+          "방주가 가장 먼저 닿은 곳은 가장 높은 곳입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "새로운 시작의 장소",
+        "description": "산 위에 안착한 것은 상징적 의미가 있습니다. 성경에서 산은 하나님을 만나는 장소이며, 새로운 계시를 받는 곳입니다.",
+        "points": [
+          "산은 하나님과의 만남의 장소입니다 (시내산, 시온산)",
+          "높은 곳은 새로운 관점과 시작을 상징합니다",
+          "아라랏에서 인류의 새로운 역사가 시작됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 방주를 아라랏 산에 머물게 하셨을까요?",
+      "answer": "아라랏 산은 매우 높은 산이에요. 물이 많이 줄어들기 전에 가장 먼저 보이는 곳이 높은 산 꼭대기였을 거예요. 하나님은 노아 가족이 안전하게 머물 수 있는 가장 좋은 곳에 방주를 두셨어요. 또 산 위에서는 사방을 잘 볼 수 있잖아요? 노아는 거기서 물이 점점 줄어드는 걸 볼 수 있었을 거예요. 성경에서 산은 특별한 곳이에요. 모세가 하나님을 만난 것도 산이고, 예수님이 기도하신 곳도 산이에요. 하나님은 노아에게 새로운 시작을 주시기 위해 특별한 장소를 준비하신 거예요.",
+      "bibleReferences": [
+        "출애굽기 19:3 - '모세가 하나님 앞에 올라가니 여호와께서 산에서 그를 불러'",
+        "시편 121:1-2 - '내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까 나의 도움은 천지를 지으신 여호와에게서로다'",
+        "이사야 2:2 - '여호와의 집의 산이 모든 산 꼭대기에 굳게 설 것이요'",
+        "마태복음 5:1 - '예수께서 무리를 보시고 산에 올라가 앉으시니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:4는 하나님의 구원 계획의 중요한 이정표입니다. '타나흐(안착하다)'는 노아의 이름과 연결되어, 그의 사명이 실현되는 순간을 나타냅니다. 정확한 날짜 기록은 이것이 신화가 아닌 역사적 사실임을 강조합니다. 아라랏 산은 새로운 인류 역사의 출발점이 되며, 산이라는 장소는 하나님과의 만남과 새로운 계시를 받는 거룩한 공간임을 암시합니다. 방주가 안착한 것은 심판이 끝나고 회복이 시작됨을, 그리고 하나님의 약속이 신실하게 이루어짐을 보여줍니다."
+    }
+  }
+}

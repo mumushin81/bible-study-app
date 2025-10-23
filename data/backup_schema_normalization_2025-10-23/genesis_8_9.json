@@ -1,0 +1,186 @@
+{
+  "id": "genesis_8_9",
+  "reference": "창세기 8:9",
+  "hebrew": "וְלֹא־מָצְאָה הַיּוֹנָה מָנוֹחַ לְכַף־רַגְלָהּ וַתָּשָׁב אֵלָיו אֶל־הַתֵּבָה כִּי־מַיִם עַל־פְּנֵי כָל־הָאָרֶץ וַיִּשְׁלַח יָדוֹ וַיִּקָּחֶהָ וַיָּבֵא אֹתָהּ אֵלָיו אֶל־הַתֵּבָה.",
+  "ipa": "vəlo maˈtsəʔa hajˈona maˈnoax ləxaf ragˈlah vataˈʃav eˈlav ʔɛl hateva ki ˈmajim ʔal pəˈne xol haˈʔarɛts vajˈiʃlax jaˈdo vajiqaˈxeha vajave ˈotah eˈlav ʔɛl hateva",
+  "koreanPronunciation": "베로 마차아 하요나 마노아흐 레카프 라글라 바타샤브 엘라브 엘 하테바 키 마임 알 페네 콜 하아레츠 바이쉴라흐 야도 바이카헤하 바야베 오타 엘라브 엘 하테바",
+  "modern": "비둘기가 발을 붙일 곳을 찾지 못하여 방주로 그에게 돌아왔습니다. 왜냐하면 온 땅 표면에 물이 있었기 때문입니다. 그가 손을 내밀어 비둘기를 잡아 방주 안 자기에게로 데려왔습니다",
+  "words": [
+    {
+      "hebrew": "מָצְאָה",
+      "meaning": "찾았다, 발견했다",
+      "ipa": "maˈtsəʔa",
+      "korean": "마차아",
+      "letters": "מָ(ma) + צְ(tsə) + אָה(ah)",
+      "root": "מ-צ-א (matsa)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"find_light\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#find_light)\" /><circle cx=\"38\" cy=\"26\" r=\"10\" fill=\"none\" stroke=\"#FF6F00\" stroke-width=\"3\" /><line x1=\"30\" y1=\"34\" x2=\"22\" y2=\"42\" stroke=\"#FF6F00\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"38\" cy=\"26\" r=\"6\" fill=\"#FFD54F\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מָצָא (마차 - 찾다)",
+        "מְצִיאָה (메치아 - 발견)"
+      ]
+    },
+    {
+      "hebrew": "מָנוֹחַ",
+      "meaning": "안식처, 쉴 곳",
+      "ipa": "maˈnoax",
+      "korean": "마노아흐",
+      "letters": "מָ(ma) + נוֹ(no) + חַ(ach)",
+      "root": "נ-ו-ח (nuach)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"rest_place\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#66BB6A\" opacity=\"0.3\" /></radialGradient><linearGradient id=\"peaceful\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C5E1A5\" /><stop offset=\"100%\" stop-color=\"#7CB342\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#rest_place)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"20\" ry=\"12\" fill=\"url(#peaceful)\" opacity=\"0.8\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"12\" rx=\"2\" fill=\"#8D6E63\" opacity=\"0.7\" /><path d=\"M 20 32 Q 32 28 44 32\" stroke=\"#6D4C41\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다)",
+        "מְנוּחָה (메누하 - 안식)",
+        "נֹחַ (노아흐 - 노아)"
+      ]
+    },
+    {
+      "hebrew": "לְכַף־רַגְלָהּ",
+      "meaning": "그 발바닥을 위한",
+      "ipa": "ləxaf ragˈlah",
+      "korean": "레카프 라글라",
+      "letters": "לְ(lə) + כַף(chaf) + רַגְלָהּ(raglah)",
+      "root": "כַּף + רֶגֶל (카프 + 레겔)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"foot_print\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"10\" ry=\"14\" fill=\"url(#foot_print)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"url(#foot_print)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"26\" r=\"3\" fill=\"url(#foot_print)\" opacity=\"0.5\" /><circle cx=\"36\" cy=\"28\" r=\"3\" fill=\"url(#foot_print)\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"30\" r=\"2.5\" fill=\"url(#foot_print)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "כַּף (카프 - 손바닥, 발바닥)",
+        "רֶגֶל (레겔 - 발)"
+      ]
+    },
+    {
+      "hebrew": "וַתָּשָׁב",
+      "meaning": "그리고 돌아왔다",
+      "ipa": "vataˈʃav",
+      "korean": "바타샤브",
+      "letters": "וַ(va) + תָּ(ta) + שָׁב(shav)",
+      "root": "ש-ו-ב (shuv)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return_home\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E57373\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#F44336\" /></linearGradient></defs><path d=\"M 56 32 L 16 32\" stroke=\"url(#return_home)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 24 26\" stroke=\"#F44336\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 24 38\" stroke=\"#F44336\" stroke-width=\"4\" stroke-linecap=\"round\" /><rect x=\"8\" y=\"26\" width=\"12\" height=\"12\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "תְּשׁוּבָה (테슈바 - 회개)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּשְׁלַח",
+      "meaning": "그리고 내밀었다",
+      "ipa": "vajˈiʃlax",
+      "korean": "바이쉴라흐",
+      "letters": "וַ(va) + יִּ(yi) + שְׁ(sh) + לַח(lach)",
+      "root": "ש-ל-ח (shalach)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand_reach\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFCC80\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></linearGradient></defs><path d=\"M 12 32 L 48 32\" stroke=\"url(#hand_reach)\" stroke-width=\"6\" stroke-linecap=\"round\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"#FFAB91\" stroke=\"#E64A19\" stroke-width=\"2\" /><path d=\"M 44 28 L 44 24\" stroke=\"#E64A19\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 48 26 L 48 22\" stroke=\"#E64A19\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 52 28 L 52 24\" stroke=\"#E64A19\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שָׁלַח (샬라흐 - 보내다, 내밀다)",
+        "יָד (야드 - 손)"
+      ]
+    },
+    {
+      "hebrew": "יָדוֹ",
+      "meaning": "그의 손",
+      "ipa": "jaˈdo",
+      "korean": "야도",
+      "letters": "יָ(ya) + דוֹ(do)",
+      "root": "יָד (야드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand_yad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FFAB91\" /></linearGradient></defs><rect x=\"20\" y=\"36\" width=\"24\" height=\"16\" rx=\"3\" fill=\"url(#hand_yad)\" stroke=\"#E64A19\" stroke-width=\"2\" /><rect x=\"22\" y=\"20\" width=\"4\" height=\"18\" rx=\"2\" fill=\"url(#hand_yad)\" stroke=\"#E64A19\" stroke-width=\"1.5\" /><rect x=\"28\" y=\"16\" width=\"4\" height=\"22\" rx=\"2\" fill=\"url(#hand_yad)\" stroke=\"#E64A19\" stroke-width=\"1.5\" /><rect x=\"34\" y=\"18\" width=\"4\" height=\"20\" rx=\"2\" fill=\"url(#hand_yad)\" stroke=\"#E64A19\" stroke-width=\"1.5\" /><rect x=\"40\" y=\"22\" width=\"4\" height=\"16\" rx=\"2\" fill=\"url(#hand_yad)\" stroke=\"#E64A19\" stroke-width=\"1.5\" /></svg>",
+      "relatedWords": [
+        "יָד (야드 - 손)",
+        "יָמִין (야민 - 오른손)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּקָּחֶהָ",
+      "meaning": "그리고 그것을 잡았다",
+      "ipa": "vajiqaˈxeha",
+      "korean": "바이카헤하",
+      "letters": "וַ(va) + יִּ(yi) + קָּ(qa) + חֶהָ(cheha)",
+      "root": "ל-ק-ח (laqach)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"take_grasp\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" opacity=\"0.5\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#take_grasp)\" /><path d=\"M 24 32 L 28 32 L 28 40 L 24 40 Z\" fill=\"#FF6F00\" /><path d=\"M 30 28 L 34 28 L 34 40 L 30 40 Z\" fill=\"#FF6F00\" /><path d=\"M 36 30 L 40 30 L 40 40 L 36 40 Z\" fill=\"#FF6F00\" /><path d=\"M 22 36 L 42 36 L 42 44 L 22 44 Z\" fill=\"#FF8F00\" rx=\"2\" /></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 잡다, 취하다)",
+        "לֶקַח (레카흐 - 교훈)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּבֵא",
+      "meaning": "그리고 데려왔다",
+      "ipa": "vajave",
+      "korean": "바야베",
+      "letters": "וַ(va) + יָּ(ya) + בֵא(ve)",
+      "root": "ב-ו-א (bo)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring_in\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.6\" /><path d=\"M 24 32 L 56 32\" stroke=\"url(#bring_in)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 32 26 L 24 32 L 32 38\" fill=\"#43A047\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다, 들어가다)",
+        "הֵבִיא (헤비 - 가져오다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 9절은 비둘기가 돌아온 이유와 노아의 반응을 상세히 묘사합니다. '마노아흐(안식처)'라는 단어는 노아의 이름과 같은 어근에서 나왔으며, 이는 깊은 신학적 의미를 담고 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מָנוֹחַ (마노아흐) - 안식처를 찾지 못함",
+        "description": "'마노아흐(안식처)'는 노아(נֹחַ)와 같은 어근 נ-ו-ח에서 왔습니다. 비둘기가 안식처를 찾지 못한 것은 아직 회복이 완전하지 않음을 의미합니다.",
+        "points": [
+          "진정한 안식은 하나님의 때에 찾을 수 있습니다",
+          "비둘기가 찾던 안식은 노아에게 있었습니다",
+          "우리의 안식처는 하나님 안에 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְכַף־רַגְלָהּ (레카프 라글라) - 발바닥을 붙일 곳",
+        "description": "'발바닥을 붙일 곳'이라는 구체적 표현은 비둘기가 마른 땅을 찾지 못했음을 생생하게 보여줍니다.",
+        "points": [
+          "구체적인 표현은 현실을 생생하게 전달합니다",
+          "작은 것(발바닥)도 중요합니다",
+          "안정적인 기반이 필요합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַתָּשָׁב אֵלָיו (바타샤브 엘라브) - 그에게 돌아옴",
+        "description": "비둘기가 노아에게 돌아온 것은 자연스러운 선택이었습니다. 밖에 안식처가 없으니, 유일한 안전한 곳인 방주로 돌아왔습니다.",
+        "points": [
+          "위기 때 우리는 안전한 곳으로 돌아갑니다",
+          "노아는 비둘기에게 안식처가 되었습니다",
+          "하나님은 우리의 피난처이십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיִּשְׁלַח יָדוֹ (바이쉴라흐 야도) - 손을 내밀어",
+        "description": "노아가 손을 내밀어 비둘기를 잡은 것은 아름다운 돌봄의 장면입니다. 돌아온 비둘기를 환영하고 보호합니다.",
+        "points": [
+          "노아의 손은 안전과 보호를 제공합니다",
+          "하나님의 손도 우리를 붙드십니다",
+          "환영과 수용의 몸짓입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 비둘기는 발을 붙일 곳을 찾지 못했을까요?",
+      "answer": "비둘기는 까마귀와 달라요. 까마귀는 물 위에 떠다니는 것 위에도 앉을 수 있지만, 비둘기는 깨끗하고 마른 땅이 필요해요. 아직 땅이 물에 다 잠겨 있어서, 비둘기가 앉을 만한 마른 곳이 없었던 거예요. 그래서 비둘기는 다시 방주로 돌아왔어요. 노아는 비둘기를 보고 '아, 아직은 안 되는구나'라고 알았을 거예요. 마치 우리가 소풍 가려는데 비가 오면 집에 있는 것처럼, 비둘기도 때가 될 때까지 방주에 머물러야 했어요. 노아는 손을 내밀어 비둘기를 다시 안전하게 맞아들였어요.",
+      "bibleReferences": [
+        "시편 55:6 - '나는 말하기를 내게 비둘기 같은 날개가 있다면 날아가서 편히 쉬리로다'",
+        "신명기 28:65 - '그 여러 나라 가운데서 네가 평안함을 얻지 못하며 네 발바닥을 쉴 곳도 얻지 못하고'",
+        "마태복음 11:28 - '수고하고 무거운 짐 진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라'",
+        "시편 91:4 - '그가 너를 그의 깃으로 덮으시리니 네가 그의 날개 아래에 피하리로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:9는 안식과 피난처에 대한 깊은 신학적 메시지를 담고 있습니다. 비둘기가 '마노아흐(안식처)'를 찾지 못한 것은, 진정한 안식은 하나님 안에만 있음을 상징합니다. 노아의 이름 자체가 '안식'을 의미하듯, 노아는 비둘기에게 안식처가 되었습니다. 이는 예수 그리스도가 우리의 참된 안식처이심을 예표합니다. 노아가 손을 내밀어 비둘기를 받아들인 것은 하나님이 우리를 환영하시고 보호하시는 모습을 보여줍니다. 아직 세상에 안전한 곳이 없을 때, 하나님의 품이 우리의 유일한 피난처입니다."
+    }
+  }
+}

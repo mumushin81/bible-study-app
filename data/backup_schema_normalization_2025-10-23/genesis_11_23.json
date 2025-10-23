@@ -1,0 +1,114 @@
+{
+  "id": "genesis_11_23",
+  "reference": "창세기 11:23",
+  "hebrew": "וַיְחִי שְׂרוּג אַחֲרֵי הוֹלִידוֹ אֶת־נָחוֹר מָאתַיִם שָׁנָה וַיּוֹלֶד בָּנִים וּבָנוֹת",
+  "ipa": "vajəˈxi səˈruɡ ʔaxaˈrei holiˈdo ʔɛt naˈxor maˈtajim ʃaˈna vajˈjolɛd baˈnim uvaˈnot",
+  "koreanPronunciation": "바예히 스루그 아하레이 홀리도 에트 나호르 마타임 샤나 바욜레드 바님 우바노트",
+  "modern": "스룩은 나홀을 낳은 후 이백 년을 더 살면서 아들들과 딸들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "אַחֲרֵי",
+      "meaning": "~후에",
+      "ipa": "ʔaxaˈrei",
+      "korean": "아하레이",
+      "letters": "אַ(a) + חֲ(cha) + רֵ(re) + י(i)",
+      "root": "אַחַר (아하르)",
+      "grammar": "전치사",
+      "emoji": "⏭️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"serug23-arrow1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#3498DB\"/><stop offset=\"100%\" stop-color=\"#2ECC71\"/></linearGradient></defs><path d=\"M 8 32 L 48 32\" stroke=\"url(#serug23-arrow1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 38 22 L 50 32 L 38 42\" stroke=\"url(#serug23-arrow1)\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\"/><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#3498DB\"/></svg>",
+      "relatedWords": [
+        "אַחַר (아하르 - 뒤, 후)",
+        "אַחֲרוֹן (아하론 - 마지막)"
+      ]
+    },
+    {
+      "hebrew": "הוֹלִידוֹ",
+      "meaning": "그가 낳은 것",
+      "ipa": "holiˈdo",
+      "korean": "홀리도",
+      "letters": "הוֹ(ho) + לִ(li) + י(i) + דוֹ(do)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "🍼",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"serug23-bottle1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8F5E9\"/><stop offset=\"100%\" stop-color=\"#A5D6A7\"/></linearGradient><linearGradient id=\"serug23-milk1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"50%\" stop-color=\"#F5F5F5\"/></linearGradient></defs><rect x=\"22\" y=\"20\" width=\"20\" height=\"32\" rx=\"4\" fill=\"url(#serug23-bottle1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\"/><rect x=\"24\" y=\"36\" width=\"16\" height=\"14\" rx=\"2\" fill=\"url(#serug23-milk1)\"/><rect x=\"28\" y=\"14\" width=\"8\" height=\"8\" rx=\"2\" fill=\"url(#serug23-bottle1)\"/></svg>"
+    },
+    {
+      "hebrew": "מָאתַיִם שָׁנָה",
+      "meaning": "이백 년",
+      "ipa": "maˈtajim ʃaˈna",
+      "korean": "마타임 샤나",
+      "letters": "מָ(ma) + אתַ(ta) + יִם(yim) + שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "2️⃣0️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"serug23-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#E91E63\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#serug23-num1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\"/><text x=\"32\" y=\"40\" text-anchor=\"middle\" font-size=\"22\" font-weight=\"bold\" fill=\"#FFFFFF\" font-family=\"Arial\">200</text></svg>"
+    },
+    {
+      "hebrew": "בָּנִים וּבָנוֹת",
+      "meaning": "아들들과 딸들",
+      "ipa": "baˈnim uvaˈnot",
+      "korean": "바님 우바노트",
+      "letters": "בָּ(ba) + נִ(ni) + ים(m) + וּ(u) + בָ(ba) + נוֹ(no) + ת(t)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"serug23-family1\"><stop offset=\"0%\" stop-color=\"#FFE082\"/><stop offset=\"100%\" stop-color=\"#FFA726\"/></radialGradient><linearGradient id=\"serug23-heart1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C06C84\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#serug23-family1)\" opacity=\"0.3\"/><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#serug23-family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#serug23-family1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"24\" cy=\"44\" r=\"6\" fill=\"url(#serug23-heart1)\" opacity=\"0.8\"/><circle cx=\"40\" cy=\"44\" r=\"6\" fill=\"url(#serug23-heart1)\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11:23은 스룩의 나머지 생애를 기록합니다. 그는 나홀을 낳은 후 200년을 더 살았으며, 그 기간 동안 많은 자녀들을 낳았습니다. 이는 홍수 이후에도 여전히 인류의 수명이 상당히 길었음을 보여주지만, 동시에 점차 감소하는 추세를 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אַחֲרֵי הוֹלִידוֹ (아하레이 홀리도) - 낳은 후의 삶",
+        "description": "히브리어 '아하레이'는 '~후에'를 의미하며, 족보 기록에서 반복되는 표현입니다. 이는 주요 자녀(계보상 중요한 아들)를 낳은 이후의 삶도 하나님께 의미 있다는 것을 보여줍니다.",
+        "points": [
+          "나홀을 낳은 것은 스룩 생애의 중요한 사건이지만 전부가 아닙니다",
+          "하나님은 우리 삶의 모든 단계를 귀하게 여기십니다",
+          "주요 사명 이후의 삶도 계속해서 의미가 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מָאתַיִם שָׁנָה (마타임 샤나) - 이백 년의 긴 여정",
+        "description": "스룩은 나홀을 낳은 후 200년을 더 살았습니다. 이는 현대인의 평균 수명의 약 2.5배에 해당하는 긴 기간으로, 당시 사람들의 수명이 여전히 길었지만 점차 감소하는 추세였음을 보여줍니다.",
+        "points": [
+          "노아(950세), 셈(600세)에 비해 수명이 크게 감소했습니다",
+          "바벨탑 사건 이후 죄의 영향이 가속화되고 있었습니다",
+          "그럼에도 하나님은 각 세대를 통해 약속을 이어가셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우바노트) - 아들들과 딸들",
+        "description": "'바님 우바노트'는 '아들들과 딸들'을 의미하며, 족보 기록에서 자주 등장하는 표현입니다. 이는 나홀 외에도 많은 자녀들이 있었음을 나타내며, 하나님의 '생육하고 번성하라'는 명령이 계속 이루어지고 있음을 보여줍니다.",
+        "points": [
+          "성경은 족보상 중요한 아들(나홀) 외에도 다른 자녀들이 있었음을 기록합니다",
+          "모든 자녀가 하나님 앞에서 소중하며 축복입니다",
+          "인류는 홍수와 바벨탑 사건에도 불구하고 계속 번성했습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 스룩은 나홀을 낳은 후에도 200년이나 더 살았나요?",
+      "answer": "그 당시 사람들은 정말 오래 살았어요! 지금 우리는 100년도 살기 어렵지만, 성경 시대 초기에는 하나님이 사람들에게 아주 긴 수명을 주셨거든요. 스룩이 200년을 더 산 것은 두 가지를 보여줘요. 첫째, 나홀(아브라함의 할아버지)을 낳는 것이 스룩의 인생 전부가 아니었어요. 그는 그 후에도 오랫동안 많은 자녀들을 키우고 하나님을 섬기며 살았답니다. 둘째, 하나님은 우리 인생의 모든 시간을 소중히 여기세요. 큰 일을 한 후에도 우리의 삶은 계속 의미가 있어요!",
+      "bibleReferences": [
+        "창세기 5:32 - 노아는 500세에 셈, 함, 야벳을 낳았고 그 후에도 오래 살았습니다",
+        "창세기 11:10-11 - 셈도 아르박삿을 낳은 후 500년을 더 살았습니다",
+        "시편 90:10 - 우리의 연수가 칠십이요 강건하면 팔십이라도",
+        "전도서 3:1 - 범사에 기한이 있고 천하 만사가 다 때가 있나니"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "스룩의 긴 생애는 하나님께서 각 세대를 통해 인내하시며 구원 계획을 진행하셨음을 보여줍니다. 비록 인간의 수명이 점차 감소하고 있었지만, 하나님의 약속은 변함없이 이어졌습니다. 우리의 삶도 하나님의 큰 이야기 속에서 의미 있는 한 장면이며, 주요 사명 이후의 삶도 여전히 귀중합니다."
+    }
+  }
+}

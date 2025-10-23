@@ -1,0 +1,143 @@
+{
+  "id": "genesis_15_12",
+  "reference": "창세기 15:12",
+  "hebrew": "וַיְהִי הַשֶּׁמֶשׁ לָבוֹא, וְתַרְדֵּמָה נָפְלָה עַל-אַבְרָם; וְהִנֵּה אֵימָה חֲשֵׁכָה גְדֹלָה, נֹפֶלֶת עָלָיו.",
+  "ipa": "ʕaˈlav noˈfɛlɛt ɡəˈdola xaʃeˈxa ʔeˈma vəhinˈne ʔavˈram ʕal nafˈla tarˈdema vəla laˈvo haʃˈʃɛmɛʃ vajəˈhi",
+  "koreanPronunciation": "알라브 노펠레트, 게돌라 하쉐카 에마 베힌네, 아브람 알 나플라 타르데마 베라 라보 하쉐메쉬 바예히",
+  "modern": "해가 질 무렵, 깊은 잠이 아브람에게 임했고, 보라, 큰 어둠의 두려움이 그에게 덮쳤습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 되었다, 일어났다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִ(hi) + י(i)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sleep12-happen1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"sleep12-time1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#sleep12-time1)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#sleep12-happen1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(118, 75, 162, 0.4))\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"url(#sleep12-happen1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#sleep12-happen1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#764BA2\" filter=\"drop-shadow(0 0 4px rgba(118, 75, 162, 0.6))\" /><circle cx=\"32\" cy=\"14\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"50\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"32\" cy=\"50\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"14\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /></svg>"
+    },
+    {
+      "hebrew": "הַשֶּׁמֶשׁ לָבוֹא",
+      "meaning": "해가 질 때",
+      "ipa": "laˈvo haʃˈʃɛmɛʃ",
+      "korean": "라보 하쉐메쉬",
+      "letters": "הַ(ha) + שֶּׁ(she) + מֶ(me) + שׁ(sh) + לָ(la) + בוֹ(vo) + א(a)",
+      "root": "ש-מ-ש (샤메쉬), ב-ו-א (보)",
+      "grammar": "명사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sleep12-sunset1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#FFD93D\" /><stop offset=\"100%\" stop-color=\"#FF8C42\" /></linearGradient><linearGradient id=\"sleep12-sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#2C3E50\" /></linearGradient><radialGradient id=\"sleep12-sun1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sleep12-sky1)\" /><circle cx=\"32\" cy=\"40\" r=\"14\" fill=\"url(#sleep12-sun1)\" filter=\"drop-shadow(0 0 12px rgba(255, 107, 53, 0.8))\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /><line x1=\"48\" y1=\"18\" x2=\"42\" y2=\"24\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /><line x1=\"54\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"4\" fill=\"#2C3E50\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "תַרְדֵּמָה",
+      "meaning": "깊은 잠, 혼수상태",
+      "ipa": "tarˈdema",
+      "korean": "타르데마",
+      "letters": "תַּ(ta) + רְ(r) + דֵּ(de) + מָ(ma) + ה(h)",
+      "root": "ר-ד-ם (라담)",
+      "grammar": "명사",
+      "emoji": "😴",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sleep12-deep1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A5568\" /><stop offset=\"100%\" stop-color=\"#2D3748\" /></linearGradient><radialGradient id=\"sleep12-dream1\"><stop offset=\"0%\" stop-color=\"#9FA8DA\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#5C6BC0\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#sleep12-dream1)\" /><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#sleep12-deep1)\" filter=\"drop-shadow(0 3px 6px rgba(45, 55, 72, 0.5))\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#sleep12-deep1)\" filter=\"drop-shadow(0 2px 4px rgba(74, 85, 104, 0.4))\" /><path d=\"M 26 28 Q 24 26 26 24 Q 28 26 26 28 Z\" fill=\"#2D3748\" /><path d=\"M 38 28 Q 36 26 38 24 Q 40 26 38 28 Z\" fill=\"#2D3748\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#4A5568\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><text x=\"42\" y=\"22\" font-size=\"12\" fill=\"#9FA8DA\" opacity=\"0.8\">Z</text><text x=\"46\" y=\"16\" font-size=\"10\" fill=\"#9FA8DA\" opacity=\"0.6\">z</text><text x=\"50\" y=\"12\" font-size=\"8\" fill=\"#9FA8DA\" opacity=\"0.4\">z</text></svg>",
+      "relatedWords": [
+        "יָשֵׁן (야쉔 - 자다)",
+        "שֵׁנָה (쉐나 - 잠)"
+      ]
+    },
+    {
+      "hebrew": "נָפְלָה עַל",
+      "meaning": "임했다, 덮쳤다",
+      "ipa": "ʕal nafˈla",
+      "korean": "알 나플라",
+      "letters": "נָ(na) + פְ(f) + לָ(la) + ה(h) + עַ(al) + ל(l)",
+      "root": "נ-פ-ל (나팔)",
+      "grammar": "동사",
+      "emoji": "⬇️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sleep12-fall1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#764BA2\" stop-opacity=\"0.9\" /></linearGradient><radialGradient id=\"sleep12-impact1\"><stop offset=\"0%\" stop-color=\"#C41E3A\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#8B0000\" stop-opacity=\"0.1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"46\" rx=\"20\" ry=\"6\" fill=\"url(#sleep12-impact1)\" /><path d=\"M 32 8 L 28 18 L 32 16 L 36 18 Z\" fill=\"url(#sleep12-fall1)\" opacity=\"0.4\" /><path d=\"M 32 20 L 28 30 L 32 28 L 36 30 Z\" fill=\"url(#sleep12-fall1)\" opacity=\"0.6\" /><path d=\"M 32 32 L 28 42 L 32 40 L 36 42 Z\" fill=\"url(#sleep12-fall1)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"46\" r=\"8\" fill=\"url(#sleep12-fall1)\" filter=\"drop-shadow(0 3px 6px rgba(118, 75, 162, 0.5))\" /><path d=\"M 24 48 L 18 54\" stroke=\"#764BA2\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 40 48 L 46 54\" stroke=\"#764BA2\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 32 50 L 32 58\" stroke=\"#764BA2\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "אֵימָה חֲשֵׁכָה גְדֹלָה",
+      "meaning": "큰 어둠의 두려움",
+      "ipa": "ɡəˈdola xaʃeˈxa ʔeˈma",
+      "korean": "게돌라 하쉐카 에마",
+      "letters": "אֵ(e) + י(i) + מָ(ma) + ה(h) + חֲ(kha) + שֵׁ(she) + כָ(ka) + ה(h) + גְ(ge) + דֹ(do) + לָ(la) + ה(h)",
+      "root": "א-י-ם (아임), ח-ש-ך (하쇼크), ג-ד-ל (가달)",
+      "grammar": "명사",
+      "emoji": "😱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sleep12-terror1\"><stop offset=\"0%\" stop-color=\"#2C3E50\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"sleep12-fear1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><radialGradient id=\"sleep12-dread1\"><stop offset=\"0%\" stop-color=\"#8B0000\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#2C3E50\" stop-opacity=\"0.4\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sleep12-terror1)\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sleep12-dread1)\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"none\" stroke=\"url(#sleep12-fear1)\" stroke-width=\"3\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(196, 30, 58, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"url(#sleep12-fear1)\" stroke-width=\"2\" opacity=\"0.4\" /><path d=\"M 32 20 L 28 24 L 32 22 L 36 24 Z\" fill=\"#C41E3A\" opacity=\"0.7\" /><path d=\"M 20 32 L 24 28 L 22 32 L 24 36 Z\" fill=\"#C41E3A\" opacity=\"0.7\" /><path d=\"M 44 32 L 40 28 L 42 32 L 40 36 Z\" fill=\"#C41E3A\" opacity=\"0.7\" /><path d=\"M 32 44 L 28 40 L 32 42 L 36 40 Z\" fill=\"#C41E3A\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#8B0000\" filter=\"drop-shadow(0 0 6px rgba(139, 0, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "נֹפֶלֶת עָלָיו",
+      "meaning": "그에게 덮쳤다",
+      "ipa": "ʕaˈlav noˈfɛlɛt",
+      "korean": "알라브 노펠레트",
+      "letters": "נֹ(no) + פֶ(fe) + לֶ(le) + ת(t) + עָ(a) + לָ(la) + יו(v)",
+      "root": "נ-פ-ל (나팔)",
+      "grammar": "동사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sleep12-overwhelm1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2C3E50\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0.9\" /></linearGradient><radialGradient id=\"sleep12-cover1\"><stop offset=\"0%\" stop-color=\"#34495E\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#1C1C1C\" stop-opacity=\"0.9\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"22\" ry=\"8\" fill=\"#000000\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"36\" r=\"12\" fill=\"#8B7355\" filter=\"drop-shadow(0 3px 6px rgba(139, 115, 85, 0.4))\" /><circle cx=\"29\" cy=\"34\" r=\"1.5\" fill=\"#000000\" /><circle cx=\"35\" cy=\"34\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 38 Q 32 39 36 38\" stroke=\"#654321\" stroke-width=\"1\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 10 10 Q 16 16 22 14 Q 28 12 32 16 Q 36 20 42 18 Q 48 16 54 20 L 54 30 Q 48 26 42 28 Q 36 30 32 26 Q 28 22 22 24 Q 16 26 10 22 Z\" fill=\"url(#sleep12-overwhelm1)\" opacity=\"0.7\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.6))\" /><path d=\"M 8 24 Q 14 28 20 26 Q 26 24 32 28 Q 38 32 44 30 Q 50 28 56 32 L 56 42 Q 50 38 44 40 Q 38 42 32 38 Q 26 34 20 36 Q 14 38 8 34 Z\" fill=\"url(#sleep12-cover1)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.7))\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 12절은 하나님께서 아브람에게 환상을 보이시기 직전의 신비로운 순간을 기록합니다. 깊은 잠과 큰 어둠의 두려움은 단순한 생리적 현상이 아니라, 하나님의 임재 앞에서 경험하는 인간의 무력함과 경외감을 나타냅니다. 이 경험은 하나님께서 중대한 계시를 주시기 전에 사람을 준비시키는 과정입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הַשֶּׁמֶשׁ לָבוֹא (하쉐메쉬 라보) - 해가 질 때, 하루의 끝",
+        "description": "해가 지는 시간은 히브리 문화에서 하루의 끝이자 새로운 날의 시작입니다. 이 시간은 낮의 활동이 끝나고 밤의 고요함이 시작되는 전환점으로, 하나님께서 특별한 계시를 주시기에 적합한 시간입니다.",
+        "points": [
+          "하루의 전환점, 자연적 활동이 멈추는 시간",
+          "고요와 명상에 적합한 시간대",
+          "하나님께서 계시를 주시기 위해 선택하신 시간"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תַּרְדֵּמָה (타르데마) - 깊은 잠, 하나님이 주신 잠",
+        "description": "히브리어 '타르데마'는 단순한 수면이 아니라 하나님께서 주시는 초자연적이고 깊은 잠을 의미합니다. 창세기 2:21에서 하나님이 아담에게 타르데마를 내리셔서 하와를 창조하셨고, 사무엘상 26:12에서도 사울의 진영에 타르데마가 임했습니다.",
+        "points": [
+          "하나님께서 주시는 초자연적인 깊은 잠",
+          "중대한 하나님의 역사가 일어나기 전의 잠",
+          "인간의 의식을 넘어서는 하나님의 계시를 받기 위한 준비"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֵימָה חֲשֵׁכָה גְדֹלָה (에마 하쉐카 게돌라) - 큰 어둠의 두려움",
+        "description": "세 단어가 결합된 강렬한 표현입니다. '에마'(두려움), '하쉐카'(어둠), '게돌라'(큰)가 함께 하나님의 거룩하신 임재 앞에서 인간이 느끼는 압도적인 경외감을 표현합니다. 이는 출애굽기 20:21의 '깊은 흑암'과도 연결됩니다.",
+        "points": [
+          "하나님의 거룩하심 앞에서 느끼는 경외감",
+          "단순한 공포가 아닌 신적 임재에 대한 인간의 반응",
+          "장차 아브람의 자손이 겪을 애굽의 어둠을 예표"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "נָפְלָה/נֹפֶלֶת (나플라/노펠레트) - 임했다, 덮쳤다",
+        "description": "'나팔'은 '떨어지다', '임하다'를 의미하며, 여기서는 위에서 아래로 강하게 내려오는 이미지를 담고 있습니다. 깊은 잠과 큰 두려움이 아브람에게 '떨어져 내린' 것은 그의 의지와 무관하게 하나님께서 주권적으로 임하셨음을 나타냅니다.",
+        "points": [
+          "위에서 아래로의 주권적 임재",
+          "인간이 저항할 수 없는 하나님의 능력",
+          "하나님의 계시가 인간의 노력이 아닌 하나님의 은혜로 주어짐"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 깊은 잠과 무서운 어둠을 주셨을까요?",
+      "answer": "하나님께서 아브람에게 아주 중요하고 신비로운 것을 보여주시려고 했기 때문이에요. 마치 우리가 중요한 영화를 볼 때 불을 끄고 조용히 하는 것처럼, 하나님은 아브람이 다른 것에 방해받지 않고 하나님의 말씀에만 집중하게 하셨어요. 깊은 잠은 아브람의 생각을 멈추게 하고, 어둠은 하나님께서 보여주실 빛을 더 밝게 보이게 했답니다. 때로 하나님은 우리를 조용하고 고요한 곳으로 인도하셔서 우리에게 특별한 것을 가르치시려고 하세요.",
+      "bibleReferences": [
+        "창세기 2:21 - '여호와 하나님이 아담을 깊이 잠들게 하시니'",
+        "출애굽기 20:21 - '백성은 멀리 서 있고 모세는 하나님이 계신 곳의 흑암으로 가까이 가니라'",
+        "사무엘상 26:12 - '이는 여호와께서 그들로 깊이 잠들게 하셨으므로'",
+        "시편 46:10 - '너희는 가만히 있어 내가 하나님 됨을 알라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "깊은 잠과 큰 어둠의 두려움은 하나님의 계시를 받기 위한 인간의 무력함을 보여줍니다. 우리는 스스로의 노력으로 하나님을 만날 수 없으며, 하나님께서 주권적으로 임하실 때만 진정한 계시를 경험합니다. 이 어둠은 또한 아브람의 후손이 애굽에서 겪을 고난을 예표하지만, 동시에 그 어둠 이후에 올 하나님의 빛나는 구원을 예고합니다. 가장 깊은 어둠 속에서 하나님의 빛이 가장 밝게 빛납니다."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "genesis_9_15",
+  "reference": "창세기 9:15",
+  "hebrew": "וְזָכַרְתִּי אֶת-בְּרִיתִי, אֲשֶׁר בֵּינִי וּבֵינֵיכֶם, וּבֵין כָּל-נֶפֶשׁ חַיָּה, בְּכָל-בָּשָׂר; וְלֹא-יִהְיֶה עוֹד הַמַּיִם לְמַבּוּל, לְשַׁחֵת כָּל-בָּשָׂר.",
+  "ipa": "vəzaχarˈti ʔɛt bəriˈti ʔaˈʃɛr beni uveˈneχɛm uven kol ˈnɛpɛʃ χaˈja bəχol baˈsar vəlo jihˈjɛ ʔod haˈmajim ləmabˈbul ləʃaˈχet kol baˈsar",
+  "koreanPronunciation": "베자카르티 에트 베리티 아쉐르 베니 우베네켐 우벤 콜 네페쉬 하야 베콜 바사르 베로 이흐예 오드 하마임 레마불 레샤헤트 콜 바사르",
+  "modern": "내가 나와 너희와 및 육체를 가진 모든 생물 사이의 내 언약을 기억하리니 다시는 물이 모든 육체를 멸하는 홍수가 되지 아니할지라",
+  "words": [
+    {
+      "hebrew": "וְזָכַרְתִּי",
+      "meaning": "그리고 내가 기억할 것이다",
+      "ipa": "vəzaχarˈti",
+      "korean": "베자카르티",
+      "letters": "וְ(ve) + זָ(za) + כַ(kha) + רְ(re) + תִּי(ti)",
+      "root": "ז-כ-ר (자카르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"remember\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#remember)\" opacity=\"0.4\" /><path d=\"M 32 16 Q 24 24 24 32 Q 24 40 32 48 Q 40 40 40 32 Q 40 24 32 16 Z\" fill=\"#FF69B4\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#DC143C\" filter=\"drop-shadow(0 0 4px rgba(220, 20, 60, 0.6))\" /></svg>",
+      "relatedWords": [
+        "זָכַר (자카르 - 기억하다)",
+        "זִכָּרוֹן (지카론 - 기념)"
+      ]
+    },
+    {
+      "hebrew": "בְּרִיתִי",
+      "meaning": "나의 언약",
+      "ipa": "bəriˈti",
+      "korean": "베리티",
+      "letters": "בְּ(be) + רִי(ri) + תִי(ti)",
+      "root": "בְּרִית (베리트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"my_covenant\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"32\" rx=\"3\" fill=\"url(#my_covenant)\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"34\" x2=\"44\" y2=\"34\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"40\" x2=\"44\" y2=\"40\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"46\" x2=\"36\" y2=\"46\" stroke=\"#8B4513\" stroke-width=\"2\" /><circle cx=\"48\" cy=\"14\" r=\"8\" fill=\"#DC143C\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "בְּרִית (베리트 - 언약)",
+        "כָּרַת בְּרִית (카라트 베리트 - 언약을 맺다)"
+      ]
+    },
+    {
+      "hebrew": "נֶפֶשׁ",
+      "meaning": "생명",
+      "ipa": "ˈnɛpɛʃ",
+      "korean": "네페쉬",
+      "letters": "נֶ(ne) + פֶ(pe) + שׁ(sh)",
+      "root": "נ-פ-שׁ (나파쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"soul\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#soul)\" opacity=\"0.6\" /><path d=\"M 20 32 Q 26 24 32 28 Q 38 32 44 28\" stroke=\"#87CEEB\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "נְשָׁמָה (네샤마 - 숨, 생명)",
+        "חַי (하이 - 살아있는)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "육체, 고기",
+      "ipa": "baˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂ(sa) + ר(r)",
+      "root": "ב-שׂ-ר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flesh_all\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#flesh_all)\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"#FFA07A\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FA8072\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "גּוּף (구프 - 몸)",
+        "שְׁאֵר (쉐에르 - 살)"
+      ]
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "그 물들",
+      "ipa": "haˈmajim",
+      "korean": "하마임",
+      "letters": "הַ(ha) + מַּ(ma) + יִם(yim)",
+      "root": "מַיִם (마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"waters\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><rect x=\"0\" y=\"32\" width=\"64\" height=\"32\" fill=\"url(#waters)\" opacity=\"0.8\" /><path d=\"M 8 36 Q 16 32 24 36 Q 32 40 40 36 Q 48 32 56 36\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 8 44 Q 16 40 24 44 Q 32 48 40 44 Q 48 40 56 44\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מַיִם (마임 - 물)",
+        "יָם (얌 - 바다)"
+      ]
+    },
+    {
+      "hebrew": "לְמַבּוּל",
+      "meaning": "홍수로",
+      "ipa": "ləmabˈbul",
+      "korean": "레마불",
+      "letters": "לְ(le) + מַ(ma) + בּוּל(bul)",
+      "root": "מַבּוּל (마불)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flood_waters\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#191970\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient></defs><rect x=\"0\" y=\"24\" width=\"64\" height=\"40\" fill=\"url(#flood_waters)\" opacity=\"0.8\" /><path d=\"M 8 32 Q 16 28 24 32 Q 32 36 40 32 Q 48 28 56 32\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 8 40 Q 16 36 24 40 Q 32 44 40 40 Q 48 36 56 40\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><line x1=\"16\" y1=\"8\" x2=\"20\" y2=\"24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"4\" x2=\"36\" y2=\"24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"10\" x2=\"52\" y2=\"24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מַבּוּל (마불 - 대홍수)",
+        "שֶׁטֶף (쉐테프 - 범람)"
+      ]
+    },
+    {
+      "hebrew": "לְשַׁחֵת",
+      "meaning": "멸하기 위하여",
+      "ipa": "ləʃaˈχet",
+      "korean": "레샤헤트",
+      "letters": "לְ(le) + שַׁ(sha) + חֵת(khet)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"destroy_not\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#destroy_not)\" opacity=\"0.3\" /><path d=\"M 20 20 L 44 44\" stroke=\"#DC143C\" stroke-width=\"6\" stroke-linecap=\"round\" opacity=\"0.5\" /><path d=\"M 44 20 L 20 44\" stroke=\"#DC143C\" stroke-width=\"6\" stroke-linecap=\"round\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"#00FF00\" stroke-width=\"6\" opacity=\"0.7\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"#00FF00\" stroke-width=\"6\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שָׁחַת (샤하트 - 파괴하다)",
+        "הַשְׁחָתָה (하쉬하타 - 파멸)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아 언약의 클라이맥스입니다! 하나님은 '내가 기억하리니'라고 선언하십니다. 무지개는 사실 우리를 위한 것이 아니라 하나님 자신을 위한 것입니다. 하나님이 무지개를 보시고 당신의 언약을 기억하시겠다는 것입니다. 이는 놀라운 은혜의 선언입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְזָכַרְתִּי (베자카르티) - 내가 기억하리니",
+        "description": "성경에서 하나님이 '기억하신다'는 것은 단순한 회상이 아니라 행동을 의미합니다. 하나님이 노아를 '기억하셨을 때'(창 8:1) 홍수를 그치게 하셨고, 한나를 '기억하셨을 때'(삼상 1:19) 임신하게 하셨습니다. 하나님의 기억은 곧 개입과 구원입니다.",
+        "points": [
+          "하나님의 기억은 행동으로 이어집니다",
+          "무지개는 하나님 자신을 위한 상기물입니다",
+          "하나님은 당신의 약속을 결코 잊지 않으십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֶת-בְּרִיתִי (에트 베리티) - 나의 언약을",
+        "description": "'나의 언약'이라는 표현이 계속 반복됩니다(9:9, 9:11, 9:12, 9:15). 이는 언약이 하나님의 소유이며, 하나님의 성품에 근거함을 강조합니다. 우리의 신실함이 아니라 하나님의 신실하심이 언약의 보증입니다.",
+        "points": [
+          "언약은 하나님의 것입니다",
+          "우리의 행위가 아니라 하나님의 성품이 보증입니다",
+          "이것이 은혜 언약의 본질입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְלֹא-יִהְיֶה עוֹד (베로 이흐예 오드) - 다시는 없을 것이다",
+        "description": "'절대 아니다'라는 강한 부정이 다시 나타납니다. 하나님의 '아니오'는 확실합니다. 히브리서 6:18은 '하나님은 거짓말을 하실 수 없다'고 선언합니다. 하나님이 '다시는'이라고 하시면, 정말 다시는 없습니다.",
+        "points": [
+          "하나님의 부정은 절대적입니다",
+          "하나님은 약속을 어기실 수 없습니다",
+          "우리는 이 확실성에 평안을 누릴 수 있습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "언약의 완성 - 예수 그리스도",
+        "description": "노아 언약은 예수 그리스도 안에서 완성됩니다. 물로 심판받은 세상처럼, 우리는 죄로 인해 심판받아야 했습니다. 그러나 예수님은 우리 대신 그 심판을 받으셨습니다. 무지개가 '다시는 홍수가 없을 것'을 보증하듯, 십자가는 '다시는 정죄함이 없을 것'(롬 8:1)을 보증합니다.",
+        "points": [
+          "노아 언약은 그리스도를 예표합니다",
+          "십자가는 궁극적 언약의 표시입니다",
+          "우리는 그리스도 안에서 영원히 안전합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 '내가 기억하리니'라고 하셨을까요? 하나님도 잊어버리실 수 있나요?",
+      "answer": "아니요, 하나님은 절대 잊어버리지 않으세요! 하나님은 모든 것을 다 아시는 분이에요. 그런데 왜 '기억하리니'라고 하셨을까요? 이것은 하나님이 우리 언어로 말씀하시는 거예요. 마치 엄마가 '내가 너 데리러 올 거 잊지 않을게'라고 말하는 것처럼요. 엄마가 정말 잊을까봐가 아니라, 아이가 안심하도록 하는 거잖아요. 하나님도 우리가 안심하도록 '내가 절대 잊지 않을 거야, 약속할게!'라고 말씀하시는 거예요. 그리고 무지개를 보실 때마다 '맞아, 나는 약속했지. 다시는 홍수로 세상을 멸하지 않기로!'라고 확인하시는 거랍니다.",
+      "bibleReferences": [
+        "창세기 8:1 - '하나님이 노아와 그와 함께 방주에 있는 모든 들짐승과 가축을 기억하사 하나님이 바람을 땅 위에 불게 하시매 물이 줄어들었고'",
+        "출애굽기 2:24 - '하나님이 그들의 고통 소리를 들으시고 하나님이 아브라함과 이삭과 야곱에게 세운 그의 언약을 기억하사'",
+        "시편 105:8 - '그는 그의 언약 곧 천 대에 걸쳐 명령하신 말씀을 영원히 기억하셨으니'",
+        "이사야 49:15-16 - '여인이 어찌 그 젖 먹는 자식을 잊겠으며 자기 태에서 난 아들을 긍휼히 여기지 않겠느냐 그들은 혹시 잊을지라도 나는 너를 잊지 아니할 것이라 내가 너를 내 손바닥에 새겼고'",
+        "누가복음 1:72 - '우리 조상을 긍휼히 여기시며 그 거룩한 언약을 기억하셨으니'",
+        "히브리서 6:18 - '이는 하나님이 거짓말을 하실 수 없는 이 두 가지 변하지 못할 사실로 말미암아 앞에 있는 소망을 얻으려고 피난처를 찾은 우리에게 큰 안위를 받게 하려 하심이라'",
+        "로마서 8:1 - '그러므로 이제 그리스도 예수 안에 있는 자에게는 결코 정죄함이 없나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:15는 노아 언약의 완성이자 모든 언약 신학의 모델입니다. '내가 기억하리니'라는 하나님의 선언은 언약의 확실성을 보증합니다. 흥미롭게도 무지개는 우리를 위한 것이기도 하지만(우리가 보고 안심함) 동시에 하나님을 위한 것이기도 합니다(하나님이 보시고 기억하심). 이는 언약이 쌍방향 관계임을 보여줍니다. 그러나 궁극적 책임은 하나님께 있습니다 - 우리가 기억하지 못해도 하나님은 기억하십니다. 이 원리는 구속사 전체에 적용됩니다. 이스라엘이 언약을 잊어도 하나님은 기억하셨고(출 2:24), 교회가 신실하지 못해도 하나님은 신실하십니다(딤후 2:13). 노아 언약은 그리스도 안에서 완성되어, 이제 우리에게는 '다시는 정죄함이 없습니다'(롬 8:1). 십자가는 하나님의 궁극적 '기억'의 표시입니다 - 하나님은 우리를 위한 당신의 사랑의 약속을 영원히 기억하십니다."
+    }
+  }
+}

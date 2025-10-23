@@ -1,0 +1,143 @@
+{
+  "id": "genesis_11_28",
+  "reference": "창세기 11:28",
+  "hebrew": "וַיָּמָת הָרָן עַל-פְּנֵי תֶּרַח אָבִיו בְּאֶרֶץ מוֹלַדְתּוֹ בְּאוּר כַּשְׂדִּים.",
+  "ipa": "vajˈjamat haˈran ʕal pəˈne ˈtɛraħ ʔaˈviv bəˈʔɛrɛts moladˈto bəˈʔur kasˈdim",
+  "koreanPronunciation": "바야마트 하란 알 페네 테라흐 아비브 베에레츠 몰라드토 베우르 카스딤",
+  "modern": "하란은 그의 아버지 데라보다 먼저 그의 고향 갈대아의 우르에서 죽었습니다",
+  "words": [
+    {
+      "hebrew": "וַיָּמָת",
+      "meaning": "죽었다",
+      "ipa": "vajˈjamat",
+      "korean": "바야마트",
+      "letters": "וַ(va) + יָּ(ya) + מָ(ma) + ת(t)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "emoji": "⚰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#424242\"/><stop offset=\"100%\" stop-color=\"#212121\"/></linearGradient><radialGradient id=\"haran28-shadow1\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.5\"/><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"8\" fill=\"url(#haran28-shadow1)\"/><rect x=\"16\" y=\"32\" width=\"32\" height=\"20\" rx=\"2\" fill=\"url(#haran28-death1)\" filter=\"drop-shadow(0 4px 8px rgba(0,0,0,0.5))\"/><path d=\"M 28 38 L 28 46 M 32 34 L 32 46 M 36 38 L 36 46\" stroke=\"#757575\" stroke-width=\"1.5\"/><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"#616161\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "מָוֶת (마벳 - 죽음)",
+        "מֵת (메트 - 죽은 자)"
+      ]
+    },
+    {
+      "hebrew": "עַל-פְּנֵי",
+      "meaning": "~보다 먼저, ~앞에서",
+      "ipa": "ʕal pəˈne",
+      "korean": "알 페네",
+      "letters": "עַל(al) + פְּנֵי(pene)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C92A2A\"/></linearGradient><radialGradient id=\"haran28-clock1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#E0E0E0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#haran28-clock1)\" stroke=\"url(#haran28-time1)\" stroke-width=\"3\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#haran28-time1)\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"url(#haran28-time1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#haran28-time1)\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M 48 10 L 54 16 L 48 22\" fill=\"none\" stroke=\"#FF6B6B\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "אָבִיו",
+      "meaning": "그의 아버지",
+      "ipa": "ʔaˈviv",
+      "korean": "아비브",
+      "letters": "אָ(a) + בִ(vi) + יו(v)",
+      "root": "אָב (아브)",
+      "grammar": "명사",
+      "emoji": "👨‍🦳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-father1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6D4C41\"/><stop offset=\"100%\" stop-color=\"#3E2723\"/></linearGradient><radialGradient id=\"haran28-wisdom1\"><stop offset=\"0%\" stop-color=\"#FFF8E1\"/><stop offset=\"100%\" stop-color=\"#FFD54F\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-wisdom1)\"/><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#haran28-father1)\" filter=\"drop-shadow(0 3px 6px rgba(0,0,0,0.4))\"/><path d=\"M 14 50 Q 23 38 32 38 Q 41 38 50 50\" fill=\"url(#haran28-father1)\" stroke=\"#6D4C41\" stroke-width=\"2\"/><path d=\"M 26 20 Q 28 18 32 18 Q 36 18 38 20\" stroke=\"#E0E0E0\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אָבוֹת (아보트 - 조상들)"
+      ]
+    },
+    {
+      "hebrew": "מוֹלַדְתּוֹ",
+      "meaning": "그의 출생지, 고향",
+      "ipa": "moladˈto",
+      "korean": "몰라드토",
+      "letters": "מוֹ(mo) + לַ(la) + דְ(d) + תּוֹ(to)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "명사",
+      "emoji": "🏠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-home1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#5D4037\"/></linearGradient><linearGradient id=\"haran28-roof1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D84315\"/><stop offset=\"100%\" stop-color=\"#BF360C\"/></linearGradient><radialGradient id=\"haran28-warmth1\"><stop offset=\"0%\" stop-color=\"#FFE082\"/><stop offset=\"100%\" stop-color=\"#FFA726\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-warmth1)\"/><path d=\"M 32 12 L 52 28 L 48 28 L 48 52 L 16 52 L 16 28 L 12 28 Z\" fill=\"url(#haran28-roof1)\" filter=\"drop-shadow(0 4px 8px rgba(0,0,0,0.4))\"/><rect x=\"20\" y=\"32\" width=\"24\" height=\"20\" fill=\"url(#haran28-home1)\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#4E342E\"/><rect x=\"36\" y=\"36\" width=\"6\" height=\"6\" fill=\"#64B5F6\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "לֵדָה (레다 - 출산)"
+      ]
+    },
+    {
+      "hebrew": "אוּר כַּשְׂדִּים",
+      "meaning": "갈대아의 우르",
+      "ipa": "ʔur kasˈdim",
+      "korean": "우르 카스딤",
+      "letters": "אוּר(ur) + כַּשְׂדִּים(kasdim)",
+      "root": "אוּר (우르) + כַּשְׂדִּים (카스딤)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran28-ur1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient><linearGradient id=\"haran28-ziggurat1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD853F\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><radialGradient id=\"haran28-desert1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#haran28-desert1)\"/><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#haran28-ziggurat1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><rect x=\"18\" y=\"36\" width=\"28\" height=\"8\" fill=\"url(#haran28-ziggurat1)\" opacity=\"0.9\"/><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"url(#haran28-ziggurat1)\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"url(#haran28-ur1)\" filter=\"drop-shadow(0 2px 4px rgba(212,175,55,0.6))\"/></svg>",
+      "relatedWords": [
+        "כַּשְׂדִּים (카스딤 - 갈대아인)",
+        "בָּבֶל (바벨 - 바벨론)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 28절은 하란의 조기 사망을 기록하며, 이는 자연스러운 순서를 거스르는 비극적 사건입니다. 아들이 아버지보다 먼저 죽는 것은 고대 근동 문화에서 특별히 슬픈 일로 여겨졌으며, 이는 데라 가족의 이주 동기와 롯이 아브람의 보호 아래 놓이게 되는 배경을 설명합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיָּמָת הָרָן עַל-פְּנֵי תֶּרַח (바야마트 하란 알 페네 테라흐) - 자연스러운 순서의 파괴",
+        "description": "'알 페네'는 문자적으로 '~의 얼굴 앞에서'를 의미하며, 아버지가 살아있는 동안 아들이 죽었음을 강조합니다. 이는 단순한 연대기적 순서가 아니라 부모가 자식의 죽음을 목격하는 비극을 나타냅니다.",
+        "points": [
+          "고대 근동에서 자식이 부모보다 먼저 죽는 것은 큰 불행으로 여겨졌습니다",
+          "하란의 조기 사망은 데라 가족에게 깊은 슬픔을 가져왔을 것입니다",
+          "이 사건은 후에 데라가 우르를 떠나는 동기 중 하나가 되었을 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בְּאֶרֶץ מוֹלַדְתּוֹ (베에레츠 몰라드토) - 고향 땅에서의 죽음",
+        "description": "'몰라드토'는 '태어난 땅'을 의미하며, 하란이 그가 태어나고 자란 고향에서 생을 마감했음을 보여줍니다. 이는 아브람이 후에 이 땅을 떠나 약속의 땅으로 가게 될 것과 대조를 이룹니다.",
+        "points": [
+          "하란은 고향을 떠나지 못하고 그곳에서 죽었습니다",
+          "이는 아브람이 하나님의 부르심에 순종하여 고향을 떠날 것과 대조됩니다",
+          "고향에서의 죽음은 그의 인생이 출발점을 벗어나지 못했음을 암시합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּאוּר כַּשְׂדִּים (베우르 카스딤) - 갈대아의 우르",
+        "description": "우르는 고대 메소포타미아의 중요한 도시로, 달의 신 난나(Sin)를 숭배하는 중심지였습니다. '갈대아의 우르'라는 표현은 지리적 위치와 함께 우상 숭배의 문화적 배경을 암시합니다.",
+        "points": [
+          "우르는 고도로 발달한 문명과 우상 숭배의 중심지였습니다",
+          "하나님은 이런 배경 속에서도 아브람을 부르셨습니다",
+          "우르를 떠나는 것은 단순한 이주가 아니라 우상 숭배로부터의 분리를 의미했습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יָתוֹם (야톰) - 롯의 고아 됨과 하나님의 섭리",
+        "description": "하란의 죽음으로 롯은 고아가 되어 삼촌 아브람의 보호 아래 놓이게 됩니다. 이는 우연이 아니라 하나님의 섭리로, 롯이 아브람과 함께 가나안으로 가게 되는 배경이 됩니다.",
+        "points": [
+          "비극적 사건 속에서도 하나님의 섭리가 작동합니다",
+          "롯은 아브람의 보호 아래서 약속의 땅으로 가게 됩니다",
+          "인간의 슬픔과 하나님의 계획이 동시에 존재할 수 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 하란이 젊은 나이에 죽도록 허락하셨을까요?",
+      "answer": "성경은 하란이 왜 일찍 죽었는지 자세히 말해주지 않아요. 하지만 우리가 알 수 있는 것은, 슬픈 일이 생겨도 하나님은 여전히 우리를 돌보신다는 거예요. 하란이 죽은 후 그의 아들 롯은 삼촌 아브람이 돌봐주었고, 롯도 하나님의 축복을 받았어요. 때로는 우리가 이해할 수 없는 일이 생기지만, 하나님은 그 모든 것을 통해서도 좋은 일을 하실 수 있는 분이랍니다.",
+      "bibleReferences": [
+        "로마서 8:28 - '우리가 알거니와 하나님을 사랑하는 자 곧 그의 뜻대로 부르심을 입은 자들에게는 모든 것이 합력하여 선을 이루느니라'",
+        "시편 34:18 - '여호와는 마음이 상한 자에게 가까이 하시고'",
+        "시편 68:5 - '하나님은 그의 거룩한 처소에 계시며 고아의 아버지시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하란의 조기 사망은 타락한 세상에서의 죽음의 현실을 보여주지만, 동시에 이런 비극 속에서도 하나님의 구원 계획은 계속됨을 보여줍니다. 고향 우르에서의 죽음은 아브람이 곧 떠나게 될 출애굽의 예표이며, 롯의 고아 됨은 하나님이 고아와 과부를 돌보시는 분임을 암시합니다. 우리의 슬픔과 상실 속에서도 하나님의 섭리는 멈추지 않습니다."
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "genesis_3_18",
+  "reference": "창세기 3:18",
+  "hebrew": "וְקוֹץ וְדַרְדַּר, תַּצְמִיחַ לָךְ; וְאָכַלְתָּ, אֶת-עֵשֶׂב הַשָּׂדֶה.",
+  "ipa": "vəˈkoʦ vədardaˈr taʦˈmiaχ laχ vəʔaˈχalta ʔɛt ˈɛsɛv hasaˈdɛ",
+  "koreanPronunciation": "베코츠 베다르다르 타츠미아흐 라흐 베아할타 에트 에세브 하사데",
+  "modern": "땅이 네게 가시와 엉겅퀴를 낼 것이며, 너는 들의 채소를 먹을 것이다",
+  "words": [
+    {
+      "hebrew": "וְקוֹץ",
+      "meaning": "그리고 가시",
+      "ipa": "vəˈkoʦ",
+      "korean": "베코츠",
+      "letters": "וְ(ve) + קוֹ(ko) + ץ(ts)",
+      "root": "קוֹץ (코츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"thorn1_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"30%\" stop-color=\"#A0522D\" /><stop offset=\"70%\" stop-color=\"#CD853F\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><radialGradient id=\"danger1_318\"><stop offset=\"0%\" stop-color=\"#FF4500\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#DC143C\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#8B0000\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"spike1_318\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"50%\" stop-color=\"#808080\" /><stop offset=\"100%\" stop-color=\"#A9A9A9\" /></linearGradient><linearGradient id=\"pain1_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#danger1_318)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#pain1_318)\" opacity=\"0.2\" /><path d=\"M 32 52 Q 28 48 28 42 Q 28 36 32 32 Q 36 36 36 42 Q 36 48 32 52 Z\" fill=\"url(#thorn1_318)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.9\" /><g><path d=\"M 32 32 L 28 20 L 30 32 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /><path d=\"M 32 32 L 36 20 L 34 32 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /><path d=\"M 32 32 L 22 28 L 32 30 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /><path d=\"M 32 32 L 42 28 L 32 30 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /><path d=\"M 32 32 L 24 36 L 32 34 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /><path d=\"M 32 32 L 40 36 L 32 34 Z\" fill=\"url(#spike1_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.5))\" /></g><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#thorn1_318)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.6))\" /><g opacity=\"0.7\"><line x1=\"32\" y1=\"26\" x2=\"32\" y2=\"16\" stroke=\"#696969\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"38\" x2=\"32\" y2=\"48\" stroke=\"#696969\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"26\" y1=\"32\" x2=\"16\" y2=\"32\" stroke=\"#696969\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"38\" y1=\"32\" x2=\"48\" y2=\"32\" stroke=\"#696969\" stroke-width=\"2\" stroke-linecap=\"round\" /></g><circle cx=\"32\" cy=\"18\" r=\"2\" fill=\"#DC143C\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(220, 20, 60, 0.8))\" /><circle cx=\"32\" cy=\"46\" r=\"2\" fill=\"#DC143C\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(220, 20, 60, 0.8))\" /></svg>",
+      "relatedWords": [
+        "חוֹחַ (호아흐 - 찔레나무)",
+        "סִלּוֹן (실론 - 가시)"
+      ]
+    },
+    {
+      "hebrew": "וְדַרְדַּר",
+      "meaning": "그리고 엉겅퀴",
+      "ipa": "vədardaˈr",
+      "korean": "베다르다르",
+      "letters": "וְ(ve) + דַר(dar) + דַּר(dar)",
+      "root": "דַּרְדַּר (다르다르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"thistle2_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"30%\" stop-color=\"#8B008B\" /><stop offset=\"70%\" stop-color=\"#800080\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient><radialGradient id=\"weed2_318\"><stop offset=\"0%\" stop-color=\"#DDA0DD\" stop-opacity=\"0.7\" /><stop offset=\"50%\" stop-color=\"#9370DB\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#4B0082\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"stem2_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B8E23\" /><stop offset=\"50%\" stop-color=\"#556B2F\" /><stop offset=\"100%\" stop-color=\"#3C5A14\" /></linearGradient><linearGradient id=\"barb2_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#weed2_318)\" /><rect x=\"30\" y=\"28\" width=\"4\" height=\"28\" rx=\"2\" fill=\"url(#stem2_318)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><g><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#thistle2_318)\" filter=\"drop-shadow(0 3px 6px rgba(139, 0, 139, 0.6))\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#thistle2_318)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#9370DB\" opacity=\"0.6\" /></g><g opacity=\"0.8\"><path d=\"M 32 20 L 26 14 L 28 20 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 20 L 38 14 L 36 20 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 20 L 24 20 L 28 22 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 20 L 40 20 L 36 22 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 20 L 28 26 L 30 20 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 20 L 36 26 L 34 20 Z\" fill=\"url(#barb2_318)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.4))\" /></g><g><line x1=\"26\" y1=\"36\" x2=\"22\" y2=\"32\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /><line x1=\"38\" y1=\"36\" x2=\"42\" y2=\"32\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /><line x1=\"26\" y1=\"42\" x2=\"20\" y2=\"40\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /><line x1=\"38\" y1=\"42\" x2=\"44\" y2=\"40\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /><line x1=\"26\" y1=\"48\" x2=\"22\" y2=\"48\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /><line x1=\"38\" y1=\"48\" x2=\"42\" y2=\"48\" stroke=\"url(#barb2_318)\" stroke-width=\"2\" /></g><circle cx=\"32\" cy=\"16\" r=\"2\" fill=\"#DDA0DD\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(221, 160, 221, 0.8))\" /></svg>",
+      "relatedWords": [
+        "עֵשֶׂב (에세브 - 풀, 잡초)",
+        "שִׁית (쉬트 - 가시나무)"
+      ]
+    },
+    {
+      "hebrew": "תַּצְמִיחַ",
+      "meaning": "낼 것이다, 자라게 할 것이다",
+      "ipa": "taʦˈmiaχ",
+      "korean": "타츠미아흐",
+      "letters": "תַּ(ta) + צְ(ts) + מִי(mi) + חַ(ach)",
+      "root": "צ-מ-ח (차마흐)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"grow3_318\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"30%\" stop-color=\"#6B8E23\" /><stop offset=\"70%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#00FF7F\" /></linearGradient><radialGradient id=\"sprout3_318\"><stop offset=\"0%\" stop-color=\"#ADFF2F\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#7FFF00\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#32CD32\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"soil3_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#654321\" /><stop offset=\"100%\" stop-color=\"#3E2723\" /></linearGradient><linearGradient id=\"leaf3_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#3CB371\" /><stop offset=\"100%\" stop-color=\"#2E8B57\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#sprout3_318)\" /><rect x=\"0\" y=\"44\" width=\"64\" height=\"20\" fill=\"url(#soil3_318)\" opacity=\"0.6\" /><path d=\"M 32 54 Q 30 48 30 42 Q 30 36 32 30 Q 34 36 34 42 Q 34 48 32 54\" fill=\"url(#grow3_318)\" stroke=\"#6B8E23\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><g><ellipse cx=\"26\" cy=\"32\" rx=\"8\" ry=\"6\" fill=\"url(#leaf3_318)\" transform=\"rotate(-30 26 32)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><path d=\"M 26 32 Q 24 30 22 32\" stroke=\"#2E8B57\" stroke-width=\"1.5\" fill=\"none\" /></g><g><ellipse cx=\"38\" cy=\"32\" rx=\"8\" ry=\"6\" fill=\"url(#leaf3_318)\" transform=\"rotate(30 38 32)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><path d=\"M 38 32 Q 40 30 42 32\" stroke=\"#2E8B57\" stroke-width=\"1.5\" fill=\"none\" /></g><g><ellipse cx=\"28\" cy=\"24\" rx=\"7\" ry=\"5\" fill=\"url(#leaf3_318)\" transform=\"rotate(-40 28 24)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /><ellipse cx=\"36\" cy=\"24\" rx=\"7\" ry=\"5\" fill=\"url(#leaf3_318)\" transform=\"rotate(40 36 24)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /></g><circle cx=\"32\" cy=\"18\" r=\"4\" fill=\"#ADFF2F\" filter=\"drop-shadow(0 0 6px rgba(173, 255, 47, 0.8))\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"18\" r=\"2\" fill=\"#00FF7F\" opacity=\"0.9\" /><g opacity=\"0.5\"><line x1=\"28\" y1=\"48\" x2=\"26\" y2=\"52\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"36\" y1=\"48\" x2=\"38\" y2=\"52\" stroke=\"#8B4513\" stroke-width=\"1.5\" /></g></svg>",
+      "relatedWords": [
+        "צֶמַח (체마흐 - 싹, 자람)",
+        "צְמִיחָה (체미하 - 성장)"
+      ]
+    },
+    {
+      "hebrew": "לָךְ",
+      "meaning": "네게",
+      "ipa": "laχ",
+      "korean": "라흐",
+      "letters": "לָ(la) + ךְ(ch)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point4_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFA07A\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></linearGradient><radialGradient id=\"focus4_318\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#FF6347\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#DC143C\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"arrow4_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"hand4_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#focus4_318)\" /><circle cx=\"44\" cy=\"32\" r=\"18\" fill=\"url(#focus4_318)\" opacity=\"0.6\" /><path d=\"M 12 32 L 40 32 L 36 28 M 40 32 L 36 36\" stroke=\"url(#arrow4_318)\" stroke-width=\"5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(255, 140, 0, 0.5))\" /><g transform=\"translate(42, 26)\"><path d=\"M 0 0 L 12 6 L 8 6 L 8 12 L 4 12 L 4 6 L 0 6 Z\" fill=\"url(#point4_318)\" filter=\"drop-shadow(2px 2px 4px rgba(220, 20, 60, 0.5))\" /><path d=\"M 4 6 L 8 6 L 8 10 L 4 10 Z\" fill=\"#DC143C\" opacity=\"0.6\" /></g><ellipse cx=\"16\" cy=\"32\" rx=\"6\" ry=\"8\" fill=\"url(#hand4_318)\" opacity=\"0.8\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"28\" r=\"2\" fill=\"#F4A460\" opacity=\"0.7\" /><g opacity=\"0.6\"><circle cx=\"48\" cy=\"20\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><circle cx=\"52\" cy=\"32\" r=\"2.5\" fill=\"#FFA500\" filter=\"drop-shadow(0 0 3px rgba(255, 165, 0, 0.6))\" /><circle cx=\"48\" cy=\"44\" r=\"2\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 3px rgba(255, 99, 71, 0.6))\" /></g></svg>"
+    },
+    {
+      "hebrew": "וְאָכַלְתָּ",
+      "meaning": "그리고 너는 먹을 것이다",
+      "ipa": "vəʔaˈχalta",
+      "korean": "베아할타",
+      "letters": "וְ(ve) + אָ(a) + כַל(chal) + תָּ(ta)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eat5_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"70%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient><radialGradient id=\"hunger5_318\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"plate5_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"50%\" stop-color=\"#C0C0C0\" /><stop offset=\"100%\" stop-color=\"#A9A9A9\" /></linearGradient><linearGradient id=\"food5_318\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#3CB371\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#hunger5_318)\" /><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"16\" fill=\"url(#plate5_318)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"#F5F5F5\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#plate5_318)\" opacity=\"0.3\" /><g><circle cx=\"28\" cy=\"32\" r=\"5\" fill=\"url(#food5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /><circle cx=\"36\" cy=\"32\" r=\"5\" fill=\"url(#food5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /><circle cx=\"32\" cy=\"38\" r=\"4\" fill=\"url(#food5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /><circle cx=\"24\" cy=\"38\" r=\"3\" fill=\"url(#food5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"38\" r=\"3\" fill=\"url(#food5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /></g><g transform=\"translate(48, 20)\"><rect x=\"-1\" y=\"0\" width=\"2\" height=\"18\" rx=\"1\" fill=\"url(#eat5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.4))\" /><path d=\"M -4 0 L -1 4 L 2 0\" fill=\"url(#eat5_318)\" /><circle cx=\"0\" cy=\"-2\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /></g><g transform=\"translate(16, 20)\"><rect x=\"-1\" y=\"0\" width=\"2\" height=\"16\" rx=\"1\" fill=\"url(#eat5_318)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.4))\" /><line x1=\"-3\" y1=\"0\" x2=\"-3\" y2=\"8\" stroke=\"url(#eat5_318)\" stroke-width=\"1.5\" /><line x1=\"3\" y1=\"0\" x2=\"3\" y2=\"8\" stroke=\"url(#eat5_318)\" stroke-width=\"1.5\" /><line x1=\"-2\" y1=\"0\" x2=\"-2\" y2=\"10\" stroke=\"url(#eat5_318)\" stroke-width=\"1.5\" /><line x1=\"2\" y1=\"0\" x2=\"2\" y2=\"10\" stroke=\"url(#eat5_318)\" stroke-width=\"1.5\" /></g><circle cx=\"32\" cy=\"28\" r=\"1.5\" fill=\"#228B22\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"34\" r=\"1.5\" fill=\"#228B22\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "מַאֲכָל (마아칼 - 음식)",
+        "לֶחֶם (레헴 - 빵)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-עֵשֶׂב הַשָּׂדֶה",
+      "meaning": "들의 채소를",
+      "ipa": "ʔɛt ˈɛsɛv hasaˈdɛ",
+      "korean": "에트 에세브 하사데",
+      "letters": "אֶת(et) + עֵ(e) + שֶׂב(sev) + הַ(ha) + שָּׂ(sa) + דֶה(deh)",
+      "root": "עֵשֶׂב (에세브) + שָׂדֶה (사데)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"herb6_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ADFF2F\" /><stop offset=\"30%\" stop-color=\"#7FFF00\" /><stop offset=\"70%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"field6_318\"><stop offset=\"0%\" stop-color=\"#F0FFF0\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#90EE90\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#2E8B57\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"ground6_318\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\" /><stop offset=\"50%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"wild6_318\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B8E23\" /><stop offset=\"50%\" stop-color=\"#9ACD32\" /><stop offset=\"100%\" stop-color=\"#ADFF2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#field6_318)\" /><rect x=\"0\" y=\"48\" width=\"64\" height=\"16\" fill=\"url(#ground6_318)\" opacity=\"0.4\" /><g><path d=\"M 20 48 Q 18 40 18 32 Q 18 24 20 18\" stroke=\"url(#herb6_318)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"16\" cy=\"28\" rx=\"4\" ry=\"8\" fill=\"url(#wild6_318)\" transform=\"rotate(-20 16 28)\" opacity=\"0.8\" /><ellipse cx=\"18\" cy=\"20\" rx=\"3\" ry=\"6\" fill=\"url(#wild6_318)\" transform=\"rotate(-30 18 20)\" opacity=\"0.8\" /></g><g><path d=\"M 32 52 Q 32 44 32 36 Q 32 28 32 16\" stroke=\"url(#herb6_318)\" stroke-width=\"3.5\" fill=\"none\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"28\" cy=\"26\" rx=\"5\" ry=\"10\" fill=\"url(#wild6_318)\" transform=\"rotate(-15 28 26)\" opacity=\"0.85\" /><ellipse cx=\"36\" cy=\"26\" rx=\"5\" ry=\"10\" fill=\"url(#wild6_318)\" transform=\"rotate(15 36 26)\" opacity=\"0.85\" /><ellipse cx=\"30\" cy=\"18\" rx=\"4\" ry=\"8\" fill=\"url(#wild6_318)\" transform=\"rotate(-25 30 18)\" opacity=\"0.8\" /><ellipse cx=\"34\" cy=\"18\" rx=\"4\" ry=\"8\" fill=\"url(#wild6_318)\" transform=\"rotate(25 34 18)\" opacity=\"0.8\" /></g><g><path d=\"M 44 48 Q 46 40 46 32 Q 46 24 44 20\" stroke=\"url(#herb6_318)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"48\" cy=\"30\" rx=\"4\" ry=\"8\" fill=\"url(#wild6_318)\" transform=\"rotate(20 48 30)\" opacity=\"0.8\" /><ellipse cx=\"46\" cy=\"22\" rx=\"3\" ry=\"6\" fill=\"url(#wild6_318)\" transform=\"rotate(30 46 22)\" opacity=\"0.8\" /></g><g opacity=\"0.6\"><circle cx=\"24\" cy=\"16\" r=\"2\" fill=\"#7FFF00\" filter=\"drop-shadow(0 0 4px rgba(127, 255, 0, 0.8))\" /><circle cx=\"32\" cy=\"12\" r=\"2\" fill=\"#7FFF00\" filter=\"drop-shadow(0 0 4px rgba(127, 255, 0, 0.8))\" /><circle cx=\"40\" cy=\"18\" r=\"2\" fill=\"#7FFF00\" filter=\"drop-shadow(0 0 4px rgba(127, 255, 0, 0.8))\" /></g><path d=\"M 12 52 Q 16 48 20 52\" stroke=\"#6B8E23\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 44 52 Q 48 48 52 52\" stroke=\"#6B8E23\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3:18은 하나님이 아담에게 선포하신 저주의 일부로, 땅이 가시와 엉겅퀴를 낼 것이라는 선언입니다. 이전에 아름답고 풍요로웠던 에덴동산과는 달리, 이제 땅은 인간의 노동에 저항하며 고통을 주는 환경이 됩니다. 이는 죄의 결과가 단순히 영적인 차원에만 머무르지 않고, 물리적 세계 전체에 영향을 미쳤음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְקוֹץ וְדַרְדַּר (베코츠 베다르다르) - 가시와 엉겅퀴",
+        "description": "히브리어 '코츠'(가시)와 '다르다르'(엉겅퀴)는 쓸모없고 고통을 주는 식물을 의미합니다. 이 두 단어의 반복은 땅이 이제 인간에게 적대적이 되었음을 강조합니다. 에덴동산에서는 모든 나무가 보기에 아름답고 먹기에 좋았지만(창 2:9), 이제 땅은 인간을 방해하는 해로운 식물들을 낼 것입니다.",
+        "points": [
+          "가시와 엉겅퀴는 죄의 결과로 인한 저주의 상징입니다",
+          "땅은 더 이상 자동으로 풍요를 내지 않고 인간의 노동에 저항합니다",
+          "예수님이 쓰신 가시 면류관(요 19:2)은 이 저주를 대신 지신 상징입니다",
+          "식물 세계까지도 인간의 타락으로 인해 영향을 받았습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תַּצְמִיחַ לָךְ (타츠미아흐 라흐) - 네게 낼 것이다",
+        "description": "'타츠미아흐'는 '자라게 하다', '돋아나게 하다'를 의미하는 동사 '차마흐'에서 파생되었습니다. 땅이 주어(subject)가 되어 인간에게 가시와 엉겅퀴를 '낼 것'이라는 표현은, 창조 질서가 뒤틀렸음을 보여줍니다. 이전에는 하나님이 땅으로 하여금 좋은 것을 내게 하셨지만, 이제는 땅 자체가 인간에게 고통을 주는 존재가 되었습니다.",
+        "points": [
+          "땅은 더 이상 수동적으로 축복을 주지 않고 능동적으로 저주를 냅니다",
+          "자연 세계가 인간의 죄로 인해 왜곡되었음을 보여줍니다",
+          "로마서 8:20-22의 '피조물이 허무한 데 굴복'의 배경이 됩니다",
+          "인간과 자연의 관계가 조화에서 갈등으로 변했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְאָכַלְתָּ אֶת-עֵשֶׂב הַשָּׂדֶה (베아할타 에트 에세브 하사데) - 들의 채소를 먹을 것이다",
+        "description": "아담은 이제 '들의 채소'를 먹어야 합니다. 이는 에덴동산의 풍성한 열매와 대조됩니다. '에세브'는 단순한 풀이나 채소를 의미하며, 동산의 나무 열매보다 질이 낮은 식량입니다. 인간은 이제 땀 흘려 일해야만 겨우 먹고 살 수 있는 존재가 되었습니다.",
+        "points": [
+          "에덴동산의 풍요로운 나무 열매에서 들의 단순한 채소로 강등되었습니다",
+          "노동 없이 주어지던 축복이 이제 수고와 땀으로 얻어야 하는 것으로 바뀌었습니다",
+          "인간의 식단이 제한되고 단순해졌음을 보여줍니다",
+          "그러나 하나님은 여전히 인간이 먹고 살 수 있도록 공급하십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "저주 가운데서도 남아있는 은혜",
+        "description": "이 구절은 비록 저주를 담고 있지만, 동시에 하나님의 은혜도 드러냅니다. 땅이 가시와 엉겅퀴를 낼지라도, 여전히 '들의 채소'를 제공하여 인간이 생존할 수 있게 합니다. 하나님은 심판 가운데서도 인간을 완전히 버리지 않으시고 살 길을 주십니다.",
+        "points": [
+          "저주 속에서도 하나님의 공급하심은 계속됩니다",
+          "땅은 적대적이지만 여전히 식량을 제공합니다",
+          "이는 그리스도를 통한 궁극적 회복의 희망을 암시합니다",
+          "심판과 은혜가 공존하는 하나님의 성품을 보여줍니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 땅이 가시와 엉겅퀴를 내게 하셨을까요?",
+      "answer": "아담과 하와가 하나님께 불순종했기 때문이에요. 하나님은 아담에게 에덴동산을 돌보라고 주셨고, 그곳은 아름다운 나무와 맛있는 열매가 가득했어요. 하지만 아담이 죄를 지은 후, 땅도 저주를 받게 되었어요. 이제 땅은 좋은 것만 주는 게 아니라 찔리고 아픈 가시와 엉겅퀴도 내게 되었답니다. 마치 우리가 잘못을 하면 좋았던 것들이 어려워지는 것처럼요. 하지만 하나님은 여전히 아담이 먹을 수 있는 채소를 주셔서 살 수 있게 하셨어요. 그리고 나중에 예수님이 오셔서 가시 면류관을 쓰심으로 이 저주를 대신 받아주셨답니다.",
+      "bibleReferences": [
+        "로마서 8:20-22 - 피조물이 허무한 데 굴복하는 것은 자기 뜻이 아니요 오직 굴복하게 하시는 이로 말미암음이라",
+        "요한복음 19:2 - 군인들이 가시나무로 관을 엮어 그의 머리에 씌우고",
+        "히브리서 6:8 - 만일 가시와 엉겅퀴를 내면 버림을 당하고 저주함에 가까워 그 마지막은 불사름이 되리라",
+        "요한계시록 22:3 - 다시 저주가 없으며 하나님과 그 어린 양의 보좌가 그 가운데에 있으리라"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:18의 가시와 엉겅퀴는 죄의 결과가 영적 영역을 넘어 물리적 세계 전체에 미쳤음을 보여줍니다. 땅은 더 이상 인간에게 자동으로 풍요를 제공하지 않고, 인간의 노동은 고통과 좌절을 동반하게 되었습니다. 그러나 예수 그리스도께서 십자가에서 가시 면류관을 쓰심으로 이 저주를 대신 지셨고, 궁극적으로는 새 하늘과 새 땅에서 '다시 저주가 없게'(계 22:3) 하셨습니다. 이 구절은 우리에게 죄의 심각성과 그리스도의 구속의 필요성을 상기시키며, 창조 세계의 회복에 대한 소망을 품게 합니다. 우리는 지금도 이 저주 아래 살지만, 그리스도 안에서 회복의 첫 열매를 맛보며 완전한 회복을 기다립니다."
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": "genesis_4_15",
+  "reference": "창세기 4:15",
+  "hebrew": "",
+  "ipa": "vajˈjomɛr lo jəhoˈva laˈxen kol hoˈreg ˈkajin ʃivəˈtajim juˈkam vaˈjasɛm jəhoˈva ləˈkajin ʔot ləvilˈti haˈkot ʔoˈto kol moʦəˈʔo",
+  "koreanPronunciation": "바요메르 로 예호와 라헨 콜 호레그 카인 쉬베타임 유캄 바야셈 예호와 레카인 오트 레빌티 하코트 오토 콜 모체오",
+  "modern": "여호와께서 그에게 말씀하시기를 '그러므로 가인을 죽이는 자는 누구든지 칠 배의 벌을 받을 것이다' 하시고, 여호와께서 가인에게 표를 주시니, 이는 그를 만나는 누구든지 그를 치지 못하게 하심이었습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech2)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#speech2)\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/></svg>"
+    },
+    {
+      "hebrew": "לוֹ",
+      "meaning": "그에게",
+      "ipa": "lo",
+      "korean": "로",
+      "letters": "לוֹ(lo)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"to1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 16 32 L 40 32\" stroke=\"url(#to1)\" stroke-width=\"4\" marker-end=\"url(#arrow15)\"/><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#to1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><defs><marker id=\"arrow15\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈva",
+      "korean": "예호와",
+      "letters": "יְ(ye) + הוָה(hovah)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh3\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh3)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam3)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+    },
+    {
+      "hebrew": "לָכֵן",
+      "meaning": "그러므로",
+      "ipa": "laˈxen",
+      "korean": "라헨",
+      "letters": "לָ(la) + כֵן(khen)",
+      "root": "כֵּן (켄)",
+      "grammar": "접속사",
+      "emoji": "➡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"therefore1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"4\" fill=\"url(#therefore1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"20\" cy=\"40\" r=\"4\" fill=\"url(#therefore1)\"/><path d=\"M 28 32 L 48 32\" stroke=\"url(#therefore1)\" stroke-width=\"4\" marker-end=\"url(#arrow5)\"/><defs><marker id=\"arrow5\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#6A1B9A\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "כָל הֹרֵג קַיִן",
+      "meaning": "가인을 죽이는 모든 자",
+      "ipa": "kol hoˈreg ˈkajin",
+      "korean": "콜 호레그 카인",
+      "letters": "כָל(kol) + הֹ(ho) + רֵג(reg) + קַיִן(kayin)",
+      "root": "ה-ר-ג (하라그)",
+      "grammar": "명사구",
+      "emoji": "⚔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"slayer1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><path d=\"M 16 48 L 32 16 L 48 48\" stroke=\"url(#slayer1)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.5))\"/><line x1=\"24\" y1=\"36\" x2=\"40\" y2=\"36\" stroke=\"url(#slayer1)\" stroke-width=\"3\"/><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"url(#slayer1)\"/></svg>"
+    },
+    {
+      "hebrew": "שִׁבְעָתַיִם",
+      "meaning": "일곱 배",
+      "ipa": "ʃivəˈtajim",
+      "korean": "쉬베타임",
+      "letters": "שִׁ(shi) + בְעָ(ve) + תַיִם(tayim)",
+      "root": "שֶׁבַע (쉐바)",
+      "grammar": "명사",
+      "emoji": "7️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><text x=\"32\" y=\"44\" text-anchor=\"middle\" font-size=\"36\" fill=\"url(#seven1)\" font-weight=\"bold\" filter=\"drop-shadow(0 2px 4px rgba(255, 140, 0, 0.5))\">7</text><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#seven1)\" stroke-width=\"3\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "יֻקָּם",
+      "meaning": "복수될 것이다",
+      "ipa": "juˈkam",
+      "korean": "유캄",
+      "letters": "יֻ(yu) + קָּם(kam)",
+      "root": "נ-ק-ם (나캄)",
+      "grammar": "동사",
+      "emoji": "⚖️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"revenge1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"48\" stroke=\"url(#revenge1)\" stroke-width=\"4\"/><rect x=\"28\" y=\"12\" width=\"8\" height=\"4\" fill=\"url(#revenge1)\"/><line x1=\"16\" y1=\"28\" x2=\"48\" y2=\"28\" stroke=\"url(#revenge1)\" stroke-width=\"3\"/><circle cx=\"20\" cy=\"24\" r=\"4\" fill=\"url(#revenge1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"url(#revenge1)\"/></svg>"
+    },
+    {
+      "hebrew": "וַיָּשֶׂם",
+      "meaning": "그리고 두셨다, 놓으셨다",
+      "ipa": "vaˈjasɛm",
+      "korean": "바야셈",
+      "letters": "וַ(va) + יָּ(ya) + שֶׂם(sem)",
+      "root": "שׂ-ו-ם (심)",
+      "grammar": "동사",
+      "emoji": "✋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"set1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><rect x=\"20\" y=\"32\" width=\"24\" height=\"16\" rx=\"2\" fill=\"url(#set1)\" filter=\"drop-shadow(0 2px 4px rgba(30, 144, 255, 0.4))\"/><path d=\"M 32 20 L 32 32\" stroke=\"url(#set1)\" stroke-width=\"4\" marker-end=\"url(#arrow6)\"/><defs><marker id=\"arrow6\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\" markerUnits=\"strokeWidth\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#1E90FF\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "לְקַיִן",
+      "meaning": "가인에게",
+      "ipa": "ləˈkajin",
+      "korean": "레카인",
+      "letters": "לְ(le) + קַיִן(kayin)",
+      "root": "ק-י-ן (카인)",
+      "grammar": "명사",
+      "emoji": "🧑‍🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cain4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#cain4)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#cain4)\"/><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"#FFD700\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "אוֹת",
+      "meaning": "표, 표시",
+      "ipa": "ʔot",
+      "korean": "오트",
+      "letters": "אוֹ(o) + ת(t)",
+      "root": "א-ו-ת (오트)",
+      "grammar": "명사",
+      "emoji": "🏷️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mark1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#mark1)\" filter=\"drop-shadow(0 3px 6px rgba(196, 30, 58, 0.5))\"/><path d=\"M 24 32 L 30 38 L 40 24\" stroke=\"#FFFFFF\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "לְבִלְתִּי",
+      "meaning": "~하지 않도록",
+      "ipa": "ləvilˈti",
+      "korean": "레빌티",
+      "letters": "לְ(le) + בִלְתִּי(vilti)",
+      "root": "בִּלְתִּי (빌티)",
+      "grammar": "전치사",
+      "emoji": "🚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"not1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C41E3A\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#not1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.4))\"/><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#not1)\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "הַכּוֹת אֹתוֹ",
+      "meaning": "그를 치다",
+      "ipa": "haˈkot ʔoˈto",
+      "korean": "하코트 오토",
+      "letters": "הַ(ha) + כּוֹת(kot) + אֹתוֹ(oto)",
+      "root": "נ-כ-ה (나카)",
+      "grammar": "동사",
+      "emoji": "👊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"strike1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient></defs><path d=\"M 16 40 L 48 16\" stroke=\"url(#strike1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.5))\"/><circle cx=\"16\" cy=\"40\" r=\"8\" fill=\"url(#strike1)\"/><path d=\"M 44 20 L 52 12 L 56 16 L 48 24 Z\" fill=\"url(#strike1)\"/></svg>"
+    },
+    {
+      "hebrew": "כָל מֹצְאוֹ",
+      "meaning": "그를 만나는 모든 자",
+      "ipa": "kol moʦəˈʔo",
+      "korean": "콜 모체오",
+      "letters": "כָל(kol) + מֹ(mo) + צְאוֹ(tseo)",
+      "root": "מ-צ-א (마차)",
+      "grammar": "명사구",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#all2)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#all2)\"/><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#all2)\"/><ellipse cx=\"20\" cy=\"40\" rx=\"6\" ry=\"8\" fill=\"url(#all2)\"/><ellipse cx=\"32\" cy=\"40\" rx=\"6\" ry=\"8\" fill=\"url(#all2)\"/><ellipse cx=\"44\" cy=\"40\" rx=\"6\" ry=\"8\" fill=\"url(#all2)\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 15절은 하나님의 놀라운 은혜를 보여줍니다. 형제를 살해한 가인에게 하나님은 심판과 함께 보호의 표를 주십니다. 이는 하나님의 정의와 자비가 함께 나타나는 장면입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שִׁבְעָתַיִם יֻקָּם (쉬베타임 유캄) - 일곱 배로 복수될",
+        "description": "'일곱'은 성경에서 완전함을 상징하는 숫자입니다. 하나님은 가인을 해치는 자에게 완전한 복수, 즉 철저한 심판이 임할 것을 선언하십니다.",
+        "points": [
+          "숫자 7은 하나님의 완전한 행위를 나타냅니다",
+          "하나님이 직접 복수하심으로 인간의 사적 보복을 금지하십니다",
+          "이는 후에 레위기의 복수 금지 명령으로 발전합니다 (레 19:18)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אוֹת (오트) - 표, 표시",
+        "description": "'오트'는 단순한 표시가 아니라 하나님의 약속과 보호를 상징하는 언약의 표입니다. 이 표가 구체적으로 무엇인지는 성경에 기록되지 않았습니다.",
+        "points": [
+          "무지개가 홍수 언약의 '표'(오트)였듯이 (창 9:12)",
+          "할례도 아브라함 언약의 '표'(오트)입니다 (창 17:11)",
+          "이 표는 심판 속에서도 은혜를 베푸시는 하나님의 성품을 나타냅니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְבִלְתִּי הַכּוֹת (레빌티 하코트) - 치지 못하도록",
+        "description": "하나님의 표는 보호의 목적을 가집니다. 가인은 심판을 받았지만 즉각적인 사형은 면하게 됩니다.",
+        "points": [
+          "하나님은 심판하시되 완전히 멸하지는 않으십니다",
+          "회개의 기회를 주시는 하나님의 인내를 보여줍니다",
+          "생명의 주권은 하나님께 있으며 인간의 자의적 심판을 금하십니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 나쁜 일을 한 가인을 보호해 주셨나요?",
+      "answer": "하나님은 가인이 나쁜 일을 했지만, 다른 사람들이 가인을 죽이는 것을 원하지 않으셨어요. 하나님은 벌을 주시지만 동시에 사랑하시는 분이세요. 마치 부모님이 우리가 잘못했을 때 혼내시지만 그래도 계속 보호해 주시는 것처럼, 하나님도 가인을 심판하시면서도 보호해 주셨어요. 하나님은 공의로우시지만 동시에 자비로우신 분이랍니다.",
+      "bibleReferences": [
+        "시편 103:10 - '우리의 죄를 따라 우리를 처벌하지는 아니하시며'",
+        "애가 3:22-23 - '여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다'",
+        "로마서 5:8 - '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "가인의 표는 하나님의 정의와 자비가 조화를 이루는 복음의 예표입니다. 죄인인 가인은 심판을 받았지만 완전히 버려지지 않았습니다. 이는 우리 모두가 죄인이지만 그리스도 안에서 하나님의 보호와 은혜를 받는 것을 미리 보여줍니다. 하나님은 공의로우시지만 동시에 긍휼이 풍성하신 분이십니다."
+    }
+  }
+}

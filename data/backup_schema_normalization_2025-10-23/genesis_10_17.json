@@ -1,0 +1,117 @@
+{
+  "id": "genesis_10_17",
+  "reference": "창세기 10:17",
+  "hebrew": "וְאֶת־הַחִוִּי וְאֶת־הַעַרְקִי וְאֶת־הַסִּינִי",
+  "ipa": "vəʔɛt haxivˈvi vəʔɛt haʕarˈqi vəʔɛt hassiˈni",
+  "koreanPronunciation": "베에트 하히위 베에트 하아르키 베에트 하시니",
+  "modern": "히위 족속과 알갓 족속과 신 족속과",
+  "words": [
+    {
+      "hebrew": "וְאֶת",
+      "meaning": "그리고 ~을/를",
+      "ipa": "vəʔɛt",
+      "korean": "베에트",
+      "letters": "וְ(ve) + אֶ(e) + ת(t)",
+      "root": "וְ + אֵת (베 + 에트)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plus_veet\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"28\" y=\"12\" width=\"8\" height=\"40\" rx=\"4\" fill=\"url(#plus_veet)\" /><rect x=\"12\" y=\"28\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#plus_veet)\" /></svg>",
+      "relatedWords": [
+        "וְ (베 - 그리고)",
+        "אֵת (에트 - ~을/를)"
+      ]
+    },
+    {
+      "hebrew": "הַחִוִּי",
+      "meaning": "히위 족속",
+      "ipa": "haxivˈvi",
+      "korean": "하히위",
+      "letters": "הַ(ha) + חִ(chi) + וִּ(vvi) + י(i)",
+      "root": "חִוִּי (히위)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people_hivvi\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#3498DB\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#people_hivvi)\" /><path d=\"M 20 32 Q 32 28 44 32 L 44 50 L 20 50 Z\" fill=\"url(#people_hivvi)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "עַם (암 - 백성)",
+        "גּוֹי (고이 - 민족)"
+      ]
+    },
+    {
+      "hebrew": "הַעַרְקִי",
+      "meaning": "알갓 족속",
+      "ipa": "haʕarˈqi",
+      "korean": "하아르키",
+      "letters": "הַ(ha) + עַ(ar) + רְ(r) + קִ(qi) + י(i)",
+      "root": "עַרְקִי (아르키)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people_arqi\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#people_arqi)\" /><path d=\"M 20 32 Q 32 28 44 32 L 44 50 L 20 50 Z\" fill=\"url(#people_arqi)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "מִשְׁפָּחָה (미쉬파하 - 가족, 씨족)",
+        "שֵׁבֶט (쉐베트 - 지파)"
+      ]
+    },
+    {
+      "hebrew": "הַסִּינִי",
+      "meaning": "신 족속",
+      "ipa": "hassiˈni",
+      "korean": "하시니",
+      "letters": "הַ(ha) + סִּ(si) + י(i) + נִ(ni) + י(i)",
+      "root": "סִינִי (시니)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people_sini\"><stop offset=\"0%\" stop-color=\"#16A085\" /><stop offset=\"100%\" stop-color=\"#27AE60\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#people_sini)\" /><path d=\"M 20 32 Q 32 28 44 32 L 44 50 L 20 50 Z\" fill=\"url(#people_sini)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "תּוֹלְדוֹת (톨도트 - 족보, 세대)",
+        "זֶרַע (제라 - 씨, 자손)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "가나안의 자손들 중 히위 족속, 알갓 족속, 신 족속을 나열하는 구절입니다. 이들은 모두 가나안 땅에 거주했던 민족들로, 이스라엘 백성이 약속의 땅에 들어갈 때 만나게 될 족속들입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "히위 족속 (Hivites)",
+        "description": "히위 족속은 가나안 땅의 여러 지역에 흩어져 살았던 민족입니다. 세겜과 기브온 지역에 주로 거주했으며, 야곱의 딸 디나 사건과 관련이 있습니다.",
+        "points": [
+          "세겜에 거주하며 야곱의 가족과 충돌이 있었습니다 (창세기 34장)",
+          "기브온 사람들이 여호수아를 속였던 족속입니다 (여호수아 9장)",
+          "솔로몬 시대까지 일부가 남아있었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "알갓 족속 (Arkites)",
+        "description": "알갓 족속은 페니키아 북부 지역에 살았던 민족으로, 현재 레바논 지역에 해당합니다. 아르카 지역을 중심으로 거주했습니다.",
+        "points": [
+          "페니키아 지역의 중요한 도시 아르카에 거주했습니다",
+          "지중해 연안의 상업적으로 중요한 위치를 차지했습니다",
+          "가나안 족속 중 북쪽에 위치한 민족이었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "신 족속 (Sinites)",
+        "description": "신 족속은 페니키아 지역에 살았던 또 다른 민족입니다. 일부 학자들은 시나이 반도나 중국과의 연관성을 제시하기도 하지만, 대부분 레바논 지역의 민족으로 봅니다.",
+        "points": [
+          "페니키아 북부 지역에 거주했을 것으로 추정됩니다",
+          "가나안 족속의 일부로 지중해 연안에 살았습니다",
+          "정확한 위치는 역사적으로 논쟁의 여지가 있습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 이렇게 많은 족속의 이름을 기록했을까요?",
+      "answer": "성경이 모든 족속의 이름을 기록한 것은 하나님께서 모든 민족을 아시고 그들의 역사를 주관하신다는 것을 보여주기 위해서예요. 마치 선생님이 반 학생들의 이름을 모두 아시는 것처럼, 하나님은 세상의 모든 민족을 알고 계세요. 이 족속들은 나중에 이스라엘 백성이 약속의 땅에 들어갈 때 만나게 되는데, 하나님은 이미 오래전부터 그들에 대해 알고 계셨고 계획을 가지고 계셨어요.",
+      "bibleReferences": [
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에 인종을 분정하실 때에 이스라엘 자손의 수효대로 민족들의 경계를 정하셨도다'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니'",
+        "출애굽기 3:8 - '내가 내려가서 그들을 애굽인의 손에서 건져내고 그들을 그 땅에서 인도하여 아름답고 광대한 땅, 젖과 꿀이 흐르는 땅 곧 가나안 족속, 헷 족속, 아모리 족속, 브리스 족속, 히위 족속, 여부스 족속의 지방에 데려가려 하노라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절들은 단순한 족보 이상의 의미를 담고 있습니다. 하나님께서 모든 민족의 기원과 위치를 정하시고, 그들의 역사를 주관하신다는 것을 보여줍니다. 또한 이스라엘 백성이 약속의 땅에 들어갈 때 만날 민족들을 미리 알려주심으로써, 하나님의 계획이 오래전부터 준비되었음을 나타냅니다. 이는 하나님의 섭리와 주권을 보여주는 중요한 역사적 기록입니다."
+    }
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "id": "genesis_15_18",
+  "reference": "창세기 15:18",
+  "hebrew": "בַּיּוֹם הַהוּא כָּרַת יְהוָה אֶת־אַבְרָם בְּרִית לֵאמֹר לְזַרְעֲךָ נָתַתִּי אֶת־הָאָרֶץ הַזֹּאת מִנְּהַר מִצְרַיִם עַד־הַנָּהָר הַגָּדֹל נְהַר־פְּרָת׃",
+  "ipa": "bajˈjom haˈhu kaˈrat jəhˈwa ʔɛt-ʔavˈram bəˈrit leˈmor ləzarʕaˈka naˈtatti ʔɛt-haˈʔarɛts hazˈzot minneˈhar mitsˈrajim ʕad-hannaˈhar haggaˈdol nəhar-pəˈrat",
+  "koreanPronunciation": "바욤 하후 카라트 여호와 에트 아브람 베리트 레모르 레자르아카 나타티 에트 하아레츠 하조트 민네하르 미츠라임 아드 하나하르 하가돌 네하르 페라트",
+  "modern": "그날 여호와께서 아브람과 언약을 맺으시며 말씀하셨습니다: '내가 네 후손에게 이 땅을 주노니, 애굽 강에서부터 큰 강 유브라데까지라'",
+  "words": [
+    {
+      "hebrew": "כָּרַת בְּרִית",
+      "meaning": "언약을 맺다, 언약을 자르다",
+      "ipa": "kaˈrat bəˈrit",
+      "korean": "카라트 베리트",
+      "letters": "כָּ(ka) + רַת(rat) + בְּ(be) + רִית(rit)",
+      "root": "כ-ר-ת (카라트), בְּרִית (베리트)",
+      "grammar": "동사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-handshake1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"covenant18-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#covenant18-glow1)\" opacity=\"0.3\" /><rect x=\"4\" y=\"24\" width=\"24\" height=\"16\" rx=\"4\" fill=\"url(#covenant18-handshake1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"36\" y=\"24\" width=\"24\" height=\"16\" rx=\"4\" fill=\"url(#covenant18-handshake1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"#FF6B35\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 20 L 32 44\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בְּרִית (베리트 - 언약, 계약)",
+        "כָּרַת (카라트 - 자르다, 맺다)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와, 주님",
+      "ipa": "jəhˈwa",
+      "korean": "여호와",
+      "letters": "יְ(ye) + הוָ(ho) + ה(wah)",
+      "root": "יהוה (여호와)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-yhwh1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"covenant18-glory1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#covenant18-glory1)\" /><path d=\"M 12 44 L 16 32 L 22 36 L 32 24 L 42 36 L 48 32 L 52 44 Z\" fill=\"url(#covenant18-yhwh1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"44\" width=\"40\" height=\"6\" fill=\"url(#covenant18-yhwh1)\" rx=\"2\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><text x=\"32\" y=\"54\" font-family=\"serif\" font-size=\"10\" fill=\"#FFD700\" text-anchor=\"middle\" opacity=\"0.8\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주)"
+      ]
+    },
+    {
+      "hebrew": "לְזַרְעֲךָ",
+      "meaning": "네 씨에게, 네 자손에게",
+      "ipa": "ləzarʕaˈka",
+      "korean": "레자르아카",
+      "letters": "לְ(le) + זַ(za) + רְעֲ(r'a) + ךָ(kha)",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "명사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-seed1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#98D8C8\" /><stop offset=\"100%\" stop-color=\"#2E8B57\" /></linearGradient><radialGradient id=\"covenant18-tree1\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"16\" ry=\"4\" fill=\"#8B4513\" opacity=\"0.4\" /><rect x=\"28\" y=\"40\" width=\"8\" height=\"16\" fill=\"#8B4513\" /><circle cx=\"20\" cy=\"28\" r=\"8\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"8\" fill=\"url(#covenant18-tree1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"50\" rx=\"3\" ry=\"4\" fill=\"url(#covenant18-seed1)\" filter=\"drop-shadow(0 0 4px rgba(152, 216, 200, 0.6))\" /></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨앗, 자손)",
+        "בֵּן (벤 - 아들)"
+      ]
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅, 지역",
+      "ipa": "haˈʔarɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-earth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><linearGradient id=\"covenant18-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\" /><stop offset=\"100%\" stop-color=\"#556B2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#covenant18-earth1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 12 32 Q 20 24 32 26 Q 44 28 52 32 Q 44 38 32 40 Q 20 42 12 32\" fill=\"url(#covenant18-land1)\" opacity=\"0.8\" /><path d=\"M 20 18 Q 28 16 36 20 Q 32 26 28 24 Q 24 22 20 18\" fill=\"url(#covenant18-land1)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙, 땅)",
+        "שָׂדֶה (사데 - 들판)"
+      ]
+    },
+    {
+      "hebrew": "נְהַר־פְּרָת",
+      "meaning": "유브라데 강",
+      "ipa": "nəhar-pəˈrat",
+      "korean": "네하르 페라트",
+      "letters": "נְ(ne) + הַר(har) + פְּ(pe) + רָת(rat)",
+      "root": "נָהָר (나하르), פְּרָת (페라트)",
+      "grammar": "명사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant18-river1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#1E90FF\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient><linearGradient id=\"covenant18-flow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" opacity=\"0\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" opacity=\"0\" /></linearGradient></defs><path d=\"M 0 24 Q 16 20 32 24 Q 48 28 64 24 L 64 40 Q 48 44 32 40 Q 16 36 0 40 Z\" fill=\"url(#covenant18-river1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 0 26 Q 16 22 32 26 Q 48 30 64 26\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 32 Q 16 28 32 32 Q 48 36 64 32\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 0 38 Q 16 34 32 38 Q 48 42 64 38\" stroke=\"url(#covenant18-flow1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָהָר (나하르 - 강)",
+        "מַיִם (마임 - 물)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15:18은 하나님이 아브람과 공식적으로 언약을 체결하신 역사적 순간을 기록합니다. '카라트 베리트(언약을 자르다)'라는 표현은 고대 언약 의식의 피 흘림을 가리킵니다. 하나님은 아브람의 후손에게 주실 땅의 구체적인 경계를 선언하시며, 이는 단순한 약속이 아니라 법적 효력을 가진 언약 문서와 같은 것이었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּרַת בְּרִית (카라트 베리트) - 언약을 자르다",
+        "description": "히브리어로 언약을 맺는다는 표현은 문자적으로 '언약을 자르다'입니다. 이는 15:9-10에서 동물들을 쪼갠 것을 가리키며, 고대 근동의 언약 의식에서 필수적인 피 흘림을 의미합니다. 이 표현은 언약의 엄숙함과 신성함을 강조합니다.",
+        "points": [
+          "언약은 가벼운 약속이 아니라 피로 인준된 법적 계약입니다",
+          "쪼갠 동물은 언약 파기 시의 심판을 상징합니다",
+          "하나님은 이 언약을 생명을 건 맹세로 받아들이셨습니다",
+          "신약의 '새 언약'도 그리스도의 피로 인준되었습니다(눅 22:20)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "נָתַתִּי (나타티) - 이미 주었다",
+        "description": "하나님은 '주겠다(미래)'가 아니라 '주었다(과거)'는 완료형을 사용하셨습니다. 이는 히브리어의 '예언적 완료형'으로, 하나님의 약속은 이미 이루어진 것처럼 확실하다는 의미입니다. 하나님께는 과거, 현재, 미래가 모두 동일하게 확실합니다.",
+        "points": [
+          "하나님의 약속은 미래에 이루어질 것이 아니라 이미 확정된 것입니다",
+          "예언적 완료형은 하나님 약속의 확실성을 표현합니다",
+          "아직 소유하지 못했지만 하나님 안에서는 이미 소유한 것입니다",
+          "이는 믿음으로 보는 것의 본질입니다(히 11:1)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִנְּהַר מִצְרַיִם עַד־נְהַר־פְּרָת (민네하르 미츠라임 아드 네하르 페라트) - 땅의 경계",
+        "description": "하나님은 약속의 땅을 구체적으로 정의하셨습니다. '애굽 강'(와디 엘 아리쉬)에서 '유브라데 강'까지는 남서쪽에서 북동쪽까지의 광대한 영토를 의미합니다. 이는 솔로몬 시대에 부분적으로 성취되었지만(왕상 4:21), 완전한 성취는 메시아 왕국에서 이루어질 것입니다.",
+        "points": [
+          "애굽 강은 시내 반도와 가나안의 경계선입니다",
+          "유브라데 강은 메소포타미아의 주요 강입니다",
+          "이 땅은 솔로몬 시대에 부분적으로 소유되었습니다(왕상 4:21)",
+          "완전한 성취는 그리스도의 재림과 함께 올 것입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 땅을 약속하셨을까요?",
+      "answer": "하나님은 아브람과 그의 자손이 안전하게 살 곳이 필요하다는 것을 아셨어요. 마치 부모님이 아이를 위해 집을 마련하는 것처럼, 하나님도 아브람의 후손들을 위해 땅을 준비하신 거예요. 그런데 이 땅은 단순한 집터가 아니라, 하나님을 예배하고 온 세상에 하나님을 알릴 특별한 나라가 될 곳이었답니다. 그리고 나중에 이 땅에서 예수님이 태어나셔서 온 세상을 구원하셨어요.",
+      "bibleReferences": [
+        "신명기 7:7-8 - '여호와께서 너희를 기뻐하시고 너희를 택하심은 너희가 다른 민족보다 수효가 많기 때문이 아니라... 너희를 사랑하심으로 말미암아'",
+        "출애굽기 6:8 - '내가 아브라함과 이삭과 야곱에게 주기로 맹세한 땅으로 너희를 인도하고'",
+        "열왕기상 4:21 - '솔로몬이 유브라데 강에서부터 블레셋 사람의 땅과 애굽 경계까지의 모든 나라를 다스리므로'",
+        "마태복음 2:6 - '네게서 한 다스리는 자가 나와서 내 백성 이스라엘의 목자가 되리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브라함 언약의 땅 약속은 단순한 영토 분배가 아니라 하나님 나라의 예표입니다. 이 땅은 하나님의 백성이 하나님과 함께 거하며 하나님의 통치를 누리는 곳입니다. 신약에서 이 약속은 확장되어 '새 하늘과 새 땅'(계 21:1)으로 성취됩니다. 예수 그리스도를 통해 모든 민족이 아브라함의 영적 자손이 되어 이 땅의 유업을 함께 받게 됩니다(갈 3:29, 엡 3:6)."
+    }
+  }
+}

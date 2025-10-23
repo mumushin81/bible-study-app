@@ -1,0 +1,167 @@
+{
+  "id": "genesis_11_5",
+  "reference": "창세기 11:5",
+  "hebrew": "",
+  "ipa": "vajˈjerɛd jəhoˈva lirˈʔot ʔɛt haˈʕir vəʔɛt hamigˈdal ʔaˈʃɛr baˈnu bəˈne haʔaˈdam",
+  "koreanPronunciation": "바예레드 여호와 리르오트 에트 하이르 베에트 하미그달 아쉐르 바누 베네 하아담",
+  "modern": "여호와께서 내려오사 사람들이 건설한 그 성읍과 탑을 보시려 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיֵּרֶד יְהוָה",
+      "meaning": "그리고 여호와께서 내려오셨다",
+      "ipa": "vajˈjerɛd jəhoˈva",
+      "korean": "바예레드 여호와",
+      "letters": "וַ(va) + יֵּ(ye) + רֶד(red) + יְ(ye) + הוָה(hovah)",
+      "root": "י-ר-ד (야라드) + יְהוָה (여호와)",
+      "grammar": "동사",
+      "emoji": "⬇️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-descend1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><radialGradient id=\"babel-presence1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#babel-presence1)\" opacity=\"0.3\" /><path d=\"M 32 8 L 32 56\" stroke=\"url(#babel-descend1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 8px rgba(255, 215, 0, 0.6))\" /><path d=\"M 24 48 L 32 56 L 40 48\" stroke=\"#FFD700\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"12\" r=\"6\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.9))\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "יָרַד (야라드 - 내려가다, 하강하다)",
+        "יְהוָה (여호와 - 주님, 스스로 계신 자)"
+      ]
+    },
+    {
+      "hebrew": "לִרְאֹת",
+      "meaning": "보시려고",
+      "ipa": "lirˈʔot",
+      "korean": "리르오트",
+      "letters": "לִ(li) + רְ(re) + אֹת(ot)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-see1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><radialGradient id=\"babel-iris1\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"16\" fill=\"url(#babel-see1)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#babel-iris1)\" filter=\"drop-shadow(0 0 6px rgba(79, 172, 254, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#000000\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다, 관찰하다)",
+        "מַרְאֶה (마레 - 광경, 모습)"
+      ]
+    },
+    {
+      "hebrew": "אֶת הָעִיר",
+      "meaning": "그 성읍을",
+      "ipa": "ʔɛt haˈʕir",
+      "korean": "에트 하이르",
+      "letters": "אֶת(et) + הָ(ha) + עִיר(ir)",
+      "root": "אֵת (에트) + עִיר (이르)",
+      "grammar": "명사",
+      "emoji": "🏙️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-city2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"50%\" stop-color=\"#d4a574\" /><stop offset=\"100%\" stop-color=\"#f2c94c\" /></linearGradient></defs><rect x=\"12\" y=\"32\" width=\"10\" height=\"32\" fill=\"url(#babel-city2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"24\" width=\"10\" height=\"40\" fill=\"url(#babel-city2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"36\" y=\"28\" width=\"10\" height=\"36\" fill=\"url(#babel-city2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"48\" y=\"36\" width=\"10\" height=\"28\" fill=\"url(#babel-city2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "עִיר (이르 - 성읍, 도시)",
+        "קִרְיָה (키르야 - 성읍, 마을)"
+      ]
+    },
+    {
+      "hebrew": "וְאֶת הַמִּגְדָּל",
+      "meaning": "그리고 그 탑을",
+      "ipa": "vəʔɛt hamigˈdal",
+      "korean": "베에트 하미그달",
+      "letters": "וְ(ve) + אֶת(et) + הַ(ha) + מִּ(mi) + גְ(ge) + דָּל(dal)",
+      "root": "אֵת (에트) + מִגְדָּל (미그달)",
+      "grammar": "명사",
+      "emoji": "🗼",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-tower2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"30%\" stop-color=\"#d4a574\" /><stop offset=\"60%\" stop-color=\"#f2c94c\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><path d=\"M 32 4 L 28 16 L 24 28 L 20 40 L 16 52 L 16 60 L 48 60 L 48 52 L 44 40 L 40 28 L 36 16 Z\" fill=\"url(#babel-tower2)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"20\" width=\"28\" height=\"2\" fill=\"#8b6f47\" opacity=\"0.5\" /><rect x=\"20\" y=\"32\" width=\"24\" height=\"2\" fill=\"#8b6f47\" opacity=\"0.5\" /><rect x=\"22\" y=\"44\" width=\"20\" height=\"2\" fill=\"#8b6f47\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מִגְדָּל (미그달 - 탑, 요새)",
+        "גָּדַל (가달 - 크다, 위대하다)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר בָּנוּ",
+      "meaning": "그들이 건설한",
+      "ipa": "ʔaˈʃɛr baˈnu",
+      "korean": "아쉐르 바누",
+      "letters": "אֲ(a) + שֶׁר(sher) + בָּ(ba) + נוּ(nu)",
+      "root": "אֲשֶׁר (아쉐르) + ב-נ-ה (바나)",
+      "grammar": "동사",
+      "emoji": "🔨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-build1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#95a5a6\" /><stop offset=\"100%\" stop-color=\"#7f8c8d\" /></linearGradient><linearGradient id=\"babel-handle1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"12\" y=\"36\" width=\"20\" height=\"6\" rx=\"1\" fill=\"url(#babel-handle1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 28 24 L 48 20 L 52 28 L 32 32 Z\" fill=\"url(#babel-build1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"39\" r=\"2\" fill=\"#654321\" /><path d=\"M 42 48 L 38 52 L 44 56 L 48 52 Z\" stroke=\"#d4a574\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בָּנָה (바나 - 건축하다, 세우다)",
+        "בִּנְיָן (빈얀 - 건물, 건축물)"
+      ]
+    },
+    {
+      "hebrew": "בְּנֵי הָאָדָם",
+      "meaning": "사람들 (아담의 자손들)",
+      "ipa": "bəˈne haʔaˈdam",
+      "korean": "베네 하아담",
+      "letters": "בְּ(be) + נֵי(ne) + הָ(ha) + אָ(a) + דָם(dam)",
+      "root": "בֵּן (벤) + אָדָם (아담)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-people1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"8\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"24\" r=\"8\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"20\" cy=\"46\" rx=\"10\" ry=\"14\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"10\" ry=\"14\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"46\" rx=\"10\" ry=\"14\" fill=\"url(#babel-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 사람, 인류)",
+        "בֵּן (벤 - 아들, 자손)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 5절은 하나님께서 바벨탑 건축 현장에 '내려오시는' 장면을 묘사합니다. 이는 하나님의 초월성과 인간의 유한함을 극명하게 대조시킵니다. 사람들은 하늘에 닿으려 했지만, 하나님께서는 그들이 세운 탑을 보시기 위해 내려오셔야 했습니다. 이는 아이러니하면서도 심오한 신학적 의미를 담고 있습니다. 또한 '사람들(베네 하아담, 아담의 자손들)'이라는 표현은 인간의 연약함과 피조물로서의 한계를 상기시킵니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֵּרֶד יְהוָה (바예레드 여호와) - 여호와께서 내려오셨다",
+        "description": "'야라드(내려가다)'라는 동사는 하나님의 주권적 행동을 나타냅니다. 사람들은 '올라가려' 했지만, 하나님은 '내려오셔야' 했습니다. 이는 하나님의 초월성과 인간 노력의 무용함을 보여주는 강력한 대조입니다. 동시에 하나님은 인간사에 무관심하지 않으시고 직접 개입하시는 내재하시는 하나님이십니다.",
+        "points": [
+          "하나님의 거처는 인간이 도달할 수 없을 만큼 높으며, 바벨탑은 하나님 보시기에 너무 작아서 '내려오셔야' 보일 정도였습니다",
+          "이는 시편 2:4의 '하늘에 계신 이가 웃으심이여'와 유사한 아이러니입니다",
+          "하나님은 초월하시지만 동시에 내재하시며, 인간의 행위를 면밀히 관찰하십니다",
+          "창세기 3:8-9(에덴동산), 18:21(소돔과 고모라)에서도 하나님께서 '내려오시거나' '보시려 하시는' 모습이 나타납니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לִרְאֹת (리르오트) - 보시려고",
+        "description": "'라아(보다)'는 단순한 시각적 관찰이 아니라, 조사하고 심판하기 위한 관찰을 의미합니다. 하나님은 모든 것을 아시지만, 여기서 '보시려 하신다'는 표현은 공정한 심판을 위한 철저한 조사를 상징합니다. 이는 소돔과 고모라를 심판하기 전 '내려가서 보려 하노라'(창 18:21)와 동일한 패턴입니다.",
+        "points": [
+          "하나님은 전지하시지만, 공의로운 심판을 위해 사실을 철저히 확인하십니다",
+          "이는 하나님의 공정성과 인내심을 보여줍니다 - 성급하게 심판하지 않으십니다",
+          "인간의 행위는 하나님의 관찰과 심판의 대상입니다(전도서 12:14, 히브리서 4:13)",
+          "심판 전에 기회를 주시는 하나님의 은혜를 나타냅니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּנֵי הָאָדָם (베네 하아담) - 사람들, 아담의 자손들",
+        "description": "'베네 하아담'은 문자적으로 '아담의 아들들' 또는 '인류'를 의미합니다. 이 표현은 사람들의 피조물로서의 본질, 흙에서 나온 연약한 존재임을 상기시킵니다. 4절의 교만한 선언('우리가... 우리 이름을...')과 대조를 이루며, 인간의 본질적 한계를 드러냅니다.",
+        "points": [
+          "'아담'은 '흙(아다마)'에서 나온 이름으로, 인간의 유한성과 피조성을 상징합니다",
+          "하늘에 닿으려는 교만한 시도를 한 자들이 결국 '흙의 자손'에 불과함을 강조합니다",
+          "시편 8:4의 '사람이 무엇이기에 주께서 그를 생각하시며'라는 겸손과 대조됩니다",
+          "인간은 하나님의 형상으로 창조되었지만(창 1:27), 여전히 피조물이며 하나님과 동등할 수 없습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֶת הָעִיר וְאֶת הַמִּגְדָּל (에트 하이르 베에트 하미그달) - 그 성읍과 그 탑",
+        "description": "하나님은 성읍과 탑을 따로 언급하시며 세밀하게 관찰하십니다. '에트'라는 목적격 표지가 두 번 반복되어 각각의 대상을 명확히 구분합니다. 이는 하나님께서 인간의 계획과 행위를 면밀히 검토하신다는 것을 보여줍니다.",
+        "points": [
+          "성읍(문명, 공동체)과 탑(종교적/정치적 중심)을 모두 보시며 전체 계획을 파악하십니다",
+          "하나님은 외적 행위뿐 아니라 내적 동기와 목적까지 보십니다",
+          "인간의 노력과 업적은 하나님의 심판과 평가의 대상입니다",
+          "진정한 성읍과 탑은 하나님이 세우시는 것이어야 합니다(시편 127:1)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님께서 '내려오셔야' 했을까요?",
+      "answer": "사람들은 하늘에 닿을 만큼 높은 탑을 세우려고 했어요. 하지만 하나님께서 보시기에 그 탑은 너무너무 작아서, 하나님께서 일부러 '내려오셔야' 볼 수 있을 정도였답니다! 이것은 사람들이 아무리 높이 쌓아도 하나님께는 작은 모래성처럼 보인다는 걸 보여줘요. 마치 우리가 개미집을 보려면 허리를 굽혀야 하는 것처럼요. 하나님은 우리보다 훨씬 훨씬 크시고 높으셔서, 우리가 아무리 노력해도 우리 힘으로는 하나님께 갈 수 없어요. 하나님께서 우리에게 내려오셔야만 우리가 하나님을 만날 수 있답니다. 나중에 예수님이 바로 우리에게 내려오신 하나님이세요!",
+      "bibleReferences": [
+        "시편 2:4 - '하늘에 계신 이가 웃으심이여 주께서 그들을 비웃으시리로다'",
+        "이사야 40:22 - '그는 땅 위 궁창에 앉으시나니 땅에 사는 자들은 메뚜기 같으니라'",
+        "요한복음 1:14 - '말씀이 육신이 되어 우리 가운데 거하시매 우리가 그의 영광을 보니'",
+        "빌립보서 2:6-8 - '그는 근본 하나님의 본체시나 하나님과 동등됨을 취할 것으로 여기지 아니하시고... 자기를 낮추시고 죽기까지 복종하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님께서 '내려오심'은 인간의 교만과 하나님의 초월성을 극명하게 대조시킵니다. 인간은 하늘에 닿으려 했지만, 하나님께서는 그들의 탑을 보시기 위해 내려오셔야 했습니다. 이는 인간의 모든 노력이 하나님 앞에서 얼마나 보잘것없는지를 보여줍니다. 그러나 동시에 하나님은 인간사에 무관심하지 않으시고, 공의롭게 심판하시기 위해 친히 내려오시는 내재하시는 하나님이십니다. 궁극적으로 이는 성육신을 예표합니다 - 인간이 하나님께 올라갈 수 없으므로, 하나님께서 예수 그리스도로 우리에게 내려오셔서 구원의 길을 여셨습니다(요 1:14, 빌 2:6-8)."
+    }
+  }
+}

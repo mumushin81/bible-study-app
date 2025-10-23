@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_2",
+  "reference": "창세기 8:2",
+  "hebrew": "וַיִּסָּכְרוּ מַעְיְנֹת תְּהוֹם וַאֲרֻבֹּת הַשָּׁמָיִם וַיִּכָּלֵא הַגֶּשֶׁם מִן־הַשָּׁמָיִם.",
+  "ipa": "vajisaˈkəru maʔjənot təˈhom vaʔaruˈbot haʃaˈmajim vajikale haˈgeʃɛm min haʃaˈmajim",
+  "koreanPronunciation": "바이사크루 마예노트 테홈 바아루보트 하샤마임 바이칼레 하게쉠 민 하샤마임",
+  "modern": "깊은 샘들과 하늘의 창들이 막히고 하늘에서 비가 그쳤습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּסָּכְרוּ",
+      "meaning": "그리고 막혔다",
+      "ipa": "vajisaˈkəru",
+      "korean": "바이사크루",
+      "letters": "וַ(va) + יִּ(yi) + סָּ(sa) + כְ(kə) + רוּ(ru)",
+      "root": "ס-כ-ר (sakhar)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door_closed\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"lock_glow\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"2\" fill=\"url(#door_closed)\" stroke=\"#654321\" stroke-width=\"2\" /><line x1=\"20\" y1=\"12\" x2=\"20\" y2=\"52\" stroke=\"#654321\" stroke-width=\"2\" /><line x1=\"44\" y1=\"12\" x2=\"44\" y2=\"52\" stroke=\"#654321\" stroke-width=\"2\" /><rect x=\"20\" y=\"20\" width=\"8\" height=\"12\" rx=\"1\" fill=\"#654321\" opacity=\"0.6\" /><rect x=\"36\" y=\"20\" width=\"8\" height=\"12\" rx=\"1\" fill=\"#654321\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"32\" r=\"4\" fill=\"url(#lock_glow)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><rect x=\"37\" y=\"34\" width=\"2\" height=\"6\" fill=\"#B8860B\" /></svg>",
+      "relatedWords": [
+        "סָכַר (사카르 - 막다, 닫다)",
+        "סֶכֶר (세케르 - 장벽)"
+      ]
+    },
+    {
+      "hebrew": "מַעְיְנֹת",
+      "meaning": "샘들",
+      "ipa": "maʔjənot",
+      "korean": "마예노트",
+      "letters": "מַ(ma) + עְ(ə) + יְ(yə) + נֹת(not)",
+      "root": "מַעְיָן (마얀)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"spring_water\"><stop offset=\"0%\" stop-color=\"#E0F7FA\" /><stop offset=\"50%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient><linearGradient id=\"flow_spring\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B3E5FC\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#0288D1\" opacity=\"0.4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"46\" rx=\"20\" ry=\"8\" fill=\"url(#spring_water)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"36\" r=\"6\" fill=\"url(#spring_water)\" opacity=\"0.8\" /><path d=\"M 28 36 Q 26 28 26 20\" stroke=\"url(#flow_spring)\" stroke-width=\"3\" fill=\"none\" /><path d=\"M 32 36 Q 32 28 32 16\" stroke=\"url(#flow_spring)\" stroke-width=\"4\" fill=\"none\" /><path d=\"M 36 36 Q 38 28 38 20\" stroke=\"url(#flow_spring)\" stroke-width=\"3\" fill=\"none\" /><circle cx=\"26\" cy=\"20\" r=\"3\" fill=\"#4FC3F7\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"#4FC3F7\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"20\" r=\"3\" fill=\"#4FC3F7\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מַעְיָן (마얀 - 샘, 근원)",
+        "בְּאֵר (베에르 - 우물)"
+      ]
+    },
+    {
+      "hebrew": "תְּהוֹם",
+      "meaning": "깊음, 심연",
+      "ipa": "təˈhom",
+      "korean": "테홈",
+      "letters": "תְּ(tə) + הוֹ(ho) + ם(m)",
+      "root": "תְּהוֹם (테홈)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"deep_tehom\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#0D47A1\" opacity=\"0.5\" /><stop offset=\"50%\" stop-color=\"#01579B\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#000000\" opacity=\"0.95\" /></linearGradient><radialGradient id=\"abyss_glow\"><stop offset=\"0%\" stop-color=\"#1976D2\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#000000\" opacity=\"0\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#deep_tehom)\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#abyss_glow)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#abyss_glow)\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#abyss_glow)\" /><path d=\"M 20 32 Q 26 28 32 32 Q 38 36 44 32\" stroke=\"#0D47A1\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 18 40 Q 26 36 32 40 Q 38 44 46 40\" stroke=\"#01579B\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "תְּהוֹם (테홈 - 깊은 바다)",
+        "מְצוּלָה (메출라 - 깊은 곳)"
+      ]
+    },
+    {
+      "hebrew": "אֲרֻבֹּת",
+      "meaning": "창들, 수문들",
+      "ipa": "ʔaruˈbot",
+      "korean": "아루보트",
+      "letters": "אֲ(a) + רֻ(ru) + בֹּת(bot)",
+      "root": "אֲרֻבָּה (아루바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"window_sky\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient><linearGradient id=\"frame_window\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"36\" rx=\"2\" fill=\"url(#window_sky)\" opacity=\"0.6\" /><rect x=\"12\" y=\"12\" width=\"40\" height=\"36\" rx=\"2\" stroke=\"url(#frame_window)\" stroke-width=\"4\" fill=\"none\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"48\" stroke=\"url(#frame_window)\" stroke-width=\"3\" /><line x1=\"12\" y1=\"30\" x2=\"52\" y2=\"30\" stroke=\"url(#frame_window)\" stroke-width=\"3\" /><path d=\"M 20 20 L 20 26 L 26 26\" stroke=\"#4FC3F7\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 38 34 L 44 34 L 44 40\" stroke=\"#4FC3F7\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֲרֻבָּה (아루바 - 창문)",
+        "חַלּוֹן (할론 - 창)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּכָּלֵא",
+      "meaning": "그리고 그쳤다",
+      "ipa": "vajikale",
+      "korean": "바이칼레",
+      "letters": "וַ(va) + יִּ(yi) + כָּ(ka) + לֵא(le)",
+      "root": "כ-ל-א (kala)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"stop_sign\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#stop_sign)\" opacity=\"0.9\" stroke=\"#FFFFFF\" stroke-width=\"3\" /><rect x=\"28\" y=\"16\" width=\"8\" height=\"20\" fill=\"#FFFFFF\" rx=\"1\" /><circle cx=\"32\" cy=\"42\" r=\"3\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "כָּלָא (칼라 - 막다, 억제하다)",
+        "עָצַר (아차르 - 멈추다)"
+      ]
+    },
+    {
+      "hebrew": "הַגֶּשֶׁם",
+      "meaning": "비",
+      "ipa": "haˈgeʃɛm",
+      "korean": "하게쉠",
+      "letters": "הַ(ha) + גֶּ(ge) + שֶׁם(shem)",
+      "root": "גֶּשֶׁם (게쉠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rain_drops\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B3E5FC\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient><linearGradient id=\"cloud_rain\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CFD8DC\" /><stop offset=\"100%\" stop-color=\"#90A4AE\" /></linearGradient></defs><ellipse cx=\"24\" cy=\"16\" rx=\"10\" ry=\"7\" fill=\"url(#cloud_rain)\" /><ellipse cx=\"32\" cy=\"14\" rx=\"12\" ry=\"8\" fill=\"url(#cloud_rain)\" /><ellipse cx=\"40\" cy=\"16\" rx=\"10\" ry=\"7\" fill=\"url(#cloud_rain)\" /><path d=\"M 20 24 L 18 36\" stroke=\"url(#rain_drops)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 26 26 L 24 38\" stroke=\"url(#rain_drops)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 26 L 30 40\" stroke=\"url(#rain_drops)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><path d=\"M 38 26 L 36 38\" stroke=\"url(#rain_drops)\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 44 24 L 42 36\" stroke=\"url(#rain_drops)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "גֶּשֶׁם (게쉠 - 비)",
+        "מָטָר (마타르 - 비)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 2절은 홍수가 멈추는 과정을 묘사합니다. 7장에서 '깊음의 샘들'과 '하늘의 창들'이 열렸다면, 이제 그것들이 닫힙니다. 이는 하나님의 심판이 끝나고 회복의 과정이 시작되었음을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מַעְיְנֹת תְּהוֹם (마예노트 테홈) - 깊음의 샘들",
+        "description": "'테홈(깊음)'은 창세기 1:2에서 창조 이전의 혼돈 상태를 나타낼 때 사용된 단어입니다. 여기서는 지하 깊은 곳의 물의 근원을 의미합니다.",
+        "points": [
+          "깊음의 샘들은 하나님의 명령으로 열렸다가 닫힙니다",
+          "창조 때의 물과 홍수 때의 물이 연결됩니다",
+          "하나님은 자연의 모든 근원을 통제하십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֲרֻבֹּת הַשָּׁמָיִם (아루보트 하샤마임) - 하늘의 창들",
+        "description": "'하늘의 창들'은 고대 히브리인들이 생각한 우주 구조를 반영합니다. 하늘 위에 물이 있고, 하나님이 그 창을 여시면 비가 내린다고 믿었습니다.",
+        "points": [
+          "하늘의 창들은 하나님의 통제 아래 있습니다",
+          "말라기 3:10에서 축복의 창을 여신다는 표현과 연결됩니다",
+          "하나님은 하늘과 땅의 수문을 여시고 닫으십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּכָּלֵא הַגֶּשֶׁם (바이칼레 하게쉠) - 비가 그쳤다",
+        "description": "40일 밤낮으로 내리던 비가 드디어 멈췄습니다. 이는 심판의 종료와 새로운 시작의 가능성을 열어줍니다.",
+        "points": [
+          "하나님의 심판에는 끝이 있습니다",
+          "비가 그친 것은 하나님의 은혜의 표시입니다",
+          "자연도 하나님의 명령에 순종합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "심판의 종료 - 대칭 구조",
+        "description": "7장에서 물의 근원들이 '열렸다면', 8장에서는 '막혔습니다'. 이런 대칭 구조는 하나님의 질서 있는 통치를 보여줍니다.",
+        "points": [
+          "창조와 심판, 심판과 회복이 대칭을 이룹니다",
+          "하나님의 행동은 무질서하지 않고 계획적입니다",
+          "열림과 닫힘이 하나님의 주권 아래 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 비를 멈추게 하셨을까요?",
+      "answer": "하나님은 심판하실 때도 항상 회복을 생각하세요. 비가 계속 내리면 노아와 동물들이 방주에서 나올 수 없잖아요? 하나님은 딱 맞는 시간에 비를 멈추시고, 물이 빠지게 하셔서 노아 가족이 새로운 세상에서 다시 살 수 있게 해주셨어요. 마치 엄마가 아기를 훈육하실 때도 딱 필요한 만큼만 하시고, 그 다음엔 안아주시는 것처럼, 하나님도 심판 후에 회복의 길을 열어주시는 거예요.",
+      "bibleReferences": [
+        "이사야 54:9 - '이는 노아의 홍수에 비하리로다 내가 다시는 노아의 홍수로 땅 위에 범람하지 못하게 하리라 맹세한 것 같이'",
+        "시편 104:9 - '주께서 물의 경계를 정하여 넘치지 못하게 하시며 다시 돌아와 땅을 덮지 못하게 하셨나이다'",
+        "욥기 38:25 - '누가 폭우를 위하여 길을 내었으며 우렛소리의 길을 내었으며'",
+        "예레미야 애가 3:32 - '그가 비록 근심하게 하시나 그의 풍부한 자비대로 긍휼히 여기시리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:2는 하나님의 심판이 무한하지 않고 목적이 있음을 보여줍니다. 깊음의 샘과 하늘의 창이 열렸다가 닫힌 것은, 하나님이 자연의 모든 요소를 완벽하게 통제하신다는 것을 보여줍니다. 이는 또한 하나님의 심판이 파괴만이 아니라 정화와 새 시작을 위한 것임을 암시합니다. 요한계시록 21:1의 '새 하늘과 새 땅'처럼, 홍수 후의 세계는 정화된 새로운 시작입니다. 하나님의 자비는 심판 가운데서도 회복의 길을 준비하십니다."
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "genesis_3_20",
+  "reference": "창세기 3:20",
+  "hebrew": "וַיִּקְרָא הָאָדָם שֵׁם אִשְׁתּוֹ, חַוָּה:  כִּי הִוא הָיְתָה, אֵם כָּל-חָי.",
+  "ipa": "vajiˈkra haʔaˈdam ʃem ʔiʃˈto χavˈva ki ˈhi hajˈta ˈʔem kol-ˈχaj",
+  "koreanPronunciation": "바이크라 하아담 쉠 이쉬토 하바 키 히 하이타 엠 콜 하이",
+  "modern": "아담이 그의 아내 이름을 하와라고 불렀는데, 그녀가 모든 산 자의 어머니이기 때문입니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 그가 불렀다",
+      "ipa": "vajiˈkra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְ(k) + רָא(ra)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"call1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\"/><stop offset=\"50%\" stop-color=\"#7B68EE\"/><stop offset=\"100%\" stop-color=\"#9370DB\"/></linearGradient><radialGradient id=\"call2\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF6B35\"/></radialGradient><linearGradient id=\"call3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"20\" fill=\"url(#call3)\" opacity=\"0.2\"/><path d=\"M 20 30 Q 15 32 20 34 Q 30 40 40 34 Q 45 32 40 30 Q 30 24 20 30 Z\" fill=\"url(#call1)\" filter=\"drop-shadow(2px 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#call2)\" filter=\"drop-shadow(0 0 6px rgba(255,215,0,0.8))\"/><path d=\"M 32 32 Q 28 28 24 26 M 32 32 Q 36 28 40 26 M 32 32 Q 28 36 24 38 M 32 32 Q 36 36 40 38\" stroke=\"#FFD700\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\"/></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "קוֹרֵא (코레 - 부르는 자)"
+      ]
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "meaning": "사람, 아담",
+      "ipa": "haʔaˈdam",
+      "korean": "하아담",
+      "letters": "הָ(ha) + אָ(a) + דָם(dam)",
+      "root": "אָדָם (아담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"adam1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><radialGradient id=\"adam2\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></radialGradient><linearGradient id=\"adam3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#FFA07A\"/></linearGradient><radialGradient id=\"adam4\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#adam4)\" opacity=\"0.15\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#adam2)\" filter=\"drop-shadow(2px 2px 6px rgba(0,0,0,0.25))\"/><path d=\"M 32 38 L 32 52 M 24 44 L 32 40 L 40 44 M 32 52 L 26 58 M 32 52 L 38 58\" stroke=\"url(#adam1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(1px 1px 2px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\"/><path d=\"M 26 32 Q 32 34 38 32\" stroke=\"url(#adam3)\" stroke-width=\"1.5\" fill=\"none\"/></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָדֹם (아돔 - 붉은)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "이름",
+      "ipa": "ʃem",
+      "korean": "쉠",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"name2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient><radialGradient id=\"name3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#E6E6FA\"/></radialGradient><linearGradient id=\"name4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"100%\" stop-color=\"#8B008B\"/></linearGradient></defs><rect x=\"14\" y=\"18\" width=\"36\" height=\"28\" rx=\"3\" fill=\"url(#name3)\" filter=\"drop-shadow(3px 3px 6px rgba(0,0,0,0.3))\"/><rect x=\"14\" y=\"18\" width=\"36\" height=\"8\" rx=\"3\" fill=\"url(#name1)\"/><circle cx=\"20\" cy=\"22\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><path d=\"M 20 32 L 44 32 M 20 36 L 40 36 M 20 40 L 38 40\" stroke=\"url(#name4)\" stroke-width=\"2\" stroke-linecap=\"round\"/><path d=\"M 45 22 L 50 18 L 52 24 Z\" fill=\"url(#name2)\" filter=\"drop-shadow(1px 1px 2px rgba(0,0,0,0.3))\"/></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘)",
+        "שְׁמוּאֵל (쉬무엘 - 사무엘)"
+      ]
+    },
+    {
+      "hebrew": "אִשְׁתּוֹ",
+      "meaning": "그의 아내",
+      "ipa": "ʔiʃˈto",
+      "korean": "이쉬토",
+      "letters": "אִ(i) + שְׁ(sh) + תּוֹ(to)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wife1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\"/><stop offset=\"100%\" stop-color=\"#FF69B4\"/></linearGradient><radialGradient id=\"wife2\"><stop offset=\"0%\" stop-color=\"#FFF0F5\"/><stop offset=\"100%\" stop-color=\"#FFE4E1\"/></radialGradient><linearGradient id=\"wife3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"50%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"wife4\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF6347\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#wife1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"28\" r=\"11\" fill=\"url(#wife2)\" filter=\"drop-shadow(2px 2px 5px rgba(0,0,0,0.25))\"/><path d=\"M 32 38 Q 28 42 24 46 Q 22 50 24 54 L 40 54 Q 42 50 40 46 Q 36 42 32 38 Z\" fill=\"url(#wife3)\" filter=\"drop-shadow(2px 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#696969\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#696969\"/><path d=\"M 26 32 Q 32 33 38 32\" stroke=\"#FF1493\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 24 20 Q 28 16 32 16 Q 36 16 40 20\" fill=\"#8B4513\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"22\" r=\"3\" fill=\"url(#wife4)\" filter=\"drop-shadow(0 0 4px rgba(255,215,0,0.7))\"/></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자, 남편)",
+        "אִשָּׁה (이샤 - 여자)"
+      ]
+    },
+    {
+      "hebrew": "חַוָּה",
+      "meaning": "하와(이브)",
+      "ipa": "χavˈva",
+      "korean": "하바",
+      "letters": "חַ(cha) + וָּה(vah)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eve1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"50%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient><radialGradient id=\"eve2\"><stop offset=\"0%\" stop-color=\"#FFEFD5\"/><stop offset=\"100%\" stop-color=\"#F5DEB3\"/></radialGradient><linearGradient id=\"eve3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#98FB98\"/><stop offset=\"50%\" stop-color=\"#00FA9A\"/><stop offset=\"100%\" stop-color=\"#00CED1\"/></linearGradient><radialGradient id=\"eve4\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#eve3)\" opacity=\"0.15\"/><ellipse cx=\"32\" cy=\"48\" rx=\"20\" ry=\"8\" fill=\"url(#eve1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#eve2)\" filter=\"drop-shadow(2px 2px 5px rgba(0,0,0,0.25))\"/><path d=\"M 20 22 Q 24 16 32 16 Q 40 16 44 22 Q 42 26 38 24 Q 34 22 32 22 Q 30 22 26 24 Q 22 26 20 22\" fill=\"#8B4513\"/><circle cx=\"28\" cy=\"25\" r=\"2\" fill=\"#4A4A4A\"/><circle cx=\"36\" cy=\"25\" r=\"2\" fill=\"#4A4A4A\"/><path d=\"M 26 30 Q 32 32 38 30\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 32 35 Q 28 40 24 44 Q 22 48 26 52 L 38 52 Q 42 48 40 44 Q 36 40 32 35 Z\" fill=\"url(#eve1)\" filter=\"drop-shadow(2px 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"url(#eve4)\" filter=\"drop-shadow(0 0 6px rgba(255,215,0,0.8))\" opacity=\"0.9\"/><path d=\"M 30 18 L 32 14 L 34 18 M 28 20 L 26 18 M 36 20 L 38 18\" stroke=\"#FFD700\" stroke-width=\"1.5\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하이임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면, ~때문에",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּי(ki)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"50%\" stop-color=\"#1E90FF\"/><stop offset=\"100%\" stop-color=\"#00BFFF\"/></linearGradient><linearGradient id=\"because2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient><radialGradient id=\"because3\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#because3)\" opacity=\"0.2\"/><path d=\"M 12 32 L 28 32 L 24 28 M 28 32 L 24 36\" stroke=\"url(#because1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 3px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#because2)\" filter=\"drop-shadow(0 0 6px rgba(255,215,0,0.7))\"/><path d=\"M 36 32 L 52 32 L 48 28 M 52 32 L 48 36\" stroke=\"url(#because1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 3px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "הִוא",
+      "meaning": "그녀",
+      "ipa": "ˈhi",
+      "korean": "히",
+      "letters": "הִ(hi) + וא(va)",
+      "root": "הוּא (후)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"she1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DDA0DD\"/><stop offset=\"100%\" stop-color=\"#BA55D3\"/></linearGradient><radialGradient id=\"she2\"><stop offset=\"0%\" stop-color=\"#FFEFD5\"/><stop offset=\"100%\" stop-color=\"#FFE4E1\"/></radialGradient><linearGradient id=\"she3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FF1493\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#she1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"30\" r=\"14\" fill=\"url(#she2)\" filter=\"drop-shadow(2px 2px 6px rgba(0,0,0,0.25))\"/><circle cx=\"27\" cy=\"28\" r=\"2.5\" fill=\"#4A4A4A\"/><circle cx=\"37\" cy=\"28\" r=\"2.5\" fill=\"#4A4A4A\"/><path d=\"M 25 34 Q 32 36 39 34\" stroke=\"url(#she3)\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 20 24 Q 26 18 32 18 Q 38 18 44 24\" fill=\"#8B4513\" opacity=\"0.7\"/><path d=\"M 32 44 L 32 52 M 24 48 L 32 46 L 40 48\" stroke=\"url(#she1)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "הָיְתָה",
+      "meaning": "있었다, 되었다",
+      "ipa": "hajˈta",
+      "korean": "하이타",
+      "letters": "הָ(ha) + יְ(ye) + תָה(tah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"was1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"was2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFE4B5\"/></radialGradient><linearGradient id=\"was3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#was3)\" opacity=\"0.15\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#was2)\" opacity=\"0.4\"/><path d=\"M 32 12 L 35 25 L 48 28 L 37 36 L 40 50 L 32 42 L 24 50 L 27 36 L 16 28 L 29 25 Z\" fill=\"url(#was1)\" filter=\"drop-shadow(0 0 8px rgba(255,215,0,0.9))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#was2)\" filter=\"drop-shadow(0 0 6px rgba(255,255,255,0.8))\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FF8C00\"/></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יְהִי (예히 - 있으라)"
+      ]
+    },
+    {
+      "hebrew": "אֵם",
+      "meaning": "어머니",
+      "ipa": "ˈʔem",
+      "korean": "엠",
+      "letters": "אֵם(em)",
+      "root": "אֵם (엠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mother1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"50%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient><radialGradient id=\"mother2\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></radialGradient><linearGradient id=\"mother3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF6347\"/></linearGradient><radialGradient id=\"mother4\"><stop offset=\"0%\" stop-color=\"#FFF0F5\"/><stop offset=\"100%\" stop-color=\"#FFE4E1\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"24\" ry=\"12\" fill=\"url(#mother1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#mother2)\" filter=\"drop-shadow(2px 2px 5px rgba(0,0,0,0.25))\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#4A4A4A\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#4A4A4A\"/><path d=\"M 26 30 Q 32 32 38 30\" stroke=\"#FF1493\" stroke-width=\"1.5\" fill=\"none\"/><path d=\"M 32 38 Q 28 42 24 46 L 24 54 L 40 54 L 40 46 Q 36 42 32 38 Z\" fill=\"url(#mother1)\" filter=\"drop-shadow(2px 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"20\" cy=\"48\" r=\"6\" fill=\"url(#mother4)\" opacity=\"0.8\"/><circle cx=\"44\" cy=\"48\" r=\"6\" fill=\"url(#mother4)\" opacity=\"0.8\"/><path d=\"M 20 20 Q 26 14 32 14 Q 38 14 44 20\" fill=\"#8B4513\" opacity=\"0.6\"/><path d=\"M 28 40 Q 32 42 36 40\" stroke=\"url(#mother3)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"18\" r=\"4\" fill=\"url(#mother3)\" filter=\"drop-shadow(0 0 6px rgba(255,215,0,0.8))\"/></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אִמָּא (이마 - 엄마)"
+      ]
+    },
+    {
+      "hebrew": "כָּל-חָי",
+      "meaning": "모든 산 자",
+      "ipa": "kol-ˈχaj",
+      "korean": "콜 하이",
+      "letters": "כָּל(kol) + חָי(chai)",
+      "root": "כֹּל (콜) + חַי (하이)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"living1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00CED1\"/><stop offset=\"50%\" stop-color=\"#20B2AA\"/><stop offset=\"100%\" stop-color=\"#008B8B\"/></linearGradient><linearGradient id=\"living2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"50%\" stop-color=\"#228B22\"/><stop offset=\"100%\" stop-color=\"#006400\"/></linearGradient><radialGradient id=\"living3\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></radialGradient><linearGradient id=\"living4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#living4)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#living1)\" filter=\"drop-shadow(2px 2px 8px rgba(0,0,0,0.3))\"/><path d=\"M 20 28 Q 22 22 28 20 Q 32 24 30 28 Q 28 32 24 30 Q 20 28 20 28\" fill=\"url(#living2)\" opacity=\"0.8\"/><path d=\"M 38 36 Q 36 30 42 28 Q 46 32 44 38 Q 40 42 38 36\" fill=\"url(#living2)\" opacity=\"0.8\"/><path d=\"M 28 42 Q 30 38 34 40 Q 36 44 32 46 Q 28 44 28 42\" fill=\"url(#living2)\" opacity=\"0.8\"/><ellipse cx=\"32\" cy=\"28\" rx=\"14\" ry=\"8\" fill=\"#FFFFFF\" opacity=\"0.2\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"url(#living3)\" filter=\"drop-shadow(0 0 4px rgba(255,215,0,0.8))\"/><circle cx=\"38\" cy=\"30\" r=\"2\" fill=\"url(#living3)\" filter=\"drop-shadow(0 0 4px rgba(255,215,0,0.8))\"/><circle cx=\"30\" cy=\"38\" r=\"2\" fill=\"url(#living3)\" filter=\"drop-shadow(0 0 4px rgba(255,215,0,0.8))\"/></svg>",
+      "relatedWords": [
+        "חַיִּים (하이임 - 생명)",
+        "חָיָה (하야 - 살다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아담이 타락 이후에도 그의 아내를 '하와(생명)'라고 명명한 것은 놀라운 믿음의 고백입니다. 죄로 인해 죽음이 선언된 직후이지만, 아담은 그녀가 '모든 산 자의 어머니'가 될 것을 믿었습니다. 이는 하나님의 구원 약속(창 3:15)에 대한 신뢰를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "חַוָּה (하와) - 생명의 이름",
+        "description": "하와(חַוָּה)라는 이름은 히브리어 '하야(חָיָה, 살다)'에서 파생되었으며 '생명' 또는 '살아있는 자'를 의미합니다. 죄와 죽음의 선고 직후에 '생명'이라는 이름을 붙인 것은 역설적이면서도 희망적입니다.",
+        "points": [
+          "죽음의 선고 후에도 생명을 바라보는 믿음",
+          "모든 인류의 어머니로서의 역할 예고",
+          "하나님의 생명 주시는 능력에 대한 신뢰"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֵם כָּל-חָי (엠 콜 하이) - 모든 산 자의 어머니",
+        "description": "'모든 산 자의 어머니'라는 표현은 하와가 모든 인류의 조상이 될 것임을 선언합니다. 죄로 인해 에덴에서 추방되고 고통의 삶이 예고되었지만, 생명은 계속될 것입니다.",
+        "points": [
+          "전 인류의 공통 조상으로서의 하와",
+          "죽음 속에서도 이어질 생명의 약속",
+          "여자의 후손을 통한 구원 약속(창 3:15)의 연속성"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּקְרָא (바이크라) - 명명의 권한과 믿음",
+        "description": "아담이 아내의 이름을 짓는 행위는 단순한 명명이 아니라 믿음의 선언입니다. 하나님께서 창세기 3:15에서 약속하신 '여자의 후손'이 뱀의 머리를 상하게 할 것이라는 구원의 복음을 믿은 것입니다.",
+        "points": [
+          "명명은 믿음의 고백이자 예언적 선언",
+          "죽음의 현실 속에서도 하나님의 약속을 신뢰",
+          "최초의 복음 약속(원복음)에 대한 응답"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "타락 후의 희망 - 구속사의 시작",
+        "description": "창세기 3:20은 타락 이야기의 절망 속에 희망의 빛을 비춥니다. 죄의 결과로 고통과 죽음이 왔지만, 하나님은 생명을 주시는 분이시며 구원의 계획을 가지고 계십니다.",
+        "points": [
+          "타락 직후에 나타나는 구원의 희망",
+          "여자를 통해 오실 구원자(그리스도)를 예표",
+          "죄와 죽음이 마지막 말이 아님을 선포"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 에덴에서 쫓겨나는 슬픈 상황에서 아내 이름을 '생명'이라고 지었을까요?",
+      "answer": "아담은 하나님이 약속하신 것을 믿었기 때문이에요. 비록 죄를 지어서 에덴동산에서 쫓겨나고 죽음이 세상에 들어왔지만, 하나님은 아담과 하와를 통해 많은 사람들이 태어날 것이고, 그 후손 중에 구원자가 오실 것을 약속하셨어요. 아담은 이것을 믿었기에 절망하지 않고 아내를 '생명'이라고 불렀답니다. 슬픔 속에서도 희망을 가진 거예요!",
+      "bibleReferences": [
+        "창세기 3:15 - '내가 너로 여자와 원수가 되게 하고 네 후손도 여자의 후손과 원수가 되게 하리니 여자의 후손은 네 머리를 상하게 할 것이요'",
+        "로마서 5:12 - '한 사람으로 말미암아 죄가 세상에 들어오고 죄로 말미암아 사망이 들어왔나니'",
+        "로마서 5:19 - '한 사람이 순종하심으로 많은 사람이 의인이 되리라'",
+        "요한복음 14:6 - '예수께서 이르시되 내가 곧 길이요 진리요 생명이니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하와를 '생명'이라 부른 것은 구속사의 핵심을 담고 있습니다. 죄와 죽음의 현실 속에서도 생명의 희망을 선포한 것은, 여자의 후손으로 오실 예수 그리스도를 예표합니다. 하와가 모든 인류의 어머니인 것처럼, 그리스도는 '마지막 아담'으로 오셔서 믿는 모든 이에게 영원한 생명을 주십니다. 타락으로 잃어버린 생명을, 하나님은 그리스도 안에서 회복시키십니다."
+    }
+  }
+}

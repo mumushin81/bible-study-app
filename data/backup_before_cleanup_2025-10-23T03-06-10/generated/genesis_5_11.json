@@ -1,0 +1,160 @@
+{
+  "verse_id": "genesis_5_11",
+  "ipa": "vajˈjihjəvu kol jəˈme ʔɛˈnoʃ ħaˈmeʃ ʃaˈnim utˈʃaʕ meˈʔot ʃaˈna vajˈjamot",
+  "korean_pronunciation": "바이흐유 콜 예메 에노쉬 하메쉬 샤님 우트샤 메오트 샤나 바야모트",
+  "modern": "에노스의 전 생애는 모두 905년이었고, 그가 죽었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּֽהְיוּ֙",
+      "meaning": "그리고 되었다",
+      "ipa": "vajˈjihjəvu",
+      "korean": "바이흐유",
+      "letters": "וַ(va) + יִּ(yi) + הְ(hə) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⌛",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hour1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E44AD\"/><stop offset=\"50%\" stop-color=\"#9B59B6\"/><stop offset=\"100%\" stop-color=\"#8E44AD\"/></linearGradient><linearGradient id=\"sand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F39C12\"/><stop offset=\"100%\" stop-color=\"#E67E22\"/></linearGradient></defs><path d=\"M 22 8 L 42 8 L 38 28 L 32 32 L 26 28 Z\" fill=\"url(#hour1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 32 32 L 26 36 L 22 56 L 42 56 L 38 36 Z\" fill=\"url(#hour1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 26 36 L 22 52 L 42 52 L 38 36 Z\" fill=\"url(#sand1)\"/></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כָּל יְמֵ֣י",
+      "meaning": "모든 날들",
+      "ipa": "kol jəˈme",
+      "korean": "콜 예메",
+      "letters": "כָּל(kol) + יְ(yə) + מֵי(me)",
+      "root": "כֹּל (콜)",
+      "grammar": "명사",
+      "emoji": "📆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498DB\"/><stop offset=\"50%\" stop-color=\"#5DADE2\"/><stop offset=\"100%\" stop-color=\"#3498DB\"/></linearGradient><radialGradient id=\"light2\"><stop offset=\"0%\" stop-color=\"#AED6F1\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#3498DB\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#light2)\"/><rect x=\"10\" y=\"18\" width=\"44\" height=\"32\" rx=\"4\" fill=\"url(#days1)\" filter=\"drop-shadow(0 4px 6px rgba(52, 152, 219, 0.4))\"/><line x1=\"10\" y1=\"26\" x2=\"54\" y2=\"26\" stroke=\"#2980B9\" stroke-width=\"2\"/><g fill=\"#FFFFFF\" opacity=\"0.9\"><circle cx=\"20\" cy=\"34\" r=\"2\"/><circle cx=\"28\" cy=\"34\" r=\"2\"/><circle cx=\"36\" cy=\"34\" r=\"2\"/><circle cx=\"44\" cy=\"34\" r=\"2\"/><circle cx=\"20\" cy=\"42\" r=\"2\"/><circle cx=\"28\" cy=\"42\" r=\"2\"/><circle cx=\"36\" cy=\"42\" r=\"2\"/><circle cx=\"44\" cy=\"42\" r=\"2\"/></g></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "חַיִּים (하임 - 생애, 생명)"
+      ]
+    },
+    {
+      "hebrew": "אֱנ֔וֹשׁ",
+      "meaning": "에노스",
+      "ipa": "ʔɛˈnoʃ",
+      "korean": "에노쉬",
+      "letters": "אֱ(e) + נ(n) + וֹ(o) + שׁ(sh)",
+      "root": "אֱנוֹשׁ (에노쉬)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#16A085\"/><stop offset=\"100%\" stop-color=\"#138D75\"/></linearGradient><radialGradient id=\"aura1\"><stop offset=\"0%\" stop-color=\"#A3E4D7\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#16A085\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#aura1)\"/><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"url(#person2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 18 54 Q 18 38 32 38 Q 46 38 46 54 Z\" fill=\"url(#person2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "חָמֵ֣שׁ שָׁנִ֔ים",
+      "meaning": "5년",
+      "ipa": "ħaˈmeʃ ʃaˈnim",
+      "korean": "하메쉬 샤님",
+      "letters": "חָ(ħa) + מֵשׁ(mesh) + שָׁ(sha) + נִים(nim)",
+      "root": "חֲמֵשׁ (하메쉬)",
+      "grammar": "명사",
+      "emoji": "5️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\"/><stop offset=\"100%\" stop-color=\"#C0392B\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#five1)\" filter=\"drop-shadow(0 4px 8px rgba(231, 76, 60, 0.5))\"/><text x=\"32\" y=\"46\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">5</text></svg>"
+    },
+    {
+      "hebrew": "וּתְשַׁ֥ע מֵא֖וֹת",
+      "meaning": "그리고 900",
+      "ipa": "utˈʃaʕ meˈʔot",
+      "korean": "우트샤 메오트",
+      "letters": "וּ(u) + תְ(tə) + שַׁע(shaʕ) + מֵ(me) + אוֹת(ot)",
+      "root": "תֵּשַׁע (테샤)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E67E22\"/><stop offset=\"100%\" stop-color=\"#D35400\"/></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#E67E22\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#nine1)\" filter=\"drop-shadow(0 4px 8px rgba(230, 126, 34, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#shine1)\"/><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"20\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">900</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָ֑ה",
+      "meaning": "년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#27AE60\"/><stop offset=\"100%\" stop-color=\"#229954\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#year1)\" filter=\"drop-shadow(0 4px 6px rgba(39, 174, 96, 0.4))\"/><path d=\"M 32 12 L 32 32 L 44 38\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\"/></svg>"
+    },
+    {
+      "hebrew": "וַיָּמֹֽת",
+      "meaning": "그리고 죽었다",
+      "ipa": "vajˈjamot",
+      "korean": "바야모트",
+      "letters": "וַ(va) + יָּ(ya) + מֹת(mot)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7F8C8D\"/><stop offset=\"100%\" stop-color=\"#5D6D7E\"/></linearGradient><radialGradient id=\"peace1\"><stop offset=\"0%\" stop-color=\"#ECF0F1\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#BDC3C7\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"dove1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#ECF0F1\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#peace1)\"/><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"6\" fill=\"url(#dove1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 18 32 Q 12 28 10 24\" stroke=\"url(#dove1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 46 32 Q 52 28 54 24\" stroke=\"url(#dove1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"30\" cy=\"30\" r=\"1.5\" fill=\"#34495E\"/></svg>",
+      "relatedWords": [
+        "מָוֶת (마베트 - 죽음)",
+        "מֵת (메트 - 죽은)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 11절은 에노스의 생애를 총정리하며 그의 죽음을 기록합니다. 905년이라는 긴 생애를 산 에노스는 하나님이 주신 생명을 충만히 누렸지만, 결국 죽음을 맞이했습니다. 이는 모든 인간의 유한성과 죄의 결과를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל יְמֵי (콜 예메) - 모든 날들",
+        "description": "'콜 예메'는 문자적으로 '모든 날들'을 의미하며, 한 사람의 전 생애를 총괄하는 표현입니다. 창세기 5장은 각 족장의 생애를 마무리할 때 이 표현을 사용하여 하나님이 주신 시간의 완성을 나타냅니다.",
+        "points": [
+          "우리의 모든 날은 하나님의 손 안에 있습니다",
+          "생명의 길이는 하나님이 정하십니다",
+          "각 사람의 생애는 하나님 앞에서 완전히 계산됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תְשַׁע מֵאוֹת שָׁנָה (트샤 메오트 샤나) - 900년",
+        "description": "에노스는 905년을 살았습니다. 이는 아담(930년)보다는 짧지만 여전히 놀라운 장수입니다. 창세기 5장의 족장들은 대부분 900년 전후로 살았으며, 이는 타락 이전 창조의 완전함이 아직 어느 정도 남아있었음을 보여줍니다.",
+        "points": [
+          "초기 인류의 장수는 하나님의 창조가 '보기에 심히 좋았다'는 증거입니다",
+          "점차 수명이 줄어드는 것은 죄의 영향이 누적됨을 보여줍니다",
+          "긴 수명은 신앙의 유산을 여러 세대에 전할 기회를 제공했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּמֹת (바야모트) - 그리고 죽었다",
+        "description": "'바야모트'는 창세기 5장에서 반복되는 비극적인 후렴구입니다. 에녹을 제외한 모든 족장의 기록은 '그리고 죽었다'로 끝납니다. 이는 창세기 2장 17절의 하나님의 경고('네가 먹는 날에는 반드시 죽으리라')가 성취되었음을 보여줍니다.",
+        "points": [
+          "죄의 삯은 사망입니다(로마서 6:23)",
+          "아무리 오래 살아도 죽음은 모든 사람의 운명입니다",
+          "그러나 에녹의 예외는 죽음을 이길 수 있는 희망을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "חָמֵשׁ שָׁנִים (하메쉬 샤님) - 5년의 의미",
+        "description": "에노스는 정확히 905년을 살았습니다. 성경은 그의 나이를 정확하게 기록함으로써 역사의 실제성을 강조합니다. 이는 단순한 신화가 아니라 실제 역사적 인물들의 기록입니다.",
+        "points": [
+          "성경의 족보는 정확한 역사 기록입니다",
+          "하나님은 우리 생애의 모든 날을 세고 계십니다",
+          "우리의 생명은 하나님 앞에서 소중하고 의미가 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에노스는 그렇게 오래 살았는데도 결국 죽었나요?",
+      "answer": "성경은 '죄의 삯은 사망'이라고 말해요. 아담과 하와가 선악과를 먹은 후, 모든 사람은 죽게 되었어요. 에노스도 하나님의 축복으로 905년이나 살았지만, 그도 죄인이었기 때문에 결국 죽었답니다. 하지만 슬퍼할 필요는 없어요! 예수님께서 죽음을 이기셨고, 예수님을 믿는 사람들은 영원히 살 수 있게 되었거든요. 에노스의 죽음은 우리에게 영생이 얼마나 소중한지를 가르쳐줍니다.",
+      "bibleReferences": [
+        "로마서 6:23 - '죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라'",
+        "히브리서 9:27 - '한 번 죽는 것은 사람에게 정해진 것이요 그 후에는 심판이 있으리니'",
+        "요한복음 11:25-26 - '예수께서 이르시되 나는 부활이요 생명이니 나를 믿는 자는 죽어도 살겠고'",
+        "시편 90:12 - '우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "'그리고 죽었다'는 반복구는 죄의 보편성과 심각성을 강조합니다. 그러나 동시에 창세기 5장 24절의 에녹('하나님과 동행하더니 하나님이 그를 데려가시므로 세상에 있지 아니하였더라')은 죽음을 이길 수 있는 희망을 제시합니다. 그리스도 안에서 우리는 육체적 죽음을 넘어 영원한 생명을 얻습니다(요한복음 3:16)."
+    }
+  }
+}

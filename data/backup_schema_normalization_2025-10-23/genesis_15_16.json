@@ -1,0 +1,181 @@
+{
+  "id": "genesis_15_16",
+  "reference": "창세기 15:16",
+  "hebrew": "וְדוֹר רְבִיעִי, יָשׁוּבוּ הֵנָּה: כִּי לֹא-שָׁלֵם עֲוֺן הָאֱמֹרִי, עַד-הֵנָּה.",
+  "ipa": "ˈhɛna ʕad haʔɛmoˈri ʕaˈvon ʃaˈlem lo ki ˈhɛna jaˈʃuvu rəviˈʕi vəˈdor",
+  "koreanPronunciation": "헤나 아드 하에모리 아본 샬렘 로 키 헤나 야슈부 레비이 베도르",
+  "modern": "그러나 4대째에 그들이 이곳으로 돌아올 것이다. 아모리 족속의 죄악이 아직 가득 차지 않았기 때문이다.",
+  "words": [
+    {
+      "hebrew": "וְדוֹר רְבִיעִי",
+      "meaning": "4대째에",
+      "ipa": "rəviˈʕi vəˈdor",
+      "korean": "레비이 베도르",
+      "letters": "וְ(ve) + דוֹר(dor) + רְ(re) + בִי(vi) + עִי(i)",
+      "root": "דּוֹר (도르)",
+      "grammar": "명사",
+      "emoji": "4️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-gen1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#06B6D4\" /><stop offset=\"100%\" stop-color=\"#0891B2\" /></linearGradient><linearGradient id=\"return16-gen2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient></defs><circle cx=\"18\" cy=\"18\" r=\"8\" fill=\"url(#return16-gen1)\" opacity=\"0.6\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"url(#return16-gen1)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#return16-gen1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"38\" cy=\"32\" r=\"8\" fill=\"url(#return16-gen1)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"46\" r=\"10\" fill=\"url(#return16-gen2)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"52\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">4</text><line x1=\"18\" y1=\"26\" x2=\"24\" y2=\"24\" stroke=\"url(#return16-gen1)\" stroke-width=\"2\" opacity=\"0.5\" /><line x1=\"32\" y1=\"26\" x2=\"32\" y2=\"36\" stroke=\"url(#return16-gen1)\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "דּוֹר (도르 - 세대)",
+        "דּוֹרוֹת (도로트 - 대대, 세대들)"
+      ]
+    },
+    {
+      "hebrew": "יָשׁוּבוּ",
+      "meaning": "돌아올 것이다",
+      "ipa": "jaˈʃuvu",
+      "korean": "야슈부",
+      "letters": "יָ(ya) + שׁוּ(shu) + בוּ(vu)",
+      "root": "ש-ו-ב (슈브)",
+      "grammar": "동사",
+      "emoji": "↩️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-return1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#10B981\" /><stop offset=\"100%\" stop-color=\"#059669\" /></linearGradient><radialGradient id=\"return16-return2\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#return16-return1)\" opacity=\"0.1\" /><path d=\"M 48 24 Q 48 12 32 12 Q 16 12 16 24 Q 16 36 24 36\" stroke=\"url(#return16-return1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><polygon points=\"24,36 16,40 20,28\" fill=\"url(#return16-return1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"12\" r=\"6\" fill=\"url(#return16-return2)\" filter=\"drop-shadow(0 0 8px rgba(252, 211, 77, 0.8))\" /><path d=\"M 28 48 L 36 48 L 36 52 L 32 56 L 28 52 Z\" fill=\"url(#return16-return1)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아오다, 회개하다)",
+        "תְּשׁוּבָה (테슈바 - 회개, 귀환)"
+      ]
+    },
+    {
+      "hebrew": "הֵנָּה",
+      "meaning": "이곳으로, 여기로",
+      "ipa": "ˈhɛna",
+      "korean": "헤나",
+      "letters": "הֵ(he) + נָּה(na)",
+      "root": "הֵנָּה (헤나)",
+      "grammar": "부사",
+      "emoji": "📍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-here1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EF4444\" /><stop offset=\"100%\" stop-color=\"#DC2626\" /></linearGradient><radialGradient id=\"return16-here2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FCA5A5\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"56\" rx=\"16\" ry=\"4\" fill=\"rgba(0, 0, 0, 0.2)\" /><path d=\"M 32 12 Q 20 12 20 24 Q 20 36 32 52 Q 44 36 44 24 Q 44 12 32 12 Z\" fill=\"url(#return16-here1)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#return16-here2)\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"24\" r=\"4\" fill=\"url(#return16-here1)\" /></svg>",
+      "relatedWords": [
+        "הֵנָּה (헤나 - 여기로)",
+        "פֹּה (포 - 여기)"
+      ]
+    },
+    {
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּי(ki)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "emoji": "🔗",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-because1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#6D28D9\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#return16-because1)\" opacity=\"0.2\" /><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#return16-because1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#return16-because1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" rx=\"2\" fill=\"url(#return16-because1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+    },
+    {
+      "hebrew": "לֹא-שָׁלֵם",
+      "meaning": "완전하지 않다, 가득 차지 않다",
+      "ipa": "ʃaˈlem lo",
+      "korean": "샬렘 로",
+      "letters": "לֹא(lo) + שָׁ(sha) + לֵם(lem)",
+      "root": "ש-ל-ם (샬람)",
+      "grammar": "동사",
+      "emoji": "⚖️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-complete1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></linearGradient><linearGradient id=\"return16-complete2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC2626\" /><stop offset=\"100%\" stop-color=\"#991B1B\" /></linearGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"44\" rx=\"2\" fill=\"url(#return16-complete1)\" opacity=\"0.3\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"36\" width=\"32\" height=\"20\" fill=\"url(#return16-complete2)\" opacity=\"0.7\" /><line x1=\"12\" y1=\"36\" x2=\"52\" y2=\"36\" stroke=\"#78350F\" stroke-width=\"2\" stroke-dasharray=\"4,2\" /><text x=\"32\" y=\"30\" font-size=\"10\" fill=\"#78350F\" text-anchor=\"middle\" font-weight=\"bold\">50%</text><circle cx=\"48\" cy=\"20\" r=\"8\" fill=\"#DC2626\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(220, 38, 38, 0.6))\" /><line x1=\"44\" y1=\"16\" x2=\"52\" y2=\"24\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "עֲוֺן",
+      "meaning": "죄악",
+      "ipa": "ʕaˈvon",
+      "korean": "아본",
+      "letters": "עֲ(a) + וֺן(von)",
+      "root": "ע-ו-ן (아본)",
+      "grammar": "명사",
+      "emoji": "⚠️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-sin1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC2626\" /><stop offset=\"100%\" stop-color=\"#7F1D1D\" /></linearGradient><radialGradient id=\"return16-sin2\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient></defs><polygon points=\"32,8 8,56 56,56\" fill=\"url(#return16-sin1)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.5))\" /><polygon points=\"32,16 14,52 50,52\" fill=\"url(#return16-sin2)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#FEF3C7\" filter=\"drop-shadow(0 0 4px rgba(254, 243, 199, 0.8))\" /><rect x=\"30\" y=\"34\" width=\"4\" height=\"12\" rx=\"2\" fill=\"#FEF3C7\" filter=\"drop-shadow(0 0 4px rgba(254, 243, 199, 0.8))\" /><path d=\"M 20 48 L 44 48\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "עָוֹן (아본 - 죄, 불법)",
+        "חַטָּאת (하타트 - 죄)"
+      ]
+    },
+    {
+      "hebrew": "הָאֱמֹרִי",
+      "meaning": "아모리 족속",
+      "ipa": "haʔɛmoˈri",
+      "korean": "하에모리",
+      "letters": "הָ(ha) + אֱ(e) + מֹ(mo) + רִי(ri)",
+      "root": "אֱמֹרִי (에모리)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-amorite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#78350F\" /><stop offset=\"100%\" stop-color=\"#451A03\" /></linearGradient><linearGradient id=\"return16-amorite2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A16207\" /><stop offset=\"100%\" stop-color=\"#78350F\" /></linearGradient></defs><circle cx=\"20\" cy=\"20\" r=\"8\" fill=\"url(#return16-amorite2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#return16-amorite2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"20\" r=\"8\" fill=\"url(#return16-amorite2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 14 28 Q 14 32 18 32 L 22 32 Q 26 32 26 36 L 26 52 L 14 52 Z\" fill=\"url(#return16-amorite1)\" /><path d=\"M 26 28 Q 26 32 30 32 L 34 32 Q 38 32 38 36 L 38 52 L 26 52 Z\" fill=\"url(#return16-amorite1)\" /><path d=\"M 38 28 Q 38 32 42 32 L 46 32 Q 50 32 50 36 L 50 52 L 38 52 Z\" fill=\"url(#return16-amorite1)\" /><circle cx=\"32\" cy=\"8\" r=\"6\" fill=\"#DC2626\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(220, 38, 38, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אֱמֹרִי (에모리 - 아모리인)",
+        "כְּנַעֲנִי (케나아니 - 가나안인)"
+      ]
+    },
+    {
+      "hebrew": "עַד-הֵנָּה",
+      "meaning": "아직까지",
+      "ipa": "ˈhɛna ʕad",
+      "korean": "헤나 아드",
+      "letters": "עַד(ad) + הֵנָּה(hena)",
+      "root": "עַד (아드)",
+      "grammar": "부사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return16-until1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3B82F6\" /><stop offset=\"100%\" stop-color=\"#1D4ED8\" /></linearGradient><linearGradient id=\"return16-until2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#93C5FD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#return16-until1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#return16-until1)\" stroke-width=\"4\" fill=\"url(#return16-until2)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#1D4ED8\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"#1D4ED8\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"#3B82F6\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 8 L 28 4 L 36 4 Z\" fill=\"#DC2626\" opacity=\"0.7\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 이스라엘의 귀환 시기를 정확히 예고하시면서, 그 이유를 놀랍게도 아모리 족속의 죄악이 아직 가득 차지 않았기 때문이라고 말씀하십니다. 이는 하나님의 공의와 인내하심을 동시에 보여주는 심오한 진리입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְדוֹר רְבִיעִי (베도르 레비이) - 4대째",
+        "description": "'도르'는 세대를 의미하며, '레비이'는 네 번째를 뜻합니다. 이집트 체류 기간 400년을 세대로 환산하면 약 4세대입니다 (세대당 약 100년 계산). 출애굽 때 실제로 레위-고핫-아므람-모세로 4대가 지났습니다 (출애굽기 6:16-20).",
+        "points": [
+          "하나님의 시간표는 정확하며 세대 단위로도 계획되어 있습니다",
+          "4세대는 충분한 시간이 지났음을 의미합니다",
+          "모세는 아모리 땅을 정복하고 돌아온 4대째 지도자였습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יָשׁוּבוּ הֵנָּה (야슈부 헤나) - 이곳으로 돌아올",
+        "description": "'슈브'는 돌아오다, 회복하다는 의미로, 단순한 귀환이 아니라 약속의 땅으로의 회복을 의미합니다. '헤나'(여기로)는 하나님이 아브라함과 언약을 맺고 있는 바로 그 가나안 땅을 가리킵니다.",
+        "points": [
+          "가나안 땅은 하나님이 아브라함에게 약속하신 영원한 유업입니다",
+          "400년의 시련 후에도 약속은 여전히 유효합니다",
+          "하나님은 시간이 아무리 지나도 약속을 잊지 않으십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עֲוֺן הָאֱמֹרִי (아본 하에모리) - 아모리의 죄악",
+        "description": "'아본'은 의도적인 죄, 고의적인 불법을 의미합니다. 아모리 족속은 가나안 땅의 대표적인 원주민으로, 우상숭배, 음행, 아이 제사 등 극심한 죄악을 행했습니다. 하나님은 그들의 죄가 심판받을 만큼 충분히 쌓일 때까지 기다리십니다.",
+        "points": [
+          "하나님은 즉각 심판하지 않으시고 회개의 기회를 주십니다",
+          "아모리의 죄악은 레위기 18장에 자세히 묘사되어 있습니다",
+          "하나님의 인내는 무한하지 않으며, 정해진 때가 있습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לֹא-שָׁלֵם... עַד-הֵנָּה (로 샬렘 아드 헤나) - 아직 가득 차지 않았다",
+        "description": "'샬렘'은 완성되다, 가득 차다는 의미입니다. 하나님은 죄의 양을 측정하시며, 일정한 한계에 도달할 때 심판하십니다. 이는 하나님의 공의가 자의적이지 않고 정확하며, 동시에 인내하심을 보여줍니다.",
+        "points": [
+          "하나님은 죄의 분량을 정확히 아시고 계십니다",
+          "노아 시대, 소돔과 고모라처럼 죄가 가득 찰 때 심판이 옵니다",
+          "하나님의 인내는 회개의 기회이지만, 끝이 있습니다 (베드로후서 3:9)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아모리 사람들의 죄가 가득 찰 때까지 기다리셨나요?",
+      "answer": "하나님은 공평하신 분이세요. 아모리 사람들이 나쁜 일을 했다고 해서 바로 벌하시는 게 아니라, 그들에게도 잘못을 고칠 기회를 주셨어요. 마치 선생님이 잘못한 학생을 바로 혼내지 않고 '한 번 더 기회를 줄게, 이제 그만하렴'이라고 말씀하시는 것처럼요. 하지만 아모리 사람들은 계속 나쁜 일을 했고, 결국 하나님은 '이제 충분히 기다렸어, 이제는 벌을 받아야 해'라고 하셨답니다. 하나님은 참을성이 많으시지만, 나쁜 일을 계속하면 결국 벌을 주시는 분이에요.",
+      "bibleReferences": [
+        "레위기 18:24-25 - '너희는 이 모든 일로 스스로 더럽히지 말라 내가 너희 앞에서 쫓아내는 민족들이 이 모든 일로 말미암아 더러워졌고 그 땅도 더러워졌으므로 내가 그 악으로 말미암아 벌하고'",
+        "신명기 9:4-5 - '네 하나님 여호와께서 그들을 네 앞에서 쫓아내신 후에 네가 심중에 이르기를... 이 민족들의 악함으로 말미암아 네 하나님 여호와께서 그들을 네 앞에서 쫓아내심이니라'",
+        "베드로후서 3:9 - '주의 약속은 어떤 이들이 더디다고 생각하는 것 같이 더딘 것이 아니라 오직 주께서는 너희를 대하여 오래 참으사 아무도 멸망하지 아니하고 다 회개하기에 이르기를 원하시느니라'",
+        "마태복음 23:32 - '너희가 너희 조상의 분량을 채우라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님의 심판은 자의적이지 않으며 정확합니다. 하나님은 죄의 분량을 측정하시며, 회개의 기회를 충분히 주신 후에 심판하십니다. 아모리 족속에 대한 하나님의 인내는 400년이었지만, 그들은 끝까지 회개하지 않았습니다. 이는 종말론적 심판을 예표하며, '죄의 삯은 사망'이라는 진리를 보여줍니다. 동시에 하나님의 인내하심과 공의가 완벽하게 조화를 이룬다는 것을 가르쳐줍니다."
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "id": "genesis_4_26",
+  "reference": "창세기 4:26",
+  "hebrew": "",
+  "ipa": "ulˈʃet ɡam hu julˈlad ben vajikˈra ʔɛt ʃəˈmo ʔeˈnoʃ ʔaz huxˈal likˈro bəˈʃem jəhoˈva",
+  "koreanPronunciation": "울쉐트 감 후 율라드 벤 바이크라 에트 쉐모 에노쉬 아즈 후할 리크로 베쉠 예호와",
+  "modern": "셋도 아들을 낳고 그의 이름을 에노스라 하였습니다. 그때부터 사람들이 여호와의 이름을 부르기 시작하였습니다",
+  "words": [
+    {
+      "hebrew": "וּלְשֵׁת",
+      "meaning": "그리고 셋에게도",
+      "ipa": "ulˈʃet",
+      "korean": "울쉐트",
+      "letters": "וּ(u) + לְ(le) + שֵׁת(shet)",
+      "root": "ש-י-ת (쉬트)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"seth26\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"hope26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#seth26)\" opacity=\"0.4\"/><polygon points=\"32,12 34,24 44,26 34,28 32,40 30,28 20,26 30,24\" fill=\"url(#hope26)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "גַּם הוּא",
+      "meaning": "그 또한",
+      "ipa": "ɡam hu",
+      "korean": "감 후",
+      "letters": "גַּם(gam) + הוּא(hu)",
+      "root": "גַּם (감)",
+      "grammar": "부사",
+      "emoji": "➕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"also26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#also26)\" opacity=\"0.2\"/><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" rx=\"2\" fill=\"url(#also26)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/><rect x=\"16\" y=\"28\" width=\"32\" height=\"8\" rx=\"2\" fill=\"url(#also26)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "יֻלַּד",
+      "meaning": "태어나다",
+      "ipa": "julˈlad",
+      "korean": "율라드",
+      "letters": "יֻ(yu) + לַּד(lad)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"born26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"halo26\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#halo26)\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#born26)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#born26)\"/></svg>"
+    },
+    {
+      "hebrew": "בֵּן",
+      "meaning": "아들",
+      "ipa": "ben",
+      "korean": "벤",
+      "letters": "בֵּן(ben)",
+      "root": "ב-נ-ה (바나)",
+      "grammar": "명사",
+      "emoji": "👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"son26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#son26)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#333\"/><path d=\"M 20 38 L 32 34 L 44 38 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#son26)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 부르다",
+      "ipa": "vajikˈra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְרָא(kra)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "📢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"call26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#F7931E\"/></linearGradient></defs><path d=\"M 16 32 L 28 20 L 28 28 L 48 28 L 48 36 L 28 36 L 28 44 Z\" fill=\"url(#call26)\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 53, 0.4))\"/><circle cx=\"20\" cy=\"32\" r=\"3\" fill=\"#FF6B35\" opacity=\"0.3\"><animate attributeName=\"r\" from=\"3\" to=\"8\" dur=\"1s\" repeatCount=\"indefinite\"/><animate attributeName=\"opacity\" from=\"0.3\" to=\"0\" dur=\"1s\" repeatCount=\"indefinite\"/></circle></svg>"
+    },
+    {
+      "hebrew": "אֶת שְׁמוֹ",
+      "meaning": "그의 이름을",
+      "ipa": "ʔɛt ʃəˈmo",
+      "korean": "에트 쉐모",
+      "letters": "אֶת(et) + שְׁ(she) + מוֹ(mo)",
+      "root": "ש-מ-ו (솀)",
+      "grammar": "명사",
+      "emoji": "🏷️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><rect x=\"14\" y=\"20\" width=\"36\" height=\"24\" rx=\"4\" fill=\"url(#name26)\" filter=\"drop-shadow(0 2px 6px rgba(106, 27, 154, 0.4))\"/><circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><line x1=\"28\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\"/><line x1=\"28\" y1=\"36\" x2=\"40\" y2=\"36\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "אֱנוֹשׁ",
+      "meaning": "에노스 (연약한 인간)",
+      "ipa": "ʔeˈnoʃ",
+      "korean": "에노쉬",
+      "letters": "אֱ(e) + נוֹשׁ(nosh)",
+      "root": "א-נ-ש (아나쉬)",
+      "grammar": "명사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enosh26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient><radialGradient id=\"humble26\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(156, 39, 176, 0.2)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#humble26)\"/><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#enosh26)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 44 L 32 40 L 44 44 L 44 56 L 32 52 L 20 56 Z\" fill=\"url(#enosh26)\"/><path d=\"M 26 48 L 28 42 L 30 48\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 34 48 L 36 42 L 38 48\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "אָז",
+      "meaning": "그때, 그때부터",
+      "ipa": "ʔaz",
+      "korean": "아즈",
+      "letters": "אָז(az)",
+      "root": "אָז (아즈)",
+      "grammar": "부사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"then26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF9800\"/><stop offset=\"100%\" stop-color=\"#F57C00\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#then26)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 4px rgba(245, 124, 0, 0.4))\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"18\" stroke=\"url(#then26)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#then26)\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FF9800\"/></svg>"
+    },
+    {
+      "hebrew": "הוּחַל",
+      "meaning": "시작되다",
+      "ipa": "huxˈal",
+      "korean": "후할",
+      "letters": "הוּ(hu) + חַל(hal)",
+      "root": "ח-ל-ל (할랄)",
+      "grammar": "동사",
+      "emoji": "🚀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"begin26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></linearGradient><radialGradient id=\"fire26\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></radialGradient></defs><polygon points=\"32,8 28,32 32,28 36,32\" fill=\"url(#begin26)\" filter=\"drop-shadow(0 2px 6px rgba(25, 118, 210, 0.5))\"/><ellipse cx=\"32\" cy=\"32\" rx=\"6\" ry=\"4\" fill=\"url(#begin26)\"/><ellipse cx=\"32\" cy=\"48\" rx=\"10\" ry=\"8\" fill=\"url(#fire26)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "לִקְרֹא",
+      "meaning": "부르다, 찬양하다",
+      "ipa": "likˈro",
+      "korean": "리크로",
+      "letters": "לִ(li) + קְרֹא(kro)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "📣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"proclaim26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#F7931E\"/></linearGradient></defs><path d=\"M 12 24 L 28 16 L 28 48 L 12 40 Z\" fill=\"url(#proclaim26)\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 53, 0.4))\"/><rect x=\"28\" y=\"24\" width=\"8\" height=\"16\" fill=\"url(#proclaim26)\"/><path d=\"M 40 20 Q 48 32 40 44\" stroke=\"#FF6B35\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 46 16 Q 56 32 46 48\" stroke=\"#F7931E\" stroke-width=\"3\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "בְּשֵׁם",
+      "meaning": "이름으로",
+      "ipa": "bəˈʃem",
+      "korean": "베쉠",
+      "letters": "בְּ(be) + שֵׁם(shem)",
+      "root": "ש-מ-ו (솀)",
+      "grammar": "명사",
+      "emoji": "✍️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"inname26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"url(#inname26)\" opacity=\"0.2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 24 24 Q 32 28 40 24\" stroke=\"url(#inname26)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 24 32 L 40 32\" stroke=\"url(#inname26)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 24 40 L 36 40\" stroke=\"url(#inname26)\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈva",
+      "korean": "예호와",
+      "letters": "יְ(ye) + הוָה(hovah)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh26\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh26)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam26)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 26절은 인류 역사에서 매우 중요한 전환점을 기록합니다. 셋의 아들 에노스 시대에 사람들이 여호와의 이름을 부르기 시작했다는 것은 공적인 예배와 신앙 공동체의 시작을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֱנוֹשׁ (에노쉬) - 연약한 인간",
+        "description": "'에노쉬'라는 이름은 '연약하다', '필멸의 인간'을 의미합니다. 이는 하나님 앞에서 인간의 연약함과 유한성을 인정하는 겸손한 신앙의 표현입니다.",
+        "points": [
+          "인간의 본질적 연약함과 필멸성을 인정",
+          "하나님께 의존해야 하는 존재임을 깨닫는 신앙",
+          "교만한 가인의 후손과 대비되는 겸손한 태도"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הוּחַל (후할) - 시작되다",
+        "description": "'할랄' 동사의 수동형으로, '시작되다', '개시되다'를 의미합니다. 이는 자발적이고 공적인 예배 운동의 시작을 나타냅니다.",
+        "points": [
+          "개인적 신앙에서 공동체적 예배로의 전환",
+          "정기적이고 조직화된 예배의 시작",
+          "후대에 이어질 신앙 전통의 확립"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לִקְרֹא בְּשֵׁם יְהוָה (리크로 베쉠 예호와) - 여호와의 이름을 부르다",
+        "description": "'여호와의 이름을 부르다'는 표현은 단순한 기도를 넘어 공적인 예배, 찬양, 선포를 의미합니다. 하나님과의 언약 관계를 공적으로 고백하는 것입니다.",
+        "points": [
+          "하나님의 계시된 이름 '여호와'를 사용한 예배",
+          "개인적 경건을 넘어 공동체적 신앙 고백",
+          "아브라함(창 12:8), 이삭(창 26:25)으로 이어지는 예배 전통의 시작"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אָז (아즈) - 그때부터",
+        "description": "'그때부터'라는 시간 표지는 에노스 시대가 신앙사에서 중요한 전환점임을 강조합니다. 가인과 아벨의 비극 이후 새로운 시대가 열린 것입니다.",
+        "points": [
+          "경건한 계보(셋의 후손)와 세속적 계보(가인의 후손)의 분리 시작",
+          "공적 예배를 통한 신앙 공동체의 정체성 확립",
+          "메시아 계보로 이어질 경건한 후손들의 출발점"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "사람들은 왜 에노스 시대부터 여호와의 이름을 부르기 시작했나요?",
+      "answer": "에노스의 이름은 '연약한 사람'이라는 뜻이에요. 가인이 아벨을 죽인 후, 사람들은 자기들이 얼마나 약하고 하나님의 도움이 필요한지 깨달았어요. 그래서 여러 사람이 함께 모여서 하나님을 예배하고 하나님의 이름을 부르기 시작했답니다. 마치 우리가 교회에 모여서 함께 찬양하고 기도하는 것처럼, 그때부터 사람들이 함께 하나님을 예배하기 시작한 거예요.",
+      "bibleReferences": [
+        "창세기 12:8 - '거기서 벧엘 동쪽 산으로 옮겨 장막을 치고 여호와의 이름을 부르며'",
+        "시편 116:13 - '내가 구원의 잔을 들고 여호와의 이름을 부르며'",
+        "요엘 2:32 - '누구든지 여호와의 이름을 부르는 자는 구원을 얻으리니'",
+        "로마서 10:13 - '누구든지 주의 이름을 부르는 자는 구원을 받으리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "에노스 시대에 시작된 '여호와의 이름을 부르는' 예배는 인류 신앙사의 중요한 이정표입니다. 이는 단순히 개인적 경건을 넘어 신앙 공동체가 형성되고, 공적 예배가 시작되었음을 의미합니다. 셋의 후손들은 가인의 세속적 문명과 구별되어 하나님을 예배하는 경건한 계보를 형성했으며, 이는 결국 노아, 아브라함, 그리고 예수 그리스도로 이어지는 구속사의 핵심 계보가 됩니다. 오늘날 우리가 교회에 모여 하나님을 예배하는 것도 이 전통의 연속입니다."
+    }
+  }
+}

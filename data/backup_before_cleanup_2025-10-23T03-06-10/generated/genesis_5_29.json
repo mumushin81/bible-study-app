@@ -1,0 +1,222 @@
+{
+  "verse_id": "genesis_5_29",
+  "ipa": "vajikˈra ʔɛt ʃəˈmo ˈnoaχ leˈmor ˈzɛ jənaχaˈmenu mimaʔaˈsenu umeʔitsəˈvon jaˈdenu min haʔadaˈma ʔaˈʃɛr ʔereˈrah ʔadonˈaj",
+  "korean_pronunciation": "바이크라 에트 쉐모 노아흐 레모르 제 예나하메누 미마아세누 우메이체본 야데누 민 하아다마 아쉐르 에레라 아도나이",
+  "modern": "레멕이 아들의 이름을 노아라 지으며 말했습니다. \"이 아이가 여호와께서 저주하신 땅으로 인한 우리의 수고와 고통에서 우리를 위로할 것이다\"",
+  "words": [
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 그가 불렀다, 이름 지었다",
+      "ipa": "vajikˈra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְ(k) + רָ(ra) + א(ʔ)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "📢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"voice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#7B68EE\" /></linearGradient><radialGradient id=\"sound1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#voice1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#voice1)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#voice1)\" filter=\"drop-shadow(0 0 8px rgba(74, 144, 226, 0.8))\" /><path d=\"M 20 32 Q 16 28 12 32 Q 16 36 20 32\" fill=\"url(#sound1)\" /><path d=\"M 44 32 Q 48 28 52 32 Q 48 36 44 32\" fill=\"url(#sound1)\" /></svg>",
+      "relatedWords": [
+        "קָרָא (카라 - 부르다, 선포하다)",
+        "שֵׁם (쉠 - 이름)"
+      ]
+    },
+    {
+      "hebrew": "אֶת שְׁמוֹ",
+      "meaning": "그의 이름을",
+      "ipa": "ʔɛt ʃəˈmo",
+      "korean": "에트 쉐모",
+      "letters": "אֶת(et) + שְׁ(she) + מוֹ(mo)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "명사",
+      "emoji": "🏷️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tag1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><rect x=\"10\" y=\"20\" width=\"44\" height=\"24\" rx=\"4\" fill=\"url(#tag1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"18\" cy=\"32\" r=\"3\" fill=\"#8B4513\" /><text x=\"28\" y=\"36\" font-family=\"Arial\" font-size=\"14\" fill=\"#8B4513\" font-weight=\"bold\">שֵׁם</text></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름, 명성)"
+      ]
+    },
+    {
+      "hebrew": "נֹחַ",
+      "meaning": "노아 (위로, 안식)",
+      "ipa": "ˈnoaχ",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(ach)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dove1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8F4F8\" /><stop offset=\"100%\" stop-color=\"#B3D9E6\" /></linearGradient><linearGradient id=\"olive1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient><radialGradient id=\"peace1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#peace1)\" /><ellipse cx=\"26\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"38\" cy=\"32\" rx=\"14\" ry=\"10\" fill=\"url(#dove1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#dove1)\" /><circle cx=\"30\" cy=\"27\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 24 Q 32 22 36 24\" stroke=\"#FFA500\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 36 30 L 46 28 L 48 30 L 46 31 L 44 30\" fill=\"url(#olive1)\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "נָחַם (나함 - 위로하다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "meaning": "말하기를",
+      "ipa": "leˈmor",
+      "korean": "레모르",
+      "letters": "לֵ(le) + אמֹר(mor)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFC0CB\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><polygon points=\"20,44 16,52 26,44\" fill=\"url(#speech1)\" /><circle cx=\"22\" cy=\"30\" r=\"2\" fill=\"#FF69B4\" /><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FF69B4\" /><circle cx=\"42\" cy=\"30\" r=\"2\" fill=\"#FF69B4\" /></svg>"
+    },
+    {
+      "hebrew": "זֶה",
+      "meaning": "이 자, 이 사람",
+      "ipa": "ˈzɛ",
+      "korean": "제",
+      "letters": "זֶ(ze) + ה(h)",
+      "root": "זֶה (제)",
+      "grammar": "대명사",
+      "emoji": "👆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><path d=\"M 32 8 L 36 20 L 32 18 L 28 20 Z\" fill=\"url(#point1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"30\" y=\"18\" width=\"4\" height=\"20\" fill=\"url(#point1)\" /><circle cx=\"32\" cy=\"46\" r=\"12\" fill=\"rgba(255, 215, 0, 0.3)\" /><text x=\"32\" y=\"52\" font-size=\"12\" text-anchor=\"middle\" fill=\"#FF8C00\" font-weight=\"bold\">!</text></svg>"
+    },
+    {
+      "hebrew": "יְנַחֲמֵנוּ",
+      "meaning": "우리를 위로할 것이다",
+      "ipa": "jənaχaˈmenu",
+      "korean": "예나하메누",
+      "letters": "יְ(ye) + נַ(na) + חֲ(cha) + מֵ(me) + נוּ(nu)",
+      "root": "נ-ח-ם (나함)",
+      "grammar": "동사",
+      "emoji": "🤗",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"comfort1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"warmth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#comfort1)\" opacity=\"0.3\" /><ellipse cx=\"22\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"url(#warmth1)\" opacity=\"0.6\" /><ellipse cx=\"42\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"url(#warmth1)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"34\" r=\"10\" fill=\"url(#comfort1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2))\" /><path d=\"M 26 38 Q 32 42 38 38\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "נָחַם (나함 - 위로하다, 후회하다)",
+        "נֶחָמָה (네하마 - 위로)",
+        "תַּנְחוּמִים (탄후밈 - 위로들)"
+      ]
+    },
+    {
+      "hebrew": "מִמַּעֲשֵׂנוּ",
+      "meaning": "우리의 일로부터, 우리의 수고로부터",
+      "ipa": "mimaʔaˈsenu",
+      "korean": "미마아세누",
+      "letters": "מִ(mi) + מַּ(ma) + עֲ(a) + שֵׂ(se) + נוּ(nu)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "명사",
+      "emoji": "💪",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"work1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD853F\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"sweat1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><rect x=\"8\" y=\"36\" width=\"48\" height=\"20\" rx=\"4\" fill=\"url(#work1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"32\" width=\"12\" height=\"8\" fill=\"url(#work1)\" /><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"18\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"18\" r=\"2\" fill=\"#654321\" /><ellipse cx=\"34\" cy=\"22\" rx=\"2\" ry=\"3\" fill=\"url(#sweat1)\" opacity=\"0.7\" /><ellipse cx=\"38\" cy=\"24\" rx=\"1.5\" ry=\"2\" fill=\"url(#sweat1)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מַעֲשֶׂה (마아세 - 일, 행위)",
+        "עָשָׂה (아사 - 만들다, 행하다)"
+      ]
+    },
+    {
+      "hebrew": "וּמֵעִצְּבוֹן יָדֵינוּ",
+      "meaning": "그리고 우리 손의 고통으로부터",
+      "ipa": "umeʔitsəˈvon jaˈdenu",
+      "korean": "우메이체본 야데누",
+      "letters": "וּ(u) + מֵ(me) + עִצְּ(its) + בוֹן(von) + יָ(ya) + דֵי(de) + נוּ(nu)",
+      "root": "ע-צ-ב (아차브)",
+      "grammar": "명사",
+      "emoji": "😓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pain1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FF6347\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#DC143C\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#glow1)\" /><path d=\"M 16 32 L 20 28 L 24 32 L 28 24 L 32 36 L 36 20 L 40 32 L 44 28 L 48 32\" stroke=\"url(#pain1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 22 42 Q 24 38 26 42\" fill=\"none\" stroke=\"url(#pain1)\" stroke-width=\"2\" /><path d=\"M 38 42 Q 40 38 42 42\" fill=\"none\" stroke=\"url(#pain1)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "עִצָּבוֹן (이차본 - 고통, 슬픔)",
+        "עָצַב (아차브 - 아프게 하다, 슬프게 하다)",
+        "יָד (야드 - 손)"
+      ]
+    },
+    {
+      "hebrew": "מִן הָאֲדָמָה",
+      "meaning": "땅으로부터",
+      "ipa": "min haʔadaˈma",
+      "korean": "민 하아다마",
+      "letters": "מִן(min) + הָ(ha) + אֲ(a) + דָ(da) + מָה(ma)",
+      "root": "א-ד-מ (아담)",
+      "grammar": "명사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"soil1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"plant1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient></defs><rect x=\"8\" y=\"40\" width=\"48\" height=\"20\" fill=\"url(#soil1)\" filter=\"drop-shadow(0 -2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 40 Q 30 32 28 24 Q 26 20 24 18\" stroke=\"url(#plant1)\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"24\" cy=\"16\" rx=\"4\" ry=\"6\" fill=\"url(#plant1)\" opacity=\"0.8\" /><path d=\"M 32 40 Q 34 32 36 24 Q 38 20 40 18\" stroke=\"url(#plant1)\" stroke-width=\"2\" fill=\"none\" /><ellipse cx=\"40\" cy=\"16\" rx=\"4\" ry=\"6\" fill=\"url(#plant1)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָדָם (아담 - 사람, 아담)",
+        "אָדֹם (아돔 - 붉은)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר אֵרְרָהּ יְהוָה",
+      "meaning": "여호와께서 저주하신",
+      "ipa": "ʔaˈʃɛr ʔereˈrah ʔadonˈaj",
+      "korean": "아쉐르 에레라 아도나이",
+      "letters": "אֲ(a) + שֶׁר(sher) + אֵ(e) + רְ(re) + רָהּ(rah) + יְהוָה(YHWH)",
+      "root": "א-ר-ר (아라르)",
+      "grammar": "동사",
+      "emoji": "⚡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"curse1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8B008B\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"10\" fill=\"url(#divine1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 26 L 28 36 L 32 34 L 36 36 Z\" fill=\"url(#curse1)\" /><path d=\"M 28 36 L 24 46 L 28 44 L 32 46 Z\" fill=\"url(#curse1)\" /><path d=\"M 36 36 L 32 46 L 36 44 L 40 46 Z\" fill=\"url(#curse1)\" /><circle cx=\"32\" cy=\"52\" r=\"8\" fill=\"url(#curse1)\" opacity=\"0.4\" filter=\"drop-shadow(0 2px 6px rgba(75, 0, 130, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אָרַר (아라르 - 저주하다)",
+        "קְלָלָה (클랄라 - 저주)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 29절은 노아의 탄생과 이름의 의미를 선포하는 예언적 구절입니다. 레멕은 아들의 이름을 '노아(נֹחַ)'라 짓고, 이 아이가 하나님께서 저주하신 땅으로 인한 인류의 수고와 고통에서 위로를 가져올 것이라고 예언합니다. 이 이름은 히브리어 '나함(נָחַם, 위로하다)'과 어원적으로 연결되며, 노아가 가져올 구원과 새로운 시작을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "נֹחַ (노아흐) - 안식과 위로를 가져올 자",
+        "description": "노아의 이름은 히브리어 '누아흐(נוּחַ, 쉬다, 안식하다)'와 '나함(נָחַם, 위로하다)'이라는 두 어근과 연결됩니다. 레멕은 이 이름을 통해 노아가 저주받은 땅에서 고통받는 인류에게 안식과 위로를 가져올 것이라는 예언적 희망을 표현했습니다. 이는 훗날 노아가 방주를 통해 인류를 보존하고, 새로운 시작을 가능케 한 역할을 예표합니다.",
+        "points": [
+          "노아의 이름은 단순한 명칭이 아니라 구원의 약속을 담은 예언입니다",
+          "'안식'과 '위로'는 창세기 3장의 저주로부터의 해방을 암시합니다",
+          "노아는 홍수 후 새로운 창조의 시작을 여는 '두 번째 아담' 역할을 합니다",
+          "그리스도는 궁극적인 '안식'과 '위로'를 주시는 분으로 노아를 통해 예표됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יְנַחֲמֵנוּ (예나하메누) - 위로의 약속",
+        "description": "'나함(נָחַם)'은 '위로하다', '후회하다', '회개하다'는 다층적 의미를 가진 동사입니다. 레멕은 이 동사를 통해 노아가 가져올 위로를 선포합니다. 흥미롭게도 같은 어근이 창세기 6장 6절에서 '하나님이 사람을 지으셨음을 한탄하시다'라는 표현에 사용되며, 노아를 통한 하나님의 구원 계획을 더욱 깊이 있게 보여줍니다.",
+        "points": [
+          "레멕의 예언은 노아가 단순한 개인이 아니라 구원자 역할을 할 것을 암시합니다",
+          "하나님의 '한탄(나함)'과 노아를 통한 '위로(나함)'가 대조를 이룹니다",
+          "진정한 위로는 하나님의 심판 속에서도 은혜를 베푸시는 데서 옵니다",
+          "노아는 궁극적 위로자이신 그리스도의 예표입니다 (마태복음 11:28)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִמַּעֲשֵׂנוּ וּמֵעִצְּבוֹן יָדֵינוּ (미마아세누 우메이체본 야데누) - 수고와 고통",
+        "description": "'마아세(מַעֲשֶׂה, 일, 수고)'와 '이차본(עִצָּבוֹן, 고통)'은 창세기 3장의 저주를 직접 언급합니다. 하와에게는 '해산의 수고(이차본)'가, 아담에게는 '땅을 경작하는 수고(마아세)'가 주어졌습니다. 레멕은 노아가 이 저주의 결과로부터 인류를 구원할 것을 희망했습니다. 이는 단순히 농사일이 쉬워진다는 의미를 넘어, 죄의 결과로부터의 근본적 해방을 가리킵니다.",
+        "points": [
+          "레멕의 말은 창세기 3:16-19의 저주를 직접 인용합니다",
+          "노아는 부분적으로 이 예언을 성취했습니다 - 포도나무를 심고 농업을 발전시켰습니다 (창세기 9:20)",
+          "그러나 완전한 성취는 '수고하고 무거운 짐 진 자'를 부르시는 그리스도에게서 이루어집니다",
+          "새 하늘과 새 땅에서 저주가 완전히 제거될 것입니다 (요한계시록 22:3)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "מִן הָאֲדָמָה אֲשֶׁר אֵרְרָהּ יְהוָה (민 하아다마 아쉐르 에레라 아도나이) - 저주받은 땅",
+        "description": "'아다마(אֲדָמָה, 땅)'는 '아담(אָדָם)'과 어원적으로 연결되며, 인간과 땅의 불가분한 관계를 보여줍니다. 하나님께서 땅을 저주하신 것은 아담의 죄에 대한 심판이었고, 이 저주는 노아 시대까지 계속되었습니다. 레멕은 노아를 통해 이 저주가 풀리기를 소망했습니다. 실제로 홍수 이후 하나님은 '다시는 땅을 저주하지 않겠다'고 약속하셨습니다 (창세기 8:21).",
+        "points": [
+          "아담의 이름(אָדָם)과 땅(אֲדָמָה)의 연결은 인간과 피조세계의 운명이 함께 묶여 있음을 보여줍니다",
+          "땅의 저주는 단순한 농업의 어려움이 아니라 전 피조세계의 탄식입니다 (로마서 8:22)",
+          "노아 홍수 후 하나님은 땅을 더 이상 저주하지 않겠다고 약속하셨습니다 (창세기 8:21)",
+          "궁극적으로 그리스도는 십자가에서 모든 저주를 담당하시고, 새 창조를 가능케 하셨습니다 (갈라디아서 3:13)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 레멕은 아들의 이름을 '노아'라고 지었을까요?",
+      "answer": "레멕은 노아가 태어났을 때 특별한 희망을 느꼈어요. 그때까지 사람들은 하나님께서 저주하신 땅에서 너무 힘들게 일하며 살았어요. 가시덤불이 자라고, 농사짓기가 정말 힘들었답니다. 레멕은 '노아'라는 이름(위로, 안식이라는 뜻)을 통해 이 아들이 우리에게 쉼과 위로를 줄 거라고 믿었어요. 그리고 정말로 노아는 나중에 큰 홍수에서 사람들을 구하고, 하나님께서 땅을 다시 축복하시게 하는 특별한 일을 했답니다. 노아는 하나님의 구원 계획을 이루는 중요한 사람이었어요!",
+      "bibleReferences": [
+        "창세기 3:17-19 - '땅은 너로 말미암아 저주를 받고 너는 네 평생에 수고하여야 그 소산을 먹으리라'",
+        "창세기 8:21 - '내가 다시는 사람으로 말미암아 땅을 저주하지 아니하리니'",
+        "창세기 9:20 - '노아가 농사를 시작하여 포도나무를 심었더니'",
+        "마태복음 11:28 - '수고하고 무거운 짐 진 자들아 다 내게로 오라 내가 너희를 쉬게 하리라'",
+        "요한계시록 22:3 - '다시 저주가 없으며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "노아의 이름과 레멕의 예언은 구속사의 중요한 전환점을 예고합니다. 비록 레멕이 완전히 이해하지 못했을지라도, 그의 예언은 노아를 통한 새로운 시작과 궁극적으로 그리스도를 통한 완전한 구원을 가리킵니다. 노아는 방주를 통해 인류를 보존했고, 홍수 후 하나님은 땅을 더 이상 저주하지 않겠다고 약속하셨습니다. 이는 그리스도께서 십자가에서 모든 저주를 담당하시고, '수고하고 무거운 짐 진 자들'에게 참된 안식을 주실 것을 예표합니다. 노아의 이름에 담긴 '위로'와 '안식'은 결국 그리스도 안에서 완전히 성취됩니다."
+    }
+  }
+}

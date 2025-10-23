@@ -1,0 +1,146 @@
+{
+  "id": "genesis_14_17",
+  "reference": "창세기 14:17",
+  "hebrew": "וַיֵּצֵא מֶלֶךְ-סְדֹם לִקְרָאתוֹ, אַחֲרֵי שׁוּבוֹ מֵהַכּוֹת אֶת-כְּדָרְלָעֹמֶר, וְאֶת-הַמְּלָכִים אֲשֶׁר אִתּוֹ--אֶל-עֵמֶק שָׁוֵה, הוּא עֵמֶק הַמֶּלֶךְ.",
+  "ipa": "hammɛlɛχ ʔɛmɛq huʔ šave ʔɛmɛq ʔɛl ʔitto ʔaˈšɛr hamməlaˈχim vəʔɛt kədarlaˈʔomɛr ʔɛt mehakˈkot šuˈvo ʔaħˈare liqraˈto sədˈom mɛlɛχ vajjɛˈse",
+  "koreanPronunciation": "함멜렉 에메크 후 샤베 에메크 엘 이토 아쉐르 함멜라킴 베에트 케다르라오메르 에트 메하코트 슈보 아하레 리크라토 세돔 멜렉 바예체",
+  "modern": "아브람이 그돌라오멜과 그와 함께한 왕들을 무찌르고 돌아올 때, 소돔 왕이 그를 만나러 사웨 골짜기 곧 왕의 골짜기로 나왔습니다",
+  "words": [
+    {
+      "hebrew": "וַיֵּצֵא",
+      "meaning": "그리고 나왔다",
+      "ipa": "vajjɛˈse",
+      "korean": "바예체",
+      "letters": "וַ(va) + יֵּ(ye) + צֵא(tse)",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-exit17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#4ECDC4\" /></linearGradient><radialGradient id=\"sodom-exit17-grad2\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"100%\" stop-color=\"#FF6B6B\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"20\" height=\"28\" fill=\"url(#sodom-exit17-grad1)\" opacity=\"0.3\" rx=\"2\" /><circle cx=\"40\" cy=\"22\" r=\"7\" fill=\"url(#sodom-exit17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 29 L 36 45\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 40 29 L 44 45\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 36 35 L 40 33\" stroke=\"url(#sodom-exit17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 18 32 L 32 32\" stroke=\"#4ECDC4\" stroke-width=\"2\" stroke-dasharray=\"2 2\" opacity=\"0.7\" /><polygon points=\"32,32 28,30 28,34\" fill=\"#4ECDC4\" /></svg>",
+      "relatedWords": [
+        "יְצִיאָה (예치아 - 출구, 나감)",
+        "מוֹצָא (모차 - 출처, 기원)"
+      ]
+    },
+    {
+      "hebrew": "מֶלֶךְ־סְדֹם",
+      "meaning": "소돔의 왕",
+      "ipa": "sədˈom mɛlɛχ",
+      "korean": "멜렉 세돔",
+      "letters": "מֶ(me) + לֶךְ(lekh) + סְ(sə) + דֹם(dom)",
+      "root": "מֶלֶךְ (멜렉) + סְדֹם (세돔)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-king17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><linearGradient id=\"sodom-king17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient><radialGradient id=\"sodom-king17-grad3\"><stop offset=\"0%\" stop-color=\"#D4AF37\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#sodom-king17-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 38 L 28 56 L 36 56 Z\" fill=\"url(#sodom-king17-grad2)\" /><path d=\"M 12 48 L 16 40 L 22 44 L 32 34 L 42 44 L 48 40 L 52 48 Z\" fill=\"url(#sodom-king17-grad3)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"4\" fill=\"url(#sodom-king17-grad3)\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#E74C3C\" /></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (멜렉 - 왕)",
+        "מַלְכוּת (말쿠트 - 왕국)"
+      ]
+    },
+    {
+      "hebrew": "לִקְרָאתוֹ",
+      "meaning": "그를 만나러",
+      "ipa": "liqraˈto",
+      "korean": "리크라토",
+      "letters": "לִ(li) + קְ(q) + רָא(ra) + תוֹ(to)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-meet17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FA8BFF\" /><stop offset=\"50%\" stop-color=\"#2BD2FF\" /><stop offset=\"100%\" stop-color=\"#2BFF88\" /></linearGradient><radialGradient id=\"sodom-meet17-grad2\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"6\" fill=\"url(#sodom-meet17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"6\" fill=\"url(#sodom-meet17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 34 L 16 48\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 34 L 48 48\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 20 38 L 28 40 L 36 40 L 44 38\" stroke=\"url(#sodom-meet17-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(43, 210, 255, 0.6))\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "אַחֲרֵי שׁוּבוֹ",
+      "meaning": "그가 돌아온 후에",
+      "ipa": "šuˈvo ʔaħˈare",
+      "korean": "아하레 슈보",
+      "letters": "אַ(a) + חֲ(ħa) + רֵי(re) + שׁוּ(shu) + בוֹ(vo)",
+      "root": "אַחַר (아하르) + שׁ-ו-ב (슈브)",
+      "grammar": "전치사",
+      "emoji": "🔙",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-after17-grad1\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#36D1DC\" /><stop offset=\"100%\" stop-color=\"#5B86E5\" /></linearGradient><linearGradient id=\"sodom-after17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F2994A\" /><stop offset=\"100%\" stop-color=\"#F2C94C\" /></linearGradient></defs><path d=\"M 48 16 L 48 48\" stroke=\"url(#sodom-after17-grad1)\" stroke-width=\"3\" stroke-dasharray=\"4 2\" opacity=\"0.5\" /><path d=\"M 48 48 L 16 48\" stroke=\"url(#sodom-after17-grad1)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(54, 209, 220, 0.6))\" /><polygon points=\"16,48 20,44 20,52\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(0 0 4px rgba(242, 201, 76, 0.8))\" /><circle cx=\"48\" cy=\"16\" r=\"5\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"48\" r=\"6\" fill=\"url(#sodom-after17-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+    },
+    {
+      "hebrew": "כְּדָרְלָעֹמֶר",
+      "meaning": "그돌라오멜 (엘람 왕)",
+      "ipa": "kədarlaˈʔomɛr",
+      "korean": "케다르라오메르",
+      "letters": "כְּ(kə) + דָר(dar) + לָ(la) + עֹ(o) + מֶר(mer)",
+      "root": "כְּדָרְלָעֹמֶר (케다르라오메르)",
+      "grammar": "명사",
+      "emoji": "👨‍✈️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-kedor17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2C3E50\" /><stop offset=\"100%\" stop-color=\"#34495E\" /></linearGradient><linearGradient id=\"sodom-kedor17-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#BDC3C7\" /><stop offset=\"100%\" stop-color=\"#95A5A6\" /></linearGradient><radialGradient id=\"sodom-kedor17-grad3\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#sodom-kedor17-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 34 L 28 52 L 36 52 Z\" fill=\"url(#sodom-kedor17-grad1)\" /><rect x=\"20\" y=\"38\" width=\"24\" height=\"6\" fill=\"url(#sodom-kedor17-grad2)\" /><path d=\"M 20 16 L 24 12 L 32 16 L 40 12 L 44 16 L 40 20 L 32 20 L 24 20 Z\" fill=\"url(#sodom-kedor17-grad2)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"url(#sodom-kedor17-grad3)\" filter=\"drop-shadow(0 0 4px rgba(231, 76, 60, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "עֵמֶק שָׁוֵה",
+      "meaning": "사웨 골짜기, 왕의 골짜기",
+      "ipa": "šave ʔɛmɛq",
+      "korean": "에메크 샤베",
+      "letters": "עֵ(e) + מֶק(meq) + שָׁ(sha) + וֵה(veh)",
+      "root": "עֵמֶק (에메크) + שָׁוֶה (샤베)",
+      "grammar": "명사",
+      "emoji": "🏞️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-valley17-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient><linearGradient id=\"sodom-valley17-grad2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#6B8E23\" /></linearGradient><radialGradient id=\"sodom-valley17-grad3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#sodom-valley17-grad1)\" /><path d=\"M 0 32 Q 16 24 32 32 Q 48 40 64 32 L 64 64 L 0 64 Z\" fill=\"url(#sodom-valley17-grad2)\" /><path d=\"M 8 32 L 20 20 L 24 26 L 32 32\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 56 32 L 44 20 L 40 26 L 32 32\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"32\" cy=\"12\" r=\"8\" fill=\"url(#sodom-valley17-grad3)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" opacity=\"0.8\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "소돔 왕이 승리하고 돌아오는 아브람을 맞이하러 나옵니다. 이 만남은 두 가지 대조적인 왕을 소개하는 중요한 장면으로, 다음 구절에서 나올 멜기세덱과의 만남을 위한 무대를 마련합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֵּצֵא מֶלֶךְ־סְדֹם (바예체 멜렉 세돔) - 소돔 왕이 나왔다",
+        "description": "소돔 왕은 아브람을 맞이하러 나왔습니다. '나왔다'는 능동적인 행동으로, 그가 아브람에게 무언가를 제안하거나 요청할 의도가 있었음을 암시합니다.",
+        "points": [
+          "소돔은 후에 하나님의 심판을 받을 악한 도시",
+          "왕이 직접 나온 것은 아브람의 위상을 보여줌",
+          "세상 권력자들도 믿음의 사람을 인정할 수밖에 없음"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אַחֲרֵי שׁוּבוֹ מֵהַכּוֹת (아하레 슈보 메하코트) - 쳐부수고 돌아온 후",
+        "description": "'슈브'(돌아오다)와 '하코트'(치다, 패배시키다)의 조합은 아브람의 완전한 승리를 강조합니다. 그는 적을 물리치고 승리자로 돌아왔습니다.",
+        "points": [
+          "아브람은 정복자요 승리자로 돌아옴",
+          "하나님께서 함께하시는 자의 승리는 확실함",
+          "영적 전쟁에서도 그리스도 안에서 승리함"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עֵמֶק שָׁוֵה (에메크 샤베) - 사웨 골짜기",
+        "description": "'샤베'는 '평평한', '공평한'이라는 뜻으로, 왕의 골짜기라고도 불립니다. 이곳은 예루살렘 근처에 위치한 것으로 추정되며, 중요한 만남의 장소였습니다.",
+        "points": [
+          "중립적이고 공개적인 만남의 장소",
+          "후에 압살롬의 기념비가 세워진 곳 (사무엘하 18:18)",
+          "왕들이 만나는 장소 - 주권의 교류"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "כְּדָרְלָעֹמֶר וְהַמְּלָכִים (케다르라오메르 베함멜라킴) - 그돌라오멜과 왕들",
+        "description": "아브람이 물리친 적들이 다시 한 번 언급됩니다. 이는 그의 승리가 얼마나 대단한 것이었는지를 강조하며, 소돔 왕이 그를 맞이하러 나온 이유를 설명합니다.",
+        "points": [
+          "네 왕 연합군을 물리친 엄청난 승리",
+          "인간적으로는 불가능해 보이는 승리",
+          "하나님의 능력이 함께할 때 모든 것이 가능함"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 소돔 왕이 아브람을 만나러 나왔을까요?",
+      "answer": "소돔 왕은 아브람이 자기 백성들과 재물을 구해준 것에 감사하고 싶었어요. 그리고 아마도 아브람이 가져온 재물 중 일부를 돌려받고 싶었을 거예요. 하지만 다음 이야기를 보면, 아브람은 소돔 왕의 제안을 거절하고 하나님만 의지하기로 했답니다. 아브람은 악한 소돔 왕에게 빚지고 싶지 않았어요.",
+      "bibleReferences": [
+        "창세기 14:21-23 - '소돔 왕의 제안을 거절하는 아브람'",
+        "창세기 13:13 - '소돔 사람들은 여호와 앞에 악하여 큰 죄인이었더라'",
+        "고린도후서 6:14 - '믿지 않는 자와 멍에를 함께 메지 말라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "소돔 왕의 등장은 두 종류의 왕국을 대표합니다 - 세상의 왕국과 하나님의 왕국. 다음 구절에서 나타날 멜기세덱(의의 왕)과 소돔 왕(죄악의 도시)의 대조는 우리에게 선택을 요구합니다. 아브람이 소돔 왕의 제안을 거절하는 것은, 우리가 세상의 유혹을 거절하고 하나님만을 의지해야 함을 가르칩니다 (마태복음 6:24)."
+    }
+  }
+}

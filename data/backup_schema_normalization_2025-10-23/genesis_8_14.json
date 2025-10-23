@@ -1,0 +1,129 @@
+{
+  "id": "genesis_8_14",
+  "reference": "창세기 8:14",
+  "hebrew": "וּבַחֹדֶשׁ הַשֵּׁנִי בְּשִׁבְעָה וְעֶשְׂרִים יוֹם לַחֹדֶשׁ יָבְשָׁה הָאָרֶץ.",
+  "ipa": "uvaxoˈdeʃ haʃeˈni bəʃivˈa vəʔɛsˈrim jom laxoˈdeʃ javˈʃa haˈʔarɛts",
+  "koreanPronunciation": "우바호데쉬 하쉐니 베쉬바 베에스림 욤 라호데쉬 야브샤 하아레츠",
+  "modern": "둘째 달 스물일곱째 날에 땅이 완전히 말랐습니다",
+  "words": [
+    {
+      "hebrew": "הַשֵּׁנִי",
+      "meaning": "둘째",
+      "ipa": "haʃeˈni",
+      "korean": "하쉐니",
+      "letters": "הַ(ha) + שֵּׁ(she) + נִי(ni)",
+      "root": "שְׁנַיִם (쉐나임)",
+      "grammar": "서수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"second_num\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#26C6DA\" /><stop offset=\"100%\" stop-color=\"#00ACC1\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#second_num)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">2nd</text><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"url(#second_num)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שְׁנַיִם (쉐나임 - 2)",
+        "שֵׁנִי (쉐니 - 둘째)"
+      ]
+    },
+    {
+      "hebrew": "בְּשִׁבְעָה וְעֶשְׂרִים",
+      "meaning": "27일에",
+      "ipa": "bəʃivˈa vəʔɛsˈrim",
+      "korean": "베쉬바 베에스림",
+      "letters": "בְּ(bə) + שִׁ(shi) + בְ(v) + עָה(ah) + וְ(və) + עֶ(e) + שְׂ(s) + רִים(rim)",
+      "root": "שֶׁבַע + עֶשְׂרִים (셰바 + 에스림)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"twenty_seven\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AB47BC\" /><stop offset=\"100%\" stop-color=\"#8E24AA\" /></linearGradient></defs><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"26\" font-weight=\"bold\" fill=\"url(#twenty_seven)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">27</text><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#twenty_seven)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שֶׁבַע (셰바 - 7)",
+        "עֶשְׂרִים (에스림 - 20)"
+      ]
+    },
+    {
+      "hebrew": "יָבְשָׁה",
+      "meaning": "말랐다, 건조했다",
+      "ipa": "javˈʃa",
+      "korean": "야브샤",
+      "letters": "יָ(ya) + בְ(v) + שָׁה(sha)",
+      "root": "י-ב-ש (yavesh)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"completely_dry\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient><linearGradient id=\"dry_ground\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D7CCC8\" /><stop offset=\"100%\" stop-color=\"#A1887F\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"46\" rx=\"28\" ry=\"14\" fill=\"url(#dry_ground)\" /><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#completely_dry)\" filter=\"drop-shadow(0 0 12px rgba(255, 193, 7, 0.8))\" /><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"4\" stroke=\"#FFD54F\" stroke-width=\"2\" /><line x1=\"48\" y1=\"20\" x2=\"52\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2\" /><line x1=\"16\" y1=\"20\" x2=\"12\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2\" /><path d=\"M 18 40 L 20 42 L 18 44\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 32 42 L 34 44 L 32 46\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 46 40 L 48 42 L 46 44\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "יָבֵשׁ (야베쉬 - 마른)",
+        "יַבָּשָׁה (야바샤 - 마른 땅)"
+      ]
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅",
+      "ipa": "haˈʔarɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_land\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"40%\" stop-color=\"#66BB6A\" /><stop offset=\"70%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth_land)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 24 Q 22 22 28 24 Q 32 26 36 24 Q 42 22 46 26 L 44 34 Q 40 38 36 36 Q 32 34 28 36 Q 24 38 20 34 Z\" fill=\"#A1887F\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#1B5E20\" stroke-width=\"2\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֲדָמָה (아다마 - 흙)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 14절은 땅이 완전히 마른 최종 날짜를 기록합니다. 홍수가 시작된 날로부터 정확히 1년 17일이 지났습니다. 이는 하나님의 완벽한 시간표와 새로운 시작의 완성을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "정확히 1년 17일 후",
+        "description": "홍수는 600년 2월 17일에 시작되었고, 601년 2월 27일에 땅이 완전히 말랐습니다. 정확한 1년과 10일의 기간입니다.",
+        "points": [
+          "하나님의 시간표는 정확합니다",
+          "완전한 주기(1년)를 거친 후 새로운 시작입니다",
+          "역사적 정확성을 강조합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יָבְשָׁה (야브샤) - 완전히 마름",
+        "description": "13절의 '하라브(물이 마름)'와 14절의 '야베샤(땅이 마름)'는 완전한 회복의 두 단계를 보여줍니다.",
+        "points": [
+          "물이 사라진 것(13절)과 땅이 마른 것(14절)은 다릅니다",
+          "완전한 회복에는 시간이 필요합니다",
+          "두 단계를 거쳐 완성됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "인내의 보상",
+        "description": "노아는 13절에서 땅이 말랐음을 확인했지만, 14절까지 57일을 더 기다렸습니다. 완전히 마를 때까지 기다렸습니다.",
+        "points": [
+          "좋은 징조를 보아도 완전함까지 기다립니다",
+          "성급함보다 완벽한 준비가 중요합니다",
+          "마지막까지 인내합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "새로운 시작의 준비 완료",
+        "description": "이제 모든 준비가 완료되었습니다. 하나님의 명령만 기다리면 됩니다.",
+        "points": [
+          "하나님의 때를 기다립니다",
+          "준비가 되었다고 해서 즉시 행동하지 않습니다",
+          "하나님의 명령을 기다리는 순종의 자세입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 땅이 다 말랐는데도 바로 나가지 않았을까요?",
+      "answer": "노아는 정말 순종적인 사람이었어요. 땅이 완전히 말랐지만, 하나님이 '나가라'고 말씀하실 때까지 기다렸어요. 마치 학교에서 수업이 끝나도 선생님이 '일어나세요'라고 말씀하실 때까지 기다리는 것과 같아요. 노아는 하나님이 방주에 들어가라고 명령하셨으니, 나갈 때도 하나님의 명령을 기다린 거예요. 참 대단하죠? 1년 넘게 좁은 방주에 갇혀 있었는데, 땅이 다 말랐는데도 조금 더 기다릴 수 있었어요. 이게 진정한 순종이에요.",
+      "bibleReferences": [
+        "시편 27:14 - '여호와를 기다릴지어다 강하고 담대하며 여호와를 기다릴지어다'",
+        "잠언 20:22 - '너는 악을 갚겠다 말하지 말고 여호와를 기다리라 그가 너를 구원하시리라'",
+        "이사야 64:4 - '주 외에는 자기를 기다리는 자들을 위하여 일하시는 하나님을 옛적부터 들은 자도 없고 귀로 들은 자도 없고 눈으로 본 자도 없었나이다'",
+        "애가 3:26 - '사람이 여호와의 구원을 바라고 잠잠히 기다림이 좋도다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:14는 완전한 회복의 완성을 선언합니다. 정확히 1년 17일이 지났다는 기록은 하나님의 시간표가 완벽함을 보여줍니다. 13절의 '물이 마름'과 14절의 '땅이 마름'은 회복의 두 단계를 나타냅니다. 노아는 13절에서 땅이 말랐음을 확인했지만, 57일을 더 기다려 완전히 마르기를 기다렸습니다. 이는 성급함보다 완전함을 추구하는 지혜를 보여줍니다. 더 중요한 것은, 땅이 완전히 말랐음에도 노아는 하나님의 명령을 기다렸다는 점입니다. 이는 순종의 정점입니다. 우리도 준비가 되었다고 느껴도, 하나님의 때와 명령을 기다리는 인내가 필요합니다."
+    }
+  }
+}

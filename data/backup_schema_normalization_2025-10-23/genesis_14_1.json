@@ -1,0 +1,207 @@
+{
+  "id": "genesis_14_1",
+  "reference": "창세기 14:1",
+  "hebrew": "וַיְהִי, בִּימֵי אַמְרָפֶל מֶלֶךְ שִׁנְעָר, אַרְיוֹךְ מֶלֶךְ אֶלָּסָר, כְּדָרְלָעֹמֶר מֶלֶךְ עֵילָם, וְתִדְעָל מֶלֶךְ גּוֹיִם.",
+  "ipa": "vajˈhi bimeˈi ʔamraˈfɛl ˈmɛlɛx ʃinˈʔar ʔarˈjox ˈmɛlɛx ʔɛlːaˈsar kədarlaˈʔomɛr ˈmɛlɛx ʔeˈlam vətidˈʔal ˈmɛlɛx goˈjim",
+  "koreanPronunciation": "바예히 비메이 암라펠 멜레크 쉬네아르 아르욕 멜레크 엘라사르 케다르라오메르 멜레크 에일람 베티드알 멜레크 고이임",
+  "modern": "아무라벨 왕이 시날을 다스리고, 아리옥 왕이 엘라살을 다스리고, 그돌라오멜 왕이 엘람을 다스리고, 디달 왕이 고임을 다스리던 때에,",
+  "words": [
+    {
+      "hebrew": "בִּימֵי",
+      "meaning": "~의 날들에, ~의 시대에",
+      "ipa": "bimeˈi",
+      "korean": "비메이",
+      "letters": "בִּ(bi) + ימֵי(yemei)",
+      "root": "יוֹם (욤 - 날)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days_yom\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#days_yom)\" opacity=\"0.3\" /><rect x=\"20\" y=\"28\" width=\"4\" height=\"8\" rx=\"1\" fill=\"#4FACFE\" /><rect x=\"30\" y=\"28\" width=\"4\" height=\"8\" rx=\"1\" fill=\"#4FACFE\" /><rect x=\"40\" y=\"28\" width=\"4\" height=\"8\" rx=\"1\" fill=\"#00F2FE\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    },
+    {
+      "hebrew": "אַמְרָפֶל",
+      "meaning": "아므라벨 (왕 이름)",
+      "ipa": "ʔamraˈfɛl",
+      "korean": "암라펠",
+      "letters": "אַמְ(am) + רָ(ra) + פֶל(fel)",
+      "root": "אַמְרָפֶל (암라펠)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"king1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#king1)\" opacity=\"0.5\" /><path d=\"M 24 18 L 28 12 L 32 16 L 36 12 L 40 18 L 32 22 Z\" fill=\"#FFD700\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#king1)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אַמְרָפֶל (암라펠 - 시날 왕)"
+      ]
+    },
+    {
+      "hebrew": "מֶלֶךְ",
+      "meaning": "왕",
+      "ipa": "ˈmɛlɛx",
+      "korean": "멜레크",
+      "letters": "מֶ(me) + לֶךְ(lech)",
+      "root": "מ-ל-ך (말라크 - 다스리다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"king_melech\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><path d=\"M 20 20 L 26 12 L 32 18 L 38 12 L 44 20 L 40 24 L 40 32 L 24 32 L 24 24 Z\" fill=\"url(#king_melech)\" /><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#FF1493\" /><circle cx=\"32\" cy=\"23\" r=\"2.5\" fill=\"#FF1493\" /><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#FF1493\" /></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (멜레크 - 왕)",
+        "מַלְכוּת (말쿠트 - 왕국)"
+      ]
+    },
+    {
+      "hebrew": "שִׁנְעָר",
+      "meaning": "시날 (바빌로니아 지역)",
+      "ipa": "ʃinˈʔar",
+      "korean": "쉬네아르",
+      "letters": "שִׁנְ(shin) + עָר(ar)",
+      "root": "שִׁנְעָר (쉬네아르)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shinar\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect x=\"20\" y=\"36\" width=\"24\" height=\"20\" fill=\"url(#shinar)\" opacity=\"0.6\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"url(#shinar)\" opacity=\"0.7\" /><rect x=\"28\" y=\"20\" width=\"8\" height=\"8\" fill=\"#8B4513\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "שִׁנְעָר (쉬네아르 - 바빌론 지역)",
+        "בָּבֶל (바벨 - 바벨탑)"
+      ]
+    },
+    {
+      "hebrew": "אַרְיוֹךְ",
+      "meaning": "아리옥 (왕 이름)",
+      "ipa": "ʔarˈjox",
+      "korean": "아르욕",
+      "letters": "אַרְ(ar) + יוֹךְ(yoch)",
+      "root": "אַרְיוֹךְ (아르욕)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"king2\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#king2)\" opacity=\"0.5\" /><path d=\"M 24 18 L 28 12 L 32 16 L 36 12 L 40 18 L 32 22 Z\" fill=\"#667EEA\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#king2)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אַרְיוֹךְ (아르욕 - 엘라살 왕)"
+      ]
+    },
+    {
+      "hebrew": "אֶלָּסָר",
+      "meaning": "엘라살 (도시/지역 이름)",
+      "ipa": "ʔɛlːaˈsar",
+      "korean": "엘라사르",
+      "letters": "אֶלָּ(ella) + סָר(sar)",
+      "root": "אֶלָּסָר (엘라사르)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ellasar\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"20\" fill=\"url(#ellasar)\" opacity=\"0.5\" /><path d=\"M 16 32 L 32 20 L 48 32 Z\" fill=\"#A8EDEA\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אֶלָּסָר (엘라사르 - 지명)"
+      ]
+    },
+    {
+      "hebrew": "כְּדָרְלָעֹמֶר",
+      "meaning": "그돌라오멜 (왕 이름)",
+      "ipa": "kədarlaˈʔomɛr",
+      "korean": "케다르라오메르",
+      "letters": "כְּ(ke) + דָר(dar) + לָ(la) + עֹמֶר(omer)",
+      "root": "כְּדָרְלָעֹמֶר (케다르라오메르)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"king3\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#king3)\" opacity=\"0.5\" /><path d=\"M 24 18 L 26 10 L 32 16 L 38 10 L 40 18 L 32 22 Z\" fill=\"#FA709A\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#king3)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "כְּדָרְלָעֹמֶר (케다르라오메르 - 엘람 왕)"
+      ]
+    },
+    {
+      "hebrew": "עֵילָם",
+      "meaning": "엘람 (고대 제국)",
+      "ipa": "ʔeˈlam",
+      "korean": "에일람",
+      "letters": "עֵי(ei) + לָם(lam)",
+      "root": "עֵילָם (에일람)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"elam\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#elam)\" opacity=\"0.4\" /><path d=\"M 20 28 Q 32 24 44 28 L 44 44 L 20 44 Z\" fill=\"#4FACFE\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עֵילָם (에일람 - 고대 페르시아 지역)"
+      ]
+    },
+    {
+      "hebrew": "תִדְעָל",
+      "meaning": "디달 (왕 이름)",
+      "ipa": "tidˈʔal",
+      "korean": "티드알",
+      "letters": "תִ(ti) + דְעָל(dal)",
+      "root": "תִדְעָל (티드알)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"king4\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#king4)\" opacity=\"0.5\" /><path d=\"M 24 18 L 28 12 L 32 16 L 36 12 L 40 18 L 32 22 Z\" fill=\"#7FE5A8\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#king4)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "תִדְעָל (티드알 - 고임 왕)"
+      ]
+    },
+    {
+      "hebrew": "גּוֹיִם",
+      "meaning": "여러 민족들, 열국",
+      "ipa": "goˈjim",
+      "korean": "고이임",
+      "letters": "גּוֹ(go) + יִם(yim)",
+      "root": "גּוֹי (고이 - 민족)",
+      "grammar": "명사 (복수)",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations\"><stop offset=\"0%\" stop-color=\"#FF9A9E\" /><stop offset=\"100%\" stop-color=\"#FAD0C4\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#nations)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#nations)\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#nations)\" opacity=\"0.6\" /><circle cx=\"26\" cy=\"40\" r=\"6\" fill=\"url(#nations)\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"40\" r=\"6\" fill=\"url(#nations)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "גּוֹי (고이 - 민족)",
+        "עַם (암 - 백성)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14장은 갑자기 국제 정치의 무대로 우리를 안내합니다. 이전까지는 아브람의 개인적 여정이었지만, 이제 4대 왕 연합군과 5대 왕 연합군의 전쟁이라는 거대한 역사적 사건이 펼쳐집니다. 이 전쟁은 아브람의 조카 롯을 위기에 빠뜨리고, 아브람을 역사의 중심 무대로 이끕니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "4대 왕 연합 - 동방 세력",
+        "description": "그돌라오멜을 중심으로 한 4대 왕 연합군은 메소포타미아와 페르시아 지역의 강대국들입니다. 엘람(오늘날 이란)의 그돌라오멜이 주도권을 잡고 있었으며, 다른 왕들은 그의 동맹국이었습니다.",
+        "points": [
+          "고대 근동의 국제 정치 상황을 보여줍니다",
+          "강대국들의 팽창주의와 정복 전쟁",
+          "작은 도시국가들은 이런 강대국의 지배를 받았습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "시날(바빌론) - 타락의 상징",
+        "description": "시날은 바벨탑이 있던 곳입니다(창 11:2). 성경에서 바빌론은 종종 하나님을 대적하는 세상 권력을 상징합니다. 아므라벨이 시날 왕으로 등장하는 것은 의미심장합니다.",
+        "points": [
+          "시날/바빌론은 인간의 교만과 하나님 대적을 상징합니다",
+          "이 전쟁은 단순히 정치적 사건이 아니라 영적 의미를 가집니다",
+          "세상 권력과 하나님의 백성의 대결 구도"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "역사적 정확성",
+        "description": "창세기 14장은 매우 구체적인 역사적 정보를 제공합니다. 왕들의 이름, 지명, 전쟁 경로 등이 상세히 기록되어 있습니다. 고고학적 발견들이 이 기록의 역사성을 뒷받침합니다.",
+        "points": [
+          "성경은 신화가 아니라 역사적 사실을 기록합니다",
+          "아브람은 실제 역사 속에 살았던 인물입니다",
+          "하나님은 역사 속에서 일하시는 분입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "작은 자의 관점",
+        "description": "4대 왕의 이름과 나라를 나열하는 것은 그들의 위력을 강조합니다. 이런 거대한 세력 앞에서 아브람과 롯은 얼마나 작고 무력했겠습니까? 그러나 하나님은 작고 약한 자를 통해 일하십니다.",
+        "points": [
+          "세상의 관점에서 보면 아브람은 보잘것없었습니다",
+          "그러나 하나님이 함께하시면 상황이 역전됩니다",
+          "우리의 약함이 하나님의 능력을 드러내는 기회가 됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 이런 전쟁 이야기를 자세히 기록했을까요?",
+      "answer": "성경이 이 전쟁 이야기를 자세히 기록한 것은 우리에게 중요한 교훈을 주기 위해서예요. 첫째, 아브람이 실제 역사 속에 살았던 진짜 사람이라는 것을 보여줘요. 둘째, 세상에는 크고 강한 나라들이 있지만, 하나님이 함께하시면 작고 약한 사람도 그들을 이길 수 있다는 것을 가르쳐줘요. 셋째, 하나님은 역사를 주관하시는 분이라는 거예요. 왕들이 전쟁을 하지만, 결국 하나님의 계획대로 모든 일이 이루어진답니다. 우리도 세상이 아무리 무섭고 강해 보여도, 하나님이 우리와 함께 계시면 두려워할 필요가 없어요.",
+      "bibleReferences": [
+        "시편 33:16-17 - '많은 군대로 구원 얻은 왕이 없으며 용사가 힘이 커도 스스로 구원하지 못하는도다 구원함에 있어서 말은 헛것임이여 그 큰 힘으로도 구하지 못하는도다'",
+        "사무엘상 17:47 - '또 여호와의 구원하심이 칼과 창에 있지 아니함을 이 무리에게 알게 하리라 전쟁은 여호와께 속한 것인즉 그가 너희를 우리 손에 넘기시리라'",
+        "스가랴 4:6 - '그가 내게 말하여 이르되 여호와께서 스룹바벨에게 하신 말씀이 이러하니라 만군의 여호와께서 말씀하시되 이는 힘으로 되지 아니하며 능력으로 되지 아니하고 오직 나의 영으로 되느니라'",
+        "로마서 8:31 - '그런즉 이 일에 대하여 우리가 무슨 말 하리요 만일 하나님이 우리를 위하시면 누가 우리를 대적하리요'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 14:1은 구원 역사의 무대를 설정합니다. 이 전쟁은 단순한 정치적 사건이 아니라, 세상 권력과 하나님의 백성 사이의 영적 갈등을 예표합니다. 바빌론(시날)이 등장하는 것은 특히 의미심장합니다 - 요한계시록에서 '큰 바빌론'은 하나님을 대적하는 세상 권력의 총체로 나타납니다. 그러나 하나님은 역사의 주관자이십니다. 강대국 왕들이 전쟁을 벌이지만, 결국 하나님의 계획 안에서 일어나는 일이며, 아브람(믿음의 사람)을 통해 승리가 이루어집니다. 이는 오늘날 우리에게도 적용됩니다 - 세상이 아무리 강해 보여도, 하나님이 우리와 함께하시면 우리는 승리합니다."
+    }
+  }
+}

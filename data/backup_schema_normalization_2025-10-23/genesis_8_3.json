@@ -1,0 +1,171 @@
+{
+  "id": "genesis_8_3",
+  "reference": "창세기 8:3",
+  "hebrew": "וַיָּשֻׁבוּ הַמַּיִם מֵעַל הָאָרֶץ הָלוֹךְ וָשׁוֹב וַיַּחְסְרוּ הַמַּיִם מִקְצֵה חֲמִשִּׁים וּמְאַת יוֹם.",
+  "ipa": "vajaˈʃuvu haˈmajim meˈʔal haˈʔarɛts haˈlox vaˈʃov vajaxˈsəru haˈmajim mikˈtse xamiˈʃim uməˈʔat jom",
+  "koreanPronunciation": "바야슈부 하마임 메알 하아레츠 할로크 바쇼브 바야흐스루 하마임 미크체 하미쉼 우메아트 욤",
+  "modern": "물이 땅에서 점점 물러가고, 150일이 지난 후에 물이 줄어들었습니다",
+  "words": [
+    {
+      "hebrew": "וַיָּשֻׁבוּ",
+      "meaning": "그리고 돌아갔다, 물러갔다",
+      "ipa": "vajaˈʃuvu",
+      "korean": "바야슈부",
+      "letters": "וַ(va) + יָּ(ya) + שֻׁ(shu) + בוּ(vu)",
+      "root": "ש-ו-ב (shuv)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return_arrow\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient></defs><path d=\"M 52 32 L 16 32\" stroke=\"url(#return_arrow)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 28 20\" stroke=\"url(#return_arrow)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 28 44\" stroke=\"url(#return_arrow)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#4FC3F7\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"32\" r=\"3\" fill=\"#4FC3F7\" opacity=\"0.5\" /><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#4FC3F7\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다, 회개하다)",
+        "תְּשׁוּבָה (테슈바 - 회개, 귀환)"
+      ]
+    },
+    {
+      "hebrew": "הָלוֹךְ",
+      "meaning": "계속 가는",
+      "ipa": "haˈlox",
+      "korean": "할로크",
+      "letters": "הָ(ha) + לוֹ(lo) + ךְ(kh)",
+      "root": "ה-ל-ך (halakh)",
+      "grammar": "동명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"walk_path\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient></defs><circle cx=\"16\" cy=\"48\" r=\"3\" fill=\"#81C784\" opacity=\"0.4\" /><circle cx=\"24\" cy=\"42\" r=\"3\" fill=\"#81C784\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#66BB6A\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"30\" r=\"3\" fill=\"#66BB6A\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"24\" r=\"3\" fill=\"#4CAF50\" opacity=\"0.8\" /><path d=\"M 16 48 Q 24 42 32 36 Q 40 30 48 24\" stroke=\"url(#walk_path)\" stroke-width=\"2\" fill=\"none\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 가다, 걷다)",
+        "מַהֲלָךְ (마할라크 - 여정)"
+      ]
+    },
+    {
+      "hebrew": "וָשׁוֹב",
+      "meaning": "그리고 돌아오는",
+      "ipa": "vaˈʃov",
+      "korean": "바쇼브",
+      "letters": "וָ(va) + שׁוֹב(shov)",
+      "root": "ש-ו-ב (shuv)",
+      "grammar": "동명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cycle_return\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#673AB7\" /></linearGradient></defs><path d=\"M 32 12 A 20 20 0 1 1 31.9 12\" stroke=\"url(#cycle_return)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 28 16 L 32 12 L 36 16\" fill=\"#9C27B0\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#9C27B0\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "חָזַר (하자르 - 되돌아가다)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּחְסְרוּ",
+      "meaning": "그리고 줄어들었다",
+      "ipa": "vajaxˈsəru",
+      "korean": "바야흐스루",
+      "letters": "וַ(va) + יַּ(ya) + חְ(ch) + סְ(sə) + רוּ(ru)",
+      "root": "ח-ס-ר (chasar)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"decrease_level\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E57373\" opacity=\"0.3\" /><stop offset=\"50%\" stop-color=\"#EF5350\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#F44336\" opacity=\"0.9\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"8\" fill=\"url(#decrease_level)\" opacity=\"0.3\" /><rect x=\"12\" y=\"24\" width=\"40\" height=\"8\" fill=\"url(#decrease_level)\" opacity=\"0.4\" /><rect x=\"12\" y=\"36\" width=\"40\" height=\"8\" fill=\"url(#decrease_level)\" opacity=\"0.6\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"8\" fill=\"url(#decrease_level)\" opacity=\"0.9\" /><path d=\"M 56 48 L 60 52 L 56 56\" fill=\"#F44336\" /><line x1=\"58\" y1=\"20\" x2=\"58\" y2=\"52\" stroke=\"#F44336\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "חָסֵר (하세르 - 부족한)",
+        "חֶסְרוֹן (헤스론 - 결핍)"
+      ]
+    },
+    {
+      "hebrew": "חֲמִשִּׁים",
+      "meaning": "50",
+      "ipa": "xamiˈʃim",
+      "korean": "하미쉼",
+      "letters": "חֲ(cha) + מִ(mi) + שִּׁ(shi) + ים(im)",
+      "root": "חָמֵשׁ (하메쉬)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number_fifty\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#number_fifty)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">50</text><circle cx=\"32\" cy=\"32\" r=\"28\" stroke=\"url(#number_fifty)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "חָמֵשׁ (하메쉬 - 5)",
+        "חֲמִישִׁי (하미쉬 - 다섯째)"
+      ]
+    },
+    {
+      "hebrew": "מְאַת",
+      "meaning": "100",
+      "ipa": "məˈʔat",
+      "korean": "메아트",
+      "letters": "מְ(mə) + אַת(at)",
+      "root": "מֵאָה (메아)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number_hundred\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#673AB7\" /></linearGradient></defs><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"url(#number_hundred)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">100</text><circle cx=\"32\" cy=\"32\" r=\"28\" stroke=\"url(#number_hundred)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"22\" stroke=\"url(#number_hundred)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "מֵאָה (메아 - 100)",
+        "מֵאוֹת (메오트 - 수백)"
+      ]
+    },
+    {
+      "hebrew": "יוֹם",
+      "meaning": "날, 하루",
+      "ipa": "jom",
+      "korean": "욤",
+      "letters": "יוֹ(yo) + ם(m)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sun_yom\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient><linearGradient id=\"sky_yom\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky_yom)\" opacity=\"0.5\" rx=\"8\" /><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#sun_yom)\" filter=\"drop-shadow(0 0 10px rgba(255, 193, 7, 0.8))\" /><path d=\"M 32 8 L 32 14\" stroke=\"#FFD54F\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 48 24 L 42 24\" stroke=\"#FFD54F\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 16 24 L 22 24\" stroke=\"#FFD54F\" stroke-width=\"2\" stroke-linecap=\"round\" /><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"6\" fill=\"#4CAF50\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 3절은 물이 물러가는 과정을 상세히 묘사합니다. '할로크 바쇼브(계속 가고 돌아가며)'라는 표현은 점진적인 과정을 나타냅니다. 150일이라는 구체적인 기간은 하나님의 계획이 정확하고 질서 있음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיָּשֻׁבוּ הַמַּיִם (바야슈부 하마임) - 물의 귀환",
+        "description": "'슈브(돌아가다)'는 성경에서 매우 중요한 단어로, 물리적 귀환뿐 아니라 영적 회개를 의미하기도 합니다. 여기서는 물이 원래 있던 곳으로 돌아감을 의미합니다.",
+        "points": [
+          "물이 땅을 덮었던 비정상 상태에서 정상으로 돌아갑니다",
+          "하나님의 창조 질서가 회복됩니다",
+          "슈브는 회복과 정상화를 의미합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הָלוֹךְ וָשׁוֹב (할로크 바쇼브) - 점진적 과정",
+        "description": "'계속 가고 돌아가며'라는 표현은 히브리어 특유의 강조 표현입니다. 물이 한 번에 사라진 것이 아니라 점진적으로 물러갔음을 나타냅니다.",
+        "points": [
+          "하나님의 회복은 때로 점진적입니다",
+          "갑작스런 변화가 아닌 자연스러운 과정입니다",
+          "하나님은 급하지 않으시고 완벽한 타이밍을 아십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "150일의 의미",
+        "description": "물이 불어난 상태가 150일 지속되었습니다. 이는 7:24에서 언급된 기간과 동일합니다. 정확한 숫자는 하나님의 계획이 질서 있음을 보여줍니다.",
+        "points": [
+          "하나님의 시간표는 정확합니다",
+          "심판과 회복 모두 하나님의 통제 아래 있습니다",
+          "150일은 5개월에 해당하는 기간입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיַּחְסְרוּ הַמַּיִם (바야흐스루 하마임) - 물의 감소",
+        "description": "물이 '줄어들었다'는 표현은 능동적 과정입니다. 이는 자연적 증발만이 아니라 하나님의 적극적 개입을 암시합니다.",
+        "points": [
+          "하나님이 능동적으로 물을 줄이십니다",
+          "자연 법칙도 하나님의 도구입니다",
+          "감소는 회복의 시작입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 물이 한 번에 사라지지 않고 천천히 줄어들었을까요?",
+      "answer": "하나님은 모든 것을 순간에 할 수 있으시지만, 때로는 천천히 일하세요. 만약 물이 갑자기 사라지면 방주가 땅에 세게 부딪혀서 위험할 수도 있어요. 또 땅도 천천히 마르면서 준비될 시간이 필요해요. 하나님은 노아와 동물들을 안전하게 지키시기 위해 물을 천천히 빼주신 거예요. 우리가 병에서 나을 때도 천천히 나아지잖아요? 그게 우리 몸에 더 좋은 것처럼, 하나님도 땅이 건강하게 회복되도록 천천히 일하신 거예요.",
+      "bibleReferences": [
+        "시편 104:6-9 - '옷으로 덮음 같이 주께서 땅을 깊은 바다로 덮으시매 물이 산들 위로 솟아올랐으나 주께서 꾸짖으시니 물은 도망하며'",
+        "이사야 28:16 - '믿는 자는 급히 서두르지 아니하리로다'",
+        "하박국 2:3 - '이 묵시는 정한 때가 있나니 그 종말이 속히 이르겠고 결코 거짓되지 아니하리라'",
+        "베드로후서 3:9 - '주의 약속은 어떤 이들이 더디다고 생각하는 것 같이 더딘 것이 아니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:3은 하나님의 회복 과정이 질서 있고 점진적임을 보여줍니다. '할로크 바쇼브(계속 가고 돌아가며)'는 단순한 물의 움직임 이상을 의미합니다. 이는 하나님의 구원이 과정임을, 그 과정이 완벽하게 계획되어 있음을 보여줍니다. 우리의 영적 성장도 마찬가지입니다. 하나님은 급하게 서두르지 않으시고, 우리가 감당할 수 있는 속도로 우리를 인도하십니다. 150일이라는 정확한 기간은 하나님의 시간표가 완벽함을 보여주며, 우리에게도 하나님의 때를 기다리는 인내를 가르쳐줍니다."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "genesis_10_10",
+  "reference": "창세기 10:10",
+  "hebrew": "וַתְּהִי רֵאשִׁית מַמְלַכְתּוֹ בָּבֶל וְאֶרֶךְ וְאַכַּד וְכַלְנֵה, בְּאֶרֶץ שִׁנְעָר.",
+  "ipa": "vatəˈhi reʃit mamlaxtˈo baˈvɛl vəʔɛˈrɛx vəʔakˈkad vəxalˈne bəʔɛˈrɛts ʃinˈʕar",
+  "koreanPronunciation": "바테히 레쉬트 맘라크토 바벨 베에렉 베아카드 베칼네 베에레츠 쉬느아르",
+  "modern": "그의 나라는 시날 땅의 바벨과 에렉과 악갓과 갈레에서 시작되었으며",
+  "words": [
+    {
+      "hebrew": "רֵאשִׁית",
+      "meaning": "시작, 처음",
+      "ipa": "reʃit",
+      "korean": "레쉬트",
+      "letters": "רֵ(re) + אשִׁ(shi) + ית(t)",
+      "root": "רֹאשׁ (로쉬 - 머리)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"beginning_reshit\"><stop offset=\"0%\" stop-color=\"#FFF\" /><stop offset=\"50%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient></defs><circle cx=\"16\" cy=\"32\" r=\"10\" fill=\"url(#beginning_reshit)\" filter=\"drop-shadow(0 0 6px rgba(76, 175, 80, 0.6))\" /><line x1=\"26\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"#4CAF50\" stroke-width=\"3\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רֹאשׁ (로쉬 - 머리, 시작)",
+        "בְּרֵאשִׁית (베레쉬트 - 태초에)"
+      ]
+    },
+    {
+      "hebrew": "מַמְלַכְתּוֹ",
+      "meaning": "그의 왕국",
+      "ipa": "mamlaxtˈo",
+      "korean": "맘라크토",
+      "letters": "מַ(ma) + מְ(m) + לַ(la) + כְ(kh) + תּוֹ(to)",
+      "root": "מ-ל-ך (말라크 - 왕이 되다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kingdom_mamlakhto\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#512DA8\" /></linearGradient></defs><rect x=\"16\" y=\"20\" width=\"32\" height=\"28\" rx=\"2\" fill=\"url(#kingdom_mamlakhto)\" opacity=\"0.7\" /><path d=\"M 16 20 L 32 8 L 48 20 Z\" fill=\"#5E35B1\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (메레크 - 왕)",
+        "מַמְלָכָה (맘라카 - 왕국)"
+      ]
+    },
+    {
+      "hebrew": "בָּבֶל",
+      "meaning": "바벨 (바빌론)",
+      "ipa": "baˈvɛl",
+      "korean": "바벨",
+      "letters": "בָּ(ba) + בֶ(ve) + ל(l)",
+      "root": "ב-ל-ל (발랄 - 혼란시키다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel_bavel\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"50%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#BCAAA4\" /></linearGradient></defs><rect x=\"20\" y=\"36\" width=\"24\" height=\"20\" fill=\"url(#babel_bavel)\" /><rect x=\"22\" y=\"24\" width=\"20\" height=\"12\" fill=\"#A1887F\" /><rect x=\"24\" y=\"16\" width=\"16\" height=\"8\" fill=\"#BCAAA4\" /><line x1=\"28\" y1=\"8\" x2=\"36\" y2=\"8\" stroke=\"#D32F2F\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בָּלַל (발랄 - 혼란시키다)",
+        "בָּבֶל (바벨 - 혼란)"
+      ]
+    },
+    {
+      "hebrew": "אֶרֶךְ",
+      "meaning": "에렉 (우룩)",
+      "ipa": "ʔɛˈrɛx",
+      "korean": "에렉",
+      "letters": "אֶ(e) + רֶ(re) + ךְ(kh)",
+      "root": "אֶרֶךְ (에렉)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"erech_erekh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D7CCC8\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient></defs><rect x=\"16\" y=\"24\" width=\"32\" height=\"28\" rx=\"2\" fill=\"url(#erech_erekh)\" opacity=\"0.7\" /><rect x=\"20\" y=\"28\" width=\"10\" height=\"10\" fill=\"#6D4C41\" opacity=\"0.5\" /><rect x=\"34\" y=\"28\" width=\"10\" height=\"10\" fill=\"#6D4C41\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אָרֹךְ (아로크 - 긴)",
+        "אֹרֶךְ (오렉 - 길이)"
+      ]
+    },
+    {
+      "hebrew": "אַכַּד",
+      "meaning": "악갓 (아카드)",
+      "ipa": "ʔakˈkad",
+      "korean": "아카드",
+      "letters": "אַ(a) + כַּ(ka) + ד(d)",
+      "root": "אַכַּד (아카드)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"akkad_akkad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#akkad_akkad)\" opacity=\"0.6\" /><path d=\"M 32 18 L 36 28 L 46 30 L 38 36 L 40 46 L 32 40 L 24 46 L 26 36 L 18 30 L 28 28 Z\" fill=\"#FF6F00\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אַכָּדִית (아카디트 - 아카드어)",
+        "סַרְגוֹן (사르곤 - 아카드 왕)"
+      ]
+    },
+    {
+      "hebrew": "כַלְנֵה",
+      "meaning": "갈레 (니푸르?)",
+      "ipa": "xalˈne",
+      "korean": "칼네",
+      "letters": "כַ(kha) + לְ(l) + נֵ(ne) + ה(h)",
+      "root": "כַלְנֵה (칼네)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"calneh_khalneh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#90A4AE\" /><stop offset=\"100%\" stop-color=\"#607D8B\" /></linearGradient></defs><rect x=\"20\" y=\"28\" width=\"24\" height=\"20\" rx=\"2\" fill=\"url(#calneh_khalneh)\" opacity=\"0.7\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#546E7A\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든)",
+        "נֶה (네 - 거처)"
+      ]
+    },
+    {
+      "hebrew": "שִׁנְעָר",
+      "meaning": "시날 (메소포타미아 남부)",
+      "ipa": "ʃinˈʕar",
+      "korean": "쉬느아르",
+      "letters": "שִׁ(shi) + נְ(n) + עָ(a) + ר(r)",
+      "root": "שִׁנְעָר (쉬느아르)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shinar_shinar\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#shinar_shinar)\" opacity=\"0.4\" rx=\"8\" /><path d=\"M 0 48 Q 16 44 32 48 T 64 48\" fill=\"none\" stroke=\"#2196F3\" stroke-width=\"3\" opacity=\"0.6\" /><path d=\"M 0 56 Q 16 52 32 56 T 64 56\" fill=\"none\" stroke=\"#2196F3\" stroke-width=\"3\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בָּבֶל (바벨 - 바빌론)",
+        "מֵסוֹפּוֹטַמְיָה (메소포타미아)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "니므롯의 왕국은 메소포타미아 남부의 시날 땅에서 시작되었습니다. 여기 언급된 네 도시는 고대 수메르와 아카드 문명의 중심지들로, 인류 최초의 도시 국가들이었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "시날 땅 - 문명의 요람",
+        "description": "시날은 티그리스와 유프라테스 강 사이의 비옥한 평야 지대로, 성경에서 여러 번 중요하게 등장합니다. 바벨탑이 세워진 곳(창 11:2)이며, 아브라함이 떠나온 우르도 이 지역입니다.",
+        "points": [
+          "인류 최초의 도시 문명이 발달한 곳입니다",
+          "농업혁명과 문자의 발명이 이루어진 곳입니다",
+          "성경에서는 하나님을 거역하는 인간 문명의 상징이기도 합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "바벨 - 모든 것의 중심",
+        "description": "바벨(바빌론)이 첫 번째로 언급된 것은 우연이 아닙니다. 이는 니므롯 제국의 수도이자 가장 중요한 도시였으며, 11장의 바벨탑 사건과 직접 연결됩니다.",
+        "points": [
+          "바벨은 '하나님의 문'을 의미하지만, 성경은 '혼란'과 연결합니다",
+          "고대 세계의 가장 위대한 도시 중 하나였습니다",
+          "예언서에서 하나님께 대항하는 세력의 상징이 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "에렉, 악갓, 갈레 - 제국의 기반",
+        "description": "에렉(우룩)은 길가메시 서사시로 유명하며, 악갓(아카드)는 사르곤 왕의 제국 이름이 되었고, 갈레(니푸르로 추정)는 수메르의 종교 중심지였습니다. 이들은 모두 실제 역사적 도시들입니다.",
+        "points": [
+          "고고학적 발굴로 이 도시들의 존재가 확인되었습니다",
+          "각각 정치, 군사, 종교의 중심지였습니다",
+          "니므롯의 제국이 체계적으로 조직되었음을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "레쉬트 맘라크토 - 왕국의 시작",
+        "description": "'그의 왕국의 시작'이라는 표현은 이것이 확장의 출발점임을 암시합니다. 실제로 다음 절(11절)에서 니므롯은 앗수르 땅으로 나아갑니다. 이는 제국주의적 확장의 원형을 보여줍니다.",
+        "points": [
+          "정복과 확장이 계획적으로 이루어졌습니다",
+          "하나님의 '흩어지라'는 명령을 왜곡하여 '정복하라'로 바꾸었습니다",
+          "인간 제국의 야망과 하나님 나라의 대조를 이룹니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 큰 도시를 만드는 것이 나쁜가요?",
+      "answer": "도시를 만드는 것 자체는 나쁘지 않아요. 문제는 '왜' 만드냐는 거예요. 니므롯은 자기가 대단해 보이려고, 자기 이름을 높이려고 큰 도시들을 만들었어요. 하지만 하나님은 우리가 함께 모여 살면서 서로 돕고 하나님을 예배하기를 원하세요. 예루살렘 같은 도시는 하나님의 성전이 있고 사람들이 하나님을 예배하는 곳이었어요. 우리가 사는 도시도 하나님을 섬기고 이웃을 사랑하는 곳이 되어야 해요. 건물이 높고 크다고 좋은 게 아니라, 그 안에 사는 사람들의 마음이 중요해요.",
+      "bibleReferences": [
+        "창세기 11:4 - '우리 이름을 내고 온 지면에 흩어짐을 면하자'",
+        "시편 127:1 - '여호와께서 집을 세우지 아니하시면 세우는 자의 수고가 헛되며'",
+        "계시록 21:2 - '또 내가 보매 거룩한 성 새 예루살렘이 하나님께로부터 하늘에서 내려오니'",
+        "히브리서 11:10 - '하나님이 계획하시고 지으실 터가 있는 성을 바랐음이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯의 왕국 목록은 단순한 지리적 정보가 아니라, 신학적 메시지를 담고 있습니다. 시날 땅은 아브라함이 하나님의 부르심을 따라 떠나온 곳이며(갈대아 우르), 바벨은 인간의 교만이 심판받은 곳입니다. 이후 성경 역사에서 바빌론은 이스라엘을 괴롭히고 포로로 잡아가는 대적 세력이 되며, 계시록에서는 '큰 바벨론'으로 하나님을 대적하는 세상 체제의 상징이 됩니다(계 17-18장). 그러나 하나님은 바벨론도 심판하시고(사 13장, 렘 50-51장), 궁극적으로 '새 예루살렘'을 세우십니다(계 21장). 니므롯의 네 도시는 인간이 세운 왕국이지만, 하나님의 도성은 영원합니다. 다니엘서 2장의 거대한 신상이 작은 돌에 부서지는 환상은, 니므롯으로 시작된 모든 인간 제국이 결국 하나님 나라 앞에 무너질 것을 예표합니다."
+    }
+  }
+}

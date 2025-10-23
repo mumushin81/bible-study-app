@@ -1,0 +1,166 @@
+{
+  "id": "genesis_11_2",
+  "reference": "창세기 11:2",
+  "hebrew": "",
+  "ipa": "vajəˈhi bənosaˈʕam mikˈɛdɛm vajimtsəˈʔu vikˈʕa bəˈʔɛrɛts ʃinˈʕar vajjeʃəˈvu ʃam",
+  "koreanPronunciation": "바예히 베노스암 미케뎀 바임체우 비크아 베에레츠 신아르 바예쉐부 샴",
+  "modern": "그들이 동쪽에서 이동하다가 시날 땅에서 평지를 발견하고 거기 거주하였습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 ~이었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"journey-time1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#fc466b\" /><stop offset=\"100%\" stop-color=\"#3f5efb\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#journey-time1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#journey-time1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(63, 94, 251, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#fc466b\" filter=\"drop-shadow(0 0 4px rgba(252, 70, 107, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "בְּנָסְעָם",
+      "meaning": "그들이 이동할 때",
+      "ipa": "bənosaˈʕam",
+      "korean": "베노스암",
+      "letters": "בְּ(be) + נָ(no) + סְ(se) + עָם(am)",
+      "root": "נ-ס-ע (나사)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"migration-path1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#fa709a\" /><stop offset=\"50%\" stop-color=\"#fee140\" /><stop offset=\"100%\" stop-color=\"#30cfd0\" /></linearGradient><linearGradient id=\"migration-people1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><path d=\"M 8 32 Q 20 16 32 28 Q 44 40 56 24\" stroke=\"url(#migration-path1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"12\" cy=\"32\" r=\"5\" fill=\"url(#migration-people1)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"26\" r=\"5\" fill=\"url(#migration-people1)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"38\" r=\"5\" fill=\"url(#migration-people1)\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" /><path d=\"M 50 28 L 56 24 L 52 20\" stroke=\"#30cfd0\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "נָסַע (나사 - 떠나다, 여행하다)",
+        "מַסָּע (마사 - 여정, 행군)"
+      ]
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "meaning": "동쪽에서",
+      "ipa": "mikˈɛdɛm",
+      "korean": "미케뎀",
+      "letters": "מִ(mi) + קֶּ(ke) + דֶם(dem)",
+      "root": "מִן (민) + קֶדֶם (케뎀)",
+      "grammar": "전치사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"east-sunrise1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#ff9a56\" /><stop offset=\"50%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><radialGradient id=\"east-sun1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#east-sunrise1)\" rx=\"8\" /><circle cx=\"48\" cy=\"20\" r=\"10\" fill=\"url(#east-sun1)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.8))\" /><g stroke=\"#FFD700\" stroke-width=\"2.5\" opacity=\"0.8\"><line x1=\"48\" y1=\"8\" x2=\"48\" y2=\"14\" stroke-linecap=\"round\" /><line x1=\"58\" y1=\"12\" x2=\"54\" y2=\"16\" stroke-linecap=\"round\" /><line x1=\"60\" y1=\"20\" x2=\"54\" y2=\"20\" stroke-linecap=\"round\" /><line x1=\"58\" y1=\"28\" x2=\"54\" y2=\"24\" stroke-linecap=\"round\" /></g><path d=\"M 8 48 Q 16 44 24 48 Q 32 52 40 48 Q 48 44 56 48\" stroke=\"#ffecd2\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "קֶדֶם (케뎀 - 동쪽, 옛날)",
+        "מִזְרָח (미즈라흐 - 동쪽, 해 뜨는 곳)"
+      ]
+    },
+    {
+      "hebrew": "וַֽיִּמְצְאוּ",
+      "meaning": "그리고 그들이 발견했다",
+      "ipa": "vajimtsəˈʔu",
+      "korean": "바임체우",
+      "letters": "וַ(va) + יִּ(yi) + מְ(me) + צְ(tse) + אוּ(u)",
+      "root": "מ-צ-א (마차)",
+      "grammar": "동사",
+      "emoji": "🔍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"discover-lens1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient><radialGradient id=\"discover-light1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"70%\" stop-color=\"#4facfe\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"26\" cy=\"26\" r=\"16\" fill=\"none\" stroke=\"url(#discover-lens1)\" stroke-width=\"4\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"26\" r=\"16\" fill=\"url(#discover-light1)\" opacity=\"0.5\" /><path d=\"M 38 38 L 52 52\" stroke=\"url(#discover-lens1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"26\" r=\"8\" fill=\"#00f2fe\" opacity=\"0.4\" /><path d=\"M 20 22 L 24 26 L 32 18\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מָצָא (마차 - 찾다, 발견하다)",
+        "מְצִיאָה (메치아 - 발견물)"
+      ]
+    },
+    {
+      "hebrew": "בִקְעָה",
+      "meaning": "평지, 평야",
+      "ipa": "vikˈʕa",
+      "korean": "비크아",
+      "letters": "בִ(bi) + קְ(ke) + עָה(ah)",
+      "root": "בִּקְעָה (비크아)",
+      "grammar": "명사",
+      "emoji": "🏞️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plain-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#a8e6cf\" /><stop offset=\"100%\" stop-color=\"#88d8b0\" /></linearGradient><linearGradient id=\"plain-sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87ceeb\" /><stop offset=\"100%\" stop-color=\"#4facfe\" /></linearGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#plain-sky1)\" /><rect y=\"32\" width=\"64\" height=\"32\" fill=\"url(#plain-land1)\" /><path d=\"M 0 32 Q 16 28 32 32 Q 48 36 64 32\" fill=\"#7fcdbb\" /><circle cx=\"52\" cy=\"16\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><path d=\"M 10 44 L 14 38 L 18 44 Z\" fill=\"#69b594\" /><path d=\"M 36 48 L 40 42 L 44 48 Z\" fill=\"#69b594\" /><path d=\"M 48 46 L 52 40 L 56 46 Z\" fill=\"#69b594\" /></svg>",
+      "relatedWords": [
+        "בִּקַּע (비카 - 쪼개다, 나누다)",
+        "עֵמֶק (에메크 - 골짜기)"
+      ]
+    },
+    {
+      "hebrew": "בְּאֶרֶץ שִׁנְעָר",
+      "meaning": "시날 땅에서",
+      "ipa": "bəˈʔɛrɛts ʃinˈʕar",
+      "korean": "베에레츠 신아르",
+      "letters": "בְּ(be) + אֶ(e) + רֶץ(rets) + שִׁ(shi) + נְ(ne) + עָר(ar)",
+      "root": "בְּ (베) + אֶרֶץ (에레츠) + שִׁנְעָר (신아르)",
+      "grammar": "명사",
+      "emoji": "🗺️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shinar-land1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f2994a\" /><stop offset=\"50%\" stop-color=\"#f2c94c\" /><stop offset=\"100%\" stop-color=\"#eb5757\" /></linearGradient><linearGradient id=\"shinar-river1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"4\" fill=\"url(#shinar-land1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 20 Q 24 16 32 20 Q 40 24 48 20\" stroke=\"url(#shinar-river1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 16 32 Q 24 28 32 32 Q 40 36 48 32\" stroke=\"url(#shinar-river1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><rect x=\"26\" y=\"38\" width=\"12\" height=\"10\" fill=\"#c0392b\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#e74c3c\" filter=\"drop-shadow(0 0 3px rgba(231, 76, 60, 0.6))\" /></svg>",
+      "relatedWords": [
+        "בָּבֶל (바벨 - 바벨론)",
+        "מֶסֹפּוֹטַמְיָה (메소포타미아 - 두 강 사이)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּשְׁבוּ שָׁם",
+      "meaning": "그리고 거기 거주했다",
+      "ipa": "vajjeʃəˈvu ʃam",
+      "korean": "바예쉐부 샴",
+      "letters": "וַ(va) + יֵּ(ye) + שְׁ(she) + בוּ(vu) + שָׁם(sham)",
+      "root": "י-ש-ב (야샤브) + שָׁם (샴)",
+      "grammar": "동사",
+      "emoji": "🏘️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"settle-house1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"100%\" stop-color=\"#f5576c\" /></linearGradient><linearGradient id=\"settle-roof1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"24\" fill=\"url(#settle-house1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 32 L 32 16 L 52 32\" fill=\"url(#settle-roof1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"40\" width=\"8\" height=\"16\" fill=\"#8b4513\" /><rect x=\"36\" y=\"38\" width=\"6\" height=\"6\" fill=\"#4facfe\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"12\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "יָשַׁב (야샤브 - 앉다, 거주하다)",
+        "מוֹשָׁב (모샤브 - 거주지, 정착지)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 2절은 인류가 동쪽에서 이동하여 시날 평지를 발견하고 정착하는 과정을 묘사합니다. '시날'은 바벨론이 위치한 메소포타미아 지역으로, 비옥한 평야였습니다. 이 정착은 하나님의 명령인 '땅에 충만하라'는 뜻을 거스르고 한 곳에 모여 사는 선택이었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מִקֶּדֶם (미케뎀) - 동쪽에서",
+        "description": "'케뎀'은 동쪽을 의미하지만, 히브리어에서는 '옛날', '태초'라는 의미도 있습니다. 아라랏 산에서 동쪽으로 이동했다는 것은 노아의 방주가 머문 곳에서 떠나 새로운 땅을 찾았음을 의미합니다.",
+        "points": [
+          "에덴동산도 '동쪽(케뎀)'에 위치했으며, 동쪽은 기원과 시작을 상징합니다",
+          "아라랏 산맥에서 남동쪽으로 이동하여 메소포타미아 평원에 도달했습니다",
+          "동쪽으로의 이동은 때로 하나님으로부터 멀어지는 것을 상징하기도 합니다(창 3:24, 4:16)",
+          "인류는 새로운 시작의 기회를 얻었지만, 곧 교만으로 타락하게 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בִקְעָה בְּאֶרֶץ שִׁנְעָר (비크아 베에레츠 신아르) - 시날 땅의 평지",
+        "description": "'비크아'는 넓고 평평한 골짜기 또는 평원을 의미하며, '시날'은 후에 바벨론 제국의 중심지가 되는 메소포타미아 남부 지역입니다. 티그리스와 유프라테스 강 사이의 비옥한 땅이었습니다.",
+        "points": [
+          "시날 평원은 농사와 건축에 이상적인 조건을 제공했습니다",
+          "이사야 11:11과 다니엘서에서도 시날은 바벨론을 가리키는 이름으로 사용됩니다",
+          "비옥한 땅은 축복이었지만, 인간은 이를 하나님 없이 자립하는 도구로 사용했습니다",
+          "지리적 편리함이 영적 교만의 온상이 될 수 있음을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיֵּשְׁבוּ שָׁם (바예쉐부 샴) - 거기 거주했다",
+        "description": "'야샤브'는 단순히 머무는 것이 아니라 정착하여 거주한다는 의미입니다. '샴(거기)'이라는 단어는 특정 장소에 고정되어 머물렀음을 강조합니다. 이는 하나님의 '흩어져라' 명령과 대조됩니다.",
+        "points": [
+          "창세기 9:1에서 하나님은 '땅에 충만하라'고 명하셨으나, 사람들은 한 곳에 모여 살기로 선택했습니다",
+          "정착은 안전과 번영을 가져올 수 있지만, 하나님의 뜻을 거스를 때 심판의 원인이 됩니다",
+          "인간은 흩어짐을 두려워하고 통제와 안전을 추구하는 경향이 있습니다",
+          "진정한 안전은 하나님께 순종하는 데서 오며, 인간의 계획은 하나님의 뜻에 부합해야 합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 사람들은 시날 평지를 발견하고 거기 머물렀을까요?",
+      "answer": "시날 평지는 땅이 평평하고 비옥해서 농사짓기 좋고, 집을 짓기에도 편했어요. 마치 우리가 살기 좋은 동네를 찾아 이사하는 것처럼, 사람들도 좋은 땅을 발견하고 기뻐했을 거예요. 하지만 하나님은 사람들이 온 땅에 퍼져서 살기를 원하셨는데, 사람들은 한 곳에 모여서 큰 도시를 만들려고 했어요. 편리함과 안전함을 하나님의 명령보다 더 중요하게 여긴 거랍니다.",
+      "bibleReferences": [
+        "창세기 9:1 - '하나님이 노아와 그 아들들에게 복을 주시며 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "창세기 10:10 - '그의 나라는 시날 땅의 바벨과 에렉과 악갓과 갈레에서 시작되었으며'",
+        "이사야 11:11 - '그 날에 주께서 두 번째로 손을 펴사... 시날에서... 그의 백성의 남은 자를 모으실 것이라'",
+        "사도행전 17:26-27 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고... 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "시날 평지에 정착한 것은 인간의 자율성과 하나님의 주권 사이의 갈등을 보여줍니다. 하나님은 인류가 온 땅에 충만하기를 원하셨지만, 사람들은 자신들의 안전과 명예를 위해 한 곳에 모이기로 결정했습니다. 이는 인간이 하나님의 계획보다 자신의 계획을 우선시할 때 어떤 결과가 초래되는지를 보여주는 서막입니다. 우리도 편리함과 안전을 추구하되, 항상 하나님의 뜻이 무엇인지 먼저 구해야 합니다."
+    }
+  }
+}

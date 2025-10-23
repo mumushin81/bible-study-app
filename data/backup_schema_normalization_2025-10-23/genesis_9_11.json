@@ -1,0 +1,158 @@
+{
+  "id": "genesis_9_11",
+  "reference": "창세기 9:11",
+  "hebrew": "וַהֲקִמֹתִי אֶת-בְּרִיתִי אִתְּכֶם, וְלֹא-יִכָּרֵת כָּל-בָּשָׂר עוֹד מִמֵּי הַמַּבּוּל; וְלֹא-יִהְיֶה עוֹד מַבּוּל, לְשַׁחֵת הָאָרֶץ.",
+  "ipa": "vahaqiˈmoti ʔɛt bəriˈti ʔitəˈχɛm vəlo jikaˈret kol baˈsar ʔod mime hamabˈbul vəlo jihˈjɛ ʔod mabˈbul ləʃaˈχet haˈʔarɛts",
+  "koreanPronunciation": "바하키모티 에트 베리티 이테켐 베로 이카레트 콜 바사르 오드 미메 하마불 베로 이흐예 오드 마불 레샤헤트 하아레츠",
+  "modern": "내가 너희와 언약을 세우리니 다시는 모든 생물을 홍수로 멸하지 아니할 것이요 땅을 멸할 홍수가 다시 있지 아니하리라",
+  "words": [
+    {
+      "hebrew": "וַהֲקִמֹתִי",
+      "meaning": "내가 세울 것이다",
+      "ipa": "vahaqiˈmoti",
+      "korean": "바하키모티",
+      "letters": "וַ(va) + הֲ(ha) + קִ(qi) + מֹ(mo) + תִי(ti)",
+      "root": "ק-ו-ם (쿰)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"establish_covenant\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><rect x=\"24\" y=\"16\" width=\"16\" height=\"40\" rx=\"2\" fill=\"url(#establish_covenant)\" stroke=\"#654321\" stroke-width=\"2\" /><rect x=\"12\" y=\"12\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#establish_covenant)\" stroke=\"#654321\" stroke-width=\"2\" /><rect x=\"8\" y=\"52\" width=\"48\" height=\"8\" rx=\"2\" fill=\"url(#establish_covenant)\" stroke=\"#654321\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "קוּם (쿰 - 일어나다, 세우다)",
+        "הֵקִים (헤킴 - 확립하다)"
+      ]
+    },
+    {
+      "hebrew": "יִכָּרֵת",
+      "meaning": "끊어지다, 멸망하다",
+      "ipa": "jikaˈret",
+      "korean": "이카레트",
+      "letters": "יִ(yi) + כָּ(ka) + רֵת(ret)",
+      "root": "כ-ר-ת (카라트)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cut_off\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><line x1=\"16\" y1=\"48\" x2=\"48\" y2=\"48\" stroke=\"#4169E1\" stroke-width=\"6\" stroke-linecap=\"round\" /><path d=\"M 32 8 L 40 40\" stroke=\"url(#cut_off)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 28 12 L 36 44\" stroke=\"url(#cut_off)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"48\" r=\"4\" fill=\"#DC143C\" /></svg>",
+      "relatedWords": [
+        "כָּרַת (카라트 - 자르다, 언약을 맺다)",
+        "כְּרִיתָה (케리타 - 절단)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "고기, 육체, 생물",
+      "ipa": "baˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂ(sa) + ר(r)",
+      "root": "ב-שׂ-ר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flesh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#flesh)\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"#FFA07A\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FA8072\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "גּוּף (구프 - 몸)",
+        "שְׁאֵר (쉐에르 - 살, 육신)"
+      ]
+    },
+    {
+      "hebrew": "עוֹד",
+      "meaning": "다시, 또",
+      "ipa": "ʔod",
+      "korean": "오드",
+      "letters": "עוֹ(o) + ד(d)",
+      "root": "ע-ו-ד (아우드)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"again\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"none\" stroke=\"url(#again)\" stroke-width=\"4\" /><path d=\"M 40 24 L 48 32 L 40 40\" stroke=\"url(#again)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עוֹדֵנוּ (오데누 - 아직)",
+        "שׁוּב (슈브 - 돌아오다)"
+      ]
+    },
+    {
+      "hebrew": "מַבּוּל",
+      "meaning": "홍수",
+      "ipa": "mabˈbul",
+      "korean": "마불",
+      "letters": "מַ(ma) + בּוּל(bul)",
+      "root": "מ-ב-ל (마발)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flood\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#191970\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient></defs><rect x=\"0\" y=\"24\" width=\"64\" height=\"40\" fill=\"url(#flood)\" opacity=\"0.8\" /><path d=\"M 8 32 Q 16 28 24 32 Q 32 36 40 32 Q 48 28 56 32\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 8 40 Q 16 36 24 40 Q 32 44 40 40 Q 48 36 56 40\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 16 8 L 20 24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 4 L 36 24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 48 10 L 52 24\" stroke=\"#4169E1\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שֶׁטֶף (쉐테프 - 범람)",
+        "מַיִם (마임 - 물)"
+      ]
+    },
+    {
+      "hebrew": "לְשַׁחֵת",
+      "meaning": "멸하기 위하여",
+      "ipa": "ləʃaˈχet",
+      "korean": "레샤헤트",
+      "letters": "לְ(le) + שַׁ(sha) + חֵת(khet)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"destroy\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#destroy)\" opacity=\"0.3\" /><path d=\"M 20 20 L 44 44\" stroke=\"#DC143C\" stroke-width=\"6\" stroke-linecap=\"round\" /><path d=\"M 44 20 L 20 44\" stroke=\"#DC143C\" stroke-width=\"6\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שָׁחַת (샤하트 - 파괴하다)",
+        "מַשְׁחִית (마쉬히트 - 파괴자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "드디어 언약의 핵심 내용이 선포됩니다! 하나님은 다시는 홍수로 땅을 멸하지 않겠다고 약속하십니다. 이는 무조건적이고 영원한 약속으로, 하나님의 신실하심을 보여주는 증거입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַהֲקִמֹתִי אֶת-בְּרִיתִי (바하키모티 에트 베리티) - 내가 언약을 세우리니",
+        "description": "'세우다'(쿰)의 히필형은 '확고하게 확립하다'는 강한 의미입니다. 하나님은 단순히 약속하시는 것이 아니라, 영원히 변하지 않을 언약을 세우십니다. 이는 법적 효력이 있는 공식적 선언입니다.",
+        "points": [
+          "하나님의 언약은 확고하고 불변합니다",
+          "언약은 하나님의 성품에 근거합니다",
+          "하나님은 약속을 지키시는 신실한 분입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְלֹא-יִכָּרֵת כָּל-בָּשָׂר עוֹד (베로 이카레트 콜 바사르 오드) - 다시는 모든 생물이 끊어지지 않을 것",
+        "description": "'카라트'(끊다)는 '언약을 맺다'(카라트 베리트)에서도 쓰이는 동사입니다. 언약은 '잘라서' 맺지만, 생명은 다시는 '잘리지' 않을 것입니다. '다시는'(오드)은 절대적 부정을 강조합니다.",
+        "points": [
+          "전 세계적 대홍수는 다시 없을 것입니다",
+          "하나님의 '절대 아니다'는 확실한 약속입니다",
+          "과거의 심판은 반복되지 않습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִמֵּי הַמַּבּוּל (미메 하마불) - 홍수의 물로",
+        "description": "'마불'(홍수)은 성경에서 노아 홍수를 가리키는 전문 용어입니다. 일반적인 홍수(쉐테프)와 구별됩니다. 이는 하나님의 심판적 홍수를 의미하며, 이런 심판은 다시 없을 것입니다.",
+        "points": [
+          "노아 홍수는 독특하고 반복되지 않는 사건입니다",
+          "국지적 홍수는 있을 수 있지만 전 지구적 홍수는 없습니다",
+          "하나님의 심판 방법은 바뀌었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְשַׁחֵת הָאָרֶץ (레샤헤트 하아레츠) - 땅을 멸할",
+        "description": "하나님의 약속은 두 가지입니다: (1) 모든 생물을 멸하지 않을 것 (2) 땅을 멸하지 않을 것. 생명과 환경 모두를 보호하겠다는 포괄적 약속입니다.",
+        "points": [
+          "하나님은 창조 세계를 보존하십니다",
+          "지구는 하나님의 보호 아래 있습니다",
+          "그러나 국지적 재해는 여전히 있을 수 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 다시는 홍수로 세상을 멸하지 않겠다고 약속하셨을까요?",
+      "answer": "하나님은 우리를 사랑하시고, 우리에게 희망을 주고 싶으셨기 때문이에요. 홍수 후에 노아와 그의 가족은 아마 무서웠을 거예요. '또 비가 많이 오면 어쩌지?'라고 걱정했을 수도 있어요. 하나님은 그런 두려움을 없애주시려고 '절대로 다시는 그런 일이 없을 거야'라고 약속하신 거예요. 이것은 하나님이 우리를 버리지 않으시고, 계속 돌보실 거라는 증거예요. 비가 많이 와도 걱정하지 않아도 돼요. 하나님이 약속하셨으니까요!",
+      "bibleReferences": [
+        "이사야 54:9 - '이는 내게 노아의 홍수와 같도다 내가 다시는 노아의 홍수로 땅 위에 범람하지 못하게 하리라 맹세한 것 같이 내가 다시는 네게 노하지 아니하며 너를 책망하지 아니하기로 맹세하였노니'",
+        "베드로후서 3:6-7 - '이로 말미암아 그 때에 세상은 물이 넘침으로 멸망하였으되 이제 하늘과 땅은 그 동일한 말씀으로 불사르기 위하여 보호하신 바 되어'",
+        "시편 104:9 - '주께서 물의 경계를 정하여 넘치지 못하게 하시며 다시 돌아와 땅을 덮지 못하게 하셨나이다'",
+        "예레미야 5:22 - '여호와의 말씀이니라 너희가 나를 두려워하지 아니하느냐 내 앞에서 떨지 아니하겠느냐 내가 모래를 두어 바다의 한계를 삼되 그것으로 영원한 한계를 삼고 지나치지 못하게 하였으므로'",
+        "히브리서 6:18 - '이는 하나님이 거짓말을 하실 수 없는 이 두 가지 변하지 못할 사실로 말미암아 앞에 있는 소망을 얻으려고 피난처를 찾은 우리에게 큰 안위를 받게 하려 하심이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:11은 하나님의 신실하심과 은혜의 언약을 선포합니다. 이는 무조건적 언약(unconditional covenant)의 전형으로, 노아나 그 후손의 행위에 관계없이 하나님이 일방적으로 지키시는 약속입니다. 이사야 54:9는 이를 '노아의 홍수'라 부르며, 하나님이 다시는 노하지 않으시겠다는 약속과 연결합니다. 그러나 베드로후서 3:6-7은 물로 멸망한 세상이 마지막에는 불로 심판받을 것이라고 경고합니다. 홍수로는 아니지만, 죄에 대한 최종 심판은 여전히 남아있습니다. 그러나 우리는 예수 그리스도 안에서 이 심판에서도 구원받을 소망이 있습니다. 노아의 방주가 홍수에서 구원한 것처럼, 그리스도는 마지막 심판에서 우리를 구원하십니다."
+    }
+  }
+}

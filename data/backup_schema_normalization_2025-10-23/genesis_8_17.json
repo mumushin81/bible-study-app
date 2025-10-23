@@ -1,0 +1,185 @@
+{
+  "id": "genesis_8_17",
+  "reference": "창세기 8:17",
+  "hebrew": "כָּל־הַחַיָּה אֲשֶׁר־אִתְּךָ מִכָּל־בָּשָׂר בָּעוֹף וּבַבְּהֵמָה וּבְכָל־הָרֶמֶשׂ הָרֹמֵשׂ עַל־הָאָרֶץ הוצא אִתָּךְ וְשָׁרְצוּ בָאָרֶץ וּפָרוּ וְרָבוּ עַל־הָאָרֶץ.",
+  "ipa": "kol haxaˈja ʔaˈʃɛr ʔiˈtəxa mikol baˈsar baˈof uvabəheˈma uvəxol haˈrɛmɛʃ haroˈmeʃ ʔal haˈʔarɛts ˈhotse ʔiˈtax vəʃarˈətsu vaˈʔarɛts ufaˈru vəraˈvu ʔal haˈʔarɛts",
+  "koreanPronunciation": "콜 하하야 아쉐르 이테카 미콜 바사르 바오프 우바베헤마 우베콜 하레메쉬 하로메쉬 알 하아레츠 호체 이타크 베샤르추 바아레츠 우파루 베라부 알 하아레츠",
+  "modern": "너와 함께 있는 모든 생물, 곧 새와 가축과 땅에 기는 모든 기는 것을 너와 함께 내보내라. 그들이 땅에서 번성하고 생육하고 번성하게 하라",
+  "words": [
+    {
+      "hebrew": "הַחַיָּה",
+      "meaning": "생물",
+      "ipa": "haxaˈja",
+      "korean": "하하야",
+      "letters": "הַ(ha) + חַ(cha) + יָּה(ya)",
+      "root": "ח-י-ה (chayah)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"living_creatures\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"8\" fill=\"url(#living_creatures)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#living_creatures)\" /><circle cx=\"44\" cy=\"28\" r=\"8\" fill=\"url(#living_creatures)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"44\" rx=\"20\" ry=\"8\" fill=\"url(#living_creatures)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "육체, 고기",
+      "ipa": "baˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂר(sar)",
+      "root": "ב-ש-ר (basar)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"flesh_body\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FFAB91\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"24\" fill=\"url(#flesh_body)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"26\" r=\"3\" fill=\"#E64A19\" opacity=\"0.3\" /><circle cx=\"36\" cy=\"30\" r=\"3\" fill=\"#E64A19\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"38\" r=\"3\" fill=\"#E64A19\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "בָּשָׂר (바사르 - 육체)",
+        "בְּשַׂר (베사르 - 소식)"
+      ]
+    },
+    {
+      "hebrew": "בָּעוֹף",
+      "meaning": "새에",
+      "ipa": "baˈof",
+      "korean": "바오프",
+      "letters": "בָּ(ba) + עוֹף(of)",
+      "root": "עוֹף (오프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird_flying\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#bird_flying)\" /><circle cx=\"28\" cy=\"30\" r=\"5\" fill=\"url(#bird_flying)\" /><circle cx=\"26\" cy=\"29\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 20 32 L 8 28 L 20 30 Z\" fill=\"url(#bird_flying)\" /><path d=\"M 48 32 L 60 28 L 48 30 Z\" fill=\"url(#bird_flying)\" /><path d=\"M 32 36 L 34 42 L 32 42 Z\" fill=\"#FFA726\" /></svg>",
+      "relatedWords": [
+        "עוֹף (오프 - 새)",
+        "צִפּוֹר (치포르 - 새)"
+      ]
+    },
+    {
+      "hebrew": "הָרֶמֶשׂ",
+      "meaning": "기는 것",
+      "ipa": "haˈrɛmɛʃ",
+      "korean": "하레메쉬",
+      "letters": "הָ(ha) + רֶ(re) + מֶשׂ(mesh)",
+      "root": "ר-מ-שׂ (ramas)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creeping_thing\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"8\" fill=\"url(#creeping_thing)\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"34\" r=\"3\" fill=\"url(#creeping_thing)\" /><circle cx=\"18\" cy=\"36\" r=\"2\" fill=\"url(#creeping_thing)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#creeping_thing)\" /><circle cx=\"40\" cy=\"34\" r=\"3\" fill=\"url(#creeping_thing)\" /><circle cx=\"46\" cy=\"36\" r=\"2\" fill=\"url(#creeping_thing)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "רֶמֶשׂ (레메쉬 - 기는 것)",
+        "רָמַשׂ (라마스 - 기다)"
+      ]
+    },
+    {
+      "hebrew": "הוֹצֵא",
+      "meaning": "내보내라",
+      "ipa": "ˈhotse",
+      "korean": "호체",
+      "letters": "הוֹ(ho) + צֵא(tse)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동사 명령형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring_out\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" /><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.7\" /><circle cx=\"56\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.4\" /><path d=\"M 24 28 L 32 32 L 24 36\" fill=\"#43A047\" /></svg>",
+      "relatedWords": [
+        "הוֹצִיא (호치 - 내보내다)",
+        "יָצָא (야차 - 나가다)"
+      ]
+    },
+    {
+      "hebrew": "וְשָׁרְצוּ",
+      "meaning": "그리고 번성하라",
+      "ipa": "vəʃarˈətsu",
+      "korean": "베샤르추",
+      "letters": "וְ(və) + שָׁ(sha) + רְ(r) + צוּ(tsu)",
+      "root": "ש-ר-ץ (sharats)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"swarm_multiply\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#66BB6A\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"url(#swarm_multiply)\" /><circle cx=\"32\" cy=\"18\" r=\"5\" fill=\"url(#swarm_multiply)\" /><circle cx=\"44\" cy=\"20\" r=\"4\" fill=\"url(#swarm_multiply)\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#swarm_multiply)\" /><circle cx=\"28\" cy=\"32\" r=\"5\" fill=\"url(#swarm_multiply)\" /><circle cx=\"40\" cy=\"32\" r=\"5\" fill=\"url(#swarm_multiply)\" /><circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"url(#swarm_multiply)\" /><circle cx=\"20\" cy=\"44\" r=\"4\" fill=\"url(#swarm_multiply)\" /><circle cx=\"32\" cy=\"46\" r=\"5\" fill=\"url(#swarm_multiply)\" /><circle cx=\"44\" cy=\"44\" r=\"4\" fill=\"url(#swarm_multiply)\" /></svg>",
+      "relatedWords": [
+        "שָׁרַץ (샤라츠 - 번성하다)",
+        "שֶׁרֶץ (셰레츠 - 번식하는 것)"
+      ]
+    },
+    {
+      "hebrew": "וּפָרוּ",
+      "meaning": "그리고 생육하라",
+      "ipa": "ufaˈru",
+      "korean": "우파루",
+      "letters": "וּ(u) + פָ(fa) + רוּ(ru)",
+      "root": "פ-ר-ה (parah)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fruitful_grow\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"100%\" stop-color=\"#7CB342\" /></linearGradient></defs><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"url(#fruitful_grow)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"40\" r=\"5\" fill=\"url(#fruitful_grow)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"30\" r=\"7\" fill=\"url(#fruitful_grow)\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"18\" r=\"9\" fill=\"url(#fruitful_grow)\" /><path d=\"M 28 18 L 24 12 L 20 16\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 36 18 L 40 12 L 44 16\" stroke=\"#558B2F\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "פָּרָה (파라 - 생육하다)",
+        "פְּרִי (페리 - 열매)"
+      ]
+    },
+    {
+      "hebrew": "וְרָבוּ",
+      "meaning": "그리고 번성하라",
+      "ipa": "vəraˈvu",
+      "korean": "베라부",
+      "letters": "וְ(və) + רָ(ra) + בוּ(vu)",
+      "root": "ר-ב-ה (ravah)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"multiply_many\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" opacity=\"0.5\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#multiply_many)\" /><circle cx=\"18\" cy=\"18\" r=\"6\" fill=\"url(#multiply_many)\" opacity=\"0.8\" /><circle cx=\"46\" cy=\"18\" r=\"6\" fill=\"url(#multiply_many)\" opacity=\"0.8\" /><circle cx=\"18\" cy=\"46\" r=\"6\" fill=\"url(#multiply_many)\" opacity=\"0.8\" /><circle cx=\"46\" cy=\"46\" r=\"6\" fill=\"url(#multiply_many)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"14\" r=\"4\" fill=\"url(#multiply_many)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"50\" r=\"4\" fill=\"url(#multiply_many)\" opacity=\"0.6\" /><circle cx=\"14\" cy=\"32\" r=\"4\" fill=\"url(#multiply_many)\" opacity=\"0.6\" /><circle cx=\"50\" cy=\"32\" r=\"4\" fill=\"url(#multiply_many)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רָבָה (라바 - 많아지다)",
+        "רַב (라브 - 많은)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 17절은 동물들을 위한 하나님의 명령입니다. 노아는 동물들을 내보내고, 그들이 번성하도록 해야 합니다. 이는 창조 때의 축복(1:22)이 재확인되는 순간입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "모든 생물의 포함",
+        "description": "새, 가축, 기는 것 등 모든 종류의 생물이 언급됩니다. 이는 하나님의 구원이 포괄적임을 보여줍니다.",
+        "points": [
+          "하나님의 관심은 모든 피조물에 미칩니다",
+          "인간만이 아니라 동물도 중요합니다",
+          "생태계 전체의 회복입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הוֹצֵא אִתָּךְ (호체 이타크) - 너와 함께 내보내라",
+        "description": "노아는 동물들을 '함께' 내보내야 합니다. 이는 청지기적 책임을 나타냅니다.",
+        "points": [
+          "인간은 동물의 청지기입니다",
+          "함께 살아가야 하는 공동체입니다",
+          "책임 있는 돌봄이 필요합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְשָׁרְצוּ וּפָרוּ וְרָבוּ (베샤르추 우파루 베라부) - 세 가지 축복",
+        "description": "번성하라, 생육하라, 번성하라는 세 동사는 창조 때의 축복(1:22)을 반복합니다.",
+        "points": [
+          "창조의 축복이 재확인됩니다",
+          "새로운 시작이지만 원래의 계획을 따릅니다",
+          "생명력의 회복과 확장입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "재창조의 명령",
+        "description": "이 명령은 단순히 방주에서 나가는 것이 아니라, 새로운 세계를 채우는 사명입니다.",
+        "points": [
+          "비어있는 땅을 채우는 사명입니다",
+          "생명의 회복과 확산입니다",
+          "하나님의 창조 계획의 계속입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 동물들에 대해서도 이렇게 자세히 말씀하셨을까요?",
+      "answer": "하나님은 동물들도 정말 사랑하시기 때문이에요. 사람만 구하신 게 아니라 동물들도 함께 구하셨잖아요? 하나님은 노아에게 동물들을 잘 돌보고, 그들이 다시 많아져서 온 세상에 가득하게 하라고 말씀하신 거예요. 마치 엄마가 아기만 챙기는 게 아니라 우리 집 강아지도 챙기는 것처럼, 하나님도 사람과 동물 모두를 돌보세요. 동물들도 하나님이 만드신 소중한 생명이거든요. 그래서 우리도 동물들을 잘 돌봐야 해요.",
+      "bibleReferences": [
+        "창세기 1:22 - '하나님이 그들에게 복을 주시며 이르시되 생육하고 번성하여 여러 바닷물에 충만하라 새들도 땅에 번성하라 하시니라'",
+        "시편 145:9 - '여호와께서는 만유를 선대하시며 그 지으신 모든 것에 긍휼을 베푸시는도다'",
+        "시편 147:9 - '그가 짐승과 우는 까마귀 새끼에게 먹을 것을 주시는도다'",
+        "잠언 12:10 - '의인은 자기의 가축의 생명을 돌보나 악인의 긍휼은 잔인이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:17은 하나님의 구원과 축복이 모든 피조물에 미침을 보여줍니다. '번성하라, 생육하라, 번성하라'는 명령은 창세기 1:22의 창조 축복을 반복하며, 홍수 후 세계가 진정한 재창조임을 확인합니다. 노아는 동물들을 '함께(이타크)' 내보내야 하는데, 이는 인간과 자연의 조화로운 공존을 나타냅니다. 하나님은 인간만이 아니라 모든 생물의 번성을 원하시며, 인간은 그들의 청지기로서 책임을 가집니다. 이는 환경 보호와 생태계 돌봄의 성경적 근거가 됩니다. 새로운 세계는 모든 생명이 함께 번성하는 곳이어야 합니다."
+    }
+  }
+}

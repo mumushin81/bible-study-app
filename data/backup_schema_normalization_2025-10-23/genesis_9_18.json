@@ -1,0 +1,213 @@
+{
+  "id": "genesis_9_18",
+  "reference": "창세기 9:18",
+  "hebrew": "וַיִּהְיוּ בְנֵי־נֹחַ הַיֹּצְאִים מִן־הַתֵּבָה שֵׁם וְחָם וָיָפֶת וְחָם הוּא אֲבִי כְנָעַן",
+  "ipa": "vajːihju vəneː nɔːaχ hajːoːtsəʔiːm min hatːeːvaː ʃeːm vəχaːm vaːjaːfɛt vəχaːm huː ʔaviː kənaːʕan",
+  "koreanPronunciation": "바이흐유 베네 노아흐 하요체임 민 하테바 쉠 베함 바야페트 베함 후 아비 크나안",
+  "modern": "방주에서 나온 노아의 아들들은 셈과 함과 야벳이었다. 함은 가나안의 아버지였다",
+  "words": [
+    {
+      "hebrew": "וַיִּהְיוּ",
+      "meaning": "그리고 그들이 되었다",
+      "ipa": "vajːihju",
+      "korean": "바이흐유",
+      "letters": "וַ(va) + יִּ(yi) + הְ(he) + יוּ(yu)",
+      "root": "הָיָה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"become_vayihyu\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"6\" fill=\"url(#become_vayihyu)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#become_vayihyu)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"url(#become_vayihyu)\" opacity=\"0.6\" /><path d=\"M 26 32 L 38 32\" stroke=\"url(#become_vayihyu)\" stroke-width=\"2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יִהְיֶה (이혜예 - ~일 것이다)"
+      ]
+    },
+    {
+      "hebrew": "בְנֵי־נֹחַ",
+      "meaning": "노아의 아들들",
+      "ipa": "vəneː nɔːaχ",
+      "korean": "베네 노아흐",
+      "letters": "בְּ(be) + נֵי(nei) + נֹחַ(noach)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_benei\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#sons_benei)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"12\" ry=\"16\" fill=\"url(#sons_benei)\" opacity=\"0.8\" /><circle cx=\"20\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"48\" r=\"6\" fill=\"url(#sons_benei)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "הַיֹּצְאִים",
+      "meaning": "나오는 자들",
+      "ipa": "hajːoːtsəʔiːm",
+      "korean": "하요체임",
+      "letters": "הַ(ha) + יֹּ(yo) + צְ(tse) + אִים(im)",
+      "root": "יָצָא (야차)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_hayotzeim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"28\" height=\"32\" fill=\"#BDBDBD\" opacity=\"0.6\" /><path d=\"M 36 32 L 56 32\" stroke=\"url(#exit_hayotzeim)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><path d=\"M 48 24 L 56 32 L 48 40\" stroke=\"url(#exit_hayotzeim)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><rect x=\"20\" y=\"28\" width=\"8\" height=\"16\" fill=\"#757575\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "בּוֹא (보 - 들어가다)"
+      ]
+    },
+    {
+      "hebrew": "הַתֵּבָה",
+      "meaning": "방주",
+      "ipa": "hatːeːvaː",
+      "korean": "하테바",
+      "letters": "הַ(ha) + תֵּ(te) + בָה(vah)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark_hatevah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"10\" fill=\"#0288D1\" opacity=\"0.6\" /><path d=\"M 12 32 L 12 44 Q 12 48 16 48 L 48 48 Q 52 48 52 44 L 52 32 Z\" fill=\"url(#ark_hatevah)\" opacity=\"0.8\" /><path d=\"M 8 32 L 32 20 L 56 32 Z\" fill=\"#A1887F\" opacity=\"0.9\" /><rect x=\"24\" y=\"36\" width=\"6\" height=\"8\" fill=\"#3E2723\" opacity=\"0.8\" /><rect x=\"34\" y=\"36\" width=\"6\" height=\"8\" fill=\"#3E2723\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "סְפִינָה (스피나 - 배)",
+        "אֳנִיָּה (오니야 - 선박)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃeːm",
+      "korean": "쉠",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shem_name\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#shem_name)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#shem_name)\" opacity=\"0.8\" /><path d=\"M 24 20 L 28 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 40 20 L 36 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 16 L 32 12\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "שָׂם (삼 - 두다, 놓다)"
+      ]
+    },
+    {
+      "hebrew": "חָם",
+      "meaning": "함",
+      "ipa": "χaːm",
+      "korean": "함",
+      "letters": "חָ(cha) + ם(m)",
+      "root": "חָם (함)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ham_hot\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#D84315\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#ham_hot)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#ham_hot)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"#FF8A65\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "חַם (함 - 뜨거운)",
+        "חֹם (홈 - 열기)"
+      ]
+    },
+    {
+      "hebrew": "יָפֶת",
+      "meaning": "야벳",
+      "ipa": "jaːfɛt",
+      "korean": "야페트",
+      "letters": "יָ(ya) + פֶת(fet)",
+      "root": "יָפֶה (야페)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"japheth_beautiful\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#japheth_beautiful)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#japheth_beautiful)\" opacity=\"0.8\" /><path d=\"M 20 28 L 16 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 44 28 L 48 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "יָפֶה (야페 - 아름다운)",
+        "פָּתָה (파타 - 넓히다)"
+      ]
+    },
+    {
+      "hebrew": "הוּא",
+      "meaning": "그는",
+      "ipa": "huː",
+      "korean": "후",
+      "letters": "הוּ(hu) + א(silent)",
+      "root": "הוּא (후)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"he_hu\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#he_hu)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 24 L 36 32 L 32 40 L 28 32 Z\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "הִיא (히 - 그녀는)",
+        "הֵם (헴 - 그들은)"
+      ]
+    },
+    {
+      "hebrew": "אֲבִי",
+      "meaning": "아버지",
+      "ipa": "ʔaviː",
+      "korean": "아비",
+      "letters": "אֲ(a) + בִי(vi)",
+      "root": "אָב (아브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"father_avi\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#father_avi)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"16\" ry=\"14\" fill=\"url(#father_avi)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אִמָּא (임마 - 어머니)"
+      ]
+    },
+    {
+      "hebrew": "כְנָעַן",
+      "meaning": "가나안",
+      "ipa": "kənaːʕan",
+      "korean": "크나안",
+      "letters": "כְּ(ke) + נָ(na) + עַן(an)",
+      "root": "כְּנַעַן (크나안)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan_land\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><path d=\"M 12 48 L 12 32 Q 12 24 20 20 L 44 20 Q 52 24 52 32 L 52 48 Z\" fill=\"url(#canaan_land)\" opacity=\"0.8\" /><rect x=\"24\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><rect x=\"34\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><path d=\"M 20 28 L 24 24 L 28 28\" fill=\"#D84315\" opacity=\"0.7\" /><path d=\"M 36 28 L 40 24 L 44 28\" fill=\"#D84315\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "כָּנַע (카나 - 복종하다)",
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 노아의 세 아들을 소개하며, 특별히 함이 가나안의 아버지임을 강조합니다. 이는 다음에 이어질 함의 불경한 행동과 그 결과로 나타날 가나안의 저주를 예고하는 중요한 배경 정보입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְנֵי־נֹחַ (베네 노아흐) - 노아의 아들들",
+        "description": "셈, 함, 야벳은 홍수 이후 인류의 조상이 됩니다. 이들은 창세기 10장의 '민족의 표'(Table of Nations)에서 세계 모든 민족의 기원으로 기록됩니다.",
+        "points": [
+          "노아의 세 아들은 홍수 이후 새로운 인류의 시작입니다",
+          "각 아들은 서로 다른 민족의 조상이 됩니다",
+          "하나님의 창조 명령인 '생육하고 번성하라'가 이루어집니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַיֹּצְאִים מִן־הַתֵּבָה (하요체임 민 하테바) - 방주에서 나온",
+        "description": "방주에서 나온다는 것은 단순히 물리적 이동이 아니라, 심판에서 구원받아 새로운 세계로 들어가는 영적 의미를 담고 있습니다. 이는 세례와 구원의 예표입니다.",
+        "points": [
+          "방주에서 나옴은 죽음에서 생명으로의 전환을 상징합니다",
+          "새로운 시작과 회복의 순간입니다",
+          "하나님의 구원 계획의 실현입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שֵׁם וְחָם וָיָפֶת (쉠 베함 바야페트) - 셈과 함과 야벳",
+        "description": "세 아들의 이름은 각각 의미가 있습니다. 셈은 '이름', 함은 '뜨거운', 야벳은 '넓히다' 또는 '아름다운'을 의미합니다. 셈은 아시아(특히 셈족), 함은 아프리카, 야벳은 유럽 민족의 조상이 됩니다.",
+        "points": [
+          "셈: 이스라엘을 포함한 셈족의 조상",
+          "함: 이집트, 구스(에티오피아), 가나안 등의 조상",
+          "야벳: 유럽과 소아시아 민족의 조상"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְחָם הוּא אֲבִי כְנָעַן (베함 후 아비 크나안) - 함은 가나안의 아버지",
+        "description": "성경은 함이 가나안의 아버지임을 특별히 강조합니다. 이는 다음에 나올 함의 불경한 행동과 그 결과로 내려질 가나안에 대한 저주를 예고합니다. 가나안 족속은 후에 이스라엘의 대적이 됩니다.",
+        "points": [
+          "가나안은 후에 이스라엘이 차지할 약속의 땅의 거주민입니다",
+          "이 언급은 다음 이야기를 위한 복선입니다",
+          "역사적으로 이스라엘과 가나안의 관계를 설명합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 함이 가나안의 아버지라는 것을 특별히 말하나요?",
+      "answer": "성경은 앞으로 일어날 중요한 일을 미리 알려주고 있어요. 함은 곧 아버지 노아에게 나쁜 행동을 하게 되고, 그 때문에 함의 아들 가나안이 저주를 받게 돼요. 이것은 부모의 행동이 자녀에게 영향을 줄 수 있다는 것을 보여줘요. 또한 나중에 이스라엘 백성들이 약속의 땅인 가나안 땅에 들어갈 때, 그곳에 살던 가나안 사람들의 유래를 설명해주는 거예요. 하나님은 우리 행동의 결과를 미리 보여주시면서, 우리가 바르게 살아야 한다는 것을 가르쳐주세요.",
+      "bibleReferences": [
+        "창세기 10:6 - '함의 아들은 구스와 미스라임과 붓과 가나안이요'",
+        "창세기 15:16 - '네 자손은 사대 만에 이 땅으로 돌아오리니 이는 아모리 족속의 죄악이 아직 가득 차지 아니함이니라'",
+        "레위기 18:3 - '너희는 그 거주하던 애굽 땅의 풍속을 따르지 말며 내가 너희를 인도할 가나안 땅의 풍속과 규례도 행하지 말고'",
+        "출애굽기 20:5 - '나 네 하나님 여호와는 질투하는 하나님인즉 나를 미워하는 자의 죄를 갚되 아버지로부터 아들에게로 삼사 대까지 이르게 하거니와'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:18은 홍수 이후 새로운 인류의 시작을 알립니다. 노아의 세 아들은 전 세계 모든 민족의 조상이 되어, 하나님의 창조 명령인 '생육하고 번성하여 땅에 충만하라'(창세기 9:1)는 말씀을 성취합니다. 함이 가나안의 아버지임을 강조하는 것은 다음 장의 사건(노아의 저주)과 이스라엘 역사(가나안 정복)를 위한 신학적 배경을 제공합니다. 이는 하나님의 섭리가 역사를 통해 어떻게 이루어지는지를 보여주며, 우리의 선택과 행동이 다음 세대에 미치는 영향을 깨닫게 합니다."
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "genesis_6_14",
+  "reference": "창세기 6:14",
+  "hebrew": "עֲשֵׂה לְךָ תֵּבַת עֲצֵי־גֹפֶר, קִנִּים תַּעֲשֶׂה אֶת־הַתֵּבָה; וְכָפַרְתָּ אֹתָהּ מִבַּיִת וּמִחוּץ, בַּכֹּפֶר.",
+  "ipa": "ʔaˈse ləˈχa teˈvat ʔaˈtse ˈgofɛr qiˈnim taʔaˈse ʔɛt hateˈva vəχafarˈta ʔoˈtah mibaˈjit umiˈχuts baˈkofɛr",
+  "koreanPronunciation": "아세 레카 테바트 아체 고페르 키님 타아세 에트 하테바 베카파르타 오타 미바이트 우미후츠 바코페르",
+  "modern": "너는 잣나무로 방주를 만들고, 방주에 방들을 만들어라. 그리고 안팎으로 역청을 칠하라",
+  "words": [
+    {
+      "hebrew": "עֲשֵׂה",
+      "meaning": "만들어라",
+      "ipa": "ʔaˈse",
+      "korean": "아세",
+      "letters": "עֲ(a) + שֵׂה(se)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사 - 명령형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"make_aseh\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><rect x=\"16\" y=\"24\" width=\"32\" height=\"24\" rx=\"4\" fill=\"url(#make_aseh)\" opacity=\"0.5\" /><path d=\"M 24 16 L 32 8 L 40 16\" stroke=\"url(#make_aseh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다)",
+        "מַעֲשֶׂה (마아세 - 행위, 작품)"
+      ]
+    },
+    {
+      "hebrew": "תֵּבַת",
+      "meaning": "방주",
+      "ipa": "teˈvat",
+      "korean": "테바트",
+      "letters": "תֵּ(te) + בַת(vat)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사 - 연계형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark_tevat\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><path d=\"M 12 40 L 12 28 L 20 20 L 44 20 L 52 28 L 52 40 Z\" fill=\"url(#ark_tevat)\" /><rect x=\"12\" y=\"40\" width=\"40\" height=\"8\" fill=\"url(#ark_tevat)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "תֵּבָה (테바 - 방주, 상자)",
+        "אֲרוֹן (아론 - 궤, 상자)"
+      ]
+    },
+    {
+      "hebrew": "עֲצֵי־גֹפֶר",
+      "meaning": "잣나무 (고페르 나무)",
+      "ipa": "ʔaˈtse ˈgofɛr",
+      "korean": "아체 고페르",
+      "letters": "עֲצֵי(atse) + גֹפֶר(gofer)",
+      "root": "עֵץ (에츠) + גֹּפֶר (고페르)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gopher_atsegofer\"><stop offset=\"0%\" stop-color=\"#795548\" /><stop offset=\"100%\" stop-color=\"#4E342E\" /></linearGradient></defs><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" fill=\"url(#gopher_atsegofer)\" /><circle cx=\"32\" cy=\"12\" r=\"8\" fill=\"#4CAF50\" opacity=\"0.6\" /><circle cx=\"24\" cy=\"16\" r=\"6\" fill=\"#4CAF50\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"16\" r=\"6\" fill=\"#4CAF50\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עֵץ (에츠 - 나무)",
+        "אֶרֶז (에레즈 - 백향목)"
+      ]
+    },
+    {
+      "hebrew": "קִנִּים",
+      "meaning": "방들, 둥지들",
+      "ipa": "qiˈnim",
+      "korean": "키님",
+      "letters": "קִ(qi) + נִּים(nim)",
+      "root": "קֵן (켄)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rooms_qinnim\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"18\" height=\"18\" rx=\"2\" fill=\"url(#rooms_qinnim)\" opacity=\"0.6\" /><rect x=\"34\" y=\"12\" width=\"18\" height=\"18\" rx=\"2\" fill=\"url(#rooms_qinnim)\" opacity=\"0.6\" /><rect x=\"12\" y=\"34\" width=\"18\" height=\"18\" rx=\"2\" fill=\"url(#rooms_qinnim)\" opacity=\"0.6\" /><rect x=\"34\" y=\"34\" width=\"18\" height=\"18\" rx=\"2\" fill=\"url(#rooms_qinnim)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "קֵן (켄 - 둥지)",
+        "חֶדֶר (헤데르 - 방)"
+      ]
+    },
+    {
+      "hebrew": "וְכָפַרְתָּ",
+      "meaning": "그리고 칠하라",
+      "ipa": "vəχafarˈta",
+      "korean": "베카파르타",
+      "letters": "וְ(ve) + כָ(χa) + פַר(far) + תָּ(ta)",
+      "root": "כ-פ-ר (카파르)",
+      "grammar": "동사 - 명령형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pitch_vechafarta\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#434343\" /></linearGradient></defs><rect x=\"16\" y=\"24\" width=\"32\" height=\"20\" rx=\"4\" fill=\"url(#pitch_vechafarta)\" opacity=\"0.7\" /><path d=\"M 20 28 L 44 28\" stroke=\"url(#pitch_vechafarta)\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "כָּפַר (카파르 - 덮다, 속죄하다)",
+        "כִּפּוּר (키푸르 - 속죄)"
+      ]
+    },
+    {
+      "hebrew": "מִבַּיִת",
+      "meaning": "안쪽에서",
+      "ipa": "mibaˈjit",
+      "korean": "미바이트",
+      "letters": "מִ(mi) + בַּ(ba) + יִת(yit)",
+      "root": "בַּיִת (바이트)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"inside_mibbayit\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"none\" stroke=\"url(#inside_mibbayit)\" stroke-width=\"3\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#inside_mibbayit)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집)",
+        "פְּנִים (페님 - 안쪽)"
+      ]
+    },
+    {
+      "hebrew": "וּמִחוּץ",
+      "meaning": "그리고 밖에서",
+      "ipa": "umiˈχuts",
+      "korean": "우미후츠",
+      "letters": "וּ(u) + מִ(mi) + חוּץ(χuts)",
+      "root": "חוּץ (후츠)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"outside_umichuts\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#outside_umichuts)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#outside_umichuts)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "חוּץ (후츠 - 밖)",
+        "חוּצָה (후차 - 밖으로)"
+      ]
+    },
+    {
+      "hebrew": "בַּכֹּפֶר",
+      "meaning": "역청으로",
+      "ipa": "baˈkofɛr",
+      "korean": "바코페르",
+      "letters": "בַּ(ba) + כֹּפֶר(kofer)",
+      "root": "כֹּפֶר (코페르)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pitch_bakofer\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#1A1A1A\" /></linearGradient></defs><rect x=\"16\" y=\"20\" width=\"32\" height=\"28\" rx=\"4\" fill=\"url(#pitch_bakofer)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "כֹּפֶר (코페르 - 역청, 속죄)",
+        "כִּפֵּר (키페르 - 속죄하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 노아에게 방주 건조 명령을 내리십니다. 방주는 심판 가운데 구원의 수단이며, 예수 그리스도의 예표입니다.",
+    "sections": [
+      {
+        "emoji": "🚢",
+        "title": "구원의 방주",
+        "description": "방주(תֵּבָה)는 '상자'를 의미합니다. 이는 노아와 그의 가족, 그리고 동물들을 구원할 유일한 수단이었습니다.",
+        "points": [
+          "오직 하나의 구원의 길",
+          "예수 그리스도의 예표",
+          "믿음으로 들어가는 구원"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "🛡️",
+        "title": "역청의 의미",
+        "description": "'카파르'(כָּפַר)는 '덮다'라는 뜻으로, 속죄를 의미하는 단어와 같은 어근입니다. 역청이 물을 막듯, 그리스도의 보혈이 심판을 막습니다.",
+        "points": [
+          "속죄의 언어적 연결",
+          "보호와 구원의 상징",
+          "안팎으로 완전한 보호"
+        ],
+        "color": "purple"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 방주를 만들어야 했을까요?",
+      "answer": "하나님이 홍수로 세상을 심판하실 때, 노아와 그의 가족이 살 수 있도록 큰 배가 필요했어요. 방주는 물에 뜨는 집이었고, 그 안에 들어간 사람들과 동물들만 살아남을 수 있었답니다. 방주는 하나님이 준비하신 구원의 방법이었어요.",
+      "bibleReferences": [
+        "히브리서 11:7 - '믿음으로 노아는 아직 보이지 않는 일에 경고하심을 받아 경외함으로 방주를 준비하여'",
+        "베드로전서 3:20 - '방주에서 물로 말미암아 구원을 얻은 자가 몇 명뿐이니 겨우 여덟 명이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "그리스도의 예표",
+      "content": "방주는 예수 그리스도를 예표합니다. 방주 안에 들어간 자만 구원받았듯이, 그리스도 안에 있는 자만 영원한 구원을 받습니다. 역청으로 덮인 방주는 그리스도의 보혈로 덮인 믿는 자를 상징합니다."
+    }
+  }
+}

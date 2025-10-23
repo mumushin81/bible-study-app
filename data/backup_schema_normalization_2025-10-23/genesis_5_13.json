@@ -1,0 +1,113 @@
+{
+  "id": "genesis_5_13",
+  "reference": "Genesis 5:13",
+  "hebrew": "וַֽיְחִ֣י מַהֲלַלְאֵ֗ל אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־יֶ֔רֶד שְׁלֹשִׁ֣ים שָׁנָ֔ה וּשְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת",
+  "ipa": "vajˈhi mahaləlˈʔel ʔahaˈre holiˈdo ʔɛt ˈjɛrɛd ʃəloˈʃim ʃaˈna uʃəmoˈne meˈʔot ʃaˈna vajˈjolɛd baˈnim uvəˈnot",
+  "koreanPronunciation": "바예히 마할랄엘 아하레 홀리도 에트 예레드 쉘로쉼 샤나 우쉐모네 메오트 샤나 바욜레드 바님 우바노트",
+  "modern": "마할랄엘은 야렛을 낳은 후 830년을 더 살면서 자녀들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְחִ֣י",
+      "meaning": "그리고 살았다",
+      "ipa": "vajˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(yə) + חִי(hi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"life13\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"50%\" stop-color=\"#0097A7\" /><stop offset=\"100%\" stop-color=\"#00796B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#life13)\" stroke=\"#006064\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 151, 167, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"#E0F7FA\" opacity=\"0.9\" /><g stroke=\"#00796B\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\"><path d=\"M 16 32 L 20 32 L 22 28 L 26 36 L 30 24 L 34 40 L 38 28 L 42 32 L 48 32\" /></g></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשִׁ֣ים",
+      "meaning": "30",
+      "ipa": "ʃəloˈʃim",
+      "korean": "쉘로쉼",
+      "letters": "שְׁ(shə) + לֹ(lo) + שִׁים(shim)",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"thirty13\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#26A69A\" /><stop offset=\"100%\" stop-color=\"#00796B\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#thirty13)\" filter=\"drop-shadow(0 6px 12px rgba(38, 166, 154, 0.5))\" /><text x=\"32\" y=\"44\" fill=\"#FFFFFF\" font-size=\"32\" font-weight=\"bold\" text-anchor=\"middle\" font-family=\"Arial\">30</text></svg>"
+    },
+    {
+      "hebrew": "שְׁמֹנֶ֥ה מֵא֖וֹת",
+      "meaning": "800",
+      "ipa": "ʃəmoˈne meˈʔot",
+      "korean": "쉐모네 메오트",
+      "letters": "שְׁ(shə) + מֹ(mo) + נֶה(ne) + מֵ(me) + אוֹת(ʔot)",
+      "root": "שְׁמֹנֶה (쉐모네)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eight13\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#eight13)\" filter=\"drop-shadow(0 6px 12px rgba(156, 39, 176, 0.5))\" /><g fill=\"#FFFFFF\"><ellipse cx=\"32\" cy=\"24\" rx=\"8\" ry=\"10\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /><ellipse cx=\"32\" cy=\"40\" rx=\"8\" ry=\"10\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /></g></svg>"
+    },
+    {
+      "hebrew": "בָּנִ֖ים וּבָנֽוֹת",
+      "meaning": "아들들과 딸들",
+      "ipa": "baˈnim uvəˈnot",
+      "korean": "바님 우바노트",
+      "letters": "בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "בֵּן + בַּת (벤 + 바트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"children13\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#FF80AB\" /></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"6\" fill=\"#FFE4B5\" /><circle cx=\"40\" cy=\"24\" r=\"6\" fill=\"#FFE4B5\" /><rect x=\"18\" y=\"30\" width=\"12\" height=\"16\" rx=\"2\" fill=\"#42A5F5\" /><rect x=\"34\" y=\"30\" width=\"12\" height=\"16\" rx=\"2\" fill=\"#F06292\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 13절은 마할랄엘이 야렛을 낳은 후 830년을 더 살며 많은 자녀를 낳았다는 기록입니다. 이는 하나님의 축복이 계속되며 경건한 가정이 번성하고 있음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "830년의 삶 - 지속적인 축복",
+        "description": "마할랄엘은 야렛을 낳은 후에도 830년을 더 살았습니다. 이 긴 세월은 여러 세대와 함께 살며 하나님을 찬양하는 신앙을 전수할 수 있는 기회였습니다. 하나님께서는 신실한 자들에게 시간의 축복을 주셨습니다.",
+        "points": [
+          "긴 생애는 신앙 전수의 기회입니다",
+          "하나님의 축복은 한 순간이 아닌 평생 계속됩니다",
+          "경건한 삶은 여러 세대에 영향을 미칩니다",
+          "시간은 하나님의 목적을 이루기 위한 선물입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "많은 자녀들 - 번성의 축복",
+        "description": "마할랄엘은 야렛 외에도 많은 아들들과 딸들을 낳았습니다. 이는 '생육하고 번성하라'는 하나님의 명령이 충실히 이행되고 있음을 보여줍니다. 경건한 가정의 번성은 하나님 나라의 확장을 의미합니다.",
+        "points": [
+          "자녀는 하나님께서 주신 기업입니다",
+          "경건한 가정은 하나님 나라 확장의 기초입니다",
+          "모든 자녀는 하나님의 형상을 지닌 귀한 존재입니다",
+          "가족 전체가 하나님의 축복 안에 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "찬양하는 삶의 열매",
+        "description": "마할랄엘('하나님을 찬양하다')의 번성은 하나님을 찬양하는 삶의 결과입니다. 하나님을 찬양하는 가정에는 하나님의 축복이 임합니다. 그의 후손 중에는 하나님과 동행한 에녹이 나오게 됩니다.",
+        "points": [
+          "찬양하는 삶은 축복의 통로입니다",
+          "신앙의 열매는 다음 세대에 나타납니다",
+          "경건한 유산은 대대손손 전해집니다",
+          "하나님을 영화롭게 하는 자를 하나님이 영화롭게 하십니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 많은 자녀를 주셨나요?",
+      "answer": "하나님은 사랑이 가득하신 분이에요. 그래서 하나님을 사랑하는 가정에 많은 자녀를 주셔서, 더 많은 사람들이 하나님의 사랑을 알고 경험하기를 원하세요. 마치 맛있는 과자를 친구들과 나눠 먹으면 더 기쁜 것처럼, 하나님의 사랑도 더 많은 사람들과 나눌수록 기쁨이 커진답니다. 그래서 하나님은 경건한 가정에 많은 자녀를 주시고, 그들을 통해 온 세상에 하나님의 사랑을 전하기를 원하세요!",
+      "bibleReferences": [
+        "시편 127:3-5 - '보라 자식들은 여호와의 기업이요 태의 열매는 그의 상급이로다'",
+        "시편 128:3-4 - '네 집 안방에 있는 네 아내는 결실한 포도나무 같으며 네 상에 둘러앉은 자식들은 어린 감람나무 같으리로다'",
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "신명기 28:4 - '네 몸의 소생과 네 토지의 소산과 네 짐승의 새끼와 소와 양의 새끼가 복을 받을 것이며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5장 13절은 하나님을 찬양하는 삶의 축복을 보여줍니다. 마할랄엘의 긴 생애와 많은 자녀들은 하나님께 충성된 자들에게 주시는 하나님의 신실하심을 증거합니다. 이는 단순히 물질적 번영이 아니라 영적 유산의 계승을 의미합니다. 830년이라는 긴 세월은 여러 세대가 함께 살며 신앙을 전수할 수 있는 하나님의 은혜였습니다. 이러한 세대 간 신앙 전승은 궁극적으로 메시아 예수 그리스도의 오심을 준비하는 하나님의 구속 역사의 일부입니다. 우리도 다음 세대에 신앙을 전수하는 거룩한 책임을 감당해야 합니다."
+    }
+  }
+}

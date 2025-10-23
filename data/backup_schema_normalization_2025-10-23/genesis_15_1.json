@@ -1,0 +1,195 @@
+{
+  "id": "genesis_15_1",
+  "reference": "창세기 15:1",
+  "hebrew": "",
+  "ipa": "ʔaˈxar hadəvaˈrim haˈʔele haˈja dəvar jəhoˈva ʔɛl ʔavˈram bamaχaˈze leˈmor ʔal tiˈra ʔavˈram ʔanoˈχi maˈgen lax səχarˈχa harˈbe məˈʔod",
+  "koreanPronunciation": "아하르 하드바림 하엘레 하야 드바르 예호와 엘 아브람 바마하제 레모르 알 티라 아브람 아노히 마겐 라크 세하르카 하르베 메오드",
+  "modern": "이 일들 후에 여호와의 말씀이 환상 중에 아브람에게 임하여 이르시되 '아브람아 두려워하지 말라, 나는 네 방패요 너의 지극히 큰 상급이니라'",
+  "words": [
+    {
+      "hebrew": "אַחַר",
+      "meaning": "~후에",
+      "ipa": "ʔaˈχar",
+      "korean": "아하르",
+      "letters": "אַ(a) + חַר(char)",
+      "root": "א-ח-ר (아하르)",
+      "grammar": "전치사",
+      "emoji": "⏭️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-after1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 16 32 L 36 20 L 36 44 Z\" fill=\"url(#gen15-1-after1)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/><path d=\"M 32 32 L 52 20 L 52 44 Z\" fill=\"url(#gen15-1-after1)\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "הַדְּבָרִים הָאֵלֶּה",
+      "meaning": "이 일들",
+      "ipa": "hadəvaˈrim haˈʔele",
+      "korean": "하드바림 하엘레",
+      "letters": "הַ(ha) + דְּבָרִים(dvarim) + הָ(ha) + אֵלֶּה(ele)",
+      "root": "ד-ב-ר (다바르)",
+      "grammar": "명사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-things1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"2\" fill=\"url(#gen15-1-things1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.3))\"/><line x1=\"22\" y1=\"20\" x2=\"42\" y2=\"20\" stroke=\"#8B4513\" stroke-width=\"1.5\"/><line x1=\"22\" y1=\"26\" x2=\"42\" y2=\"26\" stroke=\"#8B4513\" stroke-width=\"1.5\"/><line x1=\"22\" y1=\"32\" x2=\"38\" y2=\"32\" stroke=\"#8B4513\" stroke-width=\"1.5\"/></svg>"
+    },
+    {
+      "hebrew": "דְבַר יְהוָה",
+      "meaning": "여호와의 말씀",
+      "ipa": "dəvar jəhoˈva",
+      "korean": "드바르 예호와",
+      "letters": "דְ(də) + בַר(var) + יְ(ye) + הוָה(hovah)",
+      "root": "ד-ב-ר (다바르)",
+      "grammar": "명사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gen15-1-word1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient><linearGradient id=\"gen15-1-beam1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#gen15-1-word1)\" opacity=\"0.5\"/><rect x=\"14\" y=\"22\" width=\"36\" height=\"20\" rx=\"4\" fill=\"url(#gen15-1-beam1)\" opacity=\"0.3\" filter=\"drop-shadow(0 2px 6px rgba(255, 215, 0, 0.5))\"/><path d=\"M 20 32 L 24 28 L 28 32 L 32 28 L 36 32 L 40 28 L 44 32\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "בַּמַּחֲזֶה",
+      "meaning": "환상 중에",
+      "ipa": "bamaχaˈze",
+      "korean": "바마하제",
+      "letters": "בַּ(ba) + מַּ(ma) + חֲזֶה(chaze)",
+      "root": "ח-ז-ה (하자)",
+      "grammar": "명사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gen15-1-vision1\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"50%\" stop-color=\"#7B1FA2\"/><stop offset=\"100%\" stop-color=\"rgba(156, 39, 176, 0)\"/></radialGradient><linearGradient id=\"gen15-1-eye1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E1BEE7\"/><stop offset=\"100%\" stop-color=\"#9C27B0\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#gen15-1-vision1)\" opacity=\"0.4\"/><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"url(#gen15-1-eye1)\" filter=\"drop-shadow(0 2px 6px rgba(156, 39, 176, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#4A148C\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "אַל תִּירָא",
+      "meaning": "두려워하지 말라",
+      "ipa": "ʔal tiˈra",
+      "korean": "알 티라",
+      "letters": "אַל(al) + תִּי(ti) + רָא(ra)",
+      "root": "י-ר-א (야레)",
+      "grammar": "동사",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-fear1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\"/><stop offset=\"100%\" stop-color=\"#1565C0\"/></linearGradient><radialGradient id=\"gen15-1-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><path d=\"M 32 8 L 48 16 L 48 32 Q 48 48 32 56 Q 16 48 16 32 L 16 16 Z\" fill=\"url(#gen15-1-fear1)\" filter=\"drop-shadow(0 4px 8px rgba(21, 101, 192, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#gen15-1-glow1)\" opacity=\"0.4\"/><path d=\"M 28 32 L 31 36 L 38 26\" stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "אָנֹכִי",
+      "meaning": "나는",
+      "ipa": "ʔanoˈχi",
+      "korean": "아노히",
+      "letters": "אָ(a) + נֹ(no) + כִי(chi)",
+      "root": "אָנֹכִי (아노히)",
+      "grammar": "대명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-i1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"gen15-1-radiance1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#gen15-1-radiance1)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#gen15-1-i1)\" filter=\"drop-shadow(0 4px 8px rgba(255, 140, 0, 0.5))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"20\" fill=\"#FFFFFF\" font-weight=\"bold\">I</text></svg>"
+    },
+    {
+      "hebrew": "מָגֵן",
+      "meaning": "방패",
+      "ipa": "maˈgen",
+      "korean": "마겐",
+      "letters": "מָ(ma) + גֵן(gen)",
+      "root": "מ-ג-ן (마간)",
+      "grammar": "명사",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-shield1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"50%\" stop-color=\"#A8A8A8\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient><linearGradient id=\"gen15-1-cross1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><path d=\"M 32 6 L 52 14 L 52 32 Q 52 50 32 58 Q 12 50 12 32 L 12 14 Z\" fill=\"url(#gen15-1-shield1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4))\"/><rect x=\"30\" y=\"20\" width=\"4\" height=\"24\" fill=\"url(#gen15-1-cross1)\"/><rect x=\"20\" y=\"30\" width=\"24\" height=\"4\" fill=\"url(#gen15-1-cross1)\"/></svg>",
+      "relatedWords": [
+        "מְגִנָּה (메기나 - 보호)",
+        "גָּנַן (가난 - 보호하다)"
+      ]
+    },
+    {
+      "hebrew": "לָךְ",
+      "meaning": "너를 위한",
+      "ipa": "lax",
+      "korean": "라크",
+      "letters": "לָ(la) + ךְ(ch)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-you1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient></defs><circle cx=\"28\" cy=\"32\" r=\"6\" fill=\"url(#gen15-1-you1)\" opacity=\"0.3\"/><path d=\"M 12 32 L 36 32\" stroke=\"url(#gen15-1-you1)\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M 28 24 L 36 32 L 28 40\" stroke=\"url(#gen15-1-you1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#gen15-1-you1)\" filter=\"drop-shadow(0 2px 6px rgba(196, 30, 58, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "שְׂכָרְךָ",
+      "meaning": "너의 상급",
+      "ipa": "səχarˈχa",
+      "korean": "세하르카",
+      "letters": "שְׂ(se) + כָר(char) + ךָ(cha)",
+      "root": "שׂ-כ-ר (사카르)",
+      "grammar": "명사",
+      "emoji": "🏆",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-1-reward1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"gen15-1-shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#gen15-1-shine1)\" opacity=\"0.6\"/><path d=\"M 20 28 L 24 20 L 32 16 L 40 20 L 44 28 L 40 36 L 32 40 L 24 36 Z\" fill=\"url(#gen15-1-reward1)\" filter=\"drop-shadow(0 4px 8px rgba(255, 140, 0, 0.5))\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"4\" fill=\"url(#gen15-1-reward1)\"/><rect x=\"24\" y=\"44\" width=\"16\" height=\"6\" rx=\"2\" fill=\"url(#gen15-1-reward1)\"/><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.5\"/></svg>",
+      "relatedWords": [
+        "שָׂכָר (사카르 - 품삯)",
+        "מַשְׂכֹּרֶת (마스코레트 - 보상)"
+      ]
+    },
+    {
+      "hebrew": "הַרְבֵּה מְאֹד",
+      "meaning": "지극히 크다",
+      "ipa": "harˈbe məˈʔod",
+      "korean": "하르베 메오드",
+      "letters": "הַר(har) + בֵּה(be) + מְ(me) + אֹד(od)",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "부사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gen15-1-great1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#gen15-1-great1)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#gen15-1-great1)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\"/><polygon points=\"32,8 34,18 44,20 34,22 32,32 30,22 20,20 30,18\" fill=\"#FFFFFF\" opacity=\"0.8\"/><polygon points=\"32,32 33,38 38,40 33,42 32,48 31,42 26,40 31,38\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 1절은 아브람의 믿음의 여정에서 결정적인 전환점을 기록합니다. 그돌라오멜 연합군과의 전쟁에서 승리한 후(창 14장), 두려움에 빠진 아브람에게 하나님께서 환상 중에 나타나셔서 위로와 약속을 주십니다. 이 말씀은 하나님 자신이 아브람의 방패이자 상급이심을 선포하는 언약의 시작입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "דְבַר יְהוָה בַּמַּחֲזֶה (드바르 예호와 바마하제) - 환상 중의 하나님 말씀",
+        "description": "'마하제'는 선지자적 환상을 의미하며, 하나님께서 아브람에게 직접 나타나셔서 말씀하신 특별한 계시의 순간입니다. 이는 꿈과 다른, 깨어있는 상태에서 받는 신적 계시입니다.",
+        "points": [
+          "하나님의 말씀은 역사적 사건들 '후에' 임합니다 - 적절한 때에 주어지는 위로",
+          "환상은 하나님과의 직접적이고 인격적인 만남의 방식",
+          "민수기 12:6에서 하나님은 선지자들에게 환상과 꿈으로 말씀하심",
+          "아브람은 전쟁의 승리 후 두려움과 공허함을 느꼈을 가능성이 큼"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אַל תִּירָא (알 티라) - 두려워하지 말라",
+        "description": "성경에서 가장 많이 반복되는 하나님의 명령 중 하나입니다. 전쟁 후 보복의 두려움, 미래에 대한 불안, 자손이 없는 상황에 대한 걱정 속에서 하나님은 '두려워하지 말라'고 명령하십니다.",
+        "points": [
+          "성경에 365번 나오는 '두려워하지 말라'는 매일의 위로",
+          "아브람의 두려움: 동맹국들의 보복, 자손 없는 미래, 약속의 지연",
+          "하나님의 임재가 두려움을 몰아내는 유일한 해결책",
+          "이사야 41:10, 43:1에서도 동일한 위로가 반복됨"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אָנֹכִי מָגֵן לָךְ (아노히 마겐 라크) - 나는 네 방패",
+        "description": "'아노키'는 강조된 1인칭 대명사로, 하나님 자신이 직접 아브람의 방패가 되심을 선포합니다. 방패는 전투에서 적의 공격을 막는 필수 무기이며, 하나님이 직접 보호자가 되신다는 의미입니다.",
+        "points": [
+          "시편 18:2 '여호와는 나의 반석, 나의 요새, 나를 건지시는 이'",
+          "하나님 자신이 보호의 수단이 아닌 보호 그 자체",
+          "전쟁 후 적들의 보복에 대한 두려움에 대한 직접적인 응답",
+          "신명기 33:29 '너의 방패이시요 너의 영광의 칼이시로다'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "שְׂכָרְךָ הַרְבֵּה מְאֹד (세하르카 하르베 메오드) - 지극히 큰 상급",
+        "description": "아브람이 소돔 왕의 재물을 거절한 후(창 14:23), 하나님은 자신이 아브람의 '상급'이 되심을 약속합니다. '하르베 메오드'는 '매우 매우 크다'는 뜻으로 강조된 표현입니다.",
+        "points": [
+          "아브람은 소돔 왕의 재물을 거절했지만 하나님은 더 큰 상급을 주심",
+          "상급은 물질이 아니라 하나님 자신 - 최고의 보상",
+          "창세기 15:5에서 구체화되는 약속: 하늘의 별처럼 많은 자손",
+          "시편 16:5 '여호와는 나의 산업과 나의 잔의 소득이시니'"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 아브람에게 '두려워하지 말라'고 하셨나요?",
+      "answer": "아브람은 전쟁에서 이겼지만, 이제 적들이 복수하러 올까봐 무서웠을 거예요. 또 아브람은 나이가 많은데 아직 아기가 없어서 걱정이 많았어요. 그때 하나님께서 나타나셔서 '두려워하지 말라, 내가 너를 지켜줄게'라고 말씀하셨어요. 마치 부모님이 무서워하는 아이를 안아주며 '괜찮아, 내가 있잖아'라고 말하는 것처럼, 하나님도 아브람을 위로해주신 거예요.",
+      "bibleReferences": [
+        "이사야 41:10 - '두려워하지 말라 내가 너와 함께 함이라'",
+        "시편 27:1 - '여호와는 나의 빛이요 나의 구원이시니 내가 누구를 두려워하리요'",
+        "마태복음 10:31 - '두려워하지 말라 너희는 많은 참새보다 귀하니라'",
+        "요한복음 14:27 - '너희는 마음에 근심하지도 말고 두려워하지도 말라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 15:1은 언약 신학의 핵심을 보여줍니다. 하나님은 아브람에게 물질적 보상이나 외적 보호가 아닌, 자신 스스로를 선물로 주십니다. '나는 네 방패요 상급'이라는 선언은 하나님 자신이 모든 필요의 충족이심을 계시합니다. 이는 예수 그리스도 안에서 완성되며, 그리스도인들에게도 하나님 자신이 최고의 보물이자 보호자이심을 가르칩니다(빌립보서 3:8)."
+    }
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "id": "genesis_5_4",
+  "reference": "Genesis 5:4",
+  "hebrew": "וַיִּֽהְי֣וּ יְמֵי אָדָ֗ם אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת שֵׁ֔ת שְׁמֹנֶ֥ה מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת",
+  "ipa": "vajˈjihju jəˈme ʔaˈdam ʔaħaˈre holiˈdo ʔet ʃet ʃəmoˈne meˈot ʃaˈna vajˈjoled baˈnim uvaˈnot",
+  "koreanPronunciation": "바이히유 예메 아담 아하레 홀리도 에트 셋 쉐모네 메오트 샤나 바요레드 바님 우바노트",
+  "modern": "셋을 낳은 이후 아담이 살았던 날들은 팔백 년이었으며, 그는 아들들과 딸들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּֽהְי֣וּ",
+      "meaning": "그리고 있었다",
+      "ipa": "vajˈjihju",
+      "korean": "바이히유",
+      "letters": "וַ(va) + יִּֽ(yi) + הְ(h) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255,215,0,0.1)\"/><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#time1)\" filter=\"drop-shadow(0 0 8px rgba(255,215,0,0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"#FFF\" opacity=\"0.9\"/><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"20\" stroke=\"#FF8C00\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"32\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"#FFD700\" stroke-width=\"2\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "יְמֵי אָדָ֗ם",
+      "meaning": "아담의 날들",
+      "ipa": "jəˈme ʔaˈdam",
+      "korean": "예메 아담",
+      "letters": "יְ(ye) + מֵ(me) + אָ(a) + דָם(dam)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cal1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\"/><stop offset=\"100%\" stop-color=\"#2E5C8A\"/></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"44\" rx=\"4\" fill=\"url(#cal1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.3))\"/><rect x=\"8\" y=\"12\" width=\"48\" height=\"12\" rx=\"4\" fill=\"#FFD700\"/><rect x=\"12\" y=\"28\" width=\"8\" height=\"8\" rx=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><rect x=\"24\" y=\"28\" width=\"8\" height=\"8\" rx=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><rect x=\"36\" y=\"28\" width=\"8\" height=\"8\" rx=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><rect x=\"48\" y=\"28\" width=\"4\" height=\"8\" rx=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><rect x=\"12\" y=\"40\" width=\"8\" height=\"8\" rx=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255,215,0,0.8))\"/></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    },
+    {
+      "hebrew": "אַֽחֲרֵי֙ הוֹלִיד֣וֹ",
+      "meaning": "그가 낳은 이후에",
+      "ipa": "ʔaħaˈre holiˈdo",
+      "korean": "아하레 홀리도",
+      "letters": "אַ(a) + חֲ(ħa) + רֵי(re) + הוֹ(ho) + לִי(li) + דוֹ(do)",
+      "root": "א-ח-ר (아하르)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\"/><stop offset=\"100%\" stop-color=\"#64DD17\"/></linearGradient></defs><path d=\"M 8 32 L 48 32\" stroke=\"url(#arrow1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0,200,83,0.5))\"/><path d=\"M 40 20 L 56 32 L 40 44 Z\" fill=\"url(#arrow1)\" filter=\"drop-shadow(0 2px 4px rgba(0,200,83,0.5))\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת שֵׁ֔ת",
+      "meaning": "셋을",
+      "ipa": "ʔet ʃet",
+      "korean": "에트 셋",
+      "letters": "אֶ(e) + ת(t) + שֵׁת(shet)",
+      "root": "שֵׁת (셋)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"person1\"><stop offset=\"0%\" stop-color=\"#FFE082\"/><stop offset=\"100%\" stop-color=\"#FFB300\"/></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#person1)\" filter=\"drop-shadow(0 2px 4px rgba(255,179,0,0.4))\"/><path d=\"M 20 32 Q 32 36 44 32 L 44 52 Q 32 56 20 52 Z\" fill=\"url(#person1)\" filter=\"drop-shadow(0 4px 6px rgba(255,179,0,0.4))\"/></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 사람, 아담)",
+        "שֵׁם (셈 - 이름, 셈)"
+      ]
+    },
+    {
+      "hebrew": "שְׁמֹנֶ֥ה מֵאֹ֖ת שָׁנָ֑ה",
+      "meaning": "팔백 년",
+      "ipa": "ʃəmoˈne meˈot ʃaˈna",
+      "korean": "쉐모네 메오트 샤나",
+      "letters": "שְׁ(she) + מֹ(mo) + נֶה(ne) + מֵ(me) + אֹת(ot) + שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#4A148C\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(156,39,176,0.1)\"/><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#num1)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(156,39,176,0.5))\">800</text></svg>"
+    },
+    {
+      "hebrew": "וַיּ֥וֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjoled",
+      "korean": "바요레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
+      "root": "י-ל-ד (야라드)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"baby1\"><stop offset=\"0%\" stop-color=\"#FFE0E0\"/><stop offset=\"100%\" stop-color=\"#FFB3BA\"/></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#baby1)\" filter=\"drop-shadow(0 2px 4px rgba(255,179,186,0.4))\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#8B4513\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#8B4513\"/><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#E91E63\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><ellipse cx=\"32\" cy=\"40\" rx=\"14\" ry=\"10\" fill=\"url(#baby1)\" filter=\"drop-shadow(0 2px 4px rgba(255,179,186,0.4))\"/><path d=\"M 20 36 Q 18 40 20 44\" stroke=\"url(#baby1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\"/><path d=\"M 44 36 Q 46 40 44 44\" stroke=\"url(#baby1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "בָּנִ֖ים וּבָנֽוֹת",
+      "meaning": "아들들과 딸들",
+      "ipa": "baˈnim uvaˈnot",
+      "korean": "바님 우바노트",
+      "letters": "בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"family1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C2185B\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(255,107,157,0.15)\"/><circle cx=\"20\" r=\"6\" cy=\"28\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 3px rgba(194,24,91,0.3))\"/><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 3px rgba(194,24,91,0.3))\"/><circle cx=\"44\" cy=\"28\" r=\"6\" fill=\"url(#family1)\" filter=\"drop-shadow(0 2px 3px rgba(194,24,91,0.3))\"/><circle cx=\"26\" cy=\"42\" r=\"5\" fill=\"#FFB3D9\" filter=\"drop-shadow(0 2px 3px rgba(194,24,91,0.3))\"/><circle cx=\"38\" cy=\"42\" r=\"5\" fill=\"#FFB3D9\" filter=\"drop-shadow(0 2px 3px rgba(194,24,91,0.3))\"/></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 4절은 셋을 낳은 이후 아담의 긴 생애를 간결하게 요약합니다. 이 구절은 아담이 셋 외에도 많은 자녀를 두었음을 보여주며, 인류가 어떻게 번성하기 시작했는지를 알려줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יְמֵי אָדָם (예메 아담) - 아담의 날들",
+        "description": "'예메 아담'은 아담이 살았던 시간을 의미합니다. 히브리어에서 '날들'(יָמִים)이라는 표현은 단순히 시간의 흐름을 넘어, 한 사람의 생애 전체를 포괄하는 의미를 담고 있습니다.",
+        "points": [
+          "하나님께서 정하신 생명의 시간이 있습니다",
+          "아담의 긴 수명은 초기 인류의 특징입니다",
+          "모든 날은 하나님의 주권 아래 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁמֹנֶה מֵאֹת שָׁנָה (쉐모네 메오트 샤나) - 팔백 년",
+        "description": "셋을 낳은 이후 아담은 800년을 더 살았습니다. 이는 현대인의 관점에서는 상상하기 어려운 긴 세월이지만, 창세기 초기 족장들의 수명이 매우 길었음을 보여줍니다.",
+        "points": [
+          "타락 이전의 인간은 매우 오래 살았습니다",
+          "긴 수명은 초기 세대가 지혜와 지식을 전달할 수 있게 했습니다",
+          "시간이 지나면서 인간의 수명은 점차 짧아집니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우바노트) - 아들들과 딸들",
+        "description": "'바님'은 아들들을, '바노트'는 딸들을 의미합니다. 이 표현은 아담이 셋 외에도 많은 자녀를 두었음을 알려주며, 인류가 처음부터 하나님의 축복 가운데 번성했음을 보여줍니다.",
+        "points": [
+          "생육하고 번성하라는 하나님의 명령이 이루어졌습니다",
+          "가정은 하나님께서 세우신 첫 번째 공동체입니다",
+          "각 자녀는 하나님의 형상을 지닌 귀한 존재입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 그렇게 오래 살았을까요?",
+      "answer": "하나님께서 처음 사람을 만드실 때는 사람이 매우 건강하고 오래 살 수 있도록 만드셨어요. 아담이 800년이나 더 살았다는 것은 정말 놀라운 일이에요! 그 긴 시간 동안 아담은 자녀들과 손자들에게 하나님에 대해 많은 이야기를 해줄 수 있었을 거예요. 하나님께서 세상을 어떻게 만드셨는지, 에덴동산은 어땠는지, 하나님을 어떻게 믿어야 하는지 직접 가르쳐줄 수 있었답니다.",
+      "bibleReferences": [
+        "창세기 1:28 - '생육하고 번성하여 땅에 충만하라'",
+        "시편 90:10 - '우리의 연수가 칠십이요 강건하면 팔십이라도'",
+        "창세기 6:3 - '그의 날은 백이십 년이 되리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아담의 긴 생애는 하나님의 창조가 원래 얼마나 완전했는지를 보여줍니다. 죄가 세상에 들어온 후에도 하나님은 인류에게 생명을 주시고 번성케 하셨습니다. 아담이 많은 자녀를 낳았다는 것은 '생육하고 번성하라'는 하나님의 축복이 계속 이어지고 있음을 증명합니다. 우리의 삶도 하나님께서 정하신 때가 있으며, 그 시간을 하나님의 영광을 위해 사용해야 합니다."
+    }
+  }
+}

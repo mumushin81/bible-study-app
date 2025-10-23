@@ -1,0 +1,161 @@
+{
+  "id": "genesis_10_21",
+  "reference": "창세기 10:21",
+  "hebrew": "וּלְשֵׁם יֻלַּד גַּם־הוּא אֲבִי כָּל־בְּנֵי־עֵבֶר אֲחִי יֶפֶת הַגָּדוֹל",
+  "ipa": "ulˈʃɛm julˈlad gam hu ʔɑˈvi kɔl bənei ˈevɛr ʔɑˈxi ˈjɛfɛt haggɑˈdol",
+  "koreanPronunciation": "울쉠 율라드 감 후 아비 콜 브네이 에베르 아히 예페트 하가돌",
+  "modern": "셈은 에벨 온 자손의 조상이요 야벳의 형이라 그에게도 자녀가 출생하였으니",
+  "words": [
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃɛm",
+      "korean": "쉠",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shem_light\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#shem_light)\" opacity=\"0.3\" /><text x=\"32\" y=\"40\" font-family=\"Arial\" font-size=\"24\" font-weight=\"bold\" fill=\"url(#shem_light)\" text-anchor=\"middle\">שם</text></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "נוֹחַ (노아흐 - 노아)"
+      ]
+    },
+    {
+      "hebrew": "יֻלַּד",
+      "meaning": "태어났다",
+      "ipa": "julˈlad",
+      "korean": "율라드",
+      "letters": "יֻ(yu) + לַּ(lla) + ד(d)",
+      "root": "יָלַד (야라드)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"birth_yulad\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#birth_yulad)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#birth_yulad)\" /><path d=\"M 32 24 Q 38 26 40 32 Q 38 38 32 40 Q 26 38 24 32 Q 26 26 32 24\" fill=\"none\" stroke=\"url(#birth_yulad)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "יָלַד (야라드 - 낳다)",
+        "הוֹלִיד (홀리드 - 낳다)"
+      ]
+    },
+    {
+      "hebrew": "אֲבִי",
+      "meaning": "아버지",
+      "ipa": "ʔɑˈvi",
+      "korean": "아비",
+      "letters": "אֲ(a) + בִ(vi) + י(i)",
+      "root": "אָב (아브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"father_avi\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#father_avi)\" /><path d=\"M 16 36 Q 32 32 48 36 L 48 56 L 16 56 Z\" fill=\"url(#father_avi)\" /><circle cx=\"24\" cy=\"48\" r=\"4\" fill=\"#E74C3C\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"48\" r=\"4\" fill=\"#E74C3C\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "הוֹרֶה (호레 - 부모)"
+      ]
+    },
+    {
+      "hebrew": "עֵבֶר",
+      "meaning": "에벨",
+      "ipa": "ˈevɛr",
+      "korean": "에베르",
+      "letters": "עֵ(e) + בֶ(ve) + ר(r)",
+      "root": "עֵבֶר (에베르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber_cross\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><path d=\"M 10 32 L 54 32 M 32 32 L 44 16 M 32 32 L 44 48\" stroke=\"url(#eber_cross)\" stroke-width=\"4\" fill=\"none\" /><circle cx=\"10\" cy=\"32\" r=\"4\" fill=\"url(#eber_cross)\" /><circle cx=\"54\" cy=\"32\" r=\"4\" fill=\"url(#eber_cross)\" /></svg>",
+      "relatedWords": [
+        "עָבַר (아바르 - 건너다)",
+        "עִבְרִי (이브리 - 히브리인)"
+      ]
+    },
+    {
+      "hebrew": "יֶפֶת",
+      "meaning": "야벳",
+      "ipa": "ˈjɛfɛt",
+      "korean": "예페트",
+      "letters": "יֶ(ye) + פֶ(fe) + ת(t)",
+      "root": "יֶפֶת (예페트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"japheth\"><stop offset=\"0%\" stop-color=\"#1ABC9C\" /><stop offset=\"100%\" stop-color=\"#16A085\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#japheth)\" opacity=\"0.3\" /><text x=\"32\" y=\"40\" font-family=\"Arial\" font-size=\"20\" font-weight=\"bold\" fill=\"url(#japheth)\" text-anchor=\"middle\">יפת</text></svg>",
+      "relatedWords": [
+        "יָפָה (야파 - 아름답다)",
+        "פָּתָה (파타 - 넓히다)"
+      ]
+    },
+    {
+      "hebrew": "הַגָּדוֹל",
+      "meaning": "큰 (형)",
+      "ipa": "haggɑˈdol",
+      "korean": "하가돌",
+      "letters": "הַ(ha) + גָּ(ga) + דוֹ(do) + ל(l)",
+      "root": "גָּדוֹל (가돌)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"great_gadol\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#great_gadol)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#great_gadol)\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#great_gadol)\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "גָּדוֹל (가돌 - 크다)",
+        "רַב (라브 - 많다, 크다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "셈의 계보를 시작하는 중요한 구절입니다. 셈은 에벨의 조상이며, 히브리 민족의 시조가 됩니다. 이 구절은 셈이 야벳의 형이라는 출생 순서도 밝히고 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "셈 - 축복받은 아들",
+        "description": "셈은 노아의 세 아들 중 하나로, 특별히 하나님의 축복을 받았습니다. 그의 이름 '셈'은 '이름'을 의미하며, 그를 통해 하나님의 이름이 높임 받게 됩니다.",
+        "points": [
+          "노아의 세 아들 중 중간 아들로 추정됩니다",
+          "가나안이 저주받을 때 셈은 특별한 축복을 받았습니다 (창세기 9:26)",
+          "'여호와 셈의 하나님을 찬송하리로다' - 하나님이 특별히 그의 하나님이 되십니다",
+          "메시아가 나올 족보의 시작입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "에벨의 조상",
+        "description": "'에벨 온 자손의 조상'이라는 표현은 셈의 후손 중 에벨이 특별한 의미를 가짐을 나타냅니다. 에벨의 이름에서 '히브리'라는 말이 유래했습니다.",
+        "points": [
+          "에벨(Eber)에서 히브리(Hebrew)라는 말이 유래했습니다",
+          "'건너온 자'라는 의미를 담고 있습니다",
+          "아브라함은 에벨의 후손으로 '히브리 사람'으로 불렸습니다 (창세기 14:13)",
+          "이스라엘 민족의 정체성과 직접 연결됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "야벳의 형",
+        "description": "'야벳의 형'이라는 표현은 출생 순서를 명확히 합니다. 일부 학자들은 셈이 장자였다고 보지만, 이 표현은 형제 관계를 나타내는 것으로도 해석됩니다.",
+        "points": [
+          "히브리어 '아히 하가돌'은 '더 큰 형제'를 의미합니다",
+          "창세기 5:32에서 셈이 먼저 언급되는 것은 중요성 때문일 수 있습니다",
+          "실제 출생 순서보다 영적 중요성이 강조됩니다",
+          "하나님은 출생 순서보다 당신의 계획을 중시하십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "구속사적 의미",
+        "description": "셈의 계보는 단순한 족보가 아니라 구속의 역사를 담고 있습니다. 아브라함, 이삭, 야곱을 거쳐 예수 그리스도까지 이어지는 축복의 통로입니다.",
+        "points": [
+          "메시아가 나올 혈통의 시작입니다",
+          "하나님의 언약이 이어질 민족의 조상입니다",
+          "이스라엘을 통한 만민 구원의 계획이 시작됩니다",
+          "예수 그리스도의 족보에 포함됩니다 (누가복음 3:36)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 셈의 계보가 특별히 중요할까요?",
+      "answer": "셈의 계보가 특별히 중요한 이유는 예수님이 셈의 후손으로 오시기 때문이에요. 하나님께서는 셈을 축복하시고 그의 자손들을 통해 온 세상을 구원하실 계획을 세우셨어요. 마치 큰 나무의 씨앗처럼, 셈에게서 시작된 가계도는 아브라함, 다윗을 거쳐 예수님까지 이어져요. 그래서 셈의 이야기는 단순히 옛날 사람의 이야기가 아니라, 우리를 구원하실 예수님에 대한 이야기의 시작이랍니다.",
+      "bibleReferences": [
+        "창세기 9:26 - '또 이르되 셈의 하나님 여호와를 찬송하리로다 가나안은 셈의 종이 되고'",
+        "누가복음 3:36 - '그 위는 가이난이요 그 위는 아박삿이요 그 위는 셈이요 그 위는 노아요 그 위는 레멕이요'",
+        "창세기 12:3 - '너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라'",
+        "마태복음 1:1 - '아브라함과 다윗의 자손 예수 그리스도의 계보라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 구속사의 핵심 전환점입니다. 홍수 이후 새로운 인류가 시작되면서, 하나님은 셈의 계보를 통해 구원의 역사를 이어가실 것을 선포하십니다. 에벨의 조상으로서 셈은 히브리 민족의 시조가 되며, 궁극적으로 메시아가 오실 혈통의 기원이 됩니다. 이는 하나님의 구원 계획이 우연이 아니라 창세 전부터 예정된 섭리임을 보여줍니다."
+    }
+  }
+}

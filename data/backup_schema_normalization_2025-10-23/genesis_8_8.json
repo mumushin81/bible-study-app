@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_8",
+  "reference": "창세기 8:8",
+  "hebrew": "וַיְשַׁלַּח אֶת־הַיּוֹנָה מֵאִתּוֹ לִרְאוֹת הֲקַלּוּ הַמַּיִם מֵעַל פְּנֵי הָאֲדָמָה.",
+  "ipa": "vajəˈʃalax ʔɛt hajˈona meʔiˈto lirˈot haqaˈlu haˈmajim meˈʔal pəˈne haʔadaˈma",
+  "koreanPronunciation": "바예샬라흐 에트 하요나 메이토 리르오트 하칼루 하마임 메알 페네 하아다마",
+  "modern": "그가 비둘기를 자기에게서 내보내어, 땅의 표면에서 물이 줄어들었는지 알아보게 했습니다",
+  "words": [
+    {
+      "hebrew": "הַיּוֹנָה",
+      "meaning": "비둘기",
+      "ipa": "hajˈona",
+      "korean": "하요나",
+      "letters": "הַ(ha) + יּוֹ(yo) + נָה(nah)",
+      "root": "יוֹנָה (요나)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dove_white\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient><radialGradient id=\"dove_glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#81D4FA\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#dove_glow)\" /><ellipse cx=\"32\" cy=\"34\" rx=\"12\" ry=\"8\" fill=\"url(#dove_white)\" stroke=\"#BDBDBD\" stroke-width=\"1\" /><circle cx=\"26\" cy=\"30\" r=\"5\" fill=\"url(#dove_white)\" stroke=\"#BDBDBD\" stroke-width=\"1\" /><circle cx=\"24\" cy=\"29\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 20 32 L 12 28 L 20 30 Z\" fill=\"url(#dove_white)\" stroke=\"#BDBDBD\" stroke-width=\"1\" /><path d=\"M 44 32 L 52 28 L 44 30 Z\" fill=\"url(#dove_white)\" stroke=\"#BDBDBD\" stroke-width=\"1\" /><path d=\"M 30 38 L 32 42 L 30 42 Z\" fill=\"#FFA726\" /></svg>",
+      "relatedWords": [
+        "יוֹנָה (요나 - 비둘기, 요나)",
+        "תּוֹר (토르 - 산비둘기)"
+      ]
+    },
+    {
+      "hebrew": "מֵאִתּוֹ",
+      "meaning": "자기로부터",
+      "ipa": "meʔiˈto",
+      "korean": "메이토",
+      "letters": "מֵ(me) + אִ(i) + תּוֹ(to)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"from_center\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#FF6B6B\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#from_center)\" /><path d=\"M 28 32 L 52 32\" stroke=\"#FF6B6B\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" /><path d=\"M 44 26 L 52 32 L 44 38\" fill=\"#FF6B6B\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מֵאֵת (메에트 - ~로부터)",
+        "אֵת (에트 - ~와 함께)"
+      ]
+    },
+    {
+      "hebrew": "לִרְאוֹת",
+      "meaning": "보기 위해, 알아보기 위해",
+      "ipa": "lirˈot",
+      "korean": "리르오트",
+      "letters": "לִ(li) + רְ(r) + אוֹת(ot)",
+      "root": "ר-א-ה (raah)",
+      "grammar": "동사 부정사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye_see\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"50%\" stop-color=\"#1976D2\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"26\" ry=\"18\" fill=\"none\" stroke=\"#1976D2\" stroke-width=\"3\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#eye_see)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#000000\" /><circle cx=\"34\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" /><line x1=\"16\" y1=\"24\" x2=\"22\" y2=\"28\" stroke=\"#1976D2\" stroke-width=\"2\" opacity=\"0.6\" /><line x1=\"48\" y1=\"24\" x2=\"42\" y2=\"28\" stroke=\"#1976D2\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "רְאִיָּה (레이야 - 시력, 봄)"
+      ]
+    },
+    {
+      "hebrew": "הֲקַלּוּ",
+      "meaning": "가벼워졌는가, 줄어들었는가",
+      "ipa": "haqaˈlu",
+      "korean": "하칼루",
+      "letters": "הֲ(ha) + קַ(qa) + לּוּ(lu)",
+      "root": "ק-ל-ל (qalal)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"light_weight\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#81D4FA\" opacity=\"0.2\" /></linearGradient></defs><rect x=\"12\" y=\"48\" width=\"40\" height=\"8\" fill=\"url(#light_weight)\" /><rect x=\"14\" y=\"38\" width=\"36\" height=\"8\" fill=\"url(#light_weight)\" /><rect x=\"16\" y=\"28\" width=\"32\" height=\"8\" fill=\"url(#light_weight)\" /><rect x=\"18\" y=\"18\" width=\"28\" height=\"8\" fill=\"url(#light_weight)\" /><path d=\"M 56 20 L 56 12 L 60 16\" stroke=\"#4FC3F7\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "קַל (칼 - 가벼운)",
+        "קָלַל (칼랄 - 가벼워지다)"
+      ]
+    },
+    {
+      "hebrew": "פְּנֵי",
+      "meaning": "표면, 면",
+      "ipa": "pəˈne",
+      "korean": "페네",
+      "letters": "פְּ(pə) + נֵי(ne)",
+      "root": "פָּנִים (파님)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"surface_panim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"50%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"28\" ry=\"12\" fill=\"url(#surface_panim)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"40\" rx=\"28\" ry=\"12\" fill=\"none\" stroke=\"#6D4C41\" stroke-width=\"2\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"38\" rx=\"20\" ry=\"8\" fill=\"#BCAAA4\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴, 표면)",
+        "לִפְנֵי (리프네 - ~앞에)"
+      ]
+    },
+    {
+      "hebrew": "הָאֲדָמָה",
+      "meaning": "땅, 흙",
+      "ipa": "haʔadaˈma",
+      "korean": "하아다마",
+      "letters": "הָ(ha) + אֲ(a) + דָ(da) + מָה(mah)",
+      "root": "אֲדָמָה (아다마)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_adamah\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"50%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"44\" rx=\"26\" ry=\"14\" fill=\"url(#earth_adamah)\" /><circle cx=\"20\" cy=\"38\" r=\"3\" fill=\"#6D4C41\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"40\" r=\"2\" fill=\"#6D4C41\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"42\" r=\"2.5\" fill=\"#6D4C41\" opacity=\"0.6\" /><path d=\"M 16 36 Q 20 32 24 34\" stroke=\"#4CAF50\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָדָם (아담 - 사람, 아담)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 8절은 노아가 비둘기를 보낸 장면입니다. 까마귀와 달리 비둘기는 특정 목적('물이 줄었는지 알아보기 위해')을 가지고 보내졌습니다. 비둘기는 평화와 순결의 상징이며, 성경 전체에서 중요한 의미를 가집니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הַיּוֹנָה (하요나) - 비둘기의 상징",
+        "description": "비둘기는 성경에서 순결, 평화, 성령을 상징합니다. 레위기에서는 정결한 새로 분류되며, 예수님의 세례 때 성령이 비둘기 같이 임하셨습니다.",
+        "points": [
+          "비둘기는 정결하고 온순한 새입니다",
+          "평화와 새로운 시작을 상징합니다",
+          "성령의 상징으로 신약에서도 중요합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לִרְאוֹת (리르오트) - 목적 있는 보냄",
+        "description": "노아는 비둘기를 '알아보기 위해' 보냈습니다. 이는 까마귀를 보낸 것과 다른 명확한 목적이 있었습니다.",
+        "points": [
+          "모든 행동에는 목적이 있어야 합니다",
+          "지혜로운 사람은 상황을 파악합니다",
+          "확인은 믿음의 부족이 아니라 지혜입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הֲקַלּוּ הַמַּיִם (하칼루 하마임) - 물이 줄어들었는가",
+        "description": "'가벼워졌는가'라는 질문은 물의 양이 감소했는지 확인하려는 것입니다. 이는 구체적이고 실제적인 질문입니다.",
+        "points": [
+          "구체적인 질문은 명확한 답을 얻습니다",
+          "점진적 변화를 주의 깊게 관찰합니다",
+          "작은 변화도 중요한 의미를 가집니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "פְּנֵי הָאֲדָמָה (페네 하아다마) - 땅의 표면",
+        "description": "'땅의 표면'은 실제로 생명이 살아갈 수 있는 곳을 의미합니다. 아다마(땅)는 아담과 같은 어근에서 왔습니다.",
+        "points": [
+          "땅은 생명의 근원입니다",
+          "아담(사람)은 아다마(땅)에서 왔습니다",
+          "회복은 구체적이고 실제적입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 까마귀 다음에 비둘기를 보냈을까요?",
+      "answer": "비둘기는 까마귀와 아주 다른 새예요. 까마귀는 어디서든 살 수 있지만, 비둘기는 깨끗하고 안전한 곳에만 내려앉아요. 비둘기가 돌아온다면, 아직 내려앉을 마른 땅이 없다는 뜻이에요. 비둘기가 돌아오지 않는다면, 살 만한 곳을 찾았다는 뜻이죠. 노아는 비둘기를 통해 더 정확하게 밖 상황을 알고 싶었어요. 마치 우리가 음식을 먹기 전에 냄새를 맡아보는 것처럼, 노아는 비둘기를 보내서 땅이 안전한지 확인한 거예요.",
+      "bibleReferences": [
+        "마태복음 3:16 - '예수께서 세례를 받으시고 곧 물에서 올라오실새 하늘이 열리고 하나님의 성령이 비둘기 같이 내려 자기 위에 임하심을 보시더니'",
+        "마태복음 10:16 - '보라 내가 너희를 보냄이 양을 이리 가운데로 보냄과 같도다 그러므로 너희는 뱀 같이 지혜롭고 비둘기 같이 순결하라'",
+        "레위기 1:14 - '만일 여호와께 드리는 예물이 새의 번제이면 산비둘기나 집비둘기 새끼로 예물을 삼을 것이요'",
+        "시편 55:6 - '나는 말하기를 내게 비둘기 같은 날개가 있다면 날아가서 편히 쉬리로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:8은 지혜로운 탐색의 중요성을 보여줍니다. 노아는 비둘기를 명확한 목적을 가지고 보냈습니다. 비둘기는 까마귀와 대조를 이루며, 하나님의 계획이 다양한 방법으로 확인됨을 보여줍니다. 비둘기가 성령의 상징으로 사용된 것을 생각하면, 이 장면은 더 깊은 의미를 갖습니다. 하나님의 영이 새로운 창조의 시작을 확인하시는 것처럼, 비둘기도 새로운 세계의 준비 상태를 확인합니다. '아다마(땅)'는 '아담(사람)'과 연결되어, 인류가 다시 땅에서 살아갈 준비를 암시합니다."
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "id": "genesis_12_10",
+  "reference": "창세기 12:10",
+  "hebrew": "וַיְהִי רָעָב בָּאָרֶץ; וַיֵּרֶד אַבְרָם מִצְרַיְמָה, לָגוּר שָׁם, כִּי־כָבֵד הָרָעָב בָּאָרֶץ.",
+  "ipa": "vajˈhi raˈʔav baˈʔarɛts vajˈjerɛd ʔavˈram mitsˈrajma laˈgur ʃam ki xaˈved haraˈʔav baˈʔarɛts",
+  "koreanPronunciation": "바예히 라아브 바아레츠 바예레드 아브람 미츠라이마 라구르 샴 키 카베드 하라아브 바아레츠",
+  "modern": "그 땅에 기근이 들었습니다. 기근이 심해지자, 아브람은 그곳에 잠시 머물기 위해 이집트로 내려갔습니다.",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 ~이 있었다, 되었다",
+      "ipa": "vajˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְהִי(yehi)",
+      "root": "ה-י-ה (하야 - 되다, 있다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"became_vayehi\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#became_vayehi)\" opacity=\"0.3\" /><path d=\"M 32 32 L 44 32\" stroke=\"#4FACFE\" stroke-width=\"2\" marker-end=\"url(#arrow)\" /><circle cx=\"48\" cy=\"32\" r=\"10\" fill=\"#00F2FE\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "רָעָב",
+      "meaning": "기근, 흉년",
+      "ipa": "raˈʔav",
+      "korean": "라아브",
+      "letters": "רָ(ra) + עָב(av)",
+      "root": "ר-ע-ב (라에브 - 굶주리다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"famine_raav\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect x=\"16\" y=\"40\" width=\"32\" height=\"16\" rx=\"2\" fill=\"url(#famine_raav)\" opacity=\"0.3\" /><path d=\"M 20 36 L 20 44 M 28 32 L 28 44 M 36 34 L 36 44 M 44 38 L 44 44\" stroke=\"#8B4513\" stroke-width=\"2\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"none\" stroke=\"#D2691E\" stroke-width=\"2\" stroke-dasharray=\"2,2\" /></svg>",
+      "relatedWords": [
+        "רָעֵב (라에브 - 배고픈)",
+        "רְעָבוֹן (레아본 - 굶주림)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּרֶד",
+      "meaning": "그리고 그가 내려갔다",
+      "ipa": "vajˈjerɛd",
+      "korean": "바예레드",
+      "letters": "וַ(va) + יֵּ(ye) + רֶד(red)",
+      "root": "י-ר-ד (야라드 - 내려가다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"down_yarad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 32 12 L 32 48\" stroke=\"url(#down_yarad)\" stroke-width=\"4\" marker-end=\"url(#arrow)\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#667EEA\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"#764BA2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָרַד (야라드 - 내려가다)",
+        "יְרִידָה (예리다 - 하강, 내려감)"
+      ]
+    },
+    {
+      "hebrew": "מִצְרַיְמָה",
+      "meaning": "이집트로",
+      "ipa": "mitsˈrajma",
+      "korean": "미츠라이마",
+      "letters": "מִ(mi) + צְרַ(tsra) + יְמָה(yemah)",
+      "root": "מִצְרַיִם (미츠라임 - 이집트)",
+      "grammar": "고유명사 + 방향 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt_mitzrayim\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><path d=\"M 16 48 L 32 24 L 48 48 Z\" fill=\"url(#egypt_mitzrayim)\" opacity=\"0.6\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#FFD700\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"#FFA500\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מִצְרַיִם (미츠라임 - 이집트)",
+        "מִצְרִי (미츠리 - 이집트 사람)"
+      ]
+    },
+    {
+      "hebrew": "לָגוּר",
+      "meaning": "거류하기 위해, 잠시 머물기 위해",
+      "ipa": "laˈgur",
+      "korean": "라구르",
+      "letters": "לָ(la) + גוּר(gur)",
+      "root": "ג-ו-ר (구르 - 거류하다, 체류하다)",
+      "grammar": "전치사 + 동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sojourn_gur\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><path d=\"M 12 48 L 32 28 L 52 48 Z\" fill=\"url(#sojourn_gur)\" opacity=\"0.4\" stroke=\"#A8EDEA\" stroke-width=\"2\" stroke-dasharray=\"4,2\" /><rect x=\"28\" y=\"46\" width=\"8\" height=\"6\" fill=\"#A8EDEA\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "גּוּר (구르 - 거류하다, 체류하다)",
+        "גֵּר (게르 - 나그네, 거류민)"
+      ]
+    },
+    {
+      "hebrew": "כִּי־כָבֵד",
+      "meaning": "왜냐하면 무거웠다, 심했다",
+      "ipa": "ki xaˈved",
+      "korean": "키 카베드",
+      "letters": "כִּי(ki) + כָבֵד(kaved)",
+      "root": "כ-ב-ד (카바드 - 무겁다, 영광스럽다)",
+      "grammar": "접속사 + 형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heavy_kaved\"><stop offset=\"0%\" stop-color=\"#666666\" /><stop offset=\"100%\" stop-color=\"#333333\" /></linearGradient></defs><rect x=\"20\" y=\"28\" width=\"24\" height=\"20\" rx=\"2\" fill=\"url(#heavy_kaved)\" opacity=\"0.6\" /><path d=\"M 32 28 L 32 20\" stroke=\"#666666\" stroke-width=\"3\" /><path d=\"M 28 20 L 36 20\" stroke=\"#666666\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "כָּבֵד (카베드 - 무거운, 심한)",
+        "כָּבוֹד (카보드 - 영광, 무게)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:10은 아브람의 첫 번째 시험을 기록합니다. 약속의 땅에 도착한 직후 기근이 발생했습니다. 이것은 믿음의 역설입니다 - 하나님의 인도를 따랐는데 곤경에 처했습니다. 아브람의 반응은 이집트로 내려가는 것이었습니다. 이는 신학적으로 복잡한 문제를 제기합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "약속의 땅에 기근 - 믿음의 시험",
+        "description": "하나님이 주시겠다고 약속한 땅에 기근이 들었습니다. 이것은 아브람에게 큰 시험이었을 것입니다. '하나님이 나를 이곳으로 인도하셨는데, 왜 이런 일이?'라는 질문이 생겼을 것입니다.",
+        "points": [
+          "하나님의 인도가 항상 편안함을 의미하지는 않습니다",
+          "순종의 길에도 시험과 고난이 있을 수 있습니다",
+          "기근은 아브람의 믿음을 시험했습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "이집트로 내려감 - 인간적 해결책",
+        "description": "'내려갔다'(יָרַד)는 단순히 지리적 이동만이 아니라 영적 하강을 암시합니다. 이집트는 성경에서 종종 세상과 죄를 상징합니다. 아브람은 하나님께 묻지 않고 자신의 판단으로 이집트로 갔습니다.",
+        "points": [
+          "위기 때 우리는 하나님께 묻기보다 인간적 해결책을 찾기 쉽습니다",
+          "이집트는 당장 문제를 해결할 것처럼 보였습니다",
+          "그러나 이집트에서 아브람은 더 큰 문제에 직면합니다 (12:11-20)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לָגוּר (라구르) - 임시 거류",
+        "description": "'거류하다'(גּוּר)는 영구적으로 정착하는 것이 아니라 임시로 머무는 것을 의미합니다. 아브람은 이집트를 피난처로만 생각했지, 거기 머물 생각은 없었습니다. 그의 마음은 여전히 약속의 땅에 있었습니다.",
+        "points": [
+          "아브람은 이집트를 임시 해결책으로 봤습니다",
+          "그의 궁극적 목표는 변하지 않았습니다",
+          "우리도 세상의 것들을 임시로만 사용해야 합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "하나님의 침묵 - 허락하심",
+        "description": "흥미롭게도 하나님은 아브람의 이집트 행을 막지 않으셨습니다. 명령하지도, 금지하지도 않으셨습니다. 때로 하나님은 우리의 불완전한 결정도 허락하시고, 그 과정에서 우리를 가르치십니다.",
+        "points": [
+          "하나님은 때로 우리의 실수를 허락하십니다",
+          "실패도 배움의 기회가 됩니다",
+          "하나님은 우리의 불완전함 속에서도 역사하십니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님이 약속하신 땅에 기근이 들었을까요?",
+      "answer": "하나님이 약속하신 땅에 기근이 든 것은 아브람을 시험하려는 게 아니었어요. 때로 하나님은 우리의 믿음이 진짜인지 확인하시고, 더 강하게 만들어 주시려고 어려운 일을 허락하세요. 마치 운동선수가 더 강해지려면 힘든 훈련을 해야 하는 것처럼요. 아브람도 이 어려움을 통해 하나님을 더 신뢰하는 법을 배워야 했어요. 비록 아브람은 이집트로 갔지만, 하나님은 여전히 그를 지키시고 다시 약속의 땅으로 돌아오게 하셨답니다. 우리도 어려움이 올 때, 그것이 하나님이 우리를 버리신 게 아니라는 걸 믿어야 해요.",
+      "bibleReferences": [
+        "야고보서 1:2-4 - '내 형제들아 너희가 여러 가지 시험을 당하거든 온전히 기쁘게 여기라 이는 너희 믿음의 시련이 인내를 만들어 내는 줄 너희가 앎이라 인내를 온전히 이루라 이는 너희로 온전하고 구비하여 조금도 부족함이 없게 하려 함이라'",
+        "창세기 26:1 - '아브라함 때에 첫 흉년이 들었더니 그 땅에 또 흉년이 들매 이삭이 그랄로 가서 블레셋 왕 아비멜렉에게 이르렀더니'",
+        "시편 105:16-17 - '그가 또 기근을 그 땅에 불러 양식을 다 끊으셨도다 그가 한 사람을 그들보다 먼저 보내셨음이여 요셉이 종으로 팔렸도다'",
+        "베드로전서 1:6-7 - '그러므로 너희가 이제 여러 가지 시험으로 말미암아 잠깐 근심하게 되지 않을 수 없으나 오히려 크게 기뻐하는도다 너희 믿음의 확실함은 불로 연단하여도 없어질 금보다 더 귀하여 예수 그리스도께서 나타나실 때에 칭찬과 영광과 존귀를 얻게 하려 함이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:10은 믿음의 현실성을 보여줍니다. 아브람은 완벽한 믿음의 사람이 아니었습니다. 위기 앞에서 그도 두려워하고, 인간적 해결책을 찾았습니다. 그러나 이것이 그를 배척받게 하지 않았습니다. 하나님은 이집트에서도 그를 보호하시고(12:17), 다시 약속의 땅으로 인도하십니다(13:1). 이는 우리에게 큰 위로입니다 - 우리의 불완전한 믿음에도 불구하고 하나님은 신실하십니다. 또한 '이집트로 내려감'은 이스라엘 역사에서 반복되는 패턴입니다 (야곱/요셉 시대, 예수님의 피난). 그러나 항상 하나님은 그들을 이집트에서 다시 불러내십니다. 이집트는 피난처일 수 있지만, 결코 우리의 집이 되어서는 안 됩니다."
+    }
+  }
+}

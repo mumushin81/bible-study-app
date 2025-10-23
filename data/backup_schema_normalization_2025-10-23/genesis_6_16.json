@@ -1,0 +1,162 @@
+{
+  "id": "genesis_6_16",
+  "reference": "창세기 6:16",
+  "hebrew": "צֹהַר תַּעֲשֶׂה לַתֵּבָה, וְאֶל־אַמָּה תְּכַלֶּנָּה מִלְמַעְלָה, וּפֶתַח הַתֵּבָה, בְּצִדָּהּ תָּשִׂים; תַּחְתִּיִּם שְׁנִיִּם וּשְׁלִשִׁים, תַּעֲשֶׂהָ.",
+  "ipa": "ˈtsohar taʔaˈse lateˈva vəʔɛl ʔaˈma təχalˈɛna milˈmaʔla uˈfɛtaχ hateˈva bətsidˈah taˈsim taχˈtijim ʃəniˈjim uʃəliˈʃim taʔaˈseha",
+  "koreanPronunciation": "초하르 타아세 라테바 베엘 암마 테칼렌나 밀말라 우페타흐 하테바 베치다 타심 타흐티임 쉬니임 우쉴리쉼 타아세하",
+  "modern": "방주에 창문을 만들되 위쪽으로 한 규빗 되게 하라. 방주의 문은 옆에 만들고, 1층과 2층과 3층을 만들어라",
+  "words": [
+    {
+      "hebrew": "צֹהַר",
+      "meaning": "창문, 빛",
+      "ipa": "ˈtsohar",
+      "korean": "초하르",
+      "letters": "צֹ(tso) + הַר(har)",
+      "root": "צ-ה-ר (차하르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"window_tsohar\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect x=\"20\" y=\"20\" width=\"24\" height=\"24\" rx=\"2\" fill=\"url(#window_tsohar)\" opacity=\"0.6\" /><path d=\"M 32 20 L 32 44\" stroke=\"url(#window_tsohar)\" stroke-width=\"2\" /><path d=\"M 20 32 L 44 32\" stroke=\"url(#window_tsohar)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "צָהֳרַיִם (초하라임 - 정오)",
+        "אוֹר (오르 - 빛)"
+      ]
+    },
+    {
+      "hebrew": "תְּכַלֶּנָּה",
+      "meaning": "완성하라",
+      "ipa": "təχalˈɛna",
+      "korean": "테칼렌나",
+      "letters": "תְּ(te) + כַ(χa) + לֶּנָּה(lɛna)",
+      "root": "כ-ל-ה (칼라)",
+      "grammar": "동사 - 피엘형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"finish_techalennah\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#finish_techalennah)\" stroke-width=\"3\" /><path d=\"M 24 32 L 30 38 L 42 26\" stroke=\"url(#finish_techalennah)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "כָּלָה (칼라 - 완성하다)",
+        "כָּלִיל (칼릴 - 완전한)"
+      ]
+    },
+    {
+      "hebrew": "מִלְמַעְלָה",
+      "meaning": "위쪽에서",
+      "ipa": "milˈmaʔla",
+      "korean": "밀말라",
+      "letters": "מִ(mi) + לְ(l) + מַעְלָה(maʔla)",
+      "root": "עָלָה (알라)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"above_milmalah\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 32 48 L 32 16\" stroke=\"url(#above_milmalah)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 24 24 L 32 16 L 40 24\" stroke=\"url(#above_milmalah)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "מַעְלָה (말라 - 위)",
+        "עָלָה (알라 - 올라가다)"
+      ]
+    },
+    {
+      "hebrew": "וּפֶתַח",
+      "meaning": "그리고 문",
+      "ipa": "uˈfɛtaχ",
+      "korean": "우페타흐",
+      "letters": "וּ(u) + פֶ(fe) + תַח(taχ)",
+      "root": "פ-ת-ח (파타흐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door_ufetach\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><rect x=\"24\" y=\"16\" width=\"20\" height=\"32\" rx=\"2\" fill=\"url(#door_ufetach)\" /><circle cx=\"40\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "פֶּתַח (페타흐 - 문, 입구)",
+        "פָּתַח (파타흐 - 열다)"
+      ]
+    },
+    {
+      "hebrew": "בְּצִדָּהּ",
+      "meaning": "그것의 옆에",
+      "ipa": "bətsidˈah",
+      "korean": "베치다",
+      "letters": "בְּ(be) + צִ(tsi) + דָּהּ(dah)",
+      "root": "צַד (차드)",
+      "grammar": "전치사 + 명사 + 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"side_betsiddah\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"24\" y=\"20\" width=\"16\" height=\"24\" rx=\"2\" fill=\"url(#side_betsiddah)\" opacity=\"0.3\" /><rect x=\"40\" y=\"20\" width=\"8\" height=\"24\" rx=\"2\" fill=\"url(#side_betsiddah)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "צַד (차드 - 옆, 측면)",
+        "צְדָדִים (체다딤 - 옆들)"
+      ]
+    },
+    {
+      "hebrew": "תַּחְתִּיִּם",
+      "meaning": "아래층, 1층",
+      "ipa": "taχˈtijim",
+      "korean": "타흐티임",
+      "letters": "תַּ(ta) + חְ(χ) + תִּיִּם(tijim)",
+      "root": "תַּחַת (타하트)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lower_tachtiyyim\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><rect x=\"16\" y=\"40\" width=\"32\" height=\"12\" fill=\"url(#lower_tachtiyyim)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "תַּחַת (타하트 - 아래)",
+        "תַּחְתּוֹן (타흐톤 - 낮은)"
+      ]
+    },
+    {
+      "hebrew": "שְׁנִיִּם",
+      "meaning": "2층",
+      "ipa": "ʃəniˈjim",
+      "korean": "쉬니임",
+      "letters": "שְׁ(she) + נִיִּם(nijim)",
+      "root": "שֵׁנִי (쉐니)",
+      "grammar": "서수 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"second_sheniyyim\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"12\" fill=\"url(#second_sheniyyim)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שֵׁנִי (쉐니 - 둘째)",
+        "שְׁנַיִם (쉬나임 - 둘)"
+      ]
+    },
+    {
+      "hebrew": "וּשְׁלִשִׁים",
+      "meaning": "그리고 3층",
+      "ipa": "uʃəliˈʃim",
+      "korean": "우쉴리쉼",
+      "letters": "וּ(u) + שְׁ(she) + לִשִׁים(lishim)",
+      "root": "שְׁלִישִׁי (쉴리쉬)",
+      "grammar": "서수 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"third_ushelishim\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"12\" fill=\"url(#third_ushelishim)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שְׁלִישִׁי (쉴리쉬 - 셋째)",
+        "שָׁלֹשׁ (샬로쉬 - 셋)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "방주의 세부 구조가 주어집니다. 창문, 문, 그리고 3층 구조는 실제적이고 기능적인 설계를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "🪟",
+        "title": "창문과 문",
+        "description": "창문(צֹהַר)은 빛과 환기를 위한 것이고, 문(פֶּתַח)은 유일한 출입구였습니다. 이는 그리스도께서 유일한 구원의 문이심을 예표합니다.",
+        "points": [
+          "창문 - 빛과 공기 유입",
+          "문 - 유일한 구원의 길",
+          "요한복음 10:9 '내가 문이니'"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "🏗️",
+        "title": "3층 구조",
+        "description": "방주의 3층 구조는 공간 활용의 효율성과 안정성을 보여줍니다. 각 층마다 다른 용도로 사용되었을 것입니다.",
+        "points": [
+          "1층 - 무거운 짐승들",
+          "2층 - 중간 크기 동물들",
+          "3층 - 새들과 노아 가족"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 방주에 문이 하나만 있었을까요?",
+      "answer": "하나님이 구원의 길은 하나뿐이라는 것을 보여주시려고 했어요. 예수님도 '내가 문이다'라고 말씀하셨어요. 방주의 문으로만 들어갈 수 있었던 것처럼, 예수님을 통해서만 하나님께 갈 수 있답니다.",
+      "bibleReferences": [
+        "요한복음 10:9 - '내가 문이니 누구든지 나로 말미암아 들어가면 구원을 받고'",
+        "요한복음 14:6 - '내가 곧 길이요 진리요 생명이니 나로 말미암지 않고는 아버지께로 올 자가 없느니라'",
+        "사도행전 4:12 - '다른 이로써는 구원을 받을 수 없나니 천하 사람 중에 구원을 받을 만한 다른 이름을 우리에게 주신 일이 없음이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "유일한 구원의 길",
+      "content": "방주의 문이 하나였듯이, 구원의 길도 하나입니다. 예수 그리스도가 바로 그 유일한 문이십니다. 창문은 위를 바라보게 하듯, 우리도 항상 하나님을 바라보아야 합니다."
+    }
+  }
+}

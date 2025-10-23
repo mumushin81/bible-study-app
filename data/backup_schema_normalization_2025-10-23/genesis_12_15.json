@@ -1,0 +1,154 @@
+{
+  "id": "genesis_12_15",
+  "reference": "창세기 12:15",
+  "hebrew": "וַיִּרְא֤וּ אֹתָהּ֙ שָׂרֵ֣י פַרְעֹ֔ה וַיְהַֽלְל֥וּ אֹתָ֖הּ אֶל פַּרְעֹ֑ה וַתֻּקַּ֥ח הָאִשָּׁ֖ה בֵּ֥ית פַּרְעֹֽה",
+  "ipa": "vajirˈu ʔoˈta saˈre farˈo vajəhalˈlu ʔoˈta ʔɛl parˈo vatuˈqax haʔiˈʃa bet parˈo",
+  "koreanPronunciation": "바이루 오타 사레 파로 바예할루 오타 엘 파로 바투카흐 하이샤 베트 파로",
+  "modern": "바로의 신하들이 사래를 보고 바로 앞에서 그녀를 칭찬하니, 그 여인이 바로의 궁으로 끌려갔습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּרְאוּ",
+      "meaning": "보았다",
+      "ipa": "vajirˈu",
+      "korean": "바이루",
+      "letters": "וַ(va) + יִּ(yi) + רְ(r) + אוּ(u)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-see1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient><linearGradient id=\"pharaoh-iris1\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(135, 206, 235, 0.2)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"white\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#pharaoh-iris1)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"black\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"white\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "מַרְאֶה (마레 - 외모)"
+      ]
+    },
+    {
+      "hebrew": "שָׂרֵי",
+      "meaning": "신하들, 고관들",
+      "ipa": "saˈre",
+      "korean": "사레",
+      "letters": "שָׂ(sa) + רֵ(re) + י(i)",
+      "root": "שַׂר (사르)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-crown1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"pharaoh-jewel1\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 12 42 L 16 28 L 22 32 L 28 22 L 32 18 L 36 22 L 42 32 L 48 28 L 52 42 Z\" fill=\"url(#pharaoh-crown1)\" stroke=\"#B8860B\" stroke-width=\"1.5\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"42\" width=\"40\" height=\"6\" fill=\"url(#pharaoh-crown1)\" stroke=\"#B8860B\" stroke-width=\"1\" /><circle cx=\"20\" cy=\"35\" r=\"3\" fill=\"url(#pharaoh-jewel1)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"url(#pharaoh-jewel1)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"44\" cy=\"35\" r=\"3\" fill=\"url(#pharaoh-jewel1)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "שַׂר (사르 - 지도자)",
+        "שָׂרָה (사라 - 공주)"
+      ]
+    },
+    {
+      "hebrew": "פַּרְעֹה",
+      "meaning": "바로 (이집트 왕)",
+      "ipa": "parˈo",
+      "korean": "파로",
+      "letters": "פַּ(pa) + רְ(r) + עֹ(o) + ה(h)",
+      "root": "פַּרְעֹה (파로)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-palace1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#CD853F\" /></linearGradient><linearGradient id=\"pharaoh-sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#DDA0DD\" /></linearGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#pharaoh-sky1)\" opacity=\"0.4\" /><rect x=\"16\" y=\"24\" width=\"32\" height=\"32\" fill=\"url(#pharaoh-palace1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"10\" y=\"20\" width=\"44\" height=\"6\" fill=\"url(#pharaoh-palace1)\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" fill=\"rgba(139, 69, 19, 0.6)\" /><polygon points=\"32,8 8,20 56,20\" fill=\"#B8860B\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"14\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "וַיְהַלְלוּ",
+      "meaning": "칭찬했다",
+      "ipa": "vajəhalˈlu",
+      "korean": "바예할루",
+      "letters": "וַ(va) + יְ(yə) + הַ(ha) + לְ(l) + לוּ(lu)",
+      "root": "ה-ל-ל (할랄)",
+      "grammar": "동사",
+      "emoji": "👏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-praise1\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient><radialGradient id=\"pharaoh-spark1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 18 40 Q 18 30 22 28 L 22 42 Z\" fill=\"url(#pharaoh-praise1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 46 40 Q 46 30 42 28 L 42 42 Z\" fill=\"url(#pharaoh-praise1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"24\" r=\"3\" fill=\"url(#pharaoh-spark1)\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"url(#pharaoh-spark1)\" /><circle cx=\"44\" cy=\"24\" r=\"3\" fill=\"url(#pharaoh-spark1)\" /><path d=\"M 28 32 Q 32 36 36 32\" stroke=\"url(#pharaoh-praise1)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "הַלְלוּיָהּ (할렐루야 - 여호와를 찬양하라)",
+        "תְּהִלָּה (테힐라 - 찬양)"
+      ]
+    },
+    {
+      "hebrew": "הָאִשָּׁה",
+      "meaning": "그 여인",
+      "ipa": "haʔiˈʃa",
+      "korean": "하이샤",
+      "letters": "הָ(ha) + אִ(i) + שָּׁ(sha) + ה(h)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-woman1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFC0CB\" /></radialGradient><linearGradient id=\"pharaoh-beauty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 105, 180, 0.15)\" /><circle cx=\"32\" cy=\"26\" r=\"12\" fill=\"url(#pharaoh-woman1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 36 Q 32 50 44 36\" fill=\"url(#pharaoh-woman1)\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FF1493\" stroke-width=\"1.5\" fill=\"none\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#pharaoh-beauty1)\" opacity=\"0.4\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "וַתֻּקַּח",
+      "meaning": "끌려갔다",
+      "ipa": "vatuˈqax",
+      "korean": "바투카흐",
+      "letters": "וַ(va) + תֻּ(tu) + קַּ(qa) + ח(x)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "🚶‍♀️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><linearGradient id=\"pharaoh-path1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><path d=\"M 8 32 L 56 32\" stroke=\"url(#pharaoh-path1)\" stroke-width=\"3\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"28\" r=\"10\" fill=\"url(#pharaoh-take1)\" opacity=\"0.3\" /><ellipse cx=\"48\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#pharaoh-take1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"48\" cy=\"28\" r=\"6\" fill=\"rgba(220, 20, 60, 0.8)\" /><path d=\"M 40 32 L 48 32 L 44 28 M 48 32 L 44 36\" stroke=\"#8B0000\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /></svg>"
+    },
+    {
+      "hebrew": "בֵּית",
+      "meaning": "집, 궁전",
+      "ipa": "bet",
+      "korean": "베트",
+      "letters": "בֵּ(be) + י(i) + ת(t)",
+      "root": "בַּיִת (바이트)",
+      "grammar": "명사",
+      "emoji": "🏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-house1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient></defs><polygon points=\"32,12 12,28 12,52 52,52 52,28\" fill=\"url(#pharaoh-house1)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"16\" fill=\"rgba(139, 69, 19, 0.7)\" /><rect x=\"16\" y=\"32\" width=\"8\" height=\"10\" fill=\"rgba(64, 224, 208, 0.6)\" /><rect x=\"40\" y=\"32\" width=\"8\" height=\"10\" fill=\"rgba(64, 224, 208, 0.6)\" /><polygon points=\"32,8 8,26 56,26\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집)",
+        "בֵּית־אֵל (베트엘 - 하나님의 집)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 15절은 아브람의 계획이 예상치 못한 방향으로 전개되는 순간을 기록합니다. 사래의 아름다움이 바로의 신하들의 눈에 띄면서, 하나님의 약속이 위기에 처하게 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שָׂרֵי פַּרְעֹה (사레 파로) - 바로의 신하들",
+        "description": "바로의 고관들은 이집트 궁정의 영향력 있는 인물들이었습니다. 그들이 사래를 보고 즉시 왕에게 보고한 것은 그녀의 뛰어난 아름다움과 함께, 왕을 기쁘게 하려는 신하들의 마음을 보여줍니다.",
+        "points": [
+          "권력자의 신하들은 왕의 호의를 얻기 위해 끊임없이 노력했습니다",
+          "사래의 아름다움은 단순한 외모가 아니라 하나님의 은혜였습니다",
+          "인간의 계획과 행동이 하나님의 약속을 위협할 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיְהַלְלוּ אֹתָהּ (바예할루 오타) - 그녀를 칭찬하다",
+        "description": "히브리어 '할랄'은 찬양하다, 칭찬하다는 의미로, 후에 '할렐루야'의 어근이 됩니다. 신하들의 칭찬은 사래를 바로에게 추천하는 행위였으며, 이는 아브람의 거짓말이 초래한 직접적인 결과였습니다.",
+        "points": [
+          "사람의 칭찬과 인정은 때로 위험한 상황을 초래할 수 있습니다",
+          "아브람의 두려움과 거짓이 아내를 위험에 빠뜨렸습니다",
+          "하나님의 약속은 인간의 실수에도 불구하고 보호됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַתֻּקַּח הָאִשָּׁה (바투카흐 하이샤) - 여인이 끌려가다",
+        "description": "수동형 동사 '투카흐'는 사래가 자신의 의지와 무관하게 강제로 바로의 궁으로 옮겨졌음을 나타냅니다. 이는 하나님께서 아브라함에게 약속하신 후손 계획이 심각한 위기에 처했음을 의미합니다.",
+        "points": [
+          "죄의 결과는 무고한 사람들에게도 영향을 미칩니다",
+          "하나님의 약속이 불가능해 보이는 상황에 처할 수 있습니다",
+          "그러나 하나님은 자신의 약속을 지키기 위해 개입하십니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 사래가 자기 누이라고 거짓말했을까요?",
+      "answer": "아브람은 이집트 사람들이 자신을 죽이고 아내를 빼앗을까봐 두려워했어요. 하지만 이 거짓말 때문에 오히려 사래가 바로의 궁전으로 끌려가는 더 나쁜 상황이 되었답니다. 하나님을 믿지 못하고 자기 방법으로 문제를 해결하려 하면, 상황이 더 나빠질 수 있어요. 하지만 다행히도 하나님께서 개입하셔서 사래를 구해주셨답니다!",
+      "bibleReferences": [
+        "창세기 12:12-13 - \"그들이 그대를 보면 이르기를... 나는 살려 두리라\"",
+        "잠언 29:25 - \"사람을 두려워하면 올무에 걸리거니와 여호와를 의지하는 자는 안전하리라\"",
+        "시편 56:3-4 - \"내가 두려워하는 날에는 주를 의지하리이다\""
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 두려움과 거짓은 하나님의 약속을 위험에 빠뜨렸지만, 하나님의 신실하심은 인간의 실수보다 크십니다. 사래가 바로의 궁으로 끌려간 이 위기의 순간조차 하나님의 주권 아래 있었으며, 하나님은 자신의 방법으로 약속을 지키실 것입니다. 이는 우리의 연약함에도 불구하고 하나님의 계획은 반드시 성취된다는 위로를 줍니다."
+    }
+  }
+}

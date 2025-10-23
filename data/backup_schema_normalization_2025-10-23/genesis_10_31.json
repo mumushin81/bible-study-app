@@ -1,0 +1,161 @@
+{
+  "id": "genesis_10_31",
+  "reference": "창세기 10:31",
+  "hebrew": "אֵלֶּה בְנֵי־שֵׁם לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם בְּאַרְצֹתָם לְגוֹיֵהֶם",
+  "ipa": "ʔelˈlɛ vənei ʃɛm ləmiʃpəxotɑm lilʃonotɑm bəʔɑrtsotɑm ləgojɛˈhɛm",
+  "koreanPronunciation": "엘레 브네이 쉠 레미쉬프호탐 릴쇼노탐 베아르초탐 레고예헴",
+  "modern": "이들은 셈의 자손이라 그 족속과 언어와 지방과 나라대로였더라",
+  "words": [
+    {
+      "hebrew": "אֵלֶּה",
+      "meaning": "이들은",
+      "ipa": "ʔelˈlɛ",
+      "korean": "엘레",
+      "letters": "אֵ(e) + לֶּ(lle) + ה(h)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"these_shem\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"6\" fill=\"url(#these_shem)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#these_shem)\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"url(#these_shem)\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것)",
+        "הֵם (헴 - 그들)"
+      ]
+    },
+    {
+      "hebrew": "בְנֵי־שֵׁם",
+      "meaning": "셈의 자손",
+      "ipa": "vənei ʃɛm",
+      "korean": "브네이 쉠",
+      "letters": "בְּ(be) + נֵ(ne) + י(i) + שֵׁ(she) + ם(m)",
+      "root": "בֵּן (벤) + שֵׁם (쉠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sons_shem\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"10\" fill=\"url(#sons_shem)\" /><line x1=\"32\" y1=\"26\" x2=\"20\" y2=\"40\" stroke=\"url(#sons_shem)\" stroke-width=\"3\" /><line x1=\"32\" y1=\"26\" x2=\"32\" y2=\"40\" stroke=\"url(#sons_shem)\" stroke-width=\"3\" /><line x1=\"32\" y1=\"26\" x2=\"44\" y2=\"40\" stroke=\"url(#sons_shem)\" stroke-width=\"3\" /><circle cx=\"20\" cy=\"40\" r=\"7\" fill=\"url(#sons_shem)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"40\" r=\"7\" fill=\"url(#sons_shem)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"40\" r=\"7\" fill=\"url(#sons_shem)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "זֶרַע (제라 - 씨, 자손)"
+      ]
+    },
+    {
+      "hebrew": "מִשְׁפְּחֹתָם",
+      "meaning": "그들의 족속들",
+      "ipa": "miʃpəxotɑm",
+      "korean": "미쉬프호탐",
+      "letters": "מִ(mi) + שְׁ(sh) + פְּ(pe) + חֹ(cho) + תָ(ta) + ם(m)",
+      "root": "מִשְׁפָּחָה (미쉬파하)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"families_shem\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><circle cx=\"16\" cy=\"24\" r=\"5\" fill=\"url(#families_shem)\" /><circle cx=\"32\" cy=\"24\" r=\"5\" fill=\"url(#families_shem)\" /><circle cx=\"48\" cy=\"24\" r=\"5\" fill=\"url(#families_shem)\" /><circle cx=\"16\" cy=\"40\" r=\"4\" fill=\"url(#families_shem)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"url(#families_shem)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"40\" r=\"4\" fill=\"url(#families_shem)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집, 가문)",
+        "שֵׁבֶט (쉐베트 - 지파)"
+      ]
+    },
+    {
+      "hebrew": "לְשֹׁנֹתָם",
+      "meaning": "그들의 언어들",
+      "ipa": "ləʃonotɑm",
+      "korean": "레쇼노탐",
+      "letters": "לְ(le) + שֹׁ(sho) + נֹ(no) + תָ(ta) + ם(m)",
+      "root": "לָשׁוֹן (라숀)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"languages_shem\"><stop offset=\"0%\" stop-color=\"#1ABC9C\" /><stop offset=\"100%\" stop-color=\"#16A085\" /></linearGradient></defs><text x=\"16\" y=\"24\" font-size=\"14\" fill=\"url(#languages_shem)\">שׁ</text><text x=\"32\" y=\"24\" font-size=\"14\" fill=\"url(#languages_shem)\">A</text><text x=\"48\" y=\"24\" font-size=\"14\" fill=\"url(#languages_shem)\">α</text><text x=\"16\" y=\"44\" font-size=\"14\" fill=\"url(#languages_shem)\">अ</text><text x=\"32\" y=\"44\" font-size=\"14\" fill=\"url(#languages_shem)\">ا</text><text x=\"48\" y=\"44\" font-size=\"14\" fill=\"url(#languages_shem)\">א</text></svg>",
+      "relatedWords": [
+        "לָשׁוֹן (라숀 - 혀, 언어)",
+        "דִּבֵּר (디베르 - 말하다)"
+      ]
+    },
+    {
+      "hebrew": "אַרְצֹתָם",
+      "meaning": "그들의 땅들",
+      "ipa": "ʔɑrtsotɑm",
+      "korean": "아르초탐",
+      "letters": "אַ(ar) + רְ(r) + צֹ(tso) + תָ(ta) + ם(m)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lands_shem\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#229954\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"16\" height=\"16\" fill=\"url(#lands_shem)\" opacity=\"0.6\" /><rect x=\"24\" y=\"24\" width=\"16\" height=\"16\" fill=\"url(#lands_shem)\" opacity=\"0.7\" /><rect x=\"40\" y=\"24\" width=\"16\" height=\"16\" fill=\"url(#lands_shem)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "נַחֲלָה (나할라 - 기업)"
+      ]
+    },
+    {
+      "hebrew": "גוֹיֵהֶם",
+      "meaning": "그들의 나라들",
+      "ipa": "gojɛˈhɛm",
+      "korean": "고예헴",
+      "letters": "גּ(go) + וֹ(vo) + יֵ(ye) + הֶ(he) + ם(m)",
+      "root": "גּוֹי (고이)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations_shem\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#nations_shem)\" stroke-width=\"3\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"url(#nations_shem)\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#nations_shem)\" /></svg>",
+      "relatedWords": [
+        "גּוֹי (고이 - 민족, 나라)",
+        "מַמְלָכָה (맘라카 - 왕국)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "셈의 자손들에 대한 기록을 마무리하는 요약 구절입니다. 함의 자손(10:20)과 동일한 형식으로, 족속-언어-땅-나라의 네 가지 범주로 정리합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "셈의 자손 - 축복받은 혈통",
+        "description": "셈의 자손들은 특별히 하나님의 축복을 받은 혈통입니다. 노아는 '여호와 셈의 하나님을 찬송하리로다'라고 선언했습니다.",
+        "points": [
+          "노아의 축복을 받은 계보입니다 (창세기 9:26)",
+          "아브라함과 이스라엘 민족의 조상입니다",
+          "메시아가 오실 혈통입니다",
+          "하나님께서 특별히 '셈의 하나님'이 되셨습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "네 가지 구분",
+        "description": "족속(혈연), 언어(문화), 땅(지리), 나라(정치)의 네 가지 범주는 민족 정체성의 핵심 요소들입니다.",
+        "points": [
+          "족속: 혈연적 정체성과 가족 구조",
+          "언어: 문화적 정체성과 의사소통",
+          "땅: 지리적 기반과 생활 터전",
+          "나라: 정치적 조직과 통치 체계"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "셈 족의 영향력",
+        "description": "셈의 자손들은 고대 근동의 주요 문명과 민족들을 형성했습니다. 엘람, 앗수르, 아람, 그리고 히브리인들이 모두 여기에 속합니다.",
+        "points": [
+          "엘람: 페르시아 문명의 기초",
+          "앗수르: 강력한 제국 건설",
+          "아람: 국제 언어와 문화 발전",
+          "히브리: 이스라엘과 유대교의 발전"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "구속사의 중심",
+        "description": "셈의 계보는 단순한 역사 기록이 아니라 구속사의 중심 흐름입니다. 아브라함-이삭-야곱-다윗-예수로 이어지는 구원의 역사가 여기서 시작됩니다.",
+        "points": [
+          "아브라함의 부르심 (창세기 12장)",
+          "언약의 계승 (이삭, 야곱)",
+          "다윗 왕조의 수립",
+          "예수 그리스도의 탄생 (마태복음 1장)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 셈을 특별히 축복하셨을까요?",
+      "answer": "하나님께서 셈을 특별히 축복하신 것은 그를 통해 온 세상을 구원하실 계획을 가지고 계셨기 때문이에요. 셈의 후손 중에서 아브라함이 나오고, 아브라함의 후손 중에서 예수님이 오셔서 온 세상을 구원하실 거였어요. 마치 좋은 씨앗을 심어서 큰 나무를 키우시는 것처럼, 하나님은 셈이라는 씨앗을 통해 구원의 큰 나무를 키우신 거예요. 그래서 노아는 '여호와 셈의 하나님을 찬송하리로다'라고 말했어요. 이것은 하나님께서 셈의 자손들과 특별한 관계를 맺으실 것이라는 예언이었답니다.",
+      "bibleReferences": [
+        "창세기 9:26 - '또 이르되 셈의 하나님 여호와를 찬송하리로다 가나안은 셈의 종이 되고'",
+        "창세기 12:2-3 - '내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대하게 하리니 너는 복이 될지라 너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라'",
+        "누가복음 3:34-36 - '그 위는 야곱이요 그 위는 이삭이요 그 위는 아브라함이요... 그 위는 셈이요 그 위는 노아요'",
+        "갈라디아서 3:8 - '또 하나님이 이방을 믿음으로 말미암아 의로 정하실 것을 성경이 미리 알고 먼저 아브라함에게 복음을 전하되 모든 이방인이 너로 말미암아 복을 받으리라 하였느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "셈의 자손에 대한 요약은 하나님의 구원 계획이 역사 속에서 구체적으로 실현되고 있음을 보여줍니다. 족속-언어-땅-나라로 조직된 셈의 후손들은 각자의 정체성을 가지면서도 궁극적으로 하나님의 구속사에 참여하게 됩니다. 특히 히브리 민족을 통해 온 세상에 하나님의 계시와 구원이 전파될 것이며, 이는 예수 그리스도 안에서 완성됩니다. 이는 하나님의 선택과 섭리가 전 인류의 구원을 위한 것임을 나타냅니다."
+    }
+  }
+}

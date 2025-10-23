@@ -1,0 +1,120 @@
+{
+  "id": "genesis_6_21",
+  "reference": "창세기 6:21",
+  "hebrew": "וְאַתָּה קַח־לְךָ מִכָּל־מַאֲכָל אֲשֶׁר יֵאָכֵל, וְאָסַפְתָּ אֵלֶיךָ; וְהָיָה לְךָ וְלָהֶם, לְאָכְלָה.",
+  "ipa": "vəʔaˈta qaχ ləˈχa miˈkol maʔaˈχal ʔaˈʃer jeʔaˈχel vəʔasafˈta ʔɛˈlɛχa vəhaˈja ləˈχa vəlaˈhem ləʔoχˈla",
+  "koreanPronunciation": "베아타 카흐 레카 미콜 마아칼 아쉐르 예아켈 베아삽타 엘레카 베하야 레카 벨라헴 레오클라",
+  "modern": "너는 먹을 수 있는 모든 양식을 가져다가 네게 저장하라. 그것이 너와 그들의 먹을 것이 되리라",
+  "words": [
+    {
+      "hebrew": "קַח־לְךָ",
+      "meaning": "너를 위해 가져가라",
+      "ipa": "qaχ ləˈχa",
+      "korean": "카흐 레카",
+      "letters": "קַח(qach) + לְךָ(lecha)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사 - 명령형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"take_qachlecha\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 12 40 L 32 32\" stroke=\"url(#take_qachlecha)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 32 L 52 24\" stroke=\"url(#take_qachlecha)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#take_qachlecha)\" /></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 가져가다)",
+        "לֶקַח (레카흐 - 교훈)"
+      ]
+    },
+    {
+      "hebrew": "מַאֲכָל",
+      "meaning": "양식, 먹을 것",
+      "ipa": "maʔaˈχal",
+      "korean": "마아칼",
+      "letters": "מַ(ma) + אֲ(a) + כָל(chal)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"food_maachal\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"12\" fill=\"url(#food_maachal)\" opacity=\"0.6\" /><circle cx=\"24\" cy=\"32\" r=\"4\" fill=\"url(#food_maachal)\" /><circle cx=\"32\" cy=\"36\" r=\"5\" fill=\"url(#food_maachal)\" /><circle cx=\"40\" cy=\"32\" r=\"4\" fill=\"url(#food_maachal)\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "אֹכֶל (오켈 - 음식)"
+      ]
+    },
+    {
+      "hebrew": "יֵאָכֵל",
+      "meaning": "먹혀질 것이다",
+      "ipa": "jeʔaˈχel",
+      "korean": "예아켈",
+      "letters": "יֵ(ye) + אָ(a) + כֵל(chel)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "동사 - 니팔형 미완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eaten_yeachel\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#eaten_yeachel)\" opacity=\"0.3\" /><path d=\"M 20 28 Q 32 20 44 28\" stroke=\"url(#eaten_yeachel)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "נֶאֱכָל (네에칼 - 먹히다)"
+      ]
+    },
+    {
+      "hebrew": "וְאָסַפְתָּ",
+      "meaning": "그리고 너는 모으라",
+      "ipa": "vəʔasafˈta",
+      "korean": "베아삽타",
+      "letters": "וְ(ve) + אָ(a) + סַ(sa) + פְתָּ(fta)",
+      "root": "א-ס-ף (아사프)",
+      "grammar": "동사 - 완료형 2인칭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gather_veasafta\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"url(#gather_veasafta)\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"20\" r=\"4\" fill=\"url(#gather_veasafta)\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"44\" r=\"4\" fill=\"url(#gather_veasafta)\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"44\" r=\"4\" fill=\"url(#gather_veasafta)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#gather_veasafta)\" /><path d=\"M 22 22 L 30 30\" stroke=\"url(#gather_veasafta)\" stroke-width=\"2\" /><path d=\"M 42 22 L 34 30\" stroke=\"url(#gather_veasafta)\" stroke-width=\"2\" /><path d=\"M 22 42 L 30 34\" stroke=\"url(#gather_veasafta)\" stroke-width=\"2\" /><path d=\"M 42 42 L 34 34\" stroke=\"url(#gather_veasafta)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אָסַף (아사프 - 모으다)",
+        "אָסִיף (아시프 - 수확)"
+      ]
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "meaning": "먹을 것을 위해",
+      "ipa": "ləʔoχˈla",
+      "korean": "레오클라",
+      "letters": "לְ(le) + אָ(a) + כְ(ch) + לָה(lah)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사 - 전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"forfood_leochlah\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#forfood_leochlah)\" opacity=\"0.4\" /><circle cx=\"26\" cy=\"28\" r=\"4\" fill=\"url(#forfood_leochlah)\" /><circle cx=\"38\" cy=\"28\" r=\"4\" fill=\"url(#forfood_leochlah)\" /><path d=\"M 22 38 Q 32 44 42 38\" stroke=\"url(#forfood_leochlah)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אֹכֶל (오켈 - 음식)",
+        "מַאֲכָל (마아칼 - 양식)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아는 방주에 사람과 동물을 위한 충분한 양식을 준비해야 했습니다. 홍수 기간 동안 약 1년간의 식량이 필요했을 것입니다.",
+    "sections": [
+      {
+        "emoji": "🌾",
+        "title": "준비와 공급",
+        "description": "노아는 자신과 가족, 그리고 모든 동물들을 위한 양식을 준비해야 했습니다. 이는 방대한 양의 식량이었을 것입니다.",
+        "points": [
+          "철저한 준비의 중요성",
+          "하나님의 명령에 대한 순종",
+          "신앙적 실천 - 믿음과 행함"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "🍞",
+        "title": "생명의 양식",
+        "description": "물리적 양식을 준비하는 것은 영적 양식의 예표입니다. 예수님은 '생명의 떡'이십니다(요 6:35).",
+        "points": [
+          "육체의 양식과 영혼의 양식",
+          "하나님의 공급하심",
+          "예수 그리스도 - 참 생명의 떡"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 그렇게 많은 음식을 준비해야 했을까요?",
+      "answer": "방주 안에서 1년 넘게 지내야 했기 때문이에요! 노아의 가족 8명과 수많은 동물들이 먹을 음식을 다 준비해야 했답니다. 하나님은 미리미리 준비하는 것이 중요하다는 것을 가르쳐주셨어요.",
+      "bibleReferences": [
+        "잠언 6:6-8 - '게으른 자여 개미에게 가서 그가 하는 것을 보고 지혜를 얻으라 개미는... 여름 동안에 먹을 것을 준비하며'",
+        "요한복음 6:35 - '예수께서 이르시되 나는 생명의 떡이니 내게 오는 자는 결코 주리지 아니할 터이요'",
+        "마태복음 6:11 - '오늘 우리에게 일용할 양식을 주시옵고'"
+      ]
+    },
+    "conclusion": {
+      "title": "하나님의 공급",
+      "content": "노아는 양식을 준비했지만, 궁극적으로 1년 넘게 보존된 것은 하나님의 공급하심이었습니다. 우리의 육체적, 영적 필요를 채우시는 분도 하나님이십니다."
+    }
+  }
+}

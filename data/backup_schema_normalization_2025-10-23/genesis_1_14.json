@@ -1,0 +1,253 @@
+{
+  "id": "genesis_1_14",
+  "reference": "창세기 1:14",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים, יְהִי מְאֹרֹת בִּרְקִיעַ הַשָּׁמַיִם, לְהַבְדִּיל, בֵּין הַיּוֹם וּבֵין הַלָּיְלָה; וְהָיוּ לְאֹתֹת וּלְמוֹעֲדִים, וּלְיָמִים וְשָׁנִים.",
+  "ipa": "vajˈjomɛr ʔɛloˈhim jəˈhi məʔoˈrot birˈqiaʕ haʃaˈmajim ləhavˈdil ben hajˈjom uven halˈlajla vəhaˈju ləʔoˈtot ulmoʕaˈdim uləjaˈmim vəʃaˈnim",
+  "koreanPronunciation": "바요메르 엘로힘 예히 므오로트 비르키아 하샤마임 레하브딜 벤 하욤 우벤 할라일라 베하유 레오토트 울모아딤 울야밈 베샤님",
+  "modern": "하나님께서 말씀하시기를 '하늘의 궁창에 광명체들이 있어 낮과 밤을 나누고, 징조와 절기와 날과 해를 이루게 하라' 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><radialGradient id=\"speech_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.25\" /></radialGradient><linearGradient id=\"speech_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speech_g114b)\" opacity=\"0.35\" /><path d=\"M 16 38 Q 16 20 32 20 Q 48 20 48 32 Q 48 44 32 44 L 26 52 L 28 44 Q 16 44 16 38 Z\" fill=\"url(#speech_g114a)\" filter=\"drop-shadow(0 4px 10px rgba(102, 126, 234, 0.45))\" /><circle cx=\"24\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"40\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><path d=\"M 20 26 Q 22 24 24 26\" stroke=\"url(#speech_g114c)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"crown_g114b\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient><linearGradient id=\"crown_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><radialGradient id=\"crown_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#crown_g114d)\" opacity=\"0.3\" /><path d=\"M 12 44 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 44 Z\" fill=\"url(#crown_g114a)\" stroke=\"url(#crown_g114c)\" stroke-width=\"2\" filter=\"drop-shadow(0 6px 14px rgba(255, 140, 0, 0.55))\" /><rect x=\"12\" y=\"44\" width=\"40\" height=\"6\" rx=\"1\" fill=\"url(#crown_g114a)\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#crown_g114b)\" filter=\"drop-shadow(0 0 8px rgba(255, 20, 147, 0.95))\" /><circle cx=\"22\" cy=\"36\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"42\" cy=\"36\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"32\" cy=\"40\" r=\"2\" fill=\"#FEF3C7\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "יְהִי",
+      "meaning": "있으라, 되라",
+      "ipa": "jəˈhi",
+      "korean": "예히",
+      "letters": "יְ(ye) + הִ(hi) + י()",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yehi_g114a\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FEF3C7\" /><stop offset=\"70%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"yehi_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"50%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#FB923C\" /></linearGradient><linearGradient id=\"yehi_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FDE047\" /><stop offset=\"100%\" stop-color=\"#FACC15\" /></linearGradient><radialGradient id=\"yehi_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#yehi_g114d)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#yehi_g114a)\" filter=\"drop-shadow(0 0 14px rgba(255, 215, 0, 0.95))\" /><path d=\"M 32 8 L 34 24 L 32 24 L 30 24 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 32 56 L 34 40 L 32 40 L 30 40 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 8 32 L 24 34 L 24 32 L 24 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 56 32 L 40 34 L 40 32 L 40 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 15 15 L 26 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 49 L 38 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 15 L 38 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 15 49 L 26 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "מְאֹרֹת",
+      "meaning": "광명체들, 빛을 내는 것들",
+      "ipa": "məʔoˈrot",
+      "korean": "므오로트",
+      "letters": "מְ(me) + אֹ(o) + רֹ(ro) + ת(t)",
+      "root": "א-ו-ר (오르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"meorot_g114a\"><stop offset=\"0%\" stop-color=\"#FFFBEB\" /><stop offset=\"20%\" stop-color=\"#FFF9E6\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><radialGradient id=\"meorot_g114b\"><stop offset=\"0%\" stop-color=\"#F0F9FF\" /><stop offset=\"40%\" stop-color=\"#E0F2FE\" /><stop offset=\"100%\" stop-color=\"#7DD3FC\" /></radialGradient><linearGradient id=\"meorot_g114c\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></linearGradient><linearGradient id=\"meorot_g114d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#BFDBFE\" /><stop offset=\"100%\" stop-color=\"#60A5FA\" /></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"11\" fill=\"url(#meorot_g114a)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.85))\" /><circle cx=\"44\" cy=\"40\" r=\"9\" fill=\"url(#meorot_g114b)\" filter=\"drop-shadow(0 0 10px rgba(125, 211, 252, 0.7))\" /><circle cx=\"46\" cy=\"38\" r=\"3\" fill=\"url(#meorot_g114d)\" opacity=\"0.6\" /><path d=\"M 52 16 L 54 18 L 56 16 L 54 14 Z\" fill=\"url(#meorot_g114c)\" opacity=\"0.95\" /><path d=\"M 12 44 L 14 46 L 16 44 L 14 42 Z\" fill=\"url(#meorot_g114c)\" opacity=\"0.95\" /><path d=\"M 48 52 L 50 54 L 52 52 L 50 50 Z\" fill=\"url(#meorot_g114c)\" opacity=\"0.95\" /><circle cx=\"54\" cy=\"16\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"14\" cy=\"44\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"50\" cy=\"52\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"24\" cy=\"24\" r=\"5\" fill=\"#FFFBEB\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אוֹר (오르 - 빛)",
+        "מָאוֹר (마오르 - 빛, 광명)"
+      ]
+    },
+    {
+      "hebrew": "בִּרְקִיעַ",
+      "meaning": "궁창에",
+      "ipa": "birˈqiaʕ",
+      "korean": "비르키아",
+      "letters": "בִּ(bi) + רְ(r) + קִי(qi) + עַ(a)",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"raqia_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#0C4A6E\" /><stop offset=\"30%\" stop-color=\"#1E3A8A\" /><stop offset=\"60%\" stop-color=\"#3B82F6\" /><stop offset=\"100%\" stop-color=\"#60A5FA\" /></linearGradient><radialGradient id=\"raqia_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#E0F2FE\" stop-opacity=\"0.4\" /></radialGradient><linearGradient id=\"raqia_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"100%\" stop-color=\"#7DD3FC\" /></linearGradient><radialGradient id=\"raqia_g114d\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"url(#raqia_g114a)\" /><ellipse cx=\"20\" cy=\"20\" rx=\"9\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"26\" cy=\"22\" rx=\"7\" ry=\"5\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"44\" cy=\"44\" rx=\"11\" ry=\"7\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"50\" cy=\"46\" rx=\"8\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"10\" r=\"1.2\" fill=\"url(#raqia_g114d)\" opacity=\"0.95\" /><circle cx=\"52\" cy=\"14\" r=\"1.6\" fill=\"#FFFFFF\" opacity=\"0.95\" /><circle cx=\"18\" cy=\"52\" r=\"1.1\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"56\" cy=\"56\" r=\"1.4\" fill=\"url(#raqia_g114d)\" opacity=\"0.9\" /><path d=\"M 8 36 Q 12 32 18 32 Q 24 32 28 36\" stroke=\"url(#raqia_g114c)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "meaning": "하늘들",
+      "ipa": "haʃaˈmajim",
+      "korean": "하샤마임",
+      "letters": "הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim)",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shamayim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"30%\" stop-color=\"#93C5FD\" /><stop offset=\"70%\" stop-color=\"#60A5FA\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient><radialGradient id=\"shamayim_g114b\"><stop offset=\"0%\" stop-color=\"#FFFBEB\" stop-opacity=\"0.9\" /><stop offset=\"60%\" stop-color=\"#FEF3C7\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#FCD34D\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"shamayim_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></linearGradient><radialGradient id=\"shamayim_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#F0F9FF\" stop-opacity=\"0.3\" /></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"url(#shamayim_g114a)\" /><circle cx=\"48\" cy=\"16\" r=\"13\" fill=\"url(#shamayim_g114b)\" /><circle cx=\"48\" cy=\"16\" r=\"9\" fill=\"url(#shamayim_g114c)\" filter=\"drop-shadow(0 0 10px rgba(253, 224, 71, 0.75))\" /><ellipse cx=\"16\" cy=\"48\" rx=\"12\" ry=\"8\" fill=\"url(#shamayim_g114d)\" opacity=\"0.8\" /><ellipse cx=\"24\" cy=\"50\" rx=\"10\" ry=\"7\" fill=\"url(#shamayim_g114d)\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"52\" rx=\"14\" ry=\"9\" fill=\"url(#shamayim_g114d)\" opacity=\"0.75\" /><path d=\"M 4 38 Q 8 34 14 34 Q 20 34 24 38 Q 28 42 34 42 Q 40 42 44 38\" stroke=\"#FFFFFF\" stroke-width=\"3.5\" fill=\"none\" opacity=\"0.55\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘)",
+        "רָקִיעַ (라키아 - 궁창)"
+      ]
+    },
+    {
+      "hebrew": "לְהַבְדִּיל",
+      "meaning": "나누기 위하여, 구별하기 위하여",
+      "ipa": "ləhavˈdil",
+      "korean": "레하브딜",
+      "letters": "לְ(le) + הַ(ha) + בְ(v) + דִּיל(dil)",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"havdil_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"25%\" stop-color=\"#F59E0B\" /><stop offset=\"50%\" stop-color=\"#EF4444\" /><stop offset=\"75%\" stop-color=\"#A855F7\" /><stop offset=\"100%\" stop-color=\"#8B5CF6\" /></linearGradient><linearGradient id=\"havdil_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"50%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><linearGradient id=\"havdil_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DDD6FE\" /><stop offset=\"50%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient><radialGradient id=\"havdil_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FCA5A5\" stop-opacity=\"0.2\" /></radialGradient></defs><rect x=\"4\" y=\"4\" width=\"24\" height=\"56\" rx=\"5\" fill=\"url(#havdil_g114b)\" opacity=\"0.9\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.25))\" /><rect x=\"36\" y=\"4\" width=\"24\" height=\"56\" rx=\"5\" fill=\"url(#havdil_g114c)\" opacity=\"0.9\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.25))\" /><rect x=\"30\" y=\"2\" width=\"4\" height=\"60\" fill=\"url(#havdil_g114a)\" filter=\"drop-shadow(0 0 8px rgba(239, 68, 68, 0.65))\" /><circle cx=\"16\" cy=\"16\" r=\"3.5\" fill=\"url(#havdil_g114d)\" /><circle cx=\"48\" cy=\"48\" r=\"3.5\" fill=\"url(#havdil_g114d)\" /><circle cx=\"16\" cy=\"48\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"16\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בָּדַל (바달 - 나누다, 구별하다)",
+        "הַבְדָּלָה (하브달라 - 구별, 분리)"
+      ]
+    },
+    {
+      "hebrew": "בֵּין הַיּוֹם",
+      "meaning": "낮 사이에",
+      "ipa": "ben hajˈjom",
+      "korean": "벤 하욤",
+      "letters": "בֵּין(ben) + הַ(ha) + יּוֹם(yom)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yom_g114a\"><stop offset=\"0%\" stop-color=\"#FFFEF7\" /><stop offset=\"20%\" stop-color=\"#FFFBEB\" /><stop offset=\"40%\" stop-color=\"#FEF3C7\" /><stop offset=\"70%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient><linearGradient id=\"yom_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FDE047\" /><stop offset=\"50%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><radialGradient id=\"yom_g114c\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#FCD34D\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"yom_g114d\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#yom_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"15\" fill=\"url(#yom_g114a)\" filter=\"drop-shadow(0 0 18px rgba(252, 211, 77, 0.9))\" /><line x1=\"32\" y1=\"5\" x2=\"32\" y2=\"16\" stroke=\"url(#yom_g114b)\" stroke-width=\"3.5\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"48\" x2=\"32\" y2=\"59\" stroke=\"url(#yom_g114b)\" stroke-width=\"3.5\" stroke-linecap=\"round\" /><line x1=\"5\" y1=\"32\" x2=\"16\" y2=\"32\" stroke=\"url(#yom_g114b)\" stroke-width=\"3.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"32\" x2=\"59\" y2=\"32\" stroke=\"url(#yom_g114b)\" stroke-width=\"3.5\" stroke-linecap=\"round\" /><line x1=\"12\" y1=\"12\" x2=\"20\" y2=\"20\" stroke=\"url(#yom_g114d)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"44\" y1=\"44\" x2=\"52\" y2=\"52\" stroke=\"url(#yom_g114d)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"52\" y1=\"12\" x2=\"44\" y2=\"20\" stroke=\"url(#yom_g114d)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"20\" y1=\"44\" x2=\"12\" y2=\"52\" stroke=\"url(#yom_g114d)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날, 하루)",
+        "יוֹמָם (요맘 - 낮에)"
+      ]
+    },
+    {
+      "hebrew": "וּבֵין הַלָּיְלָה",
+      "meaning": "그리고 밤 사이에",
+      "ipa": "uven halˈlajla",
+      "korean": "우벤 할라일라",
+      "letters": "וּ(u) + בֵין(ven) + הַ(ha) + לָּיְלָה(layla)",
+      "root": "לַיְלָה (라일라)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"layla_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#0F172A\" /><stop offset=\"30%\" stop-color=\"#1E1B4B\" /><stop offset=\"60%\" stop-color=\"#312E81\" /><stop offset=\"100%\" stop-color=\"#4C1D95\" /></linearGradient><radialGradient id=\"layla_g114b\"><stop offset=\"0%\" stop-color=\"#F8FAFC\" /><stop offset=\"60%\" stop-color=\"#E2E8F0\" /><stop offset=\"100%\" stop-color=\"#94A3B8\" /></radialGradient><linearGradient id=\"layla_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#93C5FD\" /></linearGradient><radialGradient id=\"layla_g114d\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"100%\" stop-color=\"#FEF9C3\" /></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"url(#layla_g114a)\" /><path d=\"M 44 16 Q 40 20 40 26 Q 40 32 44 36 Q 38 36 34 32 Q 30 28 30 22 Q 30 16 34 12 Q 40 12 44 16 Z\" fill=\"url(#layla_g114b)\" filter=\"drop-shadow(0 0 14px rgba(248, 250, 252, 0.8))\" /><circle cx=\"14\" cy=\"14\" r=\"1.7\" fill=\"url(#layla_g114d)\" opacity=\"0.95\" /><circle cx=\"52\" cy=\"20\" r=\"1.3\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"18\" cy=\"48\" r=\"1.8\" fill=\"#FFFFFF\" opacity=\"0.95\" /><circle cx=\"48\" cy=\"52\" r=\"1.2\" fill=\"url(#layla_g114c)\" opacity=\"0.75\" /><circle cx=\"56\" cy=\"44\" r=\"1.6\" fill=\"#FFFFFF\" opacity=\"0.9\" /><circle cx=\"22\" cy=\"28\" r=\"1.1\" fill=\"url(#layla_g114d)\" opacity=\"0.8\" /><circle cx=\"10\" cy=\"36\" r=\"1.4\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"58\" cy=\"58\" r=\"1.5\" fill=\"url(#layla_g114c)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "לַיְלָה (라일라 - 밤)",
+        "לֵיל (레일 - 밤)"
+      ]
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "meaning": "그리고 있을 것이다, 될 것이다",
+      "ipa": "vəhaˈju",
+      "korean": "베하유",
+      "letters": "וְ(ve) + הָ(ha) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"vehayu_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#06B6D4\" /><stop offset=\"33%\" stop-color=\"#3B82F6\" /><stop offset=\"66%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#EC4899\" /></linearGradient><linearGradient id=\"vehayu_g114b\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"50%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient><radialGradient id=\"vehayu_g114c\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#8B5CF6\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"vehayu_g114d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#7DD3FC\" /><stop offset=\"100%\" stop-color=\"#F0ABFC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#vehayu_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.45\" /><path d=\"M 32 8 Q 50 8 56 24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 56 24 L 60 18 L 52 18 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 56 40 Q 50 56 32 56\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 32 56 L 38 60 L 38 52 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"8\" r=\"3.5\" fill=\"#06B6D4\" /><circle cx=\"56\" cy=\"32\" r=\"3.5\" fill=\"#8B5CF6\" /><circle cx=\"32\" cy=\"56\" r=\"3.5\" fill=\"#EC4899\" /><path d=\"M 12 20 Q 16 16 20 20\" stroke=\"url(#vehayu_g114d)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "לְאֹתֹת",
+      "meaning": "징조들을 위하여",
+      "ipa": "ləʔoˈtot",
+      "korean": "레오토트",
+      "letters": "לְ(le) + אֹ(o) + תֹת(tot)",
+      "root": "א-ו-ת (오트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"otot_g114a\"><stop offset=\"0%\" stop-color=\"#EEF2FF\" /><stop offset=\"40%\" stop-color=\"#E0E7FF\" /><stop offset=\"70%\" stop-color=\"#A5B4FC\" /><stop offset=\"100%\" stop-color=\"#6366F1\" /></radialGradient><linearGradient id=\"otot_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"50%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#C7D2FE\" /></linearGradient><radialGradient id=\"otot_g114c\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#DDD6FE\" stop-opacity=\"0.3\" /></radialGradient><linearGradient id=\"otot_g114d\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C7D2FE\" /><stop offset=\"100%\" stop-color=\"#A5B4FC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"23\" fill=\"url(#otot_g114a)\" filter=\"drop-shadow(0 5px 15px rgba(99, 102, 241, 0.55))\" /><path d=\"M 32 14 L 40 24 L 32 34 L 24 24 Z\" fill=\"url(#otot_g114b)\" opacity=\"0.85\" /><path d=\"M 32 30 L 40 40 L 32 50 L 24 40 Z\" fill=\"url(#otot_g114a)\" opacity=\"0.65\" /><circle cx=\"32\" cy=\"24\" r=\"2.5\" fill=\"url(#otot_g114c)\" /><circle cx=\"32\" cy=\"40\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.75\" /><path d=\"M 20 32 L 32 32 L 44 32\" stroke=\"url(#otot_g114d)\" stroke-width=\"2.5\" opacity=\"0.55\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.3\" /><path d=\"M 32 18 L 34 22 L 30 22 Z\" fill=\"#FEF3C7\" opacity=\"0.8\" /><path d=\"M 32 46 L 34 42 L 30 42 Z\" fill=\"#FEF3C7\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אוֹת (오트 - 표시, 징조)",
+        "אוֹתוֹת (오토트 - 표시들, 징조들)"
+      ]
+    },
+    {
+      "hebrew": "וּלְמוֹעֲדִים",
+      "meaning": "그리고 절기들을 위하여",
+      "ipa": "ulmoʕaˈdim",
+      "korean": "울모아딤",
+      "letters": "וּ(u) + לְ(le) + מוֹ(mo) + עֲדִים(adim)",
+      "root": "מ-ו-ע-ד (모에드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"moadim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FCE7F3\" /><stop offset=\"30%\" stop-color=\"#F472B6\" /><stop offset=\"70%\" stop-color=\"#EC4899\" /><stop offset=\"100%\" stop-color=\"#DB2777\" /></linearGradient><linearGradient id=\"moadim_g114b\"><stop offset=\"0%\" stop-color=\"#FFFBEB\" /><stop offset=\"50%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FCE7F3\" /></linearGradient><radialGradient id=\"moadim_g114c\"><stop offset=\"0%\" stop-color=\"#F472B6\" /><stop offset=\"100%\" stop-color=\"#DB2777\" /></radialGradient><linearGradient id=\"moadim_g114d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"44\" rx=\"5\" fill=\"url(#moadim_g114b)\" filter=\"drop-shadow(3px 5px 10px rgba(219, 39, 119, 0.35))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"11\" rx=\"5\" fill=\"url(#moadim_g114a)\" /><circle cx=\"18\" cy=\"8\" r=\"3.5\" fill=\"url(#moadim_g114c)\" /><circle cx=\"46\" cy=\"8\" r=\"3.5\" fill=\"url(#moadim_g114c)\" /><rect x=\"12\" y=\"28\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"#FCA5A5\" opacity=\"0.75\" /><rect x=\"24\" y=\"28\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"url(#moadim_g114d)\" opacity=\"0.75\" /><rect x=\"36\" y=\"28\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"#60A5FA\" opacity=\"0.75\" /><rect x=\"48\" y=\"28\" width=\"4\" height=\"6\" rx=\"1.5\" fill=\"#34D399\" opacity=\"0.75\" /><rect x=\"12\" y=\"38\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"#A78BFA\" opacity=\"0.75\" /><rect x=\"24\" y=\"38\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"#F472B6\" opacity=\"0.75\" /><rect x=\"36\" y=\"48\" width=\"8\" height=\"6\" rx=\"1.5\" fill=\"#FB923C\" opacity=\"0.75\" /><circle cx=\"32\" cy=\"18\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "מוֹעֵד (모에드 - 절기, 정한 때)",
+        "יָעַד (야아드 - 약속하다, 정하다)"
+      ]
+    },
+    {
+      "hebrew": "וּלְיָמִים",
+      "meaning": "그리고 날들을 위하여",
+      "ipa": "uləjaˈmim",
+      "korean": "울야밈",
+      "letters": "וּ(u) + לְ(le) + יָ(ya) + מִים(mim)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"yamim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"20%\" stop-color=\"#FCD34D\" /><stop offset=\"40%\" stop-color=\"#F59E0B\" /><stop offset=\"60%\" stop-color=\"#EF4444\" /><stop offset=\"80%\" stop-color=\"#A855F7\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient><radialGradient id=\"yamim_g114b\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"60%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E7FF\" /></radialGradient><linearGradient id=\"yamim_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#BFDBFE\" /></linearGradient><radialGradient id=\"yamim_g114d\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect x=\"4\" y=\"16\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.55\" /><rect x=\"4\" y=\"28\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.65\" /><rect x=\"4\" y=\"40\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"24\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"36\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"48\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"18\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114d)\" /><circle cx=\"46\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"12\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"28\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"52\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /></svg>"
+    },
+    {
+      "hebrew": "וְשָׁנִים",
+      "meaning": "그리고 해들을 위하여",
+      "ipa": "vəʃaˈnim",
+      "korean": "베샤님",
+      "letters": "וְ(ve) + שָׁ(sha) + נִים(nim)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shanim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#34D399\" /><stop offset=\"25%\" stop-color=\"#10B981\" /><stop offset=\"50%\" stop-color=\"#FBBF24\" /><stop offset=\"75%\" stop-color=\"#EF4444\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient><linearGradient id=\"shanim_g114b\"><stop offset=\"0%\" stop-color=\"#D1FAE5\" /><stop offset=\"100%\" stop-color=\"#10B981\" /></linearGradient><linearGradient id=\"shanim_g114c\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><linearGradient id=\"shanim_g114d\"><stop offset=\"0%\" stop-color=\"#FECACA\" /><stop offset=\"100%\" stop-color=\"#DC2626\" /></linearGradient><linearGradient id=\"shanim_g114e\"><stop offset=\"0%\" stop-color=\"#E0F2FE\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" stroke=\"url(#shanim_g114a)\" stroke-width=\"8\" fill=\"none\" opacity=\"0.35\" /><path d=\"M 32 4 A 28 28 0 0 1 60 32\" stroke=\"url(#shanim_g114b)\" stroke-width=\"8\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(16, 185, 129, 0.55))\" stroke-linecap=\"round\" /><path d=\"M 60 32 A 28 28 0 0 1 32 60\" stroke=\"url(#shanim_g114c)\" stroke-width=\"8\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(245, 158, 11, 0.55))\" stroke-linecap=\"round\" /><path d=\"M 32 60 A 28 28 0 0 1 4 32\" stroke=\"url(#shanim_g114d)\" stroke-width=\"8\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(220, 38, 38, 0.55))\" stroke-linecap=\"round\" /><path d=\"M 4 32 A 28 28 0 0 1 32 4\" stroke=\"url(#shanim_g114e)\" stroke-width=\"8\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(59, 130, 246, 0.55))\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"9\" fill=\"#FFFFFF\" opacity=\"0.25\" /><circle cx=\"32\" cy=\"4\" r=\"3\" fill=\"#86EFAC\" /><circle cx=\"60\" cy=\"32\" r=\"3\" fill=\"#FDE047\" /><circle cx=\"32\" cy=\"60\" r=\"3\" fill=\"#FCA5A5\" /><circle cx=\"4\" cy=\"32\" r=\"3\" fill=\"#93C5FD\" /></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 해, 년)",
+        "שָׁנִים (샤님 - 해들, 년들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1장 14절은 넷째 날 창조의 시작으로, 하나님께서 하늘의 광명체들(해, 달, 별)을 만드신 목적을 명확히 밝힙니다. 이 광명체들은 단순히 빛을 비추는 역할을 넘어, 시간과 절기를 정하고 하나님의 질서를 드러내는 징조로 설계되었습니다. 하나님의 창조는 무작위가 아니라 목적과 의미로 가득 차 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מְאֹרֹת (므오로트) - 광명체들의 목적",
+        "description": "'므오로트'는 '빛을 내는 것들'을 의미하며, 해와 달과 별들을 가리킵니다. 이 단어는 '오르(빛)'에서 파생되었으며, 하나님께서 창조하신 광명체들이 단순히 빛을 발산하는 것을 넘어 특별한 목적을 가지고 있음을 보여줍니다.",
+        "points": [
+          "광명체들은 하나님의 창조 질서를 드러내는 도구입니다",
+          "해와 달은 독립적인 신이 아니라 하나님이 만드신 피조물입니다",
+          "고대 근동 문화의 천체 숭배를 거부하는 성경적 진리를 담고 있습니다",
+          "빛 자체(1:3)와 광명체(1:14)의 구분을 통해 하나님의 주권을 강조합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְהַבְדִּיל (레하브딜) - 구별과 질서",
+        "description": "'하브딜'은 '나누다', '구별하다'를 의미하는 동사로, 창조 사역 전반에 걸쳐 나타나는 핵심 주제입니다. 하나님은 빛과 어둠을 나누시고(1:4), 물과 물을 나누시며(1:6), 이제 낮과 밤을 나누시는 광명체들을 만드셨습니다.",
+        "points": [
+          "구별은 하나님의 창조 방식이며, 혼돈에서 질서를 만드는 과정입니다",
+          "낮과 밤의 구분은 인간의 생활 리듬과 일과 휴식을 가능하게 합니다",
+          "거룩함의 개념도 '구별됨'에서 시작됩니다",
+          "하나님은 혼란이 아닌 질서의 하나님이십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְאֹתֹת וּלְמוֹעֲדִים (레오토트 울모아딤) - 징조와 절기",
+        "description": "광명체들은 단순히 시간을 표시하는 것을 넘어 '오토트(징조들)'와 '모아딤(절기들)'을 위해 만들어졌습니다. 이는 하나님께서 천체를 통해 인류에게 의미 있는 메시지를 전달하시며, 예배와 축제의 시간을 정하셨음을 의미합니다.",
+        "points": [
+          "징조(오토트)는 하나님의 뜻과 계획을 드러내는 표시입니다",
+          "절기(모아딤)는 하나님과 만나는 정한 때, 거룩한 집회를 가리킵니다",
+          "유월절, 오순절, 초막절 등 이스라엘의 절기는 달의 주기를 따릅니다",
+          "창조 질서 안에 예배와 기념의 시간이 내장되어 있습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וּלְיָמִים וְשָׁנִים (울야밈 베샤님) - 날과 해, 시간의 선물",
+        "description": "'야밈(날들)'과 '샤님(해들)'은 인간이 시간을 인식하고 계획하며 역사를 기록할 수 있도록 하나님께서 주신 선물입니다. 광명체들은 자연스러운 달력 시스템을 제공하여 농경, 항해, 예배 시간 계산을 가능하게 합니다.",
+        "points": [
+          "해의 운행으로 년과 계절이 정해지고, 달의 운행으로 월과 날이 정해집니다",
+          "시간은 하나님의 창조물이며, 영원하신 하나님께서 인간에게 주신 유한함의 틀입니다",
+          "시간의 흐름은 하나님의 구원 역사가 펼쳐지는 무대입니다",
+          "창조 질서는 인간이 시간을 지혜롭게 사용하도록 설계되었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 해와 달과 별들을 만드셨을까요?",
+      "answer": "하나님은 우리가 시간을 알고, 언제 일하고 언제 쉬어야 하는지 알 수 있도록 해와 달과 별들을 만드셨어요. 해가 떠오르면 아침이고 활동할 시간이라는 것을 알 수 있고, 달이 뜨면 밤이라 쉬어야 한다는 것을 알 수 있죠. 또 하나님은 특별한 날들, 예를 들어 추수감사절이나 크리스마스 같은 절기를 지킬 수 있도록 달력을 만들어주셨어요. 이렇게 하나님은 우리가 질서 있게 살고, 정한 때에 하나님을 예배할 수 있도록 하늘에 큰 시계를 달아주신 거예요!",
+      "bibleReferences": [
+        "시편 104:19 - '여호와께서 달로 절기를 정하심이여 해는 그 지는 때를 앎이로다'",
+        "시편 136:7-9 - '큰 광명체들을 지으신 이에게 감사하라... 해로 낮을 주관하게 하신 이에게 감사하라... 달과 별들로 밤을 주관하게 하신 이에게 감사하라'",
+        "예레미야 31:35 - '해를 낮의 빛으로 주시며 달과 별들을 밤의 빛으로 정하신 여호와'",
+        "누가복음 21:25 - '해와 달과 별들에는 징조가 있겠고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "광명체들의 창조는 하나님의 주권과 질서를 보여줍니다. 고대 세계에서 해와 달을 신으로 숭배했던 문화와 달리, 성경은 이들을 하나님이 만드신 피조물이자 도구로 선포합니다. 천체는 하나님의 영광을 드러내는 '징조'이며, 인류가 하나님을 예배하는 '절기'를 지키도록 설계되었습니다. 이는 모든 피조물이 창조주를 향하도록 만들어졌다는 진리를 보여주며, 예수 그리스도를 '세상의 빛'(요한복음 8:12)으로 가리키는 예표가 됩니다."
+    }
+  }
+}

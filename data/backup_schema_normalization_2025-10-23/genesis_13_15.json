@@ -1,0 +1,162 @@
+{
+  "id": "genesis_13_15",
+  "reference": "창세기 13:15",
+  "hebrew": "",
+  "ipa": "ki ʔɛt kol haˈʔarɛts ʔaˈʃɛr ʔatˈta roˈɛ ləˈχa ʔɛtəˈnɛnna ulzarʔaˈχa ʕad ʕoˈlam",
+  "koreanPronunciation": "키 에트 콜 하아레츠 아쉐르 아타 로에 레카 에테넨나 울자르아카 아드 올람",
+  "modern": "네가 보고 있는 이 모든 땅을 내가 너와 네 후손에게 영원히 주겠다",
+  "words": [
+    {
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면, ~이기 때문에",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּ(ki) + י(i)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-reason\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"promise-land1-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#promise-land1-reason)\" opacity=\"0.2\" /><path d=\"M 20 32 Q 32 20 44 32\" stroke=\"url(#promise-land1-reason)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"32\" r=\"4\" fill=\"url(#promise-land1-glow)\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.8))\" /><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"url(#promise-land1-glow)\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.8))\" /><path d=\"M 26 40 L 32 46 L 38 40\" stroke=\"#667eea\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אִם (임 - 만약)",
+        "לָכֵן (라켄 - 그러므로)"
+      ]
+    },
+    {
+      "hebrew": "אֶת כָּל הָאָרֶץ",
+      "meaning": "모든 땅을",
+      "ipa": "ʔɛt kol haˈʔarɛts",
+      "korean": "에트 콜 하아레츠",
+      "letters": "אֶת(et) + כָּל(kol) + הָ(ha) + אָרֶץ(aretz)",
+      "root": "כֹּל (콜) + אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-earth\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#CDDC39\" /></linearGradient><radialGradient id=\"promise-land1-sky\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#promise-land1-sky)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"40\" rx=\"24\" ry=\"10\" fill=\"url(#promise-land1-earth)\" opacity=\"0.9\" /><path d=\"M 8 35 Q 16 30 24 35 Q 32 40 40 35 Q 48 30 56 35\" fill=\"url(#promise-land1-earth)\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#FFD700\" opacity=\"0.8\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "אֲדָמָה (아다마 - 흙, 토지)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר אַתָּה רֹאֶה",
+      "meaning": "네가 보는",
+      "ipa": "ʔaˈʃɛr ʔatˈta roˈɛ",
+      "korean": "아쉐르 아타 로에",
+      "letters": "אֲ(a) + שֶׁר(sher) + אַ(a) + תָּה(ta) + רֹ(ro) + אֶה(eh)",
+      "root": "אֲשֶׁר (아쉐르) + ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-eye\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#2980b9\" /><stop offset=\"100%\" stop-color=\"#1a5490\" /></linearGradient><radialGradient id=\"promise-land1-pupil\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"#FFFFFF\" stroke=\"url(#promise-land1-eye)\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"14\" fill=\"url(#promise-land1-eye)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#promise-land1-pupil)\" filter=\"drop-shadow(0 0 4px rgba(0, 0, 0, 0.5))\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "חָזָה (하자 - 환상을 보다)"
+      ]
+    },
+    {
+      "hebrew": "לְךָ אֶתְּנֶנָּה",
+      "meaning": "너에게 주겠다",
+      "ipa": "ləˈχa ʔɛtəˈnɛnna",
+      "korean": "레카 에테넨나",
+      "letters": "לְ(le) + ךָ(kha) + אֶ(e) + תְּ(te) + נֶנָּה(nenna)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-gift\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"promise-land1-ribbon\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"14\" y=\"22\" width=\"36\" height=\"28\" rx=\"3\" fill=\"url(#promise-land1-gift)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"22\" width=\"8\" height=\"28\" fill=\"url(#promise-land1-ribbon)\" /><rect x=\"14\" y=\"32\" width=\"36\" height=\"8\" fill=\"url(#promise-land1-ribbon)\" /><path d=\"M 32 22 Q 26 16 28 12 Q 30 8 32 10 Q 34 8 36 12 Q 38 16 32 22\" fill=\"url(#promise-land1-ribbon)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"36\" r=\"4\" fill=\"#FFD700\" opacity=\"0.5\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    },
+    {
+      "hebrew": "וּלְזַרְעֲךָ",
+      "meaning": "그리고 네 후손에게",
+      "ipa": "ulzarʔaˈχa",
+      "korean": "울자르아카",
+      "letters": "וּ(u) + לְ(le) + זַ(za) + רְ(re) + עֲ(a) + ךָ(kha)",
+      "root": "זֶרַע (제라)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed-descendants1-family\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9b59b6\" /><stop offset=\"50%\" stop-color=\"#8e44ad\" /><stop offset=\"100%\" stop-color=\"#6c3483\" /></linearGradient><radialGradient id=\"seed-descendants1-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9b59b6\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"url(#seed-descendants1-family)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"20\" width=\"12\" height=\"14\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"18\" cy=\"26\" r=\"5\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"14\" y=\"29\" width=\"8\" height=\"11\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"46\" cy=\"26\" r=\"5\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"42\" y=\"29\" width=\"8\" height=\"11\" rx=\"2\" fill=\"url(#seed-descendants1-family)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"22\" cy=\"44\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"46\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"44\" r=\"4\" fill=\"url(#seed-descendants1-glow)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨, 후손)",
+        "בֵּן (벤 - 아들, 자손)"
+      ]
+    },
+    {
+      "hebrew": "עַד עוֹלָם",
+      "meaning": "영원히",
+      "ipa": "ʕad ʕoˈlam",
+      "korean": "아드 올람",
+      "letters": "עַד(ad) + עוֹ(o) + לָם(lam)",
+      "root": "עוֹלָם (올람)",
+      "grammar": "명사",
+      "emoji": "♾️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"promise-land1-forever\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1e3c72\" /><stop offset=\"50%\" stop-color=\"#2a5298\" /><stop offset=\"100%\" stop-color=\"#1e3c72\" /></linearGradient><radialGradient id=\"promise-land1-star\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><path d=\"M 10 32 Q 20 20 32 32 Q 44 44 54 32 Q 44 20 32 32 Q 20 44 10 32 Z\" fill=\"none\" stroke=\"url(#promise-land1-forever)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#promise-land1-star)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"10\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"54\" cy=\"32\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"22\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"22\" cy=\"50\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"50\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עוֹלָם (올람 - 영원, 세계)",
+        "נֶצַח (네차흐 - 영원, 승리)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 아브람에게 약속하신 첫 번째 언약입니다. 롯과 헤어진 직후, 하나님은 아브람이 보는 모든 땅을 그와 그의 후손에게 영원히 주시겠다고 약속하십니다. 이는 단순한 토지 약속이 아니라, 하나님의 영원한 계획과 신실하심을 보여주는 언약입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֶת כָּל הָאָרֶץ (에트 콜 하아레츠) - 모든 땅의 약속",
+        "description": "'콜(모든)'이라는 단어는 제한이 없는 완전한 소유를 의미합니다. 하나님은 아브람이 눈으로 볼 수 있는 동서남북 모든 방향의 땅을 약속하십니다. 이는 가나안 땅 전체를 의미하며, 후에 이스라엘 민족의 약속의 땅이 됩니다.",
+        "points": [
+          "하나님의 약속은 부분적이 아니라 완전합니다",
+          "눈에 보이는 모든 것이 약속의 대상입니다",
+          "물리적 땅은 영적 유업의 상징입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְךָ אֶתְּנֶנָּה (레카 에테넨나) - 너에게 주겠다",
+        "description": "하나님은 '나탄(주다)'이라는 동사를 사용하여 이것이 선물임을 강조합니다. 아브람이 전쟁으로 얻거나 구매하는 것이 아니라, 하나님께서 은혜로 주시는 것입니다. 미래형 동사는 약속의 확실성을 나타냅니다.",
+        "points": [
+          "하나님의 약속은 일방적인 은혜입니다",
+          "인간의 노력이나 공로가 아닌 하나님의 선물입니다",
+          "미래형은 반드시 이루어질 확실한 약속입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וּלְזַרְעֲךָ (울자르아카) - 네 후손에게",
+        "description": "'제라(씨, 후손)'는 단순히 생물학적 자손만이 아니라, 믿음의 후손을 포함합니다. 이 약속은 이삭, 야곱, 그리고 궁극적으로 그리스도를 통한 모든 믿는 자들에게까지 확장됩니다.",
+        "points": [
+          "약속은 한 세대로 끝나지 않고 계속됩니다",
+          "후손은 육체적 자손과 영적 자손을 모두 포함합니다",
+          "그리스도를 통해 모든 믿는 자가 아브라함의 자손입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "עַד עוֹלָם (아드 올람) - 영원히",
+        "description": "'올람(영원)'은 시간의 끝이 없는 영속성을 의미합니다. 하나님의 약속은 일시적이거나 조건부가 아니라, 영원토록 지속되는 언약입니다. 이는 하나님의 변치 않는 신실하심을 보여줍니다.",
+        "points": [
+          "하나님의 약속에는 만료일이 없습니다",
+          "영원한 약속은 하나님의 신실하심의 표현입니다",
+          "이 약속은 새 하늘과 새 땅에서 완성될 것입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 '영원히' 땅을 주신다고 하셨을까요?",
+      "answer": "하나님은 아브람과 그 자손들이 언제까지나 하나님의 사랑을 받는 특별한 가족이라는 것을 보여주고 싶으셨어요. 마치 부모님이 아이에게 '영원히 사랑해'라고 말씀하시는 것처럼, 하나님도 아브람에게 '내가 너희를 영원히 돌보고 축복할게'라고 약속하신 거예요. 그리고 예수님을 믿는 우리도 아브람의 자손이 되어서 이 영원한 약속을 함께 받게 되었답니다!",
+      "bibleReferences": [
+        "갈라디아서 3:29 - '너희가 그리스도의 것이면 곧 아브라함의 자손이요 약속대로 유업을 이을 자니라'",
+        "로마서 4:13 - '아브라함이나 그 후손에게 세상의 상속자가 되리라고 하신 언약은 율법으로 말미암은 것이 아니요 오직 믿음의 의로 말미암은 것이니라'",
+        "히브리서 11:16 - '그들이 더 나은 본향을 사모하니 곧 하늘에 있는 것이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님의 땅 약속은 단순한 부동산 약속이 아니라, 하나님의 백성과 함께 거하시려는 영원한 계획의 시작입니다. 이 약속은 궁극적으로 새 예루살렘, 곧 하나님이 사람과 함께 거하시는 새 하늘과 새 땅에서 완성됩니다. 우리는 그리스도 안에서 이 영원한 유업의 상속자가 되었습니다."
+    }
+  }
+}

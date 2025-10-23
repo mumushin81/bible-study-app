@@ -1,0 +1,163 @@
+{
+  "id": "genesis_2_25",
+  "reference": "창세기 2:25",
+  "hebrew": "וַיִּהְיוּ שְׁנֵיהֶם עֲרוּמִּים, הָאָדָם וְאִשְׁתּוֹ; וְלֹא, יִתְבֹּשָׁשׁוּ.",
+  "ipa": "vajihˈju ʃəneˈhɛm ʕaruˈmim haʔaˈdam vəʔishˈto vəlo jitboʃaˈʃu",
+  "koreanPronunciation": "바이흐유 쉐네헴 아루밈 하아담 베이쉬토 베로 이트보샤슈",
+  "modern": "남자와 그의 아내 둘 다 벗었으나 부끄러워하지 않았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּהְיוּ",
+      "meaning": "그들이 되었다",
+      "ipa": "vajihˈju",
+      "korean": "바이흐유",
+      "letters": "וַ(va) + יִּ(yi) + הְ(h) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"trans1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4169E1\" />\n      <stop offset=\"50%\" stop-color=\"#6495ED\" />\n      <stop offset=\"100%\" stop-color=\"#87CEEB\" />\n    </linearGradient>\n    <radialGradient id=\"glow25a\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#4169E1\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(65, 105, 225, 0.2)\" />\n  <path d=\"M 20 32 A 12 12 0 1 1 20 31.9\" stroke=\"url(#trans1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 6px rgba(65, 105, 225, 0.5))\" />\n  <path d=\"M 44 32 A 12 12 0 1 0 44 32.1\" stroke=\"url(#trans1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 6px rgba(65, 105, 225, 0.5))\" />\n  <polygon points=\"16,28 12,32 16,36\" fill=\"url(#trans1)\" />\n  <polygon points=\"48,28 52,32 48,36\" fill=\"url(#trans1)\" />\n  <circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#glow25a)\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.8))\" />\n</svg>"
+    },
+    {
+      "hebrew": "שְׁנֵיהֶם",
+      "meaning": "그들 둘 다",
+      "ipa": "ʃəneˈhɛm",
+      "korean": "쉐네헴",
+      "letters": "שְׁ(she) + נֵ(ne) + י(y) + הֶם(hem)",
+      "root": "שְׁנַיִם (쉐나임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"couple1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"100%\" stop-color=\"#FF1493\" />\n    </linearGradient>\n    <linearGradient id=\"couple2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4169E1\" />\n      <stop offset=\"100%\" stop-color=\"#1E90FF\" />\n    </linearGradient>\n    <radialGradient id=\"unity1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"54\" rx=\"24\" ry=\"4\" fill=\"rgba(0, 0, 0, 0.2)\" />\n  <circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"url(#couple2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"24\" cy=\"42\" rx=\"10\" ry=\"14\" fill=\"url(#couple2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"40\" cy=\"24\" r=\"10\" fill=\"url(#couple1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"40\" cy=\"42\" rx=\"10\" ry=\"14\" fill=\"url(#couple1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#unity1)\" opacity=\"0.3\" />\n  <path d=\"M 18 34 L 30 34\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <path d=\"M 34 34 L 46 34\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" />\n</svg>",
+      "relatedWords": [
+        "שְׁנַיִם (쉐나임 - 둘)",
+        "אֶחָד (에하드 - 하나)"
+      ]
+    },
+    {
+      "hebrew": "עֲרוּמִּים",
+      "meaning": "벗은, 나체의",
+      "ipa": "ʕaruˈmim",
+      "korean": "아루밈",
+      "letters": "עֲ(a) + רוּ(ru) + מִּ(mi) + ים(m)",
+      "root": "ע-ר-ם (아람)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"inno1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"50%\" stop-color=\"#F0F8FF\" />\n      <stop offset=\"100%\" stop-color=\"#E6F3FF\" />\n    </linearGradient>\n    <linearGradient id=\"leaf1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#90EE90\" />\n      <stop offset=\"50%\" stop-color=\"#32CD32\" />\n      <stop offset=\"100%\" stop-color=\"#228B22\" />\n    </linearGradient>\n    <radialGradient id=\"pure1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"#ADD8E6\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#inno1)\" filter=\"drop-shadow(0 0 12px rgba(173, 216, 230, 0.5))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#pure1)\" opacity=\"0.6\" />\n  <path d=\"M 28 20 Q 24 24 24 30 Q 24 36 28 40 Q 32 44 32 40 Q 32 36 32 30 Q 32 24 28 20 Z\" fill=\"url(#leaf1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(34, 139, 34, 0.3))\" />\n  <path d=\"M 36 20 Q 40 24 40 30 Q 40 36 36 40 Q 32 44 32 40 Q 32 36 32 30 Q 32 24 36 20 Z\" fill=\"url(#leaf1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(34, 139, 34, 0.3))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.9\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.9))\" />\n  <path d=\"M 20 16 L 22 12 L 24 16\" stroke=\"#90EE90\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" />\n  <path d=\"M 40 16 L 42 12 L 44 16\" stroke=\"#90EE90\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" />\n</svg>",
+      "relatedWords": [
+        "עָרוֹם (아롬 - 벗은)",
+        "עֵירֹם (에이롬 - 나체)"
+      ]
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "meaning": "남자, 사람",
+      "ipa": "haʔaˈdam",
+      "korean": "하아담",
+      "letters": "הָ(ha) + אָ(a) + דָ(da) + ם(m)",
+      "root": "א-ד-ם (아담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"man1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#87CEEB\" />\n      <stop offset=\"50%\" stop-color=\"#4682B4\" />\n      <stop offset=\"100%\" stop-color=\"#1E90FF\" />\n    </linearGradient>\n    <radialGradient id=\"manface1\">\n      <stop offset=\"0%\" stop-color=\"#FFE4B5\" />\n      <stop offset=\"100%\" stop-color=\"#F4A460\" />\n    </radialGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"54\" rx=\"16\" ry=\"3\" fill=\"rgba(0, 0, 0, 0.2)\" />\n  <circle cx=\"32\" cy=\"22\" r=\"12\" fill=\"url(#manface1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"18\" fill=\"url(#man1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"28\" cy=\"20\" r=\"2.5\" fill=\"#4682B4\" />\n  <circle cx=\"36\" cy=\"20\" r=\"2.5\" fill=\"#4682B4\" />\n  <path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#D2691E\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" />\n  <rect x=\"26\" y=\"36\" width=\"12\" height=\"3\" rx=\"1.5\" fill=\"#FFD700\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"#87CEEB\" stroke-width=\"2\" opacity=\"0.3\" stroke-dasharray=\"4,4\" />\n</svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅)",
+        "אָדֹם (아돔 - 붉은)"
+      ]
+    },
+    {
+      "hebrew": "וְאִשְׁתּוֹ",
+      "meaning": "그의 아내",
+      "ipa": "vəʔishˈto",
+      "korean": "베이쉬토",
+      "letters": "וְ(ve) + אִ(i) + שְׁ(sh) + תּוֹ(to)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"woman1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFB6C1\" />\n      <stop offset=\"50%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"100%\" stop-color=\"#FF1493\" />\n    </linearGradient>\n    <radialGradient id=\"womanface1\">\n      <stop offset=\"0%\" stop-color=\"#FFDAB9\" />\n      <stop offset=\"100%\" stop-color=\"#FFE4B5\" />\n    </radialGradient>\n    <linearGradient id=\"heart2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF1493\" />\n      <stop offset=\"100%\" stop-color=\"#C71585\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"54\" rx=\"16\" ry=\"3\" fill=\"rgba(0, 0, 0, 0.2)\" />\n  <circle cx=\"32\" cy=\"22\" r=\"12\" fill=\"url(#womanface1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"18\" fill=\"url(#woman1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" />\n  <circle cx=\"28\" cy=\"20\" r=\"2.5\" fill=\"#FF1493\" />\n  <circle cx=\"36\" cy=\"20\" r=\"2.5\" fill=\"#FF1493\" />\n  <path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" />\n  <path d=\"M 32 10 Q 28 14 26 18 L 28 16\" stroke=\"#8B4513\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" />\n  <path d=\"M 32 10 Q 36 14 38 18 L 36 16\" stroke=\"#8B4513\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" />\n  <path d=\"M 26 36 Q 28 34 32 34 Q 36 34 38 36 Q 36 38 32 38 Q 28 38 26 36 Z\" fill=\"url(#heart2)\" opacity=\"0.6\" />\n</svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자)",
+        "אִשָּׁה (이샤 - 여자, 아내)"
+      ]
+    },
+    {
+      "hebrew": "וְלֹא",
+      "meaning": "그리고 ~않았다",
+      "ipa": "vəlo",
+      "korean": "베로",
+      "letters": "וְ(ve) + לֹא(lo)",
+      "root": "לֹא (로)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"no1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF6B6B\" />\n      <stop offset=\"50%\" stop-color=\"#EE5A6F\" />\n      <stop offset=\"100%\" stop-color=\"#C44569\" />\n    </linearGradient>\n    <radialGradient id=\"nobg1\">\n      <stop offset=\"0%\" stop-color=\"rgba(255, 107, 107, 0.3)\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 107, 107, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#nobg1)\" />\n  <circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#no1)\" stroke-width=\"6\" filter=\"drop-shadow(0 2px 6px rgba(196, 69, 105, 0.5))\" />\n  <line x1=\"18\" y1=\"18\" x2=\"46\" y2=\"46\" stroke=\"url(#no1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 6px rgba(196, 69, 105, 0.5))\" />\n  <circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.3\" />\n</svg>"
+    },
+    {
+      "hebrew": "יִתְבֹּשָׁשׁוּ",
+      "meaning": "부끄러워하다",
+      "ipa": "jitboʃaˈʃu",
+      "korean": "이트보샤슈",
+      "letters": "יִ(yi) + תְ(t) + בֹּ(bo) + שָׁ(sha) + שׁוּ(shu)",
+      "root": "ב-ו-שׁ (부쉬)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"shame1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFA07A\" />\n      <stop offset=\"50%\" stop-color=\"#FF6347\" />\n      <stop offset=\"100%\" stop-color=\"#FF4500\" />\n    </linearGradient>\n    <radialGradient id=\"blush1\">\n      <stop offset=\"0%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 105, 180, 0)\" />\n    </radialGradient>\n    <linearGradient id=\"face2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFDAB9\" />\n      <stop offset=\"100%\" stop-color=\"#FFE4B5\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#face2)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"22\" cy=\"28\" rx=\"6\" ry=\"4\" fill=\"url(#blush1)\" opacity=\"0.6\" />\n  <ellipse cx=\"42\" cy=\"28\" rx=\"6\" ry=\"4\" fill=\"url(#blush1)\" opacity=\"0.6\" />\n  <circle cx=\"26\" cy=\"26\" r=\"3\" fill=\"#8B4513\" />\n  <circle cx=\"38\" cy=\"26\" r=\"3\" fill=\"#8B4513\" />\n  <ellipse cx=\"27\" cy=\"25\" rx=\"1.5\" ry=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" />\n  <ellipse cx=\"39\" cy=\"25\" rx=\"1.5\" ry=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" />\n  <path d=\"M 26 36 Q 32 40 38 36\" stroke=\"url(#shame1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 1px 2px rgba(255, 69, 0, 0.4))\" />\n  <path d=\"M 20 20 L 16 16\" stroke=\"#FFB6C1\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <path d=\"M 44 20 L 48 16\" stroke=\"#FFB6C1\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <path d=\"M 18 28 L 14 28\" stroke=\"#FFB6C1\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.6\" />\n  <path d=\"M 46 28 L 50 28\" stroke=\"#FFB6C1\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.6\" />\n</svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 25절은 타락 이전의 순수한 인간 상태를 보여주는 아름다운 구절입니다. 남자와 여자가 벗었으나 부끄러워하지 않았다는 표현은 단순히 육체적 나체를 넘어서, 죄가 없는 완전한 투명성과 순수함을 의미합니다. 이는 하나님과의 관계, 그리고 서로 간의 관계가 완벽했던 에덴의 순결함을 상징합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "עֲרוּמִּים (아루밈) - 순결한 벗음",
+        "description": "히브리어 '아루밈'은 '벗은'을 의미하지만, 여기서는 죄의식이나 수치심이 전혀 없는 순수한 상태를 나타냅니다. 흥미롭게도 창세기 3:1에서 뱀을 묘사할 때 사용되는 '아룸'(영리한, 교활한)과 발음이 비슷하여, 저자는 언어유희를 통해 타락 전후의 극명한 대조를 보여줍니다.",
+        "points": [
+          "물리적 벗음은 영적 순결함과 투명성을 상징합니다",
+          "아담과 하와는 서로에게 완전히 열려있고 숨길 것이 없었습니다",
+          "타락 후 그들이 옷을 만들어 입은 것(3:7)과 극명하게 대조됩니다",
+          "진정한 친밀감은 두려움이나 방어 없이 자신을 온전히 드러낼 수 있을 때 가능합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁנֵיהֶם (쉐네헴) - 둘의 완전한 하나됨",
+        "description": "'그들 둘 다'라는 표현은 남자와 여자가 동등하게 이 순결한 상태를 공유했음을 강조합니다. 2:24에서 '한 몸'이 된다고 선언한 직후에 나오는 이 구절은, 진정한 하나됨이란 완전한 개방성과 신뢰 속에서만 가능함을 보여줍니다.",
+        "points": [
+          "남자와 여자 모두 동일하게 순결하고 부끄러움이 없었습니다",
+          "진정한 결혼의 일치는 육체적 결합뿐 아니라 영적·정서적 투명성을 포함합니다",
+          "둘 다 하나님 앞에서 그리고 서로 앞에서 아무것도 숨길 필요가 없었습니다",
+          "이것이 하나님이 디자인하신 결혼의 원형입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לֹא יִתְבֹּשָׁשׁוּ (로 이트보샤슈) - 수치심의 부재",
+        "description": "히브리어 '부쉬'는 '부끄러워하다, 수치를 느끼다'를 의미하는 동사입니다. 부정 '로'(~않았다)와 함께 사용되어, 그들이 수치심을 전혀 느끼지 않았음을 강조합니다. 이는 죄가 없는 상태를 가장 명확하게 보여주는 표현입니다.",
+        "points": [
+          "수치심은 죄의식에서 비롯되며, 타락 이전에는 존재하지 않았습니다",
+          "완전한 순결 속에서는 자기 노출에 대한 두려움이 없습니다",
+          "타락 후 첫 번째 감정이 수치심이었다는 것(3:7)과 극명한 대조를 이룹니다",
+          "그리스도 안에서의 구원은 이 잃어버린 순결함을 회복시킵니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "타락 전 에덴의 완전함",
+        "description": "이 구절은 창세기 2장의 결론이자 창세기 3장 타락 서사의 서막입니다. 완벽한 순결과 친밀함의 상태는 곧 무너지게 되지만, 이것이 하나님의 원래 디자인이었음을 보여줌으로써, 구원이 무엇을 회복해야 하는지를 명확히 합니다.",
+        "points": [
+          "에덴동산은 완전한 순결, 신뢰, 투명성의 장소였습니다",
+          "하나님-인간, 남자-여자의 모든 관계가 완벽한 조화를 이루었습니다",
+          "이 상태는 타락으로 인해 파괴되었지만, 구원을 통해 회복될 것입니다",
+          "요한계시록의 새 예루살렘에서 이 순결함이 완전히 회복됩니다(21:27)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담과 하와는 벗었는데도 부끄럽지 않았을까요?",
+      "answer": "아담과 하와는 나쁜 것을 전혀 몰랐고, 마음이 정말 깨끗했기 때문이에요. 마치 어린 아기들이 부끄러움을 모르는 것처럼요! 그들은 서로를 정말 사랑하고 신뢰했고, 숨길 것이 하나도 없었어요. 하나님 앞에서도, 서로 앞에서도 완전히 솔직하고 편안했답니다. 하지만 나중에 하나님께 불순종하고 나서는 갑자기 부끄러워서 나뭇잎으로 옷을 만들어 입었어요. 죄가 들어오면서 부끄러움도 함께 들어온 거예요.",
+      "bibleReferences": [
+        "창세기 3:7 - '이에 그들의 눈이 밝아져 자기들이 벗은 줄을 알고 무화과나무 잎을 엮어 치마로 삼았더라'",
+        "창세기 3:10 - '내가 동산에서 하나님의 소리를 듣고 내가 벗었으므로 두려워하여 숨었나이다'",
+        "요한일서 4:18 - '사랑 안에 두려움이 없고 온전한 사랑이 두려움을 내쫓나니'",
+        "요한계시록 21:27 - '무엇이든지 속된 것이나 가증한 일 또는 거짓말하는 자는 결코 그리로 들어가지 못하되'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 2:25는 하나님이 의도하신 인간 관계의 완벽한 청사진을 보여줍니다. 완전한 투명성, 순결함, 그리고 수치심 없는 친밀함이 바로 에덴의 특징이었습니다. 타락으로 인해 우리는 이 순결함을 잃었지만, 그리스도의 구속 사역을 통해 이것이 회복됩니다. '너희 중에 누구든지 그리스도와 합하기 위하여 세례를 받은 자는 그리스도로 옷 입었느니라'(갈라디아서 3:27). 새 하늘과 새 땅에서 우리는 다시 한번 완전한 순결 속에서 하나님과 서로 앞에 설 것입니다."
+    }
+  }
+}

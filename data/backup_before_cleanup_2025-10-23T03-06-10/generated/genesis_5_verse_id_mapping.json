@@ -1,0 +1,206 @@
+{
+  "generated_at": "2025-10-21T13:31:59.524Z",
+  "chapter": "Genesis 5",
+  "total_verses": 32,
+  "existing_in_db": 3,
+  "missing_from_db": 29,
+  "id_pattern": "genesis_5_N",
+  "reference_pattern": "창세기 5:N",
+  "mapping": {
+    "1": {
+      "verse_number": 1,
+      "verse_id": "genesis_5_1",
+      "reference": "창세기 5:1",
+      "exists_in_db": false
+    },
+    "2": {
+      "verse_number": 2,
+      "verse_id": "genesis_5_2",
+      "reference": "창세기 5:2",
+      "exists_in_db": false
+    },
+    "3": {
+      "verse_number": 3,
+      "verse_id": "genesis_5_3",
+      "reference": "창세기 5:3",
+      "exists_in_db": false
+    },
+    "4": {
+      "verse_number": 4,
+      "verse_id": "genesis_5_4",
+      "reference": "창세기 5:4",
+      "exists_in_db": false
+    },
+    "5": {
+      "verse_number": 5,
+      "verse_id": "genesis_5_5",
+      "reference": "창세기 5:5",
+      "exists_in_db": false
+    },
+    "6": {
+      "verse_number": 6,
+      "verse_id": "genesis_5_6",
+      "reference": "창세기 5:6",
+      "exists_in_db": false
+    },
+    "7": {
+      "verse_number": 7,
+      "verse_id": "genesis_5_7",
+      "reference": "창세기 5:7",
+      "exists_in_db": false
+    },
+    "8": {
+      "verse_number": 8,
+      "verse_id": "genesis_5_8",
+      "reference": "창세기 5:8",
+      "exists_in_db": false
+    },
+    "9": {
+      "verse_number": 9,
+      "verse_id": "genesis_5_9",
+      "reference": "창세기 5:9",
+      "exists_in_db": false
+    },
+    "10": {
+      "verse_number": 10,
+      "verse_id": "genesis_5_10",
+      "reference": "창세기 5:10",
+      "exists_in_db": false
+    },
+    "11": {
+      "verse_number": 11,
+      "verse_id": "genesis_5_11",
+      "reference": "창세기 5:11",
+      "exists_in_db": false
+    },
+    "12": {
+      "verse_number": 12,
+      "verse_id": "genesis_5_12",
+      "reference": "창세기 5:12",
+      "exists_in_db": false
+    },
+    "13": {
+      "verse_number": 13,
+      "verse_id": "genesis_5_13",
+      "reference": "창세기 5:13",
+      "exists_in_db": false
+    },
+    "14": {
+      "verse_number": 14,
+      "verse_id": "genesis_5_14",
+      "reference": "창세기 5:14",
+      "exists_in_db": false
+    },
+    "15": {
+      "verse_number": 15,
+      "verse_id": "genesis_5_15",
+      "reference": "창세기 5:15",
+      "exists_in_db": false
+    },
+    "16": {
+      "verse_number": 16,
+      "verse_id": "genesis_5_16",
+      "reference": "창세기 5:16",
+      "exists_in_db": false
+    },
+    "17": {
+      "verse_number": 17,
+      "verse_id": "genesis_5_17",
+      "reference": "창세기 5:17",
+      "exists_in_db": false
+    },
+    "18": {
+      "verse_number": 18,
+      "verse_id": "genesis_5_18",
+      "reference": "창세기 5:18",
+      "exists_in_db": false
+    },
+    "19": {
+      "verse_number": 19,
+      "verse_id": "genesis_5_19",
+      "reference": "창세기 5:19",
+      "exists_in_db": false
+    },
+    "20": {
+      "verse_number": 20,
+      "verse_id": "genesis_5_20",
+      "reference": "창세기 5:20",
+      "exists_in_db": false
+    },
+    "21": {
+      "verse_number": 21,
+      "verse_id": "genesis_5_21",
+      "reference": "창세기 5:21",
+      "exists_in_db": false
+    },
+    "22": {
+      "verse_number": 22,
+      "verse_id": "genesis_5_22",
+      "reference": "창세기 5:22",
+      "exists_in_db": true,
+      "existing_id": "genesis_5_22"
+    },
+    "23": {
+      "verse_number": 23,
+      "verse_id": "genesis_5_23",
+      "reference": "창세기 5:23",
+      "exists_in_db": true,
+      "existing_id": "genesis_5_23"
+    },
+    "24": {
+      "verse_number": 24,
+      "verse_id": "genesis_5_24",
+      "reference": "창세기 5:24",
+      "exists_in_db": true,
+      "existing_id": "genesis_5_24"
+    },
+    "25": {
+      "verse_number": 25,
+      "verse_id": "genesis_5_25",
+      "reference": "창세기 5:25",
+      "exists_in_db": false
+    },
+    "26": {
+      "verse_number": 26,
+      "verse_id": "genesis_5_26",
+      "reference": "창세기 5:26",
+      "exists_in_db": false
+    },
+    "27": {
+      "verse_number": 27,
+      "verse_id": "genesis_5_27",
+      "reference": "창세기 5:27",
+      "exists_in_db": false
+    },
+    "28": {
+      "verse_number": 28,
+      "verse_id": "genesis_5_28",
+      "reference": "창세기 5:28",
+      "exists_in_db": false
+    },
+    "29": {
+      "verse_number": 29,
+      "verse_id": "genesis_5_29",
+      "reference": "창세기 5:29",
+      "exists_in_db": false
+    },
+    "30": {
+      "verse_number": 30,
+      "verse_id": "genesis_5_30",
+      "reference": "창세기 5:30",
+      "exists_in_db": false
+    },
+    "31": {
+      "verse_number": 31,
+      "verse_id": "genesis_5_31",
+      "reference": "창세기 5:31",
+      "exists_in_db": false
+    },
+    "32": {
+      "verse_number": 32,
+      "verse_id": "genesis_5_32",
+      "reference": "창세기 5:32",
+      "exists_in_db": false
+    }
+  }
+}

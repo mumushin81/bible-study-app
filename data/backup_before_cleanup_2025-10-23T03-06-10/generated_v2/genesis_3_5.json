@@ -1,0 +1,153 @@
+{
+  "id": "genesis_3_5",
+  "reference": "창세기 3:5",
+  "hebrew": "כִּי, יֹדֵעַ אֱלֹהִים, כִּי בְּיוֹם אֲכָלְכֶם מִמֶּנּוּ, וְנִפְקְחוּ עֵינֵיכֶם; וִהְיִיתֶם, כֵּאלֹהִים, יֹדְעֵי, טוֹב וָרָע.",
+  "ipa": "ki jodeˈaʕ ʔɛloˈhim ki bəˈjom ʔaχalˈχɛm miˈmɛnnu vənifqəˈχu ʕeneˈχɛm vihjiˈtɛm kɛʔloˈhim jodˈʕe tov vaˈraʕ",
+  "koreanPronunciation": "키 요데아 엘로힘 키 베욤 아칼켐 미멘누 베니프케후 에네켐 비흐이템 케엘로힘 요데에 토브 바라",
+  "modern": "하나님은 너희가 그것을 먹는 날에는 너희 눈이 밝아져서 하나님과 같이 되어 선악을 알게 될 줄을 아시느니라",
+  "words": [
+    {
+      "hebrew": "כִּי יֹדֵעַ אֱלֹהִים",
+      "meaning": "하나님이 아시기 때문에",
+      "ipa": "ki jodeˈaʕ ʔɛloˈhim",
+      "korean": "키 요데아 엘로힘",
+      "letters": "כִּי(ki) + יֹ(yo) + דֵ(de) + עַ(a) + אֱ(e) + לֹ(lo) + הִים(him)",
+      "root": "כִּי (키) + י-ד-ע (야다) + אֱלֹהִים (엘로힘)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"knowledge1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"70%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient><radialGradient id=\"divine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /><stop offset=\"50%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"50%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FFC107\" /></linearGradient><linearGradient id=\"rays1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine1)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#divine1)\" opacity=\"0.5\" /><g><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#knowledge1)\" filter=\"drop-shadow(0 4px 12px rgba(255, 140, 0, 0.7))\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#light1)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#knowledge1)\" opacity=\"0.5\" /></g><g opacity=\"0.8\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"16\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"50\" y1=\"14\" x2=\"44\" y2=\"20\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"56\" y1=\"32\" x2=\"48\" y2=\"32\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"50\" y1=\"50\" x2=\"44\" y2=\"44\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"56\" x2=\"32\" y2=\"48\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"14\" y1=\"50\" x2=\"20\" y2=\"44\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"8\" y1=\"32\" x2=\"16\" y2=\"32\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"14\" y1=\"14\" x2=\"20\" y2=\"20\" stroke=\"url(#rays1)\" stroke-width=\"3\" stroke-linecap=\"round\" /></g><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /><circle cx=\"28\" cy=\"34\" r=\"2\" fill=\"#FFA500\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"34\" r=\"2\" fill=\"#FFA500\" opacity=\"0.8\" /><path d=\"M 26 38 Q 32 40 38 38\" stroke=\"#FF8C00\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "דַּעַת (다아트 - 지식)",
+        "יָדַע (야다 - 알다)"
+      ]
+    },
+    {
+      "hebrew": "כִּי בְּיוֹם",
+      "meaning": "그 날에",
+      "ipa": "ki bəˈjom",
+      "korean": "키 베욤",
+      "letters": "כִּי(ki) + בְּ(be) + יוֹם(yom)",
+      "root": "כִּי (키) + בְּ (베) + יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"day2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"30%\" stop-color=\"#4FC3F7\" /><stop offset=\"70%\" stop-color=\"#29B6F6\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient><radialGradient id=\"sun2\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"30%\" stop-color=\"#FFEB3B\" /><stop offset=\"70%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></radialGradient><linearGradient id=\"horizon2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"50%\" stop-color=\"#FFB74D\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></linearGradient><linearGradient id=\"clock2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#455A64\" /><stop offset=\"100%\" stop-color=\"#263238\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#day2)\" rx=\"8\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#sun2)\" filter=\"drop-shadow(0 4px 10px rgba(255, 193, 7, 0.6))\" /><g opacity=\"0.8\"><line x1=\"32\" y1=\"6\" x2=\"32\" y2=\"10\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"46\" y1=\"10\" x2=\"43\" y2=\"13\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"52\" y1=\"20\" x2=\"48\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"18\" y1=\"10\" x2=\"21\" y2=\"13\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"12\" y1=\"20\" x2=\"16\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g><ellipse cx=\"32\" cy=\"56\" rx=\"28\" ry=\"6\" fill=\"url(#horizon2)\" opacity=\"0.5\" /><rect x=\"20\" y=\"32\" width=\"24\" height=\"24\" rx=\"2\" fill=\"url(#clock2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"44\" r=\"10\" fill=\"none\" stroke=\"#90A4AE\" stroke-width=\"2\" opacity=\"0.7\" /><line x1=\"32\" y1=\"44\" x2=\"32\" y2=\"38\" stroke=\"#FFD54F\" stroke-width=\"2.5\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 213, 79, 0.5))\" /><line x1=\"32\" y1=\"44\" x2=\"36\" y2=\"44\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 167, 38, 0.5))\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#FFD54F\" /></svg>",
+      "relatedWords": [
+        "יוֹמָם (요맘 - 낮)",
+        "הַיּוֹם (하욤 - 오늘)"
+      ]
+    },
+    {
+      "hebrew": "אֲכָלְכֶם מִמֶּנּוּ",
+      "meaning": "너희가 그것을 먹을 때",
+      "ipa": "ʔaχalˈχɛm miˈmɛnnu",
+      "korean": "아칼켐 미멘누",
+      "letters": "אֲ(a) + כָ(cha) + לְ(l) + כֶם(chem) + מִ(mi) + מֶּ(me) + נּוּ(nnu)",
+      "root": "א-כ-ל (아칼) + מִן (민)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fruit3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"30%\" stop-color=\"#EE5A6F\" /><stop offset=\"70%\" stop-color=\"#C41E3A\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient><radialGradient id=\"shine3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FF8BA7\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"leaf3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9CCC65\" /><stop offset=\"50%\" stop-color=\"#7CB342\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></linearGradient><linearGradient id=\"bite3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFF8E1\" /><stop offset=\"100%\" stop-color=\"#FFECB3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#shine3)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"34\" r=\"18\" fill=\"url(#fruit3)\" filter=\"drop-shadow(0 4px 10px rgba(196, 30, 58, 0.6))\" /><ellipse cx=\"26\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"url(#shine3)\" opacity=\"0.6\" /><g transform=\"translate(28, 14)\"><ellipse cx=\"0\" cy=\"0\" rx=\"6\" ry=\"8\" fill=\"url(#leaf3)\" transform=\"rotate(-30)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M -2 0 Q 0 -4 2 0\" stroke=\"#558B2F\" stroke-width=\"1.5\" fill=\"none\" /></g><rect x=\"2\" y=\"8\" width=\"3\" height=\"8\" rx=\"1.5\" fill=\"#8B4513\" transform=\"rotate(-15 4 12)\" /><path d=\"M 46 28 Q 48 24 52 24 Q 54 26 54 30 Q 52 34 48 36 Q 46 34 46 30 Q 44 28 46 28 Z\" fill=\"url(#bite3)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"50\" cy=\"30\" rx=\"3\" ry=\"4\" fill=\"#F5F5DC\" opacity=\"0.7\" /><g opacity=\"0.6\"><circle cx=\"48\" cy=\"26\" r=\"1\" fill=\"#8B4513\" /><circle cx=\"50\" cy=\"28\" r=\"1\" fill=\"#8B4513\" /><circle cx=\"52\" cy=\"32\" r=\"1\" fill=\"#8B4513\" /></g><path d=\"M 28 42 Q 32 44 36 42\" stroke=\"#8B0000\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "וְנִפְקְחוּ עֵינֵיכֶם",
+      "meaning": "너희 눈이 밝아질 것이다",
+      "ipa": "vənifqəˈχu ʕeneˈχɛm",
+      "korean": "베니프케후 에네켐",
+      "letters": "וְ(ve) + נִ(ni) + פְ(p) + קְ(ke) + חוּ(chu) + עֵי(e) + נֵי(ne) + כֶם(chem)",
+      "root": "פ-ק-ח (파카흐) + עַיִן (아인)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eye4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"30%\" stop-color=\"#42A5F5\" /><stop offset=\"70%\" stop-color=\"#2196F3\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><radialGradient id=\"iris4\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#29B6F6\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient><radialGradient id=\"pupil4\"><stop offset=\"0%\" stop-color=\"#263238\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"light4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFA726\" stop-opacity=\"0.3\" /></linearGradient><radialGradient id=\"glow4\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#81D4FA\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#0288D1\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow4)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"16\" fill=\"url(#eye4)\" opacity=\"0.2\" filter=\"drop-shadow(0 4px 10px rgba(33, 150, 243, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"14\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#iris4)\" filter=\"drop-shadow(0 2px 6px rgba(2, 136, 209, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#pupil4)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.6))\" /><circle cx=\"28\" cy=\"29\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"34\" cy=\"30\" r=\"1.5\" fill=\"#B0BEC5\" opacity=\"0.6\" /><g opacity=\"0.8\"><path d=\"M 8 32 Q 10 28 14 28\" stroke=\"url(#eye4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 50 28 Q 54 28 56 32\" stroke=\"url(#eye4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 8 32 Q 10 36 14 36\" stroke=\"url(#eye4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 50 36 Q 54 36 56 32\" stroke=\"url(#eye4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /></g><g opacity=\"0.7\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"16\" stroke=\"url(#light4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"16\" x2=\"42\" y2=\"22\" stroke=\"url(#light4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"54\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"url(#light4)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g></svg>",
+      "relatedWords": [
+        "עַיִן (아인 - 눈)",
+        "רָאָה (라아 - 보다)"
+      ]
+    },
+    {
+      "hebrew": "וִהְיִיתֶם כֵּאלֹהִים",
+      "meaning": "하나님과 같이 될 것이다",
+      "ipa": "vihjiˈtɛm kɛʔloˈhim",
+      "korean": "비흐이템 케엘로힘",
+      "letters": "וִ(vi) + הְ(h) + יִי(yi) + תֶם(tem) + כֵּ(ke) + אלֹ(e-lo) + הִים(him)",
+      "root": "ה-י-ה (하야) + כְּ (케) + אֱלֹהִים (엘로힘)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFC107\" /><stop offset=\"70%\" stop-color=\"#FFB300\" /><stop offset=\"100%\" stop-color=\"#FF8F00\" /></linearGradient><radialGradient id=\"divine5\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" stop-opacity=\"1\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFA726\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"jewel5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"50%\" stop-color=\"#C2185B\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient><linearGradient id=\"base5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#F57C00\" /></linearGradient><radialGradient id=\"deception5\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine5)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#divine5)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"52\" rx=\"18\" ry=\"4\" fill=\"url(#deception5)\" opacity=\"0.5\" /><path d=\"M 12 46 L 16 32 L 22 38 L 28 26 L 32 38 L 36 26 L 42 38 L 48 32 L 52 46 Z\" fill=\"url(#crown5)\" stroke=\"#FF8F00\" stroke-width=\"2\" filter=\"drop-shadow(0 6px 12px rgba(255, 143, 0, 0.6))\" opacity=\"0.95\" /><rect x=\"12\" y=\"46\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#base5)\" filter=\"drop-shadow(0 4px 8px rgba(245, 124, 0, 0.5))\" /><g><circle cx=\"22\" cy=\"36\" r=\"3.5\" fill=\"url(#jewel5)\" filter=\"drop-shadow(0 2px 6px rgba(233, 30, 99, 0.7))\" /><circle cx=\"32\" cy=\"36\" r=\"4\" fill=\"url(#jewel5)\" filter=\"drop-shadow(0 2px 6px rgba(233, 30, 99, 0.8))\" /><circle cx=\"42\" cy=\"36\" r=\"3.5\" fill=\"url(#jewel5)\" filter=\"drop-shadow(0 2px 6px rgba(233, 30, 99, 0.7))\" /><circle cx=\"28\" cy=\"28\" r=\"2.5\" fill=\"#9C27B0\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"28\" r=\"2.5\" fill=\"#9C27B0\" opacity=\"0.8\" /></g><circle cx=\"22\" cy=\"36\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"36\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><g opacity=\"0.6\"><line x1=\"18\" y1=\"50\" x2=\"20\" y2=\"54\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"50\" x2=\"32\" y2=\"56\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"46\" y1=\"50\" x2=\"44\" y2=\"54\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" /></g><path d=\"M 16 48 Q 20 46 24 48\" stroke=\"#FFD700\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 40 48 Q 44 46 48 48\" stroke=\"#FFD700\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다)",
+        "אֱלֹהַּ (엘로아 - 신)"
+      ]
+    },
+    {
+      "hebrew": "יֹדְעֵי טוֹב וָרָע",
+      "meaning": "선악을 아는 자",
+      "ipa": "jodˈʕe tov vaˈraʕ",
+      "korean": "요데에 토브 바라",
+      "letters": "יֹ(yo) + דְ(d) + עֵי(ei) + טוֹב(tov) + וָ(va) + רָע(ra)",
+      "root": "י-ד-ע (야다) + טוֹב (토브) + רַע (라)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"good6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#E3F2FD\" /><stop offset=\"70%\" stop-color=\"#BBDEFB\" /><stop offset=\"100%\" stop-color=\"#90CAF9\" /></linearGradient><linearGradient id=\"evil6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"30%\" stop-color=\"#212121\" /><stop offset=\"70%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient><linearGradient id=\"scale6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"50%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#808080\" /></linearGradient><linearGradient id=\"pole6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"50%\" stop-color=\"#6D4C41\" /><stop offset=\"100%\" stop-color=\"#4E342E\" /></linearGradient><radialGradient id=\"aura6\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\" /><stop offset=\"50%\" stop-color=\"#FFA726\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#aura6)\" opacity=\"0.4\" /><rect x=\"30\" y=\"16\" width=\"4\" height=\"32\" rx=\"2\" fill=\"url(#pole6)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"14\" r=\"4\" fill=\"url(#scale6)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><g transform=\"translate(0, 0)\"><path d=\"M 12 28 L 8 32 L 12 36 L 16 32 Z\" fill=\"url(#scale6)\" opacity=\"0.8\" /><line x1=\"12\" y1=\"32\" x2=\"12\" y2=\"14\" stroke=\"url(#scale6)\" stroke-width=\"1.5\" /><ellipse cx=\"12\" cy=\"38\" rx=\"8\" ry=\"6\" fill=\"url(#good6)\" filter=\"drop-shadow(0 3px 6px rgba(144, 202, 249, 0.6))\" opacity=\"0.95\" /><circle cx=\"12\" cy=\"38\" r=\"3\" fill=\"#64B5F6\" opacity=\"0.7\" /><circle cx=\"10\" cy=\"36\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.9\" /></g><g transform=\"translate(0, 4)\"><path d=\"M 52 28 L 48 32 L 52 36 L 56 32 Z\" fill=\"url(#scale6)\" opacity=\"0.8\" /><line x1=\"52\" y1=\"32\" x2=\"52\" y2=\"14\" stroke=\"url(#scale6)\" stroke-width=\"1.5\" /><ellipse cx=\"52\" cy=\"42\" rx=\"8\" ry=\"6\" fill=\"url(#evil6)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.7))\" opacity=\"0.95\" /><circle cx=\"52\" cy=\"42\" r=\"3\" fill=\"#757575\" opacity=\"0.6\" /><circle cx=\"50\" cy=\"40\" r=\"1\" fill=\"#424242\" opacity=\"0.8\" /></g><line x1=\"12\" y1=\"14\" x2=\"32\" y2=\"14\" stroke=\"url(#scale6)\" stroke-width=\"2\" /><line x1=\"32\" y1=\"14\" x2=\"52\" y2=\"14\" stroke=\"url(#scale6)\" stroke-width=\"2\" /><g opacity=\"0.7\"><circle cx=\"18\" cy=\"24\" r=\"2\" fill=\"#90CAF9\" filter=\"drop-shadow(0 0 4px rgba(144, 202, 249, 0.6))\" /><circle cx=\"46\" cy=\"24\" r=\"2\" fill=\"#424242\" filter=\"drop-shadow(0 0 4px rgba(66, 66, 66, 0.6))\" /></g><path d=\"M 28 52 Q 32 50 36 52\" stroke=\"url(#pole6)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3:5는 사탄의 유혹이 절정에 이르는 구절입니다. 뱀은 하나님께서 선악과를 금지하신 진짜 이유를 왜곡하여 제시합니다. '하나님처럼 되라'는 유혹은 창조 질서를 거부하고 피조물이 창조주의 자리를 탐하게 만드는 가장 근본적인 죄의 본질을 드러냅니다. 이 거짓말은 반은 진실이었습니다 - 실제로 선악을 알게 되었지만, 하나님처럼 되지는 못했고 오히려 죽음에 이르게 되었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כִּי יֹדֵעַ אֱלֹהִים (키 요데아 엘로힘) - 하나님의 숨은 동기?",
+        "description": "뱀은 '하나님이 아시기 때문에'라는 말로 하나님께서 선악과를 금지하신 이유가 인간을 보호하기 위함이 아니라 자신의 지위를 지키기 위함이라고 암시합니다. 이는 하나님의 선하신 의도를 악의적인 동기로 왜곡하는 교묘한 거짓말입니다. 하나님의 금지는 사랑과 보호에서 나온 것이었지만, 뱀은 이를 질투와 두려움에서 나온 것처럼 묘사합니다.",
+        "points": [
+          "하나님의 명령에 숨은 악의가 있다는 암시",
+          "하나님을 시기심 많고 이기적인 존재로 왜곡함",
+          "하나님의 사랑과 보호를 의심하게 만드는 전략",
+          "유혹의 핵심은 하나님의 성품을 의심하게 하는 것"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְנִפְקְחוּ עֵינֵיכֶם (베니프케후 에네켐) - 눈이 밝아진다는 약속",
+        "description": "히브리어 '파카흐'는 '열리다', '밝아지다'를 의미합니다. 뱀은 선악과를 먹으면 '눈이 밝아져서' 새로운 지식과 능력을 얻게 될 것이라고 약속합니다. 역설적으로 이것은 부분적 진실이었습니다 - 실제로 그들의 눈이 밝아졌지만(3:7), 그것은 수치심과 죄책감을 알게 되는 고통스러운 깨달음이었습니다. 진정한 지혜가 아니라 죄의 무거운 짐을 얻게 된 것입니다.",
+        "points": [
+          "반은 진실, 반은 거짓인 교묘한 속임수",
+          "눈이 밝아진다는 것은 수치심을 알게 되는 것이었음",
+          "지식을 얻었으나 생명을 잃게 됨",
+          "죄는 항상 약속보다 훨씬 적게 주고 대가는 크게 요구함"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וִהְיִיתֶם כֵּאלֹהִים (비흐이템 케엘로힘) - 하나님처럼 되라는 유혹",
+        "description": "'하나님처럼 되다'는 것은 모든 죄의 뿌리입니다. 이는 루시퍼가 타락했을 때의 동기이기도 했습니다(이사야 14:14). 인간은 하나님의 형상대로 지음받았지만(1:27), 하나님과 동등해지려는 것은 피조물의 한계를 넘어서는 교만입니다. 뱀은 인간이 창조주에게 의존하지 않고 스스로 선악을 판단할 수 있는 자율적 존재가 될 수 있다고 속입니다. 이는 하나님의 주권을 거부하는 것입니다.",
+        "points": [
+          "모든 죄의 근원은 하나님의 자리를 탐하는 교만",
+          "피조물이 창조주가 되려는 시도",
+          "하나님 없이 자율적으로 살고 싶은 욕망",
+          "순종 대신 독립을 선택하게 만드는 유혹"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יֹדְעֵי טוֹב וָרָע (요데에 토브 바라) - 선악을 아는 것의 의미",
+        "description": "'선과 악을 안다'는 것은 단순히 도덕적 지식을 갖는 것이 아니라, 스스로 선과 악을 정의하고 판단할 권리를 갖는다는 의미입니다. 이것은 하나님만이 가지신 특권입니다. 하나님은 절대적 기준이시지만, 인간이 이를 스스로 정하려 할 때 모든 것이 상대적이 되고 혼란에 빠집니다. 실제로 그들은 선악을 알게 되었지만, 그것은 축복이 아니라 저주가 되었습니다 - 양심의 가책, 수치심, 죄책감을 경험하게 된 것입니다.",
+        "points": [
+          "선악의 기준을 스스로 정하려는 시도",
+          "하나님의 절대적 권위를 거부하는 것",
+          "도덕적 상대주의의 시작",
+          "지식을 얻었으나 평안을 잃어버림"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 뱀은 '하나님처럼 될 수 있다'고 거짓말을 했을까요?",
+      "answer": "뱀은 아담과 하와가 하나님께 불만을 갖게 만들고 싶었어요. 마치 친구가 '선생님은 너를 믿지 않아서 그런 규칙을 만든 거야'라고 말하는 것처럼요. 사실 하나님은 아담과 하와를 너무나 사랑하셔서 위험한 것으로부터 보호하고 싶으셨어요. 하지만 뱀은 '하나님처럼 되면 더 자유롭고 행복할 거야'라고 속였답니다. 그런데 실제로는 하나님처럼 되지도 못했고, 오히려 부끄러움과 슬픔만 얻게 되었어요. 우리가 하나님보다 더 잘 안다고 생각하는 순간이 바로 가장 위험한 순간이에요.",
+      "bibleReferences": [
+        "이사야 14:13-14 - 네가 네 마음에 이르기를 내가 하늘에 올라 하나님의 뭇 별 위에 나의 왕좌를 높이리라",
+        "에스겔 28:2 - 네 마음이 교만하여 말하기를 나는 신이라 내가 하나님의 자리 곧 바다 중심에 앉았다 하도다",
+        "로마서 1:25 - 이는 그들이 하나님의 진리를 거짓 것으로 바꾸어 피조물을 조물주보다 더 경배하고 섬김이라",
+        "요한일서 2:16 - 이는 세상에 있는 모든 것이 육신의 정욕과 안목의 정욕과 이생의 자랑이니"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:5는 원죄의 본질을 드러냅니다. 죄는 하나님의 주권을 거부하고 피조물이 창조주의 자리를 탐하는 것입니다. 뱀의 '하나님처럼 되라'는 유혹은 오늘날에도 계속됩니다 - 우리 자신의 기준으로 선악을 판단하고, 하나님 없이 살 수 있다고 믿는 모든 시도가 바로 이것입니다. 그러나 예수 그리스도는 '둘째 아담'으로서 이와 정반대의 길을 보여주셨습니다. 하나님과 본체시나 하나님과 동등됨을 취할 것으로 여기지 아니하시고 자기를 비워 종의 형체를 가지셨습니다(빌립보서 2:6-7). 진정한 위대함은 교만이 아니라 겸손에 있으며, 하나님께 순종할 때 참된 자유와 생명을 얻게 됩니다."
+    }
+  }
+}

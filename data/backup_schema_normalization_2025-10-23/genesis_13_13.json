@@ -1,0 +1,139 @@
+{
+  "id": "genesis_13_13",
+  "reference": "창세기 13:13",
+  "hebrew": "",
+  "ipa": "vəʔanˈʃe səˈdom raˈʕim vəxataˈʔim lajhoˈva məˈʔod",
+  "koreanPronunciation": "베안셰 스돔 라임 베하타임 라예호와 메오드",
+  "modern": "소돔 사람들은 여호와 앞에 악하며 큰 죄인이었습니다",
+  "words": [
+    {
+      "hebrew": "וְאַנְשֵׁי",
+      "meaning": "그리고 사람들",
+      "ipa": "vəʔanˈʃe",
+      "korean": "베안셰",
+      "letters": "וְ(ve) + אַ(an) + נְשֵׁי(she)",
+      "root": "א-נ-שׁ (에노쉬)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-people1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4B0082\"/><stop offset=\"100%\" stop-color=\"#8B008B\"/></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.8\"/><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/><ellipse cx=\"20\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/><ellipse cx=\"32\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.8\"/><ellipse cx=\"44\" cy=\"40\" rx=\"6\" ry=\"10\" fill=\"url(#sodom-people1)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "סְדֹם",
+      "meaning": "소돔",
+      "ipa": "səˈdom",
+      "korean": "스돔",
+      "letters": "סְ(se) + דֹם(dom)",
+      "root": "סְדֹם (스돔)",
+      "grammar": "명사",
+      "emoji": "🏙️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-city1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2F4F4F\"/><stop offset=\"100%\" stop-color=\"#000000\"/></linearGradient><linearGradient id=\"sodom-evil1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#FF0000\"/></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"28\" fill=\"url(#sodom-city1)\" filter=\"drop-shadow(0 2px 6px rgba(0,0,0,0.5))\"/><rect x=\"20\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><rect x=\"30\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><rect x=\"40\" y=\"34\" width=\"4\" height=\"6\" fill=\"url(#sodom-evil1)\" opacity=\"0.5\"/><path d=\"M 32 8 L 28 20 L 36 20 Z\" fill=\"url(#sodom-evil1)\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "רָעִים",
+      "meaning": "악한",
+      "ipa": "raˈʕim",
+      "korean": "라임",
+      "letters": "רָ(ra) + עִים(im)",
+      "root": "ר-ע-ע (라아)",
+      "grammar": "형용사",
+      "emoji": "😈",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-evil-glow1\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#000000\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sodom-evil-glow1)\" filter=\"drop-shadow(0 2px 8px rgba(139, 0, 0, 0.6))\"/><circle cx=\"24\" cy=\"28\" r=\"4\" fill=\"#FF0000\"/><circle cx=\"40\" cy=\"28\" r=\"4\" fill=\"#FF0000\"/><path d=\"M 20 40 Q 32 36 44 40\" stroke=\"#FF0000\" stroke-width=\"3\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "וְחַטָּאִים",
+      "meaning": "그리고 죄인들",
+      "ipa": "vəxataˈʔim",
+      "korean": "베하타임",
+      "letters": "וְ(ve) + חַ(ha) + טָּאִים(ta'im)",
+      "root": "ח-ט-א (하타)",
+      "grammar": "명사",
+      "emoji": "⚠️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-sin1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><polygon points=\"32,8 38,24 56,24 42,36 48,52 32,40 16,52 22,36 8,24 26,24\" fill=\"url(#sodom-sin1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 69, 0, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#000000\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" fill=\"#FFFFFF\" font-weight=\"bold\">!</text></svg>"
+    },
+    {
+      "hebrew": "לַיהוָה",
+      "meaning": "여호와 앞에",
+      "ipa": "lajhoˈva",
+      "korean": "라예호와",
+      "letters": "לַ(la) + יְ(ye) + הוָה(hovah)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-yhwh-eye1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"url(#sodom-yhwh-eye1)\" opacity=\"0.3\"/><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#4682B4\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#000000\"/><circle cx=\"30\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "מְאֹד",
+      "meaning": "매우, 크게",
+      "ipa": "məˈʔod",
+      "korean": "메오드",
+      "letters": "מְ(me) + אֹד(od)",
+      "root": "מ-א-ד (마오드)",
+      "grammar": "부사",
+      "emoji": "‼️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sodom-very1\"><stop offset=\"0%\" stop-color=\"#FF0000\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#sodom-very1)\" filter=\"drop-shadow(0 3px 8px rgba(255, 0, 0, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#sodom-very1)\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 6px rgba(255, 0, 0, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#sodom-very1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 0, 0, 0.7))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"20\" fill=\"#FFFFFF\" font-weight=\"bold\">!</text></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 13절은 소돔의 도덕적 상태를 단호하게 선언합니다. 이 구절은 롯이 선택한 땅의 영적 실상을 폭로하며, 외적 풍요가 내적 부패를 가릴 수 없음을 보여줍니다. '여호와 앞에'라는 표현은 하나님께서 그들의 죄를 보고 계심을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "רָעִים (라임) - 악한",
+        "description": "'라'는 '악하다', '나쁘다'를 의미하는 히브리어입니다. 이는 단순한 도덕적 결함이 아니라 하나님의 성품에 정면으로 반대되는 적극적인 악을 의미합니다. 소돔 사람들은 선을 행하지 않은 소극적 죄가 아니라 적극적으로 악을 행했습니다.",
+        "points": [
+          "적극적이고 의도적인 악행",
+          "하나님의 성품과 완전히 반대되는 삶",
+          "개인의 죄가 아닌 사회 전체의 부패 (창 19:4)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חַטָּאִים (하타임) - 죄인들",
+        "description": "'하타'는 '과녁을 빗나가다', '죄를 짓다'를 의미합니다. 소돔 사람들은 하나님께서 정하신 기준을 완전히 벗어나 살았습니다. 그들의 삶은 하나님의 목적과 계획에서 완전히 이탈한 상태였습니다.",
+        "points": [
+          "하나님의 기준에서 완전히 벗어난 삶",
+          "계속적이고 습관적인 죄의 상태",
+          "회개하지 않는 완고함 (창 19:9)"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לַיהוָה (라예호와) - 여호와 앞에",
+        "description": "이 표현은 소돔의 죄가 사람들 앞에서만이 아니라 하나님 앞에서 저지른 것임을 강조합니다. 하나님께서 그들의 모든 행위를 보고 계시며, 심판하실 것입니다. 사람들은 속일 수 있어도 하나님은 속일 수 없습니다.",
+        "points": [
+          "하나님께서 모든 것을 보고 계십니다",
+          "죄는 궁극적으로 하나님께 대한 것입니다 (시 51:4)",
+          "숨겨진 죄도 하나님 앞에서는 드러납니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "מְאֹד (메오드) - 매우, 크게",
+        "description": "'메오드'는 '매우', '심히', '극도로'를 의미하는 강조 부사입니다. 소돔의 죄는 정도를 넘어섰고, 하나님의 인내의 한계를 초과했습니다. 이는 임박한 심판을 예고합니다.",
+        "points": [
+          "죄의 극도로 심각한 상태",
+          "하나님의 심판이 불가피함을 암시",
+          "롯이 선택한 곳의 영적 위험성이 극대화됨"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "소돔 사람들은 왜 그렇게 나빴나요?",
+      "answer": "소돔 사람들은 하나님을 믿지 않고 아주 나쁜 일들을 많이 했어요. 그들은 서로 사랑하지도 않고, 가난한 사람들을 돕지도 않았으며, 하나님께서 싫어하시는 일들을 계속했답니다. 성경은 그들이 '여호와 앞에 매우 악하고 큰 죄인'이었다고 말해요. 하나님께서는 모든 것을 보고 계시는데, 소돔 사람들은 하나님 앞에서도 계속 나쁜 일을 했어요. 그래서 나중에 하나님께서 그 도시를 심판하셨답니다.",
+      "bibleReferences": [
+        "창세기 18:20 - '소돔과 고모라에 대한 부르짖음이 크고 그들의 죄악이 심히 무거우니'",
+        "창세기 19:4-5 - '그들이 눕기 전에 그 성 사람 곧 소돔 백성들이... 집을 에워싸되'",
+        "에스겔 16:49 - '네 아우 소돔의 죄악은 이것이니 그와 그의 딸들에게 교만함과 음식물의 풍족함과 태평함이 있음이며'",
+        "유다서 1:7 - '소돔과 고모라와 그 이웃 도시들도... 음란하며 다른 육체를 따라 가므로'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 외적 풍요가 내적 부패를 가릴 수 없음을 보여줍니다. 소돔은 경제적으로 번영했지만(13:10) 영적으로는 완전히 타락했습니다. 롯의 선택은 이제 그 진정한 대가를 드러내기 시작합니다. 우리는 보이는 것으로 판단하지 말고, 하나님의 관점에서 선택해야 합니다. 모든 것은 '여호와 앞에' 평가되며, 숨겨진 죄도 결국 드러나고 심판받게 됩니다 (전 12:14)."
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "id": "genesis_11_18",
+  "reference": "창세기 11:18",
+  "hebrew": "וַיְחִי פֶלֶג שְׁלֹשִׁים שָׁנָה וַיּוֹלֶד אֶת־רְעוּ׃",
+  "ipa": "vajəˈħi ˈpɛlɛɡ ʃəloˈʃim ʃaˈna vajˈjolɛd ʔɛt rəˈʕu",
+  "koreanPronunciation": "바예히 펠레그 쉘로쉼 샤나 바욜레드 에트 레우",
+  "modern": "펠렉이 삼십 세에 르우를 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "그리고 살았다",
+      "ipa": "vajəˈħi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(hi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg18-time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient><linearGradient id=\"peleg18-sand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect x=\"20\" y=\"8\" width=\"24\" height=\"48\" rx=\"12\" fill=\"url(#peleg18-time1)\" stroke=\"#4682B4\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"20\" rx=\"8\" ry=\"4\" fill=\"url(#peleg18-sand1)\" /><path d=\"M 28 20 L 32 32 L 36 20\" fill=\"url(#peleg18-sand1)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"44\" rx=\"8\" ry=\"4\" fill=\"url(#peleg18-sand1)\" /></svg>",
+      "relatedWords": [
+        "חַיִּים (하임 - 생명)",
+        "חָיָה (하야 - 살다)"
+      ]
+    },
+    {
+      "hebrew": "פֶלֶג",
+      "meaning": "펠렉",
+      "ipa": "ˈpɛlɛɡ",
+      "korean": "펠레그",
+      "letters": "פֶּ(pe) + לֶ(le) + ג(g)",
+      "root": "פֶּלֶג (펠레그)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"peleg18-earth1\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#2196F3\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></radialGradient><linearGradient id=\"peleg18-divide1\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#FF5722\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF5722\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#peleg18-earth1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 8 32 Q 16 28 24 32 T 40 32 T 56 32\" stroke=\"url(#peleg18-divide1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"#4CAF50\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"28\" r=\"5\" fill=\"#8BC34A\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "פָּלַג (팔라그 - 나누다)",
+        "פְּלַגָּה (펠라가 - 나눔, 분열)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשִׁים",
+      "meaning": "삼십",
+      "ipa": "ʃəloˈʃim",
+      "korean": "쉘로쉼",
+      "letters": "שְׁ(she) + לֹ(lo) + שִׁ(shi) + ים(m)",
+      "root": "שָׁלוֹשׁ (샬로쉬)",
+      "grammar": "명사",
+      "emoji": "3️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg18-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#peleg18-num1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial\">30</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg18-year1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"36\" rx=\"4\" fill=\"url(#peleg18-year1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"16\" width=\"40\" height=\"8\" fill=\"#E91E63\" /><circle cx=\"24\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" /><rect x=\"18\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"40\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּ(yo) + וֹ(o) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"peleg18-baby1\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"100%\" stop-color=\"#FFCC80\" /></radialGradient><linearGradient id=\"peleg18-heart1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4081\" /><stop offset=\"100%\" stop-color=\"#F50057\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#peleg18-baby1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"45\" rx=\"14\" ry=\"10\" fill=\"url(#peleg18-baby1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333333\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333333\" /><path d=\"M 20 50 Q 32 56 44 50\" stroke=\"url(#peleg18-heart1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "תּוֹלְדוֹת (톨도트 - 계보, 족보)"
+      ]
+    },
+    {
+      "hebrew": "רְעוּ",
+      "meaning": "르우",
+      "ipa": "rəˈʕu",
+      "korean": "레우",
+      "letters": "רְ(re) + עוּ(u)",
+      "root": "רְעוּ (레우)",
+      "grammar": "명사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg18-friend1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient><radialGradient id=\"peleg18-glow1\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#peleg18-glow1)\" opacity=\"0.2\" /><path d=\"M 18 32 L 24 26 L 24 38 Z M 46 32 L 40 26 L 40 38 Z\" fill=\"url(#peleg18-friend1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"url(#peleg18-friend1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "רֵעַ (레아 - 친구)",
+        "רֵעוּת (레우트 - 우정)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 18절은 대홍수 이후 10대째 족장 펠렉의 출생 기록을 담고 있습니다. 펠렉의 이름은 '분열, 나눔'을 의미하며, 그의 시대에 땅이 나뉘었다는 역사적 사건과 연결됩니다. 이는 바벨탑 사건 이후 언어의 혼잡과 민족의 분산을 가리키는 것으로 해석됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "פֶלֶג (펠레그) - 분열의 시대",
+        "description": "펠렉(פֶלֶג)이라는 이름은 히브리어 동사 '팔라그(פָּלַג, 나누다)'에서 유래했습니다. 창세기 10:25에서 '그의 때에 땅이 나뉘었다'고 명시되어 있어, 이 시대가 인류 역사에서 중요한 전환점이었음을 보여줍니다.",
+        "points": [
+          "바벨탑 사건 이후 언어와 민족의 분산이 일어난 시대입니다",
+          "하나의 인류가 여러 민족으로 나뉘어진 역사적 순간을 기억하게 합니다",
+          "하나님의 주권 아래 인류 역사가 진행됨을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "רְעוּ (레우) - 친구, 동반자",
+        "description": "르우(רְעוּ)라는 이름은 '친구', '동반자'를 의미하는 히브리어 '레아(רֵעַ)'와 연결됩니다. 분열의 시대에 태어난 아들에게 '친구'라는 의미의 이름을 지어준 것은 화합과 관계 회복에 대한 소망을 담고 있을 수 있습니다.",
+        "points": [
+          "분열된 세상에서도 관계와 우정의 가치를 기억하게 합니다",
+          "하나님과의 관계, 사람들 간의 관계 회복의 중요성을 암시합니다",
+          "그리스도 안에서 하나 되는 교회의 예표가 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יְמֵי חַיִּים קְצָרִים (예메이 하임 케차림) - 수명의 단축 추세",
+        "description": "펠렉은 30세에 아들을 낳았으며, 총 수명은 239년이었습니다(창 11:19). 노아 시대의 수백 년 수명과 비교하면 급격히 감소하는 추세를 보입니다. 이는 대홍수 이후 환경 변화와 죄의 영향이 누적된 결과입니다.",
+        "points": [
+          "대홍수 이후 인간의 수명이 점진적으로 감소했습니다",
+          "죄의 결과로 인한 피조 세계의 쇠퇴를 보여줍니다",
+          "인생의 유한함과 영원한 하나님의 대조를 드러냅니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 펠렉이라는 이름이 '땅이 나뉘었다'는 뜻일까요?",
+      "answer": "펠렉이 살던 시대에 아주 큰 일이 일어났어요. 바벨탑 사건 때문에 하나님께서 사람들의 언어를 서로 다르게 만드셨고, 그래서 사람들이 세계 곳곳으로 흩어지게 되었답니다. 마치 하나였던 가족이 여러 집으로 나뉘는 것처럼, 온 세상 사람들이 여러 나라로 나뉘어진 거예요. 그래서 부모님이 이 특별한 사건을 기억하기 위해 아들 이름을 '나눔'이라는 뜻의 펠렉이라고 지으신 것 같아요.",
+      "bibleReferences": [
+        "창세기 10:25 - '에벨은 두 아들을 낳고 하나의 이름을 벨렉이라 하였으니 그 때에 땅이 나뉘었음이요'",
+        "창세기 11:9 - '그러므로 그 이름을 바벨이라 하니 이는 여호와께서 거기서 온 땅의 언어를 혼잡하게 하셨음이니라'",
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에 인종을 분정하실 때에'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "펠렉의 계보는 인류의 분열 속에서도 하나님의 구속 역사가 계속 이어짐을 보여줍니다. 바벨탑 사건으로 흩어진 인류는 결국 아브라함의 후손을 통해, 그리고 궁극적으로 그리스도를 통해 다시 하나로 모이게 됩니다. '친구'라는 이름의 르우는 그리스도 안에서 회복될 관계의 소망을 예표합니다(에베소서 2:14-16)."
+    }
+  }
+}

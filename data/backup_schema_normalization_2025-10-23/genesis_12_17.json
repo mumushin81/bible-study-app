@@ -1,0 +1,176 @@
+{
+  "id": "genesis_12_17",
+  "reference": "창세기 12:17",
+  "hebrew": "וַיְנַגַּ֨ע יְהוָ֧ה אֶת פַּרְעֹ֛ה נְגָעִ֥ים גְּדֹלִ֖ים וְאֶת בֵּית֑וֹ עַל דְּבַ֥ר שָׂרַ֖י אֵ֥שֶׁת אַבְרָֽם",
+  "ipa": "vajnaˈga ʔadonˈai ʔɛt parˈo nəgaˈim gdoˈlim vəʔɛt beˈto ʔal dəˈvar saˈrai ʔeˈʃɛt ʔavˈram",
+  "koreanPronunciation": "바이나가 아도나이 엣 파로 느가임 그돌림 베엣 베토 알 드바르 사라이 에쉐트 아브람",
+  "modern": "여호와께서 아브람의 아내 사래 때문에 바로와 그의 집안에 큰 재앙을 내리셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיְנַגַּע",
+      "meaning": "치셨다, 재앙을 내리셨다",
+      "ipa": "vajnaˈga",
+      "korean": "바이나가",
+      "letters": "וַ(va) + יְ(yə) + נַ(na) + גַּע(ga)",
+      "root": "ן-ג-ע (나가)",
+      "grammar": "동사",
+      "emoji": "⚡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plague-strike1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF4500\" /></linearGradient><radialGradient id=\"plague-flash1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"100%\" stop-color=\"#FF4500\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#plague-flash1)\" opacity=\"0.4\" /><path d=\"M 32 8 L 28 32 L 36 32 L 32 56 L 42 32 L 34 32 Z\" fill=\"url(#plague-strike1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 1))\" /></svg>",
+      "relatedWords": [
+        "נֶגַע (네가 - 재앙, 질병)",
+        "מַגֵּפָה (마게파 - 전염병)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와 (하나님의 이름)",
+      "ipa": "ʔadonˈai",
+      "korean": "아도나이",
+      "letters": "יְ(yə) + ה(h) + וָ(wa) + ה(h)",
+      "root": "יהוה (야훼)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"plague-yhwh1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient><linearGradient id=\"plague-glory1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#plague-glory1)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#plague-yhwh1)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 1))\" /><g stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"18\" /><line x1=\"50\" y1=\"14\" x2=\"44\" y2=\"20\" /><line x1=\"56\" y1=\"32\" x2=\"46\" y2=\"32\" /><line x1=\"50\" y1=\"50\" x2=\"44\" y2=\"44\" /><line x1=\"32\" y1=\"56\" x2=\"32\" y2=\"46\" /><line x1=\"14\" y1=\"50\" x2=\"20\" y2=\"44\" /><line x1=\"8\" y1=\"32\" x2=\"18\" y2=\"32\" /><line x1=\"14\" y1=\"14\" x2=\"20\" y2=\"20\" /></g></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "נְגָעִים",
+      "meaning": "재앙들",
+      "ipa": "nəgaˈim",
+      "korean": "느가임",
+      "letters": "נְ(nə) + גָ(ga) + עִים(im)",
+      "root": "נֶגַע (네가)",
+      "grammar": "명사",
+      "emoji": "☠️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"plague-disease1\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient><linearGradient id=\"plague-spread1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(220, 20, 60, 0.2)\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#plague-disease1)\" filter=\"drop-shadow(0 0 12px rgba(220, 20, 60, 0.8))\" opacity=\"0.8\" /><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#plague-spread1)\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"28\" r=\"7\" fill=\"url(#plague-spread1)\" opacity=\"0.6\" /><circle cx=\"24\" cy=\"44\" r=\"5\" fill=\"url(#plague-spread1)\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"46\" r=\"6\" fill=\"url(#plague-spread1)\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "גְּדֹלִים",
+      "meaning": "큰",
+      "ipa": "gdoˈlim",
+      "korean": "그돌림",
+      "letters": "גְּ(gə) + דֹ(do) + לִים(lim)",
+      "root": "ג-ד-ל (가달)",
+      "grammar": "형용사",
+      "emoji": "⬆️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plague-great1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(65, 105, 225, 0.15)\" /><rect x=\"28\" y=\"44\" width=\"8\" height=\"12\" fill=\"url(#plague-great1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"12\" fill=\"url(#plague-great1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"20\" width=\"24\" height=\"12\" fill=\"url(#plague-great1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"8\" width=\"32\" height=\"12\" fill=\"url(#plague-great1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "גָּדוֹל (가돌 - 큰)",
+        "גְּדֻלָּה (그둘라 - 위대함)"
+      ]
+    },
+    {
+      "hebrew": "בֵּיתוֹ",
+      "meaning": "그의 집",
+      "ipa": "beˈto",
+      "korean": "베토",
+      "letters": "בֵּ(be) + י(i) + תוֹ(to)",
+      "root": "בַּיִת (바이트)",
+      "grammar": "명사",
+      "emoji": "🏠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plague-house1-grad\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"plague-darkness1\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0.6\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#plague-darkness1)\" /><polygon points=\"32,12 12,28 12,52 52,52 52,28\" fill=\"url(#plague-house1-grad)\" filter=\"drop-shadow(4px 4px 8px rgba(0, 0, 0, 0.5))\" opacity=\"0.7\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"16\" fill=\"rgba(101, 67, 33, 0.5)\" /><rect x=\"16\" y=\"32\" width=\"8\" height=\"10\" fill=\"rgba(139, 0, 0, 0.6)\" /><rect x=\"40\" y=\"32\" width=\"8\" height=\"10\" fill=\"rgba(139, 0, 0, 0.6)\" /><polygon points=\"32,8 8,26 56,26\" fill=\"#654321\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "עַל־דְּבַר",
+      "meaning": "~때문에",
+      "ipa": "ʔal dəˈvar",
+      "korean": "알 드바르",
+      "letters": "עַל(al) + ־ + דְּ(də) + בַר(var)",
+      "root": "דָּבָר (다바르)",
+      "grammar": "전치사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plague-reason1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"100%\" stop-color=\"#8A2BE2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(147, 112, 219, 0.2)\" /><circle cx=\"32\" cy=\"38\" r=\"3\" fill=\"url(#plague-reason1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 32 Q 32 28 28 24 Q 24 20 28 16 Q 32 12 36 16 Q 38 18 38 22 Q 38 26 34 28 L 32 32\" stroke=\"url(#plague-reason1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+    },
+    {
+      "hebrew": "שָׂרַי",
+      "meaning": "사래",
+      "ipa": "saˈrai",
+      "korean": "사라이",
+      "letters": "שָׂ(sa) + רַ(ra) + י(i)",
+      "root": "שָׂרָה (사라)",
+      "grammar": "명사",
+      "emoji": "👰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"confrontation-sarai1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFC0CB\" /></radialGradient><linearGradient id=\"confrontation-crown1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 228, 225, 0.3)\" /><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#confrontation-sarai1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 38 Q 32 52 44 38\" fill=\"url(#confrontation-sarai1)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF1493\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 20 20 L 24 16 L 28 18 L 32 14 L 36 18 L 40 16 L 44 20\" fill=\"url(#confrontation-crown1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "אֵשֶׁת",
+      "meaning": "아내",
+      "ipa": "ʔeˈʃɛt",
+      "korean": "에쉐트",
+      "letters": "אֵ(e) + שֶׁ(she) + ת(t)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "💍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"confrontation-ring1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"confrontation-diamond1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><circle cx=\"32\" cy=\"32\" r=\"16\" stroke=\"url(#confrontation-ring1)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(2px 2px 6px rgba(255, 165, 0, 0.6))\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#confrontation-diamond1)\" filter=\"drop-shadow(0 0 12px rgba(255, 255, 255, 0.9))\" /><polygon points=\"32,12 28,16 32,20 36,16\" fill=\"url(#confrontation-ring1)\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#confrontation-ring1)\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남편)",
+        "נָשִׁים (나쉼 - 여자들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 17절은 하나님께서 직접 개입하셔서 당신의 약속을 지키시는 결정적 순간입니다. 바로의 궁전에 내린 재앙은 하나님의 주권과 사래를 보호하시는 신실하심을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְנַגַּע יְהוָה (바이나가 아도나이) - 여호와께서 치셨다",
+        "description": "히브리어 '나가'는 재앙이나 질병으로 치다, 타격하다는 의미입니다. 하나님께서 직접 바로를 치신 것은 사래가 아브람의 아내임을 밝히시고 그녀를 보호하시기 위함이었습니다.",
+        "points": [
+          "하나님은 당신의 약속을 지키기 위해 직접 개입하십니다",
+          "재앙은 하나님의 공의와 보호의 도구가 될 수 있습니다",
+          "하나님은 인간의 실수에도 불구하고 당신의 백성을 지키십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "נְגָעִים גְּדֹלִים (느가임 그돌림) - 큰 재앙들",
+        "description": "\"큰 재앙들\"이라는 표현은 이것이 단순한 질병이 아니라 초자연적인 하나님의 심판이었음을 나타냅니다. 이는 후에 출애굽 때 이집트에 내린 열 가지 재앙의 예표가 됩니다.",
+        "points": [
+          "하나님의 심판은 명확하고 강력합니다",
+          "재앙의 근원과 이유가 분명히 드러납니다",
+          "하나님은 자신의 백성을 해하려는 자들에게 경고하십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עַל־דְּבַר שָׂרַי (알 드바르 사라이) - 사래 때문에",
+        "description": "재앙의 원인이 사래와 관련되어 있다는 것이 분명히 밝혀집니다. 이는 바로에게 사래가 이미 결혼한 여인이라는 사실을 깨닫게 했으며, 하나님께서 그녀를 특별히 보호하신다는 것을 보여줍니다.",
+        "points": [
+          "하나님은 당신의 언약의 사람들을 특별히 보호하십니다",
+          "죄의 결과는 명백히 드러나 회개의 기회를 줍니다",
+          "하나님의 개입은 상황을 바로잡고 진실을 드러냅니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֵשֶׁת אַבְרָם (에쉐트 아브람) - 아브람의 아내",
+        "description": "하나님께서 사래를 \"아브람의 아내\"로 명확히 밝히신 것은 그녀의 진정한 정체성을 회복시키신 것입니다. 아브람의 거짓말로 가려졌던 진실이 하나님의 개입으로 드러났습니다.",
+        "points": [
+          "하나님은 진실을 회복하시고 관계를 바로잡으십니다",
+          "언약의 약속은 결혼 관계를 통해 이루어집니다",
+          "하나님은 우리의 정체성과 관계를 지키십니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 바로에게 재앙을 내리셨을까요?",
+      "answer": "하나님은 사래를 지키시기 위해서예요! 사래는 아브람의 아내였는데, 바로가 그녀를 자기 아내로 삼으려 했어요. 만약 사래가 바로의 아내가 되면, 하나님이 아브람에게 약속하신 자손이 태어날 수 없잖아요? 그래서 하나님은 바로의 궁전에 병을 보내서 \"사래는 이미 결혼한 여인이야!\"라고 알려주신 거예요. 하나님은 항상 당신의 약속을 지키시고, 당신의 사람들을 보호하세요!",
+      "bibleReferences": [
+        "시편 105:14-15 - \"사람이 그들을 압제하는 것을 용납하지 아니하시고... 나의 기름 부은 자를 상하지 말라\"",
+        "창세기 20:3 - \"그러나 밤에 하나님이 꿈에 아비멜렉에게 임하여... 네가 취한 이 여인은 남편이 있는 여인이라\"",
+        "시편 121:7-8 - \"여호와께서 너를 지켜 모든 환난을 면하게 하시며\""
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님께서 바로에게 재앙을 내리신 사건은 하나님의 언약 신실하심을 보여주는 강력한 증거입니다. 아브람의 거짓과 두려움에도 불구하고, 하나님은 당신의 약속을 지키기 위해 직접 개입하셨습니다. 이는 우리의 연약함과 실수가 하나님의 계획을 좌절시킬 수 없음을 보여주며, 하나님께서 당신의 백성을 보호하시고 약속을 성취하신다는 확신을 줍니다. 출애굽의 재앙을 예표하는 이 사건은 하나님의 구원 역사가 일관되게 진행됨을 보여줍니다."
+    }
+  }
+}

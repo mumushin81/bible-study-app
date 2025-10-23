@@ -1,0 +1,139 @@
+{
+  "id": "genesis_15_9",
+  "reference": "창세기 15:9",
+  "hebrew": "וַיֹּאמֶר אֵלָיו, קְחָה לִי עֶגְלָה מְשֻׁלֶּשֶׁת, וְעֵז מְשֻׁלֶּשֶׁת, וְאַיִל מְשֻׁלָּשׁ; וְתֹר, וְגוֹזָל.",
+  "ipa": "vəɡozal vətor məʃuˈlaʃ vəˈʔajil məʃuˈlɛʃɛt vəˈʕez məʃuˈlɛʃɛt ʕɛɡˈla li qəˈxa ʔeˈlav vajˈjomɛr",
+  "koreanPronunciation": "베고잘 베토르, 메슐라쉬 베아일, 메슐레셰트 베에즈, 메슐레셰트 에글라 리 케하, 엘라브 바요메르",
+  "modern": "여호와께서 아브람에게 말씀하셨습니다: '나를 위해 삼 년 된 암송아지와 삼 년 된 암염소와 삼 년 된 숫양, 그리고 산비둘기와 집비둘기 새끼를 가져오라'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-speech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"covenant9-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#covenant9-glow1)\" opacity=\"0.2\" /><path d=\"M 16 38 Q 16 28 22 24 Q 28 20 32 20 Q 36 20 42 24 Q 48 28 48 38 L 44 38 Q 44 30 38 26 Q 34 24 32 24 Q 30 24 26 26 Q 20 30 20 38 Z\" fill=\"url(#covenant9-speech1)\" filter=\"drop-shadow(0 2px 4px rgba(102, 126, 234, 0.5))\" /><circle cx=\"24\" cy=\"34\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"34\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"34\" r=\"2.5\" fill=\"#FFFFFF\" /><path d=\"M 20 38 L 16 44 L 18 38 Z\" fill=\"url(#covenant9-speech1)\" /></svg>"
+    },
+    {
+      "hebrew": "קְחָה לִי",
+      "meaning": "나를 위해 가져오라",
+      "ipa": "li qəˈxa",
+      "korean": "리 케하",
+      "letters": "קְ(qe) + חָ(kha) + ה(h) + לִ(li) + י(i)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "🤲",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-hands1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#F5576C\" /></linearGradient><radialGradient id=\"covenant9-light1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" stop-opacity=\"0.2\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"22\" ry=\"16\" fill=\"url(#covenant9-light1)\" /><path d=\"M 18 32 Q 18 26 22 24 L 26 28 L 24 34 L 18 36 Z\" fill=\"url(#covenant9-hands1)\" filter=\"drop-shadow(0 2px 4px rgba(245, 87, 108, 0.4))\" /><path d=\"M 46 32 Q 46 26 42 24 L 38 28 L 40 34 L 46 36 Z\" fill=\"url(#covenant9-hands1)\" filter=\"drop-shadow(0 2px 4px rgba(245, 87, 108, 0.4))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"6\" ry=\"4\" fill=\"#FFD700\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "עֶגְלָה מְשֻׁלֶּשֶׁת",
+      "meaning": "삼 년 된 암송아지",
+      "ipa": "məʃuˈlɛʃɛt ʕɛɡˈla",
+      "korean": "메슐레셰트 에글라",
+      "letters": "עֶ(e) + גְ(g) + לָ(la) + ה(h) + מְ(me) + שֻׁ(shu) + לֶּ(le) + שֶׁ(she) + ת(t)",
+      "root": "ע-ג-ל (에겔)",
+      "grammar": "명사",
+      "emoji": "🐄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-heifer1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><linearGradient id=\"covenant9-horn1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"14\" fill=\"url(#covenant9-heifer1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.4))\" /><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#covenant9-heifer1)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.3))\" /><path d=\"M 22 22 Q 20 18 18 20 L 20 24 Z\" fill=\"url(#covenant9-horn1)\" /><path d=\"M 42 22 Q 44 18 46 20 L 44 24 Z\" fill=\"url(#covenant9-horn1)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#000000\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#000000\" /><ellipse cx=\"32\" cy=\"30\" rx=\"3\" ry=\"2\" fill=\"#8B4513\" /></svg>"
+    },
+    {
+      "hebrew": "עֵז מְשֻׁלֶּשֶׁת",
+      "meaning": "삼 년 된 암염소",
+      "ipa": "məʃuˈlɛʃɛt ʕez",
+      "korean": "메슐레셰트 에즈",
+      "letters": "עֵ(e) + ז(z) + מְ(me) + שֻׁ(shu) + לֶּ(le) + שֶׁ(she) + ת(t)",
+      "root": "ע-ז (에즈)",
+      "grammar": "명사",
+      "emoji": "🐐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-goat1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#A9A9A9\" /></linearGradient><linearGradient id=\"covenant9-goathorn1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#2F4F4F\" /><stop offset=\"100%\" stop-color=\"#708090\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"16\" ry=\"12\" fill=\"url(#covenant9-goat1)\" filter=\"drop-shadow(0 3px 6px rgba(105, 105, 105, 0.4))\" /><circle cx=\"32\" cy=\"28\" r=\"9\" fill=\"url(#covenant9-goat1)\" filter=\"drop-shadow(0 2px 4px rgba(105, 105, 105, 0.3))\" /><path d=\"M 23 24 Q 20 20 18 16 Q 17 14 18 18 Q 19 22 22 26 Z\" fill=\"url(#covenant9-goathorn1)\" /><path d=\"M 41 24 Q 44 20 46 16 Q 47 14 46 18 Q 45 22 42 26 Z\" fill=\"url(#covenant9-goathorn1)\" /><circle cx=\"28\" cy=\"28\" r=\"1.5\" fill=\"#FFD700\" /><circle cx=\"36\" cy=\"28\" r=\"1.5\" fill=\"#FFD700\" /><path d=\"M 32 32 L 28 38 L 32 36 L 36 38 Z\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "אַיִל מְשֻׁלָּשׁ",
+      "meaning": "삼 년 된 숫양",
+      "ipa": "məʃuˈlaʃ ˈʔajil",
+      "korean": "메슐라쉬 아일",
+      "letters": "אַ(a) + יִ(yi) + ל(l) + מְ(me) + שֻׁ(shu) + לָּ(la) + שׁ(sh)",
+      "root": "א-י-ל (아일)",
+      "grammar": "명사",
+      "emoji": "🐏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-ram1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient><radialGradient id=\"covenant9-wool1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#F5F5DC\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"18\" ry=\"13\" fill=\"url(#covenant9-ram1)\" filter=\"drop-shadow(0 3px 6px rgba(210, 180, 140, 0.4))\" /><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#covenant9-wool1)\" filter=\"drop-shadow(0 2px 4px rgba(245, 245, 220, 0.5))\" /><circle cx=\"22\" cy=\"24\" r=\"5\" fill=\"url(#covenant9-wool1)\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"24\" r=\"5\" fill=\"url(#covenant9-wool1)\" opacity=\"0.8\" /><path d=\"M 20 26 Q 18 22 16 24 Q 15 26 17 28 Q 19 28 20 26 Z\" fill=\"#8B4513\" stroke=\"#654321\" stroke-width=\"1\" /><path d=\"M 44 26 Q 46 22 48 24 Q 49 26 47 28 Q 45 28 44 26 Z\" fill=\"#8B4513\" stroke=\"#654321\" stroke-width=\"1\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#000000\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#000000\" /></svg>"
+    },
+    {
+      "hebrew": "תֹר וְגוֹזָל",
+      "meaning": "산비둘기와 집비둘기 새끼",
+      "ipa": "vəɡozal tor",
+      "korean": "베고잘 토르",
+      "letters": "תֹּ(to) + ר(r) + וְ(ve) + גוֹ(go) + זָ(za) + ל(l)",
+      "root": "ת-ו-ר (토르), ג-ו-ז (고즈)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant9-dove1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8E8E8\" /><stop offset=\"100%\" stop-color=\"#B0B0B0\" /></linearGradient><linearGradient id=\"covenant9-wing1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#D3D3D3\" /></linearGradient><radialGradient id=\"covenant9-peace1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"26\" ry=\"20\" fill=\"url(#covenant9-peace1)\" /><ellipse cx=\"36\" cy=\"30\" rx=\"8\" ry=\"10\" fill=\"url(#covenant9-dove1)\" filter=\"drop-shadow(0 2px 4px rgba(176, 176, 176, 0.4))\" /><circle cx=\"38\" cy=\"28\" r=\"1\" fill=\"#000000\" /><path d=\"M 20 28 Q 16 24 14 26 Q 12 30 16 34 Q 20 36 24 34 Q 26 32 28 30 Z\" fill=\"url(#covenant9-wing1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 3px rgba(211, 211, 211, 0.3))\" /><path d=\"M 44 28 Q 48 24 50 26 Q 52 30 48 34 Q 44 36 40 34 Q 38 32 36 30 Z\" fill=\"url(#covenant9-wing1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 3px rgba(211, 211, 211, 0.3))\" /><path d=\"M 40 28 Q 42 26 44 28\" stroke=\"#FFD700\" stroke-width=\"1\" fill=\"none\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 9절은 하나님과 아브람 사이에 맺어질 언약의 의식을 준비하는 장면입니다. 하나님께서 요구하신 다섯 가지 동물은 고대 근동의 언약 의식에서 사용되던 전통적인 제물들입니다. 특히 '삼 년 된' 동물들은 완전히 성숙한 상태로, 가장 귀중하고 완벽한 제물을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מְשֻׁלֶּשֶׁת/מְשֻׁלָּשׁ (메슐레셰트/메슐라쉬) - 삼 년 된, 완전한 성숙",
+        "description": "히브리어 '메슐레셰트'는 '셋으로 만들어진', '삼중의'를 의미하며, 여기서는 '삼 년 된'을 뜻합니다. 고대 이스라엘에서 삼 년은 동물이 완전히 성숙한 나이로, 가장 귀중한 제물로 여겨졌습니다.",
+        "points": [
+          "완전한 성숙을 나타내는 숫자 3의 상징성",
+          "가장 귀중하고 완벽한 제물을 드리는 아브람의 순종",
+          "하나님과의 언약을 위한 최상의 준비"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עֶגְלָה, עֵז, אַיִל (에글라, 에즈, 아일) - 세 가지 육지 동물",
+        "description": "암송아지, 암염소, 숫양은 이스라엘의 목축 문화에서 가장 중요한 세 가지 가축입니다. 이들은 각각 힘(소), 민첩성(염소), 대속(양)을 상징하며, 후에 레위기의 제사 제도에서 핵심적인 제물이 됩니다.",
+        "points": [
+          "세 가지 주요 가축이 모두 포함되어 언약의 포괄성을 나타냄",
+          "각 동물은 하나님께 드릴 수 있는 정결한 제물",
+          "레위기 제사 제도의 예표"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "תֹר וְגוֹזָל (토르 베고잘) - 두 가지 새",
+        "description": "산비둘기와 집비둘기 새끼는 가난한 자들도 드릴 수 있는 제물입니다. 이 새들은 순결과 평화를 상징하며, 나중에 예수님의 부모가 성전에서 드린 제물이기도 합니다(누가복음 2:24).",
+        "points": [
+          "부유한 자와 가난한 자 모두를 위한 제물의 포함",
+          "순결과 평화의 상징",
+          "새는 쪼개지 않았다는 점에서 온전함을 나타냄"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "קְחָה לִי (케하 리) - 나를 위해 가져오라",
+        "description": "'리'(나를 위해)라는 표현은 이 제물들이 단순한 의식이 아니라 하나님과의 인격적 관계를 위한 것임을 보여줍니다. 하나님께서 친히 언약 의식을 주도하시며, 아브람에게 구체적인 지시를 주십니다.",
+        "points": [
+          "하나님께서 언약 의식을 주도하심",
+          "제물은 하나님과의 인격적 관계를 위한 것",
+          "구체적이고 명확한 하나님의 지시"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 이렇게 많은 동물들을 가져오라고 하셨을까요?",
+      "answer": "하나님은 아브람과 매우 중요한 약속을 하려고 하셨어요. 옛날 사람들은 중요한 약속을 할 때 특별한 의식을 했는데, 그때 동물들을 사용했답니다. 하나님은 아브람에게 '너와 네 자손에게 이 땅을 주겠다'는 약속을 정말 진지하게 하고 싶으셨어요. 마치 우리가 중요한 약속을 할 때 손가락을 걸거나 도장을 찍는 것처럼, 옛날에는 이런 방법으로 약속을 확실하게 했어요.",
+      "bibleReferences": [
+        "창세기 15:18 - '그 날에 여호와께서 아브람과 더불어 언약을 세워 이르시되'",
+        "예레미야 34:18 - '송아지를 둘로 쪼개고 그 두 사이로 지나간 자들'",
+        "히브리서 6:13-14 - '하나님이 아브라함에게 약속하실 때에 가리켜 맹세할 자가 자기보다 더 큰 이가 없으므로 자기를 가리켜 맹세하여'",
+        "레위기 1:3-5 - '그 예물이 소의 번제이면 흠 없는 수컷으로 드릴지니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 하나님과 인간 사이의 언약이 얼마나 진지하고 거룩한 것인지를 보여줍니다. 다섯 가지 제물은 완전하고 포괄적인 헌신을 요구하며, 이는 후에 그리스도께서 완전한 제물로 드려지실 것을 예표합니다. 하나님의 언약은 우리의 전존재를 요구하지만, 동시에 하나님께서 친히 주도하시고 완성하시는 은혜의 언약입니다."
+    }
+  }
+}

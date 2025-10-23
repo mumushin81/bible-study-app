@@ -1,0 +1,122 @@
+{
+  "id": "genesis_6_10",
+  "reference": "창세기 6:10",
+  "hebrew": "וַיּוֹלֶד נֹחַ, שְׁלֹשָׁה בָנִים: אֶת־שֵׁם, אֶת־חָם, וְאֶת־יָפֶת.",
+  "ipa": "vajoˈlɛd ˈnoaχ ʃəloˈʃa vaˈnim ʔɛt ʃem ʔɛt χam vəʔɛt jaˈfɛt",
+  "koreanPronunciation": "바욜레드 노아흐 쉴로샤 바님 에트 쉠 에트 함 베에트 야펫",
+  "modern": "노아는 세 아들을 낳았는데, 셈과 함과 야벳입니다",
+  "words": [
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajoˈlɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(lɛd)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사 - 히필형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"begat_vayoled\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#begat_vayoled)\" /><circle cx=\"20\" cy=\"44\" r=\"6\" fill=\"url(#begat_vayoled)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"44\" r=\"6\" fill=\"url(#begat_vayoled)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"44\" r=\"6\" fill=\"url(#begat_vayoled)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "יֶלֶד (옐레드 - 아이)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשָׁה",
+      "meaning": "셋, 삼",
+      "ipa": "ʃəloˈʃa",
+      "korean": "쉴로샤",
+      "letters": "שְׁ(she) + לֹ(lo) + שָׁה(sha)",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"three_sheloshah\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#three_sheloshah)\" text-anchor=\"middle\">3</text></svg>",
+      "relatedWords": [
+        "שָׁלוֹשׁ (샬로쉬 - 셋)",
+        "שְׁלִישִׁי (쉴리쉬 - 셋째)"
+      ]
+    },
+    {
+      "hebrew": "בָנִים",
+      "meaning": "아들들",
+      "ipa": "vaˈnim",
+      "korean": "바님",
+      "letters": "בָּ(ba) + נִים(nim)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_banim\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"22\" r=\"6\" fill=\"url(#sons_banim)\" /><ellipse cx=\"20\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#sons_banim)\" /><circle cx=\"44\" cy=\"22\" r=\"6\" fill=\"url(#sons_banim)\" /><ellipse cx=\"44\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#sons_banim)\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בָּנוֹת (바노트 - 딸들)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈 (이름)",
+      "ipa": "ʃem",
+      "korean": "쉠",
+      "letters": "שֵׁם(shem)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shem_gradient\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#shem_gradient)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"10\" ry=\"14\" fill=\"url(#shem_gradient)\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "שְׁמִי (쉬미 - 나의 이름)"
+      ]
+    },
+    {
+      "hebrew": "חָם",
+      "meaning": "함 (뜨거운)",
+      "ipa": "χam",
+      "korean": "함",
+      "letters": "חָם(cham)",
+      "root": "חָם (함)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ham_gradient\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#ham_gradient)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"10\" ry=\"14\" fill=\"url(#ham_gradient)\" /></svg>",
+      "relatedWords": [
+        "חֹם (홈 - 열)",
+        "חַם (함 - 뜨거운)"
+      ]
+    },
+    {
+      "hebrew": "יָפֶת",
+      "meaning": "야벳 (확장)",
+      "ipa": "jaˈfɛt",
+      "korean": "야펫",
+      "letters": "יָ(ya) + פֶת(fet)",
+      "root": "פ-ת-ה (파타)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"japheth_gradient\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#japheth_gradient)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"10\" ry=\"14\" fill=\"url(#japheth_gradient)\" /></svg>",
+      "relatedWords": [
+        "פָּתָה (파타 - 열다, 확장하다)",
+        "פֶּתַח (페타흐 - 문)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아의 세 아들 셈, 함, 야벳은 홍수 이후 전 인류의 조상이 됩니다. 이들의 이름은 각각 의미가 있으며, 그들의 후손이 세계 각지로 퍼져나갑니다.",
+    "sections": [
+      {
+        "emoji": "🌍",
+        "title": "인류의 새 시작",
+        "description": "노아의 세 아들을 통해 홍수 후 인류가 다시 시작됩니다. 이들은 아시아, 아프리카, 유럽의 조상이 됩니다.",
+        "points": [
+          "셈 - 셈족(아시아 민족)의 조상",
+          "함 - 함족(아프리카 민족)의 조상",
+          "야벳 - 야벳족(유럽 민족)의 조상"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아의 세 아들이 중요할까요?",
+      "answer": "홍수 이후에 세상에 남은 사람은 노아의 가족 8명뿐이었어요. 그래서 노아의 세 아들 셈, 함, 야벳이 다시 많은 자녀를 낳아서, 지금 우리 모두는 이 세 아들의 후손이랍니다. 우리 모두는 한 가족에서 시작된 거예요!",
+      "bibleReferences": [
+        "창세기 9:19 - '노아의 이 세 아들로부터 온 땅에 퍼졌더라'",
+        "창세기 10:1 - '노아의 아들 셈과 함과 야벳의 족보는 이러하니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "새로운 인류",
+      "content": "노아의 세 아들은 홍수 이후 새로운 인류의 시작입니다. 모든 민족과 나라가 이들로부터 나왔으며, 이는 인류가 하나라는 진리를 보여줍니다."
+    }
+  }
+}

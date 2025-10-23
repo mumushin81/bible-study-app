@@ -1,0 +1,162 @@
+{
+  "id": "genesis_6_18",
+  "reference": "창세기 6:18",
+  "hebrew": "וַהֲקִמֹתִי אֶת־בְּרִיתִי, אִתָּךְ; וּבָאתָ אֶל־הַתֵּבָה, אַתָּה וּבָנֶיךָ וְאִשְׁתְּךָ וּנְשֵׁי־בָנֶיךָ, אִתָּךְ.",
+  "ipa": "vahaqiˈmoti ʔɛt bəriˈti ʔiˈtaχ uvaˈta ʔɛl hateˈva ʔaˈta uvaneˈχa vəʔiʃtəˈχa unʃe vaneˈχa ʔiˈtaχ",
+  "koreanPronunciation": "바하키모티 에트 베리티 이타크 우바타 엘 하테바 아타 우바네카 베이쉬테카 운쉐 바네카 이타크",
+  "modern": "그러나 내가 너와 언약을 세우리니, 너는 네 아들들과 네 아내와 네 며느리들과 함께 방주로 들어가라",
+  "words": [
+    {
+      "hebrew": "וַהֲקִמֹתִי",
+      "meaning": "그리고 내가 세우리라",
+      "ipa": "vahaqiˈmoti",
+      "korean": "바하키모티",
+      "letters": "וַ(va) + הֲ(ha) + קִ(qi) + מֹתִי(moti)",
+      "root": "ק-ו-ם (쿰)",
+      "grammar": "동사 - 히필형 1인칭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"establish_vahaqimoti\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><rect x=\"20\" y=\"32\" width=\"24\" height=\"24\" fill=\"url(#establish_vahaqimoti)\" opacity=\"0.5\" /><path d=\"M 20 32 L 32 12 L 44 32\" stroke=\"url(#establish_vahaqimoti)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "קוּם (쿰 - 일어나다)",
+        "הֵקִים (헤킴 - 세우다)"
+      ]
+    },
+    {
+      "hebrew": "בְּרִיתִי",
+      "meaning": "나의 언약",
+      "ipa": "bəriˈti",
+      "korean": "베리티",
+      "letters": "בְּ(be) + רִי(ri) + תִי(ti)",
+      "root": "בְּרִית (베리트)",
+      "grammar": "명사 - 1인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"covenant_beriti\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"24\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"url(#covenant_beriti)\" stroke-width=\"3\" /><circle cx=\"40\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"url(#covenant_beriti)\" stroke-width=\"3\" /><path d=\"M 28 32 L 36 32\" stroke=\"url(#covenant_beriti)\" stroke-width=\"4\" /></svg>",
+      "relatedWords": [
+        "בְּרִית (베리트 - 언약)",
+        "כָּרַת בְּרִית (카라트 베리트 - 언약을 맺다)"
+      ]
+    },
+    {
+      "hebrew": "אִתָּךְ",
+      "meaning": "너와 함께",
+      "ipa": "ʔiˈtaχ",
+      "korean": "이타크",
+      "letters": "אִ(i) + תָּךְ(taχ)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사 + 2인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"with_ittach\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"28\" cy=\"32\" r=\"10\" fill=\"url(#with_ittach)\" opacity=\"0.5\" /><circle cx=\"36\" cy=\"32\" r=\"10\" fill=\"url(#with_ittach)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֵת (에트 - ~와 함께)",
+        "עִם (임 - ~와 함께)"
+      ]
+    },
+    {
+      "hebrew": "וּבָאתָ",
+      "meaning": "그리고 너는 들어가라",
+      "ipa": "uvaˈta",
+      "korean": "우바타",
+      "letters": "וּ(u) + בָ(va) + אתָ(ta)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사 - 완료형 2인칭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enter_uvata\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"36\" y=\"16\" width=\"20\" height=\"32\" rx=\"2\" fill=\"none\" stroke=\"url(#enter_uvata)\" stroke-width=\"3\" /><path d=\"M 12 32 L 36 32\" stroke=\"url(#enter_uvata)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 24 L 36 32 L 28 40\" stroke=\"url(#enter_uvata)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "בָּא (바 - 왔다)"
+      ]
+    },
+    {
+      "hebrew": "אַתָּה",
+      "meaning": "너",
+      "ipa": "ʔaˈta",
+      "korean": "아타",
+      "letters": "אַ(a) + תָּה(ta)",
+      "root": "אַתָּה (아타)",
+      "grammar": "대명사 - 2인칭 남성",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"you_attah\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#you_attah)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אַתְּ (아트 - 너, 여성)",
+        "אַתֶּם (아템 - 너희들)"
+      ]
+    },
+    {
+      "hebrew": "וּבָנֶיךָ",
+      "meaning": "그리고 네 아들들",
+      "ipa": "uvaneˈχa",
+      "korean": "우바네카",
+      "letters": "וּ(u) + בָ(va) + נֶיךָ(neycha)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사 - 복수 + 2인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_uvaneycha\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"28\" r=\"5\" fill=\"url(#sons_uvaneycha)\" /><ellipse cx=\"20\" cy=\"40\" rx=\"6\" ry=\"9\" fill=\"url(#sons_uvaneycha)\" /><circle cx=\"44\" cy=\"28\" r=\"5\" fill=\"url(#sons_uvaneycha)\" /><ellipse cx=\"44\" cy=\"40\" rx=\"6\" ry=\"9\" fill=\"url(#sons_uvaneycha)\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בָּנִים (바님 - 아들들)"
+      ]
+    },
+    {
+      "hebrew": "וְאִשְׁתְּךָ",
+      "meaning": "그리고 네 아내",
+      "ipa": "vəʔiʃtəˈχa",
+      "korean": "베이쉬테카",
+      "letters": "וְ(ve) + אִ(i) + שְׁתְּךָ(shtecha)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사 - 2인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wife_veishtecha\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"7\" fill=\"url(#wife_veishtecha)\" /><ellipse cx=\"32\" cy=\"40\" rx=\"9\" ry=\"12\" fill=\"url(#wife_veishtecha)\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "נָשִׁים (나쉼 - 여자들)"
+      ]
+    },
+    {
+      "hebrew": "וּנְשֵׁי־בָנֶיךָ",
+      "meaning": "그리고 네 아들들의 아내들",
+      "ipa": "unʃe vaneˈχa",
+      "korean": "운쉐 바네카",
+      "letters": "וּ(u) + נְשֵׁי(neshei) + בָנֶיךָ(vaneycha)",
+      "root": "אִשָּׁה (이샤) + בֵּן (벤)",
+      "grammar": "명사구 - 연계형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"daughters_unshei\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#daughters_unshei)\" /><ellipse cx=\"20\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#daughters_unshei)\" /><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#daughters_unshei)\" /><ellipse cx=\"44\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#daughters_unshei)\" /></svg>",
+      "relatedWords": [
+        "נָשִׁים (나쉼 - 여자들)",
+        "כַּלָּה (칼라 - 며느리)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "심판 가운데서도 하나님은 언약을 세우십니다. 이는 성경의 첫 번째 언약 선언이며, 하나님의 은혜와 신실하심을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "🤝",
+        "title": "최초의 언약",
+        "description": "'베리트'(בְּרִית)는 하나님과 인간 사이의 신성한 약속입니다. 이는 성경에서 언약이라는 개념이 처음 등장하는 구절입니다.",
+        "points": [
+          "하나님의 주권적 은혜",
+          "무조건적 구원의 약속",
+          "가족 언약 - 온 가족의 구원"
+        ],
+        "color": "gold"
+      },
+      {
+        "emoji": "👨‍👩‍👧‍👦",
+        "title": "가족 구원",
+        "description": "노아 혼자만이 아니라 그의 온 가족이 구원받습니다. 이는 하나님의 구원이 개인뿐 아니라 가족 단위로도 임함을 보여줍니다.",
+        "points": [
+          "가족 언약의 원리",
+          "8명의 구원 - 새로운 시작",
+          "믿음의 가장의 책임"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 노아와 언약을 세우셨을까요?",
+      "answer": "하나님은 노아를 사랑하셔서 꼭 약속을 해주시고 싶으셨어요. '너와 네 가족은 내가 꼭 지켜줄게!'라고 약속하신 거예요. 하나님의 약속은 절대 변하지 않아요. 하나님은 지금도 우리와 언약을 세우시고, 항상 지켜주시는 분이세요.",
+      "bibleReferences": [
+        "창세기 9:9 - '내가 너희와 너희 후손과 언약을 세우리니'",
+        "사도행전 16:31 - '주 예수를 믿으라 그리하면 너와 네 집이 구원을 받으리라'",
+        "이사야 54:10 - '내가 너를 긍휼히 여기는 것은 변하지 아니하며 나의 화평의 언약도 흔들리지 아니하리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "은혜 언약",
+      "content": "노아 언약은 은혜 언약의 시작입니다. 하나님은 심판 가운데서도 구원의 길을 준비하시고, 언약을 통해 그 구원을 확증하십니다. 이는 예수 그리스도를 통한 새 언약의 예표입니다."
+    }
+  }
+}

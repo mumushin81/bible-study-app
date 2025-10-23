@@ -1,0 +1,205 @@
+{
+  "id": "genesis_13_10",
+  "reference": "창세기 13:10",
+  "hebrew": "",
+  "ipa": "vajiˈsa lot ʔɛt ʕeˈnav vajˈjarʔ ʔɛt kol kikˈkar hajarˈden ki xoˈla maʃˈka lifˈne ʃaˈxet jəhoˈva ʔɛt səˈdom vəʔɛt ʕamoˈra kəˈɡan jəhoˈva kəˈʔerɛʦ miʦˈrajim boʔaˈxa ʦoˈʕar",
+  "koreanPronunciation": "바이사 롯 에트 에나브 바야르 에트 콜 키카르 하야르덴 키 콜라 마쉬카 리프네 샤헤트 예호와 에트 스돔 베에트 아모라 케간 예호와 케에레츠 미츠라임 보아하 쪼아르",
+  "modern": "롯이 눈을 들어 요단 온 들을 바라보니, 여호와께서 소돔과 고모라를 멸하시기 전이라 소알까지 온 땅에 물이 넉넉하니 여호와의 동산 같고 애굽 땅과 같았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּשָּׂא",
+      "meaning": "그리고 들어올리다",
+      "ipa": "vajiˈsa",
+      "korean": "바이사",
+      "letters": "וַ(va) + יִּ(yi) + שָּׂא(sa)",
+      "root": "נ-שׂ-א (나사)",
+      "grammar": "동사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-eyes1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient><radialGradient id=\"lot-pupil1\"><stop offset=\"0%\" stop-color=\"#000000\"/><stop offset=\"100%\" stop-color=\"#333333\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"url(#lot-eyes1)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#lot-pupil1)\"/><circle cx=\"29\" cy=\"29\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\"/><path d=\"M 12 26 Q 32 20 52 26\" stroke=\"#4682B4\" stroke-width=\"3\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "לוֹט",
+      "meaning": "롯",
+      "ipa": "lot",
+      "korean": "롯",
+      "letters": "לוֹ(lo) + ט(t)",
+      "root": "לוֹט (롯)",
+      "grammar": "명사",
+      "emoji": "🧑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-person1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#lot-person1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"16\" fill=\"url(#lot-person1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"28\" cy=\"18\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"18\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת עֵינָיו",
+      "meaning": "그의 눈들을",
+      "ipa": "ʔɛt ʕeˈnav",
+      "korean": "에트 에나브",
+      "letters": "אֶת(et) + עֵ(e) + ינָיו(nav)",
+      "root": "ע-י-ן (아인)",
+      "grammar": "명사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-eyes2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4169E1\"/></linearGradient></defs><ellipse cx=\"22\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#lot-eyes2)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.3))\"/><ellipse cx=\"42\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"url(#lot-eyes2)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.3))\"/><circle cx=\"22\" cy=\"32\" r=\"4\" fill=\"#000\"/><circle cx=\"42\" cy=\"32\" r=\"4\" fill=\"#000\"/><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보다",
+      "ipa": "vajˈjarʔ",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "🔍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-see1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"none\" stroke=\"url(#lot-see1)\" stroke-width=\"4\" filter=\"drop-shadow(0 2px 6px rgba(255, 165, 0, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#lot-see1)\"/><line x1=\"44\" y1=\"44\" x2=\"52\" y2=\"52\" stroke=\"url(#lot-see1)\" stroke-width=\"4\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "כִּכַּר הַיַּרְדֵּן",
+      "meaning": "요단의 둥근 평야",
+      "ipa": "kikˈkar hajarˈden",
+      "korean": "키카르 하야르덴",
+      "letters": "כִּ(ki) + כַּר(kar) + הַ(ha) + יַּרְדֵּן(yarden)",
+      "root": "כ-ר-ר (카라르)",
+      "grammar": "명사",
+      "emoji": "🌄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jordan-plain1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"50%\" stop-color=\"#9ACD32\"/><stop offset=\"100%\" stop-color=\"#6B8E23\"/></linearGradient><linearGradient id=\"jordan-river1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"50%\" stop-color=\"#5F9EA0\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#jordan-plain1)\"/><path d=\"M 8 36 Q 20 32 32 36 Q 44 40 56 36 L 56 48 Q 44 44 32 48 Q 20 52 8 48 Z\" fill=\"url(#jordan-river1)\" opacity=\"0.7\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.3))\"/><circle cx=\"16\" cy=\"20\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\"/><circle cx=\"48\" cy=\"24\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "כֻּלָּהּ",
+      "meaning": "그것 전체",
+      "ipa": "kuˈla",
+      "korean": "쿨라",
+      "letters": "כֻּ(ku) + לָּהּ(lah)",
+      "root": "כ-ל-ל (칼랄)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"lot-all1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#lot-all1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#lot-all1)\" opacity=\"0.5\" filter=\"drop-shadow(0 2px 6px rgba(255, 165, 0, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#lot-all1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.6))\"/></svg>"
+    },
+    {
+      "hebrew": "מַשְׁקֶה",
+      "meaning": "물이 넉넉함",
+      "ipa": "maʃˈke",
+      "korean": "마쉬케",
+      "letters": "מַ(ma) + שְׁקֶה(shke)",
+      "root": "שׁ-ק-ה (샤카)",
+      "grammar": "명사",
+      "emoji": "💧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"50%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 32 12 Q 28 20 32 28 Q 36 36 32 44 Q 28 52 32 56 Q 36 52 32 44 Q 28 36 32 28 Q 36 20 32 12\" fill=\"url(#lot-water1)\" filter=\"drop-shadow(0 3px 6px rgba(30, 144, 255, 0.5))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "לִפְנֵי",
+      "meaning": "~전에",
+      "ipa": "lifˈne",
+      "korean": "리프네",
+      "letters": "לִ(li) + פְנֵי(fne)",
+      "root": "פ-נ-ה (파나)",
+      "grammar": "전치사",
+      "emoji": "⏮️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-before1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#E1BEE7\"/></linearGradient></defs><path d=\"M 48 32 L 32 20 L 32 28 L 16 28 L 16 36 L 32 36 L 32 44 Z\" fill=\"url(#lot-before1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "שַׁחֵת יְהוָה",
+      "meaning": "여호와께서 멸하시다",
+      "ipa": "ʃaˈxet jəhoˈva",
+      "korean": "샤헤트 예호와",
+      "letters": "שַׁ(sha) + חֵת(het) + יְ(ye) + הוָה(hovah)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-warning1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"50%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><path d=\"M 32 52 L 28 40 Q 24 32 28 24 L 32 12 L 36 24 Q 40 32 36 40 Z\" fill=\"url(#sodom-warning1)\" filter=\"drop-shadow(0 3px 8px rgba(255, 69, 0, 0.6))\"/><path d=\"M 26 44 Q 22 36 26 28\" fill=\"url(#sodom-warning1)\" opacity=\"0.7\"/><path d=\"M 38 44 Q 42 36 38 28\" fill=\"url(#sodom-warning1)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "סְדֹם וְאֶת עֲמֹרָה",
+      "meaning": "소돔과 고모라를",
+      "ipa": "səˈdom vəʔɛt ʕamoˈra",
+      "korean": "스돔 베에트 아모라",
+      "letters": "סְ(se) + דֹם(dom) + וְ(ve) + עֲ(a) + מֹרָה(morah)",
+      "root": "סְדֹם (스돔)",
+      "grammar": "명사",
+      "emoji": "🏙️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom-cities1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><linearGradient id=\"sodom-fire1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"12\" height=\"20\" fill=\"url(#sodom-cities1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><rect x=\"36\" y=\"32\" width=\"12\" height=\"24\" fill=\"url(#sodom-cities1)\"/><rect x=\"18\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"24\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"38\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><rect x=\"44\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/><path d=\"M 22 36 L 22 28 L 20 32 L 24 32 Z\" fill=\"url(#sodom-fire1)\" opacity=\"0.4\"/><path d=\"M 42 32 L 42 24 L 40 28 L 44 28 Z\" fill=\"url(#sodom-fire1)\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "כְּגַן יְהוָה",
+      "meaning": "여호와의 동산같이",
+      "ipa": "kəˈɡan jəhoˈva",
+      "korean": "케간 예호와",
+      "letters": "כְּ(ke) + גַן(gan) + יְ(ye) + הוָה(hovah)",
+      "root": "ג-נ-ן (가난)",
+      "grammar": "명사",
+      "emoji": "🌳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eden-garden1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"50%\" stop-color=\"#228B22\"/><stop offset=\"100%\" stop-color=\"#006400\"/></linearGradient><radialGradient id=\"eden-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#eden-glow1)\" opacity=\"0.3\"/><circle cx=\"28\" cy=\"24\" r=\"12\" fill=\"url(#eden-garden1)\" filter=\"drop-shadow(0 2px 4px rgba(34, 139, 34, 0.5))\"/><circle cx=\"36\" cy=\"26\" r=\"10\" fill=\"url(#eden-garden1)\" opacity=\"0.8\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#eden-garden1)\" opacity=\"0.9\"/><rect x=\"30\" y=\"40\" width=\"4\" height=\"12\" fill=\"#8B4513\"/></svg>"
+    },
+    {
+      "hebrew": "כְּאֶרֶץ מִצְרַיִם",
+      "meaning": "애굽 땅같이",
+      "ipa": "kəˈʔerɛʦ miʦˈrajim",
+      "korean": "케에레츠 미츠라임",
+      "letters": "כְּ(ke) + אֶ(e) + רֶץ(retz) + מִ(mi) + צְרַיִם(tzrayim)",
+      "root": "א-ר-ץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🏜️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#F4A460\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><linearGradient id=\"egypt-nile1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#5F9EA0\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#egypt-land1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 8 40 Q 20 36 32 40 Q 44 44 56 40 L 56 48 L 8 48 Z\" fill=\"url(#egypt-nile1)\" opacity=\"0.6\"/><path d=\"M 20 16 L 28 24 L 24 24 L 24 32 L 16 32 L 16 24 L 12 24 Z\" fill=\"#FFD700\" opacity=\"0.5\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 10절은 롯의 선택의 순간을 기록합니다. 롯이 눈을 들어 요단 평야를 바라본 것은 단순한 관찰이 아니라 탐욕적인 욕망의 시작이었습니다. 소돔과 고모라가 멸망하기 전 그곳은 에덴동산처럼 아름답고 풍요로웠지만, 롯은 외적인 풍요만 보고 영적 위험을 보지 못했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּשָּׂא לוֹט אֶת עֵינָיו (바이사 롯 에트 에나브) - 롯이 눈을 들어",
+        "description": "'눈을 들다'는 표현은 성경에서 중요한 선택의 순간을 나타냅니다. 아브라함도 눈을 들어 하나님의 약속을 보았지만(창 13:14), 롯은 눈을 들어 세상의 풍요를 보았습니다. 같은 행동이지만 다른 방향을 향했습니다.",
+        "points": [
+          "눈을 들어 무엇을 보느냐가 우리 선택을 결정합니다",
+          "롯은 육신의 눈으로만 보고 신앙의 눈으로 보지 못했습니다",
+          "외적 풍요가 반드시 하나님의 축복은 아닙니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כִּכַּר הַיַּרְדֵּן (키카르 하야르덴) - 요단의 둥근 평야",
+        "description": "'키카르'는 '둥근 것', '평야'를 의미하며, 요단 강 주변의 비옥한 평지를 가리킵니다. 이 지역은 당시 농업과 목축에 최적의 조건을 갖춘 곳이었지만, 동시에 악한 소돔과 고모라가 위치한 곳이었습니다.",
+        "points": [
+          "요단 평야는 물이 풍부하고 비옥한 땅이었습니다",
+          "외적 조건만으로 선택하는 것은 위험합니다",
+          "소돔과 고모라의 죄악을 간과한 선택"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כְּגַן יְהוָה (케간 예호와) - 여호와의 동산같이",
+        "description": "이 표현은 에덴동산을 연상시킵니다. 요단 평야가 에덴동산처럼 아름답고 풍요로웠다는 것은 하나님의 창조의 완전함을 보여주지만, 동시에 타락 이전의 완전함은 이미 상실되었음을 암시합니다.",
+        "points": [
+          "외적으로는 에덴동산처럼 아름다웠지만 영적으로는 타락한 곳",
+          "진정한 '여호와의 동산'은 하나님의 임재가 있는 곳입니다",
+          "겉모습의 아름다움이 내면의 거룩함을 보장하지 않습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לִפְנֵי שַׁחֵת יְהוָה (리프네 샤헤트 예호와) - 여호와께서 멸하시기 전",
+        "description": "본문은 의도적으로 '소돔과 고모라 멸망 전'이라는 시간적 배경을 명시합니다. 이는 롯이 본 풍요가 일시적이며, 하나님의 심판이 임할 것임을 예고합니다. 죄악이 가득한 곳의 풍요는 오래가지 못합니다.",
+        "points": [
+          "겉으로 보기 좋은 것이 영원하지 않습니다",
+          "하나님의 심판이 임하면 모든 것이 사라집니다",
+          "롯의 선택은 결국 큰 손실로 이어집니다 (창 19장)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "롯은 왜 그렇게 아름다운 요단 평야를 선택했나요?",
+      "answer": "롯이 본 요단 평야는 정말 아름답고 물도 많아서 농사짓기에 최고였어요. 마치 하나님의 에덴동산이나 애굽의 나일강처럼 풍요로웠답니다. 롯은 그 아름다움만 보고 그곳을 선택했어요. 하지만 그곳에는 나쁜 사람들이 사는 소돔과 고모라라는 도시가 있었는데, 롯은 그것을 생각하지 않았어요. 겉으로만 보기 좋은 것을 선택하면 나중에 후회할 수 있어요.",
+      "bibleReferences": [
+        "마태복음 6:33 - '너희는 먼저 그의 나라와 그의 의를 구하라'",
+        "요한일서 2:16 - '육신의 정욕과 안목의 정욕과 이생의 자랑'",
+        "창세기 19:24-25 - '여호와께서 하늘 곧 여호와께로부터 유황과 불을 소돔과 고모라에 비같이 내리사'",
+        "누가복음 17:28-29 - '롯의 때와 같으리니... 롯이 소돔에서 나가던 날에 하늘로부터 불과 유황이 비 오듯 하여'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "롯의 선택은 '안목의 정욕'(요일 2:16)의 전형적인 예입니다. 외적 풍요와 현세적 이익만을 추구하는 선택은 영적 파멸로 이어질 수 있습니다. 진정한 축복은 하나님의 임재와 말씀이 있는 곳에 있으며, 우리는 보이는 것이 아니라 믿음으로 선택해야 합니다. 롯의 선택은 결국 모든 것을 잃는 결과로 이어졌지만(창 19장), 아브라함의 선택은 영원한 축복의 근원이 되었습니다."
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": "genesis_6_7",
+  "reference": "창세기 6:7",
+  "hebrew": "וַיֹּאמֶר יְהוָה, אֶמְחֶה אֶת־הָאָדָם אֲשֶׁר־בָּרָאתִי מֵעַל פְּנֵי הָאֲדָמָה, מֵאָדָם עַד־בְּהֵמָה, עַד־רֶמֶשׂ וְעַד־עוֹף הַשָּׁמָיִם: כִּי נִחַמְתִּי, כִּי עֲשִׂיתִם.",
+  "ipa": "vajoˈmer jehoˈva ʔɛmˈχɛ ʔɛt haʔaˈdam ʔaˈʃer baˈrati meˈal pəˈne haʔadaˈma meʔaˈdam ʔad bəheˈma ʔad ˈrɛmɛs vəʔad ʔof haʃaˈmajim ki niχamˈti ki ʔasiˈtim",
+  "koreanPronunciation": "바요메르 여호와 엠헤 에트 하아담 아쉐르 바라티 메알 페네 하아다마 메아담 아드 베헤마 아드 레메스 베아드 오프 하샤마임 키 니함티 키 아시팀",
+  "modern": "여호와께서 말씀하셨습니다. '내가 창조한 사람을 땅 위에서 쓸어버리겠다. 사람뿐 아니라 짐승과 기는 것과 공중의 새까지. 내가 그들을 만든 것을 후회하기 때문이다'",
+  "words": [
+    {
+      "hebrew": "אֶמְחֶה",
+      "meaning": "내가 지울 것이다, 쓸어버릴 것이다",
+      "ipa": "ʔɛmˈχɛ",
+      "korean": "엠헤",
+      "letters": "אֶ(e) + מְ(m) + חֶה(χɛ)",
+      "root": "מ-ח-ה (마하)",
+      "grammar": "동사 - 1인칭 미완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"blotout_emcheh\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><rect x=\"12\" y=\"28\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#blotout_emcheh)\" opacity=\"0.3\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#blotout_emcheh)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מָחָה (마하 - 지우다)",
+        "מָחוּי (마후이 - 지워진)"
+      ]
+    },
+    {
+      "hebrew": "בָּרָאתִי",
+      "meaning": "내가 창조했다",
+      "ipa": "baˈrati",
+      "korean": "바라티",
+      "letters": "בָּ(ba) + רָא(ra) + תִי(ti)",
+      "root": "ב-ר-א (바라)",
+      "grammar": "동사 - 1인칭 완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"created_barati\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#created_barati)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#created_barati)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#created_barati)\" /></svg>",
+      "relatedWords": [
+        "בָּרָא (바라 - 창조하다)",
+        "בְּרִיאָה (베리아 - 창조)"
+      ]
+    },
+    {
+      "hebrew": "מֵעַל",
+      "meaning": "~로부터, ~위에서",
+      "ipa": "meˈal",
+      "korean": "메알",
+      "letters": "מֵ(me) + עַל(al)",
+      "root": "עַל (알)",
+      "grammar": "전치사 복합형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"from_meal\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 48 16 L 16 48\" stroke=\"url(#from_meal)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 40 16 L 48 16 L 48 24\" stroke=\"url(#from_meal)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עַל (알 - 위에)",
+        "מִן (민 - ~로부터)"
+      ]
+    },
+    {
+      "hebrew": "פְּנֵי",
+      "meaning": "표면",
+      "ipa": "pəˈne",
+      "korean": "페네",
+      "letters": "פְּ(pə) + נֵי(ne)",
+      "root": "פָּנִים (파님)",
+      "grammar": "명사 - 연계형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"face_penei\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"26\" ry=\"4\" fill=\"url(#face_penei)\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"28\" rx=\"24\" ry=\"4\" fill=\"url(#face_penei)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴, 표면)",
+        "לִפְנֵי (리프네 - 앞에)"
+      ]
+    },
+    {
+      "hebrew": "מֵאָדָם",
+      "meaning": "사람으로부터",
+      "ipa": "meʔaˈdam",
+      "korean": "메아담",
+      "letters": "מֵ(me) + אָדָם(adam)",
+      "root": "אָדָם (아담)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"froman_meadam\"><stop offset=\"0%\" stop-color=\"#F2994A\" /><stop offset=\"100%\" stop-color=\"#F2C94C\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"7\" fill=\"url(#froman_meadam)\" /><ellipse cx=\"32\" cy=\"38\" rx=\"9\" ry=\"13\" fill=\"url(#froman_meadam)\" /></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 사람)",
+        "בְּנֵי אָדָם (베네 아담 - 인류)"
+      ]
+    },
+    {
+      "hebrew": "עַד־בְּהֵמָה",
+      "meaning": "짐승까지",
+      "ipa": "ʔad bəheˈma",
+      "korean": "아드 베헤마",
+      "letters": "עַד(ad) + בְּ(be) + הֵ(he) + מָה(ma)",
+      "root": "בְּהֵמָה (베헤마)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle_behemah\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"url(#cattle_behemah)\" /><circle cx=\"24\" cy=\"28\" r=\"4\" fill=\"url(#cattle_behemah)\" /><circle cx=\"40\" cy=\"28\" r=\"4\" fill=\"url(#cattle_behemah)\" /><rect x=\"26\" y=\"48\" width=\"4\" height=\"8\" fill=\"url(#cattle_behemah)\" /><rect x=\"34\" y=\"48\" width=\"4\" height=\"8\" fill=\"url(#cattle_behemah)\" /></svg>",
+      "relatedWords": [
+        "בְּהֵמָה (베헤마 - 짐승, 가축)",
+        "חַיָּה (하야 - 야생동물)"
+      ]
+    },
+    {
+      "hebrew": "רֶמֶשׂ",
+      "meaning": "기는 것",
+      "ipa": "ˈrɛmɛs",
+      "korean": "레메스",
+      "letters": "רֶ(re) + מֶשׂ(mes)",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creeping_remes\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"6\" fill=\"url(#creeping_remes)\" /><circle cx=\"20\" cy=\"40\" r=\"2\" fill=\"url(#creeping_remes)\" /><circle cx=\"32\" cy=\"40\" r=\"2\" fill=\"url(#creeping_remes)\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"url(#creeping_remes)\" /></svg>",
+      "relatedWords": [
+        "רָמַשׂ (라마스 - 기어다니다)",
+        "שֶׁרֶץ (셰레츠 - 기는 것들)"
+      ]
+    },
+    {
+      "hebrew": "עוֹף",
+      "meaning": "새",
+      "ipa": "ʔof",
+      "korean": "오프",
+      "letters": "עוֹף(of)",
+      "root": "ע-ו-ף (우프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird_of\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient></defs><path d=\"M 16 32 Q 32 20 48 32\" stroke=\"url(#bird_of)\" stroke-width=\"3\" fill=\"none\" /><path d=\"M 16 32 Q 32 28 48 32\" stroke=\"url(#bird_of)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#bird_of)\" /></svg>",
+      "relatedWords": [
+        "עָף (아프 - 날다)",
+        "צִפּוֹר (치포르 - 새)"
+      ]
+    },
+    {
+      "hebrew": "נִחַמְתִּי",
+      "meaning": "내가 후회했다",
+      "ipa": "niχamˈti",
+      "korean": "니함티",
+      "letters": "נִ(ni) + חַ(χa) + מְ(m) + תִּי(ti)",
+      "root": "נ-ח-ם (나함)",
+      "grammar": "동사 - 1인칭 완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"regretted_nichamti\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 32 20 Q 20 32 32 44 Q 44 32 32 20\" stroke=\"url(#regretted_nichamti)\" stroke-width=\"3\" fill=\"none\" /><circle cx=\"28\" cy=\"30\" r=\"2\" fill=\"url(#regretted_nichamti)\" /><circle cx=\"36\" cy=\"30\" r=\"2\" fill=\"url(#regretted_nichamti)\" /></svg>",
+      "relatedWords": [
+        "נָחַם (나함 - 후회하다)",
+        "נְחָמָה (네하마 - 위로)"
+      ]
+    },
+    {
+      "hebrew": "עֲשִׂיתִם",
+      "meaning": "내가 만들었다",
+      "ipa": "ʔasiˈtim",
+      "korean": "아시팀",
+      "letters": "עֲ(a) + שִׂי(si) + תִם(tim)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사 - 1인칭 완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"made_asitim\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"20\" y=\"28\" width=\"24\" height=\"24\" rx=\"4\" fill=\"url(#made_asitim)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#made_asitim)\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다)",
+        "מַעֲשֶׂה (마아세 - 행위)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님의 심판 선언입니다. 사람만이 아니라 모든 생명체를 멸하시겠다는 결정은 죄의 결과가 얼마나 광범위한지를 보여줍니다. 인간의 죄로 인해 무죄한 피조물도 함께 심판받습니다.",
+    "sections": [
+      {
+        "emoji": "⚖️",
+        "title": "전면적 심판",
+        "description": "하나님은 사람뿐 아니라 땅의 모든 생명을 멸하시기로 결정하셨습니다. 이는 인간의 타락이 전 피조물에 영향을 미쳤음을 보여줍니다.",
+        "points": [
+          "인간의 죄가 피조세계 전체에 미친 영향",
+          "로마서 8:20-22의 신음하는 피조물",
+          "심판의 포괄성과 철저함"
+        ],
+        "color": "red"
+      },
+      {
+        "emoji": "💔",
+        "title": "창조주의 슬픔",
+        "description": "'내가 만든 것을 후회한다'는 표현은 하나님의 깊은 고통을 나타냅니다. 창조의 기쁨이 심판의 슬픔으로 바뀌었습니다.",
+        "points": [
+          "창조와 심판의 대조",
+          "하나님은 심판을 기뻐하지 않으심",
+          "사랑의 하나님과 공의의 하나님"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 동물들까지 심판을 받아야 했을까요?",
+      "answer": "하나님이 사람을 위해 동물들을 만드셨는데, 사람들이 나빠지면서 온 세상이 망가졌어요. 동물들도 사람들 때문에 같이 고통받았답니다. 하나님은 새로운 세상을 만들기 위해 노아의 방주에 동물들도 태우셔서 구해주셨어요.",
+      "bibleReferences": [
+        "로마서 8:20-22 - '피조물이 허무한 데 굴복하는 것은... 피조물도 썩어짐의 종 노릇 한 데서 해방되어'",
+        "창세기 3:17-18 - '땅은 너로 말미암아 저주를 받고... 가시덤불과 엉겅퀴가 네게 나리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "새 창조를 위한 심판",
+      "content": "홍수 심판은 단순한 파괴가 아니라 새로운 시작을 위한 정화입니다. 타락한 세상을 깨끗이 하고 노아를 통해 새로운 인류를 시작하시려는 하나님의 계획입니다."
+    }
+  }
+}

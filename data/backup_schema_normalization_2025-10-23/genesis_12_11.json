@@ -1,0 +1,140 @@
+{
+  "id": "genesis_12_11",
+  "reference": "창세기 12:11",
+  "hebrew": "",
+  "ipa": "vajəˈhi kaʔaˈʃɛr hikˈriv laˈvoʔ mitsˈrajma vajˈjomɛr ʔɛl śaˈraj ʔiʃˈto hinˈne naʔ jaˈdaʕti ki ʔiˈʃa jəˈfat marˈʔɛ ʔat",
+  "koreanPronunciation": "바예히 카아쉐르 히크리브 라보 미츠라이마 바요메르 엘 사라이 이쉬토 힌네 나 야다티 키 이샤 예팟 마르에 아트",
+  "modern": "아브람이 이집트에 가까이 이르렀을 때 그의 아내 사라이에게 말했습니다. 보라, 나는 당신이 아름다운 여인인 것을 알고 있습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 ~이었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-approach1-time\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"egypt-approach1-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#egypt-approach1-time)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#egypt-approach1-glow)\" filter=\"drop-shadow(0 0 8px rgba(102, 126, 234, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#764ba2\" filter=\"drop-shadow(0 0 4px rgba(118, 75, 162, 0.8))\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - ~될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כַּאֲשֶׁר הִקְרִיב",
+      "meaning": "가까이 이르렀을 때",
+      "ipa": "kaʔaˈʃɛr hikˈriv",
+      "korean": "카아쉐르 히크리브",
+      "letters": "כַּ(ka) + אֲ(a) + שֶׁר(sher) + הִ(hi) + קְ(ke) + רִיב(riv)",
+      "root": "כַּאֲשֶׁר (카아쉐르) + ק-ר-ב (카라브)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-approach1-near\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#fa709a\" /><stop offset=\"100%\" stop-color=\"#fee140\" /></linearGradient></defs><path d=\"M 8 32 Q 20 20 32 28 Q 44 36 56 28\" stroke=\"url(#egypt-approach1-near)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"12\" cy=\"32\" r=\"5\" fill=\"#fa709a\" opacity=\"0.4\" /><circle cx=\"28\" cy=\"26\" r=\"5\" fill=\"#fa709a\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"34\" r=\"5\" fill=\"#fa709a\" opacity=\"0.8\" /><circle cx=\"56\" cy=\"28\" r=\"6\" fill=\"#fee140\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\" /></svg>",
+      "relatedWords": [
+        "קָרַב (카라브 - 가까이 오다)",
+        "קָרוֹב (카로브 - 가까운)"
+      ]
+    },
+    {
+      "hebrew": "מִצְרָיְמָה",
+      "meaning": "이집트로",
+      "ipa": "mitsˈrajma",
+      "korean": "미츠라이마",
+      "letters": "מִ(mi) + צְ(tse) + רָ(ra) + יְ(ye) + מָה(mah)",
+      "root": "מִצְרַיִם (미츠라임)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-approach1-pyramid\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f2994a\" /><stop offset=\"100%\" stop-color=\"#f2c94c\" /></linearGradient><linearGradient id=\"egypt-approach1-sun\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient></defs><path d=\"M 32 12 L 52 48 L 12 48 Z\" fill=\"url(#egypt-approach1-pyramid)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 42 38 L 22 38 Z\" fill=\"#f2994a\" opacity=\"0.6\" /><circle cx=\"52\" cy=\"20\" r=\"8\" fill=\"url(#egypt-approach1-sun)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><rect y=\"48\" width=\"64\" height=\"8\" fill=\"#d4a574\" /></svg>",
+      "relatedWords": [
+        "מִצְרַיִם (미츠라임 - 이집트)",
+        "פַּרְעֹה (파르오 - 바로, 왕)"
+      ]
+    },
+    {
+      "hebrew": "שָׂרַי אִשְׁתּוֹ",
+      "meaning": "그의 아내 사라이",
+      "ipa": "śaˈraj ʔiʃˈto",
+      "korean": "사라이 이쉬토",
+      "letters": "שָׂ(sa) + רַי(rai) + אִ(i) + שְׁ(she) + תּוֹ(to)",
+      "root": "שָׂרַי (사라이) + אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-approach1-sarai\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"100%\" stop-color=\"#f5576c\" /></linearGradient><radialGradient id=\"egypt-approach1-beauty\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#egypt-approach1-sarai)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"44\" rx=\"18\" ry=\"12\" fill=\"url(#egypt-approach1-sarai)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#764ba2\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#764ba2\" /><path d=\"M 26 32 Q 32 35 38 32\" stroke=\"#764ba2\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#egypt-approach1-beauty)\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׂרָה (사라 - 공주)",
+        "אִשָּׁה (이샤 - 여자, 아내)"
+      ]
+    },
+    {
+      "hebrew": "יָפַת מַרְאֶה",
+      "meaning": "아름다운 외모",
+      "ipa": "jəˈfat marˈʔɛ",
+      "korean": "예팟 마르에",
+      "letters": "יָ(ya) + פַת(fat) + מַ(ma) + רְ(re) + אֶה(eh)",
+      "root": "י-פ-ה (야파) + רָאָה (라아)",
+      "grammar": "형용사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-approach1-beautiful\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"50%\" stop-color=\"#fcb69f\" /><stop offset=\"100%\" stop-color=\"#ff9a9e\" /></linearGradient><radialGradient id=\"egypt-approach1-shine\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#ff9a9e\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#egypt-approach1-beautiful)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#egypt-approach1-shine)\" /><path d=\"M 32 16 L 34 22 L 40 22 L 36 26 L 38 32 L 32 28 L 26 32 L 28 26 L 24 22 L 30 22 Z\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"24\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"28\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"24\" cy=\"40\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"44\" r=\"2\" fill=\"#FFD700\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "יָפֶה (야페 - 아름다운)",
+        "מַרְאֶה (마르에 - 외모, 모습)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 11절은 아브람이 이집트에 접근하면서 사라이의 아름다움 때문에 자신의 생명이 위협받을 것을 두려워하는 장면입니다. 이는 믿음의 조상 아브람도 두려움 앞에서 연약했음을 보여주며, 그의 인간적인 면모를 드러냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כַּאֲשֶׁר הִקְרִיב לָבוֹא מִצְרָיְמָה (카아쉐르 히크리브 라보 미츠라이마) - 이집트에 가까이 이르렀을 때",
+        "description": "아브람이 이집트에 가까이 다가갈수록 두려움이 커졌습니다. '히크리브'는 물리적 거리뿐 아니라 심리적 긴장감도 표현합니다. 약속의 땅에서 벗어나 이방 땅으로 들어가는 순간, 신앙과 두려움의 갈등이 시작됩니다.",
+        "points": [
+          "이집트는 강력한 문명국가로, 가나안 사람들에게는 두려움과 동경의 대상이었습니다",
+          "약속의 땅을 떠나 이방 땅으로 들어가는 것은 하나님의 보호 영역을 벗어나는 느낌을 줄 수 있습니다",
+          "물리적 거리가 가까워질수록 아브람의 두려움도 커져갔습니다",
+          "믿음의 여정에서도 특정 순간에 두려움이 극대화될 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אִשָּׁה יְפַת מַרְאֶה אָתְּ (이샤 예팟 마르에 아트) - 당신은 아름다운 여인입니다",
+        "description": "'예팟 마르에'는 외적 아름다움을 강조하는 표현으로, 사라이의 탁월한 미모를 나타냅니다. 아브람은 사라이의 아름다움이 축복이 아니라 위험이 될 수 있음을 깨달았습니다.",
+        "points": [
+          "사라이는 당시 60대 중반이었지만 여전히 매우 아름다웠습니다",
+          "고대 근동에서 아름다운 여인은 왕이나 권력자에게 빼앗길 위험이 있었습니다",
+          "하나님의 축복(아름다움)이 때로는 시험과 위험의 원인이 될 수 있습니다",
+          "아브람은 사라이의 아름다움을 잘 알고 있었지만, 이집트에 가까워지자 그것이 위협으로 느껴졌습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הִנֵּה נָא יָדַעְתִּי (힌네 나 야다티) - 보라, 내가 알고 있습니다",
+        "description": "'힌네 나'는 중요한 말을 꺼내기 전의 주의 환기 표현입니다. '야다티'는 단순한 지식이 아니라 깊이 인식하고 확신한다는 의미입니다. 아브람은 오래 전부터 알고 있던 사실이 이제 심각한 문제가 되었음을 깨달았습니다.",
+        "points": [
+          "아브람은 사라이와 오랜 결혼 생활을 해왔지만, 이 순간 그녀의 아름다움을 새로운 관점에서 보게 되었습니다",
+          "두려움은 우리가 이미 알고 있던 사실을 위협으로 재해석하게 만듭니다",
+          "'나'라는 간청 어조는 사라이의 협조를 구하는 아브람의 간절함을 보여줍니다",
+          "믿음의 사람도 위기 상황에서는 두려움에 사로잡힐 수 있습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 이집트에 가까워지자 두려워했을까요?",
+      "answer": "아브람은 사라이가 너무 아름다워서 이집트 사람들이 그녀를 빼앗으려고 자신을 죽일까봐 두려워했어요. 마치 우리가 낯선 곳에 가면 걱정되는 것처럼, 아브람도 이집트라는 강한 나라에 들어가면서 무서워졌답니다. 하나님이 약속하신 땅을 떠나서 다른 나라로 가니까 하나님의 보호를 덜 느꼈을 수도 있어요. 하지만 하나님은 어디에서나 우리를 지켜주신답니다.",
+      "bibleReferences": [
+        "창세기 20:11 - '아브라함이 이르되 이 곳에서는 하나님을 두려워함이 없으니 내 아내로 말미암아 사람들이 나를 죽일까 생각하였음이요'",
+        "창세기 26:7 - '이삭이 그 곳 사람들에게 리브가를 가리켜 말하기를 그는 내 누이라 하였으니 리브가가 보기에 아리따우므로 그 곳 사람들이 리브가로 말미암아 자기를 죽일까 두려워함이었더라'",
+        "시편 56:3 - '내가 두려워하는 날에는 주를 의지하리이다'",
+        "잠언 29:25 - '사람을 두려워하면 올무에 걸리게 되거니와 여호와를 의지하는 자는 안전하리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 두려움은 믿음과 인간적 연약함이 공존할 수 있음을 보여줍니다. 하나님의 부르심을 받고 약속을 믿는 신앙인도 실제 위험 앞에서는 두려워할 수 있습니다. 그러나 이 두려움이 잘못된 선택으로 이어질 때 문제가 됩니다. 하나님은 우리의 연약함을 아시지만, 두려움보다 믿음으로 나아가기를 원하십니다. 아브람의 실수는 우리에게 경고이자 위로가 됩니다 - 실수해도 하나님은 신실하시며, 그분의 약속은 변하지 않습니다."
+    }
+  }
+}

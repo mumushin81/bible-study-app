@@ -1,0 +1,200 @@
+{
+  "id": "genesis_9_27",
+  "reference": "창세기 9:27",
+  "hebrew": "יַפְתְּ אֱלֹהִים לְיֶפֶת וְיִשְׁכֹּן בְּאָהֳלֵי־שֵׁם וִיהִי כְנַעַן עֶבֶד לָמוֹ",
+  "ipa": "jaft ʔɛloːhiːm ləjɛfɛt vəjiʃkɔːn bəʔoːhoːleː ʃeːm viːhiː kənaːʕan ʕɛvɛd laːmoː",
+  "koreanPronunciation": "야프트 엘로힘 레예페트 베이쉬콘 베오홀레 쉠 비히 크나안 에베드 라모",
+  "modern": "하나님이 야벳을 넓히시고, 그가 셈의 장막에 거하게 하시며, 가나안은 그들의 종이 될 것이다",
+  "words": [
+    {
+      "hebrew": "יַפְתְּ",
+      "meaning": "넓히시다",
+      "ipa": "jaft",
+      "korean": "야프트",
+      "letters": "יַ(ya) + פְתְּ(ft)",
+      "root": "פָּתָה (파타)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enlarge_yaft\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><rect x=\"24\" y=\"24\" width=\"16\" height=\"16\" fill=\"url(#enlarge_yaft)\" opacity=\"0.5\" rx=\"2\" /><path d=\"M 20 20 L 14 14\" stroke=\"url(#enlarge_yaft)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 20 L 50 14\" stroke=\"url(#enlarge_yaft)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 20 44 L 14 50\" stroke=\"url(#enlarge_yaft)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 44 L 50 50\" stroke=\"url(#enlarge_yaft)\" stroke-width=\"3\" stroke-linecap=\"round\" /><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" fill=\"none\" stroke=\"url(#enlarge_yaft)\" stroke-width=\"3\" rx=\"4\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "פָּתָה (파타 - 넓히다)",
+        "רָחַב (라하브 - 넓다)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloːhiːm",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִים(him)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god_elohim2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim2)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#god_elohim2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 권능자)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "לְיֶפֶת",
+      "meaning": "야벳에게",
+      "ipa": "ləjɛfɛt",
+      "korean": "레예페트",
+      "letters": "לְ(le) + יֶפֶת(yefet)",
+      "root": "יֶפֶת (예페트)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"japheth_leyefet\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#japheth_leyefet)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#japheth_leyefet)\" opacity=\"0.8\" /><path d=\"M 20 28 L 16 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 44 28 L 48 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "יֶפֶת (예페트 - 야벳)",
+        "יָפֶה (야페 - 아름다운)"
+      ]
+    },
+    {
+      "hebrew": "וְיִשְׁכֹּן",
+      "meaning": "그리고 그가 거하다",
+      "ipa": "vəjiʃkɔːn",
+      "korean": "베이쉬콘",
+      "letters": "וְ(ve) + יִ(yi) + שְׁ(sh) + כֹּן(kon)",
+      "root": "שָׁכַן (샤칸)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dwell_veyishkon\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient></defs><path d=\"M 12 48 L 32 20 L 52 48 Z\" fill=\"url(#dwell_veyishkon)\" opacity=\"0.8\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.7\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#5D4037\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"#FFD700\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שָׁכַן (샤칸 - 거하다)",
+        "מִשְׁכָּן (미쉬칸 - 성막)"
+      ]
+    },
+    {
+      "hebrew": "בְּאָהֳלֵי־שֵׁם",
+      "meaning": "셈의 장막들에",
+      "ipa": "bəʔoːhoːleː ʃeːm",
+      "korean": "베오홀레 쉠",
+      "letters": "בְּ(be) + אָהֳלֵי(oholei) + שֵׁם(shem)",
+      "root": "אֹהֶל (오헬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tents_beoholeshem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient></defs><path d=\"M 8 48 L 24 20 L 40 48 Z\" fill=\"url(#tents_beoholeshem)\" opacity=\"0.8\" /><path d=\"M 24 48 L 40 20 L 56 48 Z\" fill=\"url(#tents_beoholeshem)\" opacity=\"0.8\" /><rect x=\"8\" y=\"48\" width=\"48\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.7\" /><rect x=\"18\" y=\"36\" width=\"6\" height=\"12\" fill=\"#5D4037\" opacity=\"0.8\" /><rect x=\"40\" y=\"36\" width=\"6\" height=\"12\" fill=\"#5D4037\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֹהֶל (오헬 - 장막, 천막)",
+        "מִשְׁכָּן (미쉬칸 - 성막)"
+      ]
+    },
+    {
+      "hebrew": "וִיהִי",
+      "meaning": "그리고 되리라",
+      "ipa": "viːhiː",
+      "korean": "비히",
+      "letters": "וִ(vi) + יהִי(hi)",
+      "root": "הָיָה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"letbe_vihi2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#letbe_vihi2)\" opacity=\"0.5\" /><path d=\"M 32 32 L 48 32\" stroke=\"url(#letbe_vihi2)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#letbe_vihi2)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יִהְיֶה (이혜예 - ~일 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כְנַעַן",
+      "meaning": "가나안",
+      "ipa": "kənaːʕan",
+      "korean": "크나안",
+      "letters": "כְּ(ke) + נַ(na) + עַן(an)",
+      "root": "כְּנַעַן (크나안)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan_kenaan4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><path d=\"M 12 48 L 12 32 Q 12 24 20 20 L 44 20 Q 52 24 52 32 L 52 48 Z\" fill=\"url(#canaan_kenaan4)\" opacity=\"0.8\" /><rect x=\"24\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><rect x=\"34\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "כָּנַע (카나 - 복종하다)",
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)"
+      ]
+    },
+    {
+      "hebrew": "עֶבֶד",
+      "meaning": "종",
+      "ipa": "ʕɛvɛd",
+      "korean": "에베드",
+      "letters": "עֶ(e) + בֶד(ved)",
+      "root": "עָבַד (아바드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"servant_eved3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#servant_eved3)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"14\" fill=\"url(#servant_eved3)\" opacity=\"0.8\" /><rect x=\"18\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved3)\" opacity=\"0.7\" /><rect x=\"38\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved3)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עָבַד (아바드 - 섬기다)",
+        "עֲבוֹדָה (아보다 - 일, 섬김)"
+      ]
+    },
+    {
+      "hebrew": "לָמוֹ",
+      "meaning": "그들에게",
+      "ipa": "laːmoː",
+      "korean": "라모",
+      "letters": "לָ(la) + מוֹ(mo)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tothem_lamo2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"url(#tothem_lamo2)\" opacity=\"0.8\" /><path d=\"M 24 32 L 48 32\" stroke=\"url(#tothem_lamo2)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"24\" r=\"6\" fill=\"url(#tothem_lamo2)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"6\" fill=\"url(#tothem_lamo2)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"40\" r=\"6\" fill=\"url(#tothem_lamo2)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "לְ (레 - ~에게)",
+        "לָהֶם (라헴 - 그들에게)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "야벳에 대한 노아의 축복입니다. 이 축복은 영토의 확장과 셈과의 영적 연합을 예언합니다. 역사적으로 야벳의 후손(유럽, 그리스, 로마)은 광대한 영토를 차지했고, 복음을 통해 셈의 하나님을 섬기게 되었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יַפְתְּ אֱלֹהִים לְיֶפֶת (야프트 엘로힘 레예페트) - 하나님이 야벳을 넓히시다",
+        "description": "'야프트'(넓히다)는 야벳(Yefet)의 이름과 언어유희를 이룹니다. 이는 야벳의 후손이 지리적으로 광대한 영토를 차지할 것을 예언합니다. 역사적으로 야벳의 후손은 유럽, 소아시아, 러시아, 중앙아시아로 퍼져나갔습니다.",
+        "points": [
+          "야벳의 후손은 지리적으로 가장 넓은 지역을 차지했습니다",
+          "그리스, 로마, 유럽 문명이 야벳에서 나왔습니다",
+          "야벳의 이름과 '넓히다'의 언어유희가 성취되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְיִשְׁכֹּן בְּאָהֳלֵי־שֵׁם (베이쉬콘 베오홀레 쉠) - 셈의 장막에 거하다",
+        "description": "이 구절은 두 가지로 해석됩니다. (1) 야벳이 셈의 영토를 침범한다는 의미, 또는 (2) 야벳이 셈의 신앙(여호와 하나님)을 받아들인다는 의미. 대부분의 학자들은 후자로 이해하며, 이는 이방인의 구원을 예언한 것입니다.",
+        "points": [
+          "야벳(이방인)이 셈의 하나님(여호와)을 섬기게 됩니다",
+          "그리스-로마 문명이 기독교를 받아들였습니다",
+          "이방인의 복음화를 예고한 예언입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "영적 연합의 예언",
+        "description": "'셈의 장막에 거한다'는 것은 단순히 물리적 공간이 아니라 영적 공동체를 의미합니다. 신약시대에 이방인(야벳의 후손)은 복음을 통해 아브라함의 자손(셈의 후손)과 함께 하나님의 백성이 되었습니다.",
+        "points": [
+          "교회는 유대인과 이방인이 연합된 공동체입니다(에베소서 2:14-16)",
+          "이방인이 아브라함의 축복에 참여합니다(갈라디아서 3:14)",
+          "만국이 하나님을 경배하게 됩니다(요한계시록 7:9)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "역사적 성취",
+        "description": "이 예언은 역사를 통해 놀랍게 성취되었습니다. 그리스 문명은 철학과 학문을 발전시켰고, 로마는 광대한 제국을 건설했습니다. 그리고 이들은 모두 기독교를 받아들여 '셈의 하나님'을 섬기게 되었습니다.",
+        "points": [
+          "그리스-로마 문명의 확장(지리적 넓힘)",
+          "기독교의 유럽 전파(영적 연합)",
+          "서양 문명을 통한 세계 선교(복음의 확산)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "야벳이 셈의 장막에 산다는 것은 무슨 뜻인가요?",
+      "answer": "이것은 정말 아름다운 예언이에요! 옛날에 노아는 야벳의 후손(유럽 사람들)이 셈의 후손(이스라엘 사람들)과 함께 살게 될 거라고 말했어요. 하지만 이것은 그냥 같은 집에 산다는 뜻이 아니에요. 야벳의 후손들이 셈의 하나님, 즉 여호와 하나님을 믿게 된다는 뜻이랍니다! 실제로 이것이 일어났어요. 예수님이 오신 후, 유럽 사람들(야벳의 후손)이 예수님을 믿고 하나님의 가족이 되었어요. 지금은 전 세계 모든 나라 사람들이 예수님을 믿을 수 있어요. 우리 모두 하나님의 한 가족이 된 거예요! 이것이 노아가 예언한 '셈의 장막에 거한다'는 의미랍니다.",
+      "bibleReferences": [
+        "에베소서 2:14-16 - '그는 우리의 화평이신지라 둘로 하나를 만드사 원수 된 것 곧 중간에 막힌 담을 자기 육체로 허시고... 이 둘을 한 몸으로 만들어 십자가로 말미암아 하나님과 화목하게 하려 하심이라'",
+        "갈라디아서 3:28-29 - '너희는 유대인이나 헬라인이나 종이나 자유인이나 남자나 여자나 다 그리스도 예수 안에서 하나이니라 너희가 그리스도의 것이면 곧 아브라함의 자손이요 약속대로 유업을 이을 자니라'",
+        "사도행전 15:14 - '하나님이 처음으로 이방인 중에서 자기 이름을 위할 백성을 취하시려고 그들을 돌보신 것을'",
+        "로마서 11:17 - '또한 가지 얼마가 꺾이었는데 돌감람나무인 네가 그들 중에 접붙임이 되어 참감람나무 뿌리의 진액을 함께 받는 자가 되었은즉'",
+        "요한계시록 7:9 - '이 일 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 나와 흰 옷을 입고'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:27은 구약에서 이방인의 구원을 예언한 가장 명확한 구절 중 하나입니다. '야벳이 셈의 장막에 거한다'는 표현은 단순히 영토적 확장이 아니라, 이방인(야벳)이 하나님의 언약 백성(셈)과 영적으로 연합될 것을 예언합니다. 이는 신약에서 완벽하게 성취됩니다. 예수 그리스도를 통해 이방인들은 '이스라엘 나라 밖의 사람'에서 '하나님의 백성'이 되었으며(에베소서 2:19), '막힌 담'이 허물어져 유대인과 이방인이 한 몸을 이루었습니다(에베소서 2:14). 역사적으로 그리스-로마 문명(야벳의 후손)은 기독교를 받아들여 '셈의 하나님'을 섬기게 되었고, 서양 선교를 통해 복음이 전 세계로 확산되었습니다. 이 예언은 하나님의 구원 계획이 모든 민족을 포함한다는 것을 보여주며(창세기 12:3), 요한계시록 7:9의 '각 나라와 족속과 백성과 방언'에서 온 구원받은 무리의 환상으로 완성됩니다."
+    }
+  }
+}

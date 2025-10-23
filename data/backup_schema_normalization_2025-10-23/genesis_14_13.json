@@ -1,0 +1,182 @@
+{
+  "id": "genesis_14_13",
+  "reference": "창세기 14:13",
+  "hebrew": "",
+  "ipa": "vajjaˈvo happaˈlit vajjaˈgɛd ləʔavˈram haʕivˈri vəˈhu ʃoˈxɛn bəʔeˈlonɛ mamˈrɛ haʔɛmoˈri ʔaˈħi ʔɛʃˈkol vaʔaˈħi ʕaˈnɛr vəˈhɛm baʕaˈlɛ vəˈrit ʔavˈram",
+  "koreanPronunciation": "바야보 하팔리트 바야게드 레아브람 하이브리 베후 쇼켄 베엘로네 맘레 하에모리 아히 에쉬콜 바아히 아네르 베헴 바알레 베리트 아브람",
+  "modern": "도망친 자가 와서 히브리 사람 아브람에게 알렸는데, 아브람은 아모리 사람 마므레의 상수리나무 숲에 거주하고 있었고, 마므레는 에스골과 아넬의 형제로서 이들은 아브람과 동맹을 맺은 자들이었습니다",
+  "words": [
+    {
+      "hebrew": "וַיָּבֹא הַפָּלִיט",
+      "meaning": "그리고 도망친 자가 왔다",
+      "ipa": "vajjaˈvo happaˈlit",
+      "korean": "바야보 하팔리트",
+      "letters": "וַ(va) + יָּ(ya) + בֹא(vo) + הַ(ha) + פָּ(pa) + לִיט(lit)",
+      "root": "ב-ו-א (보) + פ-ל-ט (팔라트)",
+      "grammar": "동사",
+      "emoji": "🏃‍♂️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fugitive-tell1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"50%\" stop-color=\"#f5576c\" /><stop offset=\"100%\" stop-color=\"#ffecd2\" /></linearGradient><radialGradient id=\"fugitive-urgent1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#f093fb\" opacity=\"0\" /></radialGradient></defs><path d=\"M 8 48 Q 16 42 24 46 Q 32 50 40 44 Q 48 38 56 42\" stroke=\"url(#fugitive-tell1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"44\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"36\" cy=\"46\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"40\" r=\"6\" fill=\"url(#fugitive-tell1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"52\" cy=\"40\" r=\"12\" fill=\"url(#fugitive-urgent1)\" opacity=\"0.5\" /><path d=\"M 48 36 L 52 28 L 56 36\" stroke=\"#f5576c\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"52\" cy=\"24\" rx=\"8\" ry=\"4\" fill=\"#ffecd2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "פָּלִיט (팔리트 - 도망자, 생존자)",
+        "בּוֹא (보 - 오다)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּגֵּד לְאַבְרָם",
+      "meaning": "그리고 아브람에게 알렸다",
+      "ipa": "vajjaˈgɛd ləʔavˈram",
+      "korean": "바야게드 레아브람",
+      "letters": "וַ(va) + יַּ(ya) + גֵּד(ged) + לְ(le) + אַ(av) + בְ(be) + רָם(ram)",
+      "root": "נ-ג-ד (나가드) + אַבְרָם (아브람)",
+      "grammar": "동사",
+      "emoji": "📢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tell-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><radialGradient id=\"tell-message1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#4facfe\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"16\" fill=\"url(#tell-abram1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><path d=\"M 20 46 L 24 38 L 30 46\" fill=\"url(#tell-abram1)\" /><circle cx=\"24\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" /><path d=\"M 22 36 Q 32 40 42 36\" stroke=\"#FFFFFF\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#tell-message1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" opacity=\"0.7\" /><path d=\"M 28 14 L 32 10 L 36 14\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "נָגַד (나가드 - 알리다, 보고하다)",
+        "אַבְרָם (아브람 - 아브람)"
+      ]
+    },
+    {
+      "hebrew": "הָעִבְרִי",
+      "meaning": "히브리 사람",
+      "ipa": "haʕivˈri",
+      "korean": "하이브리",
+      "letters": "הָ(ha) + עִ(i) + בְ(ve) + רִי(ri)",
+      "root": "עִבְרִי (이브리)",
+      "grammar": "형용사",
+      "emoji": "🕎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebrew-identity1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><radialGradient id=\"hebrew-covenant1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hebrew-identity1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.3\" /><path d=\"M 32 16 L 36 24 L 44 26 L 38 32 L 40 40 L 32 36 L 24 40 L 26 32 L 20 26 L 28 24 Z\" fill=\"url(#hebrew-covenant1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#667eea\" filter=\"drop-shadow(0 0 6px rgba(102, 126, 234, 0.5))\" /><text x=\"32\" y=\"36\" font-family=\"Arial\" font-size=\"8\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-weight=\"bold\">ע</text></svg>",
+      "relatedWords": [
+        "עֵבֶר (에베르 - 에벨, 히브리인의 조상)",
+        "עָבַר (아바르 - 건너다, 지나가다)"
+      ]
+    },
+    {
+      "hebrew": "שֹׁכֵן בְּאֵלֹנֵי מַמְרֵא",
+      "meaning": "마므레의 상수리나무 숲에 거주하는",
+      "ipa": "ʃoˈxɛn bəʔeˈlonɛ mamˈrɛ",
+      "korean": "쇼켄 베엘로네 맘레",
+      "letters": "שֹׁ(sho) + כֵן(khen) + בְּ(be) + אֵ(e) + לֹ(lo) + נֵי(nei) + מַ(ma) + מְ(me) + רֵא(re)",
+      "root": "שׁ-כ-נ (샤칸) + אֵלוֹן (엘론) + מַמְרֵא (맘레)",
+      "grammar": "동사",
+      "emoji": "🌳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mamre-oaks1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#2d5016\" /></linearGradient><radialGradient id=\"mamre-leaves1\"><stop offset=\"0%\" stop-color=\"#43e97b\" /><stop offset=\"100%\" stop-color=\"#38f9d7\" /></radialGradient></defs><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" fill=\"url(#mamre-oaks1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"18\" ry=\"16\" fill=\"url(#mamre-leaves1)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"22\" r=\"8\" fill=\"#2d5016\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"24\" r=\"7\" fill=\"#2d5016\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"18\" r=\"6\" fill=\"#2d5016\" opacity=\"0.6\" /><path d=\"M 20 52 L 24 48 L 32 52 L 40 48 L 44 52\" fill=\"#6B5344\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "שָׁכַן (샤칸 - 거주하다, 머물다)",
+        "אֵלוֹן (엘론 - 상수리나무, 큰 나무)"
+      ]
+    },
+    {
+      "hebrew": "הָאֱמֹרִי",
+      "meaning": "아모리 사람",
+      "ipa": "haʔɛmoˈri",
+      "korean": "하에모리",
+      "letters": "הָ(ha) + אֱ(e) + מֹ(mo) + רִי(ri)",
+      "root": "אֱמֹרִי (에모리)",
+      "grammar": "형용사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"amorite-people1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a574\" /><stop offset=\"100%\" stop-color=\"#8b6f47\" /></linearGradient><linearGradient id=\"amorite-mountain1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B5344\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></linearGradient></defs><path d=\"M 8 56 L 20 32 L 32 40 L 44 28 L 56 56 Z\" fill=\"url(#amorite-mountain1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#amorite-people1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"26\" r=\"3.5\" fill=\"#2c3e50\" /><path d=\"M 28 32 Q 32 35 36 32\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><rect x=\"28\" y=\"38\" width=\"8\" height=\"12\" rx=\"1\" fill=\"url(#amorite-people1)\" /><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"#8b6f47\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֱמֹרִי (에모리 - 아모리족)",
+        "כְּנַעֲנִי (케나아니 - 가나안 사람)"
+      ]
+    },
+    {
+      "hebrew": "אֲחִי אֶשְׁכֹּל וַאֲחִי עָנֵר",
+      "meaning": "에스골의 형제, 아넬의 형제",
+      "ipa": "ʔaˈħi ʔɛʃˈkol vaʔaˈħi ʕaˈnɛr",
+      "korean": "아히 에쉬콜 바아히 아네르",
+      "letters": "אֲ(a) + חִי(ḥi) + אֶ(e) + שְׁ(she) + כֹּל(kol) + וַ(va) + אֲ(a) + חִי(ḥi) + עָ(a) + נֵר(ner)",
+      "root": "אָח (아흐) + אֶשְׁכּוֹל (에쉬콜) + עָנֵר (아네르)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brothers-alliance1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><radialGradient id=\"brothers-unity1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></radialGradient></defs><circle cx=\"20\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"9\" fill=\"url(#brothers-alliance1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><circle cx=\"32\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><circle cx=\"44\" cy=\"26\" r=\"2.5\" fill=\"#2c3e50\" /><path d=\"M 26 30 L 38 30\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.5))\" /><circle cx=\"32\" cy=\"42\" r=\"10\" fill=\"url(#brothers-unity1)\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אָח (아흐 - 형제)",
+        "בְּרִית (베리트 - 언약, 동맹)"
+      ]
+    },
+    {
+      "hebrew": "בַּעֲלֵי בְרִית אַבְרָם",
+      "meaning": "아브람의 동맹자들",
+      "ipa": "baʕaˈlɛ vəˈrit ʔavˈram",
+      "korean": "바알레 베리트 아브람",
+      "letters": "בַּ(ba) + עֲ(a) + לֵי(lei) + בְ(be) + רִית(rit) + אַ(av) + בְ(be) + רָם(ram)",
+      "root": "בַּעַל (바알) + בְּרִית (베리트) + אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant-alliance1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><radialGradient id=\"covenant-bond1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#4facfe\" /></radialGradient></defs><path d=\"M 16 32 L 20 28 L 28 32 L 32 28 L 36 32 L 44 28 L 48 32\" stroke=\"url(#covenant-alliance1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"28\" r=\"5\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"5\" fill=\"url(#covenant-alliance1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#covenant-bond1)\" opacity=\"0.3\" /><path d=\"M 24 40 L 28 36 L 32 40 L 36 36 L 40 40\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "בְּרִית (베리트 - 언약, 계약)",
+        "בַּעַל (바알 - 주인, 소유자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14장 13절은 롯의 포로 소식이 아브람에게 전달되는 중요한 전환점입니다. 한 도망자가 위험을 무릅쓰고 아브람에게 알렸고, 이는 아브람의 구출 작전의 시작이 됩니다. 본문은 또한 아브람의 정체성('히브리 사람')과 그의 동맹 관계를 상세히 묘사하여, 아브람이 고립된 유목민이 아니라 존중받는 지도자였음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיָּבֹא הַפָּלִיט (바야보 하팔리트) - 도망친 자가 왔다",
+        "description": "'팔리트'는 도망자, 생존자를 의미하며, 전투에서 살아남아 탈출한 사람을 가리킵니다. 이 사람은 위험을 무릅쓰고 아브람에게 소식을 전하러 왔는데, 이는 아브람이 롯을 도울 수 있는 유일한 희망이었기 때문입니다.",
+        "points": [
+          "도망자가 아브람을 찾아온 것은 아브람의 명성과 능력을 알고 있었기 때문입니다",
+          "그는 소돔 사람이거나 롯의 종이었을 가능성이 높습니다",
+          "위험한 여정을 감수하고 소식을 전한 것은 큰 용기를 보여줍니다",
+          "성경에서 '남은 자', '도피한 자'는 하나님의 구원 계획의 중요한 도구가 됩니다(이사야 10:20)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְאַבְרָם הָעִבְרִי (레아브람 하이브리) - 히브리 사람 아브람",
+        "description": "이것은 성경에서 '히브리'라는 단어가 처음 등장하는 곳입니다. '이브리'는 '에벨의 자손' 또는 '강을 건너온 자'를 의미하며, 아브람의 민족적 정체성을 나타냅니다. 이는 그가 유프라테스 강을 건너 가나안에 온 이방인임을 보여줍니다.",
+        "points": [
+          "히브리라는 이름은 에벨(창 10:21, 25)의 자손을 가리킵니다",
+          "'건너온 자'라는 의미는 아브람이 갈대아 우르에서 강을 건너 가나안에 왔음을 암시합니다",
+          "가나안 원주민들의 관점에서 아브람은 '외국인', '강 건너에서 온 자'였습니다",
+          "이 명칭은 하나님의 백성이 이 세상에서 나그네요 외국인임을 상징합니다(히 11:13)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שֹׁכֵן בְּאֵלֹנֵי מַמְרֵא הָאֱמֹרִי (쇼켄 베엘로네 맘레 하에모리) - 아모리 사람 마므레의 상수리나무 숲에 거주하는",
+        "description": "'엘로네 마므레'는 '마므레의 상수리나무들'을 의미하며, 헤브론 근처의 성소였습니다. 아브람이 여기에 거주한 것은 창세기 13:18에서 언급되었으며, 이곳은 아브람이 제단을 쌓고 하나님을 예배한 장소였습니다.",
+        "points": [
+          "상수리나무 숲은 고대 근동에서 성스러운 장소로 여겨졌습니다",
+          "아브람은 여기서 하나님께 제단을 쌓았고(창 13:18), 하나님의 방문을 받았습니다(창 18:1)",
+          "마므레는 아모리 사람의 이름이며, 그는 아브람과 동맹을 맺은 지역 족장이었습니다",
+          "아브람은 천막 생활을 했지만, 특정 장소에 정착하여 예배와 삶의 중심지로 삼았습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַּעֲלֵי בְרִית אַבְרָם (바알레 베리트 아브람) - 아브람의 동맹자들",
+        "description": "'바알레 베리트'는 '언약의 주인들', 즉 동맹 관계를 맺은 자들을 의미합니다. 마므레, 에스골, 아넬 세 형제는 아브람과 상호 방어 조약을 맺었으며, 이는 고대 사회에서 매우 중요한 관계였습니다.",
+        "points": [
+          "아브람은 고립된 유목민이 아니라 지역 족장들과 존중과 신뢰의 관계를 맺었습니다",
+          "이 동맹은 상호 보호와 협력을 의미하며, 곧 롯 구출 작전에서 중요한 역할을 합니다(창 14:24)",
+          "아브람은 외국인이었지만, 공의와 신실함으로 가나안 땅에서 명성을 얻었습니다",
+          "언약은 성경의 핵심 주제이며, 아브람 자신도 하나님과 언약 관계에 있었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 도망친 사람은 아브람에게 소식을 전하러 갔을까요?",
+      "answer": "전쟁에서 살아남은 사람은 롯을 도와줄 수 있는 사람을 생각했어요. 그때 떠오른 사람이 바로 아브람이었답니다! 아브람은 롯의 삼촌이었고, 착하고 강한 사람으로 유명했거든요. 아브람은 하나님을 믿고 따르는 사람이었고, 주변 사람들과도 친하게 지냈어요. 마므레, 에스골, 아넬이라는 친구들도 있었죠. 도망친 사람은 '아브람이라면 롯을 구해줄 수 있을 거야'라고 생각하고 위험한 길을 달려와서 소식을 전한 거예요. 아브람이 평소에 좋은 사람으로 살았기 때문에, 어려울 때 도움을 청할 수 있었던 거랍니다.",
+      "bibleReferences": [
+        "창세기 13:18 - '이에 아브람이 장막을 옮겨 헤브론에 있는 마므레 상수리 수풀에 이르러 거주하며 거기서 여호와를 위하여 제단을 쌓았더라'",
+        "창세기 18:1 - '여호와께서 마므레의 상수리나무들이 있는 곳에서 아브라함에게 나타나시니라'",
+        "잠언 22:1 - '많은 재물보다 명예를 택할 것이요 은이나 금보다 은총을 더욱 택할 것이니라'",
+        "베드로전서 2:12 - '너희가 이방인 중에서 행실을 선하게 가져 너희를 악행한다고 비방하는 자들로 하여금 너희 선한 일을 보고 오시는 날에 하나님께 영광을 돌리게 하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 아브람의 신앙과 인격이 주변 사람들에게 어떤 영향을 미쳤는지 보여줍니다. 그는 '히브리 사람', 즉 외국인이었지만, 공의와 신실함으로 가나안 땅에서 명성을 얻었고, 지역 족장들과 동맹을 맺었습니다. 위기의 순간에 도망자가 아브람을 찾아온 것은 그가 구원자로 신뢰받았기 때문입니다. 이는 우리 그리스도인들이 세상에서 어떻게 살아야 하는지를 보여줍니다. 우리는 이 땅의 나그네요 외국인이지만(히 11:13), 선한 행실로 하나님의 영광을 드러내야 합니다(벧전 2:12). 아브람처럼 신실하고 공의롭게 살 때, 하나님은 우리를 통해 다른 사람들을 구원하시는 도구로 사용하십니다."
+    }
+  }
+}

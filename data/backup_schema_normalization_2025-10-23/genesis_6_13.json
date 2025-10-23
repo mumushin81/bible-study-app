@@ -1,0 +1,136 @@
+{
+  "id": "genesis_6_13",
+  "reference": "창세기 6:13",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים לְנֹחַ, קֵץ כָּל־בָּשָׂר בָּא לְפָנַי—כִּי־מָלְאָה הָאָרֶץ חָמָס, מִפְּנֵיהֶם; וְהִנְנִי מַשְׁחִיתָם, אֶת־הָאָרֶץ.",
+  "ipa": "vajoˈmer ʔɛloˈhim ləˈnoaχ kets kol baˈsar ba ləfaˈnaj ki malˈʔa haˈarɛts χaˈmas mipəneˈhem vəhinˈni maʃχiˈtam ʔɛt haˈarɛts",
+  "koreanPronunciation": "바요메르 엘로힘 레노아흐 케츠 콜 바사르 바 레파나이 키 말아 하아레츠 하마스 미페네헴 베힌니 마쉬히탐 에트 하아레츠",
+  "modern": "하나님께서 노아에게 말씀하셨습니다. '모든 육체의 끝이 내 앞에 이르렀다. 땅이 그들로 인해 폭력으로 가득 찼기 때문이다. 보라, 내가 그들을 땅과 함께 멸하리라'",
+  "words": [
+    {
+      "hebrew": "קֵץ",
+      "meaning": "끝, 종말",
+      "ipa": "kets",
+      "korean": "케츠",
+      "letters": "קֵץ(qets)",
+      "root": "ק-צ-ה (카차)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"end_qets\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><rect x=\"12\" y=\"28\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#end_qets)\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"url(#end_qets)\" /></svg>",
+      "relatedWords": [
+        "קָצָה (카차 - 끝)",
+        "סוֹף (소프 - 끝)"
+      ]
+    },
+    {
+      "hebrew": "בָּא",
+      "meaning": "왔다, 도달했다",
+      "ipa": "ba",
+      "korean": "바",
+      "letters": "בָּא(ba)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"came_ba\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#came_ba)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 36 24 L 44 32 L 36 40\" stroke=\"url(#came_ba)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "בָּאָה (바아 - 왔다, 여성)"
+      ]
+    },
+    {
+      "hebrew": "לְפָנַי",
+      "meaning": "내 앞에",
+      "ipa": "ləfaˈnaj",
+      "korean": "레파나이",
+      "letters": "לְ(le) + פָ(fa) + נַי(naj)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사 + 명사 + 1인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"beforeme_lefanai\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"24\" cy=\"32\" r=\"6\" fill=\"url(#beforeme_lefanai)\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#beforeme_lefanai)\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴)",
+        "לִפְנֵי (리프네 - ~앞에)"
+      ]
+    },
+    {
+      "hebrew": "מָלְאָה",
+      "meaning": "가득 찼다",
+      "ipa": "malˈʔa",
+      "korean": "말아",
+      "letters": "מָ(ma) + לְ(l) + אָה(ʔa)",
+      "root": "מ-ל-א (말라)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"full_malah\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"none\" stroke=\"url(#full_malah)\" stroke-width=\"3\" /><rect x=\"18\" y=\"24\" width=\"28\" height=\"22\" fill=\"url(#full_malah)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מָלֵא (말레 - 가득 찬)",
+        "מְלֹא (멜로 - 충만함)"
+      ]
+    },
+    {
+      "hebrew": "מִפְּנֵיהֶם",
+      "meaning": "그들로 인해",
+      "ipa": "mipəneˈhem",
+      "korean": "미페네헴",
+      "letters": "מִ(mi) + פְּ(pe) + נֵי(ne) + הֶם(hem)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사 + 명사 + 3인칭 복수 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because_mippneihem\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"5\" fill=\"url(#because_mippneihem)\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"url(#because_mippneihem)\" /><circle cx=\"44\" cy=\"32\" r=\"5\" fill=\"url(#because_mippneihem)\" /><path d=\"M 24 32 L 40 32\" stroke=\"url(#because_mippneihem)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "מִפְּנֵי (미페네 - ~로 인해)",
+        "לִפְנֵי (리프네 - ~앞에)"
+      ]
+    },
+    {
+      "hebrew": "וְהִנְנִי",
+      "meaning": "그리고 보라, 내가",
+      "ipa": "vəhinˈni",
+      "korean": "베힌니",
+      "letters": "וְ(ve) + הִ(hi) + נְ(n) + נִי(ni)",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사 + 1인칭 대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"behold_vehineni\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#behold_vehineni)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#behold_vehineni)\" /></svg>",
+      "relatedWords": [
+        "הִנֵּה (힌네 - 보라)",
+        "הִנֶּנִּי (힌니 - 여기 있습니다)"
+      ]
+    },
+    {
+      "hebrew": "מַשְׁחִיתָם",
+      "meaning": "그들을 멸하는 자",
+      "ipa": "maʃχiˈtam",
+      "korean": "마쉬히탐",
+      "letters": "מַ(ma) + שְׁ(sh) + חִי(χi) + תָם(tam)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사 - 히필형 분사 + 3인칭 복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"destroy_mashchitam\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><path d=\"M 16 16 L 48 48\" stroke=\"url(#destroy_mashchitam)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 48 16 L 16 48\" stroke=\"url(#destroy_mashchitam)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "הִשְׁחִית (히쉬히트 - 멸하다)",
+        "מַשְׁחִית (마쉬히트 - 파괴자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 노아에게 심판을 선언하십니다. '모든 육체의 끝'이라는 표현은 홍수 심판의 전면성과 철저함을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "⚠️",
+        "title": "심판의 선언",
+        "description": "하나님은 심판을 선언하시되, 노아에게 미리 알려주십니다. 이는 하나님의 자비이자 노아에게 준비할 기회를 주심입니다.",
+        "points": [
+          "선지자를 통한 경고",
+          "심판 전 은혜의 기간",
+          "하나님의 공의와 자비"
+        ],
+        "color": "red"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 노아에게 미리 말씀하셨을까요?",
+      "answer": "하나님은 노아를 사랑하셔서 준비할 수 있게 해주시려고 미리 말씀하셨어요. 갑자기 홍수가 오면 노아도 놀라겠죠? 그래서 하나님은 노아에게 '큰 배를 만들어라'고 미리 말씀하셔서, 노아와 그의 가족을 구해주시려고 하셨답니다.",
+      "bibleReferences": [
+        "아모스 3:7 - '주 여호와께서는 자기의 비밀을 그 종 선지자들에게 보이지 아니하시고는 결코 행하심이 없으시리라'",
+        "베드로후서 2:5 - '옛 세상을 용서하지 아니하시고 오직 의를 전파하는 노아와 그 일곱 식구를 보존하시고'"
+      ]
+    },
+    "conclusion": {
+      "title": "은혜 가운데 경고",
+      "content": "하나님의 심판은 갑작스럽지 않습니다. 미리 경고하시고 준비할 기회를 주십니다. 이는 하나님의 공의와 자비가 함께 나타나는 모습입니다."
+    }
+  }
+}

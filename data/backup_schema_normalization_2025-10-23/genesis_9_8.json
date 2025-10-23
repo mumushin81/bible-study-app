@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_8",
+  "reference": "창세기 9:8",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים, אֶל-נֹחַ וְאֶל-בָּנָיו אִתּוֹ לֵאמֹר.",
+  "ipa": "vajˈjomɛr ʔɛloˈhim ʔɛl ˈnoaχ vəʔɛl baˈnav ʔiˈto leˈmor",
+  "koreanPronunciation": "바요메르 엘로힘 엘 노아흐 베엘 바나브 이토 레모르",
+  "modern": "하나님이 노아와 그와 함께 한 그의 아들들에게 말씀하여 이르시되",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"speech\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"24\" ry=\"18\" fill=\"url(#speech)\" stroke=\"#4169E1\" stroke-width=\"2\" /><circle cx=\"20\" cy=\"32\" r=\"3\" fill=\"#4169E1\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#4169E1\" /><circle cx=\"44\" cy=\"32\" r=\"3\" fill=\"#4169E1\" /><path d=\"M 24 52 L 20 56 L 24 56 Z\" fill=\"url(#speech)\" stroke=\"#4169E1\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "אֵמֶר (에메르 - 말, 언어)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"god_crown\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"god_glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#god_glow)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#god_crown)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֶל",
+      "meaning": "~에게",
+      "ipa": "ʔɛl",
+      "korean": "엘",
+      "letters": "אֶל(el)",
+      "root": "אֶל (엘)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"toward\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><line x1=\"8\" y1=\"32\" x2=\"48\" y2=\"32\" stroke=\"url(#toward)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 48 32 L 56 32 L 50 26\" fill=\"url(#toward)\" /><path d=\"M 48 32 L 56 32 L 50 38\" fill=\"url(#toward)\" /></svg>",
+      "relatedWords": [
+        "עַל (알 - ~위에)",
+        "לְ (레 - ~에게)"
+      ]
+    },
+    {
+      "hebrew": "נֹחַ",
+      "meaning": "노아",
+      "ipa": "ˈnoaχ",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(akh)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah_ark\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><path d=\"M 12 40 L 32 16 L 52 40 L 52 56 L 12 56 Z\" fill=\"url(#noah_ark)\" stroke=\"#5D4037\" stroke-width=\"2\" /><rect x=\"28\" y=\"44\" width=\"8\" height=\"12\" fill=\"#3E2723\" /><rect x=\"18\" y=\"32\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.5\" /><rect x=\"40\" y=\"32\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "נוֹחַ (노아흐 - 안식)",
+        "נָחָה (나하 - 쉬다)"
+      ]
+    },
+    {
+      "hebrew": "בָּנָיו",
+      "meaning": "그의 아들들",
+      "ipa": "baˈnav",
+      "korean": "바나브",
+      "letters": "בָּ(ba) + נָ(na) + יו(v)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\" /><stop offset=\"50%\" stop-color=\"#5F9EA0\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#sons)\" /><rect x=\"14\" y=\"32\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#sons)\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#sons)\" /><rect x=\"26\" y=\"32\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#sons)\" /><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#sons)\" /><rect x=\"38\" y=\"32\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#sons)\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    },
+    {
+      "hebrew": "אִתּוֹ",
+      "meaning": "그와 함께",
+      "ipa": "ʔiˈto",
+      "korean": "이토",
+      "letters": "אִ(i) + תּוֹ(to)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"together\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#together)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#together)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#together)\" /></svg>",
+      "relatedWords": [
+        "עִם (임 - ~와 함께)",
+        "אֵת (에트 - ~와 함께)"
+      ]
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "meaning": "말씀하시기를",
+      "ipa": "leˈmor",
+      "korean": "레모르",
+      "letters": "לֵ(le) + אמֹר(mor)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"saying\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><path d=\"M 12 20 L 52 20 L 52 44 L 28 44 L 20 52 L 20 44 L 12 44 Z\" fill=\"url(#saying)\" stroke=\"#FF8C00\" stroke-width=\"2\" /><line x1=\"20\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"20\" y1=\"36\" x2=\"40\" y2=\"36\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דִּבֵּר (디베르 - 말하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 하나님과 노아 사이의 언약 체결을 위한 서론입니다. 하나님은 공식적으로 노아와 그의 아들들을 부르셔서 중요한 선언을 하시려 합니다. 이는 성경에서 가장 중요한 언약 중 하나인 노아 언약의 시작입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֹּאמֶר אֱלֹהִים (바요메르 엘로힘) - 하나님이 말씀하셨다",
+        "description": "하나님이 직접 말씀하신다는 것은 매우 중요한 순간입니다. 창세기에서 '하나님이 말씀하셨다'는 표현은 창조(1:3), 축복(1:28), 언약(9:8) 등 중대한 사건에서 나타납니다.",
+        "points": [
+          "하나님의 말씀은 권위와 능력이 있습니다",
+          "하나님은 침묵하지 않고 소통하시는 분입니다",
+          "하나님의 말씀은 역사를 만듭니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֶל-נֹחַ וְאֶל-בָּנָיו (엘 노아흐 베엘 바나브) - 노아와 그의 아들들에게",
+        "description": "하나님은 노아 개인뿐 아니라 그의 아들들도 언약의 당사자로 포함시키십니다. 이는 언약이 한 세대에 그치지 않고 대대로 이어질 것임을 보여줍니다.",
+        "points": [
+          "하나님의 언약은 세대를 넘어 계속됩니다",
+          "자녀들도 언약 공동체의 일원입니다",
+          "가족은 신앙 전수의 기본 단위입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אִתּוֹ (이토) - 그와 함께",
+        "description": "'함께'라는 단어는 연대와 동반을 의미합니다. 노아와 그의 아들들은 분리된 개인이 아니라 하나의 공동체입니다. 이는 하나님의 언약이 공동체적 성격을 가짐을 보여줍니다.",
+        "points": [
+          "신앙은 개인적이면서 동시에 공동체적입니다",
+          "우리는 함께 하나님 앞에 섭니다",
+          "언약 공동체의 연대는 중요합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לֵאמֹר (레모르) - 말씀하시기를",
+        "description": "이 표현은 중요한 선언이나 언약이 뒤따를 것을 예고합니다. 청중의 주의를 환기시키는 문학적 장치입니다. 다음에 올 말씀이 매우 중요하다는 신호입니다.",
+        "points": [
+          "하나님의 말씀에 주의를 기울여야 합니다",
+          "언약의 내용이 곧 선포될 것입니다",
+          "경청은 순종의 첫 단계입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 노아뿐만 아니라 그의 아들들에게도 말씀하셨을까요?",
+      "answer": "하나님은 노아 한 사람뿐 아니라 그의 가족 전체를 사랑하시기 때문이에요. 하나님의 약속은 할아버지, 아버지, 아들, 손자로 계속 이어져요. 마치 부모님이 가족 회의를 할 때 아이들도 함께 부르는 것처럼, 하나님도 온 가족을 불러 모으셨어요. 왜냐하면 하나님의 약속은 노아만을 위한 것이 아니라, 그 후손, 즉 우리 모두를 위한 것이거든요! 하나님은 우리 가족 모두가 하나님을 알고 사랑하기를 원하세요.",
+      "bibleReferences": [
+        "창세기 17:7 - '내가 너와 네 후손과 언약을 세워서 너의 대대로 영원한 언약을 삼고 너와 네 후손의 하나님이 되리라'",
+        "신명기 29:10-15 - '너희가 다 오늘 너희의 하나님 여호와 앞에 섰나니... 이는 네 하나님 여호와께서 네게 말씀하신 대로... 오늘 우리와 함께 여기 있는 자와 오늘 우리와 함께 여기 있지 아니한 자에게까지니라'",
+        "시편 103:17-18 - '여호와의 인자하심은 자기를 경외하는 자에게 영원부터 영원까지 이르며 그의 공의는 자손의 자손에게 미치리니'",
+        "사도행전 2:39 - '이 약속은 너희와 너희 자녀와 모든 먼 데 사람 곧 주 우리 하나님이 얼마든지 부르시는 자들에게 하신 것이라'",
+        "에베소서 6:4 - '또 아비들아 너희 자녀를 노엽게 하지 말고 오직 주의 교훈과 훈계로 양육하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:8은 언약 신학의 중요한 원리를 보여줍니다. 하나님의 언약은 개인에게 주어지지만 동시에 공동체적입니다. 노아와 그의 아들들이 함께 언약의 당사자가 된 것처럼, 아브라함 언약(창 17:7), 시내산 언약(출 19:3-6), 새 언약(렘 31:31-34)도 모두 개인과 공동체를 포괄합니다. 신약에서 베드로는 '이 약속은 너희와 너희 자녀에게'(행 2:39)라고 선포했습니다. 언약 공동체의 자녀들은 특별한 위치에 있으며, 부모는 다음 세대에게 신앙을 전수할 책임이 있습니다(신 6:6-7). 이는 유아세례나 유아헌신의 신학적 근거가 되기도 합니다."
+    }
+  }
+}

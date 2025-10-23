@@ -1,0 +1,213 @@
+{
+  "id": "genesis_2_11",
+  "reference": "창세기 2:11",
+  "hebrew": "שֵׁם הָאֶחָד, פִּישׁוֹן--הוּא הַסֹּבֵב, אֵת כָּל-אֶרֶץ הַחֲוִילָה, אֲשֶׁר-שָׁם, הַזָּהָב.",
+  "ipa": "ʃem haʔɛˈxad piˈʃon hu hassoˈvev ʔet kol ʔɛˈrɛts haxaviˈla ʔaˈʃɛr ʃam hazzaˈhav",
+  "koreanPronunciation": "셈 하에하드 피숀 후 하소베브 에트 콜 에레츠 하하빌라 아쉐르 샴 하자하브",
+  "modern": "첫 번째 강의 이름은 비손이며, 금이 있는 하윌라 온 땅을 둘러 흐릅니다",
+  "words": [
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "이름",
+      "ipa": "ʃem",
+      "korean": "셈",
+      "letters": "ש(sh) + ֵ(e) + ם(m)",
+      "root": "ש-מ (셰메)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#7B68EE\" /></linearGradient><linearGradient id=\"name2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"48\" height=\"32\" rx=\"4\" fill=\"url(#name1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"16\" width=\"48\" height=\"8\" rx=\"4\" fill=\"url(#name2)\" opacity=\"0.8\" /><text x=\"32\" y=\"36\" font-family=\"Arial\" font-size=\"18\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\">NAME</text></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘)",
+        "שָׁמַע (샤마 - 듣다)"
+      ]
+    },
+    {
+      "hebrew": "הָאֶחָד",
+      "meaning": "첫 번째, 하나",
+      "ipa": "haʔɛˈxad",
+      "korean": "하에하드",
+      "letters": "הָ(ha) + אֶ(e) + חָ(ḥa) + ד(d)",
+      "root": "א-ח-ד (에하드)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"one1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"one2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#one1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.8))\" /><text x=\"32\" y=\"44\" font-family=\"Arial\" font-size=\"36\" font-weight=\"bold\" fill=\"white\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5))\">1</text><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#one2)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "יָחִיד (야히드 - 유일한)",
+        "אַחַת (아하트 - 하나, 여성형)"
+      ]
+    },
+    {
+      "hebrew": "פִּישׁוֹן",
+      "meaning": "비손 (강 이름)",
+      "ipa": "piˈʃon",
+      "korean": "피숀",
+      "letters": "פִּ(pi) + י(y) + שׁ(sh) + וֹ(o) + ן(n)",
+      "root": "פ-ו-ש (푸쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"river1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><linearGradient id=\"river2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient></defs><path d=\"M 4 32 Q 16 20 28 32 T 52 32 Q 58 38 60 44\" stroke=\"url(#river1)\" stroke-width=\"10\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 4 28 Q 16 16 28 28 T 52 28 Q 58 34 60 40\" stroke=\"url(#river2)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><circle cx=\"10\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"30\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"50\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נָהָר (나하르 - 강)",
+        "מַיִם (마임 - 물)"
+      ]
+    },
+    {
+      "hebrew": "הוּא",
+      "meaning": "그것은",
+      "ipa": "hu",
+      "korean": "후",
+      "letters": "ה(h) + וּ(u) + א(ʔ)",
+      "root": "ה-ו-א (후)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient><radialGradient id=\"point2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><path d=\"M 12 32 L 40 32 L 40 20 L 56 32 L 40 44 L 40 32 Z\" fill=\"url(#point1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"56\" cy=\"32\" r=\"6\" fill=\"url(#point2)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "הַסֹּבֵב",
+      "meaning": "둘러 흐르는",
+      "ipa": "hassoˈvev",
+      "korean": "하소베브",
+      "letters": "הַ(ha) + סֹּ(so) + בֵ(ve) + ב(v)",
+      "root": "ס-ב-ב (사바브)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"circle1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"50%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#2196F3\" /></linearGradient><linearGradient id=\"circle2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64DD17\" /><stop offset=\"100%\" stop-color=\"#00E676\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#circle1)\" stroke-width=\"8\" stroke-dasharray=\"5,3\" filter=\"drop-shadow(0 0 8px rgba(0, 188, 212, 0.6))\" /><path d=\"M 52 32 Q 52 22 46 18 L 50 14 L 48 22 L 40 20 L 46 18\" fill=\"url(#circle2)\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"52\" r=\"3\" fill=\"#FF4081\" filter=\"drop-shadow(0 0 6px rgba(255, 64, 129, 0.8))\" /><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"#00E676\" filter=\"drop-shadow(0 0 6px rgba(0, 230, 118, 0.8))\" /></svg>",
+      "relatedWords": [
+        "סָבִיב (사비브 - 주위에)",
+        "מְסִבָּה (메시바 - 주변, 돌림)"
+      ]
+    },
+    {
+      "hebrew": "אֵת כָּל",
+      "meaning": "모든 ~을",
+      "ipa": "ʔet kol",
+      "korean": "에트 콜",
+      "letters": "אֵ(e) + ת(t) + כָּ(ko) + ל(l)",
+      "root": "כֹּל (콜)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#3498DB\" /></linearGradient><radialGradient id=\"all2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9B59B6\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#all1)\" filter=\"drop-shadow(0 4px 12px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#ECF0F1\" stroke-width=\"2\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"32\" rx=\"26\" ry=\"13\" fill=\"none\" stroke=\"#ECF0F1\" stroke-width=\"2\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"32\" rx=\"13\" ry=\"26\" fill=\"none\" stroke=\"#ECF0F1\" stroke-width=\"2\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#all2)\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 255, 0.8))\" /></svg>",
+      "relatedWords": [
+        "כֹּלֶל (כולל - 전체)",
+        "הַכֹּל (하콜 - 모든 것)"
+      ]
+    },
+    {
+      "hebrew": "אֶרֶץ",
+      "meaning": "땅",
+      "ipa": "ʔɛˈrɛts",
+      "korean": "에레츠",
+      "letters": "אֶ(e) + רֶ(re) + ץ(ts)",
+      "root": "א-ר-ץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth1\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#654321\" /></radialGradient><linearGradient id=\"earth2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#689F38\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.5))\" /><path d=\"M 20 20 Q 24 18 28 20 Q 32 22 36 20 Q 40 18 44 20 L 44 28 Q 40 30 36 28 Q 32 26 28 28 Q 24 30 20 28 Z\" fill=\"url(#earth2)\" opacity=\"0.8\" /><path d=\"M 18 36 Q 22 34 26 36 Q 30 38 34 36 Q 38 34 42 36 L 42 44 Q 38 46 34 44 Q 30 42 26 44 Q 22 46 18 44 Z\" fill=\"url(#earth2)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"rgba(255, 215, 0, 0.3)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙)",
+        "תֵּבֵל (테벨 - 세계)"
+      ]
+    },
+    {
+      "hebrew": "הַחֲוִילָה",
+      "meaning": "하윌라 (지역 이름)",
+      "ipa": "haxaviˈla",
+      "korean": "하하빌라",
+      "letters": "הַ(ha) + חֲ(ḥa) + וִ(vi) + י(y) + לָ(la) + ה(h)",
+      "root": "ח-ו-ל (하발)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFC107\" /></linearGradient><linearGradient id=\"land2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"12\" fill=\"url(#land1)\" filter=\"drop-shadow(0 2px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"24\" cy=\"36\" rx=\"20\" ry=\"10\" fill=\"url(#land1)\" opacity=\"0.8\" /><ellipse cx=\"42\" cy=\"40\" rx=\"16\" ry=\"8\" fill=\"url(#land1)\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"20\" r=\"8\" fill=\"url(#land2)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.9))\" opacity=\"0.6\" /><circle cx=\"36\" cy=\"18\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "חוֹל (홀 - 모래)",
+        "מִדְבָּר (미드바르 - 광야)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר",
+      "meaning": "~인 곳",
+      "ipa": "ʔaˈʃɛr",
+      "korean": "아쉐르",
+      "letters": "אֲ(a) + שֶׁ(she) + ר(r)",
+      "root": "א-ש-ר (아쉐르)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"where1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><radialGradient id=\"where2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E74C3C\" /></radialGradient></defs><path d=\"M 32 8 Q 20 8 14 20 Q 8 32 14 42 Q 20 52 32 60 Q 44 52 50 42 Q 56 32 50 20 Q 44 8 32 8 Z\" fill=\"url(#where1)\" filter=\"drop-shadow(0 4px 10px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"26\" r=\"8\" fill=\"url(#where2)\" filter=\"drop-shadow(0 2px 6px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"26\" r=\"4\" fill=\"#E74C3C\" /></svg>",
+      "relatedWords": [
+        "שָׁם (샴 - 거기)",
+        "פֹּה (포 - 여기)"
+      ]
+    },
+    {
+      "hebrew": "הַזָּהָב",
+      "meaning": "금",
+      "ipa": "hazzaˈhav",
+      "korean": "하자하브",
+      "letters": "הַ(ha) + זָּ(za) + הָ(ha) + ב(v)",
+      "root": "ז-ה-ב (자하브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gold1\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA000\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></radialGradient><linearGradient id=\"gold2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"50%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></linearGradient><linearGradient id=\"shine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#gold1)\" filter=\"drop-shadow(0 6px 16px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 14 L 28 28 L 14 28 L 25 36 L 20 50 L 32 42 L 44 50 L 39 36 L 50 28 L 36 28 Z\" fill=\"url(#gold2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"28\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#shine1)\" opacity=\"0.4\" transform=\"rotate(-20 28 24)\" /><circle cx=\"38\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.9))\" /></svg>",
+      "relatedWords": [
+        "כֶּסֶף (케세프 - 은)",
+        "יָקָר (야카르 - 귀한)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 11절은 에덴에서 흘러나온 네 강 중 첫 번째인 비손 강을 소개합니다. 이 구절은 단순히 지리적 정보를 제공하는 것을 넘어, 하나님의 창조가 풍성한 물질적 축복과 아름다움으로 가득 차 있음을 보여줍니다. 특히 금의 언급은 에덴동산의 영광과 하나님이 창조하신 세계의 가치를 상징합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שֵׁם הָאֶחָד פִּישׁוֹן (셈 하에하드 피숀) - 첫 번째 강 비손",
+        "description": "비손은 에덴에서 흘러나온 네 강 중 첫 번째로 언급됩니다. '피숀'이라는 이름은 히브리어 어근 '파샤'(פ-ו-ש)에서 유래했으며 '넘치다', '퍼지다'라는 의미를 담고 있습니다. 이는 에덴의 풍성한 생명수가 세상으로 흘러넘치는 이미지를 전달합니다.",
+        "points": [
+          "에덴의 축복이 강을 통해 세상으로 흘러나감을 상징합니다",
+          "네 강 중 첫 번째로 언급되어 우선순위와 중요성을 나타냅니다",
+          "강의 이름은 하나님의 축복이 넘쳐흐르는 풍성함을 의미합니다",
+          "요한계시록 22:1의 생명수 강과 연결되는 이미지입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַסֹּבֵב אֵת כָּל-אֶרֶץ (하소베브 에트 콜 에레츠) - 온 땅을 둘러 흐르는",
+        "description": "'사바브'(ס-ב-ב)는 '둘러싸다', '순환하다'라는 의미입니다. 강이 단순히 한 방향으로 흐르는 것이 아니라 하윌라 지역 전체를 포괄적으로 둘러싸며 흐른다는 것을 강조합니다. 이는 하나님의 축복과 공급이 특정 지역에 국한되지 않고 전 영역을 아우른다는 의미입니다.",
+        "points": [
+          "하나님의 축복은 특정 지점이 아닌 전체 영역을 포괄합니다",
+          "강물의 순환은 생명의 지속적인 공급을 상징합니다",
+          "에덴의 영향력이 광범위하게 미침을 나타냅니다",
+          "하나님의 공급하심이 끊임없이 순환하며 이어짐을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הַחֲוִילָה אֲשֶׁר-שָׁם הַזָּהָב (하하빌라 아쉐르 샴 하자하브) - 금이 있는 하윌라 땅",
+        "description": "하윌라는 금으로 유명한 지역이었습니다. 성경은 단순히 지리적 위치만이 아니라 그 땅의 특산물인 금을 함께 언급함으로써, 하나님의 창조가 얼마나 가치 있고 풍성한 것으로 채워져 있는지를 강조합니다. 금은 성경 전반에서 순수함, 거룩함, 왕권을 상징하는 귀금속입니다.",
+        "points": [
+          "하나님의 창조는 단순한 실용성을 넘어 아름다움과 가치를 포함합니다",
+          "금은 에덴의 영광과 하나님 나라의 영광을 상징합니다",
+          "물질적 축복도 하나님의 선한 창조 계획의 일부입니다",
+          "요한계시록의 새 예루살렘 성이 정금으로 지어진 것과 연결됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "에덴의 강들 - 생명과 풍요의 근원",
+        "description": "에덴에서 흘러나온 강들은 단순한 물의 흐름이 아니라 하나님의 생명과 축복이 온 세계로 퍼져나가는 통로입니다. 고대 근동 문화에서 강은 문명의 생명줄이었으며, 성경은 이를 통해 하나님께서 만드신 에덴이 모든 생명과 번영의 원천임을 가르칩니다.",
+        "points": [
+          "강은 생명의 원천으로서 하나님의 공급하심을 상징합니다",
+          "에덴에서 시작된 축복이 온 세계로 흘러감을 보여줍니다",
+          "물은 성경 전체에서 성령과 하나님의 말씀을 상징합니다",
+          "요한복음 7:38의 '생수의 강'과 연결되는 이미지입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 금이 있는 곳을 특별히 말씀해주셨을까요?",
+      "answer": "하나님은 우리에게 좋은 것들로 가득한 세상을 만들어주셨다는 것을 알려주고 싶으셨어요. 금은 아주 귀하고 아름다운 것이잖아요? 하나님이 만드신 세상은 그저 살기에 적당한 곳이 아니라, 정말 아름답고 귀한 것들로 가득 찬 특별한 선물이에요. 마치 부모님이 아이를 위해 가장 좋은 것들을 준비해주시는 것처럼, 하나님도 우리를 위해 가장 아름답고 귀한 것들을 준비해주셨답니다. 그리고 이 금은 나중에 하늘나라의 아름다움을 미리 보여주는 것이기도 해요.",
+      "bibleReferences": [
+        "요한계시록 21:18 - '그 성곽은 벽옥으로 쌓았고 그 성은 맑은 유리 같은 정금이더라'",
+        "요한계시록 21:21 - '그 성의 길은 맑은 유리 같은 정금이더라'",
+        "시편 19:10 - '금 곧 많은 순금보다 더 사모할 것이며'",
+        "잠언 3:14 - '이것을 얻는 것이 은을 얻는 것보다 낫고 그 이익이 정금보다 나으니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "비손 강과 하윌라의 금 이야기는 하나님의 창조가 단순히 기능적인 것을 넘어 풍성하고 아름답다는 것을 보여줍니다. 에덴동산은 물질적 풍요와 영적 축복이 함께하는 곳이었으며, 이는 장차 올 하나님 나라의 영광을 미리 보여주는 예표입니다. 요한계시록에서 새 예루살렘이 정금으로 지어진 것처럼, 하나님의 최종적인 회복은 에덴의 영광을 회복하고 그것을 초월하는 것입니다. 우리는 그리스도를 통해 다시 이 생명수의 강과 영광의 금으로 인도받게 될 것입니다."
+    }
+  }
+}

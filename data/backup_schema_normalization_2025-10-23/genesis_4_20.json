@@ -1,0 +1,160 @@
+{
+  "id": "genesis_4_20",
+  "reference": "창세기 4:20",
+  "hebrew": "",
+  "ipa": "vateˈled ʕaˈda ʔɛt jaˈval hu haˈja ʔaˈvi joˈʃev ˈʔohel umikˈne",
+  "koreanPronunciation": "바텔레드 아다 에트 야발 후 하야 아비 요쉐브 오헬 우미크네",
+  "modern": "아다가 야발을 낳았는데, 그는 장막에 거주하며 가축을 치는 자들의 조상이 되었습니다",
+  "words": [
+    {
+      "hebrew": "וַתֵּלֶד",
+      "meaning": "그리고 낳다",
+      "ipa": "vateˈled",
+      "korean": "바텔레드",
+      "letters": "וַ(va) + תֵּ(te) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"baby20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"halo20\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#halo20)\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby20)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#baby20)\"/></svg>"
+    },
+    {
+      "hebrew": "עָדָה",
+      "meaning": "아다",
+      "ipa": "ʕaˈda",
+      "korean": "아다",
+      "letters": "עָ(a) + דָה(dah)",
+      "root": "ע-ד-ה (아다)",
+      "grammar": "명사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"adah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\"/><stop offset=\"100%\" stop-color=\"#FF69B4\"/></linearGradient><linearGradient id=\"hair20\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 182, 193, 0.1)\"/><ellipse cx=\"32\" cy=\"26\" rx=\"13\" ry=\"15\" fill=\"url(#adah1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 12 Q 24 8 32 8 Q 40 8 44 12 Q 46 16 44 20 L 42 24\" stroke=\"url(#hair20)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת יָבָל",
+      "meaning": "야발을",
+      "ipa": "ʔɛt jaˈval",
+      "korean": "에트 야발",
+      "letters": "אֶת(et) + יָ(ya) + בָל(val)",
+      "root": "י-ב-ל (야발)",
+      "grammar": "명사",
+      "emoji": "🧑‍🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jabal1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient><linearGradient id=\"tent1\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#jabal1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#jabal1)\"/><path d=\"M 48 48 L 32 36 L 16 48 Z\" fill=\"url(#tent1)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "הוּא",
+      "meaning": "그",
+      "ipa": "hu",
+      "korean": "후",
+      "letters": "ה(h) + וּא(u)",
+      "root": "ה-ו-א (후)",
+      "grammar": "대명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"he1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#he1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 36 L 32 32 L 44 36 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#he1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "הָיָה",
+      "meaning": "되다",
+      "ipa": "haˈja",
+      "korean": "하야",
+      "letters": "הָ(ha) + יָה(yah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"being20\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#being20)\"/><polygon points=\"32,16 34,26 44,28 34,30 32,40 30,30 20,28 30,26\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "אֲבִי",
+      "meaning": "조상, 아버지",
+      "ipa": "ʔaˈvi",
+      "korean": "아비",
+      "letters": "אֲ(a) + בִי(vi)",
+      "root": "א-ב (아브)",
+      "grammar": "명사",
+      "emoji": "👨‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"father1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><radialGradient id=\"legacy1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#legacy1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#father1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"34\" rx=\"10\" ry=\"12\" fill=\"url(#father1)\"/><circle cx=\"24\" cy=\"48\" r=\"5\" fill=\"url(#father1)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"48\" r=\"5\" fill=\"url(#father1)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "יֹשֵׁב אֹהֶל",
+      "meaning": "장막에 거주하는 자",
+      "ipa": "joˈʃev ˈʔohel",
+      "korean": "요쉐브 오헬",
+      "letters": "יֹ(yo) + שֵׁב(shev) + אֹ(o) + הֶל(hel)",
+      "root": "י-ש-ב (야샤브)",
+      "grammar": "명사",
+      "emoji": "⛺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tent20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"50%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><linearGradient id=\"pole1\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><path d=\"M 32 12 L 16 48 L 48 48 Z\" fill=\"url(#tent20)\" filter=\"drop-shadow(2px 2px 6px rgba(0,0,0,0.4))\"/><rect x=\"30\" y=\"12\" width=\"4\" height=\"36\" fill=\"url(#pole1)\"/><path d=\"M 20 48 L 44 48\" stroke=\"#654321\" stroke-width=\"3\"/><path d=\"M 32 20 L 24 40\" stroke=\"#A0522D\" stroke-width=\"2\" opacity=\"0.5\"/><path d=\"M 32 20 L 40 40\" stroke=\"#A0522D\" stroke-width=\"2\" opacity=\"0.5\"/></svg>"
+    },
+    {
+      "hebrew": "וּמִקְנֶה",
+      "meaning": "그리고 가축",
+      "ipa": "umikˈne",
+      "korean": "우미크네",
+      "letters": "וּ(u) + מִ(mi) + קְנֶה(kneh)",
+      "root": "ק-נ-ה (카나)",
+      "grammar": "명사",
+      "emoji": "🐄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient><linearGradient id=\"spots1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#F5F5DC\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"url(#cattle1)\" filter=\"drop-shadow(0 3px 6px rgba(0,0,0,0.3))\"/><ellipse cx=\"24\" cy=\"20\" rx=\"8\" ry=\"10\" fill=\"url(#cattle1)\"/><circle cx=\"20\" cy=\"18\" r=\"2\" fill=\"#333\"/><circle cx=\"28\" cy=\"18\" r=\"2\" fill=\"#333\"/><ellipse cx=\"18\" cy=\"14\" rx=\"3\" ry=\"5\" fill=\"url(#cattle1)\"/><ellipse cx=\"30\" cy=\"14\" rx=\"3\" ry=\"5\" fill=\"url(#cattle1)\"/><circle cx=\"28\" cy=\"36\" r=\"4\" fill=\"url(#spots1)\" opacity=\"0.6\"/><circle cx=\"38\" cy=\"32\" r=\"3\" fill=\"url(#spots1)\" opacity=\"0.6\"/><path d=\"M 18 48 L 20 54\" stroke=\"url(#cattle1)\" stroke-width=\"3\"/><path d=\"M 26 48 L 28 54\" stroke=\"url(#cattle1)\" stroke-width=\"3\"/><path d=\"M 38 48 L 40 54\" stroke=\"url(#cattle1)\" stroke-width=\"3\"/><path d=\"M 46 48 L 48 54\" stroke=\"url(#cattle1)\" stroke-width=\"3\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 20절은 인류 문명의 발전을 보여주는 계보의 시작입니다. 야발은 유목 생활의 선구자로서, 장막에 거주하며 가축을 치는 생활 방식을 시작한 조상으로 기록됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יָבָל (야발) - 유목 문화의 창시자",
+        "description": "'야발'이라는 이름은 '흐르다', '운반하다'를 의미하는 어근에서 유래했을 가능성이 있습니다. 이는 유목민의 이동 생활을 암시합니다. 그는 정착 생활이 아닌 이동하며 사는 생활 방식을 개척한 인물입니다.",
+        "points": [
+          "인류 최초로 유목 생활 방식을 체계화한 인물",
+          "가축을 돌보며 목초지를 찾아 이동하는 삶의 개척자",
+          "아브라함, 이삭, 야곱으로 이어지는 유목 전통의 시작"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יֹשֵׁב אֹהֶל (요쉐브 오헬) - 장막에 거주하는 자",
+        "description": "'요쉐브'는 '거주하다', '앉다'를 의미하며, '오헬'은 '장막', '천막'을 의미합니다. 이는 이동식 주거 형태를 나타내며, 정착 생활과 대비되는 유목 생활의 특징입니다.",
+        "points": [
+          "이동식 천막 주거의 발명과 사용",
+          "성경의 족장들도 장막에 거주함 (히브리서 11:9)",
+          "영적으로 우리도 이 땅에서는 나그네와 순례자 (베드로전서 2:11)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִקְנֶה (미크네) - 가축, 소유",
+        "description": "'미크네'는 '가축', 특히 소, 양, 염소 등을 의미하며, '획득하다'는 의미의 어근에서 유래합니다. 가축은 유목민의 주요 재산이자 생계 수단이었습니다.",
+        "points": [
+          "가축은 고대 유목민의 주요 재산과 부의 척도",
+          "아브라함과 욥도 많은 가축으로 부유함을 나타냄",
+          "가축 사육과 관리 기술의 발전"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֲבִי (아비) - 조상, 창시자",
+        "description": "'아비'는 단순히 생물학적 아버지가 아니라, '조상', '창시자', '선구자'를 의미합니다. 야발은 유목 생활 방식을 시작한 모든 이들의 영적, 문화적 조상입니다.",
+        "points": [
+          "문화적, 직업적 전통의 시작자를 의미",
+          "후대에 영향을 미친 개척자의 역할",
+          "기술과 생활 방식의 전수자"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "야발은 왜 장막에 살며 가축을 쳤나요?",
+      "answer": "야발은 가축을 기르는 새로운 방법을 발명한 사람이에요. 가축들은 풀을 먹어야 하는데, 한 곳에 계속 있으면 풀이 다 없어지잖아요? 그래서 야발은 천막집을 만들어서 가축들과 함께 풀이 있는 곳으로 계속 이동하며 살았어요. 마치 캠핑카를 타고 여행하며 사는 것처럼요! 이렇게 야발은 목축업의 아버지가 되었답니다.",
+      "bibleReferences": [
+        "창세기 13:2 - '아브람에게 가축과 은금이 매우 많았더라'",
+        "히브리서 11:9 - '믿음으로 그가 이방의 땅에 있는 것 같이 약속의 땅에 거류하여 동일한 약속을 유업으로 함께 받은 이삭 및 야곱과 더불어 장막에 거하였으니'",
+        "시편 84:10 - '주의 장막에서의 한 날이 다른 곳에서의 천 날보다 나은즉'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "야발의 유목 생활은 신앙적으로 중요한 상징입니다. 아브라함과 이삭, 야곱은 모두 장막에 거주하며 하나님의 약속을 바라보았습니다. 이는 신자들이 이 땅에서는 나그네요 순례자로서, 하늘의 본향을 사모하며 살아가는 삶을 예표합니다. 동시에 야발의 이야기는 타락 이후에도 하나님께서 인류에게 지혜와 창의성을 주셔서 문명을 발전시키도록 하셨음을 보여줍니다."
+    }
+  }
+}

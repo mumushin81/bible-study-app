@@ -1,0 +1,121 @@
+{
+  "id": "genesis_13_6",
+  "reference": "창세기 13:6",
+  "hebrew": "",
+  "ipa": "vəloʔ naˈsa ʔoˈtam haˈʔarɛts laˈʃɛvɛt jaχˈdav ki haˈja rəχuˈʃam rav vəloʔ jaχəˈlu laˈʃɛvɛt jaχˈdav",
+  "koreanPronunciation": "벨로 나사 오탐 하아레츠 라쉐베트 야흐다브 키 하야 레쿠샴 라브 벨로 야켈루 라쉐베트 야흐다브",
+  "modern": "그 땅이 그들을 함께 거주하게 할 수 없었습니다. 그들의 소유가 많아서 함께 거할 수 없었기 때문입니다",
+  "words": [
+    {
+      "hebrew": "וְלֹא נָשָׂא",
+      "meaning": "그리고 감당하지 못했다",
+      "ipa": "vəloʔ naˈsa",
+      "korean": "벨로 나사",
+      "letters": "וְ(ve) + לֹא(lo) + נָ(na) + שָׂא(sa)",
+      "root": "נ-שׂ-א (나사)",
+      "grammar": "동사",
+      "emoji": "❌",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cannot-bear-gen13-6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#a93226\" /></linearGradient><radialGradient id=\"cannot-glow-gen13-6\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(231, 76, 60, 0.2)\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#cannot-bear-gen13-6)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><line x1=\"48\" y1=\"16\" x2=\"16\" y2=\"48\" stroke=\"url(#cannot-bear-gen13-6)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#cannot-bear-gen13-6)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "נָשָׂא (나사 - 들다, 감당하다)",
+        "מַשָּׂא (마사 - 짐, 부담)"
+      ]
+    },
+    {
+      "hebrew": "אֹתָם הָאָרֶץ",
+      "meaning": "그 땅이 그들을",
+      "ipa": "ʔoˈtam haˈʔarɛts",
+      "korean": "오탐 하아레츠",
+      "letters": "אֹ(o) + תָם(tam) + הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֵת (에트) + אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-limit-gen13-6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"land-earth-gen13-6\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#land-earth-gen13-6)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 24 Q 24 20 32 24 Q 40 28 48 24\" fill=\"url(#land-limit-gen13-6)\" opacity=\"0.6\" /><path d=\"M 12 36 Q 20 32 32 36 Q 44 40 52 36\" fill=\"url(#land-limit-gen13-6)\" opacity=\"0.6\" /><rect x=\"8\" y=\"48\" width=\"48\" height=\"8\" fill=\"url(#land-limit-gen13-6)\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"20\" r=\"4\" fill=\"#2ecc71\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"28\" r=\"3\" fill=\"#2ecc71\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"44\" r=\"5\" fill=\"#2ecc71\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지역)",
+        "אֲדָמָה (아다마 - 흙, 토지)"
+      ]
+    },
+    {
+      "hebrew": "לָשֶׁבֶת יַחְדָּו",
+      "meaning": "함께 거주하기에",
+      "ipa": "laˈʃɛvɛt jaχˈdav",
+      "korean": "라쉐베트 야흐다브",
+      "letters": "לָ(la) + שֶׁ(she) + בֶת(vet) + יַ(ya) + חְדָּו(chdav)",
+      "root": "י-שׁ-ב (야샤브) + יַחַד (야하드)",
+      "grammar": "동사",
+      "emoji": "🏘️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dwell-together-gen13-6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#2ecc71\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></linearGradient><radialGradient id=\"dwell-unite-gen13-6\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><rect x=\"12\" y=\"28\" width=\"16\" height=\"20\" fill=\"url(#dwell-together-gen13-6)\" rx=\"2\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 12 28 L 20 18 L 28 28\" fill=\"url(#dwell-together-gen13-6)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><rect x=\"36\" y=\"28\" width=\"16\" height=\"20\" fill=\"url(#dwell-together-gen13-6)\" rx=\"2\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 36 28 L 44 18 L 52 28\" fill=\"url(#dwell-together-gen13-6)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"54\" rx=\"26\" ry=\"6\" fill=\"url(#dwell-unite-gen13-6)\" opacity=\"0.4\" /><rect x=\"18\" y=\"36\" width=\"4\" height=\"6\" fill=\"#FFD700\" opacity=\"0.8\" /><rect x=\"42\" y=\"36\" width=\"4\" height=\"6\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יָשַׁב (야샤브 - 거주하다, 앉다)",
+        "יַחַד (야하드 - 함께, 하나로)"
+      ]
+    },
+    {
+      "hebrew": "רְכוּשָׁם רָב",
+      "meaning": "그들의 소유가 많았다",
+      "ipa": "rəχuˈʃam rav",
+      "korean": "레쿠샴 라브",
+      "letters": "רְ(re) + כוּ(khu) + שָׁם(sham) + רָב(rav)",
+      "root": "רְכוּשׁ (레쿠쉬) + רַב (라브)",
+      "grammar": "명사",
+      "emoji": "💎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"great-wealth-gen13-6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"wealth-shine-gen13-6\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"70%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><path d=\"M 32 12 L 38 26 L 52 28 L 42 38 L 44 52 L 32 44 L 20 52 L 22 38 L 12 28 L 26 26 Z\" fill=\"url(#great-wealth-gen13-6)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#wealth-shine-gen13-6)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><circle cx=\"20\" cy=\"20\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"20\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"20\" cy=\"44\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"44\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+        "רַב (라브 - 많은, 큰)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "축복이 문제가 되는 역설적 상황입니다. 땅의 자원이 두 사람의 늘어난 재산을 감당할 수 없게 되었습니다. 물리적 한계가 관계의 긴장으로 이어지는 순간입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְלֹא נָשָׂא אֹתָם הָאָרֶץ (벨로 나사 오탐 하아레츠) - 땅의 한계",
+        "description": "'나사(감당하다, 지탱하다)'라는 동사가 부정형으로 사용되어 땅이 더 이상 두 가족을 지탱할 수 없음을 나타냅니다. 가나안 땅은 풍요로웠지만, 무한하지는 않았습니다.",
+        "points": [
+          "하나님의 축복도 땅의 물리적 한계 안에서 작동합니다",
+          "자원의 부족은 관계의 갈등으로 이어질 수 있습니다",
+          "축복이 많아질수록 더 큰 지혜가 필요합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לָשֶׁבֶת יַחְדָּו (라쉐베트 야흐다브) - 함께 거함의 어려움",
+        "description": "'야하다브(함께)'라는 단어가 두 번 반복되어 강조됩니다. 이는 이전까지 그들이 얼마나 긴밀히 함께했는지를 보여주며, 동시에 그 관계가 이제 위협받고 있음을 암시합니다.",
+        "points": [
+          "함께 사는 것은 단순히 같은 공간에 있는 것 이상을 의미합니다",
+          "물질적 조건은 공동체 생활에 실질적 영향을 미칩니다",
+          "좋았던 관계도 자원 경쟁으로 깨질 수 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "רְכוּשָׁם רָב (레쿠샴 라브) - 많은 소유의 역설",
+        "description": "'라브(많은)'는 보통 축복을 나타내는 단어이지만, 여기서는 문제의 원인이 됩니다. 소유가 많아진 것은 하나님의 축복이었지만, 그것이 관계의 긴장을 만들어냈습니다.",
+        "points": [
+          "축복 자체가 새로운 도전을 가져올 수 있습니다",
+          "물질적 풍요가 반드시 관계의 평화를 보장하지 않습니다",
+          "더 많이 가질수록 더 많은 지혜와 절제가 필요합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "축복을 받아서 부자가 되었는데 왜 문제가 생겼을까요?",
+      "answer": "하나님께서 아브람과 롯을 축복하셔서 양과 소가 많아졌어요. 그런데 그 많은 동물들이 먹을 풀과 마실 물이 부족해지기 시작했어요. 마치 작은 방에 장난감이 너무 많으면 놀기 힘든 것처럼, 땅이 너무 많은 가축을 감당할 수 없게 된 거예요. 좋은 것도 너무 많으면 문제가 될 수 있다는 걸 보여주는 거예요. 그래서 우리는 축복을 받을 때도 지혜롭게 관리해야 한답니다.",
+      "bibleReferences": [
+        "전도서 5:10 - '은을 사랑하는 자는 은으로 만족하지 못하고 풍요를 사랑하는 자는 소득으로 만족하지 아니하나니'",
+        "누가복음 12:15 - '삼가 모든 탐심을 물리치라 사람의 생명이 그 소유의 넉넉한 데 있지 아니하니라'",
+        "디모데전서 6:9 - '부하려 하는 자들은 시험과 올무와 여러 가지 어리석고 해로운 욕심에 떨어지나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 축복의 역설을 보여줍니다. 하나님의 축복으로 재산이 늘어났지만, 그것이 새로운 도전을 만들어냈습니다. 이는 물질적 축복 자체가 최종 목적이 아니라, 그것을 어떻게 관리하고 사용하는가가 더 중요함을 가르칩니다. 축복은 감사와 함께 지혜로운 청지기 정신을 요구합니다."
+    }
+  }
+}

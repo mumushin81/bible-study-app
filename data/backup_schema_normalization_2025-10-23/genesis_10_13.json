@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_13",
+  "reference": "창세기 10:13",
+  "hebrew": "וּמִצְרַיִם יָלַד אֶת־לוּדִים וְאֶת־עֲנָמִים וְאֶת־לְהָבִים, וְאֶת־נַפְתֻּחִים.",
+  "ipa": "umitsˈrajim jaˈlad ʔɛt luˈdim vəʔɛt ʕanaˈmim vəʔɛt ləhaˈvim vəʔɛt naftuˈxim",
+  "koreanPronunciation": "우미츠라임 야라드 에트 루딤 베에트 아나밈 베에트 레하빔 베에트 납투힘",
+  "modern": "미스라임은 루딤과 아나밈과 르하빔과 납두힘을 낳았으며",
+  "words": [
+    {
+      "hebrew": "מִצְרַיִם",
+      "meaning": "미스라임 (이집트)",
+      "ipa": "mitsˈrajim",
+      "korean": "미츠라임",
+      "letters": "מִ(mi) + צְ(ts) + רַ(ra) + יִם(yim)",
+      "root": "מָצוֹר (마초르 - 경계, 요새)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt_mitsrayim2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#FFE4B5\" /></linearGradient></defs><polygon points=\"32,12 44,40 20,40\" fill=\"url(#egypt_mitsrayim2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"40\" width=\"24\" height=\"6\" fill=\"#D2691E\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"26\" r=\"3\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "מִצְרִי (미츠리 - 이집트인)",
+        "יְאוֹר (예오르 - 나일강)"
+      ]
+    },
+    {
+      "hebrew": "לוּדִים",
+      "meaning": "루딤 (리비아 부족)",
+      "ipa": "luˈdim",
+      "korean": "루딤",
+      "letters": "לוּ(lu) + דִ(di) + ים(m)",
+      "root": "לוּד (루드)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ludim_ludim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF59D\" /><stop offset=\"100%\" stop-color=\"#F9A825\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#ludim_ludim)\" opacity=\"0.6\" /><path d=\"M 24 28 Q 32 24 40 28\" fill=\"none\" stroke=\"#F57F17\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "לוּב (루브 - 리비아)",
+        "פּוּט (푸트 - 리비아)"
+      ]
+    },
+    {
+      "hebrew": "עֲנָמִים",
+      "meaning": "아나밈 (북아프리카 부족)",
+      "ipa": "ʕanaˈmim",
+      "korean": "아나밈",
+      "letters": "עֲ(a) + נָ(na) + מִ(mi) + ים(m)",
+      "root": "עֲנָמִים (아나밈)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"anamim_anamim\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#anamim_anamim)\" opacity=\"0.7\" /><circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFF\" opacity=\"0.4\" /><circle cx=\"36\" cy=\"28\" r=\"4\" fill=\"#FFF\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "עַם (암 - 백성)",
+        "צֹאן (촌 - 양 떼)"
+      ]
+    },
+    {
+      "hebrew": "לְהָבִים",
+      "meaning": "르하빔 (리비아 부족)",
+      "ipa": "ləhaˈvim",
+      "korean": "레하빔",
+      "letters": "לְ(le) + הָ(ha) + בִ(vi) + ים(m)",
+      "root": "לֶהָבָה (레하바 - 불꽃)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lehavim_lehavim\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6F00\" /><stop offset=\"50%\" stop-color=\"#FF9800\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" /></linearGradient></defs><path d=\"M 32 48 Q 28 40 28 32 Q 28 24 32 16 Q 36 24 36 32 Q 36 40 32 48 Z\" fill=\"url(#lehavim_lehavim)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFEB3B\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "לֶהָבָה (레하바 - 화염)",
+        "לָהַב (라하브 - 타오르다)"
+      ]
+    },
+    {
+      "hebrew": "נַפְתֻּחִים",
+      "meaning": "납두힘 (나일강 델타 지역)",
+      "ipa": "naftuˈxim",
+      "korean": "납투힘",
+      "letters": "נַ(na) + פְ(f) + תֻּ(tu) + חִ(chi) + ים(m)",
+      "root": "פ-ת-ח (파타흐 - 열다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"naphtuhim_naphtuhim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><rect width=\"64\" height=\"40\" fill=\"url(#naphtuhim_naphtuhim)\" opacity=\"0.4\" /><path d=\"M 0 40 L 16 36 L 32 40 L 48 36 L 64 40 L 64 64 L 0 64 Z\" fill=\"#66BB6A\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "פָּתַח (파타흐 - 열다)",
+        "מִפְתֵּחַ (미프테아흐 - 열쇠)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "미스라임(이집트)의 후손들은 주로 북아프리카 지역에 정착한 민족들입니다. 이들은 이집트 본토와 주변의 리비아, 나일강 델타 지역의 여러 부족들을 포함합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "미스라임의 복수형 - 상하 이집트",
+        "description": "미스라임(מִצְרַיִם)은 히브리어 쌍수(dual) 형태로, 문자적으로 '두 이집트'를 의미합니다. 이는 역사적으로 상(上)이집트와 하(下)이집트로 나뉘었던 것을 반영합니다.",
+        "points": [
+          "나일강 상류(남부)와 하류(북부)의 두 지역입니다",
+          "고대 이집트는 이 둘의 통일로 시작되었습니다",
+          "파라오는 '두 땅의 주인'이라는 칭호를 가졌습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "루딤과 레하빔 - 리비아 부족들",
+        "description": "루딤과 레하빔은 모두 이집트 서쪽의 리비아 지역 부족들로 추정됩니다. 이집트 기록에는 '리부(Libu)' 족속이 자주 언급되며, 이들이 루딤일 가능성이 높습니다.",
+        "points": [
+          "이집트 서부 국경의 중요한 세력이었습니다",
+          "때로 이집트와 동맹, 때로 적대 관계였습니다",
+          "일부는 이집트 용병으로 활동했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "아나밈 - 목축 민족",
+        "description": "아나밈은 '양 떼'를 의미하는 어근과 연관될 수 있어, 목축 생활을 하던 부족으로 추정됩니다. 사막과 오아시스 지역에 거주했을 것입니다.",
+        "points": [
+          "유목 또는 반유목 생활을 했을 것입니다",
+          "이집트 문명의 주변부에 위치했습니다",
+          "정착 문명과 유목 문화의 접점이었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "납투힘 - 델타 지역",
+        "description": "'납투힘'은 '열린 곳'을 의미하는 어근에서 나왔을 수 있으며, 나일강 델타의 개방된 평야 지대를 가리킬 수 있습니다. 하(下)이집트의 비옥한 지역입니다.",
+        "points": [
+          "나일강이 지중해로 흘러드는 델타 지역입니다",
+          "이집트에서 가장 비옥한 농경지였습니다",
+          "고대 무역의 중심지였습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 이집트는 성경에 자주 나오나요?",
+      "answer": "이집트는 이스라엘 역사에서 아주 중요한 나라예요. 요셉이 총리가 되어 야곱 가족을 구했고, 모세가 태어나고 자란 곳이며, 출애굽이라는 큰 사건이 일어난 곳이에요. 이집트는 때로는 피난처가 되었고(아기 예수님도 이집트로 피신), 때로는 노예의 집이 되었어요. 하나님은 이집트를 통해 자신의 권능을 보여주시고, 이스라엘을 구원하셨어요. 이집트는 하나님이 얼마나 강하신지, 그리고 어떻게 자기 백성을 사랑하시는지 보여주는 무대였답니다.",
+      "bibleReferences": [
+        "출애굽기 12:41 - '이스라엘 자손이 애굽 땅에 거주한 지 사백삼십 년이라'",
+        "호세아 11:1 - '내가 내 아들을 애굽에서 불러냈다'",
+        "이사야 19:25 - '애굽 내 백성이여 앗수르 내 손으로 지은 것이여 이스라엘 내 기업이여 복이 있을지어다'",
+        "계시록 11:8 - '영적으로 하면 소돔이라고도 하고 애굽이라고도 하는 큰 성'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "미스라임의 후손 목록은 이집트 문명의 다양성과 복잡성을 보여줍니다. 성경에서 이집트는 이중적 이미지를 갖습니다. 한편으로는 노예의 집, 죄와 압제의 상징이지만(출 20:2, 신 5:6), 다른 한편으로는 기근 때 피난처(창 12:10, 마 2:14)가 되기도 합니다. 이사야 19장은 놀랍게도 이집트의 회심을 예언합니다: '그 날에 이스라엘이 애굽과 앗수르와 더불어 셋이 세계 중에 복이 되리니'(사 19:24). 초대교회 역사에서 이집트는 중요한 기독교 중심지가 되었고(알렉산드리아), 사막 교부들의 영성이 발전한 곳입니다. 아프리카 기독교의 뿌리가 여기 있습니다. 이는 하나님의 구원이 어떤 민족도 배제하지 않으며, 과거의 압제자도 회개하면 하나님의 백성이 될 수 있음을 보여줍니다. 미스라임의 후손 목록은 지리적 정보 이상으로, 하나님의 구원 역사가 북아프리카 전역을 포함한다는 메시지를 담고 있습니다."
+    }
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "id": "genesis_15_17",
+  "reference": "창세기 15:17",
+  "hebrew": "וַיְהִי הַשֶּׁמֶשׁ בָּאָה וַעֲלָטָה הָיָה וְהִנֵּה תַנּוּר עָשָׁן וְלַפִּיד אֵשׁ אֲשֶׁר עָבַר בֵּין הַגְּזָרִים הָאֵלֶּה׃",
+  "ipa": "vajəˈhi haˈʃɛmɛʃ ˈbaʔa vaʔaˈlaʈa ˈhaja vəhinˈne tanˈnur ʕaˈʃan vəlapˈpid ʔeʃ ʔaˈʃɛr ʕaˈvar ben haggəzaˈrim haˈʔellɛ",
+  "koreanPronunciation": "바예히 하셰메쉬 바아 바알라타 하야 베힌네 탄누르 아샨 벨라피드 에쉬 아셰르 아바르 벤 학게자림 하엘레",
+  "modern": "해가 지고 어둠이 깊어지자, 연기 나는 화덕과 타오르는 횃불이 쪼갠 고기 조각들 사이를 지나갔습니다",
+  "words": [
+    {
+      "hebrew": "הַשֶּׁמֶשׁ בָּאָה",
+      "meaning": "해가 들어가다, 해가 지다",
+      "ipa": "haˈʃɛmɛʃ ˈbaʔa",
+      "korean": "하셰메쉬 바아",
+      "letters": "הַ(ha) + שֶּׁ(she) + מֶשׁ(mesh) + בָּ(ba) + אָה(ah)",
+      "root": "ש-מ-ש (샤마쉬), ב-ו-א (보)",
+      "grammar": "명사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-sunset1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#FF8C42\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></linearGradient><radialGradient id=\"theophany17-sun1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF4500\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#theophany17-sunset1)\" /><circle cx=\"32\" cy=\"48\" r=\"18\" fill=\"url(#theophany17-sun1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 12px rgba(255, 69, 0, 0.6))\" /><line x1=\"0\" y1=\"48\" x2=\"64\" y2=\"48\" stroke=\"#3D1F47\" stroke-width=\"8\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שֶׁמֶשׁ (셰메쉬 - 태양)",
+        "בּוֹא (보 - 들어오다, 가다)"
+      ]
+    },
+    {
+      "hebrew": "עֲלָטָה",
+      "meaning": "어둠, 짙은 어둠",
+      "ipa": "ʕaˈlaʈa",
+      "korean": "알라타",
+      "letters": "עֲ(a) + לָ(la) + טָה(tah)",
+      "root": "ע-ל-ט (알라트)",
+      "grammar": "명사",
+      "emoji": "🌑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"theophany17-dark1\"><stop offset=\"0%\" stop-color=\"#1A1A2E\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#theophany17-dark1)\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"#0F0F1E\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"#000000\" filter=\"drop-shadow(0 0 8px rgba(0, 0, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "חֹשֶׁךְ (호셰크 - 어둠)",
+        "לַיְלָה (라일라 - 밤)"
+      ]
+    },
+    {
+      "hebrew": "תַנּוּר עָשָׁן",
+      "meaning": "연기 나는 화덕",
+      "ipa": "tanˈnur ʕaˈʃan",
+      "korean": "탄누르 아샨",
+      "letters": "תַּ(ta) + נּוּר(nur) + עָ(a) + שָׁן(shan)",
+      "root": "תַּנּוּר (탄누르), ע-ש-ן (아샨)",
+      "grammar": "명사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-furnace1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"theophany17-smoke1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A4A4A\" /><stop offset=\"50%\" stop-color=\"#808080\" /><stop offset=\"100%\" stop-color=\"#C0C0C0\" opacity=\"0.3\" /></linearGradient></defs><rect x=\"18\" y=\"38\" width=\"28\" height=\"20\" fill=\"url(#theophany17-furnace1)\" rx=\"4\" filter=\"drop-shadow(0 4px 8px rgba(255, 69, 0, 0.6))\" /><ellipse cx=\"32\" cy=\"38\" rx=\"14\" ry=\"6\" fill=\"#FF6347\" opacity=\"0.8\" /><path d=\"M 28 38 Q 28 20 24 8 Q 22 4 20 2\" stroke=\"url(#theophany17-smoke1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 36 38 Q 36 18 40 6 Q 42 3 44 1\" stroke=\"url(#theophany17-smoke1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֵשׁ (에쉬 - 불)",
+        "עָשָׁן (아샨 - 연기)"
+      ]
+    },
+    {
+      "hebrew": "לַפִּיד אֵשׁ",
+      "meaning": "불의 횃불, 타오르는 횃불",
+      "ipa": "lapˈpid ʔeʃ",
+      "korean": "라피드 에쉬",
+      "letters": "לַ(la) + פִּיד(pid) + אֵשׁ(esh)",
+      "root": "לַפִּיד (라피드), אֵשׁ (에쉬)",
+      "grammar": "명사",
+      "emoji": "🔦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-torch1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"40%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"theophany17-flame1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"30%\" stop-color=\"#FF8C00\" /><stop offset=\"70%\" stop-color=\"#FF4500\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient></defs><rect x=\"28\" y=\"32\" width=\"8\" height=\"28\" fill=\"url(#theophany17-torch1)\" rx=\"2\" /><ellipse cx=\"32\" cy=\"20\" rx=\"10\" ry=\"14\" fill=\"url(#theophany17-flame1)\" filter=\"drop-shadow(0 0 12px rgba(255, 140, 0, 0.8))\" /><path d=\"M 32 6 Q 28 12 30 18 Q 32 14 34 18 Q 36 12 32 6\" fill=\"#FFFF00\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"18\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נֵר (네르 - 등불)",
+        "אוֹר (오르 - 빛)"
+      ]
+    },
+    {
+      "hebrew": "עָבַר בֵּין הַגְּזָרִים",
+      "meaning": "조각들 사이를 지나가다",
+      "ipa": "ʕaˈvar ben haggəzaˈrim",
+      "korean": "아바르 벤 학게자림",
+      "letters": "עָ(a) + בַר(var) + בֵּין(ben) + הַ(ha) + גְּזָ(ge) + רִים(rim)",
+      "root": "ע-ב-ר (아바르), גּ-ז-ר (가자르)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theophany17-path1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><linearGradient id=\"theophany17-pieces1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"0\" y=\"28\" width=\"64\" height=\"8\" fill=\"url(#theophany17-path1)\" opacity=\"0.4\" /><ellipse cx=\"16\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(15 16 24)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"16\" cy=\"40\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(-15 16 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"48\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(15 48 24)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"48\" cy=\"40\" rx=\"8\" ry=\"12\" fill=\"url(#theophany17-pieces1)\" transform=\"rotate(-15 48 40)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><path d=\"M 8 32 L 56 32\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-dasharray=\"4 2\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "דֶּרֶךְ (데레크 - 길)",
+        "הָלַךְ (할라크 - 걷다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15:17은 하나님이 아브람과 맺으신 언약의 인준 의식을 묘사합니다. 해가 지고 깊은 어둠이 내린 후, 연기 나는 화덕과 타오르는 횃불이 쪼갠 동물 조각들 사이를 지나갔습니다. 이는 고대 근동의 언약 의식에서 언약 당사자들이 쪼갠 고기 사이를 지나가며 맹세하던 관습을 반영하지만, 놀랍게도 하나님만 홀로 지나가셨습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תַנּוּר עָשָׁן וְלַפִּיד אֵשׁ (탄누르 아샨 벨라피드 에쉬) - 하나님의 임재",
+        "description": "연기 나는 화덕과 타오르는 횃불은 하나님의 임재를 상징하는 신현(神顯, theophany)입니다. 출애굽 당시 이스라엘을 인도하신 불기둥(출애굽기 13:21)과 시내산의 연기(출애굽기 19:18)를 연상시킵니다.",
+        "points": [
+          "화덕과 횃불은 하나님 자신을 나타내는 상징입니다",
+          "불과 연기는 하나님의 거룩하심과 심판의 능력을 표현합니다",
+          "하나님의 임재는 두렵지만 동시에 보호와 인도를 의미합니다",
+          "이 신현은 하나님이 언약에 직접 참여하심을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עָבַר בֵּין הַגְּזָרִים (아바르 벤 학게자림) - 하나님만의 통과",
+        "description": "고대 근동의 언약 의식에서는 쌍방이 모두 쪼갠 고기 사이를 지나가며 '내가 언약을 어기면 이 짐승처럼 될지어다'라고 맹세했습니다. 그러나 여기서는 하나님만 홀로 지나가십니다. 아브람은 깊은 잠에 빠져 있었고(15:12), 언약의 의무를 하나님만이 떠맡으신 것입니다.",
+        "points": [
+          "하나님만 홀로 언약 의식을 통과하셨습니다",
+          "이는 무조건적이고 일방적인 은혜 언약입니다",
+          "아브람의 역할이나 행위가 아닌 하나님의 주권적 선택입니다",
+          "하나님이 언약을 지키지 못할 때의 저주까지도 떠맡으셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עֲלָטָה (알라타) - 깊은 어둠",
+        "description": "해가 완전히 지고 깊은 어둠이 내렸다는 표현은 단순한 시간적 배경이 아니라 신학적 의미를 담고 있습니다. 어둠 속에서 오직 하나님의 불빛만이 빛나며, 인간의 노력이 완전히 배제된 상태에서 하나님만이 행동하십니다.",
+        "points": [
+          "어둠은 인간의 무능력과 죄성을 상징합니다",
+          "완전한 어둠 속에서 하나님의 빛만이 드러납니다",
+          "아브람이 잠들어 있었던 것처럼 인간은 구원에 참여할 수 없습니다",
+          "이는 은혜로만 구원받는 복음의 예표입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "הַגְּזָרִים (학게자림) - 쪼개진 조각들",
+        "description": "쪼개진 동물 조각들은 언약을 어길 때 받을 저주를 상징합니다. 고대 언약 의식에서 '이 짐승처럼 쪼개지기를 맹세한다'는 의미였습니다. 하나님이 홀로 이 사이를 지나가신 것은 궁극적으로 십자가에서 그리스도가 언약의 저주를 대신 받으심을 예표합니다.",
+        "points": [
+          "쪼개진 조각들은 언약 파기 시의 심판을 나타냅니다",
+          "하나님이 홀로 지나가심으로 저주를 자신에게 돌리셨습니다",
+          "이는 그리스도께서 우리 대신 저주를 받으신 십자가를 예표합니다",
+          "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받으사'"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님만 불과 연기로 쪼갠 고기 사이를 지나가셨을까요?",
+      "answer": "보통 약속을 할 때는 양쪽이 모두 '내가 약속을 안 지키면 벌을 받을게'라고 하잖아요. 그런데 하나님은 아브람에게 '네가 잘못해도 내가 책임질게'라고 하신 거예요. 마치 엄마 아빠가 아이에게 '네가 실수해도 괜찮아, 우리가 다 책임질게'라고 하는 것처럼요. 하나님은 아브람이 약속을 못 지켜도 하나님이 다 책임지시겠다고 약속하신 거랍니다. 나중에 예수님이 우리 대신 십자가에서 벌을 받으신 것도 바로 이 약속 때문이에요.",
+      "bibleReferences": [
+        "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받으사 율법의 저주에서 우리를 속량하셨으니'",
+        "로마서 5:8 - '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로 하나님께서 우리에 대한 자기의 사랑을 확증하셨느니라'",
+        "히브리서 9:15 - '이로써 그는 새 언약의 중보자시니'",
+        "예레미야 34:18-19 - '송아지를 둘로 쪼개고 그 두 사이로 지난 사람들'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님만 홀로 쪼갠 고기 사이를 지나가신 것은 무조건적 은혜 언약의 본질을 보여줍니다. 이는 우리의 행위나 신실함이 아니라 오직 하나님의 신실하심만으로 구원이 이루어짐을 가르칩니다. 궁극적으로 이 언약은 그리스도의 십자가에서 성취되었습니다. 예수님이 우리 대신 언약의 저주를 받으심으로써, 하나님은 아브라함과 맺으신 약속을 완전히 이루셨습니다."
+    }
+  }
+}

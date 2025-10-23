@@ -1,0 +1,199 @@
+{
+  "id": "genesis_2_20",
+  "reference": "창세기 2:20",
+  "hebrew": "וַיִּקְרָא הָאָדָם שֵׁמוֹת, לְכָל-הַבְּהֵמָה וּלְעוֹף הַשָּׁמַיִם, וּלְכֹל, חַיַּת הַשָּׂדֶה; וּלְאָדָם, לֹא-מָצָא עֵזֶר כְּנֶגְדּוֹ.",
+  "ipa": "vajjiqˈra haʔaˈdam ʃeˈmot ləχol habəheˈmah ulˈʔof haʃaˈmajim uləˈχol χajˈjat hasaˈdɛh uləʔaˈdam lo maˈtsa ˈʔezɛr kənɛgˈdo",
+  "koreanPronunciation": "바이크라 하아담 쉐모트, 레콜 하베헤마 울오프 하샤마임, 울콜, 하야트 하사데; 울아담, 로 마차 에제르 케네그도",
+  "modern": "아담이 모든 가축과 공중의 새와 들의 모든 짐승에게 이름을 지어주었으나, 아담에게는 그를 돕는 적합한 배필이 없었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 그가 불렀다, 이름 지었다",
+      "ipa": "vajjiqˈra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְרָא(kra)",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"voice1_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"50%\" stop-color=\"#C44569\"/><stop offset=\"100%\" stop-color=\"#8B3A62\"/></linearGradient><radialGradient id=\"wave1_2_20\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FF6B9D\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"mouth1_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\"/><stop offset=\"100%\" stop-color=\"#FF69B4\"/></linearGradient><linearGradient id=\"sound1_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wave1_2_20)\"/><circle cx=\"24\" cy=\"32\" r=\"16\" fill=\"url(#voice1_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(196, 69, 105, 0.5))\"/><path d=\"M 24 20 Q 28 26 24 32 Q 28 38 24 44\" fill=\"url(#mouth1_2_20)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 34 24 Q 40 26 46 24\" stroke=\"url(#sound1_2_20)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\"/><path d=\"M 36 32 Q 42 34 48 32\" stroke=\"url(#sound1_2_20)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\"/><path d=\"M 34 40 Q 40 42 46 40\" stroke=\"url(#sound1_2_20)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\"/><circle cx=\"52\" cy=\"24\" r=\"4\" fill=\"#FFD700\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\"/><circle cx=\"54\" cy=\"32\" r=\"3\" fill=\"#FFA500\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(255, 165, 0, 0.7))\"/></svg>",
+      "relatedWords": [
+        "קָרָא (카라 - 부르다, 읽다)",
+        "מִקְרָא (미크라 - 낭독, 소집)"
+      ]
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "meaning": "사람, 아담",
+      "ipa": "haʔaˈdam",
+      "korean": "하아담",
+      "letters": "הָ(ha) + אָדָם(adam)",
+      "root": "א-ד-ם (아담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"human1_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\"/><stop offset=\"100%\" stop-color=\"#D2B48C\"/></linearGradient><radialGradient id=\"aura1_2_20\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"garment1_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"100%\" stop-color=\"#F0E68C\"/></linearGradient><radialGradient id=\"divine1_2_20\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#87CEEB\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine1_2_20)\"/><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#aura1_2_20)\"/><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#human1_2_20)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\"/><path d=\"M 32 32 L 32 48\" stroke=\"url(#garment1_2_20)\" stroke-width=\"12\" stroke-linecap=\"round\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\"/><path d=\"M 32 36 L 22 44\" stroke=\"url(#human1_2_20)\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M 32 36 L 42 44\" stroke=\"url(#human1_2_20)\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M 32 48 L 26 58\" stroke=\"url(#human1_2_20)\" stroke-width=\"4\" stroke-linecap=\"round\"/><path d=\"M 32 48 L 38 58\" stroke=\"url(#human1_2_20)\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"30\" cy=\"23\" r=\"1.5\" fill=\"#000000\"/><circle cx=\"34\" cy=\"23\" r=\"1.5\" fill=\"#000000\"/><path d=\"M 29 27 Q 32 28 35 27\" stroke=\"#8B4513\" stroke-width=\"1\" fill=\"none\"/></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 인류, 사람)",
+        "אֲדָמָה (아다마 - 땅, 흙)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁמוֹת",
+      "meaning": "이름들",
+      "ipa": "ʃeˈmot",
+      "korean": "쉐모트",
+      "letters": "שֵׁ(she) + מוֹת(mot)",
+      "root": "שֵׁם (셈)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"scroll2_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"50%\" stop-color=\"#F5DEB3\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient><linearGradient id=\"ink2_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><radialGradient id=\"glow2_2_20\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.5\"/><stop offset=\"100%\" stop-color=\"#FFFACD\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"border2_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DAA520\"/><stop offset=\"100%\" stop-color=\"#B8860B\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow2_2_20)\"/><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" rx=\"3\" fill=\"url(#scroll2_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\"/><rect x=\"12\" y=\"16\" width=\"40\" height=\"3\" fill=\"url(#border2_2_20)\"/><rect x=\"12\" y=\"45\" width=\"40\" height=\"3\" fill=\"url(#border2_2_20)\"/><line x1=\"16\" y1=\"24\" x2=\"48\" y2=\"24\" stroke=\"url(#ink2_2_20)\" stroke-width=\"1.5\" opacity=\"0.7\"/><line x1=\"16\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"url(#ink2_2_20)\" stroke-width=\"1.5\" opacity=\"0.7\"/><line x1=\"16\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"url(#ink2_2_20)\" stroke-width=\"1.5\" opacity=\"0.7\"/><line x1=\"16\" y1=\"36\" x2=\"42\" y2=\"36\" stroke=\"url(#ink2_2_20)\" stroke-width=\"1.5\" opacity=\"0.7\"/><line x1=\"16\" y1=\"40\" x2=\"48\" y2=\"40\" stroke=\"url(#ink2_2_20)\" stroke-width=\"1.5\" opacity=\"0.7\"/><circle cx=\"54\" cy=\"20\" r=\"4\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 6px rgba(255, 99, 71, 0.7))\"/><path d=\"M 54 16 L 54 24\" stroke=\"#FFFFFF\" stroke-width=\"1\"/><path d=\"M 50 20 L 58 20\" stroke=\"#FFFFFF\" stroke-width=\"1\"/></svg>",
+      "relatedWords": [
+        "שֵׁם (셈 - 이름, 명성)",
+        "שָׁמַיִם (샤마임 - 하늘)"
+      ]
+    },
+    {
+      "hebrew": "לְכָל-הַבְּהֵמָה",
+      "meaning": "모든 가축에게",
+      "ipa": "ləχol habəheˈmah",
+      "korean": "레콜 하베헤마",
+      "letters": "לְ(le) + כָל(kol) + הַ(ha) + בְּהֵמָה(behemah)",
+      "root": "בהם (베헴)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle3_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"50%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><linearGradient id=\"field3_2_20\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\"/><stop offset=\"50%\" stop-color=\"#32CD32\"/><stop offset=\"100%\" stop-color=\"#90EE90\"/></linearGradient><radialGradient id=\"spot3_2_20\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#F5F5DC\"/></radialGradient><linearGradient id=\"horn3_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\"/><stop offset=\"100%\" stop-color=\"#D2B48C\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#field3_2_20)\" opacity=\"0.3\" rx=\"8\"/><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"url(#cattle3_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"24\" rx=\"12\" ry=\"10\" fill=\"url(#cattle3_2_20)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\"/><ellipse cx=\"30\" cy=\"38\" rx=\"4\" ry=\"5\" fill=\"url(#spot3_2_20)\" opacity=\"0.8\"/><ellipse cx=\"38\" cy=\"36\" rx=\"5\" ry=\"6\" fill=\"url(#spot3_2_20)\" opacity=\"0.8\"/><path d=\"M 24 20 Q 22 16 24 14\" stroke=\"url(#horn3_2_20)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\"/><path d=\"M 40 20 Q 42 16 40 14\" stroke=\"url(#horn3_2_20)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#000000\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#000000\"/><line x1=\"24\" y1=\"50\" x2=\"24\" y2=\"56\" stroke=\"url(#cattle3_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"30\" y1=\"50\" x2=\"30\" y2=\"56\" stroke=\"url(#cattle3_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"34\" y1=\"50\" x2=\"34\" y2=\"56\" stroke=\"url(#cattle3_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"40\" y1=\"50\" x2=\"40\" y2=\"56\" stroke=\"url(#cattle3_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "וּלְעוֹף הַשָּׁמַיִם",
+      "meaning": "그리고 공중의 새에게",
+      "ipa": "ulˈʔof haʃaˈmajim",
+      "korean": "울오프 하샤마임",
+      "letters": "וּ(u) + לְ(le) + עוֹף(of) + הַ(ha) + שָּׁמַיִם(shamayim)",
+      "root": "עוף (오프) + שמים (샤마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky4_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"50%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient><linearGradient id=\"bird4_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"50%\" stop-color=\"#F0F8FF\"/><stop offset=\"100%\" stop-color=\"#E6E6FA\"/></linearGradient><radialGradient id=\"sun4_2_20\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\"/></radialGradient><linearGradient id=\"wing4_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#FFFFFF\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky4_2_20)\" rx=\"8\"/><circle cx=\"48\" cy=\"16\" r=\"10\" fill=\"url(#sun4_2_20)\" opacity=\"0.7\"/><ellipse cx=\"32\" cy=\"32\" rx=\"6\" ry=\"8\" fill=\"url(#bird4_2_20)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 10 32 Q 20 26 32 32\" stroke=\"url(#wing4_2_20)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 54 32 Q 44 26 32 32\" stroke=\"url(#wing4_2_20)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#bird4_2_20)\"/><circle cx=\"30\" cy=\"31\" r=\"1\" fill=\"#000000\"/><circle cx=\"34\" cy=\"31\" r=\"1\" fill=\"#000000\"/><path d=\"M 32 34 L 32 36 L 30 35\" fill=\"#FFA500\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2))\"/><path d=\"M 8 38 Q 16 34 24 38\" stroke=\"url(#wing4_2_20)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 40 38 Q 48 34 56 38\" stroke=\"url(#wing4_2_20)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\"/><path d=\"M 14 44 Q 20 40 26 44\" stroke=\"url(#wing4_2_20)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.4\"/></svg>",
+      "relatedWords": [
+        "עוֹף (오프 - 날개 있는 것, 새)",
+        "צִפּוֹר (치포르 - 작은 새)"
+      ]
+    },
+    {
+      "hebrew": "וּלְכֹל חַיַּת הַשָּׂדֶה",
+      "meaning": "그리고 모든 들짐승에게",
+      "ipa": "uləˈχol χajˈjat hasaˈdɛh",
+      "korean": "울콜 하야트 하사데",
+      "letters": "וּ(u) + לְ(le) + כֹל(kol) + חַיַּת(chayat) + הַ(ha) + שָּׂדֶה(sadeh)",
+      "root": "ח-י-ה (하야) + שדה (사데)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wild5_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"50%\" stop-color=\"#CD853F\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"forest5_2_20\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#2F4F2F\"/><stop offset=\"50%\" stop-color=\"#228B22\"/><stop offset=\"100%\" stop-color=\"#90EE90\"/></linearGradient><radialGradient id=\"spots5_2_20\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#D2B48C\"/></radialGradient><linearGradient id=\"antler5_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DEB887\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#forest5_2_20)\" opacity=\"0.4\" rx=\"8\"/><ellipse cx=\"32\" cy=\"36\" rx=\"14\" ry=\"12\" fill=\"url(#wild5_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"26\" rx=\"10\" ry=\"8\" fill=\"url(#wild5_2_20)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\"/><circle cx=\"28\" cy=\"38\" r=\"2\" fill=\"url(#spots5_2_20)\" opacity=\"0.7\"/><circle cx=\"36\" cy=\"38\" r=\"2\" fill=\"url(#spots5_2_20)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"34\" r=\"2\" fill=\"url(#spots5_2_20)\" opacity=\"0.7\"/><circle cx=\"26\" cy=\"34\" r=\"1.5\" fill=\"url(#spots5_2_20)\" opacity=\"0.6\"/><circle cx=\"38\" cy=\"34\" r=\"1.5\" fill=\"url(#spots5_2_20)\" opacity=\"0.6\"/><path d=\"M 24 22 L 22 14 L 24 16 L 26 12\" stroke=\"url(#antler5_2_20)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 40 22 L 42 14 L 40 16 L 38 12\" stroke=\"url(#antler5_2_20)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"29\" cy=\"26\" r=\"2\" fill=\"#000000\"/><circle cx=\"35\" cy=\"26\" r=\"2\" fill=\"#000000\"/><ellipse cx=\"32\" cy=\"29\" rx=\"1.5\" ry=\"2\" fill=\"#654321\"/><line x1=\"22\" y1=\"48\" x2=\"22\" y2=\"54\" stroke=\"url(#wild5_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"28\" y1=\"48\" x2=\"28\" y2=\"54\" stroke=\"url(#wild5_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"36\" y1=\"48\" x2=\"36\" y2=\"54\" stroke=\"url(#wild5_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/><line x1=\"42\" y1=\"48\" x2=\"42\" y2=\"54\" stroke=\"url(#wild5_2_20)\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "חַיָּה (하야 - 생물, 살아있는 것)",
+        "שָׂדֶה (사데 - 들, 밭)"
+      ]
+    },
+    {
+      "hebrew": "וּלְאָדָם",
+      "meaning": "그러나 아담에게는",
+      "ipa": "uləʔaˈdam",
+      "korean": "울아담",
+      "letters": "וּ(u) + לְ(le) + אָדָם(adam)",
+      "root": "א-ד-ם (아담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person6_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient><radialGradient id=\"lonely6_2_20\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.4\"/><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"shadow6_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\" stop-opacity=\"0.6\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\" stop-opacity=\"0.2\"/></linearGradient><linearGradient id=\"cloth6_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\"/><stop offset=\"100%\" stop-color=\"#DAA520\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#lonely6_2_20)\" rx=\"8\"/><ellipse cx=\"38\" cy=\"56\" rx=\"16\" ry=\"4\" fill=\"url(#shadow6_2_20)\"/><circle cx=\"32\" cy=\"22\" r=\"7\" fill=\"url(#person6_2_20)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.2))\"/><path d=\"M 32 29 L 32 44\" stroke=\"url(#cloth6_2_20)\" stroke-width=\"10\" stroke-linecap=\"round\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.2))\"/><path d=\"M 32 33 L 24 40\" stroke=\"url(#person6_2_20)\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><path d=\"M 32 33 L 40 40\" stroke=\"url(#person6_2_20)\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><path d=\"M 32 44 L 27 54\" stroke=\"url(#person6_2_20)\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><path d=\"M 32 44 L 37 54\" stroke=\"url(#person6_2_20)\" stroke-width=\"3.5\" stroke-linecap=\"round\"/><circle cx=\"30\" cy=\"21\" r=\"1.2\" fill=\"#000000\"/><circle cx=\"34\" cy=\"21\" r=\"1.2\" fill=\"#000000\"/><path d=\"M 30 25 Q 32 24 34 25\" stroke=\"#8B4513\" stroke-width=\"1\" fill=\"none\"/><circle cx=\"50\" cy=\"20\" r=\"8\" fill=\"#D3D3D3\" opacity=\"0.3\" filter=\"drop-shadow(0 0 6px rgba(211, 211, 211, 0.5))\"/><circle cx=\"14\" cy=\"32\" r=\"6\" fill=\"#D3D3D3\" opacity=\"0.3\" filter=\"drop-shadow(0 0 4px rgba(211, 211, 211, 0.5))\"/></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 인류, 사람)",
+        "אֱנוֹשׁ (에노쉬 - 사람, 인간)"
+      ]
+    },
+    {
+      "hebrew": "לֹא-מָצָא",
+      "meaning": "찾지 못했다",
+      "ipa": "lo maˈtsa",
+      "korean": "로 마차",
+      "letters": "לֹא(lo) + מָצָא(matsa)",
+      "root": "מ-צ-א (마차)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"glass7_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"50%\" stop-color=\"#A9A9A9\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient><radialGradient id=\"lens7_2_20\"><stop offset=\"0%\" stop-color=\"#E0F7FA\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#B2EBF2\" stop-opacity=\"0.3\"/></radialGradient><linearGradient id=\"not7_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient><radialGradient id=\"glow7_2_20\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.5\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow7_2_20)\"/><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"url(#lens7_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2))\"/><circle cx=\"26\" cy=\"26\" r=\"14\" fill=\"none\" stroke=\"url(#glass7_2_20)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"26\" cy=\"26\" r=\"10\" fill=\"none\" stroke=\"url(#glass7_2_20)\" stroke-width=\"1.5\" opacity=\"0.5\"/><path d=\"M 36 36 L 48 48\" stroke=\"url(#glass7_2_20)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\"/><path d=\"M 44 50 L 52 50 L 50 48\" fill=\"url(#glass7_2_20)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\"/><line x1=\"18\" y1=\"34\" x2=\"34\" y2=\"18\" stroke=\"url(#not7_2_20)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(255, 69, 0, 0.8))\"/><circle cx=\"22\" cy=\"30\" r=\"2\" fill=\"#808080\" opacity=\"0.3\"/><circle cx=\"28\" cy=\"24\" r=\"1.5\" fill=\"#808080\" opacity=\"0.3\"/><circle cx=\"24\" cy=\"26\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "מָצָא (마차 - 찾다, 발견하다)",
+        "לֹא (로 - 아니다, 없다)"
+      ]
+    },
+    {
+      "hebrew": "עֵזֶר כְּנֶגְדּוֹ",
+      "meaning": "그에게 적합한 돕는 자",
+      "ipa": "ˈʔezɛr kənɛgˈdo",
+      "korean": "에제르 케네그도",
+      "letters": "עֵ(e) + זֶר(zer) + כְּ(ke) + נֶגְדּוֹ(negdo)",
+      "root": "עזר (아자르) + נגד (네게드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"help8_2_20\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"50%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient><linearGradient id=\"hand1_8_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient><linearGradient id=\"hand2_8_2_20\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5DEB3\"/><stop offset=\"100%\" stop-color=\"#D2B48C\"/></linearGradient><radialGradient id=\"unity8_2_20\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0\"/></radialGradient><radialGradient id=\"heart8_2_20\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FF1493\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#unity8_2_20)\"/><path d=\"M 16 36 Q 18 32 20 36 L 20 44 Q 16 44 12 40 L 12 36 Q 16 32 20 32 L 24 32 L 28 28\" fill=\"url(#hand1_8_2_20)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\"/><path d=\"M 48 36 Q 46 32 44 36 L 44 44 Q 48 44 52 40 L 52 36 Q 48 32 44 32 L 40 32 L 36 28\" fill=\"url(#hand2_8_2_20)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\"/><rect x=\"24\" y=\"28\" width=\"16\" height=\"12\" rx=\"2\" fill=\"url(#help8_2_20)\" filter=\"drop-shadow(0 4px 8px rgba(255, 20, 147, 0.5))\"/><path d=\"M 32 44 Q 24 40 20 44 Q 24 48 32 50 Q 40 48 44 44 Q 40 40 32 44 Z\" fill=\"url(#heart8_2_20)\" filter=\"drop-shadow(0 3px 6px rgba(255, 20, 147, 0.6))\"/><circle cx=\"28\" cy=\"33\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"36\" cy=\"33\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\"/><path d=\"M 28 36 Q 32 38 36 36\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#unity8_2_20)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.7))\"/></svg>",
+      "relatedWords": [
+        "עֵזֶר (에제르 - 돕는 자, 도움)",
+        "כְּנֶגֶד (케네게드 - ~에 맞서, ~에 적합한)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 20절은 아담의 이름 짓기 작업의 완성과 동시에, 그에게 적합한 동반자가 없다는 중요한 발견을 기록합니다. 이는 하나님께서 다음 구절에서 여자를 창조하시는 배경이 되는 핵심적인 순간입니다. 아담이 모든 동물에게 이름을 지으면서 그들의 본질을 이해하는 과정에서, 자신과 같은 존재가 없다는 것을 깨닫게 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּקְרָא הָאָדָם שֵׁמוֹת (바이크라 하아담 쉐모트) - 아담이 이름들을 불렀다",
+        "description": "히브리어 '카라'는 단순히 '부르다'를 넘어 '선포하다', '공표하다'는 의미를 담고 있습니다. '쉐모트'(이름들)는 복수형으로, 아담이 각 동물의 고유한 정체성을 인식하고 언어로 표현했음을 보여줍니다. 고대 근동 문화에서 이름 짓기는 그 존재의 본질을 파악하고 권위를 행사하는 행위였습니다.",
+        "points": [
+          "아담은 하나님께 받은 지성과 언어 능력을 사용하여 각 생물을 분류했습니다",
+          "이름 짓기는 관찰, 분석, 분류의 과학적 과정이었습니다",
+          "이는 인간이 창조 세계의 청지기로 세워진 첫 번째 실제적 행동입니다",
+          "아담의 언어 능력은 하나님의 형상의 일부로서 창조적 지성을 나타냅니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְכָל-הַבְּהֵמָה וּלְעוֹף הַשָּׁמַיִם וּלְכֹל חַיַּת הַשָּׂדֶה (레콜 하베헤마 울오프 하샤마임 울콜 하야트 하사데) - 모든 가축, 공중의 새, 들짐승",
+        "description": "본문은 창조된 동물들을 세 범주로 나눕니다. '베헤마'(가축)는 인간과 가까이 사는 동물, '오프 하샤마임'(하늘의 새)는 공중을 나는 새들, '하야트 하사데'(들짐승)는 야생에 사는 동물들입니다. 이는 창세기 1장의 창조 순서를 반영하며, 아담이 체계적으로 모든 종류의 생명체를 관찰했음을 보여줍니다.",
+        "points": [
+          "하나님께서 창조하신 동물의 다양성과 풍성함을 보여줍니다",
+          "아담은 각 범주의 동물을 세심히 관찰하고 이해했습니다",
+          "이 과정에서 아담은 창조 세계의 질서와 구조를 배웠습니다",
+          "모든 동물이 짝을 가지고 있음을 인식하게 되는 배경이 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וּלְאָדָם לֹא-מָצָא (울아담 로 마차) - 그러나 아담에게는 찾지 못했다",
+        "description": "'로 마차'(찾지 못했다)는 단순한 부재가 아니라 적극적인 탐색 후의 발견입니다. 아담이 동물들에게 이름을 지으며 관찰하는 과정에서, 각 동물은 자신과 같은 종의 짝이 있음을 보았지만, 자신과 같은 존재는 없다는 것을 깨달았습니다. 이는 하나님께서 의도적으로 마련하신 교육적 순간입니다.",
+        "points": [
+          "아담은 스스로 자신의 필요를 인식하게 되었습니다",
+          "이는 여자 창조의 필요성을 자연스럽게 도입하는 서사적 장치입니다",
+          "하나님께서 아담에게 자기 인식의 기회를 주셨음을 보여줍니다",
+          "인간의 고독은 하나님께서 계획하신 것이 아니라는 점을 강조합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "עֵזֶר כְּנֶגְדּוֹ (에제르 케네그도) - 그에게 적합한 돕는 자",
+        "description": "'에제르 케네그도'는 매우 중요한 신학적 용어입니다. '에제르'(돕는 자)는 구약에서 주로 하나님을 묘사할 때 사용되며(시편 121:1-2), 결코 열등함을 의미하지 않습니다. '케네그도'는 '그에 맞서', '그와 대응하는'이라는 뜻으로, 동등하면서도 보완적인 관계를 나타냅니다. 이는 남녀가 계층적 관계가 아니라 상호 보완적 동반자 관계임을 보여줍니다.",
+        "points": [
+          "'에제르'는 힘 있는 도움을 주는 자로, 하나님께도 사용되는 고귀한 단어입니다",
+          "'케네그도'는 동등한 파트너십과 상호 보완성을 의미합니다",
+          "여자는 남자의 종속물이 아니라 동등한 인격체이자 동반자입니다",
+          "하나님께서 남자와 여자 모두를 당신의 형상으로 창조하신 의도를 나타냅니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아담은 동물들에게 이름을 지어주면서도 자신에게 맞는 친구를 찾지 못했나요?",
+      "answer": "아담이 동물들을 관찰하면서 재미있는 것을 발견했어요. 사자 아빠와 사자 엄마가 함께 있고, 새 아빠와 새 엄마가 둥지를 함께 만들고, 양들도 짝을 지어 다니는 것을 보았답니다. 그런데 아담은 혼자였어요. 동물들은 모두 좋은 친구들이었지만, 아담처럼 생각하고 말하고 함께 웃을 수 있는 친구는 없었어요. 마치 여러분이 강아지나 고양이를 사랑하지만, 같이 이야기하고 놀 수 있는 사람 친구가 더 필요한 것처럼요. 하나님은 아담이 이것을 스스로 깨닫게 하신 후, 특별한 선물로 이브를 만들어주셨답니다.",
+      "bibleReferences": [
+        "창세기 1:27 - '하나님이 자기 형상 곧 하나님의 형상대로 사람을 창조하시되 남자와 여자를 창조하시고'",
+        "창세기 2:18 - '여호와 하나님이 이르시되 사람이 혼자 사는 것이 좋지 아니하니 내가 그를 위하여 돕는 배필을 지으리라 하시니라'",
+        "전도서 4:9-10 - '두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라 혹시 그들이 넘어지면 하나가 그 동료를 붙들어 일으키려니와 홀로 있어 넘어지고 붙들어 일으킬 자가 없는 자에게는 화가 있으리라'",
+        "시편 121:1-2 - '내가 산을 향하여 눈을 들리라 나의 도움이 어디서 올까 나의 도움은 천지를 지으신 여호와에게서로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 인간 관계의 신학적 기초를 놓습니다. 아담이 동물들에게 이름을 짓는 과정은 단순한 명명이 아니라 자기 발견의 여정이었습니다. 하나님께서는 아담이 스스로 자신의 필요를 깨닫게 하심으로써, 여자 창조의 의미를 더욱 깊게 하셨습니다. '에제르 케네그도'라는 표현은 남녀 관계가 지배와 종속이 아니라 상호 보완적 동반자 관계임을 명확히 합니다. 이는 결혼과 공동체의 성경적 기초이며, 삼위일체 하나님의 관계성을 반영합니다. 하나님께서 '사람이 혼자 사는 것이 좋지 아니하다'고 하신 것은, 인간이 관계 속에서 하나님의 형상을 온전히 나타내도록 창조되었음을 의미합니다. 오늘날 결혼, 우정, 공동체의 중요성은 모두 이 본문에 뿌리를 두고 있습니다."
+    }
+  }
+}

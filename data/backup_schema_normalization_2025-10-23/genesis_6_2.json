@@ -1,0 +1,211 @@
+{
+  "id": "genesis_6_2",
+  "reference": "창세기 6:2",
+  "hebrew": "וַיִּרְאוּ בְנֵי־הָאֱלֹהִים, אֶת־בְּנוֹת הָאָדָם, כִּי טֹבֹת, הֵנָּה; וַיִּקְחוּ לָהֶם נָשִׁים, מִכֹּל אֲשֶׁר בָּחָרוּ.",
+  "ipa": "vajiˈru vəne haʔɛloˈhim ʔet bəˈnot haʔaˈdam ki toˈvot ˈhena vajiˈqχu laˈhem naˈʃim miˈkol ʔaˈʃer baˈχaru",
+  "koreanPronunciation": "바이르우 베네 하엘로힘 에트 베노트 하아담 키 토보트 헨나 바이크후 라헴 나쉼 미콜 아쉐르 바하루",
+  "modern": "하나님의 아들들이 사람의 딸들이 아름다운 것을 보고, 자기들이 선택한 모든 여자를 아내로 삼았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּרְאוּ",
+      "meaning": "그리고 그들이 보았다",
+      "ipa": "vajiˈru",
+      "korean": "바이르우",
+      "letters": "וַ(va) + יִּ(yi) + רְ(r) + אוּ(u)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사 - 와우 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eye_vayiru\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"url(#eye_vayiru)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#eye_vayiru)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#01579B\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "מַרְאֶה (마르에 - 모습, 외모)"
+      ]
+    },
+    {
+      "hebrew": "בְנֵי־הָאֱלֹהִים",
+      "meaning": "하나님의 아들들",
+      "ipa": "vəne haʔɛloˈhim",
+      "korean": "베네 하엘로힘",
+      "letters": "בְּ(be) + נֵי(ne) + הָ(ha) + אֱלֹ(elo) + הִים(him)",
+      "root": "בֵּן (벤) + אֱלֹהִים (엘로힘)",
+      "grammar": "명사구 - 연계형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_bene\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"halo_bene\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"18\" r=\"12\" fill=\"url(#halo_bene)\" /><circle cx=\"32\" cy=\"22\" r=\"7\" fill=\"url(#sons_bene)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"11\" ry=\"15\" fill=\"url(#sons_bene)\" /><path d=\"M 32 18 L 28 28 L 36 28 Z\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בְּנֵי יִשְׂרָאֵל (베네 이스라엘 - 이스라엘의 아들들)"
+      ]
+    },
+    {
+      "hebrew": "בְּנוֹת",
+      "meaning": "딸들",
+      "ipa": "bəˈnot",
+      "korean": "베노트",
+      "letters": "בְּ(be) + נוֹת(not)",
+      "root": "בַּת (바트)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"daughters_benot\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"7\" fill=\"url(#daughters_benot)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"11\" ry=\"15\" fill=\"url(#daughters_benot)\" /><path d=\"M 28 52 L 28 56\" stroke=\"url(#daughters_benot)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 36 52 L 36 56\" stroke=\"url(#daughters_benot)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "בַּת (바트 - 딸)",
+        "נָשִׁים (나쉼 - 여자들)"
+      ]
+    },
+    {
+      "hebrew": "כִּי",
+      "meaning": "~이기 때문에, ~라는 것을",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּי(ki)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because_ki\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 12 32 L 28 32\" stroke=\"url(#because_ki)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 32 L 52 20\" stroke=\"url(#because_ki)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 32 L 52 44\" stroke=\"url(#because_ki)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִם (임 - 만약)",
+        "אֲשֶׁר (아쉐르 - ~인)"
+      ]
+    },
+    {
+      "hebrew": "טֹבֹת",
+      "meaning": "아름다운, 좋은",
+      "ipa": "toˈvot",
+      "korean": "토보트",
+      "letters": "טֹ(to) + בֹת(vot)",
+      "root": "ט-ו-ב (토브)",
+      "grammar": "형용사 - 여성복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"beauty_tovot\"><stop offset=\"0%\" stop-color=\"#FFE5E5\" /><stop offset=\"50%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#beauty_tovot)\" opacity=\"0.3\" /><path d=\"M 32 16 L 36 28 L 48 28 L 38 36 L 42 48 L 32 40 L 22 48 L 26 36 L 16 28 L 28 28 Z\" fill=\"url(#beauty_tovot)\" filter=\"drop-shadow(0 0 8px rgba(255, 105, 180, 0.6))\" /></svg>",
+      "relatedWords": [
+        "טוֹב (토브 - 좋은)",
+        "יָפָה (야파 - 아름다운)"
+      ]
+    },
+    {
+      "hebrew": "הֵנָּה",
+      "meaning": "그들이 (여성형)",
+      "ipa": "ˈhena",
+      "korean": "헨나",
+      "letters": "הֵ(he) + נָּה(na)",
+      "root": "הֵן (헨)",
+      "grammar": "대명사 - 여성복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"they_hena\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"22\" cy=\"32\" r=\"5\" fill=\"url(#they_hena)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"url(#they_hena)\" opacity=\"0.7\" /><circle cx=\"42\" cy=\"32\" r=\"5\" fill=\"url(#they_hena)\" opacity=\"0.7\" /></svg>"
+    },
+    {
+      "hebrew": "וַיִּקְחוּ",
+      "meaning": "그리고 그들이 취했다",
+      "ipa": "vajiˈqχu",
+      "korean": "바이크후",
+      "letters": "וַ(va) + יִּ(yi) + קְ(q) + חוּ(χu)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사 - 와우 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"take_vayikchu\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 12 32 L 32 32 L 32 12\" stroke=\"url(#take_vayikchu)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M 32 12 L 28 20 L 36 20 Z\" fill=\"url(#take_vayikchu)\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#take_vayikchu)\" opacity=\"0.3\" /><circle cx=\"44\" cy=\"32\" r=\"4\" fill=\"url(#take_vayikchu)\" /></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 취하다)",
+        "לֶקַח (레카흐 - 교훈)"
+      ]
+    },
+    {
+      "hebrew": "נָשִׁים",
+      "meaning": "여자들, 아내들",
+      "ipa": "naˈʃim",
+      "korean": "나쉼",
+      "letters": "נָ(na) + שִׁים(shim)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"women_nashim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#women_nashim)\" /><path d=\"M 32 32 L 32 48\" stroke=\"url(#women_nashim)\" stroke-width=\"3\" /><path d=\"M 24 40 L 40 40\" stroke=\"url(#women_nashim)\" stroke-width=\"3\" /><path d=\"M 32 48 L 28 56\" stroke=\"url(#women_nashim)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 48 L 36 56\" stroke=\"url(#women_nashim)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "אִישׁ (이쉬 - 남자, 남편)"
+      ]
+    },
+    {
+      "hebrew": "מִכֹּל",
+      "meaning": "모든 것으로부터",
+      "ipa": "miˈkol",
+      "korean": "미콜",
+      "letters": "מִ(mi) + כֹּל(kol)",
+      "root": "כֹּל (콜)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"all_mikol\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#all_mikol)\" opacity=\"0.2\" /><circle cx=\"20\" cy=\"20\" r=\"3\" fill=\"url(#all_mikol)\" /><circle cx=\"44\" cy=\"20\" r=\"3\" fill=\"url(#all_mikol)\" /><circle cx=\"20\" cy=\"44\" r=\"3\" fill=\"url(#all_mikol)\" /><circle cx=\"44\" cy=\"44\" r=\"3\" fill=\"url(#all_mikol)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#all_mikol)\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든)",
+        "כֻּלָּם (쿨람 - 모두)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר",
+      "meaning": "~인 것, ~하는",
+      "ipa": "ʔaˈʃer",
+      "korean": "아쉐르",
+      "letters": "אֲ(a) + שֶׁר(sher)",
+      "root": "אֲשֶׁר (아쉐르)",
+      "grammar": "관계대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"which_asher\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 16 32 Q 32 16 48 32\" stroke=\"url(#which_asher)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#which_asher)\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"url(#which_asher)\" /></svg>",
+      "relatedWords": [
+        "שֶׁ (셰 - ~인)",
+        "כִּי (키 - ~라는 것)"
+      ]
+    },
+    {
+      "hebrew": "בָּחָרוּ",
+      "meaning": "그들이 선택했다",
+      "ipa": "baˈχaru",
+      "korean": "바하루",
+      "letters": "בָּ(ba) + חָ(χa) + רוּ(ru)",
+      "root": "ב-ח-ר (바하르)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"choose_bacharu\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#choose_bacharu)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#choose_bacharu)\" opacity=\"0.3\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#choose_bacharu)\" opacity=\"0.3\" /><path d=\"M 28 32 L 32 36 L 38 26\" stroke=\"url(#choose_bacharu)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "בָּחַר (바하르 - 선택하다)",
+        "בְּחִירָה (베히라 - 선택)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 성경에서 가장 논쟁적인 구절 중 하나입니다. '하나님의 아들들'이 누구인지에 대해 여러 해석이 있습니다: 타락한 천사들, 경건한 셋의 후손, 또는 권력자들. 핵심은 부적절한 결혼과 도덕적 타락입니다.",
+    "sections": [
+      {
+        "emoji": "👁️",
+        "title": "보는 것의 위험",
+        "description": "하와가 선악과를 보고 '보기에 아름답다'고 생각한 것처럼(창 3:6), 여기서도 '보는 것'이 죄의 시작입니다. 외모에 이끌린 선택은 하나님의 뜻을 무시한 것입니다.",
+        "points": [
+          "눈의 정욕이 죄로 이어집니다",
+          "아름다움만을 기준으로 한 선택의 위험",
+          "하나님의 기준 대신 자신의 욕망을 따른 결과"
+        ],
+        "color": "red"
+      },
+      {
+        "emoji": "⚖️",
+        "title": "하나님의 아들들",
+        "description": "이 표현에 대한 세 가지 주요 해석이 있습니다: (1) 타락한 천사들 (2) 셋의 경건한 후손들 (3) 권력을 가진 통치자들. 각 해석마다 신학적 함의가 다릅니다.",
+        "points": [
+          "천사 해석: 영적 존재들의 반역",
+          "셋의 후손 해석: 경건한 자들과 세속적인 자들의 혼합",
+          "통치자 해석: 권력의 남용과 착취"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "💔",
+        "title": "자기 뜻대로의 선택",
+        "description": "'자기들이 선택한 모든 여자'라는 표현은 하나님의 뜻이나 질서를 무시하고 자신의 욕망대로 행동했음을 보여줍니다. 이는 죄의 본질입니다.",
+        "points": [
+          "하나님 중심이 아닌 자기 중심적 선택",
+          "도덕적 경계의 붕괴",
+          "무분별한 결혼이 사회 전체의 타락을 가져옴"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님의 아들들이 잘못된 선택을 했을까요?",
+      "answer": "그들은 겉모습만 보고 아름다운 것만 선택했어요. 하나님이 기뻐하시는지는 생각하지 않고, 자기가 좋아하는 것만 골랐답니다. 우리도 예쁜 것, 좋아 보이는 것만 선택하지 말고, 하나님이 기뻐하시는 것을 선택해야 해요.",
+      "bibleReferences": [
+        "창세기 3:6 - '여자가 그 나무를 본즉 먹음직도 하고 보암직도 하고'",
+        "요한일서 2:16 - '육신의 정욕과 안목의 정욕과 이생의 자랑이 다 아버지께로부터 온 것이 아니요'",
+        "잠언 31:30 - '아름다운 것도 헛되도다 오직 여호와를 경외하는 여자는 칭찬을 받을 것이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 경고",
+      "content": "이 구절은 경건과 세속의 혼합, 하나님의 질서를 무시한 결합이 가져올 파괴적 결과를 예고합니다. 홍수 심판의 원인 중 하나가 바로 이러한 도덕적 타락이었습니다."
+    }
+  }
+}

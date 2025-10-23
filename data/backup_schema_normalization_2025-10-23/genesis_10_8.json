@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_8",
+  "reference": "창세기 10:8",
+  "hebrew": "וְכוּשׁ, יָלַד אֶת־נִמְרֹד; הוּא הֵחֵל לִהְיוֹת גִּבֹּר, בָּאָרֶץ.",
+  "ipa": "vəˈxuʃ jaˈlad ʔɛt nimˈrod hu heˈxel lihˈjot gibˈbor baˈʔarɛts",
+  "koreanPronunciation": "베쿠쉬 야라드 에트 님로드 후 헤헬 리흐욧 기보르 바아레츠",
+  "modern": "구스가 니므롯을 낳았으니 그는 세상에서 처음 용사라",
+  "words": [
+    {
+      "hebrew": "יָלַד",
+      "meaning": "낳았다",
+      "ipa": "jaˈlad",
+      "korean": "야라드",
+      "letters": "יָ(ya) + לַ(la) + ד(d)",
+      "root": "י-ל-ד (야라드 - 낳다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"birth_yalad\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#birth_yalad)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FFB74D\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FF9800\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יֶלֶד (예레드 - 아이)",
+        "תּוֹלְדוֹת (톨도트 - 계보)"
+      ]
+    },
+    {
+      "hebrew": "נִמְרֹד",
+      "meaning": "니므롯 (반역자, 사냥꾼)",
+      "ipa": "nimˈrod",
+      "korean": "님로드",
+      "letters": "נִ(ni) + מְ(m) + רֹ(ro) + ד(d)",
+      "root": "מ-ר-ד (마라드 - 반역하다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rebel_nimrod\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B71C1C\" /><stop offset=\"50%\" stop-color=\"#C62828\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"url(#rebel_nimrod)\" opacity=\"0.7\" /><path d=\"M 32 20 L 36 28 L 44 30 L 38 36 L 40 44 L 32 40 L 24 44 L 26 36 L 20 30 L 28 28 Z\" fill=\"#FFD700\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#D32F2F\" stroke-width=\"3\" stroke-dasharray=\"4,4\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מָרַד (마라드 - 반역하다)",
+        "מֶרֶד (메레드 - 반역)"
+      ]
+    },
+    {
+      "hebrew": "הֵחֵל",
+      "meaning": "시작했다, 처음이었다",
+      "ipa": "heˈxel",
+      "korean": "헤헬",
+      "letters": "הֵ(he) + חֵ(che) + ל(l)",
+      "root": "ח-ל-ל (할랄 - 시작하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"begin_hechel\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#81C784\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"#4CAF50\" /><line x1=\"24\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"url(#begin_hechel)\" stroke-width=\"4\" stroke-linecap=\"round\" /><polygon points=\"56,32 48,28 48,36\" fill=\"#81C784\" /></svg>",
+      "relatedWords": [
+        "הָחֵל (하헬 - 시작하다)",
+        "תְּחִלָּה (테힐라 - 시작)"
+      ]
+    },
+    {
+      "hebrew": "גִּבֹּר",
+      "meaning": "용사, 강한 자",
+      "ipa": "gibˈbor",
+      "korean": "기보르",
+      "letters": "גִּ(gi) + בֹּ(bo) + ר(r)",
+      "root": "ג-ב-ר (가바르 - 강하다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mighty_gibbor\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6F00\" /><stop offset=\"100%\" stop-color=\"#E65100\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"#8D6E63\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#mighty_gibbor)\" /><rect x=\"18\" y=\"34\" width=\"6\" height=\"12\" rx=\"2\" fill=\"#8D6E63\" /><rect x=\"40\" y=\"34\" width=\"6\" height=\"12\" rx=\"2\" fill=\"#8D6E63\" /><rect x=\"26\" y=\"52\" width=\"5\" height=\"10\" fill=\"#6D4C41\" /><rect x=\"33\" y=\"52\" width=\"5\" height=\"10\" fill=\"#6D4C41\" /></svg>",
+      "relatedWords": [
+        "גְּבוּרָה (게부라 - 힘, 용맹)",
+        "גִּבּוֹר חַיִל (기보르 하일 - 용맹한 전사)"
+      ]
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "meaning": "땅에서, 세상에서",
+      "ipa": "baˈʔarɛts",
+      "korean": "바아레츠",
+      "letters": "בָּ(ba) + אָ(a) + רֶ(re) + ץ(ts)",
+      "root": "אֶרֶץ (에레츠 - 땅)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_baaretz\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#earth_baaretz)\" opacity=\"0.7\" /><path d=\"M 16 20 Q 24 16 32 20 Q 40 24 48 20\" fill=\"none\" stroke=\"#4CAF50\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 16 36 Q 24 32 32 36 Q 40 40 48 36\" fill=\"none\" stroke=\"#4CAF50\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 세계)",
+        "תֵּבֵל (테벨 - 세계)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "니므롯은 창세기 10장에서 가장 상세하게 다루어지는 인물입니다(8-12절). '세상에서 처음 용사'라는 표현은 단순한 칭찬이 아니라, 하나님께 대항하는 인간 권력의 시작을 암시합니다. 그의 이름은 역사적으로 폭정과 반역의 상징이 되었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "니므롯 - 이름의 의미",
+        "description": "니므롯(נִמְרֹד)은 '마라드(מָרַד, 반역하다)' 어근에서 파생되었을 가능성이 높습니다. 유대 전승은 그를 하나님께 반역한 최초의 폭군으로 묘사하며, 바벨탑 건축의 주도자로 봅니다.",
+        "points": [
+          "이름 자체가 '반역자'를 의미합니다",
+          "하나님의 주권에 도전한 인물로 해석됩니다",
+          "인간 제국주의의 원형으로 여겨집니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "헤헬 리흐욧 기보르 - 처음 용사가 되다",
+        "description": "'헤헬(הֵחֵל)'은 '시작하다'는 뜻으로, 니므롯이 단순히 용사였던 것이 아니라 '용사라는 개념을 시작한 자'임을 암시합니다. 이는 조직적 군사력과 정복 전쟁의 시작을 의미할 수 있습니다.",
+        "points": [
+          "평화로운 목축/농경 사회에서 군사 사회로의 전환",
+          "힘에 의한 지배 체제의 시작",
+          "창세기 6:4의 '네피림(거인, 용사들)'과의 연관성"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "여호와 앞에 용감한 사냥꾼 (9절 연결)",
+        "description": "다음 절(9절)에서 '여호와 앞에서 용감한 사냥꾼'이라는 표현은 긍정적으로 들리지만, '여호와 앞에서(לִפְנֵי יְהוָה)'는 '여호와를 거스르며' 또는 '여호와께 도전하며'로 해석될 수 있습니다.",
+        "points": [
+          "사냥꾼은 동물뿐 아니라 사람을 사냥(정복)하는 자일 수 있습니다",
+          "'여호와 앞에서'는 대립적 의미를 함축합니다",
+          "하나님의 권위에 도전하는 인간 권력을 상징합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "왜 니므롯이 특별히 강조되는가?",
+        "description": "족보에서 개인에 대한 이런 상세한 설명은 매우 드뭅니다. 니므롯에 대한 강조는 11장의 바벨탑 사건을 준비하는 복선이며, 인류가 하나님을 떠나 자신의 이름을 높이려는 경향의 시작을 보여줍니다.",
+        "points": [
+          "인간 문명의 어두운 면(권력, 폭력, 반역)의 시작",
+          "바벨탑 사건의 배경 설명",
+          "구속사적으로 하나님 나라 vs 세상 나라의 대조"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 강한 사람이 되는 것이 나쁜가요?",
+      "answer": "강해지는 것 자체는 나쁘지 않아요. 하지만 니므롯은 자기 힘을 자랑하고 다른 사람들을 괴롭히는 데 썼어요. 진짜 멋진 사람은 힘을 착한 일에 쓰는 사람이에요. 만화 영웅들도 힘이 있지만 약한 사람들을 도와주잖아요. 하나님은 우리가 강해지되, 그 힘으로 다른 사람을 돕고 하나님을 섬기기를 원하세요. 니므롯처럼 자기가 제일 대단하다고 생각하고 하나님 말씀을 안 들으면, 그건 잘못된 거예요. 진짜 용감한 사람은 하나님 말씀대로 살아가는 사람이랍니다.",
+      "bibleReferences": [
+        "미가 5:6 - '그들이 칼로 앗수르 땅을 다스리며... 니므롯 땅의 어귀를 칼로 다스려서'",
+        "잠언 16:32 - '노하기를 더디 하는 자는 용사보다 낫고 자기의 마음을 다스리는 자는 성을 빼앗는 자보다 나으니라'",
+        "야고보서 4:6 - '하나님은 교만한 자를 물리치시고 겸손한 자에게 은혜를 주시느니라'",
+        "누가복음 22:25-26 - '이방인의 임금들은... 주관하며... 너희는 그렇지 않을지니 너희 중에 큰 자는 젊은 자와 같고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯은 성경에서 하나님께 대항하는 인간 제국의 원형을 보여줍니다. 그는 '기보르(용사)'가 되었지만, 이는 창세기 6:4의 홍수 이전 '네피림' 시대의 폭력과 교만을 연상시킵니다. 하나님은 홍수로 그런 세상을 심판하셨는데, 홍수 이후 다시 니므롯 같은 인물이 나타난 것입니다. 이는 인간 죄성의 뿌리 깊음을 보여주며, 외적 심판만으로는 내적 변화가 오지 않음을 시사합니다. 니므롯의 왕국(10-12절)은 바벨, 에렉, 아카드, 니느웨 등 후에 이스라엘을 괴롭힌 제국들의 시작이 됩니다. 예언서에서 바벨론과 앗수르가 하나님께 대항하는 세력으로 묘사되는 것은 니므롯의 유산입니다. 궁극적으로 니므롯은 계시록의 '짐승'과 적그리스도로 이어지는 반(反)하나님 권력의 예표입니다. 그러나 하나님은 이런 권력도 자신의 주권 아래 두시며, 결국 심판하실 것입니다."
+    }
+  }
+}

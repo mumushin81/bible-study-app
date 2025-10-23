@@ -1,0 +1,171 @@
+{
+  "id": "genesis_3_19",
+  "reference": "창세기 3:19",
+  "hebrew": "בְּזֵעַת אַפֶּיךָ, תֹּאכַל לֶחֶם, עַד שׁוּבְךָ אֶל-הָאֲדָמָה, כִּי מִמֶּנָּה לֻקָּחְתָּ:  כִּי-עָפָר אַתָּה, וְאֶל-עָפָר תָּשׁוּב.",
+  "ipa": "bəzeˈʕat ʔapˈpɛχa toˈχal ˈleχɛm ʕad ʃuˈvəχa ʔɛl haʔadaˈma ki miˈmɛnna luqaχˈta ki ʕaˈfar ʔaˈta vəʔɛl ʕaˈfar taˈʃuv",
+  "koreanPronunciation": "베제아트 아페이카 토칼 레헴 아드 슈베카 엘 하아다마 키 미멘나 루카흐타 키 아파르 아타 베엘 아파르 타슈브",
+  "modern": "네가 얼굴에 땀을 흘려야 음식을 먹을 것이며, 흙으로 돌아갈 때까지 그렇게 할 것이다. 너는 흙에서 나왔으니 흙으로 돌아갈 것이기 때문이다",
+  "words": [
+    {
+      "hebrew": "בְּזֵעַת אַפֶּיךָ",
+      "meaning": "네 얼굴의 땀으로",
+      "ipa": "bəzeˈʕat ʔapˈpɛχa",
+      "korean": "베제아트 아페이카",
+      "letters": "בְּ(be) + זֵ(ze) + עַת(at) + אַ(a) + פֶּ(pe) + יךָ(cha)",
+      "root": "זֵעָה (제아) + אַף (아프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sweat1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8F4F8\" /><stop offset=\"30%\" stop-color=\"#B8E6F5\" /><stop offset=\"70%\" stop-color=\"#7DD3F0\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" /></linearGradient><radialGradient id=\"face1\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"70%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></radialGradient><linearGradient id=\"drop1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#E0F7FA\" /><stop offset=\"70%\" stop-color=\"#80DEEA\" /><stop offset=\"100%\" stop-color=\"#00BCD4\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#B8E6F5\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow1)\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"30\" rx=\"16\" ry=\"18\" fill=\"url(#face1)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.85\" /><circle cx=\"27\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"37\" cy=\"26\" r=\"2\" fill=\"#654321\" /><path d=\"M 27 34 Q 32 36 37 34\" stroke=\"#D2691E\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\" /><g><path d=\"M 25 20 Q 26 18 28 20\" stroke=\"#8B4513\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 36 20 Q 37 18 39 20\" stroke=\"#8B4513\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /></g><g><ellipse cx=\"20\" cy=\"28\" rx=\"3\" ry=\"5\" fill=\"url(#drop1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(0, 188, 212, 0.5))\" /><circle cx=\"20\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"30\" rx=\"2.5\" ry=\"4\" fill=\"url(#drop1)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(0, 188, 212, 0.5))\" /><circle cx=\"44\" cy=\"28\" r=\"1.2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"38\" rx=\"2\" ry=\"3.5\" fill=\"url(#drop1)\" opacity=\"0.85\" filter=\"drop-shadow(0 2px 4px rgba(0, 188, 212, 0.5))\" /><circle cx=\"32\" cy=\"36\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.8\" /></g><g opacity=\"0.4\"><path d=\"M 18 32 Q 16 36 14 42\" stroke=\"url(#sweat1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 46 34 Q 48 38 50 44\" stroke=\"url(#sweat1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 34 42 Q 34 46 32 52\" stroke=\"url(#sweat1)\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" /></g></svg>",
+      "relatedWords": [
+        "זֵעָה (제아 - 땀)",
+        "פָּנִים (파님 - 얼굴)"
+      ]
+    },
+    {
+      "hebrew": "תֹּאכַל",
+      "meaning": "너는 먹을 것이다",
+      "ipa": "toˈχal",
+      "korean": "토칼",
+      "letters": "תֹּ(to) + אכַ(cha) + ל(l)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bread2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"30%\" stop-color=\"#F5DEB3\" /><stop offset=\"70%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient><radialGradient id=\"crust2\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"70%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></radialGradient><linearGradient id=\"steam2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#F0F0F0\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" stop-opacity=\"0\" /></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow2)\" /><ellipse cx=\"32\" cy=\"40\" rx=\"22\" ry=\"14\" fill=\"url(#crust2)\" filter=\"drop-shadow(0 4px 8px rgba(139, 115, 85, 0.5))\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"38\" rx=\"20\" ry=\"12\" fill=\"url(#bread2)\" filter=\"drop-shadow(0 2px 6px rgba(210, 180, 140, 0.4))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"10\" fill=\"#FFFACD\" opacity=\"0.5\" /><g opacity=\"0.7\"><ellipse cx=\"28\" cy=\"36\" rx=\"3\" ry=\"2\" fill=\"#8B7355\" opacity=\"0.3\" /><ellipse cx=\"36\" cy=\"37\" rx=\"2.5\" ry=\"1.8\" fill=\"#8B7355\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"40\" rx=\"2\" ry=\"1.5\" fill=\"#8B7355\" opacity=\"0.3\" /><ellipse cx=\"26\" cy=\"40\" rx=\"2\" ry=\"1.3\" fill=\"#8B7355\" opacity=\"0.3\" /><ellipse cx=\"38\" cy=\"41\" rx=\"1.8\" ry=\"1.2\" fill=\"#8B7355\" opacity=\"0.3\" /></g><g><path d=\"M 22 30 Q 20 24 18 20\" stroke=\"url(#steam2)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 28 28 Q 28 22 26 16\" stroke=\"url(#steam2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 36 28 Q 38 22 38 16\" stroke=\"url(#steam2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 42 30 Q 44 24 46 20\" stroke=\"url(#steam2)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\" /></g><path d=\"M 14 42 Q 32 36 50 42\" stroke=\"#8B7355\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "מַאֲכָל (마아칼 - 음식)"
+      ]
+    },
+    {
+      "hebrew": "לֶחֶם",
+      "meaning": "빵, 음식",
+      "ipa": "ˈleχɛm",
+      "korean": "레헴",
+      "letters": "לֶ(le) + חֶם(chem)",
+      "root": "לֶחֶם (레헴)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"grain3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFACD\" /><stop offset=\"30%\" stop-color=\"#F0E68C\" /><stop offset=\"70%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient><linearGradient id=\"wheat3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#CD853F\" /></linearGradient><radialGradient id=\"field3\"><stop offset=\"0%\" stop-color=\"#FFFACD\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#F0E68C\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#DAA520\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"seed3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#field3)\" /><rect x=\"8\" y=\"50\" width=\"48\" height=\"8\" rx=\"2\" fill=\"url(#grain3)\" opacity=\"0.3\" /><g><line x1=\"16\" y1=\"50\" x2=\"16\" y2=\"24\" stroke=\"url(#wheat3)\" stroke-width=\"2.5\" /><ellipse cx=\"16\" cy=\"20\" rx=\"4\" ry=\"6\" fill=\"url(#grain3)\" filter=\"drop-shadow(0 2px 4px rgba(218, 165, 32, 0.5))\" /><g><ellipse cx=\"14\" cy=\"18\" rx=\"1.5\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"16\" cy=\"17\" rx=\"1.3\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"18\" cy=\"18\" rx=\"1.5\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"15\" cy=\"20\" rx=\"1.2\" ry=\"1.8\" fill=\"url(#seed3)\" /><ellipse cx=\"17\" cy=\"20\" rx=\"1.2\" ry=\"1.8\" fill=\"url(#seed3)\" /></g></g><g><line x1=\"26\" y1=\"50\" x2=\"26\" y2=\"18\" stroke=\"url(#wheat3)\" stroke-width=\"3\" /><ellipse cx=\"26\" cy=\"14\" rx=\"5\" ry=\"7\" fill=\"url(#grain3)\" filter=\"drop-shadow(0 3px 6px rgba(218, 165, 32, 0.6))\" /><g><ellipse cx=\"23\" cy=\"12\" rx=\"1.8\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"26\" cy=\"11\" rx=\"1.6\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"29\" cy=\"12\" rx=\"1.8\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"24\" cy=\"15\" rx=\"1.5\" ry=\"2.2\" fill=\"url(#seed3)\" /><ellipse cx=\"28\" cy=\"15\" rx=\"1.5\" ry=\"2.2\" fill=\"url(#seed3)\" /><ellipse cx=\"26\" cy=\"16\" rx=\"1.4\" ry=\"2\" fill=\"url(#seed3)\" /></g></g><g><line x1=\"38\" y1=\"50\" x2=\"38\" y2=\"18\" stroke=\"url(#wheat3)\" stroke-width=\"3\" /><ellipse cx=\"38\" cy=\"14\" rx=\"5\" ry=\"7\" fill=\"url(#grain3)\" filter=\"drop-shadow(0 3px 6px rgba(218, 165, 32, 0.6))\" /><g><ellipse cx=\"35\" cy=\"12\" rx=\"1.8\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"38\" cy=\"11\" rx=\"1.6\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"41\" cy=\"12\" rx=\"1.8\" ry=\"2.5\" fill=\"url(#seed3)\" /><ellipse cx=\"36\" cy=\"15\" rx=\"1.5\" ry=\"2.2\" fill=\"url(#seed3)\" /><ellipse cx=\"40\" cy=\"15\" rx=\"1.5\" ry=\"2.2\" fill=\"url(#seed3)\" /><ellipse cx=\"38\" cy=\"16\" rx=\"1.4\" ry=\"2\" fill=\"url(#seed3)\" /></g></g><g><line x1=\"48\" y1=\"50\" x2=\"48\" y2=\"24\" stroke=\"url(#wheat3)\" stroke-width=\"2.5\" /><ellipse cx=\"48\" cy=\"20\" rx=\"4\" ry=\"6\" fill=\"url(#grain3)\" filter=\"drop-shadow(0 2px 4px rgba(218, 165, 32, 0.5))\" /><g><ellipse cx=\"46\" cy=\"18\" rx=\"1.5\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"48\" cy=\"17\" rx=\"1.3\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"50\" cy=\"18\" rx=\"1.5\" ry=\"2\" fill=\"url(#seed3)\" /><ellipse cx=\"47\" cy=\"20\" rx=\"1.2\" ry=\"1.8\" fill=\"url(#seed3)\" /><ellipse cx=\"49\" cy=\"20\" rx=\"1.2\" ry=\"1.8\" fill=\"url(#seed3)\" /></g></g></svg>"
+    },
+    {
+      "hebrew": "עַד שׁוּבְךָ אֶל-הָאֲדָמָה",
+      "meaning": "흙으로 돌아갈 때까지",
+      "ipa": "ʕad ʃuˈvəχa ʔɛl haʔadaˈma",
+      "korean": "아드 슈베카 엘 하아다마",
+      "letters": "עַד(ad) + שׁוּ(shu) + בְךָ(vecha) + אֶל(el) + הָ(ha) + אֲ(a) + דָ(da) + מָה(mah)",
+      "root": "עַד (아드) + שׁ-ו-ב (슈브) + אֲדָמָה (아다마)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"30%\" stop-color=\"#DEB887\" /><stop offset=\"70%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"sand4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"50%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient><radialGradient id=\"glow4\"><stop offset=\"0%\" stop-color=\"#FFF5EE\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#DEB887\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#8B7355\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"glass4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" stop-opacity=\"0.5\" /><stop offset=\"50%\" stop-color=\"#C0C0C0\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#A0A0A0\" stop-opacity=\"0.2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow4)\" /><g><path d=\"M 22 12 L 42 12 L 38 30 L 26 30 Z\" fill=\"url(#glass4)\" stroke=\"url(#time4)\" stroke-width=\"2\" filter=\"drop-shadow(0 3px 6px rgba(139, 115, 85, 0.4))\" /><ellipse cx=\"32\" cy=\"12\" rx=\"10\" ry=\"3\" fill=\"#A0A0A0\" opacity=\"0.4\" /><path d=\"M 26 30 L 22 48 L 42 48 L 38 30 Z\" fill=\"url(#glass4)\" stroke=\"url(#time4)\" stroke-width=\"2\" filter=\"drop-shadow(0 3px 6px rgba(139, 115, 85, 0.4))\" /><ellipse cx=\"32\" cy=\"48\" rx=\"10\" ry=\"3\" fill=\"#A0A0A0\" opacity=\"0.4\" /></g><g><path d=\"M 28 15 L 36 15 L 34 22 L 30 22 Z\" fill=\"url(#sand4)\" opacity=\"0.85\" /><ellipse cx=\"32\" cy=\"24\" rx=\"5\" ry=\"2\" fill=\"url(#sand4)\" opacity=\"0.9\" /><path d=\"M 30 27 L 34 27 L 33 32 L 31 32 Z\" fill=\"url(#sand4)\" opacity=\"0.75\" filter=\"drop-shadow(0 2px 4px rgba(210, 180, 140, 0.5))\" /><path d=\"M 31 35 L 33 35 L 35 43 L 29 43 Z\" fill=\"url(#sand4)\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 4px rgba(210, 180, 140, 0.5))\" /><ellipse cx=\"32\" cy=\"43\" rx=\"6\" ry=\"2.5\" fill=\"url(#time4)\" opacity=\"0.8\" /></g><g opacity=\"0.6\"><line x1=\"32\" y1=\"24\" x2=\"32\" y2=\"32\" stroke=\"url(#sand4)\" stroke-width=\"1\" stroke-dasharray=\"1 1\" /><circle cx=\"32\" cy=\"26\" r=\"0.8\" fill=\"#DEB887\" /><circle cx=\"31\" cy=\"28\" r=\"0.7\" fill=\"#D2B48C\" /><circle cx=\"33\" cy=\"29\" r=\"0.8\" fill=\"#DEB887\" /><circle cx=\"32\" cy=\"31\" r=\"0.7\" fill=\"#D2B48C\" /></g><path d=\"M 22 30 L 42 30\" stroke=\"url(#time4)\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "אֲדָמָה (아다마 - 땅, 흙)"
+      ]
+    },
+    {
+      "hebrew": "כִּי מִמֶּנָּה לֻקָּחְתָּ",
+      "meaning": "너는 그것에서 취해졌기 때문이다",
+      "ipa": "ki miˈmɛnna luqaχˈta",
+      "korean": "키 미멘나 루카흐타",
+      "letters": "כִּי(ki) + מִ(mi) + מֶּ(me) + נָּה(nah) + לֻ(lu) + קָּ(qa) + חְתָּ(chta)",
+      "root": "כִּי (키) + מִן (민) + ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"30%\" stop-color=\"#A0522D\" /><stop offset=\"70%\" stop-color=\"#654321\" /><stop offset=\"100%\" stop-color=\"#3E2723\" /></linearGradient><radialGradient id=\"soil5\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"50%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></radialGradient><linearGradient id=\"hands5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF5EE\" /><stop offset=\"50%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></linearGradient><radialGradient id=\"divine5\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#FFA500\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine5)\" /><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"8\" fill=\"url(#earth5)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#soil5)\" filter=\"drop-shadow(0 4px 8px rgba(101, 67, 33, 0.6))\" opacity=\"0.85\" /><g opacity=\"0.7\"><circle cx=\"28\" cy=\"30\" r=\"1.5\" fill=\"#A0522D\" /><circle cx=\"36\" cy=\"31\" r=\"1.2\" fill=\"#8B4513\" /><circle cx=\"32\" cy=\"35\" r=\"1.3\" fill=\"#A0522D\" /><circle cx=\"30\" cy=\"33\" r=\"1\" fill=\"#654321\" /><circle cx=\"34\" cy=\"29\" r=\"1.1\" fill=\"#8B4513\" /></g><g><path d=\"M 12 36 Q 10 32 12 28 Q 14 24 18 24 Q 20 24 22 26 L 26 32 Q 28 36 26 40 L 22 44 Q 18 44 14 42 Q 10 40 12 36 Z\" fill=\"url(#hands5)\" stroke=\"#D2691E\" stroke-width=\"1.5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><path d=\"M 52 36 Q 54 32 52 28 Q 50 24 46 24 Q 44 24 42 26 L 38 32 Q 36 36 38 40 L 42 44 Q 46 44 50 42 Q 54 40 52 36 Z\" fill=\"url(#hands5)\" stroke=\"#D2691E\" stroke-width=\"1.5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /></g><g opacity=\"0.6\"><line x1=\"18\" y1=\"28\" x2=\"18\" y2=\"36\" stroke=\"#F4A460\" stroke-width=\"1\" /><line x1=\"20\" y1=\"27\" x2=\"20\" y2=\"38\" stroke=\"#F4A460\" stroke-width=\"1\" /><line x1=\"22\" y1=\"28\" x2=\"22\" y2=\"36\" stroke=\"#F4A460\" stroke-width=\"1\" /><line x1=\"46\" y1=\"28\" x2=\"46\" y2=\"36\" stroke=\"#F4A460\" stroke-width=\"1\" /><line x1=\"44\" y1=\"27\" x2=\"44\" y2=\"38\" stroke=\"#F4A460\" stroke-width=\"1\" /><line x1=\"42\" y1=\"28\" x2=\"42\" y2=\"36\" stroke=\"#F4A460\" stroke-width=\"1\" /></g><g opacity=\"0.5\"><path d=\"M 20 20 Q 24 16 28 18\" stroke=\"url(#divine5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><path d=\"M 36 18 Q 40 16 44 20\" stroke=\"url(#divine5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"14\" r=\"3\" fill=\"#FFD700\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></g></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 취하다)",
+        "עָשָׂה (아사 - 만들다)"
+      ]
+    },
+    {
+      "hebrew": "כִּי-עָפָר אַתָּה",
+      "meaning": "너는 흙이기 때문이다",
+      "ipa": "ki ʕaˈfar ʔaˈta",
+      "korean": "키 아파르 아타",
+      "letters": "כִּי(ki) + עָ(a) + פָר(far) + אַ(a) + תָּה(tah)",
+      "root": "כִּי (키) + עָפָר (아파르) + אַתָּה (아타)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2B48C\" /><stop offset=\"30%\" stop-color=\"#BC8F8F\" /><stop offset=\"70%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"mortality6\"><stop offset=\"0%\" stop-color=\"#A9A9A9\" /><stop offset=\"50%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" /></radialGradient><linearGradient id=\"human6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"50%\" stop-color=\"#FFDAB9\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></linearGradient><radialGradient id=\"fade6\"><stop offset=\"0%\" stop-color=\"#D2B48C\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#8B7355\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#654321\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#fade6)\" /><circle cx=\"32\" cy=\"44\" r=\"16\" fill=\"url(#mortality6)\" opacity=\"0.3\" /><g><ellipse cx=\"32\" cy=\"32\" rx=\"12\" ry=\"16\" fill=\"url(#human6)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"7\" fill=\"url(#human6)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" opacity=\"0.7\" /><circle cx=\"29\" cy=\"23\" r=\"1.5\" fill=\"#654321\" opacity=\"0.6\" /><circle cx=\"35\" cy=\"23\" r=\"1.5\" fill=\"#654321\" opacity=\"0.6\" /><path d=\"M 29 27 Q 32 28 35 27\" stroke=\"#8B7355\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.5\" /></g><g opacity=\"0.8\"><path d=\"M 18 46 Q 20 44 24 46 Q 28 48 32 46 Q 36 44 40 46 Q 44 48 46 46\" stroke=\"url(#dust6)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><ellipse cx=\"32\" cy=\"50\" rx=\"18\" ry=\"4\" fill=\"url(#dust6)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(101, 67, 33, 0.4))\" /></g><g opacity=\"0.5\"><circle cx=\"20\" cy=\"48\" r=\"1.5\" fill=\"#8B7355\" /><circle cx=\"28\" cy=\"50\" r=\"1.2\" fill=\"#BC8F8F\" /><circle cx=\"36\" cy=\"51\" r=\"1.3\" fill=\"#8B7355\" /><circle cx=\"44\" cy=\"49\" r=\"1.4\" fill=\"#BC8F8F\" /><circle cx=\"32\" cy=\"52\" r=\"1\" fill=\"#654321\" /><circle cx=\"24\" cy=\"52\" r=\"0.9\" fill=\"#8B7355\" /><circle cx=\"40\" cy=\"53\" r=\"1.1\" fill=\"#BC8F8F\" /></g><g opacity=\"0.4\"><path d=\"M 26 38 Q 28 36 30 38\" stroke=\"url(#dust6)\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 34 38 Q 36 36 38 38\" stroke=\"url(#dust6)\" stroke-width=\"1.5\" fill=\"none\" /><circle cx=\"22\" cy=\"36\" r=\"1\" fill=\"#8B7355\" /><circle cx=\"42\" cy=\"36\" r=\"1\" fill=\"#8B7355\" /></g></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָדָם (아담 - 사람)"
+      ]
+    },
+    {
+      "hebrew": "וְאֶל-עָפָר תָּשׁוּב",
+      "meaning": "그리고 흙으로 돌아갈 것이다",
+      "ipa": "vəʔɛl ʕaˈfar taˈʃuv",
+      "korean": "베엘 아파르 타슈브",
+      "letters": "וְ(ve) + אֶל(el) + עָ(a) + פָר(far) + תָּ(ta) + שׁוּב(shuv)",
+      "root": "אֶל (엘) + עָפָר (아파르) + שׁ-ו-ב (슈브)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return7\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"30%\" stop-color=\"#A0522D\" /><stop offset=\"70%\" stop-color=\"#654321\" /><stop offset=\"100%\" stop-color=\"#3E2723\" /></linearGradient><linearGradient id=\"cycle7\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2B48C\" /><stop offset=\"50%\" stop-color=\"#BC8F8F\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></linearGradient><radialGradient id=\"earth7\"><stop offset=\"0%\" stop-color=\"#D2691E\" /><stop offset=\"50%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></radialGradient><radialGradient id=\"glow7\"><stop offset=\"0%\" stop-color=\"#DEB887\" stop-opacity=\"0.7\" /><stop offset=\"50%\" stop-color=\"#8B7355\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#654321\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow7)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#earth7)\" filter=\"drop-shadow(0 4px 8px rgba(101, 67, 33, 0.6))\" opacity=\"0.7\" /><g opacity=\"0.6\"><circle cx=\"28\" cy=\"30\" r=\"1.5\" fill=\"#A0522D\" /><circle cx=\"36\" cy=\"32\" r=\"1.3\" fill=\"#8B4513\" /><circle cx=\"32\" cy=\"35\" r=\"1.4\" fill=\"#A0522D\" /><circle cx=\"30\" cy=\"33\" r=\"1.1\" fill=\"#654321\" /><circle cx=\"34\" cy=\"29\" r=\"1.2\" fill=\"#8B4513\" /></g><g><path d=\"M 32 8 Q 48 16 52 32 Q 48 48 32 56\" stroke=\"url(#cycle7)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 6px rgba(139, 115, 85, 0.5))\" opacity=\"0.85\" /><path d=\"M 32 8 Q 16 16 12 32 Q 16 48 32 56\" stroke=\"url(#cycle7)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 6px rgba(139, 115, 85, 0.5))\" opacity=\"0.85\" /></g><g transform=\"rotate(-30 32 56)\"><path d=\"M 32 56 L 28 50 L 32 52 L 36 50 Z\" fill=\"url(#return7)\" filter=\"drop-shadow(0 2px 4px rgba(62, 39, 35, 0.6))\" /></g><g transform=\"rotate(-30 12 32)\"><path d=\"M 12 32 L 8 26 L 12 28 L 16 26 Z\" fill=\"url(#return7)\" filter=\"drop-shadow(0 2px 4px rgba(62, 39, 35, 0.6))\" /></g><g opacity=\"0.5\"><circle cx=\"32\" cy=\"8\" r=\"3\" fill=\"url(#cycle7)\" filter=\"drop-shadow(0 0 4px rgba(188, 143, 143, 0.6))\" /><circle cx=\"52\" cy=\"32\" r=\"3\" fill=\"url(#cycle7)\" filter=\"drop-shadow(0 0 4px rgba(188, 143, 143, 0.6))\" /><circle cx=\"32\" cy=\"56\" r=\"3\" fill=\"url(#return7)\" filter=\"drop-shadow(0 0 4px rgba(139, 69, 19, 0.8))\" /><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"url(#cycle7)\" filter=\"drop-shadow(0 0 4px rgba(188, 143, 143, 0.6))\" /></g><path d=\"M 28 28 Q 32 24 36 28 Q 40 32 36 36 Q 32 40 28 36 Q 24 32 28 28\" stroke=\"url(#return7)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "מָוֶת (마베트 - 죽음)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3:19는 아담에게 내려진 하나님의 심판을 기록합니다. 범죄 이전에는 에덴동산을 '경작하고 지키는' 기쁨의 노동이었지만, 이제는 '얼굴에 땀을 흘리며' 고통스러운 수고로 변했습니다. 더욱 중요한 것은 인간의 죽음이 선언되었다는 점입니다. '흙에서 나왔으니 흙으로 돌아간다'는 선언은 인간 존재의 유한성과 죄의 대가가 사망임을 분명히 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְּזֵעַת אַפֶּיךָ תֹּאכַל לֶחֶם (베제아트 아페이카 토칼 레헴) - 땀 흘려 일하는 노동",
+        "description": "'얼굴의 땀으로 빵을 먹을 것이다'는 표현은 힘들고 고통스러운 노동을 의미합니다. 창조 시 하나님은 인간에게 에덴동산을 '경작하고 지키라'(창 2:15)고 하셨지만, 이는 기쁨의 노동이었습니다. 그러나 타락 후에는 땅이 가시덤불과 엉겅퀴를 내며(창 3:18), 노동이 고통과 좌절의 원천이 되었습니다. '레헴(빵)'은 단순한 음식이 아니라 생존을 위한 모든 양식을 대표합니다.",
+        "points": [
+          "노동 자체는 저주가 아니라 창조 질서의 일부입니다",
+          "타락으로 인해 노동이 고통과 좌절의 영역이 되었습니다",
+          "땀 흘리는 수고는 죄의 결과이며 인간 존재의 새로운 현실입니다",
+          "그럼에도 노동을 통한 양식은 하나님의 은혜입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עַד שׁוּבְךָ אֶל-הָאֲדָמָה (아드 슈베카 엘 하아다마) - 죽음의 선언",
+        "description": "'흙으로 돌아갈 때까지'라는 표현은 인간의 죽음을 선언합니다. '슈브(돌아가다)'는 단순한 귀환이 아니라 원래 상태로의 회귀를 의미합니다. 하나님은 '선악을 알게 하는 나무의 열매를 먹는 날에는 반드시 죽으리라'(창 2:17)고 경고하셨는데, 이제 그 경고가 현실이 됩니다. 죽음은 죄의 삯이며(롬 6:23), 인간이 영원히 살지 못하도록 하는 하나님의 심판입니다.",
+        "points": [
+          "죽음은 창조 질서의 일부가 아니라 죄의 결과입니다",
+          "인간의 유한성은 타락의 직접적 결과입니다",
+          "땅으로 돌아간다는 것은 육체의 썩어짐을 의미합니다",
+          "'그 날에 정녕 죽으리라'는 경고가 실현되었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כִּי-עָפָר אַתָּה, וְאֶל-עָפָר תָּשׁוּב (키 아파르 아타 베엘 아파르 타슈브) - 흙에서 왔으니 흙으로",
+        "description": "'아파르(흙, 티끌)'라는 단어는 창세기 2:7에서 하나님이 '땅의 티끌로 사람을 지으셨다'는 기록과 연결됩니다. 인간은 흙으로 만들어졌지만, 하나님의 생기를 받아 '생령'이 되었습니다(창 2:7). 그러나 죄로 인해 생기를 잃고 다시 흙으로 돌아가게 됩니다. 이 구절은 인간 존재의 두 가지 측면을 보여줍니다: 물질적 측면(흙)과 영적 측면(하나님의 생기). 죽음은 이 둘의 분리입니다.",
+        "points": [
+          "인간은 흙에서 왔다는 것은 피조물의 유한성을 나타냅니다",
+          "하나님의 생기 없이 인간은 단순한 흙일 뿐입니다",
+          "죽음은 육체와 영의 분리, 생기의 상실입니다",
+          "이 선언은 인간에게 겸손과 하나님 의존의 필요성을 가르칩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "희망의 복음 - 마지막 아담 예수 그리스도",
+        "description": "창세기 3:19의 암울한 선언은 구약에서 끝나지 않습니다. 신약은 '마지막 아담' 예수 그리스도를 통해 이 저주가 역전됨을 선포합니다(고전 15:45). 첫 아담이 땀 흘려 일하고 죽음을 맞이했다면, 마지막 아담은 십자가에서 피 흘려 죽으심으로 죽음의 권세를 깨뜨리셨습니다(히 2:14-15). 부활하신 그리스도 안에서 우리는 '썩지 않는 몸'을 입게 되며(고전 15:42-44), 새 하늘과 새 땅에서 수고와 죽음이 없는 영원한 안식을 누리게 됩니다(계 21:4).",
+        "points": [
+          "예수 그리스도는 둘째 아담으로서 첫 아담의 실패를 회복하십니다",
+          "십자가의 죽음과 부활로 죽음의 권세가 깨졌습니다",
+          "믿는 자는 부활의 소망으로 죽음을 두려워하지 않습니다",
+          "새 창조에서는 수고의 저주와 죽음이 완전히 제거됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아담에게 '너는 흙이니 흙으로 돌아갈 것'이라고 말씀하셨나요?",
+      "answer": "하나님은 아담이 죄를 지었기 때문에 이렇게 말씀하셨어요. 처음에 하나님은 아담을 흙으로 만드시고, 생명의 숨을 불어넣어서 살아있게 하셨어요. 그래서 아담은 영원히 살 수 있었어요. 하지만 아담이 하나님의 말씀을 어기고 선악과를 먹었을 때, 하나님과의 관계가 끊어졌어요. 그래서 이제 아담은 언젠가 죽어서 다시 흙으로 돌아가게 된 거예요. 이것은 죄가 얼마나 무서운지 보여주지만, 동시에 하나님은 예수님을 통해 우리를 다시 살리시고 영원히 살 수 있게 해주시겠다고 약속하셨답니다!",
+      "bibleReferences": [
+        "창세기 2:7 - 여호와 하나님이 땅의 흙으로 사람을 지으시고 생기를 그 코에 불어넣으시니 사람이 생령이 되니라",
+        "로마서 6:23 - 죄의 삯은 사망이요 하나님의 은사는 그리스도 예수 우리 주 안에 있는 영생이니라",
+        "고린도전서 15:21-22 - 사망이 한 사람으로 말미암았으니 죽은 자의 부활도 한 사람으로 말미암는도다. 아담 안에서 모든 사람이 죽은 것 같이 그리스도 안에서 모든 사람이 삶을 얻으리라",
+        "요한복음 11:25 - 예수께서 이르시되 나는 부활이요 생명이니 나를 믿는 자는 죽어도 살겠고"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:19는 죄의 결과가 얼마나 심각한지를 보여줍니다. 노동의 고통과 죽음은 인간 타락의 직접적 결과입니다. 그러나 이 구절은 절망으로 끝나지 않습니다. '흙으로 돌아간다'는 선언은 역설적으로 구원의 필요성을 강조합니다. 바울은 '마지막 아담'이신 예수 그리스도가 첫 아담의 저주를 역전시키셨다고 선포합니다(고전 15:45-49). 그리스도의 십자가와 부활을 통해 우리는 죽음의 권세에서 해방되며, 부활의 몸으로 새 창조에서 영원히 살게 됩니다. 땀 흘리는 수고와 죽음의 그늘 아래서도 우리는 부활의 소망을 붙잡을 수 있습니다(고전 15:55-57). 우리의 수고가 주 안에서 헛되지 않음을 알기 때문입니다(고전 15:58)."
+    }
+  }
+}

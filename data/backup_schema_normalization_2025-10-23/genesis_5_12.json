@@ -1,0 +1,113 @@
+{
+  "id": "genesis_5_12",
+  "reference": "Genesis 5:12",
+  "hebrew": "וַֽיְחִ֣י מַהֲלַלְאֵ֔ל חָמֵ֥שׁ שָׁנִ֖ים וְשִׁשִּׁ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־יָֽרֶד",
+  "ipa": "vajˈhi mahaləlˈʔel haˈmeʃ ʃaˈnim vəʃiʃˈʃim ʃaˈna vajˈjolɛd ʔɛt ˈjarɛd",
+  "koreanPronunciation": "바예히 마할랄엘 하메쉬 샤님 베쉬쉬심 샤나 바욜레드 에트 야레드",
+  "modern": "마할랄엘은 65세에 야렛을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "מַהֲלַלְאֵ֔ל",
+      "meaning": "마할랄엘",
+      "ipa": "mahaləlˈʔel",
+      "korean": "마할랄엘",
+      "letters": "מַ(ma) + הֲ(ha) + לַ(la) + לְ(lə) + אֵל(ʔel)",
+      "root": "הלל + אֵל (할랄 + 엘)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mahalalel12\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"praise12\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#praise12)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 30 L 40 30 L 38 50 L 26 50 Z\" fill=\"url(#mahalalel12)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 35 L 26 40\" stroke=\"url(#mahalalel12)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 35 L 38 40\" stroke=\"url(#mahalalel12)\" stroke-width=\"3\" stroke-linecap=\"round\" /><g opacity=\"0.9\"><path d=\"M 28 10 L 32 4 L 36 10\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"26\" cy=\"12\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"38\" cy=\"12\" r=\"2\" fill=\"#FFD700\" /></g></svg>",
+      "relatedWords": [
+        "הָלַל (할랄 - 찬양하다)",
+        "אֵל (엘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "חָמֵ֥שׁ",
+      "meaning": "5",
+      "ipa": "haˈmeʃ",
+      "korean": "하메쉬",
+      "letters": "חָ(ha) + מֵשׁ(meʃ)",
+      "root": "חָמֵשׁ (하메쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five12\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#five12)\" filter=\"drop-shadow(0 6px 12px rgba(255, 107, 107, 0.5))\" /><g fill=\"#FFFFFF\"><text x=\"32\" y=\"44\" font-size=\"36\" font-weight=\"bold\" text-anchor=\"middle\" font-family=\"Arial\">5</text></g></svg>"
+    },
+    {
+      "hebrew": "שִׁשִּׁ֣ים",
+      "meaning": "60",
+      "ipa": "ʃiʃˈʃim",
+      "korean": "쉬쉬심",
+      "letters": "שִׁ(shi) + שִּׁים(shim)",
+      "root": "שֵׁשׁ (쉐쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sixty12\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#sixty12)\" filter=\"drop-shadow(0 6px 12px rgba(79, 172, 254, 0.5))\" /><g fill=\"#FFFFFF\"><ellipse cx=\"22\" cy=\"28\" rx=\"8\" ry=\"10\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /><ellipse cx=\"44\" cy=\"32\" rx=\"10\" ry=\"14\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"4\" /></g></svg>"
+    },
+    {
+      "hebrew": "יָֽרֶד",
+      "meaning": "야렛",
+      "ipa": "ˈjarɛd",
+      "korean": "야레드",
+      "letters": "יָ(ya) + רֶד(rɛd)",
+      "root": "יָרַד (야라드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jared12\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"descent12\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#descent12)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"#F5DEB3\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"29.5\" cy=\"18\" r=\"1.5\" fill=\"#2C3E50\" /><circle cx=\"34.5\" cy=\"18\" r=\"1.5\" fill=\"#2C3E50\" /><path d=\"M 29 22 Q 32 23.5 35 22\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 22 28 Q 22 26 26 26 L 38 26 Q 42 26 42 28 L 42 48 Q 42 50 38 50 L 26 50 Q 22 50 22 48 Z\" fill=\"url(#jared12)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 34 L 24 38 L 24 46\" stroke=\"url(#jared12)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 46 34 L 40 38 L 40 46\" stroke=\"url(#jared12)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><g opacity=\"0.7\"><path d=\"M 32 8 L 28 12 L 32 10 L 36 12 Z\" fill=\"#667EEA\" /><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"14\" stroke=\"#667EEA\" stroke-width=\"2\" stroke-linecap=\"round\" /></g></svg>",
+      "relatedWords": [
+        "יָרַד (야라드 - 내려가다)",
+        "יְרִידָה (예리다 - 하강)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 12절은 마할랄엘이 65세에 야렛을 낳았다는 기록입니다. 찬양의 사람 마할랄엘이 야렛('내려가다'라는 의미)을 낳은 것은 경건한 계보가 계속 이어지면서도 인류의 타락이 깊어지는 시대적 배경을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מַהֲלַלְאֵל (마할랄엘) - 찬양하는 신앙",
+        "description": "마할랄엘('하나님을 찬양하다')은 경건한 신앙의 계승자였습니다. 그의 이름은 어려운 시대에도 하나님을 찬양하는 신앙을 유지했음을 보여줍니다. 찬양은 단순한 감정의 표현이 아니라 하나님의 위대하심을 인정하고 선포하는 신앙의 행위입니다.",
+        "points": [
+          "찬양은 모든 상황에서 드려져야 합니다",
+          "신앙은 말뿐 아니라 삶으로 표현됩니다",
+          "하나님을 찬양하는 가정에서 신앙이 전승됩니다",
+          "찬양은 다음 세대에 신앙을 전수하는 도구입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָמֵשׁ וְשִׁשִּׁים שָׁנָה - 65세",
+        "description": "마할랄엘이 야렛을 낳은 나이인 65세는 창세기 5장의 다른 족장들에 비해 상당히 이른 나이입니다. 이는 경건한 세대가 신앙을 다음 세대에 일찍부터 전수하려는 의지를 보여줍니다. 젊은 시기부터 자녀를 양육하며 신앙을 전달한 것입니다.",
+        "points": [
+          "신앙 교육은 일찍 시작되어야 합니다",
+          "젊은 부모의 신앙이 자녀에게 큰 영향을 줍니다",
+          "하나님의 축복은 이른 시기부터 나타납니다",
+          "세대 간의 신앙 전승이 충실히 이루어졌습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יָרֶד (야레드) - 내려감",
+        "description": "야렛의 이름은 '내려가다', '하강하다'를 의미합니다. 이는 타락 천사들이 땅으로 내려온 사건(창세기 6:1-4)과 관련이 있을 수 있으며, 인류의 타락이 깊어지는 시대를 암시할 수도 있습니다. 그러나 역설적으로 야렛의 아들이 하나님과 동행한 에녹이라는 점에서, 어두운 시대에도 하나님의 빛이 더욱 밝게 빛남을 보여줍니다.",
+        "points": [
+          "이름은 때로 시대의 영적 상황을 반영합니다",
+          "타락의 시대에도 경건한 계보는 보존됩니다",
+          "어둠이 깊을수록 빛은 더욱 빛납니다",
+          "하나님의 구속 계획은 어떤 상황에도 계속됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "이름이 왜 중요한가요?",
+      "answer": "성경 시대에 이름은 단순한 호칭이 아니라 그 사람의 정체성과 운명을 담고 있었어요. 부모님들은 하나님께 기도하며 자녀의 이름을 지었답니다. 마할랄엘은 '하나님을 찬양하다'라는 뜻으로, 그의 부모가 그가 하나님을 찬양하며 살기를 바랐다는 거예요. 우리 이름에도 부모님의 사랑과 기대가 담겨 있답니다. 그리고 가장 중요한 것은, 예수님의 이름이 '구원자'라는 뜻이라는 거예요. 예수님은 이름대로 우리를 구원하러 오셨어요!",
+      "bibleReferences": [
+        "마태복음 1:21 - '아들을 낳으리니 이름을 예수라 하라 이는 그가 자기 백성을 그들의 죄에서 구원할 자이심이라'",
+        "잠언 22:1 - '명예를 많은 재물보다 택할 것이요 은총을 은이나 금보다 더욱 택할 것이니라'",
+        "이사야 43:1 - '야곱아 너를 창조하신 여호와께서 지금 말씀하시느니라 이스라엘아 너를 지으신 이가 말씀하시느니라 너는 두려워하지 말라 내가 너를 구속하였고 내가 너를 지명하여 불렀나니 너는 내 것이라'",
+        "요한계시록 2:17 - '귀 있는 자는 성령이 교회들에게 하시는 말씀을 들을지어다 이기는 그에게는 내가 감추었던 만나를 주고 또 흰 돌을 줄 터인데 그 돌 위에 새 이름을 기록한 것이 있나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5장 12절은 찬양과 하강이라는 대조적인 이미지를 통해 영적 긴장을 보여줍니다. 마할랄엘('하나님을 찬양하다')이 야렛('내려가다')을 낳았다는 것은, 타락이 깊어지는 세상 속에서도 경건한 신앙이 유지되고 있음을 보여줍니다. 이는 어두운 시대일수록 하나님을 찬양하는 신앙이 더욱 중요함을 강조합니다. 실제로 야렛의 아들이 하나님과 동행한 에녹이라는 점은, 하강의 시대에도 상승하는 신앙이 가능함을 증거합니다. 이는 궁극적으로 '하늘에서 내려오신' 예수 그리스도를 통해 우리를 '높이 올리시는' 하나님의 구속 역사를 예표합니다."
+    }
+  }
+}

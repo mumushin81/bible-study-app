@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_18",
+  "reference": "창세기 8:18",
+  "hebrew": "וַיֵּצֵא־נֹחַ וּבָנָיו וְאִשְׁתּוֹ וּנְשֵׁי־בָנָיו אִתּוֹ.",
+  "ipa": "vajˈetse noax uvanaˈv vəʔiʃˈto unʃe vanaˈv ʔiˈto",
+  "koreanPronunciation": "바예체 노아흐 우바나브 베이쉬토 운쉐 바나브 이토",
+  "modern": "노아와 그의 아들들과 그의 아내와 그의 며느리들이 그와 함께 나왔습니다",
+  "words": [
+    {
+      "hebrew": "וַיֵּצֵא",
+      "meaning": "그리고 나왔다",
+      "ipa": "vajˈetse",
+      "korean": "바예체",
+      "letters": "וַ(va) + יֵּ(ye) + צֵא(tse)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_freedom\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" opacity=\"0.3\" /><stop offset=\"50%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient><radialGradient id=\"light_outside\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" opacity=\"0.3\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"20\" height=\"24\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.4\" /><circle cx=\"48\" cy=\"32\" r=\"20\" fill=\"url(#light_outside)\" /><path d=\"M 28 24 L 40 24 L 40 40 L 28 40\" fill=\"none\" stroke=\"url(#exit_freedom)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#43A047\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출구)"
+      ]
+    },
+    {
+      "hebrew": "נֹחַ",
+      "meaning": "노아",
+      "ipa": "noax",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(ach)",
+      "root": "נ-ו-ח (nuach)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah_man\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"noah_halo\"><stop offset=\"0%\" stop-color=\"#FFD700\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"18\" r=\"12\" fill=\"url(#noah_halo)\" /><circle cx=\"32\" cy=\"22\" r=\"6\" fill=\"#FFE4C4\" /><ellipse cx=\"32\" cy=\"40\" rx=\"10\" ry=\"14\" fill=\"url(#noah_man)\" /><rect x=\"22\" y=\"32\" width=\"5\" height=\"16\" rx=\"2\" fill=\"url(#noah_man)\" /><rect x=\"37\" y=\"32\" width=\"5\" height=\"16\" rx=\"2\" fill=\"url(#noah_man)\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다)",
+        "מָנוֹחַ (마노아흐 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "וּבָנָיו",
+      "meaning": "그리고 그의 아들들",
+      "ipa": "uvanaˈv",
+      "korean": "우바나브",
+      "letters": "וּ(u) + בָ(ba) + נָיו(nav)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_group\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"18\" cy=\"22\" r=\"5\" fill=\"url(#sons_group)\" opacity=\"0.8\" /><ellipse cx=\"18\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#sons_group)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"22\" r=\"5\" fill=\"url(#sons_group)\" /><ellipse cx=\"32\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#sons_group)\" /><circle cx=\"46\" cy=\"22\" r=\"5\" fill=\"url(#sons_group)\" opacity=\"0.8\" /><ellipse cx=\"46\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#sons_group)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בָּנִים (바님 - 아들들)"
+      ]
+    },
+    {
+      "hebrew": "וְאִשְׁתּוֹ",
+      "meaning": "그리고 그의 아내",
+      "ipa": "vəʔiʃˈto",
+      "korean": "베이쉬토",
+      "letters": "וְ(və) + אִ(i) + שְׁ(sh) + תּוֹ(to)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"wife_companion\"><stop offset=\"0%\" stop-color=\"#EC407A\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"7\" fill=\"url(#wife_companion)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"13\" ry=\"14\" fill=\"url(#wife_companion)\" /><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"1.5\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 아내)",
+        "אִישׁ (이쉬 - 남편)"
+      ]
+    },
+    {
+      "hebrew": "וּנְשֵׁי־בָנָיו",
+      "meaning": "그리고 그의 아들들의 아내들",
+      "ipa": "unʃe vanaˈv",
+      "korean": "운쉐 바나브",
+      "letters": "וּ(u) + נְ(n) + שֵׁי(she) + בָ(ba) + נָיו(nav)",
+      "root": "נָשִׁים + בֵּן (나쉼 + 벤)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives_group\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EC407A\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient></defs><circle cx=\"16\" cy=\"20\" r=\"4\" fill=\"url(#wives_group)\" opacity=\"0.8\" /><ellipse cx=\"16\" cy=\"34\" rx=\"6\" ry=\"9\" fill=\"url(#wives_group)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"url(#wives_group)\" /><ellipse cx=\"32\" cy=\"34\" rx=\"6\" ry=\"9\" fill=\"url(#wives_group)\" /><circle cx=\"48\" cy=\"20\" r=\"4\" fill=\"url(#wives_group)\" opacity=\"0.8\" /><ellipse cx=\"48\" cy=\"34\" rx=\"6\" ry=\"9\" fill=\"url(#wives_group)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נָשִׁים (나쉼 - 여자들)",
+        "כַּלָּה (칼라 - 며느리)"
+      ]
+    },
+    {
+      "hebrew": "אִתּוֹ",
+      "meaning": "그와 함께",
+      "ipa": "ʔiˈto",
+      "korean": "이토",
+      "letters": "אִ(i) + תּוֹ(to)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"with_together\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"50%\" stop-color=\"#FF6F00\" opacity=\"0.7\" /><stop offset=\"100%\" stop-color=\"#E65100\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#with_together)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#with_together)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFD54F\" /></svg>",
+      "relatedWords": [
+        "אֵת (에트 - ~와 함께)",
+        "עִם (임 - ~와 함께)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 18절은 노아의 순종을 보여줍니다. 하나님이 명령하시자(16절), 노아는 즉시 순종했습니다. 가족 전체가 함께 나가는 장면은 구원의 공동체적 성격을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "즉각적인 순종",
+        "description": "하나님이 명령하시자(16절) 노아는 즉시 순종했습니다. '나가라'는 명령과 '나갔다'는 행동 사이에 지체가 없습니다.",
+        "points": [
+          "순종은 즉각적이어야 합니다",
+          "하나님의 명령에 대한 신속한 반응입니다",
+          "오랜 기다림 후의 기쁜 순종입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "가족 전체의 나감",
+        "description": "노아 혼자가 아니라 가족 전체가 함께 나갔습니다. 들어갈 때와 마찬가지로 나갈 때도 함께입니다.",
+        "points": [
+          "구원은 공동체적입니다",
+          "가족이 함께 하나님께 순종합니다",
+          "들어갈 때와 나갈 때의 일관성입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "아내들의 포함",
+        "description": "노아의 아내와 며느리들이 명시적으로 언급됩니다. 여성들도 구원의 이야기에서 중요한 역할을 합니다.",
+        "points": [
+          "여성들도 구원 공동체의 일원입니다",
+          "모든 가족 구성원이 중요합니다",
+          "포괄적인 구원을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אִתּוֹ (이토) - 함께",
+        "description": "'그와 함께'라는 표현은 연합과 공동체를 강조합니다. 노아는 홀로가 아니라 가족과 함께 새로운 시대를 시작합니다.",
+        "points": [
+          "고립이 아닌 공동체입니다",
+          "함께하는 것이 하나님의 뜻입니다",
+          "새로운 시작을 함께 맞이합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 노아가 나간 것을 이렇게 자세히 기록했을까요?",
+      "answer": "하나님은 노아의 순종을 우리에게 보여주시고 싶으셨어요. 하나님이 '나가라'고 명령하시자마자 노아는 바로 순종했어요. 1년 넘게 방주 안에 갇혀 있다가 드디어 나갈 수 있게 되었으니 얼마나 기뻤을까요? 하지만 노아는 땅이 말랐다고 바로 나가지 않고, 하나님이 말씀하실 때까지 기다렸어요. 그리고 하나님이 명령하시자 즉시 순종한 거예요. 이게 진정한 순종이에요. 또 혼자가 아니라 가족 모두가 함께 나간 것도 중요해요. 하나님은 우리가 함께 일하고 함께 살기를 원하세요.",
+      "bibleReferences": [
+        "야고보서 1:22 - '너희는 말씀을 행하는 자가 되고 듣기만 하여 자신을 속이는 자가 되지 말라'",
+        "요한복음 14:15 - '너희가 나를 사랑하면 나의 계명을 지키리라'",
+        "사무엘상 15:22 - '순종이 제사보다 낫고 듣는 것이 숫양의 기름보다 나으니'",
+        "전도서 4:9 - '두 사람이 한 사람보다 나음은 그들이 수고함으로 좋은 상을 얻을 것임이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:18은 완전한 순종을 보여줍니다. 하나님의 명령(16절)과 노아의 행동(18절) 사이에 지체가 없습니다. 이는 1년 이상을 기다린 후의 기쁜 순종입니다. 노아는 땅이 말랐음을 알았지만(13-14절) 하나님의 명령을 기다렸고, 명령이 떨어지자 즉시 순종했습니다. 가족 전체가 '함께(이토)' 나간 것은 구원의 공동체적 성격을 강조합니다. 들어갈 때 함께 들어갔듯이, 나갈 때도 함께 나갑니다. 이는 교회가 함께 순종하고 함께 사명을 감당해야 함을 가르칩니다. 노아의 순종은 우리에게 하나님의 때를 기다리고, 명령이 떨어지면 즉각 순종하는 본을 보여줍니다."
+    }
+  }
+}

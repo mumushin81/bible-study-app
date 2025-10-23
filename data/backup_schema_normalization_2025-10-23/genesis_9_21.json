@@ -1,0 +1,158 @@
+{
+  "id": "genesis_9_21",
+  "reference": "창세기 9:21",
+  "hebrew": "וַיֵּשְׁתְּ מִן־הַיַּיִן וַיִּשְׁכָּר וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה",
+  "ipa": "vajːeːʃt min hajːajin vajːiʃkaːr vajːitgal bətoːχ ʔoːhoːloː",
+  "koreanPronunciation": "바예쉬트 민 하야인 바이쉬카르 바이트갈 베토크 오홀로",
+  "modern": "그가 포도주를 마시고 취하여 장막 안에서 벗은 채로 있었다",
+  "words": [
+    {
+      "hebrew": "וַיֵּשְׁתְּ",
+      "meaning": "그리고 그가 마셨다",
+      "ipa": "vajːeːʃt",
+      "korean": "바예쉬트",
+      "letters": "וַ(va) + יֵּ(ye) + שְׁתְּ(sht)",
+      "root": "שָׁתָה (샤타)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"drink_vayesht\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient></defs><path d=\"M 24 16 L 24 36 Q 24 44 32 44 Q 40 44 40 36 L 40 16 Z\" fill=\"url(#drink_vayesht)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"16\" rx=\"8\" ry=\"4\" fill=\"url(#drink_vayesht)\" opacity=\"0.9\" /><path d=\"M 28 20 Q 32 28 36 20\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שָׁתָה (샤타 - 마시다)",
+        "מַשְׁקֶה (마쉬케 - 음료)"
+      ]
+    },
+    {
+      "hebrew": "הַיַּיִן",
+      "meaning": "포도주",
+      "ipa": "hajːajin",
+      "korean": "하야인",
+      "letters": "הַ(ha) + יַּ(ya) + יִן(yin)",
+      "root": "יַיִן (야인)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wine_hayayin\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></linearGradient></defs><path d=\"M 28 12 L 28 24 Q 28 32 32 36 Q 36 32 36 24 L 36 12 Z\" fill=\"url(#wine_hayayin)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"12\" rx=\"4\" ry=\"2\" fill=\"url(#wine_hayayin)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"8\" ry=\"4\" fill=\"url(#wine_hayayin)\" opacity=\"0.9\" /><path d=\"M 32 36 L 32 52\" stroke=\"url(#wine_hayayin)\" stroke-width=\"2\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"url(#wine_hayayin)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "יַיִן (야인 - 포도주)",
+        "תִּירוֹשׁ (티로쉬 - 새 포도주)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּשְׁכָּר",
+      "meaning": "그리고 그가 취했다",
+      "ipa": "vajːiʃkaːr",
+      "korean": "바이쉬카르",
+      "letters": "וַ(va) + יִּ(yi) + שְׁ(sh) + כָּר(kar)",
+      "root": "שָׁכַר (샤카르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"drunk_vayishkar\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" opacity=\"0.5\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#drunk_vayishkar)\" opacity=\"0.6\" /><path d=\"M 24 28 Q 26 26 28 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 36 28 Q 38 26 40 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 26 36 Q 32 40 38 36\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 20 20 L 44 44\" stroke=\"#FF6B35\" stroke-width=\"3\" opacity=\"0.4\" /><path d=\"M 44 20 L 20 44\" stroke=\"#FF6B35\" stroke-width=\"3\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׁכַר (샤카르 - 취하다)",
+        "שִׁכָּרוֹן (쉬카론 - 취함)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּתְגַּל",
+      "meaning": "그리고 그가 벗었다",
+      "ipa": "vajːitgal",
+      "korean": "바이트갈",
+      "letters": "וַ(va) + יִּ(yi) + תְ(t) + גַּל(gal)",
+      "root": "גָּלָה (갈라)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"uncover_vayitgal\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#uncover_vayitgal)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#uncover_vayitgal)\" opacity=\"0.7\" /><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#E0E0E0\" stroke-width=\"2\" stroke-dasharray=\"4,4\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "גָּלָה (갈라 - 드러내다, 벗기다)",
+        "עֶרְוָה (에르바 - 벗음, 수치)"
+      ]
+    },
+    {
+      "hebrew": "בְּתוֹךְ",
+      "meaning": "안에",
+      "ipa": "bətoːχ",
+      "korean": "베토크",
+      "letters": "בְּ(be) + תוֹךְ(tokh)",
+      "root": "תָּוֶךְ (타베크)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"inside_betokh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" fill=\"none\" stroke=\"url(#inside_betokh)\" stroke-width=\"4\" rx=\"4\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#inside_betokh)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "תָּוֶךְ (타베크 - 중간, 안)",
+        "קֶרֶב (케레브 - 가운데)"
+      ]
+    },
+    {
+      "hebrew": "אָהֳלֹה",
+      "meaning": "그의 장막",
+      "ipa": "ʔoːhoːloː",
+      "korean": "오홀로",
+      "letters": "אָ(o) + הֳ(ho) + לֹה(loh)",
+      "root": "אֹהֶל (오헬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tent_oholoh\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient></defs><path d=\"M 8 48 L 32 16 L 56 48 Z\" fill=\"url(#tent_oholoh)\" opacity=\"0.8\" /><rect x=\"8\" y=\"48\" width=\"48\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.7\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#5D4037\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֹהֶל (오헬 - 장막, 천막)",
+        "מִשְׁכָּן (미쉬칸 - 성막)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아의 타락을 기록한 비극적 구절입니다. 홍수에서 구원받은 의인 노아가 포도주에 취해 벗은 채로 있는 장면은 인간의 죄성이 홍수 이후에도 여전히 남아있음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֵּשְׁתְּ מִן־הַיַּיִן (바예쉬트 민 하야인) - 포도주를 마시다",
+        "description": "포도주 자체는 죄가 아니지만, 절제하지 못한 음주는 문제가 됩니다. 성경은 포도주를 하나님의 선물로 보지만(시편 104:15), 과음은 경고합니다.",
+        "points": [
+          "포도주는 하나님의 창조물이지만 남용될 수 있습니다",
+          "절제는 모든 영역에서 중요한 덕목입니다",
+          "좋은 것도 과하면 해가 될 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיִּשְׁכָּר (바이쉬카르) - 취하다",
+        "description": "'쉬카르'(취하다)는 정신을 잃고 자제력을 상실한 상태를 의미합니다. 노아가 취한 것은 단순한 실수가 아니라 영적 경계를 늦춘 결과입니다.",
+        "points": [
+          "취함은 이성과 판단력을 흐리게 합니다",
+          "술 취함은 성경에서 반복적으로 경고됩니다",
+          "경계하지 않으면 누구나 넘어질 수 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּתְגַּל בְּתוֹךְ אָהֳלֹה (바이트갈 베토크 오홀로) - 장막 안에서 벗다",
+        "description": "노아가 장막 안에서 벗은 것은 사적 공간에서의 일이었지만, 여전히 부끄러운 일입니다. 이는 아담과 하와가 타락 후 벗은 것을 깨달은 것(창세기 3:7)을 상기시킵니다.",
+        "points": [
+          "벗음은 성경에서 수치와 타락을 상징합니다",
+          "사적 공간에서의 죄도 하나님 앞에서는 드러납니다",
+          "노아의 실수는 아담의 타락을 반복합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "의인의 연약함",
+        "description": "노아는 '의로운 사람'(창세기 6:9)이었지만 완전하지 않았습니다. 이 사건은 모든 인간이 죄인임을 보여주며, 오직 예수 그리스도만이 완전한 의인이심을 지적합니다.",
+        "points": [
+          "가장 의로운 사람도 실수할 수 있습니다",
+          "인간의 의로움은 불완전합니다",
+          "우리는 항상 하나님의 은혜가 필요합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아 같은 좋은 사람도 실수를 했나요?",
+      "answer": "노아는 정말 훌륭한 사람이었지만, 완벽하지는 않았어요. 세상에서 완벽한 사람은 예수님밖에 없답니다. 노아도 우리처럼 실수할 수 있는 사람이었어요. 이 이야기는 우리에게 중요한 교훈을 줘요. 첫째, 아무리 좋은 것도 너무 많이 하면 안 좋을 수 있어요. 둘째, 우리는 항상 조심하고 하나님께 의지해야 해요. 셋째, 다른 사람이 실수했을 때 사랑으로 도와주어야 해요. 노아의 실수는 우리 모두가 하나님의 도움이 필요하다는 것을 보여줘요.",
+      "bibleReferences": [
+        "잠언 20:1 - '포도주는 거만하게 하는 것이요 독주는 떠들게 하는 것이라 이에 미혹되는 자는 지혜가 없느니라'",
+        "에베소서 5:18 - '술 취하지 말라 이는 방탕한 것이니 오직 성령으로 충만함을 받으라'",
+        "로마서 3:23 - '모든 사람이 죄를 범하였으매 하나님의 영광에 이르지 못하더니'",
+        "고린도전서 10:12 - '그런즉 선 줄로 생각하는 자는 넘어질까 조심하라'",
+        "베드로전서 5:8 - '근신하라 깨어라 너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:21은 홍수가 인간의 죄성을 제거하지 못했음을 분명히 보여줍니다. 노아는 '의로운 사람'이었지만(창세기 6:9), 그의 의는 불완전했습니다. 이는 모든 인간이 죄인이며(로마서 3:23), 외적 심판이나 환경 변화만으로는 인간의 본성을 바꿀 수 없음을 가르칩니다. 오직 예수 그리스도를 통한 내적 변화와 성령의 역사만이 진정한 변화를 가져올 수 있습니다. 노아의 실수는 또한 우리에게 겸손과 경계의 필요성을 가르치며, 아무리 신실한 믿음의 사람도 끊임없이 하나님의 은혜에 의지해야 함을 보여줍니다."
+    }
+  }
+}

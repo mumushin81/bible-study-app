@@ -1,0 +1,185 @@
+{
+  "id": "genesis_12_5",
+  "reference": "창세기 12:5",
+  "hebrew": "וַיִּקַּח אַבְרָם אֶת־שָׂרַי אִשְׁתּוֹ וְאֶת־לוֹט בֶּן־אָחִיו, וְאֶת־כָּל־רְכוּשָׁם אֲשֶׁר רָכָשׁוּ, וְאֶת־הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ בְחָרָן; וַיֵּצְאוּ לָלֶכֶת אַרְצָה כְּנַעַן, וַיָּבֹאוּ אַרְצָה כְּנָעַן.",
+  "ipa": "vajˈjiqqax ʔavˈram ʔɛt saˈraj ʔiʃˈto vəʔɛt lot bɛn ʔaˈχiv vəʔɛt kol rəxuˈʃam ʔaˈʃɛr raˈxaʃu vəʔɛt hanˈnɛfɛʃ ʔaˈʃɛr ʔaˈsu vəχaˈran vajˈjetsuʔu laˈlɛxɛt ʔarˈtsa kəˈnaʔan vajˈjavouʔu ʔarˈtsa kəˈnaʔan",
+  "koreanPronunciation": "바이카흐 아브람 에트 사라이 이쉬토 베에트 롯 벤 아히브 베에트 콜 레쿠샴 아쉐르 라카슈 베에트 하네페쉬 아쉐르 아수 베하란 바예추우 랄레케트 아르차 케나안 바야보우 아르차 케나안",
+  "modern": "아브람은 아내 사래와 조카 롯, 그리고 그들이 모은 모든 재산과 하란에서 얻은 사람들을 데리고 가나안 땅으로 가려고 떠났습니다. 그리고 그들은 가나안 땅에 도착했습니다.",
+  "words": [
+    {
+      "hebrew": "וַיִּקַּח",
+      "meaning": "그리고 그가 데리고 갔다",
+      "ipa": "vajˈjiqqax",
+      "korean": "바이카흐",
+      "letters": "וַ(va) + יִּ(yi) + קַּח(qach)",
+      "root": "ל-ק-ח (라카흐 - 취하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"take_laqach\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#take_laqach)\" opacity=\"0.4\" /><path d=\"M 28 32 L 44 32\" stroke=\"#4FACFE\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /><rect x=\"40\" y=\"24\" width=\"16\" height=\"16\" rx=\"2\" fill=\"url(#take_laqach)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 취하다, 받다)",
+        "לֶקַח (레카흐 - 교훈, 가르침)"
+      ]
+    },
+    {
+      "hebrew": "שָׂרַי",
+      "meaning": "사래 (아브람의 아내)",
+      "ipa": "saˈraj",
+      "korean": "사라이",
+      "letters": "שָׂ(sa) + רַי(rai)",
+      "root": "שָׂרַי (사라이 - 나의 공주)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sarai\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#sarai)\" opacity=\"0.5\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#sarai)\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "שָׂרָה (사라 - 공주, 사래의 나중 이름)",
+        "שַׂר (사르 - 왕자, 지도자)"
+      ]
+    },
+    {
+      "hebrew": "רְכוּשָׁם",
+      "meaning": "그들의 재산",
+      "ipa": "rəxuˈʃam",
+      "korean": "레쿠샴",
+      "letters": "רְ(re) + כוּ(khu) + שָׁם(sham)",
+      "root": "ר-כ-שׁ (라카쉬 - 획득하다)",
+      "grammar": "명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"property\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"16\" y=\"24\" width=\"12\" height=\"12\" fill=\"url(#property)\" opacity=\"0.6\" /><rect x=\"32\" y=\"24\" width=\"12\" height=\"12\" fill=\"url(#property)\" opacity=\"0.6\" /><rect x=\"24\" y=\"36\" width=\"12\" height=\"12\" fill=\"url(#property)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+        "רָכַשׁ (라카쉬 - 얻다, 획득하다)"
+      ]
+    },
+    {
+      "hebrew": "הַנֶּפֶשׁ",
+      "meaning": "영혼들, 사람들",
+      "ipa": "hanˈnɛfɛʃ",
+      "korean": "하네페쉬",
+      "letters": "הַ(ha) + נֶּ(ne) + פֶשׁ(fesh)",
+      "root": "נֶפֶשׁ (네페쉬 - 영혼, 생명)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"souls\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#4FACFE\" /></radialGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#souls)\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#souls)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"42\" r=\"8\" fill=\"url(#souls)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "נֶפֶשׁ (네페쉬 - 영혼, 사람, 생명)",
+        "נְשָׁמָה (네샤마 - 숨, 영혼)"
+      ]
+    },
+    {
+      "hebrew": "עָשׂוּ",
+      "meaning": "그들이 얻었다, 만들었다",
+      "ipa": "ʔaˈsu",
+      "korean": "아수",
+      "letters": "עָ(a) + שׂוּ(su)",
+      "root": "ע-שׂ-ה (아사 - 만들다, 하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"made_asu\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#made_asu)\" opacity=\"0.3\" /><path d=\"M 20 32 L 32 20 L 44 32 L 32 44 Z\" fill=\"#667EEA\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다, 하다)",
+        "מַעֲשֶׂה (마아세 - 행위, 작품)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּצְאוּ",
+      "meaning": "그리고 그들이 나갔다",
+      "ipa": "vajˈjetsuʔu",
+      "korean": "바예추우",
+      "letters": "וַ(va) + יֵּ(ye) + צְאוּ(tsu'u)",
+      "root": "י-צ-א (야차 - 나가다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"went_out\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"24\" height=\"32\" rx=\"4\" fill=\"url(#went_out)\" opacity=\"0.2\" /><path d=\"M 24 32 L 52 32\" stroke=\"#4FACFE\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출구, 출애굽)"
+      ]
+    },
+    {
+      "hebrew": "כְּנַעַן",
+      "meaning": "가나안",
+      "ipa": "kəˈnaʔan",
+      "korean": "케나안",
+      "letters": "כְּ(ke) + נַ(na) + עַן(an)",
+      "root": "כְּנַעַן (케나안 - 지명)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#canaan)\" opacity=\"0.4\" /><path d=\"M 20 28 Q 32 24 44 28 L 44 44 L 20 44 Z\" fill=\"#4CAF50\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כְּנַעַן (케나안 - 가나안 땅)",
+        "כְּנַעֲנִי (케나아니 - 가나안 사람)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּבֹאוּ",
+      "meaning": "그리고 그들이 들어갔다",
+      "ipa": "vajˈjavouʔu",
+      "korean": "바야보우",
+      "letters": "וַ(va) + יָּ(ya) + בֹאוּ(vo'u)",
+      "root": "ב-ו-א (보 - 오다, 들어가다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"came_bo\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><path d=\"M 10 32 L 42 32\" stroke=\"url(#came_bo)\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /><rect x=\"38\" y=\"16\" width=\"20\" height=\"32\" rx=\"4\" fill=\"url(#came_bo)\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다, 들어가다)",
+        "בִּיאָה (비아 - 들어감, 도착)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:5는 아브람의 여정을 구체적으로 묘사합니다. 단순히 '떠났다'에서 그치지 않고, 누구와 무엇을 가지고 갔는지, 그리고 최종 목적지에 도달했는지를 상세히 기록합니다. 이는 약속의 성취를 향한 구체적인 걸음입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "가족 공동체 - 사래와 롯",
+        "description": "아브람은 혼자가 아니라 아내 사래와 조카 롯과 함께 여정을 시작합니다. 믿음의 여정은 종종 공동체적입니다. 하나님의 부르심은 개인에게 오지만, 그 영향은 주변 사람들에게 미칩니다.",
+        "points": [
+          "믿음은 개인적이지만 공동체적 영향을 미칩니다",
+          "사래는 남편의 믿음에 동참했습니다",
+          "우리의 결정은 가족에게 영향을 줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "재산과 사람들 - 물질적 축복",
+        "description": "아브람은 '재산'(רְכוּשׁ)과 '사람들'(נֶפֶשׁ)을 데리고 갔습니다. 이미 하란에서 하나님께서 그를 축복하셨고, 그는 부유한 사람이 되었습니다. 하나님의 부르심에 순종하는 것이 가난을 의미하지 않습니다.",
+        "points": [
+          "하나님은 물질적으로도 축복하십니다",
+          "부는 하나님의 선물이며 청지기직의 책임을 수반합니다",
+          "아브람은 이미 많은 것을 가졌지만 더 큰 약속을 위해 떠났습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "하란에서 얻은 '영혼들' - 선교적 열매",
+        "description": "'그들이 얻은 사람들'이라는 표현(הַנֶּפֶשׁ אֲשֶׁר־עָשׂוּ)은 단순히 종들을 의미하지 않습니다. 랍비 전통은 이를 '믿음으로 개종시킨 사람들'로 해석합니다. 아브람은 가는 곳마다 하나님을 증거했습니다.",
+        "points": [
+          "아브람은 하란에서도 영적 영향력을 미쳤습니다",
+          "믿음의 사람은 자연스럽게 다른 이들을 하나님께 이끕니다",
+          "이는 후에 '모든 민족이 복을 받을 것'이라는 약속의 시작입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "가나안 땅에 도착 - 약속의 성취",
+        "description": "'그들이 가나안 땅에 도착했다'(וַיָּבֹאוּ אַרְצָה כְּנָעַן)는 단순하지만 중요한 문장입니다. 하나님의 약속은 반드시 이루어집니다. 아브람은 믿음으로 출발했고, 하나님은 그를 안전하게 목적지까지 인도하셨습니다.",
+        "points": [
+          "하나님의 인도하심은 확실합니다",
+          "믿음의 여정에는 도착점이 있습니다",
+          "순종의 결과는 약속의 성취입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 아브람이 무엇을 가지고 갔는지 자세히 기록했을까요?",
+      "answer": "성경이 아브람의 가족과 재산, 그리고 사람들을 자세히 기록한 것은 하나님께서 우리 삶의 모든 부분에 관심을 가지신다는 것을 보여주기 위해서예요. 하나님은 아브람 혼자만이 아니라 그의 가족, 그의 재산, 그와 함께한 모든 사람들을 돌보셨어요. 이것은 우리에게도 마찬가지예요. 하나님은 우리 삶의 큰 일뿐만 아니라 작은 일들, 우리 가족, 우리 친구들까지 모두 돌보고 계세요. 그래서 우리는 모든 것을 하나님께 맡기고 신뢰할 수 있답니다.",
+      "bibleReferences": [
+        "시편 37:25 - '내가 어려서부터 늙기까지 의인이 버림을 당하거나 그의 자손이 걸식함을 보지 못하였도다'",
+        "마태복음 6:31-33 - '그러므로 염려하여 이르기를 무엇을 먹을까 무엇을 마실까 무엇을 입을까 하지 말라 이는 다 이방인들이 구하는 것이라 너희 하늘 아버지께서 이 모든 것이 너희에게 있어야 할 줄을 아시느니라 그런즉 너희는 먼저 그의 나라와 그의 의를 구하라 그리하면 이 모든 것을 너희에게 더하시리라'",
+        "빌립보서 4:19 - '나의 하나님이 그리스도 예수 안에서 영광 가운데 그 풍성한 대로 너희 모든 쓸 것을 채우시리라'",
+        "누가복음 12:7 - '너희에게는 머리털까지 다 세신 바 되었나니 두려워하지 말라 너희는 많은 참새보다 더 귀하니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:5는 믿음의 실천적 측면을 보여줍니다. 아브람의 순종은 추상적이지 않고 구체적입니다 - 가족을 데리고, 재산을 꾸리고, 사람들을 이끌고 실제로 떠났습니다. 또한 '하란에서 얻은 사람들'은 아브람의 선교적 삶을 암시합니다. 그는 가는 곳마다 하나님을 증거하고 사람들을 하나님께 이끌었습니다. 이는 오늘날 우리의 모델이 됩니다 - 믿음은 말로만이 아니라 삶으로, 그리고 우리가 만나는 사람들에게 영향을 미치는 것으로 드러나야 합니다. 마지막으로 '가나안 땅에 도착했다'는 문장은 하나님의 신실하심을 보증합니다 - 하나님이 부르신 곳으로 반드시 인도하십니다."
+    }
+  }
+}

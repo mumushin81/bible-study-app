@@ -1,0 +1,94 @@
+{
+  "id": "genesis_6_11",
+  "reference": "창세기 6:11",
+  "hebrew": "וַתִּשָּׁחֵת הָאָרֶץ, לִפְנֵי הָאֱלֹהִים; וַתִּמָּלֵא הָאָרֶץ, חָמָס.",
+  "ipa": "vatiʃaˈχet haˈarɛts lifˈne haʔɛloˈhim vatimmaˈle haˈarɛts χaˈmas",
+  "koreanPronunciation": "바티샤헤트 하아레츠 리프네 하엘로힘 바티말레 하아레츠 하마스",
+  "modern": "그 땅이 하나님 앞에서 부패했고, 땅에 포악함이 가득했습니다",
+  "words": [
+    {
+      "hebrew": "וַתִּשָּׁחֵת",
+      "meaning": "그리고 부패했다",
+      "ipa": "vatiʃaˈχet",
+      "korean": "바티샤헤트",
+      "letters": "וַ(va) + תִּ(ti) + שָּׁ(sha) + חֵת(χet)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사 - 니팔형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"corrupt_vatishachet\"><stop offset=\"0%\" stop-color=\"#434343\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#corrupt_vatishachet)\" opacity=\"0.5\" /><path d=\"M 20 20 L 44 44\" stroke=\"#FF0000\" stroke-width=\"3\" /><path d=\"M 44 20 L 20 44\" stroke=\"#FF0000\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "שָׁחַת (샤하트 - 파괴하다)",
+        "מַשְׁחִית (마쉬히트 - 파괴자)"
+      ]
+    },
+    {
+      "hebrew": "לִפְנֵי",
+      "meaning": "~앞에서",
+      "ipa": "lifˈne",
+      "korean": "리프네",
+      "letters": "לִ(li) + פְנֵי(fne)",
+      "root": "פָּנִים (파님)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"before_lifnei\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#before_lifnei)\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"32\" r=\"8\" fill=\"url(#before_lifnei)\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴)",
+        "לְפָנִים (레파님 - 이전에)"
+      ]
+    },
+    {
+      "hebrew": "וַתִּמָּלֵא",
+      "meaning": "그리고 가득 찼다",
+      "ipa": "vatimmaˈle",
+      "korean": "바티말레",
+      "letters": "וַ(va) + תִּ(ti) + מָּ(ma) + לֵא(le)",
+      "root": "מ-ל-א (말라)",
+      "grammar": "동사 - 니팔형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"filled_vatimmale\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"none\" stroke=\"url(#filled_vatimmale)\" stroke-width=\"3\" /><rect x=\"18\" y=\"28\" width=\"28\" height=\"18\" fill=\"url(#filled_vatimmale)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מָלֵא (말레 - 가득 찬)",
+        "מִלֵּא (밀레 - 채우다)"
+      ]
+    },
+    {
+      "hebrew": "חָמָס",
+      "meaning": "폭력, 포악",
+      "ipa": "χaˈmas",
+      "korean": "하마스",
+      "letters": "חָ(χa) + מָס(mas)",
+      "root": "ח-מ-ס (하마스)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"violence_chamas\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><path d=\"M 16 32 L 32 16 L 48 32 L 32 48 Z\" fill=\"url(#violence_chamas)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#violence_chamas)\" /></svg>",
+      "relatedWords": [
+        "חַמְסָן (함산 - 포악한 자)",
+        "אַלְמוּת (알무트 - 폭력)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "땅이 하나님 앞에서 부패하고 폭력으로 가득 찬 상태를 묘사합니다. 이는 홍수 심판의 직접적인 원인입니다.",
+    "sections": [
+      {
+        "emoji": "💔",
+        "title": "부패와 폭력",
+        "description": "땅이 '샤하트'(שׁחת - 부패)되고 '하마스'(חמס - 폭력)로 가득 찼습니다. 이는 도덕적, 영적 타락과 사회적 무질서를 의미합니다.",
+        "points": [
+          "전면적인 도덕적 타락",
+          "폭력과 불의가 지배하는 사회",
+          "하나님의 창조 질서의 완전한 붕괴"
+        ],
+        "color": "red"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 땅이 폭력으로 가득 찼을까요?",
+      "answer": "사람들이 하나님을 잊어버리고 자기 마음대로 살았기 때문이에요. 하나님의 사랑을 모르면 사람들은 서로를 때리고 빼앗고 미워하게 돼요. 그래서 세상이 무서운 곳이 되어버렸답니다.",
+      "bibleReferences": [
+        "창세기 6:13 - '모든 혈육 있는 자의 포악함이 땅에 가득하므로'",
+        "에스겔 7:23 - '이는 피 흘리는 죄가 그 땅에 가득하고 강포가 그 성읍에 찼음이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "심판의 원인",
+      "content": "부패와 폭력은 홍수 심판의 직접적인 원인입니다. 하나님은 거룩하신 분이시므로 죄를 그대로 두실 수 없습니다."
+    }
+  }
+}

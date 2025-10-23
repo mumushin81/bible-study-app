@@ -1,0 +1,211 @@
+{
+  "id": "genesis_12_19",
+  "reference": "창세기 12:19",
+  "hebrew": "לָמָה אָמַרְתָּ אֲחֹתִי הִוא וָאֶקַּח אֹתָהּ לִי לְאִשָּׁה וְעַתָּה הִנֵּה אִשְׁתְּךָ קַח וָלֵךְ",
+  "ipa": "ˈlama ʔaˈmarta ʔaxoˈti hi vaʔɛˈqax ʔoˈta li ləʔiˈʃa vəʕaˈta hinˈne ʔiʃtəˈxa qax vaˈlex",
+  "koreanPronunciation": "라마 아마르타 아호티 히 바에카흐 오타 리 레이샤 베아타 힌네 이쉬테카 카흐 발레크",
+  "modern": "어찌하여 그대는 '그녀가 내 누이'라고 말했소? 그래서 내가 그녀를 아내로 맞아들였지 않소. 그러니 이제 보시오, 당신의 아내요. 데리고 가시오!",
+  "words": [
+    {
+      "hebrew": "לָמָה",
+      "meaning": "어찌하여, 왜",
+      "ipa": "ˈlama",
+      "korean": "라마",
+      "letters": "לָ(la) + מָ(ma) + ה(h)",
+      "root": "לָמָה (라마)",
+      "grammar": "부사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-confrontation1-why1\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient><linearGradient id=\"pharaoh-confrontation1-question1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 99, 71, 0.2)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#pharaoh-confrontation1-why1)\" filter=\"drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.4))\" opacity=\"0.6\" /><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#pharaoh-confrontation1-question1)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.5))\">?</text><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"20\" cy=\"22\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"22\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מָה (마 - 무엇)",
+        "מַדּוּעַ (마두아 - 왜)"
+      ]
+    },
+    {
+      "hebrew": "אָמַרְתָּ",
+      "meaning": "당신이 말했다",
+      "ipa": "ʔaˈmarta",
+      "korean": "아마르타",
+      "letters": "אָ(a) + מַ(ma) + רְ(r) + תָּ(ta)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-confrontation1-speech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient><radialGradient id=\"pharaoh-confrontation1-bubble1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(135, 206, 235, 0.2)\" /><rect x=\"16\" y=\"20\" width=\"32\" height=\"20\" rx=\"8\" fill=\"url(#pharaoh-confrontation1-bubble1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><polygon points=\"20,40 16,48 28,40\" fill=\"url(#pharaoh-confrontation1-bubble1)\" /><line x1=\"22\" y1=\"26\" x2=\"42\" y2=\"26\" stroke=\"url(#pharaoh-confrontation1-speech1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"22\" y1=\"32\" x2=\"38\" y2=\"32\" stroke=\"url(#pharaoh-confrontation1-speech1)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "מַאֲמָר (마아마르 - 말씀)"
+      ]
+    },
+    {
+      "hebrew": "אֲחֹתִי",
+      "meaning": "내 누이",
+      "ipa": "ʔaxoˈti",
+      "korean": "아호티",
+      "letters": "אֲ(a) + חֹ(cho) + תִ(ti) + י(i)",
+      "root": "אָחוֹת (아호트)",
+      "grammar": "명사",
+      "emoji": "👧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-confrontation1-sister1\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></radialGradient><linearGradient id=\"pharaoh-confrontation1-connection1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 182, 193, 0.2)\" /><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#pharaoh-confrontation1-sister1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"28\" r=\"10\" fill=\"url(#pharaoh-confrontation1-sister1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 38 Q 32 46 40 38\" stroke=\"url(#pharaoh-confrontation1-connection1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"22\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"42\" cy=\"26\" r=\"2\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "אָחוֹת (아호트 - 누이)",
+        "אָח (아흐 - 형제)"
+      ]
+    },
+    {
+      "hebrew": "וָאֶקַּח",
+      "meaning": "그래서 내가 취했다",
+      "ipa": "vaʔɛˈqax",
+      "korean": "바에카흐",
+      "letters": "וָ(va) + אֶ(e) + קַּ(qa) + ח(x)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-confrontation1-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient><radialGradient id=\"pharaoh-confrontation1-hand1\"><stop offset=\"0%\" stop-color=\"#FFE4C4\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(139, 69, 19, 0.15)\" /><ellipse cx=\"20\" cy=\"32\" rx=\"10\" ry=\"14\" fill=\"url(#pharaoh-confrontation1-hand1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"10\" ry=\"14\" fill=\"url(#pharaoh-confrontation1-hand1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"28\" width=\"8\" height=\"8\" rx=\"2\" fill=\"url(#pharaoh-confrontation1-take1)\" filter=\"drop-shadow(0 0 6px rgba(139, 69, 19, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "לְאִשָּׁה",
+      "meaning": "아내로",
+      "ipa": "ləʔiˈʃa",
+      "korean": "레이샤",
+      "letters": "לְ(lə) + אִ(i) + שָּׁ(sha) + ה(h)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "💍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-confrontation1-ring1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"pharaoh-confrontation1-diamond1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.2)\" /><circle cx=\"32\" cy=\"36\" r=\"16\" fill=\"none\" stroke=\"url(#pharaoh-confrontation1-ring1)\" stroke-width=\"4\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><polygon points=\"32,20 28,26 36,26\" fill=\"url(#pharaoh-confrontation1-diamond1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><polygon points=\"28,26 32,32 36,26\" fill=\"rgba(255, 215, 0, 0.3)\" /><circle cx=\"32\" cy=\"24\" r=\"3\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "אִישׁ (이쉬 - 남자, 남편)"
+      ]
+    },
+    {
+      "hebrew": "וְעַתָּה",
+      "meaning": "그러니 이제",
+      "ipa": "vəʕaˈta",
+      "korean": "베아타",
+      "letters": "וְ(və) + עַ(a) + תָּ(ta) + ה(h)",
+      "root": "עַתָּה (아타)",
+      "grammar": "부사",
+      "emoji": "⏰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-confrontation1-time1\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#191970\" /></radialGradient><linearGradient id=\"pharaoh-confrontation1-hands1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(65, 105, 225, 0.2)\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#pharaoh-confrontation1-time1)\" filter=\"drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"white\" opacity=\"0.9\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"20\" stroke=\"url(#pharaoh-confrontation1-hands1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"40\" y2=\"32\" stroke=\"url(#pharaoh-confrontation1-hands1)\" stroke-width=\"2\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FF6347\" filter=\"drop-shadow(0 0 4px rgba(255, 99, 71, 0.8))\" /></svg>",
+      "relatedWords": [
+        "עַתָּה (아타 - 지금)",
+        "עֵת (에트 - 때)"
+      ]
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "meaning": "보시오, 보라",
+      "ipa": "hinˈne",
+      "korean": "힌네",
+      "letters": "הִ(hi) + נֵּ(ne) + ה(h)",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-confrontation1-behold1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient><radialGradient id=\"pharaoh-confrontation1-attention1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 69, 0, 0.15)\" /><path d=\"M 12 32 L 24 32 L 28 28 L 28 36 L 24 32\" fill=\"url(#pharaoh-confrontation1-behold1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"44\" cy=\"32\" r=\"10\" fill=\"url(#pharaoh-confrontation1-attention1)\" opacity=\"0.4\" filter=\"drop-shadow(0 0 8px rgba(255, 165, 0, 0.6))\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"none\" stroke=\"#FF4500\" stroke-width=\"2\" stroke-dasharray=\"2 2\" /></svg>"
+    },
+    {
+      "hebrew": "אִשְׁתְּךָ",
+      "meaning": "당신의 아내",
+      "ipa": "ʔiʃtəˈxa",
+      "korean": "이쉬테카",
+      "letters": "אִ(i) + שְׁ(sh) + תְּ(tə) + ךָ(xa)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"pharaoh-confrontation1-wife1\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"pharaoh-confrontation1-veil1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#F0F0F0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 182, 193, 0.2)\" /><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#pharaoh-confrontation1-wife1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 20 Q 32 14 44 20 L 44 28 Q 32 24 20 28 Z\" fill=\"url(#pharaoh-confrontation1-veil1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"1.5\" fill=\"none\" /></svg>"
+    },
+    {
+      "hebrew": "קַח",
+      "meaning": "데리고 가라",
+      "ipa": "qax",
+      "korean": "카흐",
+      "letters": "קַ(qa) + ח(x)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "✋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-confrontation1-command1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient><radialGradient id=\"pharaoh-confrontation1-power1\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(220, 20, 60, 0.2)\" /><rect x=\"18\" y=\"24\" width=\"28\" height=\"20\" rx=\"4\" fill=\"url(#pharaoh-confrontation1-command1)\" filter=\"drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"34\" r=\"6\" fill=\"url(#pharaoh-confrontation1-power1)\" opacity=\"0.6\" /><path d=\"M 28 20 L 32 14 L 36 20\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "וָלֵךְ",
+      "meaning": "그리고 가라",
+      "ipa": "vaˈlex",
+      "korean": "발레크",
+      "letters": "וָ(va) + לֵ(le) + ךְ(x)",
+      "root": "ה-ל-ך (할라크)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pharaoh-confrontation1-go1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><linearGradient id=\"pharaoh-confrontation1-path1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><path d=\"M 8 48 L 56 48\" stroke=\"url(#pharaoh-confrontation1-path1)\" stroke-width=\"4\" opacity=\"0.4\" /><ellipse cx=\"44\" cy=\"26\" rx=\"8\" ry=\"10\" fill=\"url(#pharaoh-confrontation1-go1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"22\" r=\"6\" fill=\"rgba(65, 105, 225, 0.7)\" /><ellipse cx=\"40\" cy=\"40\" rx=\"4\" ry=\"6\" fill=\"url(#pharaoh-confrontation1-go1)\" /><ellipse cx=\"48\" cy=\"42\" rx=\"4\" ry=\"6\" fill=\"url(#pharaoh-confrontation1-go1)\" /><path d=\"M 52 32 L 56 32 L 54 28 M 54 36 L 56 32\" stroke=\"#FFD700\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 가다)",
+        "הֲלִיכָה (할리카 - 걸음)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 19절은 아브람의 기만이 드러나는 결정적 순간입니다. 놀랍게도, 이방인 바로가 하나님의 백성 아브람보다 더 도덕적으로 행동하며 그를 책망합니다. 이는 하나님의 선택과 은혜가 인간의 의로움이 아닌 하나님의 주권적 사랑에 기초함을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לָמָה אָמַרְתָּ (라마 아마르타) - 바로의 정당한 책망",
+        "description": "'어찌하여 당신이 말했는가'라는 바로의 질문은 아브람의 거짓말을 정면으로 지적합니다. 이방인 왕이 언약의 백성을 도덕적으로 책망하는 역설적 상황이 펼쳐집니다.",
+        "points": [
+          "바로는 아브람의 거짓을 명확히 인지하고 직접적으로 지적합니다",
+          "하나님의 백성이라고 해서 항상 도덕적으로 우월한 것은 아닙니다",
+          "하나님은 때로 이방인을 통해서도 당신의 백성을 훈계하십니다",
+          "바로의 책망은 정당하며, 아브람의 행위는 변명의 여지가 없습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֲחֹתִי הִוא (아호티 히) - 기만의 대가",
+        "description": "'그녀가 내 누이다'라는 아브람의 거짓말은 사래를 위험에 빠뜨렸고, 바로의 궁전을 재앙으로 몰아넣었습니다(18절 참조). 반쪽 진실(사래는 이복 누이였음)도 의도적 기만이 될 수 있음을 보여줍니다.",
+        "points": [
+          "아브람은 기술적으로는 거짓말을 하지 않았지만, 의도적으로 속였습니다",
+          "우리의 두려움이 우리를 타협하게 만들고 다른 이들을 위험에 빠뜨립니다",
+          "하나님의 약속을 신뢰하지 못할 때 우리는 인간적 방법을 택하게 됩니다",
+          "죄는 항상 우리가 예상하지 못한 결과를 가져옵니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְעַתָּה הִנֵּה אִשְׁתְּךָ (베아타 힌네 이쉬테카) - 하나님의 보호",
+        "description": "'그러니 이제 보시오, 당신의 아내요'라는 말에서 바로는 사래를 '당신의 아내'로 정확히 지칭합니다. 하나님께서 바로를 통해 사래를 보호하셨고, 언약의 약속을 지키셨습니다.",
+        "points": [
+          "하나님은 우리의 실패에도 불구하고 당신의 약속을 지키십니다",
+          "바로가 재앙을 통해 깨달았듯이, 하나님은 이방인도 사용하십니다",
+          "사래의 순결과 안전은 아브람의 지혜가 아닌 하나님의 개입으로 보호되었습니다",
+          "하나님의 언약은 인간의 연약함보다 강합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "קַח וָלֵךְ (카흐 발레크) - 추방당한 선택받은 자",
+        "description": "'데리고 가라'는 바로의 명령은 단호하고 최종적입니다. 아이러니하게도, 복의 근원이 되라고 부르심을 받은 아브람이 이집트에서 저주의 원인이 되어 추방당합니다.",
+        "points": [
+          "아브람은 축복의 통로가 아니라 재앙의 원인이 되었습니다",
+          "하나님의 부르심은 우리의 실패로 무효화되지 않습니다",
+          "추방은 징계이지만, 동시에 하나님의 약속의 땅으로 돌아가는 길입니다",
+          "때로 하나님은 우리를 곤란한 상황에서 끄내시기 위해 타인을 사용하십니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 바로는 아브람을 책망했을까요?",
+      "answer": "아브람이 사래를 누이라고 거짓말했기 때문이에요. 바로는 사래를 아내로 맞이했는데, 나중에 그녀가 이미 아브람의 아내라는 사실을 알게 되었어요. 바로는 '왜 거짓말을 했느냐, 진실을 말했더라면 이런 일이 없었을 텐데'라고 화가 났죠. 하나님께서는 바로의 궁전에 재앙을 보내셔서 진실을 드러내셨어요. 이것은 우리에게 거짓말이 항상 문제를 일으키고, 하나님께서는 진실을 중요하게 여기신다는 것을 보여줍니다.",
+      "bibleReferences": [
+        "창세기 12:17 - '여호와께서 아브람의 아내 사래의 일로 바로와 그의 집에 큰 재앙을 내리시니'",
+        "잠언 12:22 - '거짓 입술은 여호와께 미움을 받아도 진실하게 행하는 자는 그의 기뻐하심을 받느니라'",
+        "요한복음 8:32 - '진리를 알지니 진리가 너희를 자유롭게 하리라'",
+        "에베소서 4:25 - '거짓을 버리고 각각 그 이웃과 더불어 참된 것을 말하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 본문은 하나님의 은혜의 역설을 보여줍니다. 아브람은 두려움 때문에 타협했고, 오히려 이방인 왕에게 도덕적 책망을 받았습니다. 그러나 하나님은 아브람의 실패에도 불구하고 사래를 보호하시고 언약을 지키셨습니다. 이는 하나님의 약속이 우리의 의로움이 아니라 하나님의 신실하심에 기초함을 보여줍니다. 바로가 '당신의 아내'라고 말할 때, 그것은 하나님께서 당신의 계획을 이루시기 위해 누구든지 사용하실 수 있음을 상기시킵니다. 우리의 연약함은 하나님의 은혜를 더욱 밝게 비추는 배경이 됩니다."
+    }
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": "genesis_10_20",
+  "reference": "창세기 10:20",
+  "hebrew": "אֵלֶּה בְנֵי־חָם לְמִשְׁפְּחֹתָם לִלְשֹׁנֹתָם בְּאַרְצֹתָם בְּגוֹיֵהֶם",
+  "ipa": "ʔelˈlɛ vənei xɑm ləmiʃpəxotɑm lilʃonotɑm bəʔɑrtsotɑm bəgojɛˈhɛm",
+  "koreanPronunciation": "엘레 브네이 함 레미쉬프호탐 릴쇼노탐 베아르초탐 베고예헴",
+  "modern": "이들은 함의 자손이라 그 족속과 언어와 지방과 나라대로이었더라",
+  "words": [
+    {
+      "hebrew": "אֵלֶּה",
+      "meaning": "이들은",
+      "ipa": "ʔelˈlɛ",
+      "korean": "엘레",
+      "letters": "אֵ(e) + לֶּ(lle) + ה(h)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point_eleh\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"6\" fill=\"url(#point_eleh)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#point_eleh)\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"url(#point_eleh)\" /><path d=\"M 8 32 L 14 32\" stroke=\"url(#point_eleh)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것)",
+        "הֵם (헴 - 그들)"
+      ]
+    },
+    {
+      "hebrew": "בְנֵי־חָם",
+      "meaning": "함의 자손",
+      "ipa": "vənei xɑm",
+      "korean": "브네이 함",
+      "letters": "בְּ(be) + נֵ(ne) + י(i) + חָ(cha) + ם(m)",
+      "root": "בֵּן (벤) + חָם (함)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"family_ham\"><stop offset=\"0%\" stop-color=\"#E67E22\" /><stop offset=\"100%\" stop-color=\"#D35400\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#family_ham)\" /><circle cx=\"20\" cy=\"36\" r=\"6\" fill=\"url(#family_ham)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"36\" r=\"6\" fill=\"url(#family_ham)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"36\" r=\"6\" fill=\"url(#family_ham)\" opacity=\"0.8\" /><line x1=\"32\" y1=\"24\" x2=\"20\" y2=\"30\" stroke=\"url(#family_ham)\" stroke-width=\"2\" /><line x1=\"32\" y1=\"24\" x2=\"32\" y2=\"30\" stroke=\"url(#family_ham)\" stroke-width=\"2\" /><line x1=\"32\" y1=\"24\" x2=\"44\" y2=\"30\" stroke=\"url(#family_ham)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "זֶרַע (제라 - 씨, 자손)"
+      ]
+    },
+    {
+      "hebrew": "מִשְׁפְּחֹתָם",
+      "meaning": "그들의 족속들",
+      "ipa": "miʃpəxotɑm",
+      "korean": "미쉬프호탐",
+      "letters": "מִ(mi) + שְׁ(sh) + פְּ(pe) + חֹ(cho) + תָ(ta) + ם(m)",
+      "root": "מִשְׁפָּחָה (미쉬파하)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"families\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><circle cx=\"16\" cy=\"24\" r=\"5\" fill=\"url(#families)\" /><circle cx=\"32\" cy=\"24\" r=\"5\" fill=\"url(#families)\" /><circle cx=\"48\" cy=\"24\" r=\"5\" fill=\"url(#families)\" /><circle cx=\"16\" cy=\"40\" r=\"4\" fill=\"url(#families)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"url(#families)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"40\" r=\"4\" fill=\"url(#families)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집, 가문)",
+        "שֵׁבֶט (쉐베트 - 지파)"
+      ]
+    },
+    {
+      "hebrew": "לְשֹׁנֹתָם",
+      "meaning": "그들의 언어들",
+      "ipa": "ləʃonotɑm",
+      "korean": "레쇼노탐",
+      "letters": "לְ(le) + שֹׁ(sho) + נֹ(no) + תָ(ta) + ם(m)",
+      "root": "לָשׁוֹן (라숀)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"language\"><stop offset=\"0%\" stop-color=\"#1ABC9C\" /><stop offset=\"100%\" stop-color=\"#16A085\" /></linearGradient></defs><text x=\"32\" y=\"20\" font-family=\"Arial\" font-size=\"16\" fill=\"url(#language)\" text-anchor=\"middle\">א</text><text x=\"32\" y=\"36\" font-family=\"Arial\" font-size=\"16\" fill=\"url(#language)\" text-anchor=\"middle\">A</text><text x=\"32\" y=\"52\" font-family=\"Arial\" font-size=\"16\" fill=\"url(#language)\" text-anchor=\"middle\">文</text></svg>",
+      "relatedWords": [
+        "לָשׁוֹן (라숀 - 혀, 언어)",
+        "דִּבֵּר (디베르 - 말하다)"
+      ]
+    },
+    {
+      "hebrew": "אַרְצֹתָם",
+      "meaning": "그들의 땅들",
+      "ipa": "ʔɑrtsotɑm",
+      "korean": "아르초탐",
+      "letters": "אַ(ar) + רְ(r) + צֹ(tso) + תָ(ta) + ם(m)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lands\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#229954\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"20\" height=\"16\" fill=\"url(#lands)\" opacity=\"0.6\" /><rect x=\"22\" y=\"28\" width=\"20\" height=\"16\" fill=\"url(#lands)\" opacity=\"0.7\" /><rect x=\"36\" y=\"32\" width=\"20\" height=\"16\" fill=\"url(#lands)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "נַחֲלָה (나할라 - 기업, 유산)"
+      ]
+    },
+    {
+      "hebrew": "גוֹיֵהֶם",
+      "meaning": "그들의 나라들",
+      "ipa": "gojɛˈhɛm",
+      "korean": "고예헴",
+      "letters": "גּ(go) + וֹ(vo) + יֵ(ye) + הֶ(he) + ם(m)",
+      "root": "גּוֹי (고이)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#nations)\" stroke-width=\"3\" /><path d=\"M 32 8 L 36 28 L 56 28 L 40 40 L 46 60 L 32 48 L 18 60 L 24 40 L 8 28 L 28 28 Z\" fill=\"url(#nations)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "גּוֹי (고이 - 민족, 나라)",
+        "מַמְלָכָה (맘라카 - 왕국)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "함의 자손들에 대한 기록을 마무리하는 요약 구절입니다. 족속, 언어, 지방, 나라라는 네 가지 범주로 함의 후손들을 분류하며, 민족들의 다양성과 조직화를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "족속 (Families)",
+        "description": "'미쉬프호탐'은 혈연으로 연결된 가족 단위를 의미합니다. 이는 민족 구성의 가장 기본적인 단위로, 공동의 조상에서 나온 확대 가족을 나타냅니다.",
+        "points": [
+          "가족은 사회 구성의 기본 단위입니다",
+          "혈연에 기반한 정체성을 나타냅니다",
+          "확대 가족 또는 씨족을 의미합니다",
+          "하나님께서 가족 제도를 중요하게 여기심을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "언어 (Languages)",
+        "description": "'릴쇼노탐'은 각 민족이 고유한 언어를 가졌음을 나타냅니다. 바벨탑 사건 이후 언어가 나뉘어진 결과를 보여주며, 의사소통의 다양성을 나타냅니다.",
+        "points": [
+          "바벨탑 사건으로 언어가 분리되었습니다 (창세기 11장)",
+          "언어는 민족 정체성의 중요한 표지입니다",
+          "각 언어는 독특한 문화와 사고방식을 반영합니다",
+          "언어의 다양성은 하나님의 창조적 지혜를 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "지방 (Lands)",
+        "description": "'베아르초탐'은 각 민족이 거주하는 지리적 영역을 의미합니다. 하나님께서 각 민족에게 거할 땅을 정해주셨음을 보여줍니다.",
+        "points": [
+          "하나님께서 각 민족의 거주 경계를 정하셨습니다 (신명기 32:8)",
+          "지리적 환경이 문화와 생활방식을 형성합니다",
+          "땅은 하나님이 주시는 기업입니다",
+          "각 민족은 정해진 영토를 가졌습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "나라 (Nations)",
+        "description": "'베고예헴'은 정치적으로 조직된 국가를 의미합니다. 족속들이 모여 언어를 공유하고 땅에 정착하여 결국 국가를 형성했음을 보여줍니다.",
+        "points": [
+          "가족에서 씨족, 부족, 국가로 발전했습니다",
+          "정치적 조직화는 인간 사회의 자연스러운 발전입니다",
+          "각 나라는 고유한 정체성과 통치 체계를 가졌습니다",
+          "하나님은 모든 나라의 주권자이십니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람들을 다른 족속, 언어, 땅, 나라로 나누셨을까요?",
+      "answer": "하나님께서 사람들을 다양한 민족으로 나누신 것은 벌을 주시기 위해서가 아니라, 더 풍성한 세상을 만들기 위해서예요. 마치 정원에 한 종류의 꽃만 있는 것보다 여러 가지 색깔과 모양의 꽃들이 있으면 더 아름다운 것처럼, 하나님은 다양한 민족과 문화를 통해 세상을 더 풍요롭게 만드셨어요. 또한 각 민족이 하나님을 찾고 그분께 나아오기를 원하셨답니다. 모든 민족이 결국 하나님께로 돌아와 하나가 되는 것이 하나님의 계획이에요.",
+      "bibleReferences": [
+        "사도행전 17:26-27 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되'",
+        "요한계시록 7:9 - '이 일 후에 내가 보니 각 나라와 족속과 백성과 방언에서 아무도 능히 셀 수 없는 큰 무리가 나와 흰 옷을 입고 손에 종려 가지를 들고 보좌 앞과 어린 양 앞에 서서'",
+        "시편 86:9 - '주께서 만드신 모든 나라들이 와서 주 앞에 엎드려 주의 이름에 영화를 돌리리니'",
+        "창세기 12:3 - '너를 축복하는 자에게는 내가 복을 내리고 너를 저주하는 자에게는 내가 저주하리니 땅의 모든 족속이 너로 말미암아 복을 얻을 것이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 요약 구절은 하나님의 질서정연한 창조와 섭리를 보여줍니다. 족속-언어-땅-나라라는 네 단계는 인간 사회의 자연스러운 발전 과정을 나타내며, 각 단계마다 하나님의 주권이 작용했음을 보여줍니다. 또한 이는 신약시대 복음이 '모든 족속과 백성과 방언과 나라'에 전파될 것을 예표합니다. 하나님은 바벨탑에서 나누신 민족들을 오순절 성령강림으로 다시 하나로 모으시는 구속의 역사를 이루십니다."
+    }
+  }
+}

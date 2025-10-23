@@ -1,0 +1,135 @@
+{
+  "id": "genesis_5_29",
+  "reference": "Genesis 5:29",
+  "hebrew": "וַיִּקְרָ֧א אֶת־שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶ֞ה יְנַחֲמֵ֤נוּ מִֽמַּעֲשֵׂ֙נוּ֙ וּמֵעִצְּב֣וֹן יָדֵ֔ינוּ מִן־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהוָֽה",
+  "ipa": "vajjiqˈra ʔɛt ʃəˈmo ˈnoah leˈʔmor ze jənahaˈmenu mimaʕəˈsenu umeʕitsəˈvon jaˈdenu min haʔəˈdama ʔəˈʃɛr ʔeˈrəra jəhˈwa",
+  "koreanPronunciation": "바이크라 에트 쉐모 노아흐 레모르 제 예나하메누 미마아세누 우메이츠본 야데누 민 하아다마 아셰르 에레라 예호와",
+  "modern": "그가 그의 이름을 노아라 하며 말하기를 '여호와께서 저주하신 땅으로 인해 우리가 수고롭게 일하는 것을 이 아들이 우리에게 위로할 것이다'라고 하였습니다",
+  "words": [
+    {
+      "hebrew": "נֹ֖חַ",
+      "meaning": "노아",
+      "ipa": "ˈnoah",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(ah)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"50%\" stop-color=\"#357ABD\" /><stop offset=\"100%\" stop-color=\"#2C5F8D\" /></linearGradient><linearGradient id=\"ark29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"rest29\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#rest29)\" /><path d=\"M 16 44 Q 16 40 20 38 L 44 38 Q 48 40 48 44 L 48 52 Q 48 54 44 54 L 20 54 Q 16 54 16 52 Z\" fill=\"url(#ark29)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"20\" y=\"30\" width=\"24\" height=\"8\" rx=\"1\" fill=\"url(#ark29)\" opacity=\"0.8\" /><rect x=\"18\" y=\"24\" width=\"28\" height=\"6\" rx=\"1\" fill=\"url(#ark29)\" opacity=\"0.7\" /><g opacity=\"0.6\"><rect x=\"24\" y=\"42\" width=\"3\" height=\"8\" fill=\"#654321\" /><rect x=\"30\" y=\"42\" width=\"3\" height=\"8\" fill=\"#654321\" /><rect x=\"37\" y=\"42\" width=\"3\" height=\"8\" fill=\"#654321\" /></g><g opacity=\"0.8\"><circle cx=\"32\" cy=\"12\" r=\"8\" fill=\"url(#rest29)\" filter=\"drop-shadow(0 0 10px rgba(74, 144, 226, 0.6))\" /><path d=\"M 28 12 L 32 6 L 36 12\" fill=\"#4A90E2\" opacity=\"0.7\" /><path d=\"M 26 14 Q 32 16 38 14\" stroke=\"#4A90E2\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></g></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 위로하다)",
+        "מְנוּחָה (메누하 - 안식, 휴식)"
+      ]
+    },
+    {
+      "hebrew": "יְנַחֲמֵ֤נוּ",
+      "meaning": "우리를 위로할 것이다",
+      "ipa": "jənahaˈmenu",
+      "korean": "예나하메누",
+      "letters": "יְ(yə) + נַ(na) + חֲ(ha) + מֵנוּ(menu)",
+      "root": "נ-ח-ם (나함)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"comfort29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFC3A0\" /><stop offset=\"100%\" stop-color=\"#FFAFBD\" /></linearGradient><radialGradient id=\"warmth29\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFC3A0\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#warmth29)\" /><path d=\"M 20 28 Q 18 32 20 36 Q 22 38 24 38 Q 28 38 28 34 L 28 28 Q 28 24 24 24 Q 20 24 20 28 Z\" fill=\"url(#comfort29)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\" /><path d=\"M 44 28 Q 46 32 44 36 Q 42 38 40 38 Q 36 38 36 34 L 36 28 Q 36 24 40 24 Q 44 24 44 28 Z\" fill=\"url(#comfort29)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"44\" r=\"6\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 38 Q 22 40 24 42 Q 28 46 32 46 Q 36 46 40 42 Q 42 40 44 38\" stroke=\"url(#comfort29)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><g opacity=\"0.7\"><circle cx=\"22\" cy=\"16\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /><circle cx=\"42\" cy=\"16\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></g></svg>",
+      "relatedWords": [
+        "נָחַם (나함 - 위로하다)",
+        "נֶחָמָה (네하마 - 위로)"
+      ]
+    },
+    {
+      "hebrew": "מַעֲשֵׂ֙נוּ֙",
+      "meaning": "우리의 수고",
+      "ipa": "maʕəˈsenu",
+      "korean": "마아세누",
+      "letters": "מַ(ma) + עֲ(ʕa) + שֵׂנוּ(senu)",
+      "root": "מַעֲשֶׂה (마아세)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"work29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#6F5436\" /></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"32\" height=\"20\" rx=\"2\" fill=\"url(#work29)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 32 L 28 20 L 36 20 L 40 32\" stroke=\"#8B4513\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 40 L 18 48 L 20 52\" stroke=\"#8B4513\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 44 40 L 46 48 L 44 52\" stroke=\"#8B4513\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><g opacity=\"0.5\"><line x1=\"26\" y1=\"42\" x2=\"38\" y2=\"42\" stroke=\"#654321\" stroke-width=\"2\" /><line x1=\"26\" y1=\"46\" x2=\"38\" y2=\"46\" stroke=\"#654321\" stroke-width=\"2\" /><line x1=\"26\" y1=\"50\" x2=\"38\" y2=\"50\" stroke=\"#654321\" stroke-width=\"2\" /></g></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 하다, 만들다)",
+        "מַעֲשֶׂה (마아세 - 일, 행위)"
+      ]
+    },
+    {
+      "hebrew": "עִצְּב֣וֹן יָדֵ֔ינוּ",
+      "meaning": "우리 손의 고통",
+      "ipa": "ʕitsəˈvon jaˈdenu",
+      "korean": "이츠본 야데누",
+      "letters": "עִ(ʕi) + צְּבוֹן(tsəvon) + יָ(ja) + דֵינוּ(denu)",
+      "root": "עֶצֶב (에체브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pain29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><path d=\"M 20 32 Q 20 28 24 28 L 28 28 L 28 24 L 32 24 L 32 20 L 36 20 L 36 24 L 40 24 L 40 28 L 44 28 Q 48 28 48 32 L 48 48 Q 48 52 44 52 L 20 52 Q 16 52 16 48 L 16 32 Q 16 28 20 32\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><g opacity=\"0.6\"><circle cx=\"24\" cy=\"38\" r=\"2\" fill=\"#E74C3C\" /><circle cx=\"32\" cy=\"38\" r=\"2\" fill=\"#E74C3C\" /><circle cx=\"40\" cy=\"38\" r=\"2\" fill=\"#E74C3C\" /><line x1=\"20\" y1=\"44\" x2=\"44\" y2=\"44\" stroke=\"#E74C3C\" stroke-width=\"2\" stroke-dasharray=\"2,2\" /></g></svg>",
+      "relatedWords": [
+        "עֶצֶב (에체브 - 고통, 슬픔)",
+        "עָצַב (아차브 - 아프게 하다)"
+      ]
+    },
+    {
+      "hebrew": "הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהוָֽה",
+      "meaning": "여호와께서 저주하신 땅",
+      "ipa": "haʔəˈdama ʔəˈʃɛr ʔeˈrəra jəhˈwa",
+      "korean": "하아다마 아셰르 에레라 예호와",
+      "letters": "הָ(ha) + אֲ(ʔa) + דָמָה(dama) + אֲ(ʔa) + שֶׁר(ʃɛr) + אֵרְרָהּ(ʔerəra) + יְהוָה(jəhwa)",
+      "root": "אֲדָמָה + אָרַר (아다마 + 아라르)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cursed29\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7F8C8D\" /><stop offset=\"100%\" stop-color=\"#34495E\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"12\" fill=\"url(#cursed29)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.4))\" /><g opacity=\"0.7\"><path d=\"M 16 44 Q 18 38 22 42 Q 24 44 26 40 Q 28 36 30 42 Q 32 46 34 40 Q 36 34 38 42 Q 40 48 42 42 Q 44 38 48 44\" stroke=\"#5D4037\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></g><g opacity=\"0.5\"><circle cx=\"20\" cy=\"40\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"28\" cy=\"38\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"36\" cy=\"40\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"44\" cy=\"38\" r=\"2\" fill=\"#8B4513\" /></g><path d=\"M 24 36 L 26 32 L 28 36\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 36 34 L 38 30 L 40 34\" stroke=\"#654321\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "אָרַר (아라르 - 저주하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 29절은 라멕이 아들의 이름을 노아('안식', '위로')라고 지으며, 이 아들이 여호와께서 저주하신 땅으로 인한 수고와 고통에서 위로를 줄 것이라고 예언한 구절입니다. 이는 노아의 사명과 홍수 이후 새로운 시작을 예표합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "נֹחַ (노아흐) - 안식과 위로",
+        "description": "노아의 이름은 '안식', '쉼', '위로'를 의미합니다. 라멕은 이 아들이 저주받은 땅에서의 고된 노동으로부터 위로를 가져다줄 것을 기대했습니다. 실제로 노아는 홍수 후 포도나무를 심어 농사의 새로운 시작을 열었고, 더 나아가 새로운 세상의 시작을 가져왔습니다.",
+        "points": [
+          "노아는 '안식'과 '위로'의 상징입니다",
+          "그의 이름 자체가 예언적 의미를 담고 있습니다",
+          "노아를 통해 새로운 시대가 시작됩니다",
+          "그는 인류를 멸망에서 구원하는 도구가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "저주받은 땅의 고통",
+        "description": "라멕은 '여호와께서 저주하신 땅'으로 인한 수고와 고통을 언급합니다. 이는 아담의 타락 이후 땅이 저주받아 가시덤불과 엉겅퀴를 낼 것이며(창 3:17-19), 인간이 얼굴에 땀을 흘려야 먹을 것을 얻게 된 상황을 가리킵니다.",
+        "points": [
+          "죄의 결과로 땅이 저주받았습니다",
+          "인간의 노동이 고통스럽게 되었습니다",
+          "창조의 질서가 왜곡되었습니다",
+          "구원은 이러한 저주의 역전을 포함합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "위로와 구원의 예언",
+        "description": "라멕의 예언 '이 아들이 우리를 위로할 것이다'는 부분적으로 노아를 통해 성취되었지만, 궁극적으로는 메시아 예수 그리스도를 가리킵니다. 노아는 홍수를 통한 심판과 구원의 도구였으며, 이는 그리스도의 구원 사역을 예표합니다.",
+        "points": [
+          "노아는 메시아의 예표입니다",
+          "진정한 위로와 안식은 그리스도 안에 있습니다",
+          "구원은 심판과 새로운 창조를 통해 옵니다",
+          "그리스도는 저주를 대신 받으시고 축복을 주십니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "땅이 왜 저주받았나요?",
+      "answer": "처음에 하나님은 땅을 아주 좋게 만드셨어요. 땅에서 맛있는 과일과 채소가 쉽게 자랐죠. 하지만 아담과 하와가 하나님의 말씀을 듣지 않고 금지된 열매를 먹었을 때, 땅도 함께 아프게 되었어요. 그래서 이제는 가시덤불과 잡초가 자라고, 농사 짓는 것이 힘들어졌답니다. 마치 우리가 아플 때 몸이 제대로 움직이지 않는 것처럼, 땅도 죄 때문에 아프게 된 거예요. 하지만 기쁜 소식이 있어요! 예수님이 오셔서 우리의 죄를 용서해주시고, 언젠가 이 땅도 다시 건강하고 아름답게 만들어주실 거예요. 노아는 그 희망의 시작이었답니다!",
+      "bibleReferences": [
+        "창세기 3:17-19 - '땅은 너로 말미암아 저주를 받고 너는 네 평생에 수고하여야 그 소산을 먹으리라 땅이 네게 가시덤불과 엉겅퀴를 낼 것이라'",
+        "로마서 8:20-22 - '피조물이 허무한 데 굴복하는 것은 자기 뜻이 아니요 오직 굴복하게 하시는 이로 말미암음이라 그 바라는 것은 피조물도 썩어짐의 종 노릇 한 데서 해방되어 하나님의 자녀들의 영광의 자유에 이르는 것이니라'",
+        "이사야 65:17 - '보라 내가 새 하늘과 새 땅을 창조하나니 이전 것은 기억되거나 마음에 생각나지 아니할 것이라'",
+        "요한계시록 22:3 - '다시 저주가 없으며 하나님과 그 어린 양의 보좌가 그 가운데에 있으리니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5장 29절은 타락한 세계 속에서의 구원의 소망을 보여줍니다. 라멕이 노아의 이름에 담은 기대는 단순히 농사일의 경감이 아니라, 저주받은 창조 질서의 회복에 대한 열망이었습니다. 노아는 홍수를 통해 옛 세계를 심판하고 새로운 세계를 시작하는 도구가 되었으며, 이는 그리스도께서 십자가를 통해 옛 사람을 심판하고 새 사람을 창조하시는 구속 사역을 예표합니다. '여호와께서 저주하신 땅'은 죄로 인해 왜곡된 창조 질서를 가리키며, 노아를 통한 위로는 궁극적으로 그리스도를 통해 성취됩니다. 그리스도는 우리를 위해 저주가 되심으로써(갈 3:13), 진정한 안식과 위로를 주시고, 새 하늘과 새 땅에서 저주가 완전히 제거될 것입니다(계 22:3)."
+    }
+  }
+}

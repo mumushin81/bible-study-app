@@ -1,0 +1,132 @@
+{
+  "id": "genesis_15_11",
+  "reference": "창세기 15:11",
+  "hebrew": "וַיֵּרֶד הָעַיִט, עַל-הַפְּגָרִים; וַיַּשֵּׁב אֹתָם, אַבְרָם.",
+  "ipa": "ʔavˈram ʔoˈtam vajjaʃˈʃev happəɡaˈrim ʕal haʕaˈjit vajˈjered",
+  "koreanPronunciation": "아브람 오탐 바야쉐브, 하페가림 알 하아이트 바예레드",
+  "modern": "솔개들이 그 사체들 위에 내려앉으려 하자, 아브람이 그것들을 쫓아버렸습니다",
+  "words": [
+    {
+      "hebrew": "וַיֵּרֶד",
+      "meaning": "그리고 내려왔다",
+      "ipa": "vajˈjered",
+      "korean": "바예레드",
+      "letters": "וַ(va) + יֵּ(ye) + רֶ(re) + ד(d)",
+      "root": "י-ר-ד (야라드)",
+      "grammar": "동사",
+      "emoji": "⬇️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds11-descend1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"birds11-down1\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#birds11-down1)\" /><path d=\"M 32 12 L 32 44\" stroke=\"url(#birds11-descend1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 44 L 24 36 L 28 38 L 32 44 L 36 38 L 40 36 Z\" fill=\"url(#birds11-descend1)\" filter=\"drop-shadow(0 2px 4px rgba(118, 75, 162, 0.5))\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#667EEA\" opacity=\"0.6\" filter=\"drop-shadow(0 0 4px rgba(102, 126, 234, 0.6))\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"#667EEA\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"28\" r=\"2\" fill=\"#667EEA\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "הָעַיִט",
+      "meaning": "솔개, 맹금류",
+      "ipa": "haʕaˈjit",
+      "korean": "하아이트",
+      "letters": "הָ(ha) + עַ(a) + יִ(yi) + ט(t)",
+      "root": "ע-י-ט (아이트)",
+      "grammar": "명사",
+      "emoji": "🦅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds11-bird1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2C3E50\" /><stop offset=\"100%\" stop-color=\"#34495E\" /></linearGradient><linearGradient id=\"birds11-wing1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#34495E\" /><stop offset=\"100%\" stop-color=\"#2C3E50\" /></linearGradient><radialGradient id=\"birds11-eye1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><ellipse cx=\"36\" cy=\"28\" rx=\"10\" ry=\"12\" fill=\"url(#birds11-bird1)\" filter=\"drop-shadow(0 4px 8px rgba(44, 62, 80, 0.6))\" /><path d=\"M 14 22 Q 10 18 8 20 Q 6 24 10 28 Q 14 32 20 32 Q 24 30 28 26 Z\" fill=\"url(#birds11-wing1)\" opacity=\"0.9\" filter=\"drop-shadow(0 3px 6px rgba(52, 73, 94, 0.5))\" /><path d=\"M 48 22 Q 52 18 56 20 Q 58 24 54 28 Q 50 32 44 32 Q 40 30 36 26 Z\" fill=\"url(#birds11-wing1)\" opacity=\"0.9\" filter=\"drop-shadow(0 3px 6px rgba(52, 73, 94, 0.5))\" /><circle cx=\"38\" cy=\"26\" r=\"2.5\" fill=\"url(#birds11-eye1)\" filter=\"drop-shadow(0 0 3px rgba(255, 107, 53, 0.8))\" /><circle cx=\"39\" cy=\"25.5\" r=\"1\" fill=\"#000000\" /><path d=\"M 40 28 L 44 30 Q 45 31 44 32\" stroke=\"#C41E3A\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 18 L 28 14 L 30 16 Z\" fill=\"#2C3E50\" /></svg>"
+    },
+    {
+      "hebrew": "עַל-הַפְּגָרִים",
+      "meaning": "사체들 위에",
+      "ipa": "happəɡaˈrim ʕal",
+      "korean": "하페가림 알",
+      "letters": "עַ(al) + ל(l) + הַ(ha) + פְּ(pe) + גָ(ga) + רִ(ri) + ים(m)",
+      "root": "פ-ג-ר (파가르)",
+      "grammar": "명사",
+      "emoji": "💀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds11-carcass1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><radialGradient id=\"birds11-death1\"><stop offset=\"0%\" stop-color=\"#696969\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" stop-opacity=\"0.3\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"24\" ry=\"8\" fill=\"url(#birds11-death1)\" opacity=\"0.4\" /><ellipse cx=\"22\" cy=\"32\" rx=\"10\" ry=\"12\" fill=\"url(#birds11-carcass1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.5))\" /><ellipse cx=\"42\" cy=\"32\" rx=\"10\" ry=\"12\" fill=\"url(#birds11-carcass1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.5))\" /><ellipse cx=\"32\" cy=\"26\" rx=\"8\" ry=\"10\" fill=\"url(#birds11-carcass1)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(160, 82, 45, 0.4))\" /><line x1=\"18\" y1=\"32\" x2=\"26\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" opacity=\"0.3\" /><line x1=\"38\" y1=\"32\" x2=\"46\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "וַיַּשֵּׁב אֹתָם",
+      "meaning": "그리고 그것들을 쫓아냈다",
+      "ipa": "ʔoˈtam vajjaʃˈʃev",
+      "korean": "오탐 바야쉐브",
+      "letters": "וַ(va) + יַּ(ya) + שֵּׁ(she) + ב(v) + אֹ(o) + תָ(ta) + ם(m)",
+      "root": "ש-ו-ב (슈브)",
+      "grammar": "동사",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds11-drive1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"100%\" stop-color=\"#64DD17\" /></linearGradient><radialGradient id=\"birds11-protect1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"birds11-shield1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#birds11-protect1)\" /><path d=\"M 32 12 Q 42 16 46 26 L 46 36 Q 42 46 32 52 Q 22 46 18 36 L 18 26 Q 22 16 32 12 Z\" fill=\"url(#birds11-shield1)\" filter=\"drop-shadow(0 4px 8px rgba(30, 144, 255, 0.5))\" /><path d=\"M 28 32 L 30 34 L 36 28\" stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" stroke=\"url(#birds11-drive1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "אַבְרָם",
+      "meaning": "아브람",
+      "ipa": "ʔavˈram",
+      "korean": "아브람",
+      "letters": "אַ(a) + בְ(v) + רָ(ra) + ם(m)",
+      "root": "אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds11-abram1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#A0826D\" /></linearGradient><radialGradient id=\"birds11-faith1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#birds11-faith1)\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#birds11-abram1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 115, 85, 0.4))\" /><path d=\"M 32 32 Q 28 32 24 34 L 24 44 Q 24 48 28 50 L 36 50 Q 40 48 40 44 L 40 34 Q 36 32 32 32 Z\" fill=\"url(#birds11-abram1)\" filter=\"drop-shadow(0 3px 6px rgba(160, 130, 109, 0.4))\" /><circle cx=\"29\" cy=\"23\" r=\"1.5\" fill=\"#000000\" /><circle cx=\"35\" cy=\"23\" r=\"1.5\" fill=\"#000000\" /><path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#654321\" stroke-width=\"1\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"32\" cy=\"16\" rx=\"6\" ry=\"2\" fill=\"#654321\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אַבְרָהָם (아브라함 - 많은 민족의 아버지)",
+        "אָב (아브 - 아버지)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 11절은 언약 의식 중 발생한 긴장의 순간을 보여줍니다. 솔개들이 쪼개진 제물 위로 내려오는 것은 단순한 자연 현상이 아니라, 하나님의 언약을 방해하려는 영적 세력의 상징입니다. 아브람이 끈질기게 새들을 쫓아낸 것은 하나님의 약속을 지키기 위한 믿음의 행동입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הָעַיִט (하아이트) - 솔개, 불결한 새",
+        "description": "히브리어 '아이트'는 맹금류, 특히 솔개나 독수리를 가리킵니다. 레위기 11:13-14에서 부정한 새로 분류되며, 사체를 먹는 새입니다. 이 새들이 나타난 것은 하나님의 거룩한 언약 의식을 더럽히려는 시도를 상징합니다.",
+        "points": [
+          "부정하고 불결한 새, 레위기에서 먹지 말라고 금지됨",
+          "사체를 먹는 습성, 죽음과 부패를 상징",
+          "하나님의 거룩한 의식을 방해하는 영적 세력의 상징"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיֵּרֶד (바예레드) - 내려왔다, 침입하다",
+        "description": "'야라드'는 '내려오다', '하강하다'를 의미합니다. 새들이 하늘에서 내려와 제물을 더럽히려는 것은 사탄이 하나님의 일을 방해하려는 모습을 연상시킵니다. 욥기 1장에서도 사탄이 '땅에 두루 돌아다니다가' 욥을 시험하려 왔습니다.",
+        "points": [
+          "위에서 아래로의 공격, 하늘에서 내려오는 위협",
+          "언약 의식을 방해하려는 의도적인 침입",
+          "영적 전쟁의 시각적 표현"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הַפְּגָרִים (하페가림) - 사체들, 쪼개진 제물",
+        "description": "'페게르'는 '시체', '사체'를 의미하며, 여기서는 언약을 위해 쪼개진 동물들을 가리킵니다. 이 제물들은 하나님의 언약의 엄숙함을 상징하는 거룩한 것이므로, 부정한 새들에게 더럽혀져서는 안 됩니다.",
+        "points": [
+          "언약의 표징인 거룩한 제물",
+          "부정한 것으로 더럽혀질 위험에 처함",
+          "지켜야 할 신성한 언약의 상징"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיַּשֵּׁב אֹתָם אַבְרָם (바야쉐브 오탐 아브람) - 아브람이 그것들을 쫓아냈다",
+        "description": "'야쉐브'는 본래 '돌아가게 하다', '되돌리다'를 의미합니다. 아브람은 계속해서 새들을 쫓아냈으며, 이는 하나님의 약속을 지키기 위한 끊임없는 영적 경계를 보여줍니다. 야고보서 4:7처럼 '마귀를 대적하라 그리하면 너희를 피하리라'는 원리를 실천한 것입니다.",
+        "points": [
+          "수동적이 아닌 능동적인 믿음의 행동",
+          "끊임없는 영적 경계와 싸움",
+          "하나님의 약속을 지키기 위한 인간의 책임"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 새들이 계속 내려왔고, 아브람은 왜 그것들을 쫓아냈을까요?",
+      "answer": "새들은 죽은 동물의 냄새를 맡고 먹으러 온 거예요. 하지만 그 동물들은 하나님과 아브람의 중요한 약속을 위한 것이었기 때문에, 더러워지면 안 되었어요. 아브람은 하나님의 약속을 소중히 여겼기 때문에 새들이 올 때마다 계속 쫓아냈답니다. 마치 우리가 소중한 것을 지킬 때 계속 노력하는 것처럼, 아브람도 하나님의 약속을 지키기 위해 끝까지 노력했어요. 이것은 우리에게 좋은 것을 지키려면 계속 노력해야 한다는 것을 가르쳐줘요.",
+      "bibleReferences": [
+        "레위기 11:13-14 - '새 중에 너희가 가증히 여길 것은... 솔개와 매 종류'",
+        "야고보서 4:7 - '마귀를 대적하라 그리하면 그가 너희를 피하리라'",
+        "에베소서 6:11 - '마귀의 간계를 능히 대적하기 위하여 하나님의 전신 갑주를 입으라'",
+        "베드로전서 5:8 - '너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "새들의 공격과 아브람의 방어는 영적 전쟁의 실재를 보여줍니다. 하나님의 약속이 주어질 때마다 그것을 방해하려는 세력이 있습니다. 그러나 우리는 아브람처럼 끊임없이 경계하고 대적해야 합니다. 하나님의 약속은 우리의 수동적 기다림이 아니라 능동적 믿음과 순종을 요구합니다. 아브람이 새들을 쫓아낸 것처럼, 우리도 하나님의 약속을 더럽히려는 모든 시도를 물리쳐야 합니다."
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "genesis_2_4",
+  "reference": "창세기 2:4",
+  "hebrew": "אֵלֶּה תוֹלְדוֹת הַשָּׁמַיִם וְהָאָרֶץ, בְּהִבָּרְאָם:  בְּיוֹם, עֲשׂוֹת יְהוָה אֱלֹהִים--אֶרֶץ וְשָׁמָיִם.",
+  "ipa": "ˈɛllɛ toləˈdot haʃaˈmajim vəhaˈʔarɛts bəhibbaˈrəʔam bəˈjom ʔɑˈsot ʔadoˈnaj ʔɛloˈhim ˈɛrɛts vəʃaˈmajim",
+  "koreanPronunciation": "엘레 톨도트 하샤마임 베하아레츠 베히바레암 베욤 아소트 아도나이 엘로힘 에레츠 베샤마임",
+  "modern": "이것이 하늘과 땅이 창조될 때의 역사입니다. 여호와 하나님께서 땅과 하늘을 만드신 날에",
+  "words": [
+    {
+      "hebrew": "אֵלֶּה",
+      "meaning": "이것이, 이들이",
+      "ipa": "ˈɛllɛ",
+      "korean": "엘레",
+      "letters": "אֵ(e) + לֶּ(lle) + ה(h)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow1)\" opacity=\"0.4\" /><path d=\"M 12 32 L 38 32 L 32 26 M 38 32 L 32 38\" stroke=\"url(#point1)\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(102, 126, 234, 0.6))\" /><circle cx=\"48\" cy=\"32\" r=\"6\" fill=\"url(#point1)\" filter=\"drop-shadow(0 2px 6px rgba(102, 126, 234, 0.8))\" /><circle cx=\"48\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 이쪽으로)",
+        "זֶה (제 - 이것)"
+      ]
+    },
+    {
+      "hebrew": "תוֹלְדוֹת",
+      "meaning": "역사, 세대, 출생",
+      "ipa": "toləˈdot",
+      "korean": "톨도트",
+      "letters": "תּוֹ(to) + לְ(lə) + דוֹ(do) + ת(t)",
+      "root": "י-ל-ד (야라드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"scroll1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F3E5AB\" /><stop offset=\"50%\" stop-color=\"#E8D68A\" /><stop offset=\"100%\" stop-color=\"#D4AF37\" /></linearGradient><linearGradient id=\"rod1\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"4\" height=\"40\" rx=\"2\" fill=\"url(#rod1)\" filter=\"drop-shadow(2px 0 3px rgba(0, 0, 0, 0.4))\" /><rect x=\"52\" y=\"12\" width=\"4\" height=\"40\" rx=\"2\" fill=\"url(#rod1)\" filter=\"drop-shadow(-2px 0 3px rgba(0, 0, 0, 0.4))\" /><path d=\"M 12 16 Q 32 12 52 16 L 52 48 Q 32 52 12 48 Z\" fill=\"url(#scroll1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><line x1=\"20\" y1=\"24\" x2=\"44\" y2=\"24\" stroke=\"#8B4513\" stroke-width=\"1.5\" opacity=\"0.6\" /><line x1=\"20\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#8B4513\" stroke-width=\"1.5\" opacity=\"0.6\" /><line x1=\"20\" y1=\"40\" x2=\"44\" y2=\"40\" stroke=\"#8B4513\" stroke-width=\"1.5\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "יָלַד (야라드 - 낳다, 출생하다)",
+        "דּוֹר (도르 - 세대)"
+      ]
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ",
+      "meaning": "하늘과 땅",
+      "ipa": "haʃaˈmajim vəhaˈʔarɛts",
+      "korean": "하샤마임 베하아레츠",
+      "letters": "הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim) + וְ(və) + הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "שָׁמַיִם (샤마임) + אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"50%\" stop-color=\"#5FA3E8\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><radialGradient id=\"earth2\"><stop offset=\"0%\" stop-color=\"#8BC34A\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></radialGradient><linearGradient id=\"divider2\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><rect x=\"0\" y=\"0\" width=\"64\" height=\"28\" fill=\"url(#sky2)\" /><circle cx=\"16\" cy=\"12\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"8\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"14\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"28\" rx=\"30\" ry=\"6\" fill=\"url(#divider2)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(255, 215, 0, 0.6))\" /><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"16\" fill=\"url(#earth2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><circle cx=\"26\" cy=\"44\" r=\"4\" fill=\"#4A90E2\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"50\" r=\"3\" fill=\"#4A90E2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘들)",
+        "אֶרֶץ (에레츠 - 땅, 대지)"
+      ]
+    },
+    {
+      "hebrew": "בְּהִבָּרְאָם",
+      "meaning": "그것들이 창조될 때",
+      "ipa": "bəhibbaˈrəʔam",
+      "korean": "베히바레암",
+      "letters": "בְּ(bə) + הִ(hi) + בָּ(bba) + רְ(rə) + אָ(ʔa) + ם(m)",
+      "root": "ב-ר-א (바라)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"create2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"40%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"spark2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#create2)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g opacity=\"0.9\"><path d=\"M 32 10 L 34 24 L 32 38 L 30 24 Z\" fill=\"url(#spark2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><path d=\"M 10 32 L 24 30 L 38 32 L 24 34 Z\" fill=\"url(#spark2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><path d=\"M 18 18 L 28 28 L 46 46 L 36 36 Z\" fill=\"url(#spark2)\" opacity=\"0.8\" /><path d=\"M 46 18 L 36 28 L 18 46 L 28 36 Z\" fill=\"url(#spark2)\" opacity=\"0.8\" /></g><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בָּרָא (바라 - 창조하다)",
+        "בְּרִיאָה (브리아 - 창조물)"
+      ]
+    },
+    {
+      "hebrew": "בְּיוֹם",
+      "meaning": "날에, 그 날에",
+      "ipa": "bəˈjom",
+      "korean": "베욤",
+      "letters": "בְּ(bə) + יוֹ(yo) + ם(m)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sun3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE66D\" /><stop offset=\"50%\" stop-color=\"#FFD23F\" /><stop offset=\"100%\" stop-color=\"#FFAD0A\" /></linearGradient><linearGradient id=\"moon3\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#9E9E9E\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"6\" fill=\"#FFFFFF\" stroke=\"#666666\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.2))\" /><line x1=\"16\" y1=\"14\" x2=\"16\" y2=\"8\" stroke=\"#666666\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"14\" x2=\"48\" y2=\"8\" stroke=\"#666666\" stroke-width=\"2\" stroke-linecap=\"round\" /><rect x=\"8\" y=\"20\" width=\"48\" height=\"8\" fill=\"#4A90E2\" opacity=\"0.3\" /><circle cx=\"24\" cy=\"38\" r=\"8\" fill=\"url(#sun3)\" filter=\"drop-shadow(0 0 6px rgba(255, 210, 63, 0.8))\" /><g stroke=\"#FFAD0A\" stroke-width=\"1.5\" opacity=\"0.8\"><line x1=\"24\" y1=\"26\" x2=\"24\" y2=\"28\" /><line x1=\"32\" y1=\"30\" x2=\"30.5\" y2=\"31.5\" /><line x1=\"36\" y1=\"38\" x2=\"34\" y2=\"38\" /><line x1=\"32\" y1=\"46\" x2=\"30.5\" y2=\"44.5\" /></g><path d=\"M 48 38 Q 44 34 40 38 Q 44 42 48 38\" fill=\"url(#moon3)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날, 하루)",
+        "הַיּוֹם (하욤 - 오늘)"
+      ]
+    },
+    {
+      "hebrew": "עֲשׂוֹת",
+      "meaning": "만드실 때, 행하실 때",
+      "ipa": "ʔɑˈsot",
+      "korean": "아소트",
+      "letters": "עֲ(ʔa) + שׂוֹ(so) + ת(t)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tool3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#78909C\" /><stop offset=\"50%\" stop-color=\"#546E7A\" /><stop offset=\"100%\" stop-color=\"#37474F\" /></linearGradient><linearGradient id=\"handle3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></linearGradient><radialGradient id=\"spark3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.5\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"4\" fill=\"#000000\" opacity=\"0.15\" /><rect x=\"20\" y=\"38\" width=\"8\" height=\"18\" rx=\"2\" fill=\"url(#handle3)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 38 L 30 38 L 38 18 L 34 14 L 28 12 L 22 14 L 18 18 Z\" fill=\"url(#tool3)\" stroke=\"#263238\" stroke-width=\"1.5\" filter=\"drop-shadow(3px 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"28\" cy=\"24\" r=\"3\" fill=\"#90A4AE\" opacity=\"0.6\" /><g opacity=\"0.8\"><circle cx=\"42\" cy=\"20\" r=\"3\" fill=\"url(#spark3)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"48\" cy=\"26\" r=\"2\" fill=\"url(#spark3)\" /><circle cx=\"44\" cy=\"32\" r=\"2.5\" fill=\"url(#spark3)\" /></g></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다, 행하다)",
+        "מַעֲשֶׂה (마아세 - 일, 행위)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה אֱלֹהִים",
+      "meaning": "여호와 하나님",
+      "ipa": "ʔadoˈnaj ʔɛloˈhim",
+      "korean": "아도나이 엘로힘",
+      "letters": "יְ(yə) + הוָ(ho) + ה(h) + אֱ(ʔɛ) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "יהוה (야훼) + אֱלֹהִים (엘로힘)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF8F00\" /></linearGradient><radialGradient id=\"jewel3\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></radialGradient><linearGradient id=\"glory3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glory3)\" opacity=\"0.4\" /><path d=\"M 10 42 L 14 30 L 20 34 L 26 26 L 32 22 L 38 26 L 44 34 L 50 30 L 54 42 Z\" fill=\"url(#crown3)\" stroke=\"#F57F17\" stroke-width=\"2\" filter=\"drop-shadow(0 6px 10px rgba(0, 0, 0, 0.4))\" /><rect x=\"10\" y=\"42\" width=\"44\" height=\"8\" rx=\"1\" fill=\"url(#crown3)\" stroke=\"#F57F17\" stroke-width=\"1.5\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"34\" r=\"3\" fill=\"url(#jewel3)\" filter=\"drop-shadow(0 0 4px rgba(233, 30, 99, 0.8))\" /><circle cx=\"32\" cy=\"22\" r=\"4\" fill=\"url(#jewel3)\" filter=\"drop-shadow(0 0 6px rgba(233, 30, 99, 0.9))\" /><circle cx=\"44\" cy=\"34\" r=\"3\" fill=\"url(#jewel3)\" filter=\"drop-shadow(0 0 4px rgba(233, 30, 99, 0.8))\" /><circle cx=\"32\" cy=\"46\" r=\"2.5\" fill=\"#C2185B\" opacity=\"0.8\" /><g stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\"><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"16\" /><line x1=\"16\" y1=\"16\" x2=\"20\" y2=\"22\" /><line x1=\"48\" y1=\"16\" x2=\"44\" y2=\"22\" /></g></svg>",
+      "relatedWords": [
+        "יהוה (여호와 - 주님, 스스로 있는 자)",
+        "אֱלֹהִים (엘로힘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "אֶרֶץ וְשָׁמָיִם",
+      "meaning": "땅과 하늘",
+      "ipa": "ˈɛrɛts vəʃaˈmajim",
+      "korean": "에레츠 베샤마임",
+      "letters": "אֶ(ʔɛ) + רֶץ(rets) + וְ(və) + שָׁ(sha) + מָ(ma) + יִם(yim)",
+      "root": "אֶרֶץ (에레츠) + שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth3\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"60%\" stop-color=\"#43A047\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient><linearGradient id=\"sky3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#64B5F6\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"26\" ry=\"14\" fill=\"url(#earth3)\" filter=\"drop-shadow(0 6px 12px rgba(0, 0, 0, 0.5))\" /><circle cx=\"24\" cy=\"44\" r=\"5\" fill=\"#2196F3\" opacity=\"0.5\" /><circle cx=\"38\" cy=\"48\" r=\"4\" fill=\"#2196F3\" opacity=\"0.4\" /><path d=\"M 20 36 Q 22 32 26 30 Q 30 34 34 32 Q 38 30 42 32\" stroke=\"#558B2F\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><rect x=\"0\" y=\"0\" width=\"64\" height=\"24\" fill=\"url(#sky3)\" opacity=\"0.6\" /><circle cx=\"16\" cy=\"10\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"6\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"12\" r=\"3.5\" fill=\"#FFFFFF\" opacity=\"0.85\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.5))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"32\" ry=\"8\" fill=\"#FFD54F\" opacity=\"0.4\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 2장 4절은 창조 이야기의 중요한 전환점입니다. 1장이 우주적 관점에서 창조를 묘사했다면, 2장부터는 인간 중심의 세밀한 창조 이야기가 시작됩니다. 특히 이 구절에서 처음으로 '여호와 하나님'이라는 이름이 등장하여 하나님의 언약적 관계성을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תוֹלְדוֹת (톨도트) - 세대의 역사",
+        "description": "'톨도트'는 히브리어로 '세대', '출생', '역사'를 의미하는 단어입니다. 창세기 전체를 구조화하는 핵심 단어로, '이것이 ~의 역사다'라는 공식으로 열 번 등장하여 창세기를 열 개의 단락으로 나눕니다. 여기서는 하늘과 땅의 '출생 기록'을 의미합니다.",
+        "points": [
+          "창세기의 구조적 틀을 제공하는 문학적 표지",
+          "창조를 '출생'으로 표현하여 하나님의 생명 부여를 강조",
+          "역사적 사건으로서의 창조를 기록하는 의도",
+          "다음에 올 인간 창조 이야기로의 전환점"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יְהוָה אֱלֹהִים (아도나이 엘로힘) - 언약의 하나님",
+        "description": "1장에서는 '엘로힘'(하나님)만 사용되었으나, 2장부터는 '여호와 엘로힘'(야훼 하나님)이라는 복합 명칭이 등장합니다. '여호와'는 하나님의 개인적이고 언약적인 이름으로, '나는 스스로 있는 자'를 의미합니다. 이는 창조주 하나님이 동시에 관계 맺는 인격적 하나님이심을 나타냅니다.",
+        "points": [
+          "엘로힘: 전능하신 창조주 하나님",
+          "여호와: 언약을 맺고 관계하시는 인격적 하나님",
+          "두 이름의 결합: 우주의 창조주가 동시에 우리의 개인적 하나님",
+          "출애굽기 3:14의 '나는 스스로 있는 자'와 연결"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֶרֶץ וְשָׁמָיִם (에레츠 베샤마임) - 순서의 역전",
+        "description": "흥미롭게도 이 구절에서는 '땅과 하늘'의 순서로 표현됩니다. 1장에서는 항상 '하늘과 땅'이었지만, 여기서는 순서가 바뀝니다. 이는 2장부터 시작될 이야기가 땅, 특히 에덴동산과 인간 창조에 초점을 맞출 것임을 예고합니다.",
+        "points": [
+          "문학적 강조: 이제부터 땅에서 일어날 일에 집중",
+          "신학적 의미: 하나님의 창조 목적은 땅에서 이루어질 것",
+          "인간 중심 내러티브로의 전환 신호",
+          "하늘의 관점에서 땅의 관점으로 초점 이동"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בְּיוֹם עֲשׂוֹת (베욤 아소트) - 창조의 날",
+        "description": "'만드신 날에'라는 표현은 창조를 역사적 사건으로 자리매김합니다. 여기서 '날'(욤)은 특정한 시점을 가리키며, '만들다'(아사)는 1장의 '창조하다'(바라)와 달리 형성하고 조직하는 의미를 담고 있습니다.",
+        "points": [
+          "바라(창조): 무에서 유를 창조하는 절대적 창조",
+          "아사(만들다): 이미 있는 것을 형성하고 조직하는 창조",
+          "역사적 실재로서의 창조 사건 강조",
+          "창조의 과정성과 완성을 모두 포함하는 표현"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 두 가지 이름으로 불리시나요? (여호와 하나님)",
+      "answer": "하나님은 정말 크고 능력이 많으셔서 한 가지 이름으로는 다 표현할 수 없어요. '엘로힘'은 하나님이 온 우주를 만드신 강하고 전능하신 분이라는 뜻이에요. '여호와'는 하나님이 우리와 함께 하시고, 우리를 사랑하시고, 우리와 친구처럼 가까이 계신다는 뜻이랍니다. 마치 우리 아빠를 '아버지'라고도 부르고 이름으로도 부르는 것처럼, 하나님도 여러 이름으로 불리시면서 하나님이 얼마나 멋진 분인지 보여주세요!",
+      "bibleReferences": [
+        "출애굽기 3:14 - '나는 스스로 있는 자니라'",
+        "시편 83:18 - '여호와라 이름하신 주만 온 세계의 지존자로 알게 하소서'",
+        "이사야 42:5 - '하늘을 창조하여 펴시고 땅과 그 소산을 내시며'",
+        "요한복음 1:1-3 - '태초에 말씀이 계시니라...만물이 그로 말미암아 지은 바 되었으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 2장 4절은 우주적 창조에서 개인적 관계로의 전환을 보여줍니다. 창조주 하나님은 동시에 언약의 하나님이시며, 멀리 계신 분이 아니라 우리와 가까이 관계하시는 분입니다. '톨도트'(역사)라는 단어는 창조가 단순한 신화가 아니라 실제 역사임을 선언하며, 이 역사의 중심에는 하나님과 인간의 관계가 있습니다. 이는 궁극적으로 예수 그리스도를 통해 완성되는 '임마누엘'(하나님이 우리와 함께 계시다)의 진리를 예표합니다."
+    }
+  }
+}

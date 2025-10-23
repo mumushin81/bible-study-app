@@ -1,0 +1,132 @@
+{
+  "id": "genesis_13_9",
+  "reference": "창세기 13:9",
+  "hebrew": "",
+  "ipa": "haloʔ χol haˈʔarɛts ləfaˈneχa hipaˈrɛd na meʔaˈlaj ʔim haśəmoʔl vəʔeˈmina vəʔim hajjaˈmin vəʔaśməʔila",
+  "koreanPronunciation": "할로 콜 하아레츠 레파네카 히파레드 나 메알라이 임 하스모르 베에미나 베임 하야민 베아스메일라",
+  "modern": "온 땅이 네 앞에 있지 않느냐? 제발 나를 떠나라. 네가 왼쪽으로 가면 나는 오른쪽으로 가고, 네가 오른쪽으로 가면 나는 왼쪽으로 가겠다",
+  "words": [
+    {
+      "hebrew": "הֲלֹא כָל הָאָרֶץ לְפָנֶיךָ",
+      "meaning": "온 땅이 네 앞에 있지 않느냐",
+      "ipa": "haloʔ χol haˈʔarɛts ləfaˈneχa",
+      "korean": "할로 콜 하아레츠 레파네카",
+      "letters": "הֲ(ha) + לֹא(lo) + כָל(kol) + הָ(ha) + אָ(a) + רֶץ(rets) + לְ(le) + פָ(pa) + נֶיךָ(nekha)",
+      "root": "כֹּל (콜) + אֶרֶץ (에레츠) + פָּנֶה (파네)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"whole-land1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#27ae60\" /><stop offset=\"50%\" stop-color=\"#229954\" /><stop offset=\"100%\" stop-color=\"#1e8449\" /></linearGradient><radialGradient id=\"land-abundance1\"><stop offset=\"0%\" stop-color=\"#52be80\" /><stop offset=\"100%\" stop-color=\"#27ae60\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#whole-land1)\" filter=\"drop-shadow(3px 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 28 Q 24 22 32 26 Q 40 30 48 26\" fill=\"url(#land-abundance1)\" opacity=\"0.6\" /><path d=\"M 12 38 Q 22 34 32 38 Q 42 42 52 38\" fill=\"url(#land-abundance1)\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"24\" r=\"5\" fill=\"#85c1e9\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"30\" r=\"4\" fill=\"#85c1e9\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"46\" r=\"6\" fill=\"#85c1e9\" opacity=\"0.5\" /><path d=\"M 22 16 L 26 12 L 30 16\" fill=\"#FFD700\" /><path d=\"M 42 18 L 46 14 L 50 18\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든, 전체)",
+        "אֶרֶץ (에레츠 - 땅)"
+      ]
+    },
+    {
+      "hebrew": "הִפָּרֶד נָא מֵעָלָי",
+      "meaning": "제발 나를 떠나라",
+      "ipa": "hipaˈrɛd na meʔaˈlaj",
+      "korean": "히파레드 나 메알라이",
+      "letters": "הִ(hi) + פָּ(pa) + רֶד(red) + נָא(na) + מֵ(me) + עָ(a) + לָי(lai)",
+      "root": "פ-ר-ד (파라드) + נָא (나) + עַל (알)",
+      "grammar": "동사",
+      "emoji": "↔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"separate-gen13-9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#9b59b6\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></linearGradient><radialGradient id=\"separate-choice1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#separate-choice1)\" filter=\"drop-shadow(0 0 8px rgba(52, 152, 219, 0.8))\" /><path d=\"M 32 32 L 12 32\" stroke=\"url(#separate-gen13-9)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 32 L 52 32\" stroke=\"url(#separate-gen13-9)\" stroke-width=\"5\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 16 28 L 12 32 L 16 36\" fill=\"url(#separate-gen13-9)\" /><path d=\"M 48 28 L 52 32 L 48 36\" fill=\"url(#separate-gen13-9)\" /><circle cx=\"12\" cy=\"32\" r=\"8\" stroke=\"url(#separate-gen13-9)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><circle cx=\"52\" cy=\"32\" r=\"8\" stroke=\"url(#separate-gen13-9)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "פָּרַד (파라드 - 분리하다, 떠나다)",
+        "פְּרֵדָה (페레다 - 이별)"
+      ]
+    },
+    {
+      "hebrew": "אִם הַשְּׂמֹאל וְאֵימִנָה",
+      "meaning": "만약 왼쪽이라면 나는 오른쪽으로",
+      "ipa": "ʔim haśəmoʔl vəʔeˈmina",
+      "korean": "임 하스모르 베에미나",
+      "letters": "אִם(im) + הַ(ha) + שְּׂ(se) + מֹאל(mol) + וְ(ve) + אֵ(e) + ימִנָה(mina)",
+      "root": "אִם (임) + שְׂמֹאול (스몰) + יָמִין (야민)",
+      "grammar": "명사",
+      "emoji": "⬅️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"left-choice1\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#5dade2\" /><stop offset=\"100%\" stop-color=\"#85c1e9\" /></linearGradient><radialGradient id=\"left-direction1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><rect x=\"8\" y=\"24\" width=\"48\" height=\"16\" rx=\"8\" fill=\"url(#left-choice1)\" opacity=\"0.4\" /><path d=\"M 48 32 L 16 32\" stroke=\"url(#left-choice1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 24 L 16 32 L 24 40\" fill=\"url(#left-choice1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"url(#left-direction1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(52, 152, 219, 0.7))\" /><path d=\"M 8 12 L 16 8 L 24 12\" fill=\"url(#left-choice1)\" opacity=\"0.5\" /><path d=\"M 8 52 L 16 56 L 24 52\" fill=\"url(#left-choice1)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שְׂמֹאול (스몰 - 왼쪽)",
+        "יָמִין (야민 - 오른쪽)"
+      ]
+    },
+    {
+      "hebrew": "וְאִם הַיָּמִין וְאַשְׂמְאִילָה",
+      "meaning": "만약 오른쪽이라면 나는 왼쪽으로",
+      "ipa": "vəʔim hajjaˈmin vəʔaśməʔila",
+      "korean": "베임 하야민 베아스메일라",
+      "letters": "וְ(ve) + אִם(im) + הַ(ha) + יָּ(ya) + מִין(min) + וְ(ve) + אַ(a) + שְׂ(se) + מְאִילָה(meila)",
+      "root": "אִם (임) + יָמִין (야민) + שְׂמֹאול (스몰)",
+      "grammar": "명사",
+      "emoji": "➡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"right-choice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#ec7063\" /><stop offset=\"100%\" stop-color=\"#f1948a\" /></linearGradient><radialGradient id=\"right-direction1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></radialGradient></defs><rect x=\"8\" y=\"24\" width=\"48\" height=\"16\" rx=\"8\" fill=\"url(#right-choice1)\" opacity=\"0.4\" /><path d=\"M 16 32 L 48 32\" stroke=\"url(#right-choice1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 40 24 L 48 32 L 40 40\" fill=\"url(#right-choice1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#right-direction1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(231, 76, 60, 0.7))\" /><path d=\"M 40 12 L 48 8 L 56 12\" fill=\"url(#right-choice1)\" opacity=\"0.5\" /><path d=\"M 40 52 L 48 56 L 56 52\" fill=\"url(#right-choice1)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "יָמִין (야민 - 오른쪽, 남쪽)",
+        "תֵּימָן (테만 - 남쪽, 오른손)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아브람의 제안은 놀라울 정도로 관대합니다. 연장자이자 하나님의 약속을 받은 사람으로서 먼저 선택할 권리가 있었지만, 그는 롯에게 선택권을 넘겨줍니다. 이것은 진정한 믿음의 모습입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הֲלֹא כָל הָאָרֶץ לְפָנֶיךָ (할로 콜 하아레츠 레파네카) - 풍성한 선택지",
+        "description": "'할로(~하지 않느냐)'는 수사학적 질문으로 명백한 사실을 강조합니다. '콜(모든)'과 '레파네카(네 앞에)'의 조합은 롯에게 완전한 선택의 자유를 준다는 의미입니다.",
+        "points": [
+          "아브람은 롯을 제한하거나 조건을 달지 않았습니다",
+          "진정한 관대함은 최선의 것도 내어줄 준비가 되어 있습니다",
+          "하나님을 신뢰하는 사람은 자신의 권리를 포기할 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הִפָּרֶד נָא מֵעָלָי (히파레드 나 메알라이) - 고통스러운 제안",
+        "description": "'히파레드(분리하다)'는 강한 단어입니다. 아브람은 함께 여행하고 함께 부를 쌓았던 롯과 헤어지자고 제안합니다. '나(제발)'라는 단어가 다시 나타나 이것이 얼마나 어려운 결정인지 보여줍니다.",
+        "points": [
+          "때로는 평화를 위해 고통스러운 결정을 내려야 합니다",
+          "분리가 항상 나쁜 것은 아닙니다. 때로는 더 큰 선을 위한 것입니다",
+          "관계보다 증거가 중요할 때가 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אִם הַשְּׂמֹאל...וְאִם הַיָּמִין (임 하스모르...베임 하야민) - 완전한 양보",
+        "description": "아브람은 롯의 선택에 완전히 순응하겠다고 약속합니다. 왼쪽이든 오른쪽이든, 좋은 땅이든 나쁜 땅이든, 롯이 선택하면 자신은 반대편으로 가겠다는 것입니다.",
+        "points": [
+          "진정한 평화 제안은 자신의 손해를 감수합니다",
+          "하나님의 약속을 신뢰하면 세상의 것을 움켜쥐지 않아도 됩니다",
+          "아브람의 관대함은 하나님의 신실하심에 대한 믿음에서 나왔습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "נָא (나) - 겸손의 반복",
+        "description": "8절과 9절에서 '나(제발)'가 두 번 나타납니다. 이는 아브람의 겸손과 간절함을 보여줍니다. 명령할 수 있는 위치에 있으면서도 부탁하는 태도를 유지합니다.",
+        "points": [
+          "권위를 가진 사람의 겸손이 진정한 권위입니다",
+          "강한 사람이 먼저 양보할 때 평화가 옵니다",
+          "아브람의 태도는 그리스도의 겸손을 예표합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "아브람은 왜 자기가 먼저 좋은 땅을 선택하지 않고 롯에게 양보했을까요?",
+      "answer": "아브람은 하나님을 정말로 믿었어요. 하나님께서 이미 '이 땅을 네게 주겠다'고 약속하셨기 때문에, 아브람은 자기가 좋은 땅을 먼저 선택하지 않아도 하나님께서 자기를 잘 돌봐주실 거라고 믿었어요. 또 아브람은 롯과의 평화로운 관계가 좋은 땅을 갖는 것보다 더 중요하다고 생각했어요. 우리도 친구와 다툴 때, 내가 옳다는 걸 증명하는 것보다 친구와 사이좋게 지내는 게 더 중요하다는 걸 기억해야 해요. 진짜 강한 사람은 먼저 양보할 줄 아는 사람이랍니다.",
+      "bibleReferences": [
+        "빌립보서 2:3-4 - '아무 일에든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 각각 자기보다 남을 낫게 여기고'",
+        "로마서 12:10 - '형제 사랑으로 서로 우애하고 존경하기를 서로 먼저 하며'",
+        "고린도전서 13:5 - '사랑은 자기의 유익을 구하지 아니하며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 제안은 복음의 핵심 원리를 보여줍니다. 더 강한 위치에 있는 자가 자발적으로 낮아지고, 선택권을 양보하며, 손해를 감수하는 모습입니다. 이것이 가능한 이유는 하나님의 약속에 대한 확고한 믿음입니다. 아브람은 가나안 땅이 이미 하나님의 약속으로 자신의 것임을 알았기에, 롯에게 먼저 선택하라고 할 수 있었습니다. 이는 그리스도께서 하늘 영광을 버리고 십자가를 선택하신 것을 예표합니다. 진정한 믿음은 세상의 것을 움켜쥐지 않고도 하나님의 공급하심을 신뢰합니다."
+    }
+  }
+}

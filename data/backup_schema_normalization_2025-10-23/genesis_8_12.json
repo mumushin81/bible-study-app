@@ -1,0 +1,115 @@
+{
+  "id": "genesis_8_12",
+  "reference": "창세기 8:12",
+  "hebrew": "וַיִּיָּחֶל עוֹד שִׁבְעַת יָמִים אֲחֵרִים וַיְשַׁלַּח אֶת־הַיּוֹנָה וְלֹא־יָסְפָה שׁוּב־אֵלָיו עוֹד.",
+  "ipa": "vajˈijaxɛl ˈod ʃivˈat jaˈmim ʔaxeˈrim vajəˈʃalax ʔɛt hajˈona vəlo jaˈsəfa ʃuv eˈlav ˈod",
+  "koreanPronunciation": "바이야헬 오드 쉬브아트 야밈 아헤림 바예샬라흐 에트 하요나 베로 야세파 슈브 엘라브 오드",
+  "modern": "그가 또 다시 칠 일을 기다린 후에 비둘기를 내보냈는데, 비둘기는 다시는 그에게 돌아오지 않았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּיָּחֶל",
+      "meaning": "그리고 기다렸다",
+      "ipa": "vajˈijaxɛl",
+      "korean": "바이야헬",
+      "letters": "וַ(va) + יִּ(yi) + יָּ(ya) + חֶל(chel)",
+      "root": "י-ח-ל (yachal)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"patient_wait\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#7986CB\" /><stop offset=\"100%\" stop-color=\"#5C6BC0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#patient_wait)\" stroke-width=\"4\" stroke-dasharray=\"8 4\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"#5C6BC0\" /><circle cx=\"50\" cy=\"20\" r=\"3\" fill=\"#7986CB\" opacity=\"0.7\" /><circle cx=\"54\" cy=\"38\" r=\"3\" fill=\"#7986CB\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"52\" r=\"3\" fill=\"#7986CB\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "יָחַל (야할 - 기다리다)",
+        "יַחַל (야할 - 시작하다)"
+      ]
+    },
+    {
+      "hebrew": "וְלֹא־יָסְפָה",
+      "meaning": "그리고 더 이상 ~하지 않았다",
+      "ipa": "vəlo jaˈsəfa",
+      "korean": "베로 야세파",
+      "letters": "וְ(və) + לֹא(lo) + יָ(ya) + סְ(sə) + פָה(fah)",
+      "root": "י-ס-פ (yasaf)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"no_more\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EF5350\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#no_more)\" stroke-width=\"4\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#no_more)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "לֹא (로 - 아니다)",
+        "יָסַף (야사프 - 더하다)"
+      ]
+    },
+    {
+      "hebrew": "שׁוּב־אֵלָיו",
+      "meaning": "그에게 돌아옴",
+      "ipa": "ʃuv eˈlav",
+      "korean": "슈브 엘라브",
+      "letters": "שׁוּב(shuv) + אֵ(e) + לָיו(lav)",
+      "root": "ש-ו-ב (shuv)",
+      "grammar": "동사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"no_return\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#BDBDBD\" opacity=\"0.3\" /></linearGradient></defs><path d=\"M 56 32 L 16 32\" stroke=\"url(#no_return)\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" opacity=\"0.5\" /><rect x=\"8\" y=\"24\" width=\"12\" height=\"16\" rx=\"2\" fill=\"#9E9E9E\" opacity=\"0.4\" /><path d=\"M 48 26 L 56 32 L 48 38\" fill=\"#BDBDBD\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "אֶל (엘 - ~에게)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 12절은 비둘기가 돌아오지 않은 결정적인 순간을 기록합니다. 이는 땅이 완전히 회복되어 비둘기가 살 곳을 찾았음을 의미합니다. 노아는 이제 방주 밖 세상이 안전하다는 확신을 얻었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "규칙적인 기다림의 지속",
+        "description": "노아는 여전히 7일을 기다렸습니다. 올리브 잎을 본 후에도 조급해하지 않고, 계속 신중하게 하나님의 때를 기다렸습니다.",
+        "points": [
+          "좋은 징조를 보아도 인내를 유지합니다",
+          "일관성 있는 패턴을 계속 따릅니다",
+          "완전한 확신을 얻기까지 기다립니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְלֹא־יָסְפָה (베로 야세파) - 더 이상 돌아오지 않음",
+        "description": "비둘기가 돌아오지 않은 것은 좋은 소식입니다. 이는 땅에 정착할 곳을 찾았음을 의미합니다.",
+        "points": [
+          "때로 '돌아오지 않음'이 축복입니다",
+          "독립과 자유의 시작을 의미합니다",
+          "새로운 삶의 가능성이 열렸습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "세 번째 시도의 결과",
+        "description": "첫 번째는 돌아왔고, 두 번째는 올리브 잎을 가져왔고, 세 번째는 돌아오지 않았습니다. 이는 점진적 회복의 완성을 보여줍니다.",
+        "points": [
+          "하나님의 일은 단계적으로 완성됩니다",
+          "인내하면 완전한 결과를 봅니다",
+          "세 번의 시도가 완전한 그림을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "완전한 회복의 증거",
+        "description": "비둘기가 돌아오지 않은 것은 땅이 완전히 회복되어 생명을 지탱할 수 있게 되었음을 증명합니다.",
+        "points": [
+          "회복은 완전합니다",
+          "새로운 시작이 가능합니다",
+          "하나님의 약속이 성취되었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 비둘기는 이번엔 돌아오지 않았을까요?",
+      "answer": "비둘기가 살 곳을 찾았기 때문이에요! 처음엔 땅이 다 물에 잠겨서 돌아왔고, 두 번째는 나무가 보이기 시작해서 올리브 잎을 물고 왔어요. 그런데 이번엔 땅이 충분히 말라서 비둘기가 거기서 먹을 것도 찾고 쉴 곳도 찾았어요. 그래서 방주로 돌아올 필요가 없었던 거예요. 노아는 비둘기가 돌아오지 않자 '이제 정말 밖이 안전하구나! 곧 우리도 나갈 수 있겠다!'라고 생각했을 거예요. 비둘기가 안 돌아온 게 사실은 제일 좋은 소식이었던 거죠.",
+      "bibleReferences": [
+        "요한복음 16:7 - '그러나 내가 너희에게 실상을 말하노니 내가 떠나가는 것이 너희에게 유익이라'",
+        "사도행전 20:29 - '내가 떠난 후에 사나운 이리가 너희에게 들어와서 그 양 떼를 아끼지 아니하며'",
+        "고린도후서 12:9 - '내 은혜가 네게 족하도다 이는 내 능력이 약한 데서 온전하여짐이라'",
+        "빌립보서 1:23 - '내가 그 두 사이에 끼었으니 떠나서 그리스도와 함께 있을 욕망을 가진 이것이 더욱 좋으나'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:12는 회복의 완성을 보여줍니다. 비둘기의 세 번의 여정은 구원의 단계를 상징합니다. 첫 번째(돌아옴)는 아직 때가 아님을, 두 번째(올리브 잎)는 희망의 시작을, 세 번째(돌아오지 않음)는 완전한 회복을 나타냅니다. 이는 우리의 영적 여정과도 같습니다. 처음에는 하나님께 전적으로 의존하고, 점차 성장하며, 마침내 하나님이 주신 자유와 책임 가운데 살아갑니다. 비둘기가 돌아오지 않은 것은 버림받음이 아니라 성숙과 독립의 표시였습니다. 노아는 7일을 더 기다리며 여전히 신중했고, 이는 성급함보다 지혜로운 인내가 더 귀함을 보여줍니다."
+    }
+  }
+}

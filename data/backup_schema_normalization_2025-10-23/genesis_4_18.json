@@ -1,0 +1,174 @@
+{
+  "id": "genesis_4_18",
+  "reference": "창세기 4:18",
+  "hebrew": "",
+  "ipa": "vajivaˈled laxaˈnox ʔɛt ʕiˈrad vəʕiˈrad jaˈlad ʔɛt məxujaˈʔel umxijaˈʔel jaˈlad ʔɛt mətuʃaˈʔel umtuʃaˈʔel jaˈlad ʔɛt ˈlamex",
+  "koreanPronunciation": "바이발레드 라하녹 에트 이라드 베이라드 얄라드 에트 메후야엘 우메히야엘 얄라드 에트 메투샤엘 우메투샤엘 얄라드 에트 라멕",
+  "modern": "에녹이 이랏을 낳았고, 이랏은 므후야엘을 낳았으며, 므후야엘은 므두사엘을 낳았고, 므두사엘은 라멕을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּוָּלֵד",
+      "meaning": "그리고 태어나다",
+      "ipa": "vajivaˈled",
+      "korean": "바이발레드",
+      "letters": "וַ(va) + יִּ(yi) + וָּ(va) + לֵד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"born18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"new18\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#new18)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"28\" r=\"11\" fill=\"url(#born18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"9\" ry=\"11\" fill=\"url(#born18)\"/></svg>"
+    },
+    {
+      "hebrew": "לַחֲנוֹךְ",
+      "meaning": "에녹에게",
+      "ipa": "laxaˈnox",
+      "korean": "라하녹",
+      "letters": "לַ(la) + חֲ(ha) + נוֹךְ(nokh)",
+      "root": "ח-נ-ך (하나크)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B8E23\"/><stop offset=\"100%\" stop-color=\"#556B2F\"/></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"9\" fill=\"url(#person18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"11\" ry=\"14\" fill=\"url(#person18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת עִירָד",
+      "meaning": "이랏을",
+      "ipa": "ʔɛt ʕiˈrad",
+      "korean": "에트 이라드",
+      "letters": "אֶת(et) + עִי(i) + רָד(rad)",
+      "root": "ע-י-ר (이르)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"irad18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\"/><stop offset=\"100%\" stop-color=\"#6B5344\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#irad18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#irad18)\"/></svg>"
+    },
+    {
+      "hebrew": "וְעִירָד",
+      "meaning": "그리고 이랏은",
+      "ipa": "vəʕiˈrad",
+      "korean": "베이라드",
+      "letters": "וְ(ve) + עִי(i) + רָד(rad)",
+      "root": "ע-י-ר (이르)",
+      "grammar": "명사",
+      "emoji": "➡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 12 32 L 44 32\" stroke=\"url(#arrow18)\" stroke-width=\"4\" marker-end=\"url(#arrowhead18)\"/><defs><marker id=\"arrowhead18\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#arrow18)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"></svg>"
+    },
+    {
+      "hebrew": "יָלַד",
+      "meaning": "낳다",
+      "ipa": "jaˈlad",
+      "korean": "얄라드",
+      "letters": "יָ(ya) + לַד(lad)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "🍼",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birth18\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"8\" ry=\"16\" fill=\"url(#birth18)\" filter=\"drop-shadow(0 2px 4px rgba(70, 130, 180, 0.4))\"/><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#birth18)\"/><rect x=\"28\" y=\"26\" width=\"8\" height=\"4\" fill=\"#FFB6C1\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת מְחֽוּיָאֵל",
+      "meaning": "므후야엘을",
+      "ipa": "ʔɛt məxujaˈʔel",
+      "korean": "에트 메후야엘",
+      "letters": "אֶת(et) + מְ(me) + חֽוּ(hu) + יָ(ya) + אֵל(el)",
+      "root": "מ-ח-י (마하)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"meh18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"100%\" stop-color=\"#6A5ACD\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#meh18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#meh18)\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "וּמְחִיּיָאֵל",
+      "meaning": "그리고 므후야엘은",
+      "ipa": "umxijaˈʔel",
+      "korean": "우메히야엘",
+      "letters": "וּ(u) + מְ(me) + חִיּ(hi) + יָ(ya) + אֵל(el)",
+      "root": "מ-ח-י (마하)",
+      "grammar": "명사",
+      "emoji": "🔗",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"link18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF8C00\"/><stop offset=\"100%\" stop-color=\"#FF6347\"/></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"40\" cy=\"36\" r=\"8\" fill=\"none\" stroke=\"url(#link18)\" stroke-width=\"4\"/><rect x=\"28\" y=\"30\" width=\"8\" height=\"4\" fill=\"url(#link18)\" transform=\"rotate(30 32 32)\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת מְתֽוּשָׁאֵל",
+      "meaning": "므두사엘을",
+      "ipa": "ʔɛt mətuʃaˈʔel",
+      "korean": "에트 메투샤엘",
+      "letters": "אֶת(et) + מְ(me) + תֽוּ(tu) + שָׁ(sha) + אֵל(el)",
+      "root": "מ-ת (메트)",
+      "grammar": "명사",
+      "emoji": "👴",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"met18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#met18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#met18)\"/><path d=\"M 22 20 L 26 16\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.6\"/><path d=\"M 38 16 L 42 20\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "וּמְתוּשָׁאֵל",
+      "meaning": "그리고 므두사엘은",
+      "ipa": "umtuʃaˈʔel",
+      "korean": "우메투샤엘",
+      "letters": "וּ(u) + מְ(me) + תוּ(tu) + שָׁ(sha) + אֵל(el)",
+      "root": "מ-ת (메트)",
+      "grammar": "명사",
+      "emoji": "⏭️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"next18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00BCD4\"/><stop offset=\"100%\" stop-color=\"#0097A7\"/></linearGradient></defs><path d=\"M 12 32 L 28 20 L 28 44 Z\" fill=\"url(#next18)\" filter=\"drop-shadow(0 2px 4px rgba(0, 151, 167, 0.4))\"/><path d=\"M 28 32 L 44 20 L 44 44 Z\" fill=\"url(#next18)\" filter=\"drop-shadow(0 2px 4px rgba(0, 151, 167, 0.4))\"/><line x1=\"48\" y1=\"20\" x2=\"48\" y2=\"44\" stroke=\"url(#next18)\" stroke-width=\"4\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת לָמֶךְ",
+      "meaning": "라멕을",
+      "ipa": "ʔɛt ˈlamex",
+      "korean": "에트 라멕",
+      "letters": "אֶת(et) + לָ(la) + מֶךְ(mekh)",
+      "root": "ל-מ-ך (라메크)",
+      "grammar": "명사",
+      "emoji": "🧔",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lamech18\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient><radialGradient id=\"dark18\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#dark18)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#lamech18)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#lamech18)\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 18절은 가인의 족보를 간략하게 기록합니다. 에녹-이랏-므후야엘-므두사엘-라멕으로 이어지는 계보는 가인 계열의 7대손까지를 보여주며, 이 족보는 하나님과 분리된 인류 문명의 발전을 추적합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יָלַד (얄라드) - 낳다, 세대의 연속",
+        "description": "'얄라드'는 '낳다', '출산하다'를 의미하는 동사로, 창세기 족보에서 반복적으로 사용됩니다. 이는 하나님의 '생육하고 번성하라'는 명령의 성취를 보여줍니다.",
+        "points": [
+          "창세기 족보의 핵심 동사로 세대 연결을 표현",
+          "하나님의 창조 명령(창 1:28)의 지속적 실현",
+          "죄악 중에도 계속되는 생명의 전달",
+          "가인 계열도 하나님의 일반 은혜 아래 번성함"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תּוֹלְדוֹת (톨도트) - 족보의 구조, 7대손까지",
+        "description": "가인의 족보는 7대손 라멕까지 기록되며, 이는 셋의 족보(창 5장)와 평행을 이룹니다. 7이라는 숫자는 완전함을 상징하며, 두 계보의 대조를 부각시킵니다.",
+        "points": [
+          "가인의 7대손: 가인-에녹-이랏-므후야엘-므두사엘-라멕-야발/유발/두발가인",
+          "셋의 7대손: 아담-셋-에노스-게난-마할랄렐-야렛-에녹(하나님과 동행)",
+          "두 계보의 평행 구조는 인류의 두 방향을 제시",
+          "숫자 7의 상징성: 완전함, 완성"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לָמֶךְ (라멕) - 족보의 정점",
+        "description": "라멕은 가인 계보의 7대손으로, 다음 절들(19-24절)에서 그의 이야기가 자세히 전개됩니다. 그는 최초로 일부다처제를 실행하고 폭력을 자랑하는 인물입니다.",
+        "points": [
+          "가인 계열 족보의 마지막 인물",
+          "최초의 일부다처제 실행자(4:19)",
+          "복수와 폭력을 노래한 라멕의 노래(4:23-24)",
+          "죄악의 심화와 인간 문명의 타락 정점"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 가인의 자손들의 이름을 이렇게 자세히 기록했나요?",
+      "answer": "하나님께서는 가인의 자손들도 기억하고 계세요. 비록 가인이 하나님을 떠났지만, 그의 후손들도 하나님께서 주신 생명으로 살아가고 있었어요. 이 족보는 우리에게 두 가지를 보여줘요. 첫째, 하나님을 떠난 사람들도 번성할 수 있다는 것(하나님의 일반 은혜), 둘째, 하나님 없는 문명은 점점 더 나빠진다는 것(죄의 심화). 다음에 나오는 셋의 자손들과 비교하면서 보면, 하나님과 함께 사는 삶과 하나님 없이 사는 삶의 차이를 알 수 있어요.",
+      "bibleReferences": [
+        "창세기 5:1-32 - '아담의 계보가 이러하니라... 에녹이 하나님과 동행하더니'",
+        "시편 145:9 - '여호와께서는 모든 것을 선대하시며 그 지으신 모든 것에 긍휼을 베푸시는도다'",
+        "마태복음 5:45 - '이같이 한즉 하늘에 계신 너희 아버지의 아들이 되리니 이는 하나님이 그 해를 악인과 선인에게 비추시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "가인의 족보는 하나님 없는 인류 문명의 발전을 보여줍니다. 그들도 하나님의 일반 은혜로 번성했지만, 라멕의 등장은 죄악의 심화를 예고합니다. 이 족보는 창세기 5장의 셋의 족보와 대조되며, 인류에게 두 가지 길이 있음을 보여줍니다: 하나님과 함께 하는 길(셋-에녹)과 하나님을 떠난 길(가인-라멕). 궁극적으로 모든 인간은 이 두 길 중 하나를 선택하게 됩니다."
+    }
+  }
+}

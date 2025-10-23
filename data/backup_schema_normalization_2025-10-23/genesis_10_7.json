@@ -1,0 +1,157 @@
+{
+  "id": "genesis_10_7",
+  "reference": "창세기 10:7",
+  "hebrew": "וּבְנֵי כוּשׁ, סְבָא וַחֲוִילָה וְסַבְתָּה וְרַעְמָה וְסַבְתְּכָא; וּבְנֵי רַעְמָה, שְׁבָא וּדְדָן.",
+  "ipa": "uvəˈne kuʃ səˈva vaxaviˈla vəsavˈta vəraʕˈma vəsavtəˈxa uvəˈne raʕˈma ʃəˈva udəˈdan",
+  "koreanPronunciation": "우브네이 쿠쉬 세바 바하빌라 베삽타 베라으마 베삽테카 우브네이 라으마 쉐바 우드단",
+  "modern": "구스의 아들들은 스바와 하윌라와 삽다와 라아마와 삽드가요 라아마의 아들들은 스바와 드단이라",
+  "words": [
+    {
+      "hebrew": "סְבָא",
+      "meaning": "스바 (예멘 남부)",
+      "ipa": "səˈva",
+      "korean": "세바",
+      "letters": "סְ(se) + בָ(va) + א(a)",
+      "root": "סְבָא (세바)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"trade_seba\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#trade_seba)\" opacity=\"0.6\" /><path d=\"M 20 28 L 32 20 L 44 28 L 40 40 L 24 40 Z\" fill=\"#FFA000\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "סְבָא (세바 - 무역상)",
+        "סָבַב (사바브 - 둘러싸다)"
+      ]
+    },
+    {
+      "hebrew": "חֲוִילָה",
+      "meaning": "하윌라 (금의 땅)",
+      "ipa": "xaviˈla",
+      "korean": "하빌라",
+      "letters": "חֲ(cha) + וִ(vi) + ילָ(la) + ה(h)",
+      "root": "חֲוִילָה (하빌라)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gold_chavilah\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#F57F17\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#gold_chavilah)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><circle cx=\"28\" cy=\"28\" r=\"4\" fill=\"#FFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "זָהָב (자하브 - 금)",
+        "חִיל (힐 - 재물, 힘)"
+      ]
+    },
+    {
+      "hebrew": "סַבְתָּה",
+      "meaning": "삽다 (아라비아 동부)",
+      "ipa": "savˈta",
+      "korean": "삽타",
+      "letters": "סַ(sa) + בְ(v) + תָּ(ta) + ה(h)",
+      "root": "סַבְתָּה (삽타)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"desert_sabtah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFECB3\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#desert_sabtah)\" opacity=\"0.5\" rx=\"8\" /><path d=\"M 0 40 Q 16 35 32 40 T 64 40 L 64 64 L 0 64 Z\" fill=\"#FF9800\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "סָבַב (사바브 - 둘러싸다)",
+        "מִדְבָּר (미드바르 - 광야)"
+      ]
+    },
+    {
+      "hebrew": "רַעְמָה",
+      "meaning": "라아마 (페르시아만 지역)",
+      "ipa": "raʕˈma",
+      "korean": "라으마",
+      "letters": "רַ(ra) + עְ(a) + מָ(ma) + ה(h)",
+      "root": "רַעַם (라암 - 우레)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"thunder_raamah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5C6BC0\" /><stop offset=\"100%\" stop-color=\"#283593\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#thunder_raamah)\" opacity=\"0.3\" rx=\"8\" /><path d=\"M 36 8 L 28 32 L 36 32 L 28 56 L 48 28 L 36 28 Z\" fill=\"#FFD54F\" filter=\"drop-shadow(0 0 4px rgba(255, 213, 79, 0.8))\" /></svg>",
+      "relatedWords": [
+        "רַעַם (라암 - 천둥)",
+        "רָעַם (라암 - 진동하다)"
+      ]
+    },
+    {
+      "hebrew": "שְׁבָא",
+      "meaning": "스바 (시바 여왕의 나라)",
+      "ipa": "ʃəˈva",
+      "korean": "쉐바",
+      "letters": "שְׁ(she) + בָ(va) + א(a)",
+      "root": "שֶׁבַע (쉐바 - 일곱, 맹세)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"queen_sheba\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#F57C00\" /></linearGradient></defs><path d=\"M 16 48 L 20 24 L 32 16 L 44 24 L 48 48 Z\" fill=\"url(#queen_sheba)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#FFD700\" /><rect x=\"14\" y=\"48\" width=\"36\" height=\"8\" rx=\"2\" fill=\"#FF8F00\" /></svg>",
+      "relatedWords": [
+        "שְׁבָא (쉐바 - 시바)",
+        "מַלְכַּת שְׁבָא (말카트 쉐바 - 시바 여왕)"
+      ]
+    },
+    {
+      "hebrew": "דְּדָן",
+      "meaning": "드단 (아라비아 서북부)",
+      "ipa": "dəˈdan",
+      "korean": "드단",
+      "letters": "דְּ(de) + דָ(da) + ן(n)",
+      "root": "דְּדָן (드단)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"caravan_dedan\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></linearGradient></defs><rect y=\"40\" width=\"64\" height=\"24\" fill=\"#FFECB3\" opacity=\"0.4\" /><ellipse cx=\"20\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#caravan_dedan)\" opacity=\"0.7\" /><ellipse cx=\"44\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#caravan_dedan)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "סֹחֵר (소헤르 - 상인)",
+        "שַׁיָּרָה (샤야라 - 대상, 카라반)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "구스의 후손들은 주로 아라비아 반도와 아프리카의 뿔 지역에 정착했습니다. 이들은 고대 세계의 중요한 무역 중심지를 형성했으며, 특히 향신료와 금, 보석 무역으로 유명했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "하윌라 - 에덴의 금",
+        "description": "하윌라는 창세기 2:11에서 에덴 동산을 둘러싼 네 강 중 비손강이 흐르는 땅으로 언급됩니다. '그 땅의 금이 순금이요'라고 묘사되어, 풍요와 귀중함의 상징이 됩니다.",
+        "points": [
+          "에덴 동산과 연관된 축복의 땅입니다",
+          "금, 베델리움, 호마노가 나는 곳으로 유명합니다",
+          "사무엘상 15:7에서 사울이 아말렉을 친 지역으로 나옵니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "스바 (쉐바) - 시바 여왕의 나라",
+        "description": "스바는 두 번 나타나는데(세바와 쉐바), 후자는 라아마의 아들로 더 유명합니다. 열왕기상 10장의 시바 여왕이 솔로몬을 방문한 나라로, 예멘 남부의 강력한 왕국이었습니다.",
+        "points": [
+          "향료, 금, 보석의 주요 산지였습니다",
+          "시바 여왕이 솔로몬의 지혜를 시험하러 왔습니다",
+          "예수님이 '남방 여왕'으로 언급하셨습니다(마 12:42)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "드단 - 대상로의 중심",
+        "description": "드단은 아라비아 서북부의 오아시스 도시로, 고대 무역로의 중요한 거점이었습니다. 에스겔 27:20에서 두로와 거래하는 상인으로 나오며, 25:13과 38:13에서 심판과 관련하여 언급됩니다.",
+        "points": [
+          "향신료 무역의 중요한 중계지였습니다",
+          "이스라엘과 아라비아를 연결하는 통로였습니다",
+          "예언서에서 여러 번 언급됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "손자 세대까지 기록한 이유",
+        "description": "구스의 경우 아들뿐 아니라 손자(라아마의 아들들)까지 기록했습니다. 이는 이들이 특별히 중요한 민족이 되었거나, 성경 후반부에 중요하게 언급될 것을 암시합니다.",
+        "points": [
+          "스바와 드단은 예언서에서 중요하게 다루어집니다",
+          "이들은 이스라엘과 경제적 관계가 깊었습니다",
+          "하나님의 심판과 구원의 메시지가 이들에게도 미칩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 먼 나라 사람들도 성경에 나올까요?",
+      "answer": "하나님은 이스라엘뿐만 아니라 온 세상의 모든 사람을 사랑하세요. 시바 여왕이 멀리서 솔로몬을 찾아온 것처럼, 하나님은 먼 곳에 사는 사람들도 진리를 찾아오기를 원하세요. 성경에 이 이름들이 기록된 것은, 하나님의 관심이 한 나라에만 있지 않고 온 세상에 있다는 뜻이에요. 마치 선생님이 우리 반 친구뿐 아니라 다른 반 친구들도 사랑하시는 것처럼, 하나님은 모든 나라, 모든 사람을 다 기억하시고 사랑하세요.",
+      "bibleReferences": [
+        "열왕기상 10:1-2 - '스바의 여왕이 여호와의 이름으로 말미암은 솔로몬의 명성을 듣고'",
+        "마태복음 12:42 - '심판 때에 남방 여왕이 일어나 이 세대 사람을 정죄하리니'",
+        "시편 72:10-11 - '다시스와 섬의 왕들이 공물을 바치며 스바와 시바 왕들이 예물을 드리리로다'",
+        "이사야 60:6 - '스바 사람들은 다 금과 유향을 가지고 와서 여호와의 찬송을 전파할 것이며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "구스의 후손 목록은 아프리카와 아라비아가 성경 역사에서 주변부가 아니라 중요한 역할을 했음을 보여줍니다. 시바 여왕의 방문은 솔로몬의 지혜(궁극적으로 하나님의 지혜)가 먼 이방 민족까지 끌어당겼음을 보여주며, 예수님은 이를 자신보다 큰 지혜자(예수님 자신)를 찾아야 할 비유로 사용하셨습니다(마 12:42). 이사야 60:6의 '스바 사람들이 금과 유향을 가지고 온다'는 예언은 동방박사들이 아기 예수께 황금과 유향을 드린 것(마 2:11)의 예표로 해석됩니다. 시편 68:31 '구스가 하나님께 손을 신속히 펴리로다'는 아프리카의 복음화를 예언하며, 사도행전 8장의 에티오피아 내시는 그 성취의 시작입니다. 이는 하나님의 구원이 지리적, 인종적 경계를 초월함을 보여줍니다."
+    }
+  }
+}

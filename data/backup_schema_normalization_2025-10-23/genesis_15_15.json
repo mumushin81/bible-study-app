@@ -1,0 +1,155 @@
+{
+  "id": "genesis_15_15",
+  "reference": "창세기 15:15",
+  "hebrew": "וְאַתָּה, תָּבוֹא אֶל-אֲבֹתֶיךָ בְּשָׁלוֹם; תִּקָּבֵר, בְּשֵׂיבָה טוֹבָה.",
+  "ipa": "toˈva bəseˈva tiqaˈver bəʃaˈlom ʔavoˈtɛxa ʔɛl taˈvo ʔaˈta və",
+  "koreanPronunciation": "토바 베세바 티카베르 베샬롬 아보테하 엘 타보 아타 베",
+  "modern": "그러나 너는 평안히 네 조상들에게로 돌아가며, 장수하여 좋은 나이에 장사될 것이다.",
+  "words": [
+    {
+      "hebrew": "וְאַתָּה",
+      "meaning": "그러나 너는",
+      "ipa": "ʔaˈta və",
+      "korean": "아타 베",
+      "letters": "וְ(ve) + אַ(a) + תָּה(ta)",
+      "root": "אַתָּה (아타)",
+      "grammar": "대명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-you1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#6D28D9\" /></linearGradient><radialGradient id=\"peace15-you2\"><stop offset=\"0%\" stop-color=\"#FDE68A\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#peace15-you2)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 16 44 Q 16 36 24 36 L 40 36 Q 48 36 48 44 L 48 56 L 16 56 Z\" fill=\"url(#peace15-you1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "תָּבוֹא",
+      "meaning": "돌아갈 것이다",
+      "ipa": "taˈvo",
+      "korean": "타보",
+      "letters": "תָּ(ta) + בוֹא(vo)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사",
+      "emoji": "🏠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-come1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></linearGradient><linearGradient id=\"peace15-come2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FCD34D\" /></linearGradient></defs><polygon points=\"32,8 8,28 16,28 16,52 28,52 28,40 36,40 36,52 48,52 48,28 56,28\" fill=\"url(#peace15-come1)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"20\" y=\"32\" width=\"8\" height=\"12\" fill=\"url(#peace15-come2)\" /><rect x=\"36\" y=\"32\" width=\"8\" height=\"8\" fill=\"url(#peace15-come2)\" /><circle cx=\"32\" cy=\"12\" r=\"6\" fill=\"#FBBF24\" filter=\"drop-shadow(0 0 8px rgba(251, 191, 36, 0.8))\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다, 들어가다)",
+        "מָבוֹא (마보 - 입구)"
+      ]
+    },
+    {
+      "hebrew": "אֶל-אֲבֹתֶיךָ",
+      "meaning": "네 조상들에게로",
+      "ipa": "ʔavoˈtɛxa ʔɛl",
+      "korean": "아보테하 엘",
+      "letters": "אֶל(el) + אֲ(a) + בֹ(vo) + תֶ(te) + יךָ(kha)",
+      "root": "אָב (아브)",
+      "grammar": "명사",
+      "emoji": "👴",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-fathers1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></linearGradient><radialGradient id=\"peace15-fathers2\"><stop offset=\"0%\" stop-color=\"#FDE68A\" /><stop offset=\"100%\" stop-color=\"#FBBF24\" /></radialGradient></defs><circle cx=\"20\" cy=\"20\" r=\"8\" fill=\"url(#peace15-fathers2)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#peace15-fathers2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"20\" r=\"8\" fill=\"url(#peace15-fathers2)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 14 28 Q 14 32 18 32 L 22 32 Q 26 32 26 36 L 26 48 L 14 48 Z\" fill=\"url(#peace15-fathers1)\" opacity=\"0.7\" /><path d=\"M 26 28 Q 26 32 30 32 L 34 32 Q 38 32 38 36 L 38 48 L 26 48 Z\" fill=\"url(#peace15-fathers1)\" /><path d=\"M 38 28 Q 38 32 42 32 L 46 32 Q 50 32 50 36 L 50 48 L 38 48 Z\" fill=\"url(#peace15-fathers1)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אָבוֹת (아보트 - 조상들, 열조들)"
+      ]
+    },
+    {
+      "hebrew": "בְּשָׁלוֹם",
+      "meaning": "평안히",
+      "ipa": "bəʃaˈlom",
+      "korean": "베샬롬",
+      "letters": "בְּ(be) + שָׁ(sha) + לוֹם(lom)",
+      "root": "שָׁלוֹם (샬롬)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-peace1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#E0F2FE\" /><stop offset=\"100%\" stop-color=\"#BAE6FD\" /></linearGradient><linearGradient id=\"peace15-peace2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#10B981\" /><stop offset=\"100%\" stop-color=\"#059669\" /></linearGradient></defs><ellipse cx=\"28\" cy=\"32\" rx=\"16\" ry=\"10\" fill=\"url(#peace15-peace1)\" transform=\"rotate(-20 28 32)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"36\" cy=\"32\" rx=\"16\" ry=\"10\" fill=\"url(#peace15-peace1)\" transform=\"rotate(20 36 32)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#peace15-peace1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"30\" cy=\"27\" r=\"2\" fill=\"#1F2937\" /><path d=\"M 30 32 Q 32 33 34 32\" stroke=\"#F59E0B\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"32\" cy=\"44\" rx=\"4\" ry=\"2\" fill=\"url(#peace15-peace2)\" filter=\"drop-shadow(0 0 6px rgba(16, 185, 129, 0.6))\" /></svg>",
+      "relatedWords": [
+        "שָׁלוֹם (샬롬 - 평안, 화평)",
+        "שָׁלֵם (샬렘 - 완전한)"
+      ]
+    },
+    {
+      "hebrew": "תִּקָּבֵר",
+      "meaning": "장사될 것이다",
+      "ipa": "tiqaˈver",
+      "korean": "티카베르",
+      "letters": "תִּ(ti) + קָּ(qa) + בֵר(ver)",
+      "root": "ק-ב-ר (카바르)",
+      "grammar": "동사",
+      "emoji": "⚰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-bury1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#78716C\" /><stop offset=\"100%\" stop-color=\"#57534E\" /></linearGradient><linearGradient id=\"peace15-bury2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A8A29E\" /><stop offset=\"100%\" stop-color=\"#78716C\" /></linearGradient></defs><rect x=\"8\" y=\"36\" width=\"48\" height=\"20\" rx=\"2\" fill=\"url(#peace15-bury1)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 8 36 Q 8 28 16 28 L 48 28 Q 56 28 56 36\" fill=\"url(#peace15-bury2)\" opacity=\"0.6\" /><rect x=\"20\" y=\"24\" width=\"24\" height=\"4\" rx=\"1\" fill=\"url(#peace15-bury2)\" /><circle cx=\"32\" cy=\"44\" r=\"3\" fill=\"#D4D4D4\" opacity=\"0.5\" /><path d=\"M 12 16 Q 12 12 16 12 L 48 12 Q 52 12 52 16 L 52 24 L 12 24 Z\" fill=\"url(#peace15-bury2)\" opacity=\"0.3\" /></svg>"
+    },
+    {
+      "hebrew": "בְּשֵׂיבָה טוֹבָה",
+      "meaning": "좋은 노년에",
+      "ipa": "toˈva bəseˈva",
+      "korean": "토바 베세바",
+      "letters": "בְּ(be) + שֵׂי(se) + בָה(va) + טוֹ(to) + בָה(va)",
+      "root": "שֵׂיבָה (세이바)",
+      "grammar": "명사",
+      "emoji": "👴🏻",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peace15-age1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><linearGradient id=\"peace15-age2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E5E7EB\" /><stop offset=\"100%\" stop-color=\"#D1D5DB\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#peace15-age1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#peace15-age2)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 44 Q 12 36 20 36 L 44 36 Q 52 36 52 44 L 52 56 L 12 56 Z\" fill=\"url(#peace15-age1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"22\" r=\"2\" fill=\"#6B7280\" /><circle cx=\"38\" cy=\"22\" r=\"2\" fill=\"#6B7280\" /><path d=\"M 26 28 Q 32 32 38 28\" stroke=\"#F59E0B\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 16 Q 24 12 28 14\" stroke=\"url(#peace15-age2)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 44 16 Q 40 12 36 14\" stroke=\"url(#peace15-age2)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"#10B981\" filter=\"drop-shadow(0 0 6px rgba(16, 185, 129, 0.6))\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שֵׂיבָה (세이바 - 백발, 노년)",
+        "זָקֵן (자켄 - 늙은, 장로)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "후손들의 고난을 예고한 후, 하나님은 아브라함 개인에게 위로의 말씀을 주십니다. 아브라함 자신은 그 고난을 겪지 않을 것이며, 평안한 죽음과 장수의 복을 누릴 것이라는 약속입니다. 이는 하나님의 개인적인 돌보심과 은혜를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְאַתָּה (베아타) - 그러나 너는",
+        "description": "'베'는 대조를 나타내는 접속사입니다. 네 후손들은 고난을 받겠지만, 너 자신은 그렇지 않다는 것을 강조합니다. 하나님은 민족 전체뿐 아니라 개인 한 사람 한 사람을 돌보시는 분이십니다.",
+        "points": [
+          "하나님은 공동체뿐 아니라 개인도 사랑하십니다",
+          "아브라함은 후손의 고난을 직접 겪지 않을 것입니다",
+          "각 사람의 인생에는 하나님의 개별적인 계획이 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תָּבוֹא אֶל-אֲבֹתֶיךָ (타보 엘 아보테하) - 네 조상들에게로 돌아가다",
+        "description": "죽음을 '조상들에게로 돌아가다'라고 표현하는 것은 히브리 문화의 특징입니다. 이는 죽음 이후에도 계속되는 관계와 공동체를 암시하며, 죽음이 끝이 아니라 재결합이라는 희망을 담고 있습니다.",
+        "points": [
+          "죽음은 끝이 아니라 조상들과의 재결합입니다",
+          "히브리인들은 가족 무덤에 장사되는 것을 중요하게 여겼습니다",
+          "아브라함은 막벨라 굴에 사라와 함께 장사되었습니다 (창세기 25:9-10)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּשָׁלוֹם (베샬롬) - 평안히",
+        "description": "'샬롬'은 단순히 평화가 없다는 소극적 의미가 아니라, 완전함, 온전함, 번영, 건강을 모두 포함하는 포괄적인 축복의 단어입니다. 아브라함의 죽음은 두려움이나 고통이 아닌 평안 가운데 있을 것입니다.",
+        "points": [
+          "아브라함은 하나님과의 평안한 관계 속에서 삶을 마칠 것입니다",
+          "평안한 죽음은 신앙인의 복된 마지막입니다",
+          "샬롬은 영혼과 육체의 전인적 평안을 의미합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בְּשֵׂיבָה טוֹבָה (베세바 토바) - 좋은 노년에",
+        "description": "'세이바'는 백발, 노년을 의미하며, '토바'(좋은)와 함께 쓰여 장수와 존귀를 나타냅니다. 고대 근동에서 장수는 하나님의 축복의 표시였습니다. 실제로 아브라함은 175세까지 살았습니다 (창세기 25:7).",
+        "points": [
+          "장수는 구약에서 하나님의 축복의 증거였습니다",
+          "아브라함은 많은 날을 보고 만족하며 죽었습니다 (창세기 25:8)",
+          "좋은 노년은 단순히 오래 사는 것이 아니라 만족스러운 삶을 의미합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브라함에게만 평안히 죽을 것이라고 말씀하셨나요?",
+      "answer": "하나님은 아브라함을 특별히 사랑하셨고, 아브라함이 걱정하지 않도록 위로해 주고 싶으셨어요. 아브라함은 자기 후손들이 400년 동안 고생한다는 말을 듣고 마음이 아팠을 거예요. 그래서 하나님은 '네 후손들은 나중에 어려움을 겪겠지만, 너는 오래오래 행복하게 살다가 편안히 죽을 거야'라고 말씀해 주신 거랍니다. 하나님은 우리가 걱정할 때 위로해 주시고, 우리 한 사람 한 사람을 사랑하시는 분이에요.",
+      "bibleReferences": [
+        "창세기 25:7-8 - '아브라함이 누린 생애는 백칠십오 세라 아브라함이 수가 높고 나이가 많아 기운이 다하여 죽어 자기 조상에게로 돌아가매'",
+        "잠언 3:1-2 - '내 아들아 나의 법을 잊어버리지 말고... 그리하면 그것이 네 날과 네 생명의 해를 더하여 주며 네게 평강을 더하여 주리라'",
+        "욥기 5:26 - '네가 장수하다가 무덤에 이르리니 곡식단을 제 때에 거두어들임 같으리라'",
+        "시편 91:16 - '그를 장수하게 함으로 그를 만족하게 하며 나의 구원을 그에게 보이리로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님은 민족 전체의 역사뿐 아니라 개인의 삶도 섬세하게 돌보시는 분입니다. 아브라함에게 주신 평안한 죽음과 장수의 약속은, 하나님과 동행하는 자에게 주시는 복된 마지막을 보여줍니다. 신자의 죽음은 두려움이 아니라 조상들과의 재결합이며, 하나님 앞에서의 평안한 안식입니다. '베샬롬'(평안히)은 그리스도 안에서 완성된 영원한 평안을 예표합니다."
+    }
+  }
+}

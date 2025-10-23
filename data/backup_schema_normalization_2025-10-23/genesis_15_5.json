@@ -1,0 +1,148 @@
+{
+  "id": "genesis_15_5",
+  "reference": "창세기 15:5",
+  "hebrew": "",
+  "ipa": "vajjoˈʦe ʔoˈto haˈχuʦa vajˈjomer haˈbet na haʃaˈmajəma usəˈfor hakoχaˈvim ʔim tuˈχal lisˈpor ʔoˈtam vajˈjomer lo ko jihˈje zarˈʕeχa",
+  "koreanPronunciation": "바요체 오토 하후차 바요메르 하벳 나 하샤마이마 우스포르 하코하빔 임 투할 리스포르 오탐 바요메르 로 코 이흐예 자르에카",
+  "modern": "그분께서 그를 밖으로 데리고 나가 말씀하시되 '하늘을 우러러 별들을 셀 수 있으면 세어 보라' 하시고 그에게 이르시되 '네 자손이 이와 같으리라'",
+  "words": [
+    {
+      "hebrew": "וַיּוֹצֵא אֹתוֹ הַחוּצָה",
+      "meaning": "그를 밖으로 데리고 나가다",
+      "ipa": "vajjoˈʦe ʔoˈto haˈχuʦa",
+      "korean": "바요체 오토 하후차",
+      "letters": "וַ(va) + יּוֹצֵא(yotse) + אֹ(o) + תוֹ(to) + הַ(ha) + חוּצָה(chutza)",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사",
+      "emoji": "🚪",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"stars-promise1-out1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E3A8A\"/><stop offset=\"100%\" stop-color=\"#0F172A\"/></linearGradient><radialGradient id=\"stars-promise1-light1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"rgba(252, 211, 77, 0)\"/></radialGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"4\" fill=\"url(#stars-promise1-out1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\"/><circle cx=\"48\" cy=\"32\" r=\"18\" fill=\"url(#stars-promise1-light1)\" opacity=\"0.6\"/><path d=\"M 24 24 L 32 32 L 24 40\" stroke=\"#FCD34D\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"44\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"50\" cy=\"28\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"46\" cy=\"36\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "חוּץ (후츠 - 밖)"
+      ]
+    },
+    {
+      "hebrew": "הַבֶּט־נָא הַשָּׁמַיְמָה",
+      "meaning": "하늘을 우러러 보라",
+      "ipa": "haˈbet na haʃaˈmajəma",
+      "korean": "하벳 나 하샤마이마",
+      "letters": "הַ(ha) + בֶּט(bet) + נָא(na) + הַ(ha) + שָּׁמַיְמָה(shamayma)",
+      "root": "נ-ב-ט (나바트)",
+      "grammar": "동사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"stars-promise1-sky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E3A8A\"/><stop offset=\"50%\" stop-color=\"#3B82F6\"/><stop offset=\"100%\" stop-color=\"#60A5FA\"/></linearGradient><radialGradient id=\"stars-promise1-eye1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#60A5FA\"/></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#stars-promise1-sky1)\" opacity=\"0.4\" rx=\"8\"/><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"url(#stars-promise1-eye1)\" filter=\"drop-shadow(0 2px 6px rgba(59, 130, 246, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#1E3A8A\"/><circle cx=\"32\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\"/><path d=\"M 24 20 L 32 10 L 40 20\" stroke=\"#FCD34D\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "נָבַט (나바트 - 바라보다)",
+        "רָאָה (라아 - 보다)"
+      ]
+    },
+    {
+      "hebrew": "וּסְפֹר הַכּוֹכָבִים",
+      "meaning": "별들을 세라",
+      "ipa": "usəˈfor hakoχaˈvim",
+      "korean": "우스포르 하코하빔",
+      "letters": "וּ(u) + סְפֹר(sefor) + הַ(ha) + כּוֹכָבִים(kochavim)",
+      "root": "ס-פ-ר (사파르)",
+      "grammar": "동사",
+      "emoji": "⭐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"stars-promise1-star1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"50%\" stop-color=\"#F59E0B\"/><stop offset=\"100%\" stop-color=\"rgba(245, 158, 11, 0)\"/></radialGradient><linearGradient id=\"stars-promise1-night1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E1B4B\"/><stop offset=\"100%\" stop-color=\"#0F172A\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#stars-promise1-night1)\" rx=\"8\"/><circle cx=\"20\" cy=\"16\" r=\"8\" fill=\"url(#stars-promise1-star1)\" opacity=\"0.8\"/><polygon points=\"20,12 21,15 24,15 22,17 23,20 20,18 17,20 18,17 16,15 19,15\" fill=\"#FCD34D\" filter=\"drop-shadow(0 0 4px rgba(252, 211, 77, 0.8))\"/><polygon points=\"40,24 41,26 43,26 42,28 43,30 40,29 37,30 38,28 37,26 39,26\" fill=\"#FFFFFF\" opacity=\"0.9\"/><polygon points=\"52,40 53,42 55,42 54,43 54,45 52,44 50,45 51,43 50,42 52,42\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"28\" cy=\"44\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.7\"/><circle cx=\"48\" cy=\"18\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.7\"/><circle cx=\"36\" cy=\"52\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.6\"/></svg>",
+      "relatedWords": [
+        "מִסְפָּר (미스파르 - 수, 숫자)",
+        "סֵפֶר (세페르 - 책)"
+      ]
+    },
+    {
+      "hebrew": "אִם תּוּכַל לִסְפֹּר",
+      "meaning": "셀 수 있다면",
+      "ipa": "ʔim tuˈχal lisˈpor",
+      "korean": "임 투할 리스포르",
+      "letters": "אִם(im) + תּוּ(tu) + כַל(chal) + לִ(li) + סְפֹּר(sefor)",
+      "root": "י-כ-ל (야할)",
+      "grammar": "동사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"stars-promise1-question1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9333EA\"/><stop offset=\"100%\" stop-color=\"#6B21A8\"/></linearGradient><radialGradient id=\"stars-promise1-glow1\"><stop offset=\"0%\" stop-color=\"#C084FC\"/><stop offset=\"100%\" stop-color=\"rgba(192, 132, 252, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#stars-promise1-glow1)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"30\" r=\"20\" fill=\"url(#stars-promise1-question1)\" opacity=\"0.3\" filter=\"drop-shadow(0 3px 8px rgba(107, 33, 168, 0.4))\"/><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#stars-promise1-question1)\">?</text><circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"url(#stars-promise1-question1)\"/></svg>"
+    },
+    {
+      "hebrew": "כֹּה יִהְיֶה זַרְעֶךָ",
+      "meaning": "네 자손이 이와 같으리라",
+      "ipa": "ko jihˈje zarˈʕeχa",
+      "korean": "코 이흐예 자르에카",
+      "letters": "כֹּה(ko) + יִ(yi) + הְיֶה(hyeh) + זַ(zar) + רְעֶךָ(echa)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"stars-promise1-seed1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"50%\" stop-color=\"#F59E0B\"/><stop offset=\"100%\" stop-color=\"rgba(245, 158, 11, 0)\"/></radialGradient><linearGradient id=\"stars-promise1-family1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F59E0B\"/><stop offset=\"100%\" stop-color=\"#D97706\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#stars-promise1-seed1)\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#stars-promise1-family1)\" filter=\"drop-shadow(0 2px 4px rgba(217, 119, 6, 0.4))\"/><ellipse cx=\"22\" cy=\"44\" rx=\"8\" ry=\"10\" fill=\"url(#stars-promise1-family1)\" opacity=\"0.9\"/><ellipse cx=\"32\" cy=\"44\" rx=\"8\" ry=\"10\" fill=\"url(#stars-promise1-family1)\" opacity=\"0.9\"/><ellipse cx=\"42\" cy=\"44\" rx=\"8\" ry=\"10\" fill=\"url(#stars-promise1-family1)\" opacity=\"0.9\"/><circle cx=\"16\" cy=\"28\" r=\"4\" fill=\"#FCD34D\" opacity=\"0.7\"/><circle cx=\"48\" cy=\"28\" r=\"4\" fill=\"#FCD34D\" opacity=\"0.7\"/></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨, 자손)",
+        "בֵּן (벤 - 아들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 5절은 성경 전체에서 가장 극적이고 아름다운 장면 중 하나입니다. 하나님께서 자녀 없는 아브람을 밤하늘 아래로 데리고 나가 무수한 별들을 보여주시며, '네 자손이 이와 같으리라'고 약속하십니다. 이 약속은 85세의 노인에게는 불가능해 보였지만, 하나님의 창조적 능력을 상징하는 별들을 보며 아브람은 믿음을 갖게 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיּוֹצֵא אֹתוֹ הַחוּצָה (바요체 오토 하후차) - 그를 밖으로 데리고 나가다",
+        "description": "하나님께서 아브람을 텐트 밖으로 데리고 나가신 행동은 단순한 이동이 아닙니다. '후차(밖)'는 제한된 시야에서 벗어나 하나님의 광대한 창조 세계를 보게 하시는 신적 교육법입니다. 밤하늘의 별들은 인간의 눈으로 볼 수 있는 가장 장엄한 하나님의 작품입니다.",
+        "points": [
+          "텐트 안의 제한된 시야에서 우주의 광활함으로 시야를 확장하심",
+          "하나님은 육체의 눈뿐 아니라 믿음의 눈을 열어주심",
+          "시편 19:1 '하늘이 하나님의 영광을 선포하고 궁창이 그의 손으로 하신 일을 나타내는도다'",
+          "별을 만드신 분이 자손도 창조하실 수 있다는 시각적 증거"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַבֶּט־נָא הַשָּׁמַיְמָה (하벳 나 하샤마이마) - 하늘을 우러러 보라",
+        "description": "'나바트'는 단순히 보는 것이 아니라 '주의 깊게 응시하다, 명상하다'를 의미합니다. 하나님은 아브람에게 별들을 세어보라고 하시지만, 이는 실제로 세는 것이 아니라 그 무수함을 깨닫게 하시는 것입니다. 고대 천문학에 따르면 육안으로 볼 수 있는 별은 약 6,000-7,000개입니다.",
+        "points": [
+          "하나님은 아브람의 시선을 땅의 문제에서 하늘의 약속으로 돌리심",
+          "별들의 수는 인간이 셀 수 없을 만큼 많음 - 무한한 축복의 상징",
+          "현대 천문학: 우리 은하에만 약 2,000억-4,000억 개의 별 존재",
+          "요한계시록 1:16 '그의 오른손에 일곱 별이 있고' - 별은 하나님의 통치권 상징"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וּסְפֹר הַכּוֹכָבִים (우스포르 하코하빔) - 별들을 세라",
+        "description": "'사파르'는 '세다, 계산하다'뿐 아니라 '선포하다, 이야기하다'를 의미합니다. 하나님은 아브람에게 불가능한 과제(별 세기)를 주심으로써, 자손의 약속도 인간의 능력을 초월함을 보여주십니다. 이는 수사적 질문으로, '셀 수 없다'는 답을 유도합니다.",
+        "points": [
+          "시편 147:4 '그가 별의 수효를 세시고 그것들을 다 이름대로 부르시는도다'",
+          "인간은 별을 셀 수 없지만, 하나님은 각 별의 이름까지 아심",
+          "아브라함의 후손은 현재 유대인, 이스마엘 후손(아랍인), 믿음의 자녀(기독교인) 수십억",
+          "로마서 4:18 '그가 바랄 수 없는 중에 바라고 믿었으니 이는 네 후손이 이같으리라'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "כֹּה יִהְיֶה זַרְעֶךָ (코 이흐예 자르에카) - 네 자손이 이와 같으리라",
+        "description": "'코(이와 같이)'는 직접적인 비교를 나타냅니다. '자라(씨)'는 단순히 자녀가 아니라 후손 전체, 더 나아가 메시아를 가리킵니다. 이 약속은 이삭, 야곱, 이스라엘 민족을 거쳐 궁극적으로 예수 그리스도를 통해 모든 믿는 자들에게 성취됩니다.",
+        "points": [
+          "갈라디아서 3:16 '네 씨에게 하셨으니 곧 그리스도라'",
+          "갈라디아서 3:29 '너희가 그리스도의 것이면 곧 아브라함의 자손이요'",
+          "하나님의 약속은 육체적 자손뿐 아니라 영적 자손까지 포함",
+          "요한복음 8:56 '너희 조상 아브라함은 나의 때 볼 것을 즐거워하다가 보고 기뻐하였느니라'"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 아브람에게 별을 보여주셨나요?",
+      "answer": "아브람은 아기가 없어서 너무 슬펐어요. 그래서 하나님께서 아브람을 밖으로 데리고 나가 밤하늘의 별을 보여주셨어요. '별이 몇 개나 되는지 세어 봐. 셀 수 없지? 네 자손도 이렇게 많아질 거야'라고 말씀하셨어요. 하나님은 별을 만드신 분이니까, 아기가 없는 아브람에게도 자손을 주실 수 있다는 걸 보여주신 거예요. 마치 엄마 아빠가 '내가 이렇게 큰 집을 지었으니, 네 장난감 집도 만들 수 있어'라고 말하는 것과 같아요.",
+      "bibleReferences": [
+        "창세기 22:17 - '네 씨를 크게 번성하게 하여 하늘의 별과 같고 바닷가의 모래와 같게 하리니'",
+        "출애굽기 32:13 - '하늘의 별같이 너희 자손을 번성하게 하리라'",
+        "신명기 1:10 - '너희의 하나님 여호와께서 너희를 번성하게 하셨으므로 너희가 오늘날 하늘의 별 같이 많거니와'",
+        "히브리서 11:12 - '그러므로 죽은 자와 같은 한 사람으로 말미암아 하늘의 허다한 별과 같고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "별을 보여주시는 하나님의 행동은 단순한 비유가 아니라 신학적 교훈입니다. 별을 창조하신 분이 생명도 창조하실 수 있다는 진리, 인간의 눈으로 셀 수 없는 축복을 주시는 하나님의 풍성함, 그리고 약속은 반드시 성취된다는 신실하심을 담고 있습니다. 이 약속은 이삭을 통해 시작되어, 예수 그리스도를 통해 모든 민족에게 확장되었으며, 오늘날 믿음으로 아브라함의 자손이 된 우리에게도 유효합니다. 밤하늘의 별들은 지금도 하나님의 신실한 약속을 증거합니다."
+    }
+  }
+}

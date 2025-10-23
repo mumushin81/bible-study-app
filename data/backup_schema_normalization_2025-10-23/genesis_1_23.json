@@ -1,0 +1,135 @@
+{
+  "id": "genesis_1_23",
+  "reference": "창세기 1:23",
+  "hebrew": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם חֲמִישִֽׁי",
+  "ipa": "vaˈjəhi ˈɛrɛv vaˈjəhi ˈboqɛr ˈjom χamiˈʃi",
+  "koreanPronunciation": "바예히 에레브 바예히 보케르 욤 하미쉬",
+  "modern": "저녁이 되고 아침이 되니 다섯째 날이 되었습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 ~이 되었다",
+      "ipa": "vaˈjəhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(yə) + הִ(hi) + י(i)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cycle23\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#667EEA\" /></linearGradient><radialGradient id=\"glow23\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow23)\" opacity=\"0.3\" /><path d=\"M 32 8 A 20 20 0 1 1 31.9 8\" stroke=\"url(#cycle23)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(102, 126, 234, 0.8))\" /><path d=\"M 44 16 L 52 12 L 48 20 Z\" fill=\"url(#cycle23)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "הֹוֶה (호베 - 존재하는)"
+      ]
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "meaning": "저녁",
+      "ipa": "ˈɛrɛv",
+      "korean": "에레브",
+      "letters": "עֶ(e) + רֶ(re) + ב(v)",
+      "root": "ע-ר-ב (아라브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sunset23\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"60%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#4A5568\" /></linearGradient><radialGradient id=\"sun23\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"60%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sunset23)\" rx=\"8\" /><circle cx=\"32\" cy=\"44\" r=\"14\" fill=\"url(#sun23)\" filter=\"drop-shadow(0 0 12px rgba(255, 140, 0, 0.9))\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"52\" rx=\"24\" ry=\"6\" fill=\"#FF8C00\" opacity=\"0.4\" /><path d=\"M 8 48 Q 32 52 56 48\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 12 42 Q 32 46 52 42\" stroke=\"#FFA500\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עֲרָבִים (아라빔 - 저녁들, 황혼)",
+        "מַעֲרָב (마아라브 - 서쪽)"
+      ]
+    },
+    {
+      "hebrew": "בֹ֖קֶר",
+      "meaning": "아침",
+      "ipa": "ˈboqɛr",
+      "korean": "보케르",
+      "letters": "בֹ(bo) + קֶ(qe) + ר(r)",
+      "root": "ב-ק-ר (바카르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dawn23\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1A365D\" /><stop offset=\"30%\" stop-color=\"#4299E1\" /><stop offset=\"60%\" stop-color=\"#FBD38D\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"morning23\"><stop offset=\"0%\" stop-color=\"#FFF5E1\" /><stop offset=\"40%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#dawn23)\" rx=\"8\" /><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#morning23)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 0.9))\" /><g stroke=\"#FFD700\" stroke-width=\"2.5\" opacity=\"0.8\"><line x1=\"32\" y1=\"4\" x2=\"32\" y2=\"10\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"12\" x2=\"43\" y2=\"17\" stroke-linecap=\"round\" /><line x1=\"54\" y1=\"20\" x2=\"48\" y2=\"20\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"28\" x2=\"43\" y2=\"23\" stroke-linecap=\"round\" /><line x1=\"16\" y1=\"12\" x2=\"21\" y2=\"17\" stroke-linecap=\"round\" /><line x1=\"10\" y1=\"20\" x2=\"16\" y2=\"20\" stroke-linecap=\"round\" /><line x1=\"16\" y1=\"28\" x2=\"21\" y2=\"23\" stroke-linecap=\"round\" /></g><path d=\"M 0 64 Q 16 48 32 52 Q 48 56 64 44 L 64 64 Z\" fill=\"#2D3748\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בִּקֵּר (비케르 - 방문하다, 찾다)",
+        "בְּכוֹר (베코르 - 첫째, 장남)"
+      ]
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "meaning": "날",
+      "ipa": "ˈjom",
+      "korean": "욤",
+      "letters": "י(yo) + וֹ(o) + ם(m)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"day23\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4299E1\" /><stop offset=\"50%\" stop-color=\"#90CDF4\" /><stop offset=\"100%\" stop-color=\"#4299E1\" /></linearGradient><radialGradient id=\"circle23\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#4299E1\" /></radialGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"6\" fill=\"url(#day23)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.2))\" /><rect x=\"8\" y=\"8\" width=\"48\" height=\"12\" rx=\"6\" fill=\"#2B6CB0\" /><circle cx=\"20\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"44\" cy=\"14\" r=\"2\" fill=\"#FFFFFF\" /><text x=\"32\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"18\" font-weight=\"bold\" fill=\"#2D3748\" text-anchor=\"middle\" dominant-baseline=\"middle\">5</text><g opacity=\"0.6\"><rect x=\"16\" y=\"28\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#CBD5E0\" /><rect x=\"26\" y=\"28\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#CBD5E0\" /><rect x=\"36\" y=\"28\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#CBD5E0\" /><rect x=\"16\" y=\"38\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#CBD5E0\" /><rect x=\"36\" y=\"38\" width=\"6\" height=\"6\" rx=\"1\" fill=\"#CBD5E0\" /></g></svg>",
+      "relatedWords": [
+        "יוֹמָם (요맘 - 낮, 낮 시간)",
+        "הַיּוֹם (하욤 - 오늘)"
+      ]
+    },
+    {
+      "hebrew": "חֲמִישִֽׁי",
+      "meaning": "다섯째",
+      "ipa": "χamiˈʃi",
+      "korean": "하미쉬",
+      "letters": "חֲ(cha) + מִ(mi) + ישִׁ(shi) + י(i)",
+      "root": "ח-מ-שׁ (하메쉬)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"five23\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#48BB78\" /><stop offset=\"50%\" stop-color=\"#38A169\" /><stop offset=\"100%\" stop-color=\"#2F855A\" /></linearGradient><radialGradient id=\"glow5\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#48BB78\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#five23)\" filter=\"drop-shadow(0 6px 12px rgba(56, 161, 105, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow5)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.3\" /><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" dominant-baseline=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\">5</text><g fill=\"#FFFFFF\" opacity=\"0.6\"><circle cx=\"32\" cy=\"10\" r=\"2\" /><circle cx=\"48\" cy=\"22\" r=\"2\" /><circle cx=\"44\" cy=\"44\" r=\"2\" /><circle cx=\"20\" cy=\"44\" r=\"2\" /><circle cx=\"16\" cy=\"22\" r=\"2\" /></g></svg>",
+      "relatedWords": [
+        "חָמֵשׁ (하메쉬 - 다섯)",
+        "חֲמִשִּׁים (하미쉼 - 오십)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:23은 다섯째 날의 창조 사역이 완성되었음을 선언합니다. 물고기와 새들이 창조된 후, 하나님은 이 날을 '저녁과 아침'이라는 표현으로 구분하십니다. 이는 창조의 각 단계가 완전하고 질서 있게 진행되었음을 보여주는 히브리 시간 개념의 표현입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "עֶרֶב וּבֹקֶר (에레브 우보케르) - 저녁과 아침, 히브리 시간의 시작",
+        "description": "히브리 문화에서는 하루가 저녁부터 시작됩니다. '저녁이 되고 아침이 되니'라는 반복 구조는 창세기 1장 전체에 걸쳐 나타나며, 각 창조일의 완성을 표시하는 문학적 장치입니다. 이는 하나님의 창조가 계획적이고 질서 있게 진행되었음을 강조합니다.",
+        "points": [
+          "히브리인들은 해가 지면서 새로운 날이 시작된다고 믿었습니다",
+          "어둠에서 빛으로 나아가는 하나님의 창조 순서를 반영합니다",
+          "각 날의 구분은 창조의 체계성과 완전함을 나타냅니다",
+          "오늘날 유대교 안식일이 금요일 저녁부터 시작하는 이유입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יוֹם חֲמִישִׁי (욤 하미쉬) - 다섯째 날, 생명의 다양성",
+        "description": "다섯째 날은 하늘과 바다에 생명체가 가득 차게 된 날입니다. 물고기와 새들의 창조는 하나님이 생명에 풍성함과 다양성을 주셨음을 보여줍니다. '번성하라'는 첫 번째 축복이 이날 주어졌으며, 이는 생명의 본질이 확장과 번영임을 나타냅니다.",
+        "points": [
+          "최초의 척추동물이 창조된 날입니다",
+          "하늘과 바다라는 두 영역이 동시에 생명으로 채워졌습니다",
+          "하나님의 첫 번째 축복이 피조물에게 주어진 날입니다",
+          "생명의 다양성은 창조주의 풍성한 상상력을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיְהִי (바예히) - 그리고 되었다, 완성의 확인",
+        "description": "'바예히'는 히브리어 동사 '하야(되다, 존재하다)'의 연속형입니다. 이 표현은 하나님의 창조 명령이 완전히 성취되었음을 확인합니다. 말씀하신 것이 그대로 이루어지는 하나님의 신실하심과 창조적 권능을 나타냅니다.",
+        "points": [
+          "하나님의 말씀과 그 성취 사이에 실패나 지연이 없습니다",
+          "창조의 각 단계가 완벽하게 완성되었음을 선언합니다",
+          "시간의 경과를 표현하는 동시에 완성의 확정성을 나타냅니다",
+          "하나님의 창조 계획은 반드시 이루어진다는 신학적 확신을 줍니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 하루를 저녁부터 시작하셨을까요?",
+      "answer": "하나님은 처음에 세상이 어두웠던 것을 기억하게 하시려고 저녁부터 시작하셨어요. 창세기 1:2에서 세상은 어둠으로 가득했지만, 하나님이 빛을 만드시고 좋은 것들을 만드셨죠. 저녁(어둠)에서 아침(빛)으로 가는 것은 하나님이 우리 삶에도 어려운 일(어둠) 다음에 항상 좋은 것(빛)을 주신다는 것을 보여주는 거예요. 마치 밤에 자고 일어나면 새로운 하루가 시작되는 것처럼요!",
+      "bibleReferences": [
+        "창세기 1:2-3 - '땅이 혼돈하고 공허하며 흑암이 깊음 위에 있고... 하나님이 이르시되 빛이 있으라'",
+        "시편 30:5 - '저녁에는 울음이 깃들일지라도 아침에는 기쁨이 오리로다'",
+        "요한복음 1:5 - '빛이 어둠에 비치되 어둠이 깨닫지 못하더라'",
+        "로마서 13:12 - '밤이 깊고 낮이 가까웠으니 그러므로 우리가 어둠의 일을 벗고 빛의 갑옷을 입자'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창조의 각 날이 저녁과 아침으로 구분되는 것은 하나님의 창조가 질서 있고 목적이 있음을 보여줍니다. 다섯째 날은 생명의 풍성함을 드러내며, 하나님이 세상을 생명으로 가득 채우시는 분임을 선포합니다. 이는 예수 그리스도를 통해 영적 생명을 풍성히 주시는 하나님의 구원 사역을 예표합니다 - '내가 온 것은 양으로 생명을 얻게 하고 더 풍성히 얻게 하려는 것이라'(요한복음 10:10)."
+    }
+  }
+}
