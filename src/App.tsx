@@ -261,107 +261,56 @@ export default function App() {
               )}
 
               {activeTab === 'vocabulary' && (
-                <div className="flex items-center gap-1.5 sm:gap-2">
+                <div className="flex items-center gap-2">
                   {/* 단어장 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('words')}
-                    title="단어장"
-                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all ${
                       vocabularyViewMode === 'words'
                         ? darkMode
-                          ? 'bg-purple-500/20 text-purple-300 border-purple-400/50'
-                          : 'bg-purple-50 text-purple-700 border-purple-300/70'
+                          ? 'bg-purple-600 text-white shadow-lg shadow-purple-500/30'
+                          : 'bg-purple-600 text-white shadow-lg shadow-purple-500/30'
                         : darkMode
-                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
-                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                          ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                          : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
-                    {/* Book/Words SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
-                      <defs>
-                        <linearGradient id="vocab-book-grad" x1="0%" y1="0%" x2="100%" y2="100%">
-                          <stop offset="0%" stopColor="#EC4899" />
-                          <stop offset="100%" stopColor="#8B5CF6" />
-                        </linearGradient>
-                        <radialGradient id="vocab-glow">
-                          <stop offset="0%" stopColor="#FFFFFF" stopOpacity="0.6" />
-                          <stop offset="100%" stopColor="#EC4899" stopOpacity="0" />
-                        </radialGradient>
-                      </defs>
-                      <circle cx="32" cy="32" r="24" fill="url(#vocab-glow)" opacity="0.3" />
-                      <rect x="18" y="14" width="28" height="36" rx="2" fill="url(#vocab-book-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
-                      <rect x="18" y="14" width="3" height="36" fill="#A855F7" opacity="0.5" />
-                      <line x1="24" y1="22" x2="42" y2="22" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
-                      <line x1="24" y1="28" x2="42" y2="28" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
-                      <line x1="24" y1="34" x2="38" y2="34" stroke="#FFF" strokeWidth="1.5" opacity="0.7" />
-                    </svg>
-                    <span className="hidden sm:inline">단어장</span>
+                    <span className="text-base">📚</span>
+                    <span>단어장</span>
                   </button>
 
                   {/* 어근학습 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('roots')}
-                    title="어근학습"
-                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all ${
                       vocabularyViewMode === 'roots'
                         ? darkMode
-                          ? 'bg-green-500/20 text-green-300 border-green-400/50'
-                          : 'bg-green-50 text-green-700 border-green-300/70'
+                          ? 'bg-green-600 text-white shadow-lg shadow-green-500/30'
+                          : 'bg-green-600 text-white shadow-lg shadow-green-500/30'
                         : darkMode
-                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
-                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                          ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                          : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
-                    {/* Tree/Roots SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
-                      <defs>
-                        <linearGradient id="roots-tree-grad" x1="0%" y1="0%" x2="0%" y2="100%">
-                          <stop offset="0%" stopColor="#10B981" />
-                          <stop offset="100%" stopColor="#059669" />
-                        </linearGradient>
-                        <radialGradient id="roots-leaves-grad">
-                          <stop offset="0%" stopColor="#6EE7B7" />
-                          <stop offset="100%" stopColor="#10B981" />
-                        </radialGradient>
-                      </defs>
-                      <rect x="28" y="28" width="8" height="24" rx="1" fill="url(#roots-tree-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
-                      <circle cx="32" cy="20" r="12" fill="url(#roots-leaves-grad)" opacity="0.9" filter="drop-shadow(0 2px 4px rgba(0,0,0,0.2))" />
-                      <circle cx="24" cy="26" r="8" fill="url(#roots-leaves-grad)" opacity="0.8" />
-                      <circle cx="40" cy="26" r="8" fill="url(#roots-leaves-grad)" opacity="0.8" />
-                      <path d="M 28 52 Q 20 56 16 60 M 36 52 Q 44 56 48 60 M 32 52 L 32 60" stroke="#059669" strokeWidth="2" fill="none" opacity="0.6" />
-                    </svg>
-                    <span className="hidden sm:inline">어근학습</span>
+                    <span className="text-base">🌱</span>
+                    <span>어근</span>
                   </button>
 
-                  {/* 진도대시보드 버튼 */}
+                  {/* 진도 버튼 */}
                   <button
                     onClick={() => setVocabularyViewMode('dashboard')}
-                    title="진도대시보드"
-                    className={`flex items-center gap-1.5 sm:gap-2 px-2 sm:px-3 py-2 rounded-lg text-sm font-medium transition-all border-2 ${
+                    className={`flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs sm:text-sm font-medium transition-all ${
                       vocabularyViewMode === 'dashboard'
                         ? darkMode
-                          ? 'bg-blue-500/20 text-blue-300 border-blue-400/50'
-                          : 'bg-blue-50 text-blue-700 border-blue-300/70'
+                          ? 'bg-blue-600 text-white shadow-lg shadow-blue-500/30'
+                          : 'bg-blue-600 text-white shadow-lg shadow-blue-500/30'
                         : darkMode
-                          ? 'text-gray-400 hover:text-gray-200 hover:bg-white/5 border-transparent'
-                          : 'text-gray-600 hover:text-gray-700 hover:bg-gray-50 border-transparent'
+                          ? 'bg-gray-800 text-gray-300 hover:bg-gray-700'
+                          : 'bg-gray-100 text-gray-700 hover:bg-gray-200'
                     }`}
                   >
-                    {/* Chart/Dashboard SVG Icon */}
-                    <svg viewBox="0 0 64 64" className="w-5 h-5 flex-shrink-0" xmlns="http://www.w3.org/2000/svg">
-                      <defs>
-                        <linearGradient id="dash-chart-grad" x1="0%" y1="100%" x2="100%" y2="0%">
-                          <stop offset="0%" stopColor="#3B82F6" />
-                          <stop offset="100%" stopColor="#60A5FA" />
-                        </linearGradient>
-                      </defs>
-                      <rect x="12" y="40" width="10" height="16" rx="2" fill="url(#dash-chart-grad)" opacity="0.8" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
-                      <rect x="27" y="28" width="10" height="28" rx="2" fill="url(#dash-chart-grad)" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
-                      <rect x="42" y="18" width="10" height="38" rx="2" fill="url(#dash-chart-grad)" opacity="0.9" filter="drop-shadow(0 2px 3px rgba(0,0,0,0.2))" />
-                      <polyline points="12,38 22,28 32,32 42,18 52,22" stroke="#60A5FA" strokeWidth="2" fill="none" opacity="0.6" />
-                      <circle cx="32" cy="12" r="6" fill="#60A5FA" opacity="0.3" />
-                    </svg>
-                    <span className="hidden sm:inline">진도대시보드</span>
+                    <span className="text-base">📊</span>
+                    <span>진도</span>
                   </button>
                 </div>
               )}
