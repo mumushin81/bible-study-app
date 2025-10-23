@@ -192,7 +192,7 @@ export default function FlashCardV2({
           }}
         >
           <div className="h-full flex flex-col items-center justify-center gap-6 text-center">
-            {/* SVG 아이콘 */}
+            {/* 1. SVG 아이콘 */}
             <div className="flex justify-center">
               <HebrewIcon
                 word={word.hebrew}
@@ -202,7 +202,16 @@ export default function FlashCardV2({
               />
             </div>
 
-            {/* 뜻 */}
+            {/* 2. 원문 단어 */}
+            <div
+              className={`text-4xl font-bold ${darkMode ? 'text-white' : 'text-gray-900'}`}
+              dir="rtl"
+              style={{ fontFamily: 'David, serif' }}
+            >
+              {word.hebrew}
+            </div>
+
+            {/* 3. 뜻 */}
             <div
               className={`text-3xl font-bold ${
                 darkMode ? 'text-white' : 'text-gray-900'
@@ -211,18 +220,18 @@ export default function FlashCardV2({
               {word.meaning}
             </div>
 
-            {/* 어근 */}
+            {/* 4. 어근 */}
             {word.root && (
-              <div className="space-y-1">
+              <div className="space-y-2">
                 <div
-                  className={`text-xs font-semibold ${
+                  className={`text-sm font-semibold ${
                     darkMode ? 'text-amber-400' : 'text-amber-700'
                   }`}
                 >
                   어근
                 </div>
                 <div
-                  className={`text-lg font-medium ${
+                  className={`text-xl font-medium ${
                     darkMode ? 'text-amber-200' : 'text-amber-900'
                   }`}
                   dir="rtl"
@@ -232,18 +241,18 @@ export default function FlashCardV2({
               </div>
             )}
 
-            {/* 품사 */}
+            {/* 5. 품사 */}
             {word.grammar && (
-              <div className="space-y-1">
+              <div className="space-y-2">
                 <div
-                  className={`text-xs font-semibold ${
+                  className={`text-sm font-semibold ${
                     darkMode ? 'text-purple-400' : 'text-purple-700'
                   }`}
                 >
                   품사
                 </div>
                 <div
-                  className={`text-lg font-medium ${
+                  className={`text-xl font-medium ${
                     darkMode ? 'text-purple-200' : 'text-purple-900'
                   }`}
                 >

@@ -85,20 +85,20 @@ export default function FlashCard({
             </div>
           )}
 
-          <div className="text-center w-full">
-            {/* SVG 아이콘 */}
-            <div className="mb-4 flex justify-center">
+          <div className="text-center w-full flex flex-col items-center justify-center gap-4">
+            {/* 1. SVG 아이콘 */}
+            <div className="flex justify-center">
               <HebrewIcon
                 word={word.hebrew}
                 iconSvg={word.iconSvg}
-                size={80}
+                size={96}
                 color={darkMode ? '#ffffff' : '#1f2937'}
               />
             </div>
 
-            {/* 히브리어 (크게) */}
+            {/* 2. 원문 단어 */}
             <div
-              className={`text-4xl sm:text-5xl font-bold mb-3 ${
+              className={`text-5xl font-bold ${
                 darkMode ? 'text-white' : 'text-gray-900'
               }`}
               dir="rtl"
@@ -107,67 +107,28 @@ export default function FlashCard({
               {word.hebrew}
             </div>
 
-            {/* 의미 (보통 크기) */}
-            <div className={`text-lg sm:text-xl font-semibold mb-4 ${
-              darkMode ? 'text-gray-300' : 'text-gray-700'
-            }`}>
-              {word.meaning}
-            </div>
-
-            {/* 발음 */}
-            {word.korean && (
-              <div className={`text-sm mb-2 ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
-                [{word.korean}]
+            {/* 3. 알파벳 읽기 */}
+            {word.letters && (
+              <div
+                className={`text-base font-medium ${
+                  darkMode ? 'text-emerald-300' : 'text-emerald-700'
+                }`}
+                dir="rtl"
+              >
+                {word.letters}
               </div>
             )}
 
-            {/* 탭 안내 */}
-            <div
-              className={`text-xs mt-6 px-3 py-1.5 rounded-lg inline-block ${
-                darkMode
-                  ? 'bg-gray-700 text-gray-400'
-                  : 'bg-gray-100 text-gray-600'
-              }`}
-            >
-              탭하여 자세히 보기
-            </div>
-          </div>
-        </div>
-
-        {/* 뒷면 - 깔끔한 정보 표시 */}
-        <div
-          className={`absolute inset-0 p-5 rounded-2xl ${
-            darkMode
-              ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-2 border-gray-700'
-              : 'bg-gradient-to-br from-white to-gray-50 border-2 border-gray-200'
-          } overflow-y-auto shadow-lg`}
-          style={{
-            backfaceVisibility: 'hidden',
-            WebkitBackfaceVisibility: 'hidden',
-            transform: 'rotateY(180deg)',
-          }}
-        >
-          <div className="h-full flex flex-col gap-4">
-            {/* 상단: 히브리어 + 의미 */}
-            <div className="text-center">
-              <div
-                className={`text-3xl font-bold mb-2 ${darkMode ? 'text-white' : 'text-gray-900'}`}
-                dir="rtl"
-                style={{ fontFamily: 'David, serif' }}
-              >
-                {word.hebrew}
-              </div>
-              <div className={`text-xl font-semibold ${darkMode ? 'text-gray-300' : 'text-gray-700'}`}>
-                {word.meaning}
-              </div>
-            </div>
-
-            {/* 발음 + 재생 버튼 */}
-            <div className="flex items-center justify-center gap-2">
+            {/* 4. 한국어 발음 + 발음 듣기 버튼 */}
+            <div className="flex items-center justify-center gap-3">
               {word.korean && (
-                <div className={`px-3 py-1.5 rounded-lg text-sm font-medium ${
-                  darkMode ? 'bg-gray-700 text-gray-200' : 'bg-gray-100 text-gray-800'
-                }`}>
+                <div
+                  className={`px-4 py-2 rounded-lg text-base font-medium ${
+                    darkMode
+                      ? 'bg-gray-700 text-gray-200'
+                      : 'bg-gray-100 text-gray-800'
+                  }`}
+                >
                   [{word.korean}]
                 </div>
               )}
@@ -176,79 +137,119 @@ export default function FlashCard({
                   e.stopPropagation();
                   speakHebrew(word.hebrew);
                 }}
-                className={`p-2 rounded-lg ${
+                className={`p-2.5 rounded-lg ${
                   darkMode
                     ? 'bg-purple-600 hover:bg-purple-700 text-white'
                     : 'bg-purple-500 hover:bg-purple-600 text-white'
                 } transition-all`}
+                aria-label="발음 듣기"
               >
-                <Volume2 size={16} />
+                <Volume2 size={18} />
               </button>
             </div>
 
-            {/* 핵심 정보 */}
-            <div className="space-y-2.5 flex-1">
-              {/* 어근 */}
-              {word.root && (
-                <div className={`p-3 rounded-lg ${
-                  darkMode ? 'bg-amber-900/20' : 'bg-amber-50'
-                }`}>
-                  <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-amber-400' : 'text-amber-700'}`}>
-                    어근
-                  </div>
-                  <div className={`text-sm font-medium ${darkMode ? 'text-amber-200' : 'text-amber-900'}`} dir="rtl">
-                    {word.root}
-                  </div>
-                </div>
-              )}
+            {/* 탭 안내 */}
+            <div
+              className={`text-xs mt-4 px-3 py-1.5 rounded-lg ${
+                darkMode
+                  ? 'bg-gray-700 text-gray-400'
+                  : 'bg-gray-100 text-gray-600'
+              }`}
+            >
+              탭하여 뜻 보기
+            </div>
+          </div>
+        </div>
 
-              {/* 품사 */}
-              {word.grammar && (
-                <div className={`p-3 rounded-lg ${
-                  darkMode ? 'bg-purple-900/20' : 'bg-purple-50'
-                }`}>
-                  <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-purple-400' : 'text-purple-700'}`}>
-                    품사
-                  </div>
-                  <div className={`text-sm font-medium ${darkMode ? 'text-purple-200' : 'text-purple-900'}`}>
-                    {getSimpleGrammar(word.grammar)}
-                  </div>
-                </div>
-              )}
-
-              {/* 알파벳 */}
-              {word.letters && (
-                <div className={`p-3 rounded-lg ${
-                  darkMode ? 'bg-emerald-900/20' : 'bg-emerald-50'
-                }`}>
-                  <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-emerald-400' : 'text-emerald-700'}`}>
-                    알파벳 읽기
-                  </div>
-                  <div className={`text-sm font-medium ${darkMode ? 'text-emerald-200' : 'text-emerald-900'}`} dir="rtl">
-                    {word.letters}
-                  </div>
-                </div>
-              )}
-
-              {/* 비슷한 단어 */}
-              {word.relatedWords && word.relatedWords.length > 0 && (
-                <div className={`p-3 rounded-lg ${
-                  darkMode ? 'bg-blue-900/20' : 'bg-blue-50'
-                }`}>
-                  <div className={`text-xs font-semibold mb-1 ${darkMode ? 'text-blue-400' : 'text-blue-700'}`}>
-                    비슷한 단어
-                  </div>
-                  <div className={`text-sm font-medium ${darkMode ? 'text-blue-200' : 'text-blue-900'}`}>
-                    {word.relatedWords.join(', ')}
-                  </div>
-                </div>
-              )}
+        {/* 뒷면 - SVG, 원문, 뜻, 어근, 품사 */}
+        <div
+          className={`absolute inset-0 p-8 rounded-2xl ${
+            darkMode
+              ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-2 border-gray-700'
+              : 'bg-gradient-to-br from-white to-gray-50 border-2 border-gray-200'
+          } shadow-lg`}
+          style={{
+            backfaceVisibility: 'hidden',
+            WebkitBackfaceVisibility: 'hidden',
+            transform: 'rotateY(180deg)',
+          }}
+        >
+          <div className="h-full flex flex-col items-center justify-center gap-6 text-center">
+            {/* 1. SVG 아이콘 */}
+            <div className="flex justify-center">
+              <HebrewIcon
+                word={word.hebrew}
+                iconSvg={word.iconSvg}
+                size={80}
+                color={darkMode ? '#ffffff' : '#1f2937'}
+              />
             </div>
 
+            {/* 2. 원문 단어 */}
+            <div
+              className={`text-4xl font-bold ${darkMode ? 'text-white' : 'text-gray-900'}`}
+              dir="rtl"
+              style={{ fontFamily: 'David, serif' }}
+            >
+              {word.hebrew}
+            </div>
+
+            {/* 3. 뜻 */}
+            <div
+              className={`text-3xl font-bold ${
+                darkMode ? 'text-white' : 'text-gray-900'
+              }`}
+            >
+              {word.meaning}
+            </div>
+
+            {/* 4. 어근 */}
+            {word.root && (
+              <div className="space-y-2">
+                <div
+                  className={`text-sm font-semibold ${
+                    darkMode ? 'text-amber-400' : 'text-amber-700'
+                  }`}
+                >
+                  어근
+                </div>
+                <div
+                  className={`text-xl font-medium ${
+                    darkMode ? 'text-amber-200' : 'text-amber-900'
+                  }`}
+                  dir="rtl"
+                >
+                  {word.root}
+                </div>
+              </div>
+            )}
+
+            {/* 5. 품사 */}
+            {word.grammar && (
+              <div className="space-y-2">
+                <div
+                  className={`text-sm font-semibold ${
+                    darkMode ? 'text-purple-400' : 'text-purple-700'
+                  }`}
+                >
+                  품사
+                </div>
+                <div
+                  className={`text-xl font-medium ${
+                    darkMode ? 'text-purple-200' : 'text-purple-900'
+                  }`}
+                >
+                  {getSimpleGrammar(word.grammar)}
+                </div>
+              </div>
+            )}
+
             {/* 하단: 구절 참조 */}
-            <div className={`text-center text-xs pt-3 border-t ${
-              darkMode ? 'border-gray-700 text-gray-500' : 'border-gray-200 text-gray-600'
-            }`}>
+            <div
+              className={`absolute bottom-4 text-xs ${
+                darkMode ? 'text-gray-500' : 'text-gray-600'
+              }`}
+            >
               📖 {reference}
             </div>
           </div>
