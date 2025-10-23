@@ -8,7 +8,7 @@ import {
   getSimpleGrammar,
   speakHebrew,
 } from '../../utils/wordHelpers';
-import { getGrammarColors } from '../../utils/grammarColors';
+import { getGrammarColors, getGrammarCardBackground } from '../../utils/grammarColors';
 
 interface FlashCardProps {
   word: Word | WordWithContext;
@@ -54,9 +54,11 @@ export default function FlashCard({
         {/* 앞면 - 히브리어 + 의미 간략히 */}
         <div
           className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl ${
-            darkMode
-              ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-gray-700'
-              : 'bg-gradient-to-br from-white to-gray-50 border-gray-200'
+            word.grammar
+              ? getGrammarCardBackground(word.grammar, darkMode)
+              : darkMode
+                ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-gray-700'
+                : 'bg-gradient-to-br from-white to-gray-50 border-gray-200'
           } border-2 flex flex-col items-center justify-center shadow-lg`}
           style={{
             backfaceVisibility: 'hidden',
@@ -166,10 +168,12 @@ export default function FlashCard({
         {/* 뒷면 - SVG, 원문, 뜻, 어근, 품사 */}
         <div
           className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl ${
-            darkMode
-              ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-2 border-gray-700'
-              : 'bg-gradient-to-br from-white to-gray-50 border-2 border-gray-200'
-          } shadow-lg`}
+            word.grammar
+              ? getGrammarCardBackground(word.grammar, darkMode)
+              : darkMode
+                ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-gray-700'
+                : 'bg-gradient-to-br from-white to-gray-50 border-gray-200'
+          } border-2 shadow-lg`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
