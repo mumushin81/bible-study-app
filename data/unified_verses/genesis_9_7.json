@@ -1,0 +1,158 @@
+{
+  "id": "genesis_9_7",
+  "reference": "창세기 9:7",
+  "hebrew": "וְאַתֶּם, פְּרוּ וּרְבוּ; שִׁרְצוּ בָאָרֶץ, וּרְבוּ-בָהּ.",
+  "ipa": "vəʔaˈtɛm pəˈru urvu ʃirˈtsu vaˈʔarɛts urvu vah",
+  "koreanPronunciation": "베아템 페루 우르부 쉬르추 바아레츠 우르부 바흐",
+  "modern": "너희는 생육하고 번성하며 땅에 편만하여 그 중에서 번성하라",
+  "words": [
+    {
+      "hebrew": "וְאַתֶּם",
+      "meaning": "그리고 너희는",
+      "ipa": "vəʔaˈtɛm",
+      "korean": "베아템",
+      "letters": "וְ(ve) + אַ(a) + תֶּם(tem)",
+      "root": "אַתָּה (아타)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"you_all\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"8\" fill=\"url(#you_all)\" /><circle cx=\"44\" cy=\"24\" r=\"8\" fill=\"url(#you_all)\" /><circle cx=\"20\" cy=\"44\" r=\"8\" fill=\"url(#you_all)\" /><circle cx=\"44\" cy=\"44\" r=\"8\" fill=\"url(#you_all)\" /><circle cx=\"32\" cy=\"34\" r=\"10\" fill=\"url(#you_all)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אַתָּה (아타 - 너)",
+        "אַתֶּן (아텐 - 너희들-여성)"
+      ]
+    },
+    {
+      "hebrew": "פְּרוּ",
+      "meaning": "생육하라",
+      "ipa": "pəˈru",
+      "korean": "페루",
+      "letters": "פְּ(pe) + רוּ(ru)",
+      "root": "פ-ר-ה (파라)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"fruitful\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"50%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#fruitful)\" /><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"url(#fruitful)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#fruitful)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"42\" r=\"9\" fill=\"url(#fruitful)\" opacity=\"0.65\" /><path d=\"M 32 16 Q 32 8 28 4\" stroke=\"#228B22\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "פְּרִי (페리 - 열매)",
+        "פֹּרֶה (포레 - 열매 맺는)"
+      ]
+    },
+    {
+      "hebrew": "שִׁרְצוּ",
+      "meaning": "번성하라, 가득 채우라",
+      "ipa": "ʃirˈtsu",
+      "korean": "쉬르추",
+      "letters": "שִׁ(shi) + רְ(re) + צוּ(tsu)",
+      "root": "שׁ-ר-ץ (샤라츠)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"swarm\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"16\" cy=\"16\" r=\"4\" fill=\"url(#swarm)\" /><circle cx=\"28\" cy=\"12\" r=\"5\" fill=\"url(#swarm)\" /><circle cx=\"44\" cy=\"16\" r=\"4\" fill=\"url(#swarm)\" /><circle cx=\"20\" cy=\"28\" r=\"5\" fill=\"url(#swarm)\" /><circle cx=\"40\" cy=\"28\" r=\"6\" fill=\"url(#swarm)\" /><circle cx=\"32\" cy=\"32\" r=\"7\" fill=\"url(#swarm)\" /><circle cx=\"16\" cy=\"44\" r=\"5\" fill=\"url(#swarm)\" /><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"url(#swarm)\" /><circle cx=\"48\" cy=\"44\" r=\"5\" fill=\"url(#swarm)\" /></svg>",
+      "relatedWords": [
+        "שֶׁרֶץ (쉐레츠 - 군집, 떼)",
+        "רָבָה (라바 - 증가하다)"
+      ]
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "meaning": "땅에",
+      "ipa": "vaˈʔarɛts",
+      "korean": "바아레츠",
+      "letters": "בָ(ba) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_land\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"40%\" stop-color=\"#4CAF50\" /><stop offset=\"70%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#earth_land)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 20 Q 22 18 28 20 Q 32 22 36 20 Q 42 18 46 22 L 44 32 Q 40 36 36 34 Q 32 32 28 34 Q 24 36 20 32 Z\" fill=\"#8B4513\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֲדָמָה (아다마 - 흙)"
+      ]
+    },
+    {
+      "hebrew": "וּרְבוּ",
+      "meaning": "그리고 번성하라",
+      "ipa": "urvu",
+      "korean": "우르부",
+      "letters": "וּ(u) + רְ(re) + בוּ(vu)",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"multiply\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#8BC34A\" /></linearGradient></defs><path d=\"M 32 56 L 32 32\" stroke=\"url(#multiply)\" stroke-width=\"3\" /><path d=\"M 32 40 L 24 32\" stroke=\"url(#multiply)\" stroke-width=\"2.5\" /><path d=\"M 32 40 L 40 32\" stroke=\"url(#multiply)\" stroke-width=\"2.5\" /><path d=\"M 32 28 L 20 20\" stroke=\"url(#multiply)\" stroke-width=\"2\" /><path d=\"M 32 28 L 44 20\" stroke=\"url(#multiply)\" stroke-width=\"2\" /><path d=\"M 32 28 L 28 16\" stroke=\"url(#multiply)\" stroke-width=\"2\" /><path d=\"M 32 28 L 36 16\" stroke=\"url(#multiply)\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#8BC34A\" /></svg>",
+      "relatedWords": [
+        "רַב (라브 - 많은)",
+        "רֹב (로브 - 다수)"
+      ]
+    },
+    {
+      "hebrew": "בָהּ",
+      "meaning": "그 안에서",
+      "ipa": "vah",
+      "korean": "바흐",
+      "letters": "בָ(ba) + הּ(h)",
+      "root": "בְּ + הִיא (베 + 히)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"within\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#within)\" stroke-width=\"4\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#within)\" opacity=\"0.4\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"36\" cy=\"28\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"24\" cy=\"36\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"36\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בְּ (베 - ~안에)",
+        "בְּתוֹךְ (베토크 - 가운데)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 생명의 존엄성과 살인 금지를 강조하신 후, 다시 축복으로 돌아가십니다. 이는 심판과 은혜, 법과 복의 균형을 보여줍니다. '너희는'이라는 강조는 노아 가족에게 인류 재건의 책임이 있음을 알려줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְאַתֶּם (베아템) - 강조된 주어",
+        "description": "히브리어에서 주어 대명사가 별도로 나타나는 것은 강조를 의미합니다. '너희는' 특별히 너희가 이 일을 해야 한다는 뜻입니다. 노아 가족 8명이 온 인류의 조상이 되어야 하는 엄청난 책임입니다.",
+        "points": [
+          "하나님의 축복은 동시에 사명입니다",
+          "특권에는 책임이 따릅니다",
+          "우리는 하나님의 목적을 이루는 도구입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "פְּרוּ וּרְבוּ (페루 우르부) - 반복된 명령",
+        "description": "이 명령은 창세기 1:28에서 아담에게, 9:1에서 노아에게, 그리고 다시 9:7에서 반복됩니다. 반복은 강조입니다. 하나님은 인류의 번성을 간절히 원하십니다.",
+        "points": [
+          "하나님의 뜻은 생명의 증가입니다",
+          "죽음이 아니라 생명이 하나님의 목적입니다",
+          "결혼과 출산은 하나님의 축복입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שִׁרְצוּ בָאָרֶץ (쉬르추 바아레츠) - 땅에 편만하라",
+        "description": "'쉬르추'는 원래 물고기나 작은 생물이 '떼 지어 우글거리다'는 뜻입니다(창 1:20). 이는 단순히 숫자적 증가가 아니라 활발하고 역동적인 번성을 의미합니다.",
+        "points": [
+          "하나님은 활력 있는 생명을 원하십니다",
+          "온 땅이 사람으로 가득 차기를 바라십니다",
+          "이는 하나님의 영광이 온 땅에 충만하기 위함입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "심판 후의 축복",
+        "description": "9:5-6의 엄중한 심판 선언 직후에 다시 축복이 옵니다. 이는 하나님의 성품을 보여줍니다 - 공의로우시지만 자비로우시고, 심판하시지만 회복시키시는 분입니다.",
+        "points": [
+          "하나님의 궁극적 목적은 축복입니다",
+          "심판은 수단이고 축복이 목적입니다",
+          "하나님은 새로운 시작을 주시는 분입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 계속해서 '생육하고 번성하라'고 말씀하실까요?",
+      "answer": "하나님은 생명을 사랑하시기 때문이에요! 홍수로 세상이 거의 비어버렸을 때, 하나님은 다시 온 땅이 사람들로 가득 차기를 원하셨어요. 하나님은 외로운 세상이 아니라, 사람들이 가득해서 웃음소리가 들리고, 아기들이 태어나고, 가족들이 함께 사는 활기찬 세상을 좋아하세요. 마치 빈 놀이터보다 친구들이 가득한 놀이터가 더 즐거운 것처럼요. 하나님은 우리가 행복하게 살고, 가정을 이루고, 자녀를 낳아 기르면서 하나님의 사랑을 전하기를 원하세요.",
+      "bibleReferences": [
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "시편 127:3-5 - '자식은 여호와의 기업이요 태의 열매는 그의 상급이로다'",
+        "시편 128:3 - '네 집 안방에 있는 네 아내는 결실한 포도나무 같으며 네 상에 둘러앉은 자식들은 어린 감람나무 같으리로다'",
+        "이사야 45:18 - '여호와께서... 땅을 지으시고... 혼돈하게 창조하지 아니하시고 사람이 거주하게 지으셨으니'",
+        "말라기 2:15 - '그가 영적으로나 육체적으로나 하나가 되게 하지 아니하셨느냐 어찌하여 하나가 되게 하셨느냐 이는 경건한 자손을 얻고자 하심이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:7은 심판 후에도 변하지 않는 하나님의 창조 목적을 재확인합니다. 생육과 번성은 단순한 생물학적 명령이 아니라 신학적 의미를 담고 있습니다 - 하나님의 형상이 온 땅에 충만하고, 하나님의 영광이 모든 곳에서 드러나야 합니다. 이는 대위임령(마 28:19-20)과 연결됩니다 - '모든 족속으로 제자를 삼으라'. 물리적 번성뿐 아니라 영적 번성도 하나님의 뜻입니다. 그러나 현대 사회에서 이 명령을 어떻게 적용할지는 지혜가 필요합니다. 인구 과잉, 환경 문제 등을 고려하되, 생명의 가치와 가정의 중요성은 여전히 유효합니다."
+    }
+  }
+}

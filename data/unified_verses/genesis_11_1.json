@@ -1,0 +1,125 @@
+{
+  "id": "genesis_11_1",
+  "reference": "창세기 11:1",
+  "hebrew": "וַֽיְהִי כָל־הָאָרֶץ שָׂפָה אֶחָת וּדְבָרִים אֲחָדִים",
+  "ipa": "vajəˈhi xol haˈʔarɛts śaˈfa ʔɛˈħat udvaˈrim ʔaħaˈdim",
+  "koreanPronunciation": "바예히 콜 하아레츠 사파 에하트 우드바림 아하딤",
+  "modern": "온 땅의 언어가 하나요 말이 같았습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 ~이었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"unity-time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"unity-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#unity-time1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#unity-glow1)\" filter=\"drop-shadow(0 0 8px rgba(102, 126, 234, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#764ba2\" filter=\"drop-shadow(0 0 4px rgba(118, 75, 162, 0.8))\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - ~될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "כָל־הָאָרֶץ",
+      "meaning": "온 땅",
+      "ipa": "xol haˈʔarɛts",
+      "korean": "콜 하아레츠",
+      "letters": "כָ(ko) + ל(l) + הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "כֹּל (콜) + אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth-globe1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"50%\" stop-color=\"#00f2fe\" /><stop offset=\"100%\" stop-color=\"#43e97b\" /></linearGradient><radialGradient id=\"earth-shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4facfe\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth-globe1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"#43e97b\" opacity=\"0.7\" /><ellipse cx=\"44\" cy=\"36\" rx=\"10\" ry=\"8\" fill=\"#2ed573\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#earth-shine1)\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지구)",
+        "תֵּבֵל (테벨 - 세계)"
+      ]
+    },
+    {
+      "hebrew": "שָׂפָה אֶחָת",
+      "meaning": "하나의 언어",
+      "ipa": "śaˈfa ʔɛˈħat",
+      "korean": "사파 에하트",
+      "letters": "שָׂ(sa) + פָ(fa) + ה(h) + אֶ(e) + חָת(ḥat)",
+      "root": "שָׂפָה (사파) + אֶחָד (에하드)",
+      "grammar": "명사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"language-bubble1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"50%\" stop-color=\"#764ba2\" /><stop offset=\"100%\" stop-color=\"#f093fb\" /></linearGradient><linearGradient id=\"language-accent1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"24\" ry=\"20\" fill=\"url(#language-bubble1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><path d=\"M 26 48 L 32 38 L 38 48\" fill=\"url(#language-bubble1)\" /><circle cx=\"24\" cy=\"24\" r=\"3\" fill=\"url(#language-accent1)\" /><circle cx=\"32\" cy=\"26\" r=\"3\" fill=\"url(#language-accent1)\" /><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"url(#language-accent1)\" /><path d=\"M 20 32 Q 32 36 44 32\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "לָשׁוֹן (라숀 - 혀, 언어)",
+        "דִּבֵּר (디베르 - 말하다)"
+      ]
+    },
+    {
+      "hebrew": "וּדְבָרִים אֲחָדִים",
+      "meaning": "그리고 같은 말들",
+      "ipa": "udvaˈrim ʔaħaˈdim",
+      "korean": "우드바림 아하딤",
+      "letters": "וּ(u) + דְ(de) + בָ(va) + רִים(rim) + אֲ(a) + חָ(ḥa) + דִים(dim)",
+      "root": "ו (바브) + דָּבָר (다바르) + אֶחָד (에하드)",
+      "grammar": "명사",
+      "emoji": "🗣️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"words-unity1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#a8edea\" /><stop offset=\"100%\" stop-color=\"#fed6e3\" /></linearGradient><radialGradient id=\"words-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#a8edea\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"48\" height=\"8\" rx=\"4\" fill=\"url(#words-unity1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><rect x=\"8\" y=\"32\" width=\"48\" height=\"8\" rx=\"4\" fill=\"url(#words-unity1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><rect x=\"8\" y=\"44\" width=\"48\" height=\"8\" rx=\"4\" fill=\"url(#words-unity1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"12\" cy=\"24\" r=\"2\" fill=\"#fed6e3\" /><circle cx=\"12\" cy=\"36\" r=\"2\" fill=\"#fed6e3\" /><circle cx=\"12\" cy=\"48\" r=\"2\" fill=\"#fed6e3\" /></svg>",
+      "relatedWords": [
+        "דָּבָר (다바르 - 말, 일)",
+        "מִלָּה (밀라 - 단어)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 1절은 바벨탑 사건의 배경을 설정합니다. 노아의 홍수 이후 온 인류가 하나의 언어와 같은 말을 사용했다는 것은 완전한 통일성과 소통의 용이함을 의미합니다. 이는 축복일 수도 있지만, 곧 보게 될 것처럼 하나님을 대적하는 교만의 도구가 될 수도 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שָׂפָה אֶחָת (사파 에하트) - 하나의 언어",
+        "description": "'사파'는 입술, 언어를 의미하는 단어로, 말하는 방식과 언어 자체를 모두 포함합니다. '에하트'는 하나, 통일을 뜻하며, 온 인류가 동일한 언어 체계를 공유했음을 나타냅니다.",
+        "points": [
+          "언어의 통일은 완벽한 소통과 협력을 가능케 합니다",
+          "홍수 이후 노아의 가족에서 퍼져나간 인류는 아직 언어가 분화되지 않았습니다",
+          "하나의 언어는 강력한 집단행동을 가능케 하지만, 선과 악 모두에 사용될 수 있습니다",
+          "사도행전 2장의 오순절 성령 강림 때 방언의 은사로 언어 장벽이 극복되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "דְבָרִים אֲחָדִים (드바림 아하딤) - 같은 말들",
+        "description": "'드바림'은 '다바르(말, 일, 사건)'의 복수형으로, 단순히 언어뿐 아니라 표현 방식, 개념, 생각까지 동일했음을 의미합니다. '아하딤'은 '에하드'의 복수형으로 완전한 일치를 강조합니다.",
+        "points": [
+          "언어의 통일을 넘어 사고방식과 문화까지 하나였습니다",
+          "이는 인류의 강력한 연합을 가능케 했지만, 동시에 집단적 교만의 위험도 내포했습니다",
+          "십계명도 '드바림(말씀들)'이라 불리며, 하나님의 뜻을 전달하는 언어의 중요성을 보여줍니다",
+          "언어는 하나님이 인간에게 주신 특별한 선물로, 창조와 소통의 도구입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כָל־הָאָרֶץ (콜 하아레츠) - 온 땅",
+        "description": "'콜'은 전체, 모든 것을 의미하고 '하아레츠'는 정관사가 붙은 땅으로, 당시 알려진 전 세계, 즉 모든 인류를 포괄합니다. 이는 보편적 통일성을 나타냅니다.",
+        "points": [
+          "홍수 이후 인류는 아직 전 세계로 흩어지지 않았고, 한 지역에 모여 살았습니다",
+          "하나님은 창세기 9장에서 '땅에 충만하라'고 명하셨으나, 사람들은 한 곳에 머물며 바벨탑을 세우려 했습니다",
+          "온 땅의 통일은 하나님의 뜻에 순종할 때 축복이지만, 불순종의 도구로 쓰일 때 심판의 대상이 됩니다",
+          "요한계시록 7:9에서 모든 나라와 족속과 방언의 사람들이 하나님 앞에 모이는 궁극적 통일이 예언됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 모든 사람이 같은 말을 했을까요?",
+      "answer": "홍수 이후 살아남은 사람은 노아와 그의 가족뿐이었어요. 그래서 모든 사람이 노아 가족이 쓰던 언어를 그대로 사용했답니다. 마치 우리 집안에서 모두 한국어를 쓰는 것처럼요. 같은 말을 쓰니까 서로 이해하기 쉽고 함께 일하기도 편했을 거예요. 하지만 나중에 보면, 이 통일된 언어가 하나님을 거역하는 데 사용되어 하나님께서 언어를 흩으셨답니다.",
+      "bibleReferences": [
+        "창세기 10:32 - '이들은 노아 자손의 족속들이요 그들의 세계와 나라대로니라 홍수 후에 이들에게서 땅의 백성들이 나뉘었더라'",
+        "사도행전 2:6-8 - '각각 자기의 방언으로 제자들이 말하는 것을 듣고... 어찌하여 우리가 각각 난 곳 방언으로 듣는가'",
+        "스바냐 3:9 - '그 때에 내가 열방의 입술을 깨끗하게 하여 그들로 다 여호와의 이름을 부르며'",
+        "창세기 9:1 - '하나님이 노아와 그 아들들에게 복을 주시며 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "언어의 통일은 하나님께서 주신 선물이었지만, 인간은 이를 하나님을 대적하는 도구로 사용했습니다. 바벨탑 사건은 인간의 통일이 하나님 없이 이루어질 때 얼마나 위험한지 보여줍니다. 그러나 오순절 성령 강림으로 언어 장벽이 극복되고, 복음이 모든 민족에게 전해지는 새로운 통일이 시작되었습니다. 궁극적으로 그리스도 안에서 모든 족속과 방언이 하나님을 찬양하는 날이 올 것입니다."
+    }
+  }
+}

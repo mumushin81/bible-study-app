@@ -30,9 +30,15 @@
     "icon:validate": "node scripts/validate-svg-icons.cjs",
     "icon:analyze": "node scripts/analyze-svg-consistency.cjs",
     "migrate:vocabulary": "tsx scripts/migrations/runVocabularyMigrationSimple.ts",
+    "migrate:unify": "tsx scripts/migrations/unifyDataFormat.ts",
+    "migrate:normalize": "tsx scripts/migrations/normalizeSchema.ts",
+    "migrate:fill-hebrew": "tsx scripts/migrations/fillHebrewText.ts",
+    "upload:unified": "tsx scripts/migrations/uploadUnifiedData.ts",
+    "upload:new": "tsx scripts/migrations/uploadNewVersesOnly.ts",
     "types:generate": "echo 'ℹ️  Please generate types manually from Supabase Dashboard → Project Settings → API → Generate Types'",
     "roots:generate": "tsx scripts/roots/generateHebrewRoots.ts",
-    "roots:map": "tsx scripts/roots/mapWordDerivations.ts"
+    "roots:map": "tsx scripts/roots/mapWordDerivations.ts",
+    "metadata:generate": "tsx scripts/generateWordMetadata.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.67.0",

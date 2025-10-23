@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_7",
+  "reference": "창세기 8:7",
+  "hebrew": "וַיְשַׁלַּח אֶת־הָעֹרֵב וַיֵּצֵא יָצוֹא וָשׁוֹב עַד־יְבֹשֶׁת הַמַּיִם מֵעַל הָאָרֶץ.",
+  "ipa": "vajəˈʃalax ʔɛt haˈorev vajˈetse jaˈtso vaˈʃov ʔad jəˈboʃɛt haˈmajim meˈʔal haˈʔarɛts",
+  "koreanPronunciation": "바예샬라흐 에트 하오레브 바예체 야초 바쇼브 아드 예보쉐트 하마임 메알 하아레츠",
+  "modern": "그가 까마귀를 내보냈더니, 까마귀는 물이 땅에서 마를 때까지 나갔다가 돌아오기를 반복했습니다",
+  "words": [
+    {
+      "hebrew": "וַיְשַׁלַּח",
+      "meaning": "그리고 보냈다",
+      "ipa": "vajəˈʃalax",
+      "korean": "바예샬라흐",
+      "letters": "וַ(va) + יְ(yə) + שַׁ(sha) + לַּח(lach)",
+      "root": "ש-ל-ח (shalach)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"send_arrow\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><path d=\"M 8 32 L 48 32\" stroke=\"url(#send_arrow)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 40 24 L 48 32 L 40 40\" fill=\"#1976D2\" /><circle cx=\"8\" cy=\"32\" r=\"4\" fill=\"#42A5F5\" opacity=\"0.6\" /><path d=\"M 20 28 L 24 32 L 20 36\" stroke=\"#42A5F5\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׁלַח (샬라흐 - 보내다)",
+        "שָׁלִיחַ (샬리아흐 - 사자, 사도)"
+      ]
+    },
+    {
+      "hebrew": "הָעֹרֵב",
+      "meaning": "까마귀",
+      "ipa": "haˈorev",
+      "korean": "하오레브",
+      "letters": "הָ(ha) + עֹ(o) + רֵב(rev)",
+      "root": "עֹרֵב (오레브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"raven_black\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"10\" fill=\"url(#raven_black)\" /><circle cx=\"24\" cy=\"28\" r=\"7\" fill=\"url(#raven_black)\" /><circle cx=\"22\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" /><path d=\"M 18 28 L 10 26\" stroke=\"url(#raven_black)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 18 32 L 10 36\" stroke=\"url(#raven_black)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 22 L 32 18\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עֹרֵב (오레브 - 까마귀)",
+        "עֶרֶב (에레브 - 저녁)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּצֵא",
+      "meaning": "그리고 나갔다",
+      "ipa": "vajˈetse",
+      "korean": "바예체",
+      "letters": "וַ(va) + יֵּ(ye) + צֵא(tse)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_door\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"24\" height=\"32\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.6\" /><path d=\"M 32 20 L 48 20 L 48 44 L 32 44\" fill=\"none\" stroke=\"url(#exit_door)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 42 28 L 48 32 L 42 36\" fill=\"#43A047\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출구, 출발)"
+      ]
+    },
+    {
+      "hebrew": "יָצוֹא",
+      "meaning": "나가는",
+      "ipa": "jaˈtso",
+      "korean": "야초",
+      "letters": "יָ(ya) + צוֹא(tso)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"going_out\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"3\" fill=\"#81C784\" opacity=\"0.3\" /><circle cx=\"28\" cy=\"32\" r=\"3\" fill=\"#66BB6A\" opacity=\"0.5\" /><circle cx=\"40\" cy=\"32\" r=\"4\" fill=\"#4CAF50\" opacity=\"0.7\" /><circle cx=\"52\" cy=\"32\" r=\"5\" fill=\"#2E7D32\" /><path d=\"M 48 26 L 56 32 L 48 38\" fill=\"#1B5E20\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "מוֹצָא (모차 - 출구)"
+      ]
+    },
+    {
+      "hebrew": "וָשׁוֹב",
+      "meaning": "그리고 돌아오는",
+      "ipa": "vaˈʃov",
+      "korean": "바쇼브",
+      "letters": "וָ(va) + שׁוֹב(shov)",
+      "root": "ש-ו-ב (shuv)",
+      "grammar": "동명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"return_cycle\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF7043\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#E64A19\" /></linearGradient></defs><path d=\"M 48 20 A 16 16 0 1 1 48 44\" stroke=\"url(#return_cycle)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 48 44 L 52 40\" stroke=\"#E64A19\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 48 44 L 44 40\" stroke=\"#E64A19\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שׁוּב (슈브 - 돌아가다)",
+        "תְּשׁוּבָה (테슈바 - 회개)"
+      ]
+    },
+    {
+      "hebrew": "יְבֹשֶׁת",
+      "meaning": "마름, 건조함",
+      "ipa": "jəˈboʃɛt",
+      "korean": "예보쉐트",
+      "letters": "יְ(yə) + בֹ(bo) + שֶׁת(shet)",
+      "root": "י-ב-ש (yavesh)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dry_land\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCC80\" /><stop offset=\"100%\" stop-color=\"#D84315\" /></linearGradient><radialGradient id=\"sun_dry\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"10\" fill=\"url(#dry_land)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#sun_dry)\" filter=\"drop-shadow(0 0 8px rgba(255, 193, 7, 0.6))\" /><line x1=\"32\" y1=\"10\" x2=\"32\" y2=\"6\" stroke=\"#FFD54F\" stroke-width=\"2\" /><line x1=\"46\" y1=\"20\" x2=\"50\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2\" /><line x1=\"18\" y1=\"20\" x2=\"14\" y2=\"20\" stroke=\"#FFD54F\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "יָבֵשׁ (야베쉬 - 마르다)",
+        "יַבָּשָׁה (야바샤 - 마른 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 7절은 노아가 까마귀를 보낸 장면입니다. 까마귀는 나갔다 돌아오기를 반복했는데, 이는 아직 완전히 정착할 곳이 없었음을 의미합니다. 까마귀의 행동은 다음 절의 비둘기와 대조를 이룹니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הָעֹרֵב (하오레브) - 까마귀의 상징",
+        "description": "까마귀는 레위기 11:15에서 부정한 새로 분류됩니다. 그러나 시편 147:9에서는 하나님이 까마귀 새끼를 먹이신다고 말합니다.",
+        "points": [
+          "까마귀는 강하고 적응력이 뛰어난 새입니다",
+          "부정한 것도 하나님의 섭리 안에 있습니다",
+          "까마귀는 시체를 먹을 수 있어 홍수 후 환경에 적응 가능했습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "יָצוֹא וָשׁוֹב (야초 바쇼브) - 나가고 돌아옴",
+        "description": "'나가고 돌아오기를 반복했다'는 표현은 까마귀가 방주와 물 위를 오가며 머물 곳을 찾았음을 의미합니다.",
+        "points": [
+          "완전한 정착의 때가 아직 오지 않았습니다",
+          "과도기적 상태를 보여줍니다",
+          "인내하며 기다려야 하는 시간입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "첫 번째 시도",
+        "description": "노아는 까마귀를 먼저 보냄으로써 조심스럽게 상황을 탐색합니다. 이는 지혜로운 접근 방식입니다.",
+        "points": [
+          "단계적으로 상황을 파악합니다",
+          "성급하지 않고 신중합니다",
+          "첫 시도는 완전한 해답을 주지 못했습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יְבֹשֶׁת הַמַּיִם (예보쉐트 하마임) - 물이 마름",
+        "description": "물이 마르는 것은 점진적 과정이었습니다. 까마귀는 이 전 과정을 지켜보는 증인이 되었습니다.",
+        "points": [
+          "회복은 점진적으로 일어납니다",
+          "완전한 회복까지는 시간이 필요합니다",
+          "하나님의 때를 기다려야 합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 까마귀를 먼저 보냈을까요?",
+      "answer": "까마귀는 매우 강하고 오래 날 수 있는 새예요. 비둘기보다 더 험한 환경에서도 살아남을 수 있죠. 노아는 밖이 얼마나 안전한지 먼저 알아보고 싶었어요. 까마귀가 계속 나갔다 돌아왔다 한 것은, 아직 땅에 내려앉을 만큼 안전하지 않다는 뜻이에요. 마치 우리가 수영장에 발을 먼저 담가보는 것처럼, 노아는 까마귀를 보내서 밖 상황을 확인한 거예요. 까마귀는 돌아왔지만 방주 안으로 완전히 들어오지 않았어요. 아직 완전히 나갈 때가 아니라는 걸 보여준 거죠.",
+      "bibleReferences": [
+        "열왕기상 17:4-6 - '까마귀들이 아침에도 떡과 고기를, 저녁에도 떡과 고기를 가져왔고'",
+        "시편 147:9 - '그가 짐승과 우는 까마귀 새끼에게 먹을 것을 주시는도다'",
+        "욥기 38:41 - '까마귀 새끼가 하나님을 향하여 부르짖으며 먹을 것이 없어서 오락가락할 때에 그것을 위하여 먹이를 준비하는 자가 누구냐'",
+        "누가복음 12:24 - '까마귀를 생각하라 심지도 아니하고 거두지도 아니하며 골방도 없고 창고도 없으되 하나님이 기르시나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:7은 회복의 과정이 단계적임을 보여줍니다. 까마귀가 나갔다 돌아오기를 반복한 것은 아직 완전한 정착의 때가 아니었음을 의미합니다. 흥미롭게도 부정한 새인 까마귀도 하나님의 계획 안에서 역할을 합니다. 이는 하나님이 모든 피조물을 사용하실 수 있음을 보여줍니다. 까마귀의 행동은 다음 절의 비둘기와 대조를 이루며, 하나님의 지혜로운 계획의 단계를 드러냅니다. 우리도 때로 '나갔다 돌아오는' 과도기를 경험하지만, 이는 하나님의 완전한 때를 기다리는 과정입니다."
+    }
+  }
+}

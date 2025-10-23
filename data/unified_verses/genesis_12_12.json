@@ -1,0 +1,140 @@
+{
+  "id": "genesis_12_12",
+  "reference": "창세기 12:12",
+  "hebrew": "וְהָיָה כִּי יִרְאוּ הַמִּצְרִים אִשְׁתּוֹ זֹאת וְהָרְגוּ אֹתִי וְאֹתָךְ יְחַיּוּ",
+  "ipa": "vəhaˈja ki jirˈʔu ʔoˈtax hamitsˈrim vəʔaməˈru ʔiʃˈto zoʔt vəharəˈɡu ʔoˈti vəʔoˈtax jəħajˈju",
+  "koreanPronunciation": "베하야 키 이르우 오타크 하미츠림 베아므루 이쉬토 조트 베하르구 오티 베오타크 예하유",
+  "modern": "이집트 사람들이 당신을 보고 '이것은 그의 아내다'라고 말하면서 나는 죽이고 당신은 살려둘 것입니다",
+  "words": [
+    {
+      "hebrew": "וְהָיָה כִּי יִרְאוּ",
+      "meaning": "그리고 그들이 볼 때",
+      "ipa": "vəhaˈja ki jirˈʔu",
+      "korean": "베하야 키 이르우",
+      "letters": "וְ(ve) + הָ(ha) + יָה(yah) + כִּי(ki) + יִ(yi) + רְ(re) + אוּ(u)",
+      "root": "ה-י-ה (하야) + ר-א-ה (라아)",
+      "grammar": "동사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sarai-beauty1-eye\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient><radialGradient id=\"sarai-beauty1-pupil\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"url(#sarai-beauty1-eye)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#sarai-beauty1-pupil)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#34495e\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "מַרְאֶה (마르에 - 외모, 모습)"
+      ]
+    },
+    {
+      "hebrew": "הַמִּצְרִים",
+      "meaning": "이집트 사람들",
+      "ipa": "hamitsˈrim",
+      "korean": "하미츠림",
+      "letters": "הַ(ha) + מִּ(mi) + צְ(tse) + רִים(rim)",
+      "root": "מִצְרַיִם (미츠라임)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sarai-beauty1-egyptians\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f2994a\" /><stop offset=\"100%\" stop-color=\"#eb5757\" /></linearGradient></defs><circle cx=\"20\" cy=\"28\" r=\"10\" fill=\"url(#sarai-beauty1-egyptians)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#sarai-beauty1-egyptians)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"28\" r=\"10\" fill=\"url(#sarai-beauty1-egyptians)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><rect x=\"16\" y=\"40\" width=\"32\" height=\"12\" fill=\"url(#sarai-beauty1-egyptians)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מִצְרַיִם (미츠라임 - 이집트)",
+        "פַּרְעֹה (파르오 - 바로)"
+      ]
+    },
+    {
+      "hebrew": "אִשְׁתּוֹ זֹאת",
+      "meaning": "이것은 그의 아내다",
+      "ipa": "ʔiʃˈto zoʔt",
+      "korean": "이쉬토 조트",
+      "letters": "אִ(i) + שְׁ(she) + תּוֹ(to) + זֹאת(zot)",
+      "root": "אִשָּׁה (이샤) + זֹאת (조트)",
+      "grammar": "명사",
+      "emoji": "💍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sarai-beauty1-wife\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"100%\" stop-color=\"#f5576c\" /></linearGradient><radialGradient id=\"sarai-beauty1-ring\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"36\" r=\"16\" stroke=\"url(#sarai-beauty1-ring)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#sarai-beauty1-ring)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><path d=\"M 26 26 L 32 36 L 38 26\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 아내, 여자)",
+        "בַּעַל (바알 - 남편, 주인)"
+      ]
+    },
+    {
+      "hebrew": "וְהָרְגוּ אֹתִי",
+      "meaning": "그리고 나를 죽일 것이다",
+      "ipa": "vəharəˈɡu ʔoˈti",
+      "korean": "베하르구 오티",
+      "letters": "וְ(ve) + הָ(ha) + רְ(re) + גוּ(gu) + אֹ(o) + תִי(ti)",
+      "root": "ה-ר-ג (하라그)",
+      "grammar": "동사",
+      "emoji": "⚔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-fear1-danger\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#eb5757\" /><stop offset=\"100%\" stop-color=\"#c0392b\" /></linearGradient></defs><path d=\"M 32 8 L 38 28 L 26 28 Z\" fill=\"url(#abram-fear1-danger)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"28\" width=\"8\" height=\"24\" fill=\"url(#abram-fear1-danger)\" /><ellipse cx=\"32\" cy=\"54\" rx=\"6\" ry=\"3\" fill=\"#8b4513\" /><path d=\"M 24 16 L 32 20 L 40 16\" stroke=\"#e74c3c\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "הָרַג (하라그 - 죽이다)",
+        "מָוֶת (마베트 - 죽음)"
+      ]
+    },
+    {
+      "hebrew": "וְאֹתָךְ יְחַיּוּ",
+      "meaning": "그리고 당신은 살려둘 것이다",
+      "ipa": "vəʔoˈtax jəħajˈju",
+      "korean": "베오타크 예하유",
+      "letters": "וְ(ve) + אֹ(o) + תָךְ(takh) + יְ(ye) + חַ(ḥa) + יּוּ(yu)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-fear1-life\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#56ab2f\" /><stop offset=\"100%\" stop-color=\"#a8e063\" /></linearGradient></defs><path d=\"M 32 48 Q 28 40 24 36 Q 20 32 20 26 Q 20 18 28 14 Q 32 12 32 8 Q 32 12 36 14 Q 44 18 44 26 Q 44 32 40 36 Q 36 40 32 48 Z\" fill=\"url(#abram-fear1-life)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"26\" r=\"4\" fill=\"#FFD700\" opacity=\"0.6\" /><path d=\"M 32 8 L 32 48\" stroke=\"#56ab2f\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 12절은 아브람의 두려움의 내용을 구체적으로 드러냅니다. 그는 이집트인들이 사라이의 아름다움을 보고 남편인 자신을 제거하려 할 것이라고 확신했습니다. 이는 고대 근동의 관습을 반영하지만, 동시에 하나님의 약속보다 환경적 위협을 더 크게 본 아브람의 연약한 믿음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כִּי יִרְאוּ אֹתָךְ הַמִּצְרִים (키 이르우 오타크 하미츠림) - 이집트인들이 당신을 볼 때",
+        "description": "'이르우'는 단순히 시각적으로 보는 것을 넘어 인식하고 평가한다는 의미를 담고 있습니다. 아브람은 이집트인들이 사라이를 보는 순간 그녀의 아름다움을 탐낼 것이라고 예상했습니다.",
+        "points": [
+          "고대 근동에서 왕이나 권력자들은 아름다운 여인을 후궁으로 삼는 것이 흔한 일이었습니다",
+          "아브람의 예측은 근거 없는 두려움이 아니라 당시 문화에 대한 현실적 이해였습니다",
+          "그러나 하나님의 약속과 보호를 신뢰하지 못한 채 환경만 본 것이 문제였습니다",
+          "우리도 현실적 위험을 인식하되, 그것이 하나님의 주권보다 크지 않음을 믿어야 합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אִשְׁתּוֹ זֹאת (이쉬토 조트) - 이것은 그의 아내다",
+        "description": "아브람은 이집트인들이 사라이를 자신의 아내로 인식할 것을 두려워했습니다. 아내라는 관계가 장애물이 되어 자신이 제거될 것이라고 예상한 것입니다.",
+        "points": [
+          "결혼 관계는 하나님이 정하신 신성한 언약이지만, 타락한 세상에서는 탐욕의 장애물로 여겨질 수 있습니다",
+          "아브람은 정당한 남편의 권리가 이집트에서 존중받지 못할 것을 우려했습니다",
+          "이는 약속의 땅 밖에서는 하나님의 질서가 무너질 것이라는 두려움을 반영합니다",
+          "그러나 하나님은 어디에서나 주권자이시며, 그분이 세우신 관계를 지키십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְהָרְגוּ אֹתִי וְאֹתָךְ יְחַיּוּ (베하르구 오티 베오타크 예하유) - 나는 죽이고 당신은 살려둘 것이다",
+        "description": "아브람의 최악의 시나리오입니다. '하르구'(죽일 것이다)와 '예하유'(살릴 것이다)의 대조는 자신과 사라이의 운명이 정반대로 갈릴 것이라는 확신을 보여줍니다.",
+        "points": [
+          "아브람은 자신의 생명이 위협받을 것을 확신했지만, 사라이는 살아남을 것이라고 예상했습니다",
+          "이는 고대 근동의 관습을 정확히 이해한 것이지만, 하나님의 약속('너를 큰 민족이 되게 하겠다')을 망각한 것입니다",
+          "두려움은 우리로 하여금 하나님의 약속보다 환경의 위협을 더 크게 보게 만듭니다",
+          "하나님은 아브람을 통해 메시아를 보내실 계획이셨으므로, 이집트에서 그를 죽도록 내버려두지 않으실 것입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 이집트 사람들이 자신을 죽일 것이라고 생각했을까요?",
+      "answer": "옛날에는 왕이나 힘 있는 사람이 아름다운 여자를 보면 자기 것으로 만들고 싶어했어요. 그런데 그 여자에게 이미 남편이 있으면 남편을 없애버리고 여자를 빼앗는 일이 있었답니다. 아브람은 사라이가 너무 아름다워서 이집트 사람들이 탐을 낼 거라고 생각했어요. 그래서 자신이 남편이라고 하면 죽임을 당할까봐 무서웠던 거예요. 하지만 아브람은 하나님이 자기를 지켜주실 것을 믿어야 했어요.",
+      "bibleReferences": [
+        "창세기 20:2 - '아브라함이 그의 아내 사라를 자기 누이라 하매 그랄 왕 아비멜렉이 사람을 보내어 사라를 데려갔더니'",
+        "창세기 26:7 - '그 곳 사람들이 그의 아내를 물을 때에 그가 말하기를 그는 내 누이라 하였으니 리브가가 보기에 아리따우므로 그 곳 사람들이 리브가로 말미암아 자기를 죽일까 두려워함이었더라'",
+        "에스더 2:2-3 - '왕의 시신들이 아뢰되... 전국 각 지방에서 아리따운 처녀들을 다 도성 수산으로 모아'",
+        "시편 118:6 - '여호와께서 내 편이 되시므로 내가 두려워하지 아니하리니 사람이 내게 어찌할까'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 구체적인 두려움은 현실에 기반했지만, 하나님의 약속을 망각한 것이었습니다. 하나님은 아브람을 큰 민족의 조상으로 만들겠다고 약속하셨는데, 그가 이집트에서 죽는다면 그 약속은 성취될 수 없습니다. 두려움은 종종 하나님의 약속보다 현재의 위협을 더 크게 보게 만듭니다. 그러나 하나님의 신실하심은 우리의 연약함과 두려움을 뛰어넘어 역사하십니다. 아브람의 실패에도 불구하고 하나님은 그를 보호하시고 약속을 이루어가십니다."
+    }
+  }
+}

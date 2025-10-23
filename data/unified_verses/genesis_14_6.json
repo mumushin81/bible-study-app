@@ -1,0 +1,94 @@
+{
+  "id": "genesis_14_6",
+  "reference": "창세기 14:6",
+  "hebrew": "וְאֶת־הַחֹרִי, בְּהַרְרָם שֵׂעִיר, עַד, אֵיל פָּארָן, אֲשֶׁר עַל־הַמִּדְבָּר.",
+  "ipa": "vəʔɛt haχoˈri bəharˈram seˈʔir ʔad ʔel paˈran ʔaˈʃɛr ʔal hammidˈbar",
+  "koreanPronunciation": "베에트 하호리 베하르람 세이르 아드 엘 파란 아쉐르 알 함미드바르",
+  "modern": "그리고 세일 산지의 호리 족속을 쳐서 광야 근처 엘바란까지 이르렀습니다.",
+  "words": [
+    {
+      "hebrew": "הַחֹרִי",
+      "meaning": "호리 족속",
+      "ipa": "haχoˈri",
+      "korean": "하호리",
+      "letters": "הַ(ha) + חֹרִי(chori)",
+      "root": "חוֹר (호르 - 구멍, 동굴)",
+      "grammar": "민족명",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"horites\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"12\" fill=\"url(#horites)\" opacity=\"0.5\" /><rect x=\"22\" y=\"20\" width=\"20\" height=\"20\" rx=\"10\" fill=\"#8B4513\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חֹר (호르 - 구멍, 동굴)",
+        "חוֹרִי (호리 - 동굴 거주민)"
+      ]
+    },
+    {
+      "hebrew": "שֵׂעִיר",
+      "meaning": "세일 (에돔 지역)",
+      "ipa": "seˈʔir",
+      "korean": "세이르",
+      "letters": "שֵׂ(se) + עִיר(ir)",
+      "root": "שֵׂעִיר (세이르 - 털이 많은)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seir\"><stop offset=\"0%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient></defs><path d=\"M 8 48 L 32 16 L 56 48 Z\" fill=\"url(#seir)\" opacity=\"0.7\" /><path d=\"M 20 48 L 32 28 L 44 48 Z\" fill=\"#8B4513\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שֵׂעִיר (세이르 - 세일 산)",
+        "עֵשָׂו (에사우 - 에돔)"
+      ]
+    },
+    {
+      "hebrew": "אֵיל פָּארָן",
+      "meaning": "엘바란",
+      "ipa": "ʔel paˈran",
+      "korean": "엘 파란",
+      "letters": "אֵיל(el) + פָּארָן(paran)",
+      "root": "פָּארָן (파란 - 장식, 아름다움)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"paran\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#paran)\" opacity=\"0.3\" /><path d=\"M 20 28 Q 32 24 44 28 L 40 40 L 24 40 Z\" fill=\"#FFD700\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "פָּארָן (파란 - 파란 광야)",
+        "מִדְבָּר (미드바르 - 광야)"
+      ]
+    },
+    {
+      "hebrew": "הַמִּדְבָּר",
+      "meaning": "광야, 사막",
+      "ipa": "hammidˈbar",
+      "korean": "함미드바르",
+      "letters": "הַ(ha) + מִּדְבָּר(midbar)",
+      "root": "ד-ב-ר (다바르 - 말하다, 인도하다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wilderness\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect x=\"8\" y=\"32\" width=\"48\" height=\"24\" rx=\"4\" fill=\"url(#wilderness)\" opacity=\"0.5\" /><circle cx=\"20\" cy=\"40\" r=\"2\" fill=\"#D2691E\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#D2691E\" opacity=\"0.4\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"#D2691E\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "מִדְבָּר (미드바르 - 광야)",
+        "דָּבָר (다바르 - 말씀)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14:6은 그돌라오멜의 원정이 세일 산지까지 이르렀음을 기록합니다. 세일은 후에 에서(에돔)의 땅이 되는 곳입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "세일 산지 - 에돔의 땅",
+        "description": "세일은 후에 에서(에돔)의 후손들이 거주하게 되는 산악 지대입니다. 호리 족속이 원래 거주하고 있었지만, 에서의 후손들이 그들을 쫓아냅니다.",
+        "points": [
+          "세일은 험준한 산악 지대였습니다",
+          "호리 족속은 동굴에 사는 사람들이었습니다",
+          "후에 에돔의 땅이 됩니다"
+        ],
+        "color": "purple"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 그돌라오멜은 이렇게 먼 곳까지 원정했을까요?",
+      "answer": "그돌라오멜이 세일 산지까지 간 것은 자기의 힘을 모든 사람에게 보여주고 싶었기 때문이에요. '나는 어디든지 갈 수 있고, 누구든지 이길 수 있어'라고 말하고 싶었던 거예요. 하지만 하나님은 이 모든 것을 보고 계셨고, 나중에 아브람을 통해 그를 물리치셨답니다. 우리가 배울 점은, 아무리 강한 사람도 하나님 앞에서는 아무것도 아니라는 거예요.",
+      "bibleReferences": [
+        "신명기 2:12 - '호리 사람도 전에 세일에 거주하였더니 에서 자손이 그들을 멸하고 대신하여 그 땅에 거주하였으니'",
+        "시편 20:7 - '어떤 사람은 병거, 어떤 사람은 말을 의지하나 우리는 여호와 우리 하나님의 이름을 자랑하리로다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "그돌라오멜의 광범위한 원정은 세상 권력의 야망을 보여줍니다. 그는 가능한 한 많은 영토를 정복하고 싶어했습니다. 그러나 이 모든 것은 하나님의 섭리 안에서 일어나는 일이며, 곧 아브람을 통해 하나님의 역전이 이루어집니다."
+    }
+  }
+}

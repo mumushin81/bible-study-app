@@ -1,0 +1,139 @@
+{
+  "id": "genesis_11_16",
+  "reference": "창세기 11:16",
+  "hebrew": "וַיְחִי עֵבֶר, אַרְבַּע וּשְׁלֹשִׁים שָׁנָה; וַיּוֹלֶד, אֶת-פֶּלֶג.",
+  "ipa": "ˈpɛlɛg ʔɛt vajˈjolɛd ʃaˈna uʃəloˈʃim ˈʔarba ˈʔɛvɛr vajəˈχi",
+  "koreanPronunciation": "펠레그 에트 바욜레드, 샤나 우슐로쉼 아르바 에베르 바예히",
+  "modern": "에베르는 삼십사 세에 벨렉을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "그리고 살았다",
+      "ipa": "vajəˈχi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(khi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber16-time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#20B2AA\" /><stop offset=\"100%\" stop-color=\"#008B8B\" /></linearGradient><linearGradient id=\"eber16-sand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\" /><stop offset=\"100%\" stop-color=\"#DAA520\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"26\" fill=\"url(#eber16-time1)\" opacity=\"0.15\" /><path d=\"M 32 10 L 44 18 L 44 46 L 32 54 L 20 46 L 20 18 Z\" fill=\"none\" stroke=\"url(#eber16-time1)\" stroke-width=\"3\" /><path d=\"M 32 18 Q 38 24 32 32 Q 26 24 32 18\" fill=\"url(#eber16-sand1)\" /><path d=\"M 32 32 Q 38 40 32 46 Q 26 40 32 32\" fill=\"url(#eber16-sand1)\" opacity=\"0.5\" /><line x1=\"20\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#eber16-time1)\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.9))\" /></svg>"
+    },
+    {
+      "hebrew": "עֵבֶר",
+      "meaning": "에베르 (사람 이름)",
+      "ipa": "ˈʔɛvɛr",
+      "korean": "에베르",
+      "letters": "עֵ(e) + בֶר(ver)",
+      "root": "עָבַר (아바르)",
+      "grammar": "명사",
+      "emoji": "🌉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber16-bridge1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#0000CD\" /></linearGradient><linearGradient id=\"eber16-water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient><radialGradient id=\"eber16-light1\"><stop offset=\"0%\" stop-color=\"#FFFF00\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><rect x=\"0\" y=\"42\" width=\"64\" height=\"14\" fill=\"url(#eber16-water1)\" opacity=\"0.5\" /><path d=\"M 4 30 Q 32 20 60 30\" stroke=\"url(#eber16-bridge1)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"14\" y=\"30\" width=\"4\" height=\"12\" fill=\"url(#eber16-bridge1)\" /><rect x=\"30\" y=\"24\" width=\"4\" height=\"18\" fill=\"url(#eber16-bridge1)\" /><rect x=\"46\" y=\"30\" width=\"4\" height=\"12\" fill=\"url(#eber16-bridge1)\" /><circle cx=\"4\" cy=\"30\" r=\"4\" fill=\"#8B4513\" /><circle cx=\"60\" cy=\"30\" r=\"4\" fill=\"#228B22\" /><circle cx=\"32\" cy=\"14\" r=\"5\" fill=\"url(#eber16-light1)\" filter=\"drop-shadow(0 0 6px rgba(255, 255, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "עָבַר (아바르 - 건너다, 지나가다)",
+        "עִבְרִי (이브리 - 히브리 사람)"
+      ]
+    },
+    {
+      "hebrew": "אַרְבַּע וּשְׁלֹשִׁים",
+      "meaning": "삼십사",
+      "ipa": "ˈʔarba uʃəloˈʃim",
+      "korean": "아르바 우슐로쉼",
+      "letters": "אַרְבַּע(arba) + וּ(u) + שְׁלֹשִׁים(shloshim)",
+      "root": "אַרְבַּע (아르바) + שָׁלֹשׁ (샬로쉬)",
+      "grammar": "수사",
+      "emoji": "3️⃣4️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber16-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"100%\" stop-color=\"#008B8B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"27\" fill=\"url(#eber16-num1)\" opacity=\"0.2\" /><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#eber16-num1)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\">34</text><circle cx=\"32\" cy=\"32\" r=\"27\" fill=\"none\" stroke=\"url(#eber16-num1)\" stroke-width=\"3\" /></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "해, 년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber16-year1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#eber16-year1)\" stroke-width=\"3\" stroke-dasharray=\"3 3\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"12\" r=\"3.5\" fill=\"#FF6347\" /><circle cx=\"52\" cy=\"32\" r=\"3.5\" fill=\"#90EE90\" /><circle cx=\"32\" cy=\"52\" r=\"3.5\" fill=\"#FFD700\" /><circle cx=\"12\" cy=\"32\" r=\"3.5\" fill=\"#87CEEB\" /><path d=\"M 32 32 L 32 18\" stroke=\"url(#eber16-year1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 32 L 42 26\" stroke=\"url(#eber16-year1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#eber16-year1)\" /></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eber16-birth1\"><stop offset=\"0%\" stop-color=\"#FFF0F5\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"eber16-glow1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"26\" r=\"11\" fill=\"url(#eber16-birth1)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"15\" ry=\"13\" fill=\"url(#eber16-birth1)\" /><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#4A4A4A\" /><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#4A4A4A\" /><path d=\"M 28 30 Q 32 33 36 30\" stroke=\"#FF69B4\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"10\" r=\"7\" fill=\"url(#eber16-glow1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.7))\" /><path d=\"M 32 4 L 34 8 L 30 8 Z\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 28 7 L 30 10 L 27 9 Z\" fill=\"#FFFFFF\" opacity=\"0.7\" /><path d=\"M 36 7 L 34 10 L 37 9 Z\" fill=\"#FFFFFF\" opacity=\"0.7\" /></svg>"
+    },
+    {
+      "hebrew": "אֶת-פֶּלֶג",
+      "meaning": "벨렉을 (대격 표지 + 이름)",
+      "ipa": "ʔɛt ˈpɛlɛg",
+      "korean": "에트 펠레그",
+      "letters": "אֶת(et) + פֶּ(pe) + לֶג(leg)",
+      "root": "פָּלַג (팔라그)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eber16-earth1\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"70%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E3A5F\" /></radialGradient><linearGradient id=\"eber16-divide1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#eber16-earth1)\" /><path d=\"M 20 18 Q 28 22 26 30 Q 24 38 18 42\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 38 20 Q 44 26 46 34 Q 46 40 42 46\" fill=\"#228B22\" opacity=\"0.7\" /><path d=\"M 28 48 Q 32 44 36 48\" fill=\"#228B22\" opacity=\"0.7\" /><line x1=\"32\" y1=\"8\" x2=\"32\" y2=\"56\" stroke=\"url(#eber16-divide1)\" stroke-width=\"2.5\" stroke-dasharray=\"4 2\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"rgba(255, 255, 255, 0.3)\" stroke-width=\"1\" /></svg>",
+      "relatedWords": [
+        "פָּלַג (팔라그 - 나누다, 분할하다)",
+        "פְּלֻגָּה (펠루가 - 분열, 분파)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 16절은 에베르가 34세에 벨렉을 낳았음을 기록합니다. 에베르는 '히브리'라는 민족명의 어원이 되는 중요한 인물이며, 그의 아들 벨렉은 '나누다'를 의미하는 이름으로, 그의 시대에 땅이 나뉘어진 중대한 사건(바벨탑 사건)이 일어났습니다. 이 구절은 단순한 계보를 넘어 인류사의 중요한 전환점을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "עֵבֶר (에베르) - 건너편 사람, 히브리의 조상",
+        "description": "에베르는 '건너다', '지나가다'를 의미하는 동사 '아바르(עָבַר)'에서 유래한 이름으로, '건너편 사람' 또는 '강을 건넌 자'를 의미합니다. 후에 아브라함이 '히브리 사람 아브람'(창 14:13)으로 불린 것은 이 에베르에게서 유래한 것입니다.",
+        "points": [
+          "에베르는 히브리(עִבְרִי) 민족의 명칭의 기원이 됩니다",
+          "'건너다'라는 의미는 유프라테스 강을 건너온 민족을 상징합니다",
+          "에베르는 464년을 살며 여러 세대를 목격했습니다 (11:17)",
+          "아브라함까지 5대조로, 직접적인 조상입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "פֶּלֶג (펠레그) - 분열, 나뉨",
+        "description": "벨렉의 이름은 '나누다', '분할하다'를 의미하는 동사 '팔라그(פָּלַג)'에서 유래합니다. 창세기 10:25는 '그 때에 세상이 나뉘었음'이라고 설명하며, 이는 바벨탑 사건으로 언어가 혼잡케 되고 민족들이 흩어진 사건을 가리킵니다.",
+        "points": [
+          "벨렉 시대에 바벨탑 사건으로 언어가 나뉘었습니다",
+          "인류는 지리적으로 흩어져 여러 민족과 국가로 분리되었습니다",
+          "벨렉이라는 이름은 그 시대의 중대한 사건을 기념합니다",
+          "분열은 심판이지만 동시에 하나님의 섭리 안에 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַרְבַּע וּשְׁלֹשִׁים שָׁנָה (아르바 우슐로쉼 샤나) - 삼십사 세",
+        "description": "에베르가 34세에 벨렉을 낳은 것은 홍수 이후 세대들의 출산 연령 패턴을 보여줍니다. 아르박삿(35세), 셸라(30세), 에베르(34세)는 모두 30대 초반에 자녀를 낳았으며, 이는 이후 세대로 갈수록 출산 연령이 점차 낮아지는 추세를 반영합니다.",
+        "points": [
+          "홍수 이후 인간의 출산 연령이 빨라지고 있습니다",
+          "에베르의 34세는 노아 이전 세대와 비교하면 매우 이른 나이입니다",
+          "이는 수명 단축과 함께 나타나는 인류학적 변화입니다",
+          "그럼에도 하나님의 생육 번성의 축복은 계속됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 에베르의 아들 이름이 '벨렉'(나뉨)이었을까요?",
+      "answer": "벨렉이 태어난 시대에 아주 큰 사건이 일어났어요. 바벨탑 사건이에요! 그 전까지 사람들은 모두 같은 말을 사용했는데, 하나님께서 언어를 혼잡케 하셔서 사람들이 서로 말이 안 통하게 되었어요. 그래서 사람들은 서로 다른 땅으로 흩어지게 되었답니다. 에베르는 아들이 태어난 그 특별한 시대를 기억하기 위해 이름을 '나뉨'이라는 뜻의 '벨렉'이라고 지었어요. 이름 하나에도 역사가 담겨 있답니다!",
+      "bibleReferences": [
+        "창세기 10:25 - '에베르는 두 아들을 낳고 하나의 이름을 벨렉이라 하였으니 그 때에 세상이 나뉘었음이요'",
+        "창세기 11:9 - '온 땅의 언어를 거기서 혼잡하게 하셨으므로 그 이름을 바벨이라 하니라'",
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "에베르에서 벨렉으로 이어지는 족보는 인류사의 중대한 전환점을 표시합니다. 바벨탑 사건으로 인류가 언어와 지리적으로 나뉘었지만, 하나님의 구원 계획은 중단되지 않았습니다. 오히려 에베르의 계보를 통해 아브라함이 나오고, 그를 통해 모든 민족이 다시 하나님께로 돌아오는 축복의 통로가 열렸습니다. 분열 속에서도 하나님은 통일의 계획을 진행하고 계셨습니다 (에베소서 1:10)."
+    }
+  }
+}

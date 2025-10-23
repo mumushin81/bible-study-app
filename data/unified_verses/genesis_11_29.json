@@ -1,0 +1,158 @@
+{
+  "id": "genesis_11_29",
+  "reference": "창세기 11:29",
+  "hebrew": "וַיִּקַּח אַבְרָם וְנָחוֹר לָהֶם נָשִׁים שֵׁם אֵשֶׁת-אַבְרָם שָׂרָי וְשֵׁם אֵשֶׁת-נָחוֹר מִלְכָּה בַּת-הָרָן אֲבִי-מִלְכָּה וַאֲבִי יִסְכָּה.",
+  "ipa": "vajjiqˈqaħ ʔavˈram vənaˈħor laˈhɛm naˈʃim ʃem ʔeˈʃɛt ʔavˈram saˈraj vəʃem ʔeˈʃɛt naˈħor milˈka bat haˈran ʔaˈvi milˈka vaʔaˈvi jisˈka",
+  "koreanPronunciation": "바이카흐 아브람 베나호르 라헴 나쉼 쉠 에쉐트 아브람 사라이 베쉠 에쉐트 나호르 밀카 바트 하란 아비 밀카 바아비 이스카",
+  "modern": "아브람과 나호르가 아내를 맞이했는데, 아브람의 아내 이름은 사라이였고, 나호르의 아내 이름은 밀가였습니다. 밀가는 하란의 딸이며, 하란은 밀가와 이스가의 아버지입니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקַּח",
+      "meaning": "취했다, 맞이했다",
+      "ipa": "vajjiqˈqaħ",
+      "korean": "바이카흐",
+      "letters": "וַ(va) + יִּ(yi) + קַּ(qa) + ח(h)",
+      "root": "ל-ק-ח (라카흐)",
+      "grammar": "동사",
+      "emoji": "💍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-take1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient><radialGradient id=\"wives29-union1\"><stop offset=\"0%\" stop-color=\"#E1BEE7\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient><linearGradient id=\"wives29-ring1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-union1)\"/><circle cx=\"22\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"url(#wives29-ring1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(255,215,0,0.6))\"/><circle cx=\"42\" cy=\"32\" r=\"10\" fill=\"none\" stroke=\"url(#wives29-ring1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(255,215,0,0.6))\"/><circle cx=\"32\" cy=\"26\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 4px rgba(255,20,147,0.8))\"/></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 취하다)",
+        "מַלְקוֹחַ (말코아흐 - 집게)"
+      ]
+    },
+    {
+      "hebrew": "נָשִׁים",
+      "meaning": "아내들, 여자들",
+      "ipa": "naˈʃim",
+      "korean": "나쉼",
+      "letters": "נָ(na) + שִׁ(shi) + ים(m)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-women1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EC407A\"/><stop offset=\"100%\" stop-color=\"#AD1457\"/></linearGradient><radialGradient id=\"wives29-grace1\"><stop offset=\"0%\" stop-color=\"#FCE4EC\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-grace1)\"/><circle cx=\"24\" cy=\"26\" r=\"10\" fill=\"url(#wives29-women1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"26\" r=\"10\" fill=\"url(#wives29-women1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><path d=\"M 14 46 Q 20 38 24 38 Q 28 38 34 46\" fill=\"url(#wives29-women1)\" opacity=\"0.8\"/><path d=\"M 30 46 Q 36 38 40 38 Q 44 38 50 46\" fill=\"url(#wives29-women1)\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "אִישׁ (이쉬 - 남자, 남편)"
+      ]
+    },
+    {
+      "hebrew": "שָׂרָי",
+      "meaning": "사라이 (나의 공주)",
+      "ipa": "saˈraj",
+      "korean": "사라이",
+      "letters": "שָׂ(sa) + רָ(ra) + י(i)",
+      "root": "שָׂרָה (사라)",
+      "grammar": "명사",
+      "emoji": "👸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-sarai1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#880E4F\"/></linearGradient><linearGradient id=\"wives29-crown1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"wives29-royalty1\"><stop offset=\"0%\" stop-color=\"#FCE4EC\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-royalty1)\"/><circle cx=\"32\" cy=\"30\" r=\"12\" fill=\"url(#wives29-sarai1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 16 18 L 20 12 L 24 16 L 28 10 L 32 14 L 36 10 L 40 16 L 44 12 L 48 18 L 44 22 L 20 22 Z\" fill=\"url(#wives29-crown1)\" filter=\"drop-shadow(0 3px 5px rgba(255,215,0,0.7))\"/><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 4px rgba(255,20,147,0.8))\"/></svg>",
+      "relatedWords": [
+        "שָׂרָה (사라 - 공주)",
+        "שַׂר (사르 - 지도자, 고관)"
+      ]
+    },
+    {
+      "hebrew": "מִלְכָּה",
+      "meaning": "밀가 (여왕)",
+      "ipa": "milˈka",
+      "korean": "밀카",
+      "letters": "מִ(mi) + לְ(l) + כָּ(ka) + ה(h)",
+      "root": "מֶלֶךְ (멜레크)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-milcah1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7B1FA2\"/><stop offset=\"100%\" stop-color=\"#4A148C\"/></linearGradient><linearGradient id=\"wives29-queencrown1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"wives29-majesty1\"><stop offset=\"0%\" stop-color=\"#E1BEE7\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-majesty1)\"/><path d=\"M 12 40 L 16 28 L 22 34 L 28 24 L 32 30 L 36 24 L 42 34 L 48 28 L 52 40 Z\" fill=\"url(#wives29-queencrown1)\" filter=\"drop-shadow(0 4px 8px rgba(255,215,0,0.8))\"/><rect x=\"12\" y=\"40\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#wives29-queencrown1)\"/><circle cx=\"22\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 4px rgba(233,30,99,0.8))\"/><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#9C27B0\" filter=\"drop-shadow(0 0 6px rgba(156,39,176,0.8))\"/><circle cx=\"42\" cy=\"32\" r=\"3\" fill=\"#E91E63\" filter=\"drop-shadow(0 0 4px rgba(233,30,99,0.8))\"/></svg>",
+      "relatedWords": [
+        "מֶלֶךְ (멜레크 - 왕)",
+        "מַלְכָּה (말카 - 여왕)"
+      ]
+    },
+    {
+      "hebrew": "בַּת",
+      "meaning": "딸",
+      "ipa": "bat",
+      "korean": "바트",
+      "letters": "בַּ(ba) + ת(t)",
+      "root": "בַּת (바트)",
+      "grammar": "명사",
+      "emoji": "👧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-daughter1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C2185B\"/></linearGradient><radialGradient id=\"wives29-innocence1\"><stop offset=\"0%\" stop-color=\"#FFE0F0\"/><stop offset=\"100%\" stop-color=\"#F48FB1\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-innocence1)\"/><circle cx=\"32\" cy=\"26\" r=\"11\" fill=\"url(#wives29-daughter1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.3))\"/><path d=\"M 16 48 Q 24 38 32 38 Q 40 38 48 48\" fill=\"url(#wives29-daughter1)\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\"/><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בָּנִים (바님 - 자녀들)"
+      ]
+    },
+    {
+      "hebrew": "יִסְכָּה",
+      "meaning": "이스가 (바라보는 자)",
+      "ipa": "jisˈka",
+      "korean": "이스카",
+      "letters": "יִ(yi) + סְ(s) + כָּ(ka) + ה(h)",
+      "root": "ס-כ-ה (사카)",
+      "grammar": "명사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives29-iscah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00ACC1\"/><stop offset=\"100%\" stop-color=\"#00838F\"/></linearGradient><radialGradient id=\"wives29-vision1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#00ACC1\" stop-opacity=\"0.3\"/></radialGradient><radialGradient id=\"wives29-eye1\"><stop offset=\"0%\" stop-color=\"#64B5F6\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#wives29-vision1)\"/><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"#FFFFFF\" stroke=\"url(#wives29-iscah1)\" stroke-width=\"3\" filter=\"drop-shadow(0 3px 6px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#wives29-eye1)\"/><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#212121\"/><circle cx=\"34\" cy=\"30\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 29절은 아브람과 나호르의 결혼을 기록하며, 특별히 아브람의 아내 사라이를 소개합니다. 이 구절은 단순한 결혼 기록을 넘어 하나님의 구원 역사에서 중요한 역할을 하게 될 사라의 등장을 알립니다. 밀가가 하란의 딸임을 명시한 것은 근친혼이 일반적이었던 당시 문화와 가족 내 결속을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּקַּח...נָשִׁים (바이카흐...나쉼) - 아내를 맞이함",
+        "description": "'라카흐'(취하다)는 히브리어에서 결혼을 나타내는 일반적 표현으로, 남자가 능동적으로 여자를 아내로 맞이하는 행위를 의미합니다. 두 형제가 함께 언급된 것은 비슷한 시기에 결혼했음을 암시합니다.",
+        "points": [
+          "고대 근동에서 결혼은 가문 간의 중요한 연합이었습니다",
+          "아브람과 나호르의 결혼은 가족의 연속성과 후손을 이어가는 수단이었습니다",
+          "하나님의 언약은 결혼과 가정을 통해 다음 세대로 전달됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שָׂרָי (사라이) - 나의 공주",
+        "description": "사라이('나의 공주')라는 이름은 후에 사라('공주')로 바뀌게 됩니다. 소유격 접미사 '-이'가 제거되어 개인적 소유를 넘어 보편적 공주, 즉 많은 민족의 어머니가 될 것을 상징합니다. 다음 절(30절)에서 그녀가 불임이었음이 드러나는데, 이는 하나님의 초자연적 개입을 위한 무대 설정입니다.",
+        "points": [
+          "사라이는 믿음의 조상이자 언약의 어머니가 될 인물입니다",
+          "그녀의 이름에 담긴 왕족적 의미는 후손들의 운명을 암시합니다",
+          "사라의 불임은 인간적 불가능 속에서 하나님의 기적을 드러내게 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִלְכָּה בַּת-הָרָן (밀카 바트 하란) - 하란의 딸 밀가",
+        "description": "밀가('여왕')는 하란의 딸로, 삼촌 나호르와 결혼했습니다. 이는 당시 일반적이었던 근친혼 관습을 보여주며, 가문의 순수성과 재산 보존을 위한 것이었습니다. 밀가는 후에 이삭의 아내 리브가의 할머니가 됩니다.",
+        "points": [
+          "밀가는 나호르와의 결혼을 통해 아브라함 가계와 연결됩니다",
+          "그녀의 손녀 리브가는 이삭과 결혼하여 언약의 계보를 잇게 됩니다",
+          "하란의 죽음 후에도 그의 딸들을 통해 가문은 계속됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יִסְכָּה (이스카) - 신비로운 여동생",
+        "description": "이스가('바라보는 자')는 밀가의 여동생으로 언급되지만, 성경에서 다시 등장하지 않습니다. 유대 전승(미드라쉬)에서는 이스가가 사라이와 동일 인물이라고 주장하기도 하지만, 본문상으로는 별개의 인물로 보입니다. 그녀의 언급은 하란의 가계를 완전하게 기록하려는 의도로 보입니다.",
+        "points": [
+          "성경은 때로 역사적 완전성을 위해 다시 등장하지 않는 인물도 기록합니다",
+          "이스가의 운명은 알려지지 않았지만, 하나님의 역사는 기록된 것 이상입니다",
+          "모든 사람이 주인공은 아니지만, 각자는 하나님의 이야기에서 의미 있는 역할을 합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 삼촌의 딸이 아니라 이복여동생과 결혼했을까요?",
+      "answer": "당시에는 가까운 친척끼리 결혼하는 것이 흔한 일이었어요. 사라이는 아브람과 아버지는 같지만 어머니가 다른 여동생이었어요. 그때는 하나님이 아직 가까운 친척 간의 결혼을 금지하지 않으셨거든요. 나중에 모세 시대에 가서야 하나님이 법을 주시며 이런 결혼을 금하셨어요. 하나님은 역사 속에서 점진적으로 당신의 뜻을 나타내시며 백성들을 가르치셨답니다.",
+      "bibleReferences": [
+        "창세기 20:12 - '또 그는 실로 나의 이복 누이로서 내 아내가 되었음이니라'",
+        "레위기 18:9 - '네 자매 곧 네 아버지의 딸이나 네 어머니의 딸이나...그들의 하체를 범하지 말지니라'",
+        "신명기 27:22 - '그의 자매 곧 그의 아버지의 딸이나 어머니의 딸과 동침하는 자는 저주를 받을 것이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람과 사라이의 결혼은 단순한 개인적 결합이 아니라 구속사적 의미를 가진 하나님의 섭리입니다. 사라이의 불임(30절에서 드러남)은 인간적으로는 비극이지만, 하나님의 기적적 개입을 위한 무대가 됩니다. 이는 구원이 인간의 능력이 아닌 하나님의 은혜로 이루어짐을 보여주는 상징입니다. 밀가와 이스가의 언급은 하나님의 이야기가 유명한 인물뿐 아니라 알려지지 않은 사람들도 포함함을 보여줍니다."
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "id": "genesis_13_17",
+  "reference": "창세기 13:17",
+  "hebrew": "קוּם הִתְהַלֵּךְ בָּאָרֶץ לְאָרְכָּהּ וּלְרָחְבָּהּ כִּי לְךָ אֶתְּנֶנָּה",
+  "ipa": "kum hithaˈleχ baˈʔarɛts ləʔorˈka ulroxˈba ki ləˈχa ʔɛtəˈnɛnna",
+  "koreanPronunciation": "쿰 히트할레크 바아레츠 레오르카 울로크바 키 레카 에테넨나",
+  "modern": "일어나 이 땅을 종과 횡으로 두루 다녀 보라, 내가 그것을 네게 주겠다",
+  "words": [
+    {
+      "hebrew": "קוּם הִתְהַלֵּךְ",
+      "meaning": "일어나 두루 다녀라",
+      "ipa": "kum hithaˈleχ",
+      "korean": "쿰 히트할레크",
+      "letters": "קוּם(kum) + הִ(hi) + תְ(t) + הַ(ha) + לֵּךְ(lekh)",
+      "root": "ק-ו-ם (쿰) + ה-ל-ךְ (할라크)",
+      "grammar": "동사",
+      "emoji": "🚶‍♂️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-walk\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498db\" /><stop offset=\"50%\" stop-color=\"#2ecc71\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></linearGradient><radialGradient id=\"hebron-altar1-path\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><path d=\"M 8 32 L 20 28 L 32 32 L 44 28 L 56 32\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /><path d=\"M 32 8 L 32 20 L 32 32 L 32 44 L 32 56\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"24\" rx=\"8\" ry=\"10\" fill=\"url(#hebron-altar1-walk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"27\" y=\"32\" width=\"10\" height=\"14\" rx=\"2\" fill=\"url(#hebron-altar1-walk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 30 46 L 28 54\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 34 46 L 36 54\" stroke=\"url(#hebron-altar1-walk)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"16\" cy=\"30\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"24\" cy=\"28\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"28\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"30\" r=\"2\" fill=\"url(#hebron-altar1-path)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "קוּם (쿰 - 일어나다)",
+        "הָלַךְ (할라크 - 걷다, 가다)"
+      ]
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "meaning": "땅을",
+      "ipa": "baˈʔarɛts",
+      "korean": "바아레츠",
+      "letters": "בָּ(ba) + אָ(a) + רֶץ(retz)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🗺️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-land\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#8BC34A\" /><stop offset=\"100%\" stop-color=\"#CDDC39\" /></linearGradient><linearGradient id=\"hebron-altar1-border\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#795548\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"3\" fill=\"url(#hebron-altar1-land)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"3\" fill=\"none\" stroke=\"url(#hebron-altar1-border)\" stroke-width=\"2\" /><path d=\"M 16 24 Q 20 28 24 24 Q 28 20 32 24 Q 36 28 40 24 Q 44 20 48 24\" stroke=\"#388E3C\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"30\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"36\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"32\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 지역)",
+        "גְּבוּל (게불 - 경계)"
+      ]
+    },
+    {
+      "hebrew": "לְאָרְכָּהּ וּלְרָחְבָּהּ",
+      "meaning": "그 길이와 너비로",
+      "ipa": "ləʔorˈka ulroxˈba",
+      "korean": "레오르카 울로크바",
+      "letters": "לְ(le) + אָ(o) + רְכָּהּ(rkah) + וּ(u) + לְ(le) + רָ(ro) + חְבָּהּ(khbah)",
+      "root": "אֹרֶךְ (오레크) + רֹחַב (로하브)",
+      "grammar": "명사",
+      "emoji": "📏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-measure\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#e67e22\" /><stop offset=\"100%\" stop-color=\"#d35400\" /></linearGradient><radialGradient id=\"hebron-altar1-arrow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#e67e22\" /></radialGradient></defs><line x1=\"12\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"url(#hebron-altar1-measure)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 12 32 L 18 28 L 18 36 Z\" fill=\"url(#hebron-altar1-arrow)\" /><path d=\"M 52 32 L 46 28 L 46 36 Z\" fill=\"url(#hebron-altar1-arrow)\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"52\" stroke=\"url(#hebron-altar1-measure)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 28 18 L 36 18 Z\" fill=\"url(#hebron-altar1-arrow)\" /><path d=\"M 32 52 L 28 46 L 36 46 Z\" fill=\"url(#hebron-altar1-arrow)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#e67e22\" filter=\"drop-shadow(0 0 6px rgba(230, 126, 34, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אֹרֶךְ (오레크 - 길이)",
+        "רֹחַב (로하브 - 너비)"
+      ]
+    },
+    {
+      "hebrew": "כִּי לְךָ אֶתְּנֶנָּה",
+      "meaning": "왜냐하면 내가 그것을 네게 주겠기 때문이다",
+      "ipa": "ki ləˈχa ʔɛtəˈnɛnna",
+      "korean": "키 레카 에테넨나",
+      "letters": "כִּי(ki) + לְ(le) + ךָ(kha) + אֶ(e) + תְּ(te) + נֶנָּה(nenna)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-give\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"hebron-altar1-hand\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><ellipse cx=\"20\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hebron-altar1-give)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"26\" y=\"26\" width=\"16\" height=\"12\" rx=\"2\" fill=\"url(#hebron-altar1-give)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#hebron-altar1-give)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#hebron-altar1-hand)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 24 20 L 28 24\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 36 24 L 40 20\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 24 44 L 28 40\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 36 40 L 40 44\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "יָהַב (야하브 - 주다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 아브람에게 단순히 땅을 보라고만 하지 않으시고, 직접 그 땅을 걸어다니라고 명령하십니다. 이는 약속의 땅을 실제로 체험하고 소유하라는 의미입니다. 발로 밟는 모든 곳이 아브람의 것이 될 것이라는 약속의 확증입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "קוּם הִתְהַלֵּךְ (쿰 히트할레크) - 일어나 두루 다녀라",
+        "description": "'쿰(일어나다)'과 '히트할레크(두루 다니다)'는 수동적인 관찰이 아닌 능동적인 참여를 요구합니다. 하나님은 아브람이 약속의 땅을 직접 걸으며 체험하기를 원하십니다. 이는 믿음의 실천적 행동을 의미합니다.",
+        "points": [
+          "믿음은 단순히 듣는 것이 아니라 행동하는 것입니다",
+          "약속의 땅을 직접 체험하라는 명령입니다",
+          "발로 밟는 땅은 소유권의 상징입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְאָרְכָּהּ וּלְרָחְבָּהּ (레오르카 울로크바) - 그 길이와 너비로",
+        "description": "동서남북, 즉 모든 방향으로 다니라는 의미입니다. 하나님은 아브람에게 땅의 일부가 아니라 전체를 주시려고 합니다. 이는 하나님의 축복이 제한적이지 않고 완전함을 보여줍니다.",
+        "points": [
+          "하나님의 약속에는 제한이 없습니다",
+          "모든 방향, 전체 영역이 약속의 대상입니다",
+          "하나님의 축복은 부분적이 아니라 완전합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "כִּי לְךָ אֶתְּנֶנָּה (키 레카 에테넨나) - 내가 그것을 네게 주겠다",
+        "description": "하나님은 다시 한 번 땅을 주시겠다는 약속을 확인하십니다. '에테넨나(주겠다)'는 미래형으로 확실한 약속을 나타냅니다. 이는 아브람이 걷는 모든 땅이 그의 소유가 될 것임을 보증합니다.",
+        "points": [
+          "약속의 재확인은 하나님의 신실하심을 보여줍니다",
+          "걷는 행위 자체가 소유의 예표입니다",
+          "하나님의 약속은 반드시 이루어집니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 땅을 직접 '걸어다니라'고 하셨을까요?",
+      "answer": "하나님은 아브람이 눈으로만 보는 것이 아니라, 발로 직접 밟아보면서 '이 땅이 정말 내 것이 될 거야'라고 느끼기를 원하셨어요. 마치 우리가 새 집에 이사 가면 모든 방을 구석구석 다녀보고 싶은 것처럼, 하나님은 아브람이 약속의 땅을 직접 체험하기를 원하셨답니다. 그리고 발로 밟는 모든 곳이 아브람의 것이 될 거라고 약속하신 거예요!",
+      "bibleReferences": [
+        "신명기 11:24 - '너희의 발바닥으로 밟는 곳은 다 너희의 소유가 되리니'",
+        "여호수아 1:3 - '내가 모세에게 말한 바와 같이 너희 발바닥으로 밟는 곳은 모두 내가 너희에게 주었노니'",
+        "히브리서 11:8-9 - '믿음으로 아브라함은 부르심을 받았을 때에 순종하여 장래의 유업으로 받을 땅에 나아갈새'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "땅을 걷는 행위는 단순한 관광이 아니라 소유권의 상징입니다. 하나님은 아브람에게 믿음으로 약속을 받아들이고 실천하라고 명령하십니다. 이는 우리에게도 적용됩니다 - 하나님의 약속을 단순히 듣는 것이 아니라, 믿음으로 행동하며 체험해야 합니다. 우리가 믿음으로 밟는 모든 영역에서 하나님의 축복을 경험하게 됩니다."
+    }
+  }
+}

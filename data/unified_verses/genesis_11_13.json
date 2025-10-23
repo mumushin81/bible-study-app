@@ -1,0 +1,110 @@
+{
+  "id": "genesis_11_13",
+  "reference": "창세기 11:13",
+  "hebrew": "שָׁלֹשׁ שָׁנִים אַרְבַּע מֵאוֹת בָּנִים וּבָנוֹת",
+  "ipa": "vajˈxi ʔarpaxˈʃad ʔaxaˈre holiˈdo ʔɛt ʃɛˈlax ʃaloʃ ʃaˈnim vəʔarˈbaʕ meˈʔot ʃaˈna vajˈjolɛd baˈnim uvaˈnot",
+  "koreanPronunciation": "바예히 아르팍샤드 아하레 홀리도 에트 셸라흐 샬로쉬 샤님 베아르바 메오트 샤나 바욜레드 바님 우바노트",
+  "modern": "아르박삿은 셸라를 낳은 후 403년을 더 살면서 아들들과 딸들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "שָׁלֹשׁ שָׁנִים",
+      "meaning": "3년",
+      "ipa": "ʃaloʃ ʃaˈnim",
+      "korean": "샬로쉬 샤님",
+      "letters": "שָׁ(sha) + לֹשׁ(losh) + שָׁ(sha) + נִים(nim)",
+      "root": "שָׁלֹשׁ (샬로쉬) + שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "3️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shalosh-three1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient><radialGradient id=\"shalosh-circle1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498DB\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#shalosh-three1)\" filter=\"drop-shadow(0 4px 6px rgba(52, 152, 219, 0.4))\" /><text x=\"32\" y=\"44\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 2px rgba(0, 0, 0, 0.4))\">3</text><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#shalosh-circle1)\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׁלֹשׁ (샬로쉬 - 셋)",
+        "שָׁנָה (샤나 - 해)"
+      ]
+    },
+    {
+      "hebrew": "אַרְבַּע מֵאוֹת",
+      "meaning": "400",
+      "ipa": "ʔarˈbaʕ meˈʔot",
+      "korean": "아르바 메오트",
+      "letters": "אַ(ar) + רְ(r) + בַּע(ba) + מֵ(me) + אוֹת(ot)",
+      "root": "אַרְבַּע (아르바) + מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "4️⃣💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arba400-number1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient><radialGradient id=\"arba400-shine1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E74C3C\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#arba400-number1)\" filter=\"drop-shadow(0 4px 8px rgba(231, 76, 60, 0.5))\" /><text x=\"32\" y=\"42\" font-size=\"20\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 2px rgba(0, 0, 0, 0.5))\">400</text><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#arba400-shine1)\" stroke-width=\"3\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אַרְבַּע (아르바 - 넷)",
+        "מֵאָה (메아 - 백)"
+      ]
+    },
+    {
+      "hebrew": "בָּנִים וּבָנוֹת",
+      "meaning": "아들들과 딸들",
+      "ipa": "baˈnim uvaˈnot",
+      "korean": "바님 우바노트",
+      "letters": "בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "בֵּן (벤) + בַּת (바트)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"banim-family2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6FB5\" /><stop offset=\"50%\" stop-color=\"#FF2E97\" /><stop offset=\"100%\" stop-color=\"#D81B60\" /></linearGradient><radialGradient id=\"banim-love1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FF6FB5\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#banim-family2)\" opacity=\"0.2\" /><circle cx=\"22\" cy=\"26\" r=\"9\" fill=\"url(#banim-family2)\" filter=\"drop-shadow(0 2px 4px rgba(255, 46, 151, 0.4))\" /><circle cx=\"42\" cy=\"26\" r=\"9\" fill=\"url(#banim-family2)\" filter=\"drop-shadow(0 2px 4px rgba(255, 46, 151, 0.4))\" /><circle cx=\"18\" cy=\"46\" r=\"7\" fill=\"url(#banim-love1)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"48\" r=\"7\" fill=\"url(#banim-love1)\" opacity=\"0.8\" /><circle cx=\"46\" cy=\"46\" r=\"7\" fill=\"url(#banim-love1)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 13절은 아르박삿의 긴 생애를 마무리하며, 셸라를 낳은 후 403년을 더 살았음을 기록합니다. 이는 홍수 이후에도 하나님께서 언약의 계통을 보존하시고 번성케 하신 은혜를 보여주는 증거입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שָׁלֹשׁ שָׁנִים וְאַרְבַּע מֵאוֹת (샬로쉬 샤님 베아르바 메오트) - 403년의 의미",
+        "description": "아르박삿이 셸라를 낳은 후 403년을 더 살았다는 기록은 그가 총 438세까지 살았음을 의미합니다. 이는 여전히 긴 수명이지만, 셈의 600세나 노아의 950세에 비하면 감소한 것으로, 홍수 이후 점진적인 수명 감소 패턴을 보여줍니다.",
+        "points": [
+          "403년은 약 4세기에 해당하는 긴 세월입니다",
+          "이 기간 동안 여러 세대가 태어나고 자라났습니다",
+          "아르박삿은 손자, 증손자들과 함께 살며 신앙을 전수할 수 있었습니다",
+          "긴 수명은 하나님께서 언약의 증인들을 보존하신 은혜입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַֽיְחִי...וַיּוֹלֶד (바예히...바욜레드) - 생명과 출산의 패턴",
+        "description": "족보에서 반복되는 '살았다...낳았다' 패턴은 단순한 역사 기록을 넘어 신학적 의미를 담고 있습니다. 이는 생명의 연속성과 하나님의 창조 명령의 지속적 성취를 나타냅니다.",
+        "points": [
+          "각 세대는 생명을 이어받고 다음 세대에 전달합니다",
+          "'생육하고 번성하라'는 창조 명령이 계속 성취됩니다",
+          "하나님의 축복은 개인을 넘어 공동체로 확장됩니다",
+          "생명의 전달은 언약의 전달과 연결됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우바노트) - 하나님의 축복의 열매",
+        "description": "'아들들과 딸들'이라는 반복되는 표현은 하나님의 축복이 구체적으로 어떻게 나타나는지를 보여줍니다. 자녀는 하나님께서 주신 유산이며, 언약 공동체를 형성하는 기초입니다.",
+        "points": [
+          "자녀는 하나님의 형상을 지닌 귀한 선물입니다",
+          "아들과 딸 모두 하나님의 축복의 통로입니다",
+          "많은 자손은 아브라함에게 주실 축복의 예표입니다",
+          "영적으로는 복음을 통한 영적 자녀의 번성을 예표합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 모든 사람이 '아들들과 딸들을 낳았다'고 똑같이 기록되어 있을까요?",
+      "answer": "하나님은 모든 사람에게 똑같이 '생육하고 번성하라'는 축복을 주셨기 때문이에요. 아들이든 딸이든 모두 소중한 하나님의 자녀들이에요. 이 말이 반복되는 것은 하나님의 축복이 한 사람, 한 가정에 그치지 않고 계속해서 퍼져나간다는 것을 보여줘요. 마치 나무 한 그루가 씨앗을 맺고, 그 씨앗이 또 나무가 되어 열매를 맺는 것처럼, 하나님의 축복은 세대를 거쳐 계속 확장되는 거예요!",
+      "bibleReferences": [
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "시편 127:3 - '보라 자식들은 여호와의 기업이요 태의 열매는 그의 상급이로다'",
+        "시편 128:3 - '네 집 안방에 있는 네 아내는 결실한 포도나무 같으며'",
+        "잠언 17:6 - '손자는 노인의 면류관이요 아버지는 자식의 영화니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아르박삿의 긴 생애와 많은 자손은 하나님의 언약이 세대를 거쳐 끊임없이 이어짐을 증거합니다. 족보의 반복적 패턴은 단조로워 보일 수 있지만, 그 속에는 하나님의 신실하심이 담겨 있습니다. 각 이름은 단순한 통계가 아니라 하나님의 구속 계획 안에서 의미 있는 역할을 한 실제 인물들이며, 이들을 통해 궁극적으로 메시아이신 예수 그리스도께서 오셨습니다. 우리도 이 언약의 계보에 영적으로 연결되어 다음 세대에 믿음을 전달하는 책임을 가집니다."
+    }
+  }
+}

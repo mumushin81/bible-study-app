@@ -1,0 +1,193 @@
+{
+  "id": "genesis_1_7",
+  "reference": "창세기 1:7",
+  "hebrew": "וַיַּעַשׂ אֱלֹהִים, אֶת-הָרָקִיעַ, וַיַּבְדֵּל בֵּין הַמַּיִם אֲשֶׁר מִתַּחַת לָרָקִיעַ, וּבֵין הַמַּיִם אֲשֶׁר מֵעַל לָרָקִיעַ; וַיְהִי-כֵן.",
+  "ipa": "vajˈjaʕaś ʔɛloˈhim ʔɛt haraˈkiaʕ vajjavˈdel ben hamˈmajim ʔaˈʃɛr mitˈtaχat laraˈkiaʕ uven hamˈmajim ʔaˈʃɛr meˈʕal laraˈkiaʕ vajəˈhi χen",
+  "koreanPronunciation": "바야아스 엘로힘 에트 하라키아, 바야브델 벤 하마임 아쉐르 미타하트 라라키아, 우벤 하마임 아쉐르 메알 라라키아; 바예히 켄",
+  "modern": "하나님께서 궁창을 만드사 궁창 아래의 물과 궁창 위의 물을 나누시니 그대로 되었습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "ipa": "vajˈjaʕaś",
+      "korean": "바야아스",
+      "letters": "וַ(va) + יַּ(ya) + עַ(a) + שׂ(s)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hammer7a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow7a\"><stop offset=\"0%\" stop-color=\"#FFFF00\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"handle7a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow7a)\" opacity=\"0.3\" /><rect x=\"28\" y=\"35\" width=\"8\" height=\"22\" rx=\"2\" fill=\"url(#handle7a)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.4))\" /><path d=\"M 18 20 L 46 20 L 48 28 L 16 28 Z\" fill=\"url(#hammer7a)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"16\" width=\"32\" height=\"4\" rx=\"2\" fill=\"url(#hammer7a)\" /><circle cx=\"22\" cy=\"24\" r=\"1.5\" fill=\"#FFF\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"24\" r=\"1.5\" fill=\"#FFF\" opacity=\"0.6\" /><circle cx=\"42\" cy=\"24\" r=\"1.5\" fill=\"#FFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מַעֲשֶׂה (마아세 - 작품, 행위)",
+        "עֹשֶׂה (오세 - 만드는 자)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown7b\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"divine7b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"70%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"jewel7b\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#8B008B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#divine7b)\" /><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#crown7b)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" rx=\"1\" fill=\"url(#crown7b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"36\" r=\"4\" fill=\"url(#jewel7b)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><circle cx=\"22\" cy=\"42\" r=\"2\" fill=\"url(#jewel7b)\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"42\" r=\"2\" fill=\"url(#jewel7b)\" opacity=\"0.8\" /><path d=\"M 32 24 L 34 30 L 30 30 Z\" fill=\"#FFD700\" /><circle cx=\"32\" cy=\"20\" r=\"2\" fill=\"#FFF\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-הָרָקִיעַ",
+      "meaning": "궁창을",
+      "ipa": "ʔɛt haraˈkiaʕ",
+      "korean": "에트 하라키아",
+      "letters": "אֶת(et) + הָ(ha) + רָ(ra) + קִ(ki) + יעַ(a)",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky7c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#000080\" /></linearGradient><radialGradient id=\"dome7c\"><stop offset=\"0%\" stop-color=\"#87CEEB\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0.3\" /></radialGradient><linearGradient id=\"star7c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky7c)\" rx=\"8\" /><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"16\" fill=\"url(#dome7c)\" filter=\"drop-shadow(0 -2px 8px rgba(135, 206, 235, 0.6))\" /><circle cx=\"16\" cy=\"16\" r=\"2\" fill=\"url(#star7c)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"28\" cy=\"12\" r=\"1.5\" fill=\"url(#star7c)\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))\" /><circle cx=\"42\" cy=\"18\" r=\"2\" fill=\"url(#star7c)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"50\" cy=\"12\" r=\"1.5\" fill=\"url(#star7c)\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))\" /><circle cx=\"36\" cy=\"22\" r=\"1\" fill=\"url(#star7c)\" opacity=\"0.8\" /><circle cx=\"20\" cy=\"24\" r=\"1\" fill=\"url(#star7c)\" opacity=\"0.8\" /><path d=\"M 8 48 Q 32 36 56 48\" stroke=\"#87CEEB\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" stroke-dasharray=\"4,2\" /></svg>",
+      "relatedWords": [
+        "רָקִיעַ (라키아 - 창공, 하늘)",
+        "שָׁמַיִם (샤마임 - 하늘들)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּבְדֵּל",
+      "meaning": "그리고 나누셨다",
+      "ipa": "vajjavˈdel",
+      "korean": "바야브델",
+      "letters": "וַ(va) + יַּ(ya) + בְ(v) + דֵּ(de) + ל(l)",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"divide7d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#9370DB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><linearGradient id=\"arrow7d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"glow7d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#9370DB\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow7d)\" /><rect x=\"8\" y=\"30\" width=\"48\" height=\"4\" rx=\"2\" fill=\"url(#divide7d)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 8 L 32 24\" stroke=\"url(#divide7d)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 40 L 32 56\" stroke=\"url(#divide7d)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 28 12 L 32 8 L 36 12\" fill=\"none\" stroke=\"url(#arrow7d)\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M 28 52 L 32 56 L 36 52\" fill=\"none\" stroke=\"url(#arrow7d)\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><circle cx=\"12\" cy=\"32\" r=\"2\" fill=\"url(#arrow7d)\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.6))\" /><circle cx=\"52\" cy=\"32\" r=\"2\" fill=\"url(#arrow7d)\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "בָּדַל (바달 - 분리하다, 구별하다)",
+        "הַבְדָּלָה (하브달라 - 구분)"
+      ]
+    },
+    {
+      "hebrew": "בֵּין הַמַּיִם",
+      "meaning": "물들 사이를",
+      "ipa": "ben hamˈmajim",
+      "korean": "벤 하마임",
+      "letters": "בֵּ(be) + ין(n) + הַ(ha) + מַּ(ma) + יִם(yim)",
+      "root": "בֵּין (벤) / מַיִם (마임)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water7e\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><linearGradient id=\"water7f\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><radialGradient id=\"drop7e\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></radialGradient></defs><path d=\"M 8 12 Q 12 16 16 12 Q 20 8 24 12 Q 28 16 32 12 Q 36 8 40 12 Q 44 16 48 12 Q 52 8 56 12 L 56 28 L 8 28 Z\" fill=\"url(#water7e)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 8 36 Q 12 40 16 36 Q 20 32 24 36 Q 28 40 32 36 Q 36 32 40 36 Q 44 40 48 36 Q 52 32 56 36 L 56 52 L 8 52 Z\" fill=\"url(#water7f)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"16\" cy=\"20\" rx=\"3\" ry=\"4\" fill=\"url(#drop7e)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"18\" rx=\"2.5\" ry=\"3.5\" fill=\"url(#drop7e)\" opacity=\"0.5\" /><ellipse cx=\"48\" cy=\"21\" rx=\"3\" ry=\"4\" fill=\"url(#drop7e)\" opacity=\"0.6\" /><ellipse cx=\"20\" cy=\"44\" rx=\"3\" ry=\"4\" fill=\"url(#drop7e)\" opacity=\"0.6\" /><ellipse cx=\"36\" cy=\"42\" rx=\"2.5\" ry=\"3.5\" fill=\"url(#drop7e)\" opacity=\"0.5\" /><ellipse cx=\"48\" cy=\"45\" rx=\"3\" ry=\"4\" fill=\"url(#drop7e)\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "אֲשֶׁר מִתַּחַת",
+      "meaning": "아래에 있는",
+      "ipa": "ʔaˈʃɛr mitˈtaχat",
+      "korean": "아쉐르 미타하트",
+      "letters": "אֲ(a) + שֶׁ(she) + ר(r) + מִ(mi) + תַּ(ta) + חַת(hat)",
+      "root": "אֲשֶׁר (아쉐르) / תַּחַת (타하트)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"down7g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#6A5ACD\" /><stop offset=\"100%\" stop-color=\"#483D8B\" /></linearGradient><linearGradient id=\"arrow7g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#down7g)\" opacity=\"0.2\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"28\" rx=\"2\" fill=\"url(#arrow7g)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 18 44 L 32 56 L 46 44 Z\" fill=\"url(#arrow7g)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFF\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"24\" r=\"2.5\" fill=\"#FFF\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#FFF\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "לָרָקִיעַ",
+      "meaning": "궁창에",
+      "ipa": "laraˈkiaʕ",
+      "korean": "라라키아",
+      "letters": "לָ(la) + רָ(ra) + קִ(ki) + יעַ(a)",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"expanse7h\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#191970\" /></linearGradient><radialGradient id=\"spark7h\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#expanse7h)\" rx=\"8\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"12\" fill=\"none\" stroke=\"#87CEEB\" stroke-width=\"2\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(135, 206, 235, 0.8))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"9\" fill=\"none\" stroke=\"#B0E0E6\" stroke-width=\"1.5\" opacity=\"0.4\" /><circle cx=\"20\" cy=\"18\" r=\"2\" fill=\"url(#spark7h)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><circle cx=\"44\" cy=\"22\" r=\"1.5\" fill=\"url(#spark7h)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"32\" cy=\"14\" r=\"1.5\" fill=\"url(#spark7h)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"16\" cy=\"32\" r=\"1\" fill=\"#FFF\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"1\" fill=\"#FFF\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"44\" r=\"1\" fill=\"#FFF\" opacity=\"0.7\" /></svg>"
+    },
+    {
+      "hebrew": "וּבֵין הַמַּיִם",
+      "meaning": "그리고 물들 사이를",
+      "ipa": "uven hamˈmajim",
+      "korean": "우벤 하마임",
+      "letters": "וּ(u) + בֵ(ve) + ין(n) + הַ(ha) + מַּ(ma) + יִם(yim)",
+      "root": "בֵּין (벤) / מַיִם (마임)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"waters7i\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BFFF\" /><stop offset=\"50%\" stop-color=\"#1E90FF\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><radialGradient id=\"splash7i\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"70%\" stop-color=\"#87CEEB\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#4682B4\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#splash7i)\" /><path d=\"M 18 32 Q 18 24 22 20 Q 26 16 32 16 Q 38 16 42 20 Q 46 24 46 32\" fill=\"none\" stroke=\"url(#waters7i)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 32 Q 18 40 22 44 Q 26 48 32 48 Q 38 48 42 44 Q 46 40 46 32\" fill=\"none\" stroke=\"url(#waters7i)\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"url(#waters7i)\" filter=\"drop-shadow(0 0 4px rgba(30, 144, 255, 0.6))\" /><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"url(#waters7i)\" filter=\"drop-shadow(0 0 4px rgba(30, 144, 255, 0.6))\" /><ellipse cx=\"24\" cy=\"24\" rx=\"2\" ry=\"3\" fill=\"#87CEEB\" opacity=\"0.6\" /><ellipse cx=\"40\" cy=\"24\" rx=\"2\" ry=\"3\" fill=\"#87CEEB\" opacity=\"0.6\" /><ellipse cx=\"24\" cy=\"40\" rx=\"2\" ry=\"3\" fill=\"#87CEEB\" opacity=\"0.6\" /><ellipse cx=\"40\" cy=\"40\" rx=\"2\" ry=\"3\" fill=\"#87CEEB\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "אֲשֶׁר מֵעַל",
+      "meaning": "위에 있는",
+      "ipa": "ʔaˈʃɛr meˈʕal",
+      "korean": "아쉐르 메알",
+      "letters": "אֲ(a) + שֶׁ(she) + ר(r) + מֵ(me) + עַל(al)",
+      "root": "אֲשֶׁר (아쉐르) / עַל (알)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"up7j\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></linearGradient><linearGradient id=\"arrow7j\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#up7j)\" opacity=\"0.2\" /><rect x=\"28\" y=\"24\" width=\"8\" height=\"28\" rx=\"2\" fill=\"url(#arrow7j)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 18 20 L 32 8 L 46 20 Z\" fill=\"url(#arrow7j)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"#FFF\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"40\" r=\"2.5\" fill=\"#FFF\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#FFF\" opacity=\"0.4\" /></svg>"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "meaning": "그리고 그대로 되었다",
+      "ipa": "vajəˈhi χen",
+      "korean": "바예히 켄",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi) + כֵן(ken)",
+      "root": "ה-י-ה (하야) / כֵּן (켄)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"done7k\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"50%\" stop-color=\"#00E676\" /><stop offset=\"100%\" stop-color=\"#69F0AE\" /></linearGradient><radialGradient id=\"glow7k\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#00E676\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#00C853\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"check7k\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0F2F1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow7k)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#done7k)\" filter=\"drop-shadow(0 4px 8px rgba(0, 200, 83, 0.5))\" /><path d=\"M 18 32 L 28 42 L 48 22\" fill=\"none\" stroke=\"url(#check7k)\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"#69F0AE\" stroke-width=\"1\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"none\" stroke=\"#00C853\" stroke-width=\"1\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "כֵּן (켄 - 그렇게, 그대로)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:7은 하나님께서 궁창을 만드시고 물을 위아래로 나누신 장면을 묘사합니다. 이는 둘째 날의 창조 사역으로, 하나님께서 혼돈한 세계에 질서를 부여하시는 중요한 단계입니다. 특히 '나누다'(바달)라는 동사는 창조가 단순히 존재하게 하는 것이 아니라 구별하고 질서를 세우는 과정임을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּעַשׂ אֱלֹהִים אֶת-הָרָקִיעַ (바야아스 엘로힘 에트 하라키아) - 궁창을 만드시다",
+        "description": "'아사'(만들다)는 '바라'(창조하다)와 구별되는 단어입니다. 1절의 '바라'가 무에서 유를 창조하는 것이라면, '아사'는 이미 존재하는 재료로 형태를 만드는 것을 의미합니다. 궁창(라키아)은 히브리어로 '펼쳐진 것', '두드려 편 것'을 뜻하며, 고대 근동 사람들이 이해한 하늘의 구조를 반영합니다.",
+        "points": [
+          "하나님은 첫째 날 창조하신 물질로 궁창이라는 구조물을 만드십니다",
+          "궁창은 물을 위아래로 나누는 경계선 역할을 합니다",
+          "고대 히브리인들은 하늘을 단단하고 투명한 돔 같은 구조로 이해했습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיַּבְדֵּל בֵּין הַמַּיִם (바야브델 벤 하마임) - 물을 나누시다",
+        "description": "'바달'(나누다)은 성경에서 중요한 신학적 의미를 가진 단어입니다. 이는 단순히 분리하는 것이 아니라, 거룩과 속됨을 구별하고, 질서와 혼돈을 나누는 하나님의 주권적 행위를 나타냅니다. 창조는 혼돈에서 질서로, 무분별에서 구별로 나아가는 과정입니다.",
+        "points": [
+          "물을 위와 아래로 나누심으로써 생명이 거할 공간을 만드십니다",
+          "'나눔'은 창조의 핵심 방법론입니다 - 빛과 어둠, 낮과 밤, 육지와 바다",
+          "하나님은 경계를 설정하시고 각각의 영역에 목적을 부여하십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִתַּחַת לָרָקִיעַ וּמֵעַל לָרָקִיעַ (미타하트 라라키아 우메알 라라키아) - 궁창 아래와 위의 물",
+        "description": "고대 히브리 우주관에서 물은 우주의 시작과 끝을 둘러싸고 있는 원초적 요소입니다. 궁창 아래의 물은 바다와 강이 되고, 궁창 위의 물은 비의 원천으로 여겨졌습니다. 이러한 구조는 하나님께서 혼돈의 물을 통제하시고 질서를 부여하신 것을 상징합니다.",
+        "points": [
+          "위의 물은 비와 이슬의 저장소로, 하나님의 축복을 상징합니다",
+          "아래의 물은 바다와 강으로, 생명을 유지하는 원천입니다",
+          "노아의 홍수 때 '위의 창들'이 열린 것은 이 구조를 배경으로 합니다 (창 7:11)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיְהִי-כֵן (바예히 켄) - 그대로 이루어지다",
+        "description": "이 표현은 하나님의 말씀이 즉각적으로 성취됨을 보여주는 공식입니다. 하나님께서 의도하신 것과 실제로 이루어진 것 사이에 어떤 차이도 없습니다. '켄'(그대로)은 완벽한 일치와 성취를 의미합니다.",
+        "points": [
+          "하나님의 뜻과 실행 사이에 간격이 없습니다",
+          "창조는 하나님의 완벽한 계획대로 정확히 이루어집니다",
+          "이는 하나님의 전능하심과 신실하심을 동시에 보여줍니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 물을 위와 아래로 나누셨을까요?",
+      "answer": "하나님은 우리가 살 수 있는 공간을 만들기 위해 물을 나누셨어요. 상상해보세요. 만약 온 세상이 물로만 가득 차 있다면 우리가 숨을 쉬고 살 수 없겠죠? 하나님은 궁창(하늘)을 만드셔서 물을 위아래로 나누시고, 그 사이에 우리가 살 수 있는 공간을 만들어주셨답니다. 위의 물은 비가 되어 땅을 적셔주고, 아래의 물은 바다와 강이 되어 우리에게 물을 주지요. 하나님의 지혜로운 계획 덕분에 우리는 이 아름다운 세상에서 살 수 있게 되었어요!",
+      "bibleReferences": [
+        "시편 148:4 - '하늘 위에 있는 물들아 그를 찬양할지어다'",
+        "창세기 7:11 - '큰 깊음의 샘들이 터지며 하늘의 창문들이 열려'",
+        "욥기 37:18 - '네가 그와 함께 하늘을 펼쳤느냐'",
+        "시편 104:2-3 - '하늘을 휘장같이 치시며 물에 자기 누각의 들보를 얹으시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "궁창을 통한 물의 분리는 하나님께서 혼돈을 질서로 바꾸시는 창조 과정을 보여줍니다. 경계를 세우고 구별하시는 하나님의 사역은 우리 신앙생활에도 적용됩니다. 우리는 거룩함과 세속을 구별하고, 진리와 거짓을 분별하며, 하나님의 뜻을 따라 질서 있는 삶을 살아가도록 부르심을 받았습니다. 또한 궁창 위아래의 물은 하나님께서 우주의 모든 힘을 통제하시며, 그 안에서 우리를 위한 안전한 공간을 마련하셨음을 상기시킵니다."
+    }
+  }
+}

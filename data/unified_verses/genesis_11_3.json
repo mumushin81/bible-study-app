@@ -1,0 +1,178 @@
+{
+  "id": "genesis_11_3",
+  "reference": "창세기 11:3",
+  "hebrew": "וַיֹּאמְרוּ אִישׁ אֶל־רֵעֵהוּ הָבָה נִלְבְּנָה לְבֵנִים וְנִשְׂרְפָה לִשְׂרֵפָה וַתְּהִי לָהֶם הַלְּבֵנָה לְאָבֶן וְהַחֵמָר הָיָה לָהֶם לַחֹמֶר",
+  "ipa": "vajjoməˈru ʔiʃ ʔɛl reˈʕehu ˈhava nilvəˈna ləveˈnim vənisrəˈfa lisreˈfa vatəˈhi lahɛm haləveˈna ləˈʔavɛn vəhaħeˈmar haˈja lahɛm laˈħomɛr",
+  "koreanPronunciation": "바요므루 이쉬 엘 레에후 하바 닐브나 레베님 베니스레파 리스레파 바테히 라헴 할레베나 레아벤 베하헤마르 하야 라헴 라호메르",
+  "modern": "그들이 서로 말하되 자, 벽돌을 만들어 견고하게 굽자 하고, 벽돌을 돌 대신에, 역청을 회반죽 대신에 사용하였습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמְרוּ",
+      "meaning": "그리고 그들이 말했다",
+      "ipa": "vajjoməˈru",
+      "korean": "바요므루",
+      "letters": "וַ(va) + יֹּ(yo) + אמְ(me) + רוּ(ru)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech-bubble1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"26\" rx=\"22\" ry=\"18\" fill=\"url(#speech-bubble1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" opacity=\"0.9\" /><path d=\"M 24 44 L 28 36 L 34 44\" fill=\"url(#speech-bubble1)\" /><circle cx=\"22\" cy=\"22\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"32\" cy=\"24\" r=\"2.5\" fill=\"#FFFFFF\" /><circle cx=\"42\" cy=\"22\" r=\"2.5\" fill=\"#FFFFFF\" /><path d=\"M 20 30 Q 32 34 44 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "אִישׁ אֶל־רֵעֵהוּ",
+      "meaning": "서로에게",
+      "ipa": "ʔiʃ ʔɛl reˈʕehu",
+      "korean": "이쉬 엘 레에후",
+      "letters": "אִ(i) + ישׁ(sh) + אֶ(e) + ל(l) + רֵ(re) + עֵ(e) + הוּ(hu)",
+      "root": "אִישׁ (이쉬) + רֵעַ (레아)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"neighbor-unity1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><radialGradient id=\"neighbor-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><circle cx=\"22\" cy=\"28\" r=\"10\" fill=\"url(#neighbor-unity1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"42\" cy=\"28\" r=\"10\" fill=\"url(#neighbor-unity1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"22\" cy=\"26\" r=\"3\" fill=\"#764ba2\" /><circle cx=\"42\" cy=\"26\" r=\"3\" fill=\"#764ba2\" /><path d=\"M 18 32 Q 22 35 26 32\" stroke=\"#764ba2\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 38 32 Q 42 35 46 32\" stroke=\"#764ba2\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 38 L 24 44 L 40 44 Z\" fill=\"url(#neighbor-glow1)\" opacity=\"0.6\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /></svg>",
+      "relatedWords": [
+        "רֵעַ (레아 - 친구, 이웃)",
+        "אִישׁ (이쉬 - 사람, 남자)"
+      ]
+    },
+    {
+      "hebrew": "הָבָה",
+      "meaning": "자, 오라",
+      "ipa": "ˈhava",
+      "korean": "하바",
+      "letters": "הָ(ha) + בָה(vah)",
+      "root": "יָהַב (야하브)",
+      "grammar": "감탄사",
+      "emoji": "👋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"come-call1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#fa709a\" /><stop offset=\"100%\" stop-color=\"#fee140\" /></linearGradient><radialGradient id=\"come-energy1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#fa709a\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#come-energy1)\" opacity=\"0.3\" /><path d=\"M 16 32 Q 24 20 32 32 Q 40 44 48 32\" stroke=\"url(#come-call1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#come-call1)\" filter=\"drop-shadow(0 0 6px rgba(250, 112, 154, 0.6))\" /><path d=\"M 28 20 L 32 12 L 36 20\" stroke=\"#fee140\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 44 26 L 52 22 L 48 30\" stroke=\"#fee140\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "הָלַךְ (할라크 - 가다)"
+      ]
+    },
+    {
+      "hebrew": "נִלְבְּנָה לְבֵנִים",
+      "meaning": "벽돌을 만들자",
+      "ipa": "nilvəˈna ləveˈnim",
+      "korean": "닐브나 레베님",
+      "letters": "נִ(ni) + לְ(le) + בְּ(be) + נָה(nah) + לְ(le) + בֵ(ve) + נִים(nim)",
+      "root": "ל-ב-נ (라반)",
+      "grammar": "동사",
+      "emoji": "🧱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-brick1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a574\" /><stop offset=\"100%\" stop-color=\"#8b6f47\" /></linearGradient><linearGradient id=\"babel-mortar1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#bdc3c7\" /><stop offset=\"100%\" stop-color=\"#95a5a6\" /></linearGradient></defs><rect x=\"8\" y=\"10\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"30\" y=\"10\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"24\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"30\" y=\"24\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"38\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"30\" y=\"38\" width=\"20\" height=\"12\" rx=\"1\" fill=\"url(#babel-brick1)\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"22\" width=\"42\" height=\"2\" fill=\"url(#babel-mortar1)\" opacity=\"0.6\" /><rect x=\"8\" y=\"36\" width=\"42\" height=\"2\" fill=\"url(#babel-mortar1)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לְבֵנָה (레베나 - 벽돌)",
+        "לָבָן (라반 - 흰색, 희게 하다)"
+      ]
+    },
+    {
+      "hebrew": "וְנִשְׂרְפָה לִשְׂרֵפָה",
+      "meaning": "그리고 견고하게 굽자",
+      "ipa": "vənisrəˈfa lisreˈfa",
+      "korean": "베니스레파 리스레파",
+      "letters": "וְ(ve) + נִ(ni) + שְׂ(se) + רְ(re) + פָה(fah) + לִ(li) + שְׂ(se) + רֵ(re) + פָה(fah)",
+      "root": "ש-ר-פ (사라프)",
+      "grammar": "동사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-fire1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#FF8C42\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient><radialGradient id=\"babel-heat1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"18\" ry=\"6\" fill=\"#FF6B35\" opacity=\"0.3\" /><path d=\"M 32 48 Q 28 40 26 32 Q 24 20 28 12 Q 30 20 32 28 Q 34 20 36 12 Q 40 20 38 32 Q 36 40 32 48 Z\" fill=\"url(#babel-fire1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"8\" ry=\"12\" fill=\"url(#babel-heat1)\" /><circle cx=\"30\" cy=\"20\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"34\" cy=\"24\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "שָׂרַף (사라프 - 태우다)",
+        "אֵשׁ (에쉬 - 불)"
+      ]
+    },
+    {
+      "hebrew": "וַתְּהִי לָהֶם הַלְּבֵנָה לְאָבֶן",
+      "meaning": "그리고 벽돌이 그들에게 돌을 대신했다",
+      "ipa": "vatəˈhi lahɛm haləveˈna ləˈʔavɛn",
+      "korean": "바테히 라헴 할레베나 레아벤",
+      "letters": "וַ(va) + תְּ(te) + הִי(hi) + לָ(la) + הֶם(hem) + הַ(ha) + לְּ(le) + בֵ(ve) + נָה(nah) + לְ(le) + אָ(a) + בֶן(ven)",
+      "root": "ה-י-ה (하야) + לְבֵנָה (레베나) + אֶבֶן (에벤)",
+      "grammar": "명사",
+      "emoji": "🪨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-stone1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#95a5a6\" /><stop offset=\"100%\" stop-color=\"#7f8c8d\" /></linearGradient><linearGradient id=\"babel-newbrick1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a574\" /><stop offset=\"100%\" stop-color=\"#8b6f47\" /></linearGradient></defs><ellipse cx=\"20\" cy=\"32\" rx=\"14\" ry=\"18\" fill=\"url(#babel-stone1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.3))\" opacity=\"0.7\" /><rect x=\"34\" y=\"18\" width=\"22\" height=\"28\" rx=\"2\" fill=\"url(#babel-newbrick1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 26 28 L 32 32 L 38 28\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><circle cx=\"45\" cy=\"32\" r=\"2\" fill=\"#f39c12\" /></svg>",
+      "relatedWords": [
+        "אֶבֶן (에벤 - 돌)",
+        "לְבֵנָה (레베나 - 벽돌)"
+      ]
+    },
+    {
+      "hebrew": "וְהַחֵמָר הָיָה לָהֶם לַחֹמֶר",
+      "meaning": "그리고 역청이 그들에게 회반죽을 대신했다",
+      "ipa": "vəhaħeˈmar haˈja lahɛm laˈħomɛr",
+      "korean": "베하헤마르 하야 라헴 라호메르",
+      "letters": "וְ(ve) + הַ(ha) + חֵ(ḥe) + מָר(mar) + הָ(ha) + יָה(yah) + לָ(la) + הֶם(hem) + לַ(la) + חֹ(ḥo) + מֶר(mer)",
+      "root": "חֵמָר (헤마르) + ה-י-ה (하야) + חֹמֶר (호메르)",
+      "grammar": "명사",
+      "emoji": "⚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"babel-mortar2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ecf0f1\" /><stop offset=\"100%\" stop-color=\"#bdc3c7\" /></linearGradient><radialGradient id=\"babel-tar1\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><circle cx=\"20\" cy=\"32\" r=\"16\" fill=\"url(#babel-mortar2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" opacity=\"0.6\" /><ellipse cx=\"44\" cy=\"32\" rx=\"14\" ry=\"16\" fill=\"url(#babel-tar1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><path d=\"M 28 28 L 32 32 L 36 28\" stroke=\"#3498db\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(52, 152, 219, 0.6))\" /><ellipse cx=\"44\" cy=\"28\" rx=\"6\" ry=\"4\" fill=\"#34495e\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "חֵמָר (헤마르 - 역청, 아스팔트)",
+        "חֹמֶר (호메르 - 회반죽, 진흙)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 3절은 바벨탑 건축의 실제적 준비 단계를 보여줍니다. 사람들은 서로 협의하여 벽돌을 만들고 굽기로 결정했습니다. 돌 대신 벽돌을, 회반죽 대신 역청을 사용한 것은 메소포타미아 지역의 건축 방식을 반영하지만, 더 깊이는 인간의 기술과 자립심을 상징합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הָבָה נִלְבְּנָה לְבֵנִים (하바 닐브나 레베님) - 자, 벽돌을 만들자",
+        "description": "'하바'는 '오라', '자'라는 의미의 권유형 감탄사로, 집단적 행동을 촉구합니다. '닐브나'는 '라반(희게 하다, 벽돌 만들다)'에서 파생된 동사로, 벽돌 제조 과정을 의미합니다.",
+        "points": [
+          "집단적 결정과 협력은 강력한 힘을 발휘하지만, 방향이 잘못되면 위험합니다",
+          "메소포타미아 지역은 돌이 부족하여 진흙을 구워 벽돌을 만드는 기술이 발달했습니다",
+          "벽돌 제조는 당시 최첨단 기술로, 인간의 창의성과 발명을 보여줍니다",
+          "그러나 이 기술이 하나님을 대적하는 도구로 사용되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְנִשְׂרְפָה לִשְׂרֵפָה (베니스레파 리스레파) - 견고하게 굽자",
+        "description": "'사라프'는 불로 태우다, 굽다는 의미로, 여기서는 벽돌을 가마에서 굽는 과정을 나타냅니다. 반복된 어근('리스레파')은 철저하고 완벽하게 굽는 것을 강조합니다.",
+        "points": [
+          "구운 벽돌은 햇볕에 말린 벽돌보다 훨씬 견고하고 내구성이 좋습니다",
+          "철저함과 완벽함을 추구하는 인간의 열망을 보여줍니다",
+          "그들은 최고의 재료와 기술로 영원히 남을 탑을 세우려 했습니다",
+          "인간의 야심과 교만은 종종 완벽주의로 나타나며, 하나님의 영광이 아닌 자신의 이름을 높이려 합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הַלְּבֵנָה לְאָבֶן וְהַחֵמָר לַחֹמֶר (할레베나 레아벤 베하헤마르 라호메르) - 벽돌을 돌 대신에, 역청을 회반죽 대신에",
+        "description": "자연 재료(돌, 회반죽) 대신 인공 재료(벽돌, 역청)를 사용한 것은 인간의 기술적 진보를 보여주지만, 동시에 자연과 하나님의 창조를 대체하려는 인간의 자립심을 상징합니다.",
+        "points": [
+          "역청(타르, 아스팔트)은 메소포타미아에 풍부했으며, 강력한 접착제 역할을 했습니다",
+          "인간이 만든 재료로 하나님이 창조한 재료를 대체하는 것은 상징적 의미를 담고 있습니다",
+          "기술 발전 자체는 선하지만, 하나님 없이 자립하려는 도구로 사용될 때 교만이 됩니다",
+          "노아는 하나님의 지시대로 방주를 지었지만, 바벨 건축자들은 자신들의 계획대로 탑을 세웠습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אִישׁ אֶל־רֵעֵהוּ (이쉬 엘 레에후) - 서로에게",
+        "description": "'이쉬 엘 레에후'는 '사람이 그의 이웃에게'라는 뜻으로, 상호 의논하고 합의하는 과정을 나타냅니다. 이는 민주적 결정처럼 보이지만, 하나님의 뜻을 구하지 않은 인간 중심적 결정입니다.",
+        "points": [
+          "집단적 합의와 협력은 좋지만, 하나님의 뜻이 빠지면 위험합니다",
+          "사람들은 서로 격려하고 동의하며 바벨탑 계획을 추진했습니다",
+          "다수의 의견이 항상 옳은 것은 아니며, 하나님의 진리를 기준으로 삼아야 합니다",
+          "사도행전 4:24-26에서 초대 교회는 어려움에 처했을 때 서로에게가 아니라 하나님께 기도했습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 사람들은 돌 대신 벽돌을, 회반죽 대신 역청을 사용했을까요?",
+      "answer": "시날 평지에는 돌이 별로 없었어요. 그래서 사람들은 진흙을 구워서 단단한 벽돌을 만들었답니다. 마치 레고 블록을 만드는 것처럼요! 그리고 역청이라는 끈적끈적한 검은 물질로 벽돌들을 단단히 붙였어요. 사람들은 자기들이 만든 재료로 하늘까지 닿는 큰 탑을 지으려고 했어요. 이것은 사람들이 얼마나 똑똑하고 기술이 좋은지 보여주지만, 동시에 하나님보다 자기들의 힘을 더 믿었다는 것을 보여준답니다.",
+      "bibleReferences": [
+        "출애굽기 1:14 - '그들의 생활을 고된 노동으로 괴롭게 하니 곧 흙 이기기와 벽돌 굽기와 농사의 여러 가지 일이라'",
+        "출애굽기 5:7-8 - '너희는 백성에게 다시는 벽돌 소용의 짚을 전과 같이 주지 말고 그들이 가서 스스로 줍게 하라'",
+        "이사야 9:10 - '벽돌이 무너졌으나 우리는 다듬은 돌로 쌓고'",
+        "나훔 3:14 - '너는 물을 길어 에워싸일 것을 대비하며 너의 산성들을 견고하게 하며 진흙에 들어가서 흙을 밟아 벽돌 가마를 수리하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "벽돌 제조와 역청 사용은 인간의 기술적 발전을 상징하지만, 동시에 하나님 없이 자립하려는 인간의 교만을 보여줍니다. 기술 자체는 중립적이지만, 그것을 사용하는 목적과 방향이 중요합니다. 바벨 건축자들은 '자, 우리가'라고 말하며 하나님을 배제한 채 자신들의 이름을 높이려 했습니다. 오늘날에도 우리는 기술과 능력을 하나님의 영광을 위해 사용할 것인지, 아니면 자신의 명예를 위해 사용할 것인지 선택해야 합니다. 진정한 건축은 하나님의 뜻 위에 세워져야 합니다."
+    }
+  }
+}

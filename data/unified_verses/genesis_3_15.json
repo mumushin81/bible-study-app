@@ -1,0 +1,153 @@
+{
+  "id": "genesis_3_15",
+  "reference": "창세기 3:15",
+  "hebrew": "וְאֵיבָ֣ה אָשִׁ֗ית בֵּֽינְךָ֙ וּבֵ֣ין הָֽאִשָּׁ֔ה וּבֵ֥ין זַרְעֲךָ֖ וּבֵ֣ין זַרְעָ֑הּ ה֚וּא יְשׁוּפְךָ֣ רֹ֔אשׁ וְאַתָּ֖ה תְּשׁוּפֶ֥נּוּ עָקֵֽב",
+  "ipa": "vəʔeˈva ʔaˈʃit bejˈnəχa uˈvejn haʔiˈʃa uˈvejn zarˈʕaχa uˈvejn zarˈʕah hu jəʃuˈfəχa roʃ vəʔaˈta təʃuˈfɛnu ʕaˈkev",
+  "koreanPronunciation": "베에이바 아쉬트 베이네카 우베인 하이샤 우베인 자르아카 우베인 자르아흐 후 예슈페카 로쉬 베아타 테슈페누 아케브",
+  "modern": "내가 너와 여자 사이에, 네 후손과 여자의 후손 사이에 원수 되게 하리니, 그가 네 머리를 상하게 할 것이요 너는 그의 발꿈치를 상하게 할 것이니라",
+  "words": [
+    {
+      "hebrew": "וְאֵיבָה",
+      "meaning": "그리고 원수 됨, 적대감",
+      "ipa": "vəʔeˈva",
+      "korean": "베에이바",
+      "letters": "וְ(ve) + אֵ(e) + י(y) + בָה(vah)",
+      "root": "א-י-ב (에예브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enmity1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"30%\" stop-color=\"#DC143C\" /><stop offset=\"70%\" stop-color=\"#8B0000\" /><stop offset=\"100%\" stop-color=\"#4A0000\" /></linearGradient><radialGradient id=\"conflict1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FF6347\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#DC143C\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"swords1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\" /><stop offset=\"50%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient><linearGradient id=\"fire1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF4500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#conflict1)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#conflict1)\" opacity=\"0.6\" /><g transform=\"rotate(-45 32 32)\"><path d=\"M 32 10 L 36 14 L 36 50 L 34 54 L 30 54 L 28 50 L 28 14 Z\" fill=\"url(#swords1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.5))\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"8\" fill=\"url(#fire1)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /></g><g transform=\"rotate(45 32 32)\"><path d=\"M 32 10 L 36 14 L 36 50 L 34 54 L 30 54 L 28 50 L 28 14 Z\" fill=\"url(#swords1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.5))\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"8\" fill=\"url(#fire1)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /></g><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#enmity1)\" filter=\"drop-shadow(0 0 12px rgba(220, 20, 60, 0.8))\" opacity=\"0.9\" /><g opacity=\"0.7\"><path d=\"M 18 18 L 24 24\" stroke=\"url(#enmity1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 46 18 L 40 24\" stroke=\"url(#enmity1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 18 46 L 24 40\" stroke=\"url(#enmity1)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 46 46 L 40 40\" stroke=\"url(#enmity1)\" stroke-width=\"3\" stroke-linecap=\"round\" /></g></svg>",
+      "relatedWords": [
+        "אוֹיֵב (오예브 - 원수)",
+        "שׂוֹנֵא (소네 - 미워하는 자)"
+      ]
+    },
+    {
+      "hebrew": "אָשִׁית",
+      "meaning": "내가 두리라, 놓으리라",
+      "ipa": "ʔaˈʃit",
+      "korean": "아쉬트",
+      "letters": "אָ(a) + שִׁ(shi) + ית(t)",
+      "root": "שׁ-י-ת (쉬트)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"place2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"divine2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /><stop offset=\"50%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"hand2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><linearGradient id=\"authority2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8B008B\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#divine2)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#divine2)\" opacity=\"0.5\" /><g transform=\"translate(22, 18)\"><path d=\"M 10 0 L 15 0 L 15 20 L 10 20 Z\" fill=\"url(#hand2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 0 6 L 5 6 L 5 20 L 0 20 Z\" fill=\"url(#hand2)\" /><path d=\"M 6 3 L 9 3 L 9 20 L 6 20 Z\" fill=\"url(#hand2)\" /><path d=\"M 16 6 L 20 6 L 20 20 L 16 20 Z\" fill=\"url(#hand2)\" /><ellipse cx=\"10\" cy=\"20\" rx=\"10\" ry=\"6\" fill=\"url(#hand2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></g><g opacity=\"0.8\"><circle cx=\"32\" cy=\"46\" r=\"6\" fill=\"url(#authority2)\" filter=\"drop-shadow(0 3px 6px rgba(139, 0, 139, 0.5))\" /><circle cx=\"32\" cy=\"46\" r=\"4\" fill=\"url(#place2)\" opacity=\"0.6\" /></g><g opacity=\"0.7\"><path d=\"M 20 38 Q 24 42 28 40\" stroke=\"url(#place2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 36 40 Q 40 42 44 38\" stroke=\"url(#place2)\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" /></g><circle cx=\"32\" cy=\"10\" r=\"4\" fill=\"#FFD700\" opacity=\"0.9\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"10\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "שׂוּם (숨 - 두다, 놓다)",
+        "נָתַן (나탄 - 주다)"
+      ]
+    },
+    {
+      "hebrew": "בֵּינְךָ וּבֵין הָאִשָּׁה",
+      "meaning": "너와 여자 사이에",
+      "ipa": "bejˈnəχa uˈvejn haʔiˈʃa",
+      "korean": "베이네카 우베인 하이샤",
+      "letters": "בֵּ(be) + ינְ(yen) + ךָ(cha) + וּ(u) + בֵין(veyn) + הָ(ha) + אִ(i) + שָּׁה(shah)",
+      "root": "בֵּין (베인) + אִשָּׁה (이샤)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"between3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#2ECC71\" /><stop offset=\"25%\" stop-color=\"#3498DB\" /><stop offset=\"50%\" stop-color=\"#9B59B6\" /><stop offset=\"75%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></linearGradient><radialGradient id=\"serpent3\"><stop offset=\"0%\" stop-color=\"#228B22\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#006400\" stop-opacity=\"0.3\" /></radialGradient><radialGradient id=\"woman3\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0.3\" /></radialGradient><linearGradient id=\"divide3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"12\" fill=\"url(#serpent3)\" filter=\"drop-shadow(2px 2px 6px rgba(34, 139, 34, 0.5))\" /><path d=\"M 16 26 Q 18 28 16 30\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><circle cx=\"14\" cy=\"28\" r=\"1.5\" fill=\"#FFD700\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#woman3)\" filter=\"drop-shadow(2px 2px 6px rgba(255, 105, 180, 0.5))\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"#FFE4E1\" opacity=\"0.6\" /><circle cx=\"45\" cy=\"30\" r=\"1.5\" fill=\"#654321\" /><circle cx=\"51\" cy=\"30\" r=\"1.5\" fill=\"#654321\" /><path d=\"M 45 35 Q 48 36 51 35\" stroke=\"#FF69B4\" stroke-width=\"1.5\" stroke-linecap=\"round\" fill=\"none\" /><rect x=\"30\" y=\"8\" width=\"4\" height=\"48\" rx=\"2\" fill=\"url(#divide3)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\" opacity=\"0.8\" /><g opacity=\"0.9\"><path d=\"M 20 32 L 28 32\" stroke=\"url(#between3)\" stroke-width=\"3\" stroke-linecap=\"round\" marker-end=\"url(#arrowhead3)\" /><path d=\"M 44 32 L 36 32\" stroke=\"url(#between3)\" stroke-width=\"3\" stroke-linecap=\"round\" marker-end=\"url(#arrowhead3)\" /></g><g opacity=\"0.7\"><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"url(#between3)\" filter=\"drop-shadow(0 2px 4px rgba(155, 89, 182, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#between3)\" filter=\"drop-shadow(0 2px 4px rgba(155, 89, 182, 0.4))\" /><circle cx=\"32\" cy=\"44\" r=\"3\" fill=\"url(#between3)\" filter=\"drop-shadow(0 2px 4px rgba(155, 89, 182, 0.4))\" /></g></svg>"
+    },
+    {
+      "hebrew": "זַרְעֲךָ וּבֵין זַרְעָהּ",
+      "meaning": "네 후손과 여자의 후손 사이에",
+      "ipa": "zarˈʕaχa uˈvejn zarˈʕah",
+      "korean": "자르아카 우베인 자르아흐",
+      "letters": "זַ(za) + רְ(r) + עֲ(a) + ךָ(cha) + וּ(u) + בֵין(veyn) + זַ(za) + רְ(r) + עָהּ(ah)",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"30%\" stop-color=\"#F0E68C\" /><stop offset=\"70%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient><radialGradient id=\"offspring4\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FFD700\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"christ4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><linearGradient id=\"serpentseed4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#006400\" /><stop offset=\"100%\" stop-color=\"#003300\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#offspring4)\" /><g transform=\"translate(8, 16)\"><circle cx=\"8\" cy=\"8\" r=\"6\" fill=\"url(#serpentseed4)\" opacity=\"0.7\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"4\" cy=\"16\" r=\"4\" fill=\"url(#serpentseed4)\" opacity=\"0.6\" /><circle cx=\"12\" cy=\"18\" r=\"4\" fill=\"url(#serpentseed4)\" opacity=\"0.6\" /><circle cx=\"8\" cy=\"24\" r=\"3\" fill=\"url(#serpentseed4)\" opacity=\"0.5\" /></g><g transform=\"translate(36, 16)\"><circle cx=\"8\" cy=\"8\" r=\"7\" fill=\"url(#christ4)\" filter=\"drop-shadow(0 3px 8px rgba(255, 165, 0, 0.6))\" opacity=\"0.9\" /><circle cx=\"8\" cy=\"8\" r=\"5\" fill=\"url(#seed4)\" opacity=\"0.7\" /><circle cx=\"4\" cy=\"16\" r=\"5\" fill=\"url(#seed4)\" opacity=\"0.6\" /><circle cx=\"12\" cy=\"18\" r=\"5\" fill=\"url(#seed4)\" opacity=\"0.6\" /><circle cx=\"8\" cy=\"24\" r=\"4\" fill=\"url(#seed4)\" opacity=\"0.5\" /></g><g opacity=\"0.8\"><circle cx=\"44\" cy=\"24\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><path d=\"M 41 21 L 47 27\" stroke=\"#FFD700\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 47 21 L 41 27\" stroke=\"#FFD700\" stroke-width=\"2\" stroke-linecap=\"round\" /></g><path d=\"M 24 40 Q 32 36 40 40\" stroke=\"url(#christ4)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(255, 140, 0, 0.4))\" /><rect x=\"30\" y=\"42\" width=\"4\" height=\"16\" rx=\"2\" fill=\"url(#offspring4)\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨앗, 후손)",
+        "תּוֹלְדוֹת (톨도트 - 세대, 후손)"
+      ]
+    },
+    {
+      "hebrew": "הוּא יְשׁוּפְךָ רֹאשׁ",
+      "meaning": "그가 네 머리를 상하게 할 것이요",
+      "ipa": "hu jəʃuˈfəχa roʃ",
+      "korean": "후 예슈페카 로쉬",
+      "letters": "הוּא(hu) + יְ(ye) + שׁוּ(shu) + פְ(f) + ךָ(cha) + רֹאשׁ(rosh)",
+      "root": "הוּא (후) + שׁ-ו-ף (슈프) + רֹאשׁ (로쉬)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crush5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"70%\" stop-color=\"#FF8C00\" /><stop offset=\"100%\" stop-color=\"#FF4500\" /></linearGradient><radialGradient id=\"victory5\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"1\" /><stop offset=\"50%\" stop-color=\"#FFD700\" stop-opacity=\"0.7\" /><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"serpenthead5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2ECC71\" /><stop offset=\"50%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#145A32\" /></linearGradient><linearGradient id=\"defeat5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"50%\" stop-color=\"#C0392B\" /><stop offset=\"100%\" stop-color=\"#7B241C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#victory5)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#victory5)\" opacity=\"0.6\" /><g transform=\"translate(20, 36)\"><ellipse cx=\"12\" cy=\"12\" rx=\"10\" ry=\"8\" fill=\"url(#serpenthead5)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"12\" cy=\"12\" rx=\"7\" ry=\"5\" fill=\"#2ECC71\" opacity=\"0.7\" /><circle cx=\"9\" cy=\"10\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.8))\" /><circle cx=\"9\" cy=\"10\" r=\"1\" fill=\"#1C1C1C\" /></g><g transform=\"translate(24, 8)\"><ellipse cx=\"8\" cy=\"8\" rx=\"9\" ry=\"7\" fill=\"url(#crush5)\" filter=\"drop-shadow(0 4px 10px rgba(255, 140, 0, 0.7))\" opacity=\"0.9\" /><circle cx=\"8\" cy=\"8\" r=\"5\" fill=\"#FFD700\" opacity=\"0.8\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><path d=\"M 4 6 L 8 2 L 12 6\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" opacity=\"0.9\" /></g><g opacity=\"0.9\"><path d=\"M 32 16 L 32 36\" stroke=\"url(#defeat5)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 6px rgba(231, 76, 60, 0.5))\" /><path d=\"M 28 20 L 32 16 L 36 20\" stroke=\"url(#defeat5)\" stroke-width=\"3\" stroke-linecap=\"round\" fill=\"none\" /></g><g opacity=\"0.8\"><circle cx=\"26\" cy=\"38\" r=\"2\" fill=\"url(#defeat5)\" /><circle cx=\"32\" cy=\"42\" r=\"2.5\" fill=\"url(#defeat5)\" filter=\"drop-shadow(0 0 4px rgba(192, 57, 43, 0.6))\" /><circle cx=\"38\" cy=\"38\" r=\"2\" fill=\"url(#defeat5)\" /></g><g opacity=\"0.7\"><path d=\"M 18 24 Q 22 20 26 24\" stroke=\"url(#crush5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 38 24 Q 42 20 46 24\" stroke=\"url(#crush5)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /></g></svg>",
+      "relatedWords": [
+        "רֹאשׁ (로쉬 - 머리, 우두머리)",
+        "שָׁבַר (샤바르 - 부수다)"
+      ]
+    },
+    {
+      "hebrew": "וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב",
+      "meaning": "너는 그의 발꿈치를 상하게 할 것이니라",
+      "ipa": "vəʔaˈta təʃuˈfɛnu ʕaˈkev",
+      "korean": "베아타 테슈페누 아케브",
+      "letters": "וְ(ve) + אַ(a) + תָּה(tah) + תְּ(te) + שׁוּ(shu) + פֶ(fe) + נּוּ(nu) + עָ(a) + קֵב(kev)",
+      "root": "אַתָּה (아타) + שׁ-ו-ף (슈프) + עָקֵב (아케브)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heel6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"50%\" stop-color=\"#D2691E\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient><radialGradient id=\"wound6\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#DC143C\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#8B0000\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"serpentbite6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2ECC71\" /><stop offset=\"50%\" stop-color=\"#229954\" /><stop offset=\"100%\" stop-color=\"#1E8449\" /></linearGradient><linearGradient id=\"blood6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"50%\" stop-color=\"#C0392B\" /><stop offset=\"100%\" stop-color=\"#922B21\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#wound6)\" opacity=\"0.3\" /><g transform=\"translate(18, 20)\"><ellipse cx=\"14\" cy=\"18\" rx=\"12\" ry=\"10\" fill=\"url(#heel6)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.4))\" opacity=\"0.9\" /><ellipse cx=\"14\" cy=\"18\" rx=\"9\" ry=\"7\" fill=\"#D2691E\" opacity=\"0.7\" /><path d=\"M 8 14 Q 14 12 20 14\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 10 16 Q 14 15 18 16\" stroke=\"#A0522D\" stroke-width=\"1\" fill=\"none\" opacity=\"0.5\" /></g><g transform=\"translate(10, 42)\"><path d=\"M 40 12 Q 44 8 48 12 Q 50 14 48 16\" stroke=\"url(#serpentbite6)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(34, 153, 84, 0.5))\" opacity=\"0.8\" /><ellipse cx=\"48\" cy=\"12\" rx=\"4\" ry=\"3\" fill=\"url(#serpentbite6)\" /><circle cx=\"47\" cy=\"11\" r=\"1\" fill=\"#FFD700\" opacity=\"0.9\" /><path d=\"M 50 10 L 54 8\" stroke=\"#E74C3C\" stroke-width=\"1.5\" stroke-linecap=\"round\" /><path d=\"M 50 14 L 54 16\" stroke=\"#E74C3C\" stroke-width=\"1.5\" stroke-linecap=\"round\" /></g><g opacity=\"0.9\"><circle cx=\"32\" cy=\"38\" r=\"6\" fill=\"url(#blood6)\" filter=\"drop-shadow(0 2px 6px rgba(192, 57, 43, 0.6))\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"38\" r=\"4\" fill=\"#E74C3C\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"42\" r=\"2\" fill=\"url(#blood6)\" opacity=\"0.6\" /><circle cx=\"36\" cy=\"42\" r=\"2\" fill=\"url(#blood6)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"44\" r=\"1.5\" fill=\"#C0392B\" opacity=\"0.7\" /></g><g opacity=\"0.6\"><path d=\"M 24 32 Q 26 30 28 32\" stroke=\"url(#wound6)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 36 32 Q 38 30 40 32\" stroke=\"url(#wound6)\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /></g></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3:15는 성경 전체에서 가장 중요한 구절 중 하나로, '최초의 복음(proto-evangelium)'이라 불립니다. 뱀(사탄)에 대한 하나님의 심판 가운데 선포된 이 말씀은, 여자의 후손이 뱀의 머리를 상하게 할 것이라는 구원의 약속을 담고 있습니다. 이는 예수 그리스도의 십자가 승리를 예언하는 메시아적 약속으로, 타락한 세상에 비친 최초의 희망의 빛입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְאֵיבָה אָשִׁית (베에이바 아쉬트) - 하나님이 두시는 적대감",
+        "description": "하나님께서 '원수 됨'을 두신다는 표현은 매우 중요합니다. 인간이 뱀의 유혹에 넘어간 후, 하나님께서 직접 개입하셔서 뱀과 여자 사이에, 그리고 그들의 후손들 사이에 영구적인 적대 관계를 설정하십니다. 이는 인간이 더 이상 사탄과 타협하거나 동맹을 맺지 않도록 하시는 하나님의 은혜로운 심판입니다.",
+        "points": [
+          "하나님께서 능동적으로 '두신다'는 것은 은혜로운 개입입니다",
+          "이 적대감은 인간이 사탄의 지배에서 벗어날 수 있는 가능성을 엽니다",
+          "타락 직후에 주어진 이 약속은 하나님의 즉각적인 구원 계획을 보여줍니다",
+          "뱀과의 우정이 아닌 원수 관계가 오히려 구원의 길입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "זַרְעֲךָ וּבֵין זַרְעָהּ (자르아카 우베인 자르아흐) - 두 후손의 대결",
+        "description": "'네 후손'은 사탄을 따르는 모든 세력을, '여자의 후손'은 궁극적으로 예수 그리스도를 가리킵니다. 히브리어 '제라(זֶרַע)'는 씨앗과 후손을 동시에 의미하며, 갈라디아서 3:16에서 바울은 이를 그리스도를 가리키는 단수로 해석합니다. 역사는 이 두 후손 사이의 영적 전쟁의 무대가 됩니다.",
+        "points": [
+          "뱀의 후손: 사탄과 그를 따르는 모든 악한 세력",
+          "여자의 후손: 신약에서 그리스도로 명확히 계시됨 (갈 3:16)",
+          "인류 역사는 이 두 후손 사이의 영적 전쟁입니다",
+          "마리아에게서 태어난 예수님이 여자의 후손의 완성입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הוּא יְשׁוּפְךָ רֹאשׁ (후 예슈페카 로쉬) - 머리를 상하게 함, 결정적 승리",
+        "description": "'머리를 상하게 한다'는 것은 치명적이고 결정적인 타격을 의미합니다. 히브리어 '슈프(שׁוּף)'는 '부수다', '치다', '상하게 하다'를 뜻하며, 로마서 16:20에서 '하나님께서 사탄을 너희 발 아래에서 상하게 하시리라'고 재해석됩니다. 이는 십자가와 부활을 통한 그리스도의 완전한 승리를 예언합니다.",
+        "points": [
+          "머리에 대한 공격은 치명적이고 결정적인 승리를 의미합니다",
+          "십자가에서 예수님은 사탄의 권세를 완전히 꺾으셨습니다 (골 2:15)",
+          "부활은 죽음과 사탄에 대한 최종적 승리의 증거입니다",
+          "종말에 사탄은 영원히 멸망할 것입니다 (계 20:10)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב (베아타 테슈페누 아케브) - 발꿈치를 상하게 함, 고통스러운 대가",
+        "description": "'발꿈치를 상하게 한다'는 것은 고통스럽지만 치명적이지 않은 상처를 의미합니다. 이는 그리스도께서 십자가에서 겪으실 고난을 예언합니다. 뱀은 예수님을 죽음에 이르게 했지만, 그것은 일시적인 승리에 불과했습니다. 부활을 통해 발꿈치의 상처는 치유되었고, 오히려 죽음 자체가 정복되었습니다.",
+        "points": [
+          "발꿈치의 상처는 고통스럽지만 회복 가능합니다",
+          "십자가는 그리스도께 고통을 주었지만 죽음을 넘어선 승리로 이어졌습니다",
+          "사탄의 공격은 일시적이고 제한적인 반면, 그리스도의 승리는 영원합니다",
+          "우리도 고난을 겪지만 최종 승리는 보장되어 있습니다 (롬 8:37)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 뱀이 여자의 후손의 '머리'를 치지 못하고 '발꿈치'만 칠 수 있게 하셨을까요?",
+      "answer": "그것은 뱀(사탄)의 공격이 아주 심각하지만 결국엔 이길 수 없다는 뜻이에요. 머리를 다치면 죽을 수 있지만, 발꿈치를 다치면 아프지만 나을 수 있거든요. 예수님이 십자가에서 돌아가셨을 때, 사탄은 '이겼다!'고 생각했어요. 하지만 예수님은 3일 만에 다시 살아나셨어요! 발꿈치 상처는 나았지만, 사탄의 머리는 완전히 으스러진 거예요. 예수님은 죽음을 이기셨고, 이제 우리를 괴롭히던 사탄은 더 이상 우리를 지배할 수 없게 되었답니다. 마치 큰 용을 작은 발로 밟아서 이긴 것처럼요!",
+      "bibleReferences": [
+        "갈라디아서 3:16 - 이 약속들은 아브라함과 그 자손에게 말씀하신 것인데 여럿을 가리켜 그 자손들이라 하지 아니하시고 오직 한 사람을 가리켜 네 자손이라 하셨으니 곧 그리스도라",
+        "로마서 16:20 - 평강의 하나님께서 속히 사탄을 너희 발 아래에서 상하게 하시리라",
+        "골로새서 2:15 - 통치자들과 권세들을 무력화하여 드러내시고 십자가로 그들을 이기셨느니라",
+        "요한일서 3:8 - 하나님의 아들이 나타나신 것은 마귀의 일을 멸하려 하심이라"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 3:15는 '최초의 복음(Protoevangelium)'으로 불립니다. 타락의 비극적 순간에 하나님은 이미 구원의 계획을 선포하셨습니다. 여자의 후손인 예수 그리스도는 십자가와 부활을 통해 사탄의 머리를 결정적으로 상하게 하셨습니다. 십자가의 고난은 발꿈치의 상처였지만, 부활은 완전한 치유와 승리였습니다. 요한계시록 12장은 이 전쟁의 최종 승리를 보여줍니다 - 용(사탄)은 여자(교회)의 후손을 삼키려 하지만 결국 패배하고 쫓겨납니다. 우리는 이미 승리하신 그리스도 안에서 사탄의 모든 공격을 이길 수 있는 약속을 받았습니다 (롬 8:37-39). 창세기의 첫 심판 속에 담긴 이 복음의 약속은, 요한계시록의 최후 승리로 완성됩니다."
+    }
+  }
+}

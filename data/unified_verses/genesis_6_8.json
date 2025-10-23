@@ -1,0 +1,106 @@
+{
+  "id": "genesis_6_8",
+  "reference": "창세기 6:8",
+  "hebrew": "וְנֹחַ, מָצָא חֵן בְּעֵינֵי יְהוָה.",
+  "ipa": "vəˈnoaχ maˈtsa χen bəˈʔene jehoˈva",
+  "koreanPronunciation": "베노아흐 마차 헨 베에네 여호와",
+  "modern": "그러나 노아는 여호와의 눈에 은혜를 입었습니다",
+  "words": [
+    {
+      "hebrew": "וְנֹחַ",
+      "meaning": "그리고 노아",
+      "ipa": "vəˈnoaχ",
+      "korean": "베노아흐",
+      "letters": "וְ(ve) + נֹ(no) + חַ(aχ)",
+      "root": "נֹחַ (노아흐)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah_venoach\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#noah_venoach)\" /><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"16\" fill=\"url(#noah_venoach)\" /><path d=\"M 20 40 L 18 50\" stroke=\"url(#noah_venoach)\" stroke-width=\"3\" /><path d=\"M 44 40 L 46 50\" stroke=\"url(#noah_venoach)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식)"
+      ]
+    },
+    {
+      "hebrew": "מָצָא",
+      "meaning": "발견하다, 얻다",
+      "ipa": "maˈtsa",
+      "korean": "마차",
+      "letters": "מָ(ma) + צָא(tsa)",
+      "root": "מ-צ-א (마차)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"found_matsa\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#found_matsa)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#found_matsa)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#found_matsa)\" /></svg>",
+      "relatedWords": [
+        "מְצִיאָה (메치아 - 발견물)",
+        "נִמְצָא (님차 - 발견되다)"
+      ]
+    },
+    {
+      "hebrew": "חֵן",
+      "meaning": "은혜, 호의",
+      "ipa": "χen",
+      "korean": "헨",
+      "letters": "חֵן(chen)",
+      "root": "ח-נ-ן (하난)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"grace_chen\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><path d=\"M 32 8 L 36 24 L 52 24 L 40 34 L 44 50 L 32 40 L 20 50 L 24 34 L 12 24 L 28 24 Z\" fill=\"url(#grace_chen)\" filter=\"drop-shadow(0 0 8px rgba(255,215,0,0.8))\" /></svg>",
+      "relatedWords": [
+        "חָנַן (하난 - 은혜를 베풀다)",
+        "חֶסֶד (헤세드 - 인애, 자비)"
+      ]
+    },
+    {
+      "hebrew": "בְּעֵינֵי",
+      "meaning": "~의 눈에",
+      "ipa": "bəˈʔene",
+      "korean": "베에네",
+      "letters": "בְּ(be) + עֵי(e) + נֵי(ne)",
+      "root": "עַיִן (아인)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eyes_beeinei\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"12\" fill=\"url(#eyes_beeinei)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#eyes_beeinei)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#01579B\" /></svg>",
+      "relatedWords": [
+        "עַיִן (아인 - 눈)",
+        "רָאָה (라아 - 보다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "심판의 어둠 속에서 빛나는 희망의 구절입니다. '그러나'(וְ)로 시작하는 이 구절은 하나님의 은혜가 심판 가운데서도 역사하심을 보여줍니다. 노아가 은혜를 입은 것은 그의 의로움 때문이 아니라 하나님의 주권적 선택이었습니다.",
+    "sections": [
+      {
+        "emoji": "✨",
+        "title": "은혜의 발견",
+        "description": "노아는 '은혜를 발견했다'(מָצָא חֵן)고 표현됩니다. 이는 은혜가 우리가 얻는 것이 아니라 하나님께서 주시는 것임을 보여줍니다.",
+        "points": [
+          "은혜는 자격 없는 자에게 주어지는 선물",
+          "노아의 의로움도 은혜의 결과",
+          "전적 타락 가운데 하나님의 주권적 선택"
+        ],
+        "color": "gold"
+      },
+      {
+        "emoji": "👁️",
+        "title": "하나님의 눈에",
+        "description": "'여호와의 눈에'(בְּעֵינֵי יְהוָה)라는 표현은 하나님의 관점을 강조합니다. 사람의 눈이 아니라 하나님의 눈에 의로운 것이 중요합니다.",
+        "points": [
+          "하나님은 마음을 보시는 분",
+          "인간의 평가가 아닌 하나님의 평가",
+          "신앙은 사람 앞이 아니라 하나님 앞에서"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아만 은혜를 입었을까요?",
+      "answer": "노아는 하나님을 믿고 하나님의 말씀을 따르는 사람이었어요. 다른 사람들은 하나님을 무시하고 나쁜 일만 했지만, 노아는 하나님을 사랑하고 순종했답니다. 하나님은 그런 노아를 특별히 사랑하셔서 구해주시기로 하셨어요.",
+      "bibleReferences": [
+        "히브리서 11:7 - '믿음으로 노아는... 방주를 준비하여 그 집을 구원하였으니'",
+        "에베소서 2:8-9 - '너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니 이것은 너희에게서 난 것이 아니요 하나님의 선물이라'",
+        "디도서 3:5 - '우리를 구원하시되 우리가 행한 바 의로운 행위로 말미암지 아니하고 오직 그의 긍휼하심을 따라'"
+      ]
+    },
+    "conclusion": {
+      "title": "구원의 은혜",
+      "content": "노아의 구원은 구약의 복음입니다. 전적으로 타락한 세상에서 하나님의 은혜만이 구원의 유일한 길임을 보여줍니다. 이는 예수 그리스도를 통한 구원의 예표입니다."
+    }
+  }
+}

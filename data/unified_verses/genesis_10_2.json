@@ -1,0 +1,185 @@
+{
+  "id": "genesis_10_2",
+  "reference": "창세기 10:2",
+  "hebrew": "בְּנֵי יֶפֶת, גֹּמֶר וּמָגוֹג וּמָדַי וְיָוָן וְתֻבָל, וּמֶשֶׁךְ וְתִירָס.",
+  "ipa": "bəˈne ˈjɛfɛt ˈgomɛr umaˈgog umaˈdaj vəjaˈvan vətuˈval umɛˈʃɛx vətiˈras",
+  "koreanPronunciation": "브네이 예페트 고메르 우마고그 우마다이 베야반 베투발 우메쉐크 베티라스",
+  "modern": "야벳의 아들들은 고메르와 마곡과 마대와 야완과 두발과 메섹과 디라스요",
+  "words": [
+    {
+      "hebrew": "יֶפֶת",
+      "meaning": "야벳",
+      "ipa": "ˈjɛfɛt",
+      "korean": "예페트",
+      "letters": "יֶ(ye) + פֶ(fe) + ת(t)",
+      "root": "י-פ-ה (야파 - 넓히다, 확장하다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"expand_yafet\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#1976D2\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"none\" stroke=\"url(#expand_yafet)\" stroke-width=\"2\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#expand_yafet)\" stroke-width=\"2\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "פָּתָה (파타 - 넓히다)",
+        "יָפֶה (야페 - 아름다운)"
+      ]
+    },
+    {
+      "hebrew": "גֹּמֶר",
+      "meaning": "고메르 (킴메르인의 조상)",
+      "ipa": "ˈgomɛr",
+      "korean": "고메르",
+      "letters": "גֹּ(go) + מֶ(me) + ר(r)",
+      "root": "ג-מ-ר (가마르 - 완성하다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"north_gomer\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#90CAF9\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#north_gomer)\" opacity=\"0.5\" rx=\"8\" /><polygon points=\"32,12 28,20 36,20\" fill=\"#1976D2\" /><text x=\"32\" y=\"40\" font-size=\"10\" fill=\"#1565C0\" text-anchor=\"middle\" font-weight=\"bold\">북방</text></svg>",
+      "relatedWords": [
+        "גָּמַר (가마르 - 끝내다)",
+        "גְּמוּל (게물 - 보상)"
+      ]
+    },
+    {
+      "hebrew": "מָגוֹג",
+      "meaning": "마곡 (스키타이인의 조상)",
+      "ipa": "maˈgog",
+      "korean": "마고그",
+      "letters": "מָ(ma) + גוֹ(go) + ג(g)",
+      "root": "מָגוֹג (마고그)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"warrior_magog\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><rect x=\"20\" y=\"16\" width=\"24\" height=\"32\" rx=\"2\" fill=\"url(#warrior_magog)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"#616161\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#757575\" /></svg>",
+      "relatedWords": [
+        "גּוֹג (고그 - 지도자 이름)",
+        "אֶרֶץ מָגוֹג (에레츠 마고그 - 마곡 땅)"
+      ]
+    },
+    {
+      "hebrew": "מָדַי",
+      "meaning": "마대 (메대인의 조상)",
+      "ipa": "maˈdaj",
+      "korean": "마다이",
+      "letters": "מָ(ma) + דַ(da) + י(y)",
+      "root": "מָדַי (마다이)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"media_madai\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#media_madai)\" opacity=\"0.6\" /><path d=\"M 32 16 L 36 28 L 48 28 L 38 36 L 42 48 L 32 40 L 22 48 L 26 36 L 16 28 L 28 28 Z\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "מָדַי וּפָרַס (마다이 우파라스 - 메대와 바사)",
+        "מְדִינָה (메디나 - 주, 지방)"
+      ]
+    },
+    {
+      "hebrew": "יָוָן",
+      "meaning": "야완 (그리스인의 조상)",
+      "ipa": "jaˈvan",
+      "korean": "야반",
+      "letters": "יָ(ya) + וָ(va) + ן(n)",
+      "root": "יָוָן (야반)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"greece_yavan\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#2196F3\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#greece_yavan)\" opacity=\"0.4\" rx=\"8\" /><rect x=\"16\" y=\"12\" width=\"32\" height=\"8\" fill=\"#2196F3\" /><rect x=\"16\" y=\"24\" width=\"32\" height=\"4\" fill=\"#2196F3\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"44\" r=\"2\" fill=\"#2196F3\" /><circle cx=\"28\" cy=\"44\" r=\"2\" fill=\"#2196F3\" /><circle cx=\"36\" cy=\"44\" r=\"2\" fill=\"#2196F3\" /><circle cx=\"44\" cy=\"44\" r=\"2\" fill=\"#2196F3\" /></svg>",
+      "relatedWords": [
+        "יְוָנִי (예바니 - 그리스의)",
+        "יַיִן (야인 - 포도주)"
+      ]
+    },
+    {
+      "hebrew": "תֻבָל",
+      "meaning": "두발 (이베리아 반도 조상)",
+      "ipa": "tuˈval",
+      "korean": "투발",
+      "letters": "תֻ(tu) + בָ(va) + ל(l)",
+      "root": "תֻבָל (투발)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"metal_tuval\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CFD8DC\" /><stop offset=\"100%\" stop-color=\"#607D8B\" /></linearGradient></defs><rect x=\"20\" y=\"20\" width=\"24\" height=\"24\" rx=\"2\" fill=\"url(#metal_tuval)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#90A4AE\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "תּוּבַל קַיִן (투발 카인 - 대장장이 조상)",
+        "תֵּבֵל (테벨 - 세계)"
+      ]
+    },
+    {
+      "hebrew": "מֶשֶׁךְ",
+      "meaning": "메섹 (소아시아 민족)",
+      "ipa": "mɛˈʃɛx",
+      "korean": "메쉐크",
+      "letters": "מֶ(me) + שֶׁ(she) + ךְ(kh)",
+      "root": "מ-ש-ך (마샤크 - 끌다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pull_meshekh\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><line x1=\"12\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"url(#pull_meshekh)\" stroke-width=\"4\" stroke-linecap=\"round\" /><polygon points=\"52,32 44,28 44,36\" fill=\"#5D4037\" /></svg>",
+      "relatedWords": [
+        "מָשַׁךְ (마샤크 - 끌다, 인도하다)",
+        "מְשִׁיכָה (메쉬카 - 끌림, 인력)"
+      ]
+    },
+    {
+      "hebrew": "תִירָס",
+      "meaning": "디라스 (트라키아인 조상)",
+      "ipa": "tiˈras",
+      "korean": "티라스",
+      "letters": "תִ(ti) + ירָ(ra) + ס(s)",
+      "root": "תִירָס (티라스)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"coast_tiras\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#coast_tiras)\" opacity=\"0.5\" /><rect y=\"32\" width=\"64\" height=\"32\" fill=\"#BCAAA4\" opacity=\"0.5\" /><path d=\"M 0 32 Q 16 28 32 32 T 64 32\" fill=\"none\" stroke=\"#FFF\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "תִּירוֹשׁ (티로쉬 - 새 포도주)",
+        "יָם (얌 - 바다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "야벳의 아들들은 주로 인도-유럽 민족의 조상이 됩니다. 이들은 북쪽과 서쪽으로 퍼져나가 소아시아, 그리스, 흑해 연안, 그리고 유럽 지역에 정착했습니다. 고고학과 언어학 연구는 이들 이름이 실제 고대 민족들과 연관됨을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "야벳의 후손들 - 확장의 민족",
+        "description": "야벳이라는 이름 자체가 '확장하다, 넓히다'는 의미를 담고 있습니다. 노아의 축복(창 9:27)대로 야벳의 후손들은 지리적으로 가장 넓은 영역으로 퍼져나갔습니다.",
+        "points": [
+          "유럽과 아시아의 광대한 지역으로 확산되었습니다",
+          "문화와 문명의 다양성을 발전시켰습니다",
+          "나중에 복음이 전파될 이방 세계의 토대가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "역사적 민족과의 연결",
+        "description": "각 이름은 실제 역사적 민족과 연결됩니다. 고메르는 킴메르인(Cimmerians), 마곡은 스키타이인, 마대는 메대인, 야완은 그리스인(이오니아인), 두발은 이베리아인으로 추정됩니다.",
+        "points": [
+          "성경의 역사성을 뒷받침하는 증거입니다",
+          "고대 근동의 지리적 이해를 제공합니다",
+          "하나님의 섭리가 구체적 역사 속에서 이루어짐을 보여줍니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "야완 (그리스) - 특별한 의미",
+        "description": "야완은 그리스(이오니아)의 조상으로, 나중에 신약성경이 헬라어로 기록되고 복음이 그리스 문화권으로 전파되는 것을 예표합니다.",
+        "points": [
+          "헬라 문화와 언어가 복음 전파의 도구가 됩니다",
+          "다니엘서에서 그리스 제국을 예언할 때 사용됩니다",
+          "동서양 문명의 교류 지점이 됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "북방 민족들 - 종말론적 의미",
+        "description": "고메르, 마곡, 메섹, 두발 등은 에스겔서 38-39장에서 종말의 전쟁과 관련하여 다시 언급됩니다. 이는 단순한 족보 이상의 예언적 의미를 담고 있습니다.",
+        "points": [
+          "역사의 시작과 끝을 연결하는 신학적 고리입니다",
+          "하나님의 주권이 모든 역사를 아우름을 보여줍니다",
+          "민족들도 하나님의 계획 안에 있음을 나타냅니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 이렇게 많은 이름들을 기록했을까요?",
+      "answer": "하나님은 모든 사람과 민족을 하나하나 소중히 여기세요. 이 이름들은 단순한 목록이 아니라, 각각의 사람과 그 후손들이 모두 하나님의 관심과 사랑 안에 있다는 것을 보여줘요. 마치 선생님이 반 친구들 이름을 모두 기억하는 것처럼, 하나님은 모든 민족을 기억하시고 각자에게 특별한 계획을 가지고 계세요. 우리도 다른 나라 사람들을 낯설게 보지 말고, 같은 조상에서 나온 한 가족으로 사랑해야 해요.",
+      "bibleReferences": [
+        "이사야 43:1 - '내가 너를 지명하여 불렀나니 너는 내 것이라'",
+        "마태복음 10:30 - '너희 머리털까지도 다 세신 바 되었나니'",
+        "사도행전 17:26-27 - '인류의 모든 족속을 한 혈통으로 만드사... 하나님을 혹 더듬어 찾아 발견하게 하려 하심이로되'",
+        "갈라디아서 3:28 - '헬라인이나 유대인이나... 그리스도 예수 안에서 다 하나이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "야벳 후손들의 목록은 하나님의 구원 역사가 이스라엘을 넘어 모든 민족에게 열려 있음을 보여줍니다. 특히 신약시대에 복음이 주로 야벳 계열의 민족들(그리스, 로마, 유럽)에게 전파되고, 헬라어가 신약성경의 언어가 된 것은 우연이 아닙니다. 이는 노아의 예언(창 9:27 '하나님이 야벳을 창대하게 하사')의 성취이며, 모든 민족이 아브라함의 축복(창 12:3)에 참여하게 될 것을 예표합니다. 궁극적으로 계시록 7:9의 '각 나라와 족속과 백성과 방언'의 구원이 이미 창세기에 예비되어 있었음을 보여줍니다."
+    }
+  }
+}

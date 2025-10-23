@@ -1,0 +1,133 @@
+{
+  "id": "genesis_11_32",
+  "reference": "창세기 11:32",
+  "hebrew": "וַיִּהְיוּ יְמֵי-תֶרַח, חָמֵשׁ שָׁנִים וּמָאתַיִם שָׁנָה; וַיָּמָת תֶּרַח, בְּחָרָן.",
+  "ipa": "bəħaˈran ˈtɛraħ vajˈjamat ʃaˈna umaˈtajim ʃaˈnim ħaˈmeʃ ˈtɛraħ jəˈme vajˈjihju",
+  "koreanPronunciation": "바이히유 예메이 테라흐 하메쉬 샤님 우마타임 샤나 바야마트 테라흐 베하란",
+  "modern": "데라는 이백오 세를 살고 하란에서 죽었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּהְיוּ יְמֵי-תֶרַח",
+      "meaning": "그리고 데라의 날들이 되었다",
+      "ipa": "ˈtɛraħ jəˈme vajˈjihju",
+      "korean": "바이히유 예메이 테라흐",
+      "letters": "וַ(va) + יִּ(yi) + הְיוּ(hiyu) + יְמֵי(yemei) + תֶרַח(terah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death32-days1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><radialGradient id=\"death32-days2\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"100%\" stop-color=\"#FFE4B5\"/></radialGradient></defs><rect x=\"10\" y=\"12\" width=\"44\" height=\"40\" rx=\"4\" fill=\"url(#death32-days2)\" stroke=\"#D2691E\" stroke-width=\"2\"/><rect x=\"10\" y=\"12\" width=\"44\" height=\"8\" fill=\"url(#death32-days1)\"/><circle cx=\"20\" cy=\"28\" r=\"2\" fill=\"#D2691E\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"44\" cy=\"28\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"20\" cy=\"36\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"44\" cy=\"36\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"20\" cy=\"44\" r=\"2\" fill=\"#D2691E\"/><circle cx=\"28\" cy=\"44\" r=\"2\" fill=\"#8B4513\" opacity=\"0.5\"/></svg>"
+    },
+    {
+      "hebrew": "חָמֵשׁ שָׁנִים וּמָאתַיִם שָׁנָה",
+      "meaning": "이백오 년",
+      "ipa": "ʃaˈna umaˈtajim ʃaˈnim ħaˈmeʃ",
+      "korean": "하메쉬 샤님 우마타임 샤나",
+      "letters": "חָ(ha) + מֵשׁ(mesh) + שָׁ(sha) + נִים(nim) + וּ(u) + מָ(ma) + אתַיִם(tayim) + שָׁנָה(shana)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "🎂",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death32-age1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#B8860B\"/></linearGradient><radialGradient id=\"death32-age2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"50%\" stop-color=\"#FFE4C4\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"46\" rx=\"22\" ry=\"6\" fill=\"url(#death32-age1)\" opacity=\"0.4\"/><rect x=\"12\" y=\"32\" width=\"40\" height=\"14\" rx=\"2\" fill=\"url(#death32-age2)\" stroke=\"#D4AF37\" stroke-width=\"2\"/><line x1=\"20\" y1=\"26\" x2=\"20\" y2=\"32\" stroke=\"#FF6347\" stroke-width=\"2\"/><line x1=\"28\" y1=\"22\" x2=\"28\" y2=\"32\" stroke=\"#FF6347\" stroke-width=\"2\"/><line x1=\"36\" y1=\"22\" x2=\"36\" y2=\"32\" stroke=\"#FF6347\" stroke-width=\"2\"/><line x1=\"44\" y1=\"26\" x2=\"44\" y2=\"32\" stroke=\"#FF6347\" stroke-width=\"2\"/><ellipse cx=\"20\" cy=\"24\" rx=\"2\" ry=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><ellipse cx=\"28\" cy=\"20\" rx=\"2\" ry=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><ellipse cx=\"36\" cy=\"20\" rx=\"2\" ry=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><ellipse cx=\"44\" cy=\"24\" rx=\"2\" ry=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 해, 년)",
+        "מֵאָה (메아 - 백)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּמָת",
+      "meaning": "그리고 죽었다",
+      "ipa": "vajˈjamat",
+      "korean": "바야마트",
+      "letters": "וַ(va) + יָּ(ya) + מָת(mat)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "emoji": "⚰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death32-death1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><radialGradient id=\"death32-death2\"><stop offset=\"0%\" stop-color=\"#D3D3D3\"/><stop offset=\"100%\" stop-color=\"#A9A9A9\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"50\" rx=\"26\" ry=\"8\" fill=\"#2F4F4F\" opacity=\"0.3\"/><rect x=\"14\" y=\"28\" width=\"36\" height=\"20\" rx=\"2\" fill=\"url(#death32-death1)\" stroke=\"#1C1C1C\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\"/><path d=\"M 32 14 L 38 24 L 26 24 Z\" fill=\"url(#death32-death2)\" stroke=\"#696969\" stroke-width=\"1.5\"/><rect x=\"30\" y=\"24\" width=\"4\" height=\"4\" fill=\"url(#death32-death2)\"/><circle cx=\"32\" cy=\"36\" r=\"6\" fill=\"none\" stroke=\"#A9A9A9\" stroke-width=\"2\" opacity=\"0.5\"/><line x1=\"28\" y1=\"32\" x2=\"36\" y2=\"40\" stroke=\"#A9A9A9\" stroke-width=\"2\" opacity=\"0.5\"/><line x1=\"36\" y1=\"32\" x2=\"28\" y2=\"40\" stroke=\"#A9A9A9\" stroke-width=\"2\" opacity=\"0.5\"/></svg>",
+      "relatedWords": [
+        "מָוֶת (마베트 - 죽음)",
+        "מֵת (메트 - 죽은 자, 시체)"
+      ]
+    },
+    {
+      "hebrew": "בְּחָרָן",
+      "meaning": "하란에서",
+      "ipa": "bəħaˈran",
+      "korean": "베하란",
+      "letters": "בְּ(be) + חָרָן(haran)",
+      "root": "חָרָן (하란)",
+      "grammar": "명사",
+      "emoji": "📍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"death32-haran1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><radialGradient id=\"death32-haran2\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></radialGradient></defs><path d=\"M 32 8 C 24 8 18 14 18 22 C 18 34 32 52 32 52 C 32 52 46 34 46 22 C 46 14 40 8 32 8 Z\" fill=\"url(#death32-haran2)\" stroke=\"#8B0000\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\"/><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"#8B0000\" opacity=\"0.3\"/><polygon points=\"28,16 32,28 20,24\" fill=\"url(#death32-haran1)\" stroke=\"#654321\" stroke-width=\"1\"/><rect x=\"26\" y=\"30\" width=\"12\" height=\"8\" fill=\"url(#death32-haran1)\" stroke=\"#654321\" stroke-width=\"1\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "חָרָן (하란 - 도시 이름)",
+        "הָרָן (하란 - 데라의 아들, 롯의 아버지)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 32절은 데라의 생애를 마감하며 동시에 아브라함 시대의 본격적인 서막을 여는 전환점입니다. 데라의 205년 생애와 하란에서의 죽음은 구원사의 중요한 세대 교체를 표시합니다. 이 절은 단순한 사망 기록이 아니라, 하나님의 약속이 다음 세대로 넘어가는 신학적 의미를 담고 있습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יְמֵי-תֶרַח (예메이 테라흐) - 데라의 날들, 한 생애의 총결산",
+        "description": "'예메이'(יְמֵי)는 '날들'을 의미하며, 히브리 사고방식에서 '날들'은 단순한 시간 단위가 아니라 한 사람의 전체 생애와 그가 살아낸 경험들을 의미합니다. 데라의 205년은 노아 홍수 이후 점차 짧아지는 수명의 과도기를 보여주며 (노아 950년, 셈 600년, 아르박삿 438년), 인류의 타락이 수명에 미친 영향을 반영합니다.",
+        "points": [
+          "한 사람의 '날들'은 하나님 앞에서 계수되고 의미를 갖습니다 (시 90:12)",
+          "데라의 생애는 우상 숭배에서 시작했으나 믿음의 여정으로 전환되었습니다",
+          "불완전하게 마친 여정도 다음 세대에게 영적 유산이 됩니다",
+          "하나님은 각 사람의 생애를 통해 구원사를 한 걸음씩 진전시키십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָמֵשׁ שָׁנִים וּמָאתַיִם שָׁנָה (하메쉬 샤님 우마타임 샤나) - 205세, 긴 생애의 의미",
+        "description": "데라의 205년 생애는 여러 신학적 질문을 제기합니다. 창세기 11:26에서 데라가 70세에 아브라함을 낳았고, 12:4에서 아브라함이 75세에 하란을 떠났다면, 데라는 아브라함이 떠난 후 60년을 더 살았습니다. 그러나 행 7:4(스데반의 설교)는 '데라가 죽은 후' 아브라함이 떠났다고 말합니다. 이는 히브리 내러티브가 시간순이 아닌 주제순으로 배열됨을 보여줍니다.",
+        "points": [
+          "긴 생애는 축복이지만, 중요한 것은 그 세월을 어떻게 사느냐입니다",
+          "데라는 205년을 살았으나 하나님의 약속의 땅에 들어가지 못했습니다",
+          "성경의 연대기는 영적 의미를 우선하며, 때로 주제별로 배열됩니다",
+          "우리의 생애도 단순히 긴 것보다 하나님의 뜻을 이루는 것이 중요합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּמָת תֶּרַח (바야마트 테라흐) - 데라가 죽다, 세대 교체의 신호",
+        "description": "'바야마트'(וַיָּמָת)는 '그리고 그가 죽었다'는 단순한 표현이지만, 성경에서 죽음은 항상 신학적 의미를 갖습니다. 데라의 죽음은 구원사에서 중요한 세대 교체를 표시합니다. 창세기 12장은 데라의 죽음 이후(또는 영적으로 그와 분리된 후) 아브라함이 본격적으로 하나님의 부르심에 순종하는 장면으로 이어집니다.",
+        "points": [
+          "한 세대의 끝은 다음 세대의 새로운 시작입니다",
+          "데라가 완성하지 못한 여정을 아브라함이 완수합니다",
+          "때로 하나님의 약속은 세대를 넘어 성취됩니다 (히 11:13, 39-40)",
+          "죽음도 하나님의 구원 계획을 막을 수 없습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בְּחָרָן (베하란) - 하란에서, 미완의 여정의 종착역",
+        "description": "'베하란'(בְּחָרָן)은 단순히 지리적 위치가 아니라 영적 상태를 상징합니다. 데라는 가나안으로 가려다가 하란에 정착했고(11:31), 결국 그곳에서 생을 마감합니다. 하란은 '중간 지점', '미완의 순종', '약속의 땅에 들어가지 못한 세대'를 상징합니다. 이는 광야에서 죽은 출애굽 1세대를 예표합니다.",
+        "points": [
+          "목적지에 도달하지 못하고 중간에서 생을 마감한 비극",
+          "하란은 안전하고 편안했지만, 하나님의 최선의 계획은 아니었습니다",
+          "우리도 '영적 하란'에 안주하지 말고 약속의 땅을 향해 전진해야 합니다",
+          "다음 세대(아브라함)가 선배의 미완의 과제를 완성할 책임을 갖습니다"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "데라는 왜 가나안까지 가지 못하고 하란에서 죽었을까요?",
+      "answer": "데라 할아버지는 아브라함과 함께 가나안으로 가려고 했지만, 하란이라는 도시에 머물다가 거기서 평생을 살고 죽었어요. 성경은 정확한 이유를 말하지 않지만, 몇 가지를 생각해 볼 수 있어요. 첫째, 데라가 나이가 너무 많아서 더 이상 먼 여행을 할 수 없었을 거예요. 둘째, 하란이 살기 좋아서 '여기서 살다가 나중에 가자'고 생각했는데 결국 못 갔을 수도 있어요. 하지만 중요한 교훈은 이거예요: 데라 할아버지가 가지 못한 곳을 아브라함이 대신 갔다는 거예요! 때로 부모님이나 할아버지가 하지 못한 일을 자녀가 완성하기도 해요. 하나님의 계획은 한 사람이 실패해도 멈추지 않고 계속 이루어진답니다!",
+      "bibleReferences": [
+        "창세기 12:4-5 - '이에 아브람이 여호와의 말씀을 따라갔고 ... 아브람이 하란을 떠날 때에 칠십오 세였더라 아브람이 그의 아내 사라와 조카 롯과 하란에서 모은 모든 소유와 얻은 사람들을 이끌고 가나안 땅으로 가려고 떠나서 마침내 가나안 땅에 들어갔으며'",
+        "사도행전 7:4 - '그때에 그가 갈대아 사람의 땅을 떠나 하란에 있다가 그의 아버지가 죽으매 하나님이 그를 거기서 너희 지금 사는 이 땅으로 옮기셨느니라'",
+        "히브리서 11:13 - '이 사람들은 다 믿음을 따라 죽었으며 약속을 받지 못하였으되 그것들을 멀리서 보고 환영하며 또 땅에서는 외국인과 나그네임을 증언하였으니'",
+        "시편 90:12 - '우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "데라의 죽음은 구원사의 세대 교체를 상징합니다. 그는 믿음의 여정을 시작했지만 약속의 땅에 들어가지 못했습니다. 이는 광야에서 죽은 출애굽 1세대를 예표하며, 하나님의 약속은 세대를 넘어 성취됨을 보여줍니다. 중요한 것은 데라의 실패가 하나님의 계획을 좌절시키지 못했다는 것입니다. 아브라함은 아버지가 완성하지 못한 여정을 이어갔고, 결국 약속의 땅에 도달했습니다. 이는 우리에게 두 가지 교훈을 줍니다: (1) 우리가 불완전하게 마친 일도 다음 세대가 완성할 수 있고, (2) 하나님의 약속은 한 세대의 실패로 무효화되지 않습니다. 우리의 목표는 '영적 하란'에 안주하지 않고 '약속의 가나안'에 이르기까지 믿음의 경주를 완주하는 것입니다."
+    }
+  }
+}

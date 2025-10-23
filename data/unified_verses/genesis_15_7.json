@@ -1,0 +1,174 @@
+{
+  "id": "genesis_15_7",
+  "reference": "창세기 15:7",
+  "hebrew": "וַיֹּאמֶר אֵלָיו אֲנִי יְהוָה אֲשֶׁר הוֹצֵאתִיךָ מֵאוּר כַּשְׂדִּים לָתֶת לְךָ אֶת הָאָרֶץ הַזֹּאת לְרִשְׁתָּהּ",
+  "ipa": "vajˈjomer ʔeˈlav ʔaˈni jəhoˈva ʔaˈʃer hoˈʦetiχa meˈʔur kaʃˈdim laˈtet ləχa ʔɛt haˈʔarɛʦ haˈzot ləriʃˈtah",
+  "koreanPronunciation": "바요메르 엘라브 아니 예호와 아셰르 호체티카 메우르 카스딤 라테트 레카 에트 하아레츠 하조트 레리쉬타",
+  "modern": "여호와께서 그에게 이르시되 '나는 이 땅을 네게 주어 소유하게 하려고 너를 갈대아 우르에서 이끌어 낸 여호와니라'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר אֵלָיו",
+      "meaning": "그리고 그에게 말씀하시되",
+      "ipa": "vajˈjomer ʔeˈlav",
+      "korean": "바요메르 엘라브",
+      "letters": "וַ(va) + יֹּאמֶר(yomer) + אֵ(e) + לָיו(lav)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-speak1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#60A5FA\"/><stop offset=\"100%\" stop-color=\"#3B82F6\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#land-promise1-speak1)\" filter=\"drop-shadow(0 2px 6px rgba(59, 130, 246, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#land-promise1-speak1)\"/><circle cx=\"24\" cy=\"30\" r=\"2.5\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2.5\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2.5\" fill=\"#FFFFFF\"/></svg>"
+    },
+    {
+      "hebrew": "אֲנִי יְהוָה",
+      "meaning": "나는 여호와",
+      "ipa": "ʔaˈni jəhoˈva",
+      "korean": "아니 예호와",
+      "letters": "אֲ(a) + נִי(ni) + יְ(ye) + הוָה(hova)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-iam1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"land-promise1-radiance1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#land-promise1-radiance1)\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#land-promise1-iam1)\" filter=\"drop-shadow(0 4px 10px rgba(255, 140, 0, 0.6))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" font-weight=\"bold\" fill=\"#FFFFFF\">יהוה</text><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.9\"/><path d=\"M 32 12 L 28 20 L 36 20 Z\" fill=\"#FFFFFF\" opacity=\"0.7\"/></svg>",
+      "relatedWords": [
+        "אֶהְיֶה (에흐예 - 나는 있다)",
+        "אֱלֹהִים (엘로힘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר הוֹצֵאתִיךָ",
+      "meaning": "내가 너를 이끌어 낸",
+      "ipa": "ʔaˈʃer hoˈʦetiχa",
+      "korean": "아셰르 호체티카",
+      "letters": "אֲ(a) + שֶׁר(sher) + הוֹ(ho) + צֵאתִיךָ(tseiticha)",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-led1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#4CAF50\"/></linearGradient><radialGradient id=\"land-promise1-light1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"rgba(252, 211, 77, 0)\"/></radialGradient></defs><path d=\"M 8 32 L 56 32\" stroke=\"url(#land-promise1-led1)\" stroke-width=\"6\" stroke-linecap=\"round\"/><path d=\"M 48 24 L 56 32 L 48 40\" stroke=\"#4CAF50\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"#8B4513\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"56\" cy=\"12\" r=\"10\" fill=\"url(#land-promise1-light1)\" opacity=\"0.7\"/></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "הוֹצִיא (호치 - 이끌어 내다)"
+      ]
+    },
+    {
+      "hebrew": "מֵאוּר כַּשְׂדִּים",
+      "meaning": "갈대아 우르에서",
+      "ipa": "meˈʔur kaʃˈdim",
+      "korean": "메우르 카스딤",
+      "letters": "מֵ(me) + אוּר(ur) + כַּ(ka) + שְׂדִּים(sdim)",
+      "root": "אוּר (우르)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-ur1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4A574\"/><stop offset=\"100%\" stop-color=\"#8B6914\"/></linearGradient><linearGradient id=\"land-promise1-ziggurat1\"><stop offset=\"0%\" stop-color=\"#DEB887\"/><stop offset=\"100%\" stop-color=\"#CD853F\"/></linearGradient></defs><rect x=\"8\" y=\"48\" width=\"48\" height=\"8\" fill=\"url(#land-promise1-ur1)\"/><rect x=\"12\" y=\"40\" width=\"40\" height=\"8\" fill=\"url(#land-promise1-ur1)\" opacity=\"0.9\"/><rect x=\"16\" y=\"32\" width=\"32\" height=\"8\" fill=\"url(#land-promise1-ur1)\" opacity=\"0.8\"/><rect x=\"20\" y=\"24\" width=\"24\" height=\"8\" fill=\"url(#land-promise1-ur1)\" opacity=\"0.7\"/><rect x=\"24\" y=\"16\" width=\"16\" height=\"8\" fill=\"url(#land-promise1-ur1)\" opacity=\"0.6\"/><polygon points=\"32,8 36,16 28,16\" fill=\"#FFD700\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>",
+      "relatedWords": [
+        "כַּשְׂדִּים (카스딤 - 갈대아인)",
+        "בָּבֶל (바벨 - 바벨론)"
+      ]
+    },
+    {
+      "hebrew": "לָתֶת לְךָ",
+      "meaning": "네게 주려고",
+      "ipa": "laˈtet ləχa",
+      "korean": "라테트 레카",
+      "letters": "לָ(la) + תֶת(tet) + לְ(le) + ךָ(cha)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-give1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EF4444\"/><stop offset=\"100%\" stop-color=\"#B91C1C\"/></linearGradient><linearGradient id=\"land-promise1-ribbon1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"#F59E0B\"/></linearGradient></defs><rect x=\"18\" y=\"28\" width=\"28\" height=\"24\" rx=\"2\" fill=\"url(#land-promise1-give1)\" filter=\"drop-shadow(0 3px 8px rgba(185, 28, 28, 0.5))\"/><rect x=\"30\" y=\"28\" width=\"4\" height=\"24\" fill=\"url(#land-promise1-ribbon1)\"/><rect x=\"18\" y=\"38\" width=\"28\" height=\"4\" fill=\"url(#land-promise1-ribbon1)\"/><path d=\"M 26 28 Q 28 22 30 28\" fill=\"url(#land-promise1-ribbon1)\"/><path d=\"M 34 28 Q 36 22 38 28\" fill=\"url(#land-promise1-ribbon1)\"/><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"#FCD34D\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(252, 211, 77, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת הָאָרֶץ הַזֹּאת",
+      "meaning": "이 땅을",
+      "ipa": "ʔɛt haˈʔarɛʦ haˈzot",
+      "korean": "에트 하아레츠 하조트",
+      "letters": "אֶת(et) + הָ(ha) + אָרֶץ(arets) + הַ(ha) + זֹּאת(zot)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-land1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#84CC16\"/><stop offset=\"50%\" stop-color=\"#65A30D\"/><stop offset=\"100%\" stop-color=\"#4D7C0F\"/></linearGradient><radialGradient id=\"land-promise1-sun1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"rgba(252, 211, 77, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#land-promise1-land1)\" filter=\"drop-shadow(0 4px 10px rgba(77, 124, 15, 0.5))\"/><path d=\"M 12 40 Q 32 36 52 40 L 52 56 L 12 56 Z\" fill=\"#4D7C0F\" opacity=\"0.7\"/><circle cx=\"48\" cy=\"16\" r=\"10\" fill=\"url(#land-promise1-sun1)\" opacity=\"0.8\"/><circle cx=\"48\" cy=\"16\" r=\"6\" fill=\"#FCD34D\" filter=\"drop-shadow(0 0 6px rgba(252, 211, 77, 0.9))\"/><path d=\"M 16 28 Q 20 24 24 28 Q 28 32 32 28 Q 36 24 40 28\" stroke=\"#65A30D\" stroke-width=\"2\" fill=\"none\"/></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 땅, 흙)",
+        "נַחֲלָה (나할라 - 기업, 유산)"
+      ]
+    },
+    {
+      "hebrew": "לְרִשְׁתָּהּ",
+      "meaning": "소유하게 하려고",
+      "ipa": "ləriʃˈtah",
+      "korean": "레리쉬타",
+      "letters": "לְ(le) + רִ(ri) + שְׁתָּהּ(shtah)",
+      "root": "י-ר-שׁ (야라쉬)",
+      "grammar": "동사",
+      "emoji": "🏠",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land-promise1-inherit1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><linearGradient id=\"land-promise1-roof1\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient></defs><path d=\"M 32 12 L 52 28 L 48 28 L 48 52 L 16 52 L 16 28 L 12 28 Z\" fill=\"url(#land-promise1-inherit1)\" filter=\"drop-shadow(0 4px 8px rgba(101, 67, 33, 0.5))\"/><path d=\"M 32 12 L 52 28 L 12 28 Z\" fill=\"url(#land-promise1-roof1)\" opacity=\"0.9\"/><rect x=\"26\" y=\"38\" width=\"12\" height=\"14\" fill=\"#A0522D\"/><rect x=\"20\" y=\"32\" width=\"8\" height=\"8\" fill=\"#87CEEB\" opacity=\"0.7\"/><rect x=\"36\" y=\"32\" width=\"8\" height=\"8\" fill=\"#87CEEB\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"8\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>",
+      "relatedWords": [
+        "יְרֻשָּׁה (예루샤 - 상속)",
+        "נַחֲלָה (나할라 - 기업)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 7절에서 하나님은 자신의 정체성과 목적을 선포하십니다. '나는 여호와'라는 자기 계시와 '우르에서 이끌어 낸' 역사적 사실, 그리고 '이 땅을 주려고' 하는 미래의 약속이 하나로 연결됩니다. 이는 과거-현재-미래를 아우르는 하나님의 주권과 신실하심을 보여주며, 아브람의 믿음에 구체적인 확증을 더하는 말씀입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֲנִי יְהוָה (아니 예호와) - 나는 여호와",
+        "description": "'아니(나)'는 강조된 1인칭 대명사이며, '여호와'는 하나님의 언약적 이름입니다. 출애굽기 3:14에서 '스스로 있는 자(I AM)'로 계시된 이름으로, 영원하고 변치 않으며 신실한 분을 나타냅니다. 십계명도 '나는 여호와 네 하나님이라'로 시작합니다(출 20:2).",
+        "points": [
+          "출애굽기 6:2-3 '나는 여호와라 내가 아브라함과 이삭과 야곱에게 나타났으나'",
+          "'여호와'는 약속을 지키시는 언약의 하나님",
+          "요한복음 8:58 '아브라함이 나기 전부터 내가 있느니라(I AM)'",
+          "하나님은 자신의 이름으로 약속의 확실성을 보증하심"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֲשֶׁר הוֹצֵאתִיךָ מֵאוּר כַּשְׂדִּים (아셰르 호체티카 메우르 카스딤) - 우르에서 이끌어 낸",
+        "description": "우르는 고대 메소포타미아의 번영한 도시국가였으며, 지구라트(계단식 신전)로 유명했습니다. 하나님은 아브람을 우상숭배와 물질적 풍요의 중심지에서 부르셨습니다. '호체티카(내가 너를 이끌어 냈다)'는 하나님의 주권적 부르심과 구원을 나타냅니다.",
+        "points": [
+          "창세기 11:31 '데라가 그의 아들 아브람과... 갈대아인의 우르를 떠나'",
+          "여호수아 24:2-3 '너희 조상들이 옛적에 강 저쪽에 거주하여 우상을 섬겼으나 내가 너희 조상 아브라함을 강 저쪽에서 이끌어'",
+          "우르는 달신 '난나'를 숭배하는 우상숭배의 중심지",
+          "구원은 하나님의 주권적 부르심 - '내가 이끌어 냈다'"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לָתֶת לְךָ אֶת הָאָרֶץ הַזֹּאת (라테트 레카 에트 하아레츠 하조트) - 이 땅을 네게 주려고",
+        "description": "'라테트(주다)'는 부정사로, 하나님의 목적을 나타냅니다. 땅의 약속은 단순한 부동산 증여가 아니라, 언약 백성이 거할 거룩한 공간, 하나님 나라가 구현될 장소를 의미합니다. '하조트(이)'는 현재 아브람이 서 있는 가나안 땅을 가리킵니다.",
+        "points": [
+          "창세기 12:7 '여호와께서 아브람에게 나타나 이르시되 내가 이 땅을 네 자손에게 주리라'",
+          "약속의 땅은 하나님의 임재와 축복이 임하는 거룩한 공간",
+          "신명기 8:7-9 '네 하나님 여호와께서 너를 아름다운 땅에 이르게 하시나니'",
+          "히브리서 11:9-10 '약속의 땅에 거류민같이 거하여... 하나님이 계획하시고 지으실 터가 있는 성을 바랐음이라'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְרִשְׁתָּהּ (레리쉬타) - 소유하게 하려고",
+        "description": "'야라쉬'는 '상속하다, 소유하다, 차지하다'를 의미하며, 법적 소유권을 강조합니다. 아브람은 당시 나그네이자 거류민이었지만, 하나님은 그 땅을 그의 후손에게 영원한 기업으로 주시겠다고 약속하십니다. 이는 신약의 '하나님 나라의 상속자'로 연결됩니다.",
+        "points": [
+          "창세기 17:8 '내가 너와 네 후손에게 네가 거류하는 이 땅 곧 가나안 온 땅을 주어 영원한 기업이 되게 하고'",
+          "시편 37:11 '온유한 자는 땅을 차지하며'",
+          "마태복음 5:5 '온유한 자는 복이 있나니 그들이 땅을 기업으로 받을 것임이요'",
+          "베드로전서 1:4 '썩지 않고 더럽지 않고 쇠하지 아니하는 유업을 잇게 하시나니'"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 '우르에서 이끌어 냈다'고 말씀하셨나요?",
+      "answer": "하나님은 아브람에게 '내가 약속을 지킬 수 있는 분이야'라는 것을 보여주려고 하셨어요. '나는 옛날에 너를 우르라는 큰 도시에서 불러서 여기까지 데리고 왔잖아. 그때도 약속을 지켰지? 이번에도 땅을 줄게'라고 말씀하신 거예요. 마치 부모님이 '지난번에도 약속 지켰잖아. 이번에도 지킬게'라고 말하는 것과 같아요. 하나님은 과거에 하신 일을 기억나게 해서, 미래의 약속도 반드시 지키실 거라는 믿음을 주신 거예요.",
+      "bibleReferences": [
+        "신명기 26:5-9 - '우리 조상은... 애굽에 내려가... 여호와께서 우리를 애굽에서 인도하여 내시고'",
+        "여호수아 24:3 - '내가 너희 조상 아브라함을 강 저쪽에서 이끌어 가나안 온 땅에 두루 다니게 하고'",
+        "시편 105:42 - '이는 그의 거룩한 말씀과 그의 종 아브라함을 기억하셨음이로다'",
+        "사도행전 7:2-4 - '영광의 하나님이 우리 조상 아브라함에게... 나타나 이르시되... 갈대아 사람의 땅 하란에서 떠나'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 15:7은 하나님의 자기 계시와 구원 역사, 그리고 미래 약속이 하나로 통합된 언약 공식입니다. '나는 여호와'(신적 정체성), '우르에서 이끌어 냈다'(과거의 구원), '땅을 주려고'(미래의 약속)는 삼위일체 구조를 이룹니다. 이는 출애굽기 20:2 십계명의 서문과 동일한 패턴으로, 하나님의 은혜로운 구원이 먼저이고 그에 대한 응답으로 순종이 따릅니다. 약속의 땅은 궁극적으로 예수 그리스도를 통해 회복된 하나님 나라, 새 하늘과 새 땅을 예표합니다(계시록 21:1-3)."
+    }
+  }
+}

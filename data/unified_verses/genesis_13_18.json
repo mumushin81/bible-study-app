@@ -1,0 +1,162 @@
+{
+  "id": "genesis_13_18",
+  "reference": "창세기 13:18",
+  "hebrew": "וַיֶּאֱהַל אַבְרָם וַיָּבֹא וַיֵּשֶׁב בְּאֵלֹנֵי מַמְרֵא אֲשֶׁר בְּחֶבְרוֹן וַיִּבֶן שָׁם מִזְבֵּחַ לַיהוָה",
+  "ipa": "vajɛˈʔɛhal ʔavˈram vajjaˈvo vajˈjɛʃɛv bəʔeloˈne mamˈre ʔaˈʃɛr bəxɛvˈron vajˈjivɛn ʃam mizbˈeax lajhoˈva",
+  "koreanPronunciation": "바예에할 아브람 바야보 바예셰브 베엘로네 맘레 아쉐르 베헤브론 바이벤 샴 미즈베아흐 라이호바",
+  "modern": "이에 아브람이 장막을 옮겨 헤브론에 있는 마므레의 상수리나무들 곁에 가서 거주하며, 거기서 여호와를 위하여 제단을 쌓았다",
+  "words": [
+    {
+      "hebrew": "וַיֶּאֱהַל אַבְרָם",
+      "meaning": "그리고 아브람이 장막을 쳤다",
+      "ipa": "vajɛˈʔɛhal ʔavˈram",
+      "korean": "바예에할 아브람",
+      "letters": "וַ(va) + יֶּ(ye) + אֱ(e) + הַל(hal) + אַבְרָם(avram)",
+      "root": "א-ה-ל (아할)",
+      "grammar": "동사",
+      "emoji": "⛺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-tent\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\" /><stop offset=\"50%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#6B5344\" /></linearGradient><linearGradient id=\"hebron-altar1-stripe\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#C19A6B\" /><stop offset=\"50%\" stop-color=\"#8B7355\" /><stop offset=\"100%\" stop-color=\"#C19A6B\" /></linearGradient></defs><path d=\"M 32 12 L 52 48 L 12 48 Z\" fill=\"url(#hebron-altar1-tent)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 12 L 40 48\" stroke=\"url(#hebron-altar1-stripe)\" stroke-width=\"2\" opacity=\"0.5\" /><path d=\"M 32 12 L 24 48\" stroke=\"url(#hebron-altar1-stripe)\" stroke-width=\"2\" opacity=\"0.5\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"16\" fill=\"#4a3f2f\" rx=\"1\" /><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"6\" stroke=\"#6B5344\" stroke-width=\"2\" stroke-linecap=\"round\" /><rect y=\"48\" width=\"64\" height=\"4\" fill=\"#C19A6B\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אֹהֶל (오헬 - 장막, 천막)",
+        "מִשְׁכָּן (미쉬칸 - 성막)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּבֹא וַיֵּשֶׁב",
+      "meaning": "그리고 와서 거주했다",
+      "ipa": "vajjaˈvo vajˈjɛʃɛv",
+      "korean": "바야보 바예셰브",
+      "letters": "וַ(va) + יָּ(ya) + בֹא(vo) + וַ(va) + יֵּ(ye) + שֶׁב(shev)",
+      "root": "ב-ו-א (보) + י-ש-ב (야샤브)",
+      "grammar": "동사",
+      "emoji": "🏡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-settle\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9b59b6\" /><stop offset=\"50%\" stop-color=\"#8e44ad\" /><stop offset=\"100%\" stop-color=\"#6c3483\" /></linearGradient><radialGradient id=\"hebron-altar1-home\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9b59b6\" /></radialGradient></defs><path d=\"M 32 8 L 54 28 L 50 28 L 50 52 L 14 52 L 14 28 L 10 28 Z\" fill=\"url(#hebron-altar1-settle)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"16\" fill=\"#6c3483\" /><rect x=\"38\" y=\"20\" width=\"8\" height=\"8\" fill=\"#8e44ad\" rx=\"1\" /><circle cx=\"32\" cy=\"18\" r=\"4\" fill=\"url(#hebron-altar1-home)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(155, 89, 182, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "יָשַׁב (야샤브 - 앉다, 거주하다)"
+      ]
+    },
+    {
+      "hebrew": "בְּאֵלֹנֵי מַמְרֵא",
+      "meaning": "마므레의 상수리나무들에",
+      "ipa": "bəʔeloˈne mamˈre",
+      "korean": "베엘로네 맘레",
+      "letters": "בְּ(be) + אֵ(e) + לֹ(lo) + נֵי(ne) + מַ(ma) + מְ(m) + רֵא(re)",
+      "root": "אֵלוֹן (엘론) + מַמְרֵא (맘레)",
+      "grammar": "명사",
+      "emoji": "🌳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-tree\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#27ae60\" /><stop offset=\"50%\" stop-color=\"#229954\" /><stop offset=\"100%\" stop-color=\"#1e8449\" /></linearGradient><linearGradient id=\"hebron-altar1-trunk\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" fill=\"url(#hebron-altar1-trunk)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"20\" rx=\"20\" ry=\"14\" fill=\"url(#hebron-altar1-tree)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"26\" rx=\"12\" ry=\"10\" fill=\"url(#hebron-altar1-tree)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"26\" rx=\"12\" ry=\"10\" fill=\"url(#hebron-altar1-tree)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"14\" rx=\"10\" ry=\"8\" fill=\"#2ecc71\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אֵלוֹן (엘론 - 상수리나무)",
+        "עֵץ (에츠 - 나무)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר בְּחֶבְרוֹן",
+      "meaning": "헤브론에 있는",
+      "ipa": "ʔaˈʃɛr bəxɛvˈron",
+      "korean": "아쉐르 베헤브론",
+      "letters": "אֲ(a) + שֶׁר(sher) + בְּ(be) + חֶ(khe) + בְ(v) + רוֹן(ron)",
+      "root": "חֶבְרוֹן (헤브론)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-city\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d4a373\" /><stop offset=\"50%\" stop-color=\"#c9915a\" /><stop offset=\"100%\" stop-color=\"#a67c52\" /></linearGradient><radialGradient id=\"hebron-altar1-light\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#d4a373\" /></radialGradient></defs><rect x=\"8\" y=\"32\" width=\"12\" height=\"24\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"24\" width=\"12\" height=\"32\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"28\" width=\"12\" height=\"28\" fill=\"url(#hebron-altar1-city)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"10\" y=\"38\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><rect x=\"28\" y=\"32\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><rect x=\"46\" y=\"36\" width=\"8\" height=\"6\" fill=\"#8B7355\" rx=\"1\" /><circle cx=\"32\" cy=\"10\" r=\"6\" fill=\"url(#hebron-altar1-light)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(212, 163, 115, 0.6))\" /></svg>",
+      "relatedWords": [
+        "חֶבְרוֹן (헤브론 - 도시 이름)",
+        "עִיר (이르 - 도시)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּבֶן שָׁם מִזְבֵּחַ",
+      "meaning": "그리고 거기에 제단을 쌓았다",
+      "ipa": "vajˈjivɛn ʃam mizbˈeax",
+      "korean": "바이벤 샴 미즈베아흐",
+      "letters": "וַ(va) + יִּ(yi) + בֶן(ven) + שָׁם(sham) + מִ(mi) + זְ(z) + בֵּ(be) + חַ(akh)",
+      "root": "ב-נ-ה (바나) + מִזְבֵּחַ (미즈베아흐)",
+      "grammar": "동사",
+      "emoji": "⛏️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-altar\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#95a5a6\" /><stop offset=\"50%\" stop-color=\"#7f8c8d\" /><stop offset=\"100%\" stop-color=\"#5d6d7e\" /></linearGradient><linearGradient id=\"hebron-altar1-fire\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"30%\" stop-color=\"#FFA500\" /><stop offset=\"60%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(3px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"16\" y=\"32\" width=\"32\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"20\" width=\"24\" height=\"12\" fill=\"url(#hebron-altar1-altar)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 18 Q 28 14 30 10 Q 31 6 32 8 Q 33 6 34 10 Q 36 14 32 18\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 8px rgba(255, 165, 0, 0.8))\" /><path d=\"M 28 16 Q 26 12 27 10\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.7\" /><path d=\"M 36 16 Q 38 12 37 10\" fill=\"url(#hebron-altar1-fire)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בָּנָה (바나 - 짓다, 세우다)",
+        "מִזְבֵּחַ (미즈베아흐 - 제단)"
+      ]
+    },
+    {
+      "hebrew": "לַיהוָה",
+      "meaning": "여호와를 위하여",
+      "ipa": "lajhoˈva",
+      "korean": "라이호바",
+      "letters": "לַ(la) + יהוָה(yhwh)",
+      "root": "יְהוָה (여호와)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hebron-altar1-yhwh\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"hebron-altar1-glory\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#hebron-altar1-glory)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#hebron-altar1-glory)\" opacity=\"0.5\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#hebron-altar1-yhwh)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 1))\" /><path d=\"M 32 8 L 34 16 L 42 14 L 36 20 L 42 26 L 34 24 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 32 56 L 30 48 L 22 50 L 28 44 L 22 38 L 30 40 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 8 32 L 16 30 L 14 22 L 20 28 L 26 22 L 24 30 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 56 32 L 48 34 L 50 42 L 44 36 L 38 42 L 40 34 L 32 32\" stroke=\"url(#hebron-altar1-yhwh)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יְהוָה (여호와 - 하나님의 이름)",
+        "אֲדֹנָי (아도나이 - 주님)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아브람은 하나님의 명령에 순종하여 헤브론의 마므레로 이동합니다. 그리고 도착하자마자 제일 먼저 한 일은 여호와를 위한 제단을 쌓는 것이었습니다. 이는 아브람의 믿음과 예배의 우선순위를 보여주는 행동입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְּאֵלֹנֵי מַמְרֵא (베엘로네 맘레) - 마므레의 상수리나무들",
+        "description": "마므레는 헤브론 근처의 지역으로, 큰 상수리나무들이 있는 곳이었습니다. 이곳은 후에 아브람이 삼위일체 하나님의 현현을 경험하는 장소가 되고(창 18장), 사라와 아브라함이 묻히는 막벨라 굴이 있는 곳 근처입니다.",
+        "points": [
+          "마므레는 아브람의 주요 거주지가 됩니다",
+          "상수리나무는 견고함과 장수의 상징입니다",
+          "이곳은 하나님과의 만남의 장소가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חֶבְרוֹן (헤브론) - 교제의 도시",
+        "description": "헤브론은 '교제, 동맹'이라는 뜻을 가진 고대 도시입니다. 이곳은 예루살렘보다 남쪽에 위치하며, 후에 이스라엘 역사에서 중요한 역할을 하게 됩니다. 다윗이 처음 왕으로 기름부음 받은 곳이기도 합니다.",
+        "points": [
+          "헤브론은 하나님과의 교제를 상징합니다",
+          "아브람은 약속의 땅 중심부에 정착합니다",
+          "이곳은 족장들의 매장지가 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּבֶן שָׁם מִזְבֵּחַ (바이벤 샴 미즈베아흐) - 제단을 쌓았다",
+        "description": "아브람은 새로운 곳에 도착할 때마다 제단을 쌓았습니다(창 12:7, 8; 13:4, 18). 제단은 예배와 헌신의 장소이며, 하나님과의 관계를 최우선으로 두는 아브람의 신앙을 보여줍니다.",
+        "points": [
+          "제단은 하나님께 드리는 예배의 장소입니다",
+          "아브람은 어디를 가든 하나님을 최우선으로 합니다",
+          "제단은 하나님의 소유권을 인정하는 표시입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לַיהוָה (라이호바) - 여호와를 위하여",
+        "description": "'여호와'는 하나님의 언약의 이름입니다. 아브람은 다른 신이 아닌 자신에게 약속하신 여호와 하나님만을 예배합니다. 이는 유일신 신앙의 확고한 표현입니다.",
+        "points": [
+          "여호와는 언약을 지키시는 신실한 하나님입니다",
+          "아브람의 예배는 개인적이고 배타적입니다",
+          "제단은 하나님과의 언약 관계를 확인합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 새로운 곳에 도착할 때마다 제단을 쌓았을까요?",
+      "answer": "아브람은 새로운 곳에 가면 제일 먼저 하나님께 예배드리는 제단을 만들었어요. 마치 우리가 새 집에 이사 가면 가장 먼저 하나님께 감사 기도를 드리는 것처럼, 아브람은 '이 땅도 하나님께서 주신 것이고, 하나님이 여기서도 나와 함께 계셔요'라고 고백한 거예요. 제단은 '하나님, 감사합니다. 저는 여기서도 하나님만 섬기겠습니다'라고 말하는 특별한 표시였답니다!",
+      "bibleReferences": [
+        "창세기 12:7 - '아브람이 여호와께 그 땅을 주신 것을 인하여 그곳에서 여호와를 위하여 제단을 쌓았더라'",
+        "창세기 26:25 - '이삭이 거기 제단을 쌓고 여호와의 이름을 부르며 거기 장막을 쳤더니'",
+        "로마서 12:1 - '너희 몸을 하나님이 기뻐하시는 거룩한 산 제물로 드리라 이는 너희가 드릴 영적 예배니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 제단 쌓기는 단순한 종교 의식이 아니라, 삶의 모든 영역에서 하나님을 최우선으로 두는 신앙의 표현입니다. 그는 물질적 안정이나 성공보다 먼저 하나님과의 관계를 정립했습니다. 이는 오늘날 우리에게도 적용됩니다 - 삶의 모든 새로운 단계에서 하나님께 예배하고 헌신하는 것이 우선되어야 합니다. 우리의 일상이 살아있는 제단이 되어야 합니다."
+    }
+  }
+}

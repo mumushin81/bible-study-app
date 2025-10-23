@@ -1,0 +1,145 @@
+{
+  "id": "genesis_3_2",
+  "reference": "창세기 3:2",
+  "hebrew": "וַתֹּאמֶר הָאִשָּׁה, אֶל-הַנָּחָשׁ:  מִפְּרִי עֵץ-הַגָּן, נֹאכֵל.",
+  "ipa": "vatˈtomɛr haʔiˈʃa ʔɛl hannaxˈaʃ mippəˈri ʕets hagˈgan noˈxɛl",
+  "koreanPronunciation": "바토메르 하이솨 엘 하나하쉬 미페리 에츠 하간 노켈",
+  "modern": "여자가 뱀에게 대답하기를 \"동산 나무의 열매는 우리가 먹을 수 있습니다\"",
+  "words": [
+    {
+      "hebrew": "וַתֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "ipa": "vatˈtomɛr",
+      "korean": "바토메르",
+      "letters": "וַ(va) + תֹּ(to) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"speechBubbleVat1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FF1493\" />\n      <stop offset=\"50%\" stop-color=\"#FF69B4\" />\n      <stop offset=\"100%\" stop-color=\"#FFB6C1\" />\n    </linearGradient>\n    <radialGradient id=\"speechGlowVat1\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"50%\" stop-color=\"#FFF0F5\" />\n      <stop offset=\"100%\" stop-color=\"#FFE4E1\" />\n    </radialGradient>\n    <linearGradient id=\"speechWaveVat1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#DC143C\" />\n      <stop offset=\"50%\" stop-color=\"#FF1493\" />\n      <stop offset=\"100%\" stop-color=\"#FF69B4\" />\n    </linearGradient>\n    <radialGradient id=\"speechShineVat1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#speechShineVat1)\" opacity=\"0.2\" />\n  <ellipse cx=\"34\" cy=\"30\" rx=\"24\" ry=\"20\" fill=\"url(#speechGlowVat1)\" stroke=\"url(#speechBubbleVat1)\" stroke-width=\"3.5\" filter=\"drop-shadow(3px 3px 8px rgba(255, 20, 147, 0.5))\" />\n  <path d=\"M 18 44 L 12 54 L 16 46 Z\" fill=\"url(#speechGlowVat1)\" stroke=\"url(#speechBubbleVat1)\" stroke-width=\"3\" filter=\"drop-shadow(2px 2px 4px rgba(255, 20, 147, 0.4))\" />\n  <path d=\"M 20 20 Q 26 18 32 20\" stroke=\"url(#speechWaveVat1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.9\" />\n  <path d=\"M 20 26 Q 30 24 40 26\" stroke=\"url(#speechWaveVat1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.9\" />\n  <path d=\"M 20 32 Q 34 30 44 32\" stroke=\"url(#speechWaveVat1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.9\" />\n  <circle cx=\"50\" cy=\"22\" r=\"2.5\" fill=\"#FF1493\" opacity=\"0.7\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" />\n  <circle cx=\"54\" cy=\"26\" r=\"2\" fill=\"#FFB6C1\" opacity=\"0.6\" />\n  <circle cx=\"52\" cy=\"32\" r=\"1.5\" fill=\"#FF69B4\" opacity=\"0.5\" />\n</svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבָר (다바르 - 말씀, 대화하다)"
+      ]
+    },
+    {
+      "hebrew": "הָאִשָּׁה",
+      "meaning": "여자",
+      "ipa": "haʔiˈʃa",
+      "korean": "하이솨",
+      "letters": "הָ(ha) + אִ(i) + שָּׁ(sha) + ה(h)",
+      "root": "אִשָּׁה (이솨)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"womanSkinHa1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFDAB9\" />\n      <stop offset=\"50%\" stop-color=\"#FFDEAD\" />\n      <stop offset=\"100%\" stop-color=\"#FFCC99\" />\n    </linearGradient>\n    <radialGradient id=\"womanHairHa1\">\n      <stop offset=\"0%\" stop-color=\"#654321\" />\n      <stop offset=\"100%\" stop-color=\"#3E2723\" />\n    </radialGradient>\n    <linearGradient id=\"womanDressHa1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#E8D5C4\" />\n      <stop offset=\"100%\" stop-color=\"#D4A574\" />\n    </linearGradient>\n    <radialGradient id=\"womanAuraHa1\">\n      <stop offset=\"0%\" stop-color=\"#FFE4E1\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 228, 225, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#womanAuraHa1)\" opacity=\"0.3\" />\n  <circle cx=\"32\" cy=\"20\" r=\"11\" fill=\"url(#womanSkinHa1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.25))\" />\n  <ellipse cx=\"32\" cy=\"44\" rx=\"16\" ry=\"20\" fill=\"url(#womanDressHa1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.25))\" />\n  <path d=\"M 20 16 Q 18 12 20 8 Q 24 6 32 8 Q 40 6 44 8 Q 46 12 44 16 L 40 18 Q 36 16 32 16 Q 28 16 24 18 Z\" fill=\"url(#womanHairHa1)\" filter=\"drop-shadow(1px 1px 3px rgba(0, 0, 0, 0.35))\" />\n  <ellipse cx=\"27\" cy=\"19\" rx=\"2\" ry=\"2.5\" fill=\"#4E342E\" />\n  <ellipse cx=\"37\" cy=\"19\" rx=\"2\" ry=\"2.5\" fill=\"#4E342E\" />\n  <path d=\"M 27 25 Q 32 26.5 37 25\" stroke=\"#D4756E\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" />\n  <circle cx=\"32\" cy=\"38\" r=\"7\" fill=\"#90EE90\" opacity=\"0.35\" filter=\"drop-shadow(0 0 6px rgba(144, 238, 144, 0.7))\" />\n  <path d=\"M 18 36 Q 16 40 18 44\" stroke=\"url(#womanSkinHa1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2))\" />\n  <path d=\"M 46 36 Q 48 40 46 44\" stroke=\"url(#womanSkinHa1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.2))\" />\n</svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자, 사람)",
+        "חַוָּה (하와 - 하와, 생명)"
+      ]
+    },
+    {
+      "hebrew": "אֶל-הַנָּחָשׁ",
+      "meaning": "뱀에게",
+      "ipa": "ʔɛl hannaxˈaʃ",
+      "korean": "엘 하나하쉬",
+      "letters": "אֶל(el) + הַ(ha) + נָּ(na) + חָשׁ(chash)",
+      "root": "נָחָשׁ (나하쉬)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"serpentBodyEl1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#2E7D32\" />\n      <stop offset=\"30%\" stop-color=\"#43A047\" />\n      <stop offset=\"60%\" stop-color=\"#66BB6A\" />\n      <stop offset=\"100%\" stop-color=\"#9CCC65\" />\n    </linearGradient>\n    <radialGradient id=\"serpentScalesEl1\">\n      <stop offset=\"0%\" stop-color=\"#76FF03\" />\n      <stop offset=\"100%\" stop-color=\"#388E3C\" />\n    </radialGradient>\n    <linearGradient id=\"serpentShadowEl1\">\n      <stop offset=\"0%\" stop-color=\"rgba(0, 0, 0, 0.5)\" />\n      <stop offset=\"100%\" stop-color=\"rgba(0, 0, 0, 0)\" />\n    </linearGradient>\n    <linearGradient id=\"serpentEyeEl1\">\n      <stop offset=\"0%\" stop-color=\"#FFEB3B\" />\n      <stop offset=\"100%\" stop-color=\"#FBC02D\" />\n    </linearGradient>\n  </defs>\n  <ellipse cx=\"32\" cy=\"58\" rx=\"30\" ry=\"5\" fill=\"url(#serpentShadowEl1)\" />\n  <path d=\"M 48 56 Q 54 48 50 40 Q 46 32 50 24 Q 54 16 50 8 Q 48 4 48 4\" stroke=\"url(#serpentBodyEl1)\" stroke-width=\"16\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(3px 3px 8px rgba(0, 0, 0, 0.45))\" />\n  <ellipse cx=\"48\" cy=\"4\" rx=\"10\" ry=\"8\" fill=\"url(#serpentBodyEl1)\" transform=\"rotate(-30 48 4)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.35))\" />\n  <circle cx=\"45\" cy=\"3\" r=\"3\" fill=\"url(#serpentEyeEl1)\" stroke=\"#FF5722\" stroke-width=\"1\" filter=\"drop-shadow(0 0 4px rgba(255, 235, 59, 0.9))\" />\n  <ellipse cx=\"45\" cy=\"3\" rx=\"1.5\" ry=\"2\" fill=\"#000000\" />\n  <path d=\"M 40 7 L 36 10\" stroke=\"#E91E63\" stroke-width=\"2.5\" stroke-linecap=\"round\" />\n  <circle cx=\"18\" cy=\"34\" r=\"10\" fill=\"#EF5350\" opacity=\"0.8\" filter=\"drop-shadow(3px 3px 6px rgba(239, 83, 80, 0.6))\" />\n  <circle cx=\"18\" cy=\"34\" r=\"6\" fill=\"#C62828\" opacity=\"0.9\" />\n  <path d=\"M 16 32 L 18 28 L 20 32\" stroke=\"#2E7D32\" stroke-width=\"2.5\" stroke-linecap=\"round\" fill=\"none\" />\n  <circle cx=\"44\" cy=\"24\" r=\"2.5\" fill=\"#76FF03\" opacity=\"0.7\" />\n  <circle cx=\"46\" cy=\"40\" r=\"2.5\" fill=\"#9CCC65\" opacity=\"0.7\" />\n  <circle cx=\"48\" cy=\"32\" r=\"2\" fill=\"#66BB6A\" opacity=\"0.6\" />\n</svg>",
+      "relatedWords": [
+        "נָחַשׁ (나하쉬 - 점치다, 마술)",
+        "שָׂטָן (사탄 - 대적자)"
+      ]
+    },
+    {
+      "hebrew": "מִפְּרִי",
+      "meaning": "열매로부터",
+      "ipa": "mippəˈri",
+      "korean": "미페리",
+      "letters": "מִ(mi) + פְּ(pe) + רִי(ri)",
+      "root": "פְּרִי (페리)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <radialGradient id=\"fruitBodyMi1\">\n      <stop offset=\"0%\" stop-color=\"#FF5252\" />\n      <stop offset=\"50%\" stop-color=\"#E53935\" />\n      <stop offset=\"100%\" stop-color=\"#B71C1C\" />\n    </radialGradient>\n    <linearGradient id=\"fruitShineMi1\" x1=\"20%\" y1=\"20%\" x2=\"80%\" y2=\"80%\">\n      <stop offset=\"0%\" stop-color=\"#FFFFFF\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\" />\n    </linearGradient>\n    <linearGradient id=\"fruitStemMi1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#6D4C41\" />\n      <stop offset=\"100%\" stop-color=\"#4E342E\" />\n    </linearGradient>\n    <linearGradient id=\"fruitLeafMi1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#43A047\" />\n      <stop offset=\"50%\" stop-color=\"#66BB6A\" />\n      <stop offset=\"100%\" stop-color=\"#81C784\" />\n    </linearGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"38\" r=\"22\" fill=\"url(#fruitBodyMi1)\" filter=\"drop-shadow(4px 4px 10px rgba(183, 28, 28, 0.6))\" />\n  <ellipse cx=\"22\" cy=\"28\" rx=\"10\" ry=\"12\" fill=\"url(#fruitShineMi1)\" opacity=\"0.4\" />\n  <circle cx=\"26\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.3\" />\n  <path d=\"M 32 16 Q 30 10 32 6\" stroke=\"url(#fruitStemMi1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(0, 0, 0, 0.3))\" />\n  <ellipse cx=\"38\" cy=\"8\" rx=\"9\" ry=\"7\" fill=\"url(#fruitLeafMi1)\" transform=\"rotate(35 38 8)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.35))\" />\n  <path d=\"M 32 8 Q 38 6 42 8\" stroke=\"#2E7D32\" stroke-width=\"2\" fill=\"none\" />\n  <ellipse cx=\"28\" cy=\"40\" rx=\"3\" ry=\"2\" fill=\"#8D6E63\" opacity=\"0.7\" />\n  <path d=\"M 24 54 Q 32 56 40 54\" stroke=\"#B71C1C\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" />\n  <circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#FFCDD2\" opacity=\"0.5\" />\n</svg>"
+    },
+    {
+      "hebrew": "עֵץ-הַגָּן",
+      "meaning": "동산의 나무",
+      "ipa": "ʕets hagˈgan",
+      "korean": "에츠 하간",
+      "letters": "עֵץ(ets) + הַ(ha) + גָּן(gan)",
+      "root": "עֵץ (에츠) + גָּן (간)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"treeTrunkEts1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#795548\" />\n      <stop offset=\"50%\" stop-color=\"#6D4C41\" />\n      <stop offset=\"100%\" stop-color=\"#5D4037\" />\n    </linearGradient>\n    <radialGradient id=\"treeFoliageEts1\">\n      <stop offset=\"0%\" stop-color=\"#9CCC65\" />\n      <stop offset=\"50%\" stop-color=\"#7CB342\" />\n      <stop offset=\"100%\" stop-color=\"#558B2F\" />\n    </radialGradient>\n    <linearGradient id=\"treeGardenEts1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#AED581\" />\n      <stop offset=\"100%\" stop-color=\"#689F38\" />\n    </linearGradient>\n    <radialGradient id=\"treeGlowEts1\">\n      <stop offset=\"0%\" stop-color=\"#FFD54F\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 213, 79, 0)\" />\n    </radialGradient>\n  </defs>\n  <rect width=\"64\" height=\"18\" y=\"46\" fill=\"url(#treeGardenEts1)\" opacity=\"0.4\" rx=\"3\" />\n  <rect x=\"24\" y=\"26\" width=\"16\" height=\"38\" rx=\"3\" fill=\"url(#treeTrunkEts1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.35))\" />\n  <circle cx=\"32\" cy=\"18\" r=\"20\" fill=\"url(#treeFoliageEts1)\" filter=\"drop-shadow(3px 3px 8px rgba(85, 139, 47, 0.5))\" />\n  <circle cx=\"20\" cy=\"22\" r=\"14\" fill=\"url(#treeFoliageEts1)\" opacity=\"0.85\" />\n  <circle cx=\"44\" cy=\"22\" r=\"14\" fill=\"url(#treeFoliageEts1)\" opacity=\"0.85\" />\n  <circle cx=\"32\" cy=\"10\" r=\"12\" fill=\"url(#treeFoliageEts1)\" opacity=\"0.9\" />\n  <circle cx=\"32\" cy=\"14\" r=\"10\" fill=\"url(#treeGlowEts1)\" opacity=\"0.35\" />\n  <circle cx=\"26\" cy=\"20\" r=\"4\" fill=\"#FF5252\" filter=\"drop-shadow(0 0 4px rgba(255, 82, 82, 0.7))\" />\n  <circle cx=\"38\" cy=\"18\" r=\"4\" fill=\"#FF5252\" filter=\"drop-shadow(0 0 4px rgba(255, 82, 82, 0.7))\" />\n  <circle cx=\"32\" cy=\"24\" r=\"4\" fill=\"#FF5252\" filter=\"drop-shadow(0 0 4px rgba(255, 82, 82, 0.7))\" />\n  <circle cx=\"28\" cy=\"14\" r=\"3.5\" fill=\"#EF5350\" opacity=\"0.8\" />\n  <circle cx=\"36\" cy=\"12\" r=\"3.5\" fill=\"#EF5350\" opacity=\"0.8\" />\n</svg>",
+      "relatedWords": [
+        "גַּן-עֵדֶן (간 에덴 - 에덴 동산)",
+        "עֵץ הַחַיִּים (에츠 하하임 - 생명나무)"
+      ]
+    },
+    {
+      "hebrew": "נֹאכֵל",
+      "meaning": "우리가 먹는다",
+      "ipa": "noˈxɛl",
+      "korean": "노켈",
+      "letters": "נֹ(no) + אכֵל(chel)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"eatMouthNo1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FFB74D\" />\n      <stop offset=\"50%\" stop-color=\"#FF9800\" />\n      <stop offset=\"100%\" stop-color=\"#F57C00\" />\n    </linearGradient>\n    <radialGradient id=\"eatFaceNo1\">\n      <stop offset=\"0%\" stop-color=\"#FFECB3\" />\n      <stop offset=\"100%\" stop-color=\"#FFD54F\" />\n    </radialGradient>\n    <linearGradient id=\"eatFoodNo1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#FDD835\" />\n      <stop offset=\"50%\" stop-color=\"#FBC02D\" />\n      <stop offset=\"100%\" stop-color=\"#F9A825\" />\n    </linearGradient>\n    <radialGradient id=\"eatGlowNo1\">\n      <stop offset=\"0%\" stop-color=\"rgba(255, 183, 77, 0.4)\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 183, 77, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#eatGlowNo1)\" />\n  <ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"14\" fill=\"url(#eatFaceNo1)\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.25))\" />\n  <path d=\"M 18 38 Q 32 46 46 38\" stroke=\"url(#eatMouthNo1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 3px rgba(245, 124, 0, 0.5))\" />\n  <ellipse cx=\"18\" cy=\"40\" rx=\"3\" ry=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" />\n  <ellipse cx=\"46\" cy=\"40\" rx=\"3\" ry=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" />\n  <circle cx=\"22\" cy=\"18\" r=\"7\" fill=\"url(#eatFoodNo1)\" filter=\"drop-shadow(2px 2px 5px rgba(249, 168, 37, 0.6))\" />\n  <circle cx=\"32\" cy=\"14\" r=\"7\" fill=\"#EF5350\" filter=\"drop-shadow(2px 2px 5px rgba(239, 83, 80, 0.6))\" />\n  <circle cx=\"42\" cy=\"18\" r=\"7\" fill=\"#66BB6A\" filter=\"drop-shadow(2px 2px 5px rgba(102, 187, 106, 0.6))\" />\n  <path d=\"M 26 26 L 30 32\" stroke=\"url(#eatMouthNo1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <path d=\"M 36 24 L 38 30\" stroke=\"url(#eatMouthNo1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" opacity=\"0.7\" />\n  <circle cx=\"24\" cy=\"36\" r=\"1.5\" fill=\"#F57C00\" opacity=\"0.8\" />\n  <circle cx=\"40\" cy=\"36\" r=\"1.5\" fill=\"#F57C00\" opacity=\"0.8\" />\n  <path d=\"M 28 44 Q 32 46 36 44\" stroke=\"#FF9800\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" />\n</svg>",
+      "relatedWords": [
+        "לֶחֶם (레헴 - 빵, 음식)",
+        "מַאֲכָל (마아칼 - 음식, 양식)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3장 2절은 인류 최초의 시험에서 하와가 뱀과 대화를 시작하는 장면입니다. 뱀의 교묘한 질문(3:1)에 대해 하와는 하나님의 명령을 설명하며 대답합니다. 이 구절은 겉보기에는 무해해 보이지만, 하와가 악과 대화를 나누기 시작했다는 점에서 타락의 첫 걸음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַתֹּאמֶר הָאִשָּׁה אֶל-הַנָּחָשׁ (바토메르 하이솨 엘 하나하쉬) - 여자가 뱀에게 대답하다",
+        "description": "하와는 뱀의 질문에 대답합니다. 그런데 여기서 주목할 점은 하와가 뱀과 '대화'를 시작했다는 것입니다. 창조 질서에서 사람은 하나님과 대화해야 하지만, 하와는 피조물인 뱀과 신학적 토론을 시작합니다. 이것 자체가 이미 문제의 시작입니다.",
+        "points": [
+          "하와는 뱀의 질문을 무시하거나 거부하지 않고 대화에 응합니다",
+          "선과 악에 대한 판단 기준이 하나님에게서 피조물로 옮겨가기 시작합니다",
+          "시험자와 대화하는 것 자체가 이미 위험한 영역에 들어선 것입니다",
+          "야고보서 1:14-15는 '욕심이 잉태한즉 죄를 낳는다'고 경고합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִפְּרִי עֵץ-הַגָּן (미페리 에츠 하간) - 동산 나무의 열매",
+        "description": "하와는 동산의 나무 열매를 먹을 수 있다고 대답합니다. 하나님께서 허락하신 풍성함을 설명하는 이 말은 사실 정확합니다. 에덴동산에는 수많은 나무와 열매가 있었고, 단 하나의 나무만 금지되었습니다. 하나님의 선하심은 금지보다 허락이 훨씬 많았습니다.",
+        "points": [
+          "에덴동산의 '모든' 나무 중 단 하나만 금지되었습니다 (창세기 2:16-17)",
+          "하나님의 명령은 제한이 아니라 보호와 풍성한 선택의 자유였습니다",
+          "우리는 종종 하나님이 허락하신 많은 것보다 금지하신 한 가지에 집중합니다",
+          "시험은 풍성한 은혜 대신 제한에만 초점을 맞추게 만듭니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "נֹאכֵל (노켈) - 우리가 먹는다",
+        "description": "하와는 '우리가 먹는다'라고 말하며 자신과 아담을 포함시킵니다. 이는 하나님의 허락 안에서 자유롭게 누릴 수 있는 축복을 의미합니다. 먹는 행위는 단순히 음식 섭취가 아니라 하나님이 주신 선물을 받아들이고 즐기는 것을 상징합니다.",
+        "points": [
+          "먹는 것은 하나님의 공급하심을 경험하는 방식입니다",
+          "순종 안에서 누리는 자유는 진정한 자유입니다",
+          "하나님의 명령은 우리를 억압하는 것이 아니라 축복으로 인도합니다",
+          "다음 절(3:3)에서 하와의 대답이 미묘하게 왜곡되기 시작합니다"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하와는 뱀과 대화를 했을까요? 무시하면 안 됐을까요?",
+      "answer": "하와는 아마도 뱀의 질문에 하나님을 변호하고 싶었을 거예요. '하나님이 정말 그렇게 말씀하셨어?'라는 뱀의 질문에 '아니야, 우리는 먹을 수 있어!'라고 대답하며 하나님의 선하심을 설명하려 했던 것 같아요. 하지만 여기서 중요한 교훈이 있어요. 나쁜 것에 대해서는 대화하거나 생각하지 말고, 바로 '안 돼!'라고 말하고 피해야 해요. 마치 뜨거운 불을 보면 토론하지 않고 바로 피하는 것처럼요. 하나님의 말씀에 의심을 품게 하는 대화는 위험하답니다.",
+      "bibleReferences": [
+        "야고보서 4:7 - '마귀를 대적하라 그리하면 너희를 피하리라'",
+        "잠언 4:14-15 - '악인의 길에 들어가지 말며... 피하여 지나가라'",
+        "디모데후서 2:23 - '어리석고 무식한 변론을 버리라'",
+        "마태복음 4:10 - '예수께서 이르시되 사탄아 물러가라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하와의 대답은 신학적으로 정확했지만, 뱀과의 대화 자체가 이미 위험한 영역이었습니다. 우리는 종종 시험을 이길 수 있다고 과신하며 위험한 대화나 상황에 머무릅니다. 그러나 성경은 '피하라', '대적하라'고 명령합니다. 예수님조차 광야에서 사탄을 '물러가라'며 단호히 거부하셨습니다(마태복음 4:10). 하나님의 말씀에 대한 신뢰는 토론이 아니라 순종으로 증명됩니다."
+    }
+  }
+}

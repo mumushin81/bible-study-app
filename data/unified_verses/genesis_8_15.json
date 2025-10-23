@@ -1,0 +1,115 @@
+{
+  "id": "genesis_8_15",
+  "reference": "창세기 8:15",
+  "hebrew": "וַיְדַבֵּר אֱלֹהִים אֶל־נֹחַ לֵאמֹר.",
+  "ipa": "vajədaˈber ʔɛloˈhim ʔɛl noax leˈmor",
+  "koreanPronunciation": "바예다베르 엘로힘 엘 노아흐 레모르",
+  "modern": "하나님께서 노아에게 말씀하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיְדַבֵּר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajədaˈber",
+      "korean": "바예다베르",
+      "letters": "וַ(va) + יְ(yə) + דַ(da) + בֵּר(ber)",
+      "root": "ד-ב-ר (dabar)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"word_speak\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"20\" cy=\"32\" r=\"16\" fill=\"url(#word_speak)\" /><path d=\"M 36 28 Q 44 32 36 36\" stroke=\"#FF6F00\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 42 24 Q 52 32 42 40\" stroke=\"#FFA500\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 48 20 Q 60 32 48 44\" stroke=\"#FFD54F\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "דִּבֶּר (디베르 - 말하다)",
+        "דָּבָר (다바르 - 말씀, 일)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_elohim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"jewel_elohim\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"11\" y=\"50\" width=\"42\" height=\"8\" rx=\"2\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "meaning": "말씀하시기를",
+      "ipa": "leˈmor",
+      "korean": "레모르",
+      "letters": "לֵ(le) + אמֹר(mor)",
+      "root": "א-מ-ר (amar)",
+      "grammar": "동사 부정사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"saying\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#42A5F5\" /></linearGradient></defs><rect x=\"12\" y=\"24\" width=\"40\" height=\"16\" rx=\"8\" fill=\"url(#saying)\" opacity=\"0.8\" /><path d=\"M 20 40 L 16 46 L 24 40\" fill=\"#42A5F5\" opacity=\"0.8\" /><line x1=\"20\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#FFFFFF\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "אֹמֶר (오메르 - 말)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 15절은 간단하지만 매우 중요합니다. 1년 이상의 침묵 후, 하나님께서 다시 노아에게 말씀하십니다. 이는 새로운 시대의 시작을 알리는 신호입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "침묵 후의 말씀",
+        "description": "하나님은 홍수가 시작될 때 노아에게 말씀하셨고(7:1), 이제 1년 후 다시 말씀하십니다. 그 사이의 침묵도 하나님의 섭리였습니다.",
+        "points": [
+          "하나님의 침묵도 의미가 있습니다",
+          "적절한 때에 하나님은 말씀하십니다",
+          "기다림 끝에 오는 말씀은 더욱 귀합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיְדַבֵּר (바예다베르) - 말씀하심",
+        "description": "'다바르'는 단순한 말이 아니라 권위 있는 말씀, 명령을 의미합니다. 하나님의 다바르는 창조력을 가집니다.",
+        "points": [
+          "하나님의 말씀은 권위가 있습니다",
+          "말씀하심은 행동으로 이어집니다",
+          "하나님의 다바르는 역사를 만듭니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֱלֹהִים אֶל־נֹחַ (엘로힘 엘 노아흐) - 하나님이 노아에게",
+        "description": "하나님이 직접 노아에게 개인적으로 말씀하십니다. 이는 친밀한 관계를 보여줍니다.",
+        "points": [
+          "하나님은 개인에게 말씀하십니다",
+          "노아는 하나님의 음성을 듣는 사람입니다",
+          "친밀한 관계가 소통을 가능하게 합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לֵאמֹר (레모르) - 말씀하시기를",
+        "description": "'레모르'는 다음에 올 말씀을 기대하게 합니다. 이는 중요한 메시지의 서론입니다.",
+        "points": [
+          "기대감을 불러일으킵니다",
+          "중요한 명령이 뒤따를 것입니다",
+          "청중의 주의를 집중시킵니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 1년 동안 말씀하지 않으셨다가 이제 말씀하셨을까요?",
+      "answer": "하나님은 완벽한 때를 아세요. 방주 안에 있는 동안은 노아가 할 일이 없었어요. 그냥 기다리기만 하면 됐죠. 그래서 하나님도 특별히 말씀하실 필요가 없으셨어요. 하지만 이제 땅이 완전히 말라서 나갈 준비가 되었으니, 하나님이 말씀하신 거예요. 마치 부모님이 우리가 공부하는 동안은 조용히 계시다가, 다 끝나면 '이제 나가 놀아도 돼'라고 말씀하시는 것과 같아요. 하나님의 침묵도 사랑이었고, 하나님의 말씀도 사랑이에요. 딱 필요한 때에 말씀해주시는 거죠.",
+      "bibleReferences": [
+        "전도서 3:7 - '찢을 때가 있고 꿰맬 때가 있으며 잠잠할 때가 있고 말할 때가 있으며'",
+        "잠언 25:11 - '경우에 합당한 말은 아로새긴 은 쟁반에 금 사과니라'",
+        "이사야 50:4 - '주 여호와께서 학자들의 혀를 내게 주사 나로 곤고한 자를 말로 어떻게 도와 줄 줄을 알게 하시고'",
+        "히브리서 1:1-2 - '옛적에 선지자들을 통하여 여러 부분과 여러 모양으로 우리 조상들에게 말씀하신 하나님이 이 모든 날 마지막에는 아들을 통하여 우리에게 말씀하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:15는 하나님의 말씀의 중요성을 강조합니다. 1년 이상의 침묵 후 하나님이 다시 말씀하신 것은, 새로운 시대의 시작을 알립니다. '다바르'라는 단어는 창조 때 하나님이 '말씀하시니' 세상이 창조된 것처럼, 권위와 창조력을 가진 말씀입니다. 노아는 하나님의 명령을 기다렸고, 하나님은 완벽한 때에 말씀하셨습니다. 이는 우리에게 하나님의 침묵과 말씀 모두를 신뢰하라고 가르칩니다. 때로 하나님이 침묵하시는 것 같아도, 그것도 하나님의 섭리이며, 때가 되면 반드시 말씀하십니다. '레모르(말씀하시기를)'는 다음 절에 올 중요한 명령을 기대하게 합니다."
+    }
+  }
+}

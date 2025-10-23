@@ -1,0 +1,177 @@
+{
+  "id": "genesis_5_26",
+  "reference": "Genesis 5:26",
+  "hebrew": "וַֽיְחִ֣י מְתוּשֶׁ֗לַח אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת לֶ֔מֶךְ שְׁתַּ֤יִם וּשְׁמוֹנִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת",
+  "ipa": "vajəˈhi mətuˈʃɛlaħ ʔaˈħare holido ʔɛt ˈlamɛx ʃəˈtajim utʃiʃˈim ʃaˈna uʃəvaˈ meʔot ʃaˈna vajˈolɛd baˈnim uvəˈnot",
+  "koreanPronunciation": "바예히 메투셸라흐 아하레 홀리도 에트 레멕 쉐타임 우쉬모님 샤나 우쉐바 메오트 샤나 바욜레드 바님 우브노트",
+  "modern": "므두셀라는 라멕을 낳은 후 782년을 더 살면서 자녀들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 ~이 되었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#time2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.3\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#FFA726\" stroke-width=\"2\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 167, 38, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.9))\" /></svg>"
+    },
+    {
+      "hebrew": "אַחֲרֵי",
+      "meaning": "~한 후에",
+      "ipa": "ʔaˈħare",
+      "korean": "아하레",
+      "letters": "אַ(a) + חֲ(kha) + רֵי(re)",
+      "root": "אַחַר (아하르)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"after1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><rect x=\"4\" y=\"24\" width=\"56\" height=\"16\" rx=\"8\" fill=\"url(#after1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 44 32 L 54 32 L 50 28 M 54 32 L 50 36\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.6))\" /><circle cx=\"16\" cy=\"32\" r=\"6\" fill=\"rgba(255, 255, 255, 0.3)\" /><circle cx=\"28\" cy=\"32\" r=\"6\" fill=\"rgba(255, 255, 255, 0.5)\" /><circle cx=\"40\" cy=\"32\" r=\"6\" fill=\"rgba(255, 255, 255, 0.7)\" /></svg>",
+      "relatedWords": [
+        "אַחַר (아하르 - 뒤, 후)",
+        "לִפְנֵי (리프네 - ~전에)"
+      ]
+    },
+    {
+      "hebrew": "הוֹלִידוֹ",
+      "meaning": "그가 낳은",
+      "ipa": "holido",
+      "korean": "홀리도",
+      "letters": "הוֹ(ho) + לִי(li) + דוֹ(do)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birth2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#birth2)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"30\" r=\"12\" fill=\"#FFF8DC\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#8B4513\" /><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "שְׁתַּיִם",
+      "meaning": "둘, 두",
+      "ipa": "ʃəˈtajim",
+      "korean": "쉐타임",
+      "letters": "שְׁ(she) + תַּ(ta) + יִם(yim)",
+      "root": "שְׁתַּיִם (쉐타임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"two1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#006064\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#two1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">2</text></svg>"
+    },
+    {
+      "hebrew": "שְׁמֹנִים",
+      "meaning": "팔십",
+      "ipa": "ʃəmoˈnim",
+      "korean": "쉐모님",
+      "letters": "שְׁ(she) + מֹ(mo) + נִים(nim)",
+      "root": "שְׁמוֹנֶה (쉐모네)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eighty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\" /><stop offset=\"100%\" stop-color=\"#006064\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#eighty1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">80</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년, 해",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF5722\" /><stop offset=\"100%\" stop-color=\"#BF360C\" /></linearGradient></defs><rect x=\"8\" y=\"12\" width=\"48\" height=\"40\" rx=\"4\" fill=\"url(#year2)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"8\" y=\"12\" width=\"48\" height=\"8\" rx=\"4\" fill=\"#D32F2F\" /><circle cx=\"32\" cy=\"38\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "וּשְׁבַע",
+      "meaning": "그리고 일곱",
+      "ipa": "uʃəˈva",
+      "korean": "우쉐바",
+      "letters": "וּ(u) + שְׁ(she) + בַע(va)",
+      "root": "שֶׁבַע (셰바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seven2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#4A148C\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"8\" fill=\"url(#seven2)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"44\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"#FFD700\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">7</text></svg>"
+    },
+    {
+      "hebrew": "מֵאוֹת",
+      "meaning": "백들 (수백)",
+      "ipa": "meˈʔot",
+      "korean": "메오트",
+      "letters": "מֵ(me) + אוֹת(ot)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundreds1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#hundreds1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"24\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.4))\">700</text></svg>"
+    },
+    {
+      "hebrew": "בָּנִים",
+      "meaning": "아들들",
+      "ipa": "baˈnim",
+      "korean": "바님",
+      "letters": "בָּ(ba) + נִים(nim)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#sons1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"40\" cy=\"28\" r=\"10\" fill=\"url(#sons1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"24\" cy=\"44\" rx=\"8\" ry=\"12\" fill=\"url(#sons1)\" opacity=\"0.8\" /><ellipse cx=\"40\" cy=\"44\" rx=\"8\" ry=\"12\" fill=\"url(#sons1)\" opacity=\"0.8\" /><circle cx=\"21\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /><circle cx=\"37\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)"
+      ]
+    },
+    {
+      "hebrew": "וּבָנוֹת",
+      "meaning": "그리고 딸들",
+      "ipa": "uvəˈnot",
+      "korean": "우브노트",
+      "letters": "וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "בַּת (바트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"daughters1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EC407A\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#daughters1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"40\" cy=\"28\" r=\"10\" fill=\"url(#daughters1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"24\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#daughters1)\" opacity=\"0.8\" /><ellipse cx=\"40\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#daughters1)\" opacity=\"0.8\" /><circle cx=\"21\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /><circle cx=\"37\" cy=\"26\" r=\"1.5\" fill=\"#FFFFFF\" /><path d=\"M 18 22 Q 20 20 22 22\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 34 22 Q 36 20 38 22\" stroke=\"#FFFFFF\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "בַּת (바트 - 딸)",
+        "בֵּן (벤 - 아들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 26절은 므두셀라가 라멕을 낳은 후 782년을 더 살았다고 기록합니다. 이는 므두셀라의 전체 수명 969년 중 대부분의 기간이 자녀 양육과 가족 확장에 사용되었음을 보여줍니다. 이 구절은 하나님께서 주신 긴 생애를 어떻게 사용했는지, 그리고 세대를 거쳐 신앙이 어떻게 전수되었는지를 보여주는 중요한 기록입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אַחֲרֵי הוֹלִידוֹ (아하레 홀리도) - 자녀를 낳은 후의 삶",
+        "description": "히브리어에서 '아하레'(후에)는 단순한 시간적 순서가 아니라 중요한 전환점을 나타냅니다. 라멕을 낳은 후 782년이라는 긴 세월은 므두셀라가 아들뿐만 아니라 손자, 증손자를 포함한 여러 세대를 직접 보고 가르칠 수 있었음을 의미합니다. 이는 신앙 전수의 귀중한 기회였습니다.",
+        "points": [
+          "782년은 현대의 여러 세대가 함께 사는 시간보다 훨씬 깁니다",
+          "므두셀라는 손자 노아가 태어나고 성장하는 것을 모두 지켜볼 수 있었습니다",
+          "긴 생애는 신앙의 유산을 여러 세대에 걸쳐 직접 전수할 기회였습니다",
+          "므두셀라는 홍수 직전까지 살면서 노아 시대의 증인이 되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁתַּיִם וּשְׁמֹנִים שָׁנָה וּשְׁבַע מֵאוֹת שָׁנָה (782년) - 풍성한 삶의 기간",
+        "description": "782년이라는 숫자는 하나님께서 므두셀라에게 주신 풍성한 시간을 나타냅니다. 이 기간 동안 므두셀라는 계속해서 자녀를 낳고, 가족을 돌보며, 신앙을 전수하는 삶을 살았습니다. 숫자 7(שֶׁבַע)은 완전함을, 8(שְׁמֹנֶה)은 새로운 시작을 상징하므로, 이 기간은 완전한 신앙 전수와 새로운 세대를 위한 준비의 시간이었습니다.",
+        "points": [
+          "782년은 므두셀라 전체 생애의 약 80%에 해당하는 긴 기간입니다",
+          "이 기간 동안 므두셀라는 지속적으로 가족을 확장하고 양육했습니다",
+          "숫자 7과 8의 조합은 완전한 준비와 새로운 시작을 암시합니다",
+          "이 시간은 하나님의 인내와 은혜의 기간이기도 했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우브노트) - 아들들과 딸들",
+        "description": "'아들들과 딸들'이라는 표현은 므두셀라의 가족이 라멕 한 명에 그치지 않고 많은 자녀로 확장되었음을 보여줍니다. 이는 하나님의 '생육하고 번성하라'는 축복 명령(창 1:28)의 성취이며, 경건한 혈통이 단순히 직계만이 아니라 넓은 범위로 퍼져나갔음을 의미합니다.",
+        "points": [
+          "므두셀라는 한 명의 아들만 낳은 것이 아니라 여러 자녀를 두었습니다",
+          "이는 하나님의 생육 축복이 실현된 것입니다",
+          "경건한 신앙이 더 많은 자녀들을 통해 전수될 수 있었습니다",
+          "가족의 확장은 하나님의 언약 백성의 확장을 예표합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "므두셀라는 왜 라멕을 낳은 후에도 계속 자녀를 낳았을까요?",
+      "answer": "하나님께서 므두셀라에게 긴 생명을 주신 것은 단지 오래 사는 것만이 아니라, 많은 가족을 이루고 하나님을 믿는 사람들을 더 많이 키우기 위해서였어요. 마치 선생님이 한 반만 가르치는 게 아니라 여러 해 동안 많은 반 학생들을 가르치는 것처럼, 므두셀라도 오랫동안 살면서 많은 자녀와 손자, 증손자들에게 하나님을 믿는 법을 가르쳐줄 수 있었어요. 그래서 하나님을 사랑하는 사람들이 점점 더 많아질 수 있었답니다!",
+      "bibleReferences": [
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 하나님이 그들에게 이르시되 생육하고 번성하여 땅에 충만하라'",
+        "시편 128:3-4 - '네 집 안방에 있는 네 아내는 결실한 포도나무 같으며 네 식탁에 둘러앉은 자식들은 어린 감람나무 같으리로다. 여호와를 경외하는 자는 이같이 복을 받으리로다'",
+        "시편 127:3-5 - '자식들은 여호와의 기업이요 태의 열매는 그의 상급이로다. 젊은 자의 자식은 장사의 수중의 화살 같으니 이것이 그의 화살통에 가득한 자는 복되도다'",
+        "신명기 6:6-7 - '오늘 내가 네게 명하는 이 말씀을 너는 마음에 새기고 네 자녀에게 부지런히 가르치며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "므두셀라가 라멕을 낳은 후 782년 동안 계속해서 자녀를 낳았다는 기록은 하나님의 축복이 한 세대에 그치지 않고 계속 확장되는 것을 보여줍니다. 이는 단순한 생물학적 번식이 아니라 경건한 신앙의 확산을 의미합니다. 므두셀라의 긴 생애는 여러 세대가 동시에 살면서 신앙을 전수하고 하나님의 말씀을 배우는 독특한 환경을 만들었습니다. 이는 오늘날 교회가 세대 간 신앙 전수의 중요성을 깨닫고, 젊은 세대를 양육하는 데 힘써야 함을 가르쳐줍니다. 하나님의 언약은 개인에게만이 아니라 그의 자손과 후손들에게까지 이어지는 축복입니다."
+    }
+  }
+}

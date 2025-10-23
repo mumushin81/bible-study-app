@@ -1,0 +1,171 @@
+{
+  "id": "genesis_12_4",
+  "reference": "창세기 12:4",
+  "hebrew": "וַיֵּלֶךְ אַבְרָם, כַּאֲשֶׁר דִּבֶּר אֵלָיו יְהוָה; וַיֵּלֶךְ אִתּוֹ לוֹט: וְאַבְרָם, בֶּן־חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה, בְּצֵאתוֹ מֵחָרָן.",
+  "ipa": "vajˈjelɛx ʔavˈram kaʔaˈʃɛr dibˈbɛr ʔeˈlav ʔadonai vajˈjelɛx ʔitˈto lot vəʔavˈram bɛn xamˈmeʃ ʃaˈnim vəʃivˈʔim ʃaˈnah bətseˈto meχaˈran",
+  "koreanPronunciation": "바옐레크 아브람 카아쉐르 디베르 엘라브 아도나이 바옐레크 이토 롯 베아브람 벤 하메쉬 샤님 베쉬브임 샤나 베체토 메하란",
+  "modern": "그래서 아브람은 여호와께서 그에게 말씀하신 대로 떠났고, 롯도 그와 함께 떠났습니다. 아브람이 하란을 떠날 때 그의 나이는 75세였습니다.",
+  "words": [
+    {
+      "hebrew": "וַיֵּלֶךְ",
+      "meaning": "그리고 그가 갔다",
+      "ipa": "vajˈjelɛx",
+      "korean": "바옐레크",
+      "letters": "וַ(va) + יֵּ(ye) + לֶךְ(lech)",
+      "root": "ה-ל-ך (할라크 - 가다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"go_halach\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 10 32 L 54 32\" stroke=\"url(#go_halach)\" stroke-width=\"4\" marker-end=\"url(#arrow)\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"#4FACFE\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#4FACFE\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#00F2FE\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 가다, 걷다)",
+        "הֲלִיכָה (할리카 - 걸음, 보행)"
+      ]
+    },
+    {
+      "hebrew": "כַּאֲשֶׁר",
+      "meaning": "~처럼, ~대로",
+      "ipa": "kaʔaˈʃɛr",
+      "korean": "카아쉐르",
+      "letters": "כַּ(ka) + אֲשֶׁר(asher)",
+      "root": "כְּ + אֲשֶׁר (케 + 아쉐르)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"as_kaasher\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><rect x=\"16\" y=\"24\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#as_kaasher)\" opacity=\"0.5\" /><rect x=\"34\" y=\"24\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#as_kaasher)\" opacity=\"0.5\" /><path d=\"M 30 32 L 34 32\" stroke=\"#667EEA\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "כְּ (케 - ~처럼)",
+        "כָּמוֹ (카모 - ~같이)"
+      ]
+    },
+    {
+      "hebrew": "דִּבֶּר",
+      "meaning": "말씀하셨다",
+      "ipa": "dibˈbɛr",
+      "korean": "디베르",
+      "letters": "דִּ(di) + בֶּר(ber)",
+      "root": "ד-ב-ר (다바르 - 말하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak_diber\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"12\" fill=\"url(#speak_diber)\" opacity=\"0.3\" /><path d=\"M 20 32 Q 26 28 32 32 Q 38 36 44 32\" stroke=\"#FA709A\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "דָּבָר (다바르 - 말씀, 사물)",
+        "דִּבּוּר (디부르 - 말, 발화)"
+      ]
+    },
+    {
+      "hebrew": "לוֹט",
+      "meaning": "롯 (아브람의 조카)",
+      "ipa": "lot",
+      "korean": "롯",
+      "letters": "לוֹ(lo) + ט(t)",
+      "root": "לוֹט (롯 - 베일, 덮개)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#lot)\" opacity=\"0.6\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#lot)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לוֹט (롯 - 롯, 가리개)",
+        "הִתְלוֹטֵט (히트로테트 - 싸우다)"
+      ]
+    },
+    {
+      "hebrew": "בֶּן־חָמֵשׁ",
+      "meaning": "75세 (5와 70의 아들)",
+      "ipa": "bɛn xamˈmeʃ",
+      "korean": "벤 하메쉬",
+      "letters": "בֶּן(ben) + חָ(cha) + מֵשׁ(mesh)",
+      "root": "בֵּן (벤 - 아들)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"age\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><text x=\"32\" y=\"40\" font-size=\"24\" text-anchor=\"middle\" fill=\"url(#age)\" font-weight=\"bold\">75</text></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "שָׁנָה (샤나 - 년, 해)"
+      ]
+    },
+    {
+      "hebrew": "בְּצֵאתוֹ",
+      "meaning": "그가 떠날 때",
+      "ipa": "bətseˈto",
+      "korean": "베체토",
+      "letters": "בְּ(be) + צֵא(tse) + תוֹ(to)",
+      "root": "י-צ-א (야차 - 나가다)",
+      "grammar": "동사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_yatsa\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"32\" height=\"32\" rx=\"4\" fill=\"url(#exit_yatsa)\" opacity=\"0.2\" /><path d=\"M 28 32 L 52 32\" stroke=\"#667EEA\" stroke-width=\"3\" marker-end=\"url(#arrow)\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"#764BA2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출구, 출발)"
+      ]
+    },
+    {
+      "hebrew": "מֵחָרָן",
+      "meaning": "하란으로부터",
+      "ipa": "meχaˈran",
+      "korean": "메하란",
+      "letters": "מֵ(me) + חָ(cha) + רָן(ran)",
+      "root": "חָרָן (하란 - 지명)",
+      "grammar": "전치사 + 고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"haran\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><rect x=\"12\" y=\"28\" width=\"20\" height=\"24\" fill=\"url(#haran)\" opacity=\"0.5\" /><path d=\"M 12 28 L 22 16 L 32 28 Z\" fill=\"#8B4513\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חָרָן (하란 - 도시 이름)",
+        "חָרָה (하라 - 타다, 화나다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:4는 믿음의 순종을 보여주는 아름다운 구절입니다. '그래서 아브람은... 떠났다'는 짧은 문장은 엄청난 결단을 담고 있습니다. 75세의 나이에 고향과 가족을 떠나는 것은 쉬운 일이 아니었지만, 아브람은 주저하지 않고 순종했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "즉각적인 순종 - וַיֵּלֶךְ (바옐레크)",
+        "description": "히브리어 'vav-consecutive' 구조는 즉각적인 행동을 나타냅니다. 하나님이 말씀하시자 아브람은 곧바로 순종했습니다. 지체하거나 변명하지 않았습니다.",
+        "points": [
+          "진정한 믿음은 즉각적인 순종으로 나타납니다",
+          "아브람은 목적지를 몰랐지만 명령하신 분을 신뢰했습니다",
+          "순종은 이해보다 신뢰에 기초합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "롯과 함께 - 불완전한 순종",
+        "description": "하나님은 아브람에게 '아버지의 집'을 떠나라고 하셨는데, 아브람은 조카 롯을 데리고 갔습니다. 이는 후에 갈등의 씨앗이 됩니다(창 13장).",
+        "points": [
+          "우리의 순종도 종종 불완전합니다",
+          "하나님은 불완전한 순종도 받으시고 인도하십니다",
+          "그러나 불순종의 결과는 나중에 나타납니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "75세의 새 출발",
+        "description": "아브람이 하란을 떠날 때의 나이가 구체적으로 기록되어 있습니다. 고대 근동에서 75세는 매우 고령이었습니다. 하나님의 부르심에는 나이 제한이 없습니다.",
+        "points": [
+          "하나님의 계획에는 '너무 늦음'이 없습니다",
+          "새로운 시작은 언제든지 가능합니다",
+          "믿음은 나이와 상관없이 하나님을 신뢰하는 것입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "하란에서의 출발 - 과거와의 단절",
+        "description": "하란은 아브람의 아버지 데라가 멈춘 곳입니다(창 11:31-32). 데라는 가나안으로 가다가 하란에서 머물렀고, 거기서 죽었습니다. 아브람은 아버지가 이루지 못한 여정을 완수합니다.",
+        "points": [
+          "우리는 이전 세대가 이루지 못한 것을 완성할 수 있습니다",
+          "하나님의 부르심은 세대를 넘어 계속됩니다",
+          "과거의 실패가 미래를 결정하지 않습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 75세의 나이에도 하나님의 말씀에 순종했을까요?",
+      "answer": "아브람은 하나님을 정말 깊이 신뢰했어요. 비록 나이가 많았지만, '하나님이 함께 계시면 무엇이든 할 수 있어'라고 믿었답니다. 마치 우리가 사랑하는 부모님의 말씀을 믿고 따르는 것처럼, 아브람도 하나님을 그렇게 믿었어요. 그리고 하나님은 정말로 아브람을 축복해 주셨어요. 우리도 어리든 나이가 많든, 하나님을 믿고 따르면 하나님께서 우리와 함께하시며 놀라운 일을 하실 수 있어요!",
+      "bibleReferences": [
+        "히브리서 11:8 - '믿음으로 아브라함은 부르심을 받았을 때에 순종하여 장래의 유업으로 받을 땅에 나아갈새 갈 바를 알지 못하고 나아갔으며'",
+        "야고보서 2:21-23 - '우리 조상 아브라함이 그 아들 이삭을 제단에 바칠 때에 행함으로 의롭다 하심을 받은 것이 아니냐 네가 보거니와 믿음이 그의 행함과 함께 일하고 행함으로 믿음이 온전하게 되었느니라'",
+        "창세기 15:6 - '아브람이 여호와를 믿으니 여호와께서 이를 그의 의로 여기시고'",
+        "로마서 4:20-21 - '믿음이 없어 하나님의 약속을 의심하지 않고 믿음으로 견고하여져서 하나님께 영광을 돌리며 약속하신 그것을 또한 능히 이루실 줄을 확신하였으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:4는 믿음과 행함의 관계를 보여줍니다. 야고보서는 '행함이 없는 믿음은 죽은 것'(약 2:17)이라고 말하며, 아브라함을 예로 듭니다. 히브리서 11장의 '믿음의 장'도 아브라함의 순종으로 시작합니다. 아브람의 순종은 완벽하지 않았지만(롯을 데려감), 하나님은 그의 믿음을 받으시고 계속 인도하셨습니다. 이는 우리에게 위로가 됩니다 - 우리의 순종이 불완전해도 하나님은 우리를 포기하지 않으십니다. 또한 75세의 아브람은 우리에게 희망을 줍니다 - 하나님께 쓰임 받기에 너무 늦은 나이는 없습니다."
+    }
+  }
+}

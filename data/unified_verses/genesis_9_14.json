@@ -1,0 +1,144 @@
+{
+  "id": "genesis_9_14",
+  "reference": "창세기 9:14",
+  "hebrew": "וְהָיָה, בְּעַנְנִי עָנָן עַל-הָאָרֶץ, וְנִרְאֲתָה הַקֶּשֶׁת, בֶּעָנָן.",
+  "ipa": "vəhaˈja bəʕanˈni ʕaˈnan ʕal haˈʔarɛts vənirʔaˈta haqˈqɛʃɛt beʕaˈnan",
+  "koreanPronunciation": "베하야 베안니 아난 알 하아레츠 베니르아타 하케쉐트 베아난",
+  "modern": "내가 구름으로 땅을 덮을 때에 무지개가 구름 속에 나타나면",
+  "words": [
+    {
+      "hebrew": "וְהָיָה",
+      "meaning": "그리고 있을 것이다",
+      "ipa": "vəhaˈja",
+      "korean": "베하야",
+      "letters": "וְ(ve) + הָ(ha) + יָה(ya)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shall_be\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#shall_be)\" opacity=\"0.5\" /><path d=\"M 34 32 L 42 32\" stroke=\"url(#shall_be)\" stroke-width=\"4\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#shall_be)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "בְּעַנְנִי",
+      "meaning": "내가 구름을 일으킬 때",
+      "ipa": "bəʕanˈni",
+      "korean": "베안니",
+      "letters": "בְּ(be) + עַ(a) + נְ(ne) + נִי(ni)",
+      "root": "ע-נ-ן (아난)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring_clouds\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D3D3D3\" /><stop offset=\"50%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#808080\" /></linearGradient></defs><ellipse cx=\"20\" cy=\"24\" rx=\"10\" ry=\"8\" fill=\"url(#bring_clouds)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"20\" rx=\"14\" ry=\"10\" fill=\"url(#bring_clouds)\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"24\" rx=\"12\" ry=\"8\" fill=\"url(#bring_clouds)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"28\" rx=\"12\" ry=\"7\" fill=\"url(#bring_clouds)\" opacity=\"0.6\" /><path d=\"M 32 36 L 32 48\" stroke=\"#4169E1\" stroke-width=\"2\" stroke-dasharray=\"2,4\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עָנָן (아난 - 구름)",
+        "הֶעֱנִין (헤에닌 - 구름을 일으키다)"
+      ]
+    },
+    {
+      "hebrew": "עָנָן",
+      "meaning": "구름",
+      "ipa": "ʕaˈnan",
+      "korean": "아난",
+      "letters": "עָ(a) + נָן(nan)",
+      "root": "ע-נ-ן (아난)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cloud_white\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#F0F0F0\" /><stop offset=\"100%\" stop-color=\"#D3D3D3\" /></linearGradient></defs><ellipse cx=\"18\" cy=\"28\" rx=\"12\" ry=\"10\" fill=\"url(#cloud_white)\" /><ellipse cx=\"32\" cy=\"24\" rx=\"16\" ry=\"12\" fill=\"url(#cloud_white)\" /><ellipse cx=\"46\" cy=\"28\" rx=\"12\" ry=\"10\" fill=\"url(#cloud_white)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"14\" ry=\"9\" fill=\"url(#cloud_white)\" /></svg>",
+      "relatedWords": [
+        "עָב (아브 - 먹구름)",
+        "שַׁחַק (샤하크 - 구름, 하늘)"
+      ]
+    },
+    {
+      "hebrew": "וְנִרְאֲתָה",
+      "meaning": "그리고 나타날 것이다",
+      "ipa": "vənirʔaˈta",
+      "korean": "베니르아타",
+      "letters": "וְ(ve) + נִ(ni) + רְ(re) + אֲ(a) + תָה(ta)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"appear\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#appear)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#appear)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#appear)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#appear)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "נִרְאָה (니르아 - 나타나다)"
+      ]
+    },
+    {
+      "hebrew": "הַקֶּשֶׁת",
+      "meaning": "그 무지개",
+      "ipa": "haqˈqɛʃɛt",
+      "korean": "하케쉐트",
+      "letters": "הַ(ha) + קֶּ(qe) + שֶׁת(shet)",
+      "root": "קֶשֶׁת (케쉐트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rainbow_arc\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"16.67%\" stop-color=\"#FF7F00\" /><stop offset=\"33.33%\" stop-color=\"#FFFF00\" /><stop offset=\"50%\" stop-color=\"#00FF00\" /><stop offset=\"66.67%\" stop-color=\"#0000FF\" /><stop offset=\"83.33%\" stop-color=\"#4B0082\" /><stop offset=\"100%\" stop-color=\"#9400D3\" /></linearGradient></defs><path d=\"M 8 52 Q 32 12 56 52\" fill=\"none\" stroke=\"url(#rainbow_arc)\" stroke-width=\"10\" stroke-linecap=\"round\" opacity=\"0.9\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.2))\" /></svg>",
+      "relatedWords": [
+        "קֶשֶׁת (케쉐트 - 활, 무지개)",
+        "גֶּשֶׁם (게쉠 - 비)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 무지개가 나타나는 상황을 구체적으로 설명하십니다. '내가 구름으로 땅을 덮을 때'라는 표현은 하나님이 자연 현상을 주관하심을 보여줍니다. 비구름과 무지개, 심판의 상징과 은혜의 표시가 함께 나타나는 역설적 장면입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְּעַנְנִי עָנָן (베안니 아난) - 내가 구름을 일으킬 때",
+        "description": "'안니'(내가 구름을 일으킨다)는 하나님이 자연 현상의 주인이심을 강조합니다. 구름은 우연히 생기는 것이 아니라 하나님이 주관하십니다. 이는 하나님의 섭리와 주권을 보여줍니다.",
+        "points": [
+          "모든 자연 현상은 하나님의 손 안에 있습니다",
+          "비와 구름도 하나님의 뜻대로 움직입니다",
+          "우연은 없고 하나님의 섭리만 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עַל-הָאָרֶץ (알 하아레츠) - 땅 위에",
+        "description": "구름이 '땅 위에' 있다는 것은 비가 올 가능성을 의미합니다. 노아 후손들에게 비구름은 두려움의 대상이었을 것입니다. '또 홍수가 오는 게 아닐까?' 하는 걱정이 들었을 테니까요.",
+        "points": [
+          "비구름은 노아 세대에게 트라우마였을 것입니다",
+          "하나님은 그들의 두려움을 아십니다",
+          "바로 그 순간에 무지개로 위로하십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְנִרְאֲתָה הַקֶּשֶׁת (베니르아타 하케쉐트) - 무지개가 나타날 것",
+        "description": "'나타나다'(니르아)는 수동태로, 무지개가 스스로 나타나는 것이 아니라 하나님이 보여주시는 것임을 암시합니다. 무지개는 자연 법칙(빛의 굴절)에 따라 생기지만, 동시에 하나님의 섭리로 우리에게 보여집니다.",
+        "points": [
+          "무지개는 하나님이 보여주시는 표시입니다",
+          "자연 법칙과 하나님의 섭리가 조화를 이룹니다",
+          "우리는 무지개를 볼 때 하나님을 기억해야 합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "심판 속의 은혜",
+        "description": "비구름(심판의 가능성)과 무지개(은혜의 약속)가 동시에 나타나는 이 장면은 하나님의 성품을 완벽하게 보여줍니다. 하나님은 공의로우시지만 자비로우시고, 심판하시지만 동시에 구원하십니다.",
+        "points": [
+          "심판과 은혜는 동시에 존재합니다",
+          "하나님은 진노 속에서도 긍휼을 기억하십니다(합 3:2)",
+          "십자가는 이 원리의 궁극적 표현입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 구름을 일으킬 때마다 무지개를 보여주시나요?",
+      "answer": "하나님은 우리가 걱정하지 않기를 원하시기 때문이에요. 노아 시대 사람들은 비만 오면 '또 큰 홍수가 올까?' 하고 무서워했을 거예요. 특히 검은 구름이 몰려오면 정말 무서웠겠죠. 그래서 하나님은 바로 그때, 비가 온 후에 무지개를 보여주셔서 '걱정하지 마! 나의 약속을 기억해!'라고 말씀하시는 거예요. 무지개는 하나님의 '괜찮아' 메시지랍니다. 비가 와도, 구름이 몰려와도, 우리는 하나님의 약속을 믿고 평안할 수 있어요.",
+      "bibleReferences": [
+        "시편 135:6-7 - '여호와께서 무릇 기뻐하시는 일을 천지와 바다와 모든 깊은 데서 다 행하셨도다 안개를 땅 끝에서 일으키시며 비를 위하여 번개를 만드시며'",
+        "욥기 37:11-13 - '그가 습기를 빽빽한 구름에 실으시고... 주께서 인도하시는 대로 두루 행하게 하사 그의 명령을 세상에 행하게 하시나니 혹은 징벌을 위하여 혹은 토지를 위하여 혹은 긍휼을 베푸시기 위하여 그것이 이르게 하시느니라'",
+        "하박국 3:2 - '여호와여 내가 주께 대한 소문을 듣고 놀랐나이다 여호와여 주는 주의 일을 이 수년 내에 부흥하게 하옵소서 이 수년 내에 나타내시옵소서 진노 중에라도 긍휼을 잊지 마옵소서'",
+        "이사야 54:7-8 - '내가 잠시 너를 버렸으나 큰 긍휼로 너를 모을 것이요 내가 넘치는 진노로 내 얼굴을 네게서 잠시 가리었으나 영원한 자비로 너를 긍휼히 여기리라'",
+        "예레미야애가 3:22-23 - '여호와의 인자와 긍휼이 무궁하시므로 우리가 진멸되지 아니함이니이다 이것들이 아침마다 새로우니 주의 성실하심이 크시도소이다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:14는 하나님의 섭리와 은혜의 조화를 보여줍니다. 하나님은 자연 현상을 주관하시면서(구름을 일으키심) 동시에 그것을 통해 자신의 약속을 확인하십니다(무지개를 보이심). 이는 일반 은총과 특별 은총의 결합입니다. 비구름과 무지개의 공존은 심판과 은혜의 역설을 보여줍니다. 하박국 3:2의 '진노 중에라도 긍휼을 잊지 마옵소서'라는 기도가 여기서 실현됩니다. 신약적 관점에서 이는 십자가를 예표합니다 - 하나님의 진노(구름)와 사랑(무지개)이 예수 그리스도 안에서 만났습니다. 그리스도는 우리를 향한 하나님의 진노를 받으셨고(구름), 이제 우리에게는 평화만 남았습니다(무지개). 로마서 5:1의 '의롭다 하심을 받았으므로 우리 주 예수 그리스도로 말미암아 하나님과 화평을 누리자'가 바로 이 의미입니다."
+    }
+  }
+}

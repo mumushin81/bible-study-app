@@ -1,0 +1,113 @@
+{
+  "id": "genesis_5_15",
+  "reference": "Genesis 5:15",
+  "hebrew": "וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ",
+  "ipa": "vajˈhi ˈjɛrɛd ʃətaˈjim vəʃiʃˈʃim ʃaˈna uməˈʔat ʃaˈna vajˈjolɛd ʔɛt haˈnox",
+  "koreanPronunciation": "바예히 예레드 쉐타임 베쉬쉬심 샤나 우메아트 샤나 바욜레드 에트 하노크",
+  "modern": "야렛은 162세에 에녹을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "יֶ֕רֶד",
+      "meaning": "야렛",
+      "ipa": "ˈjɛrɛd",
+      "korean": "예레드",
+      "letters": "יֶ(yɛ) + רֶד(rɛd)",
+      "root": "יָרַד (야라드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jared15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"#F5DEB3\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 28 Q 22 26 26 26 L 38 26 Q 42 26 42 28 L 42 48 Q 42 50 38 50 L 26 50 Q 22 50 22 48 Z\" fill=\"url(#jared15)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "יָרַד (야라드 - 내려가다)",
+        "יְרִידָה (예리다 - 하강)"
+      ]
+    },
+    {
+      "hebrew": "שְׁתַּ֧יִם וְשִׁשִּׁ֛ים",
+      "meaning": "62",
+      "ipa": "ʃətaˈjim vəʃiʃˈʃim",
+      "korean": "쉐타임 베쉬쉬심",
+      "letters": "שְׁ(shə) + תַּיִם(tajim) + וְ(və) + שִׁ(shi) + שִּׁים(shim)",
+      "root": "שְׁנַיִם + שֵׁשׁ (쉐나임 + 쉐쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sixty15\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C9FF\" /><stop offset=\"100%\" stop-color=\"#92FE9D\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#sixty15)\" filter=\"drop-shadow(0 6px 12px rgba(0, 201, 255, 0.5))\" /><text x=\"32\" y=\"44\" fill=\"#FFFFFF\" font-size=\"28\" font-weight=\"bold\" text-anchor=\"middle\" font-family=\"Arial\">62</text></svg>"
+    },
+    {
+      "hebrew": "מְאַ֣ת",
+      "meaning": "100",
+      "ipa": "məˈʔat",
+      "korean": "메아트",
+      "letters": "מְ(mə) + אַת(ʔat)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundred15\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient></defs><rect x=\"4\" y=\"8\" width=\"56\" height=\"48\" rx=\"6\" fill=\"url(#hundred15)\" filter=\"drop-shadow(0 6px 12px rgba(255, 165, 0, 0.5))\" /><text x=\"32\" y=\"44\" fill=\"#FFFFFF\" font-size=\"24\" font-weight=\"bold\" text-anchor=\"middle\" font-family=\"Arial\">100</text></svg>"
+    },
+    {
+      "hebrew": "חֲנֽוֹךְ",
+      "meaning": "에녹",
+      "ipa": "haˈnox",
+      "korean": "하노크",
+      "letters": "חֲ(ha) + נוֹךְ(nox)",
+      "root": "חָנַךְ (하나크)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"enoch15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"holy15\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#holy15)\" /><circle cx=\"32\" cy=\"22\" r=\"8\" fill=\"#FFE4B5\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 30 L 40 30 L 38 50 L 26 50 Z\" fill=\"url(#enoch15)\" filter=\"drop-shadow(0 4px 8px rgba(255, 215, 0, 0.6))\" /><g opacity=\"0.9\"><circle cx=\"32\" cy=\"8\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><path d=\"M 28 8 L 32 2 L 36 8\" fill=\"#FFFFFF\" opacity=\"0.7\" /></g></svg>",
+      "relatedWords": [
+        "חָנַךְ (하나크 - 헌신하다, 시작하다)",
+        "חִנּוּךְ (히누크 - 교육, 헌신)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 5장 15절은 야렛이 162세에 에녹을 낳았다는 기록입니다. 이는 매우 중요한 순간으로, '하나님과 동행한' 에녹의 탄생을 알리는 구절입니다. 타락의 시대('내려감')에 하나님께 헌신된('에녹') 사람이 태어났습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יֶרֶד (예레드) - 하강의 시대",
+        "description": "야렛('내려가다')의 이름은 그 시대의 영적 상황을 반영합니다. 인류의 죄가 깊어지고 타락이 심화되는 시기였습니다. 그러나 바로 이러한 어두운 시대에 하나님은 빛 되신 분을 예비하십니다.",
+        "points": [
+          "세상이 타락해도 하나님의 계획은 계속됩니다",
+          "어두운 시대일수록 빛이 더욱 필요합니다",
+          "하나님은 절망적인 상황에서도 소망을 주십니다",
+          "경건한 계보는 악한 시대에도 보존됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "162세 - 적절한 때",
+        "description": "야렛은 162세에 에녹을 낳았습니다. 이는 하나님께서 정하신 때에 에녹을 보내셨음을 의미합니다. 하나님의 시간표는 완벽하며, 그분은 가장 필요한 때에 가장 적절한 사람을 보내십니다.",
+        "points": [
+          "하나님의 때는 완벽합니다",
+          "하나님은 역사의 주관자이십니다",
+          "모든 일에는 하나님이 정하신 때가 있습니다",
+          "인내하며 하나님의 때를 기다려야 합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "חֲנוֹךְ (하노크/에녹) - 헌신된 자",
+        "description": "에녹의 이름은 '헌신하다', '시작하다', '교육하다'를 의미합니다. 그는 하나님께 완전히 헌신된 삶을 살았으며, 하나님과 동행하는 새로운 차원의 신앙을 보여주었습니다. 타락의 시대에 하나님께 온전히 헌신된 사람이 나타난 것입니다.",
+        "points": [
+          "헌신은 하나님과의 친밀한 관계의 시작입니다",
+          "에녹은 하나님과 동행하는 삶을 보여주었습니다",
+          "한 사람의 헌신이 시대를 변화시킬 수 있습니다",
+          "헌신된 삶은 하나님을 기쁘시게 합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "에녹은 왜 특별한가요?",
+      "answer": "에녹은 하나님과 아주 친한 친구였어요! 매일매일 하나님과 함께 시간을 보내고, 하나님이 좋아하시는 일을 했답니다. 마치 우리가 가장 친한 친구와 함께 있으면 행복한 것처럼, 에녹도 하나님과 함께 있는 것을 가장 좋아했어요. 그래서 하나님은 에녹을 너무 사랑하셔서, 죽지 않고 바로 하늘나라로 데려가셨어요! 이것은 우리에게도 하나님과 친한 친구가 될 수 있다는 것을 보여주는 거예요. 우리도 매일 기도하고 하나님과 대화하면, 에녹처럼 하나님과 가까운 친구가 될 수 있어요!",
+      "bibleReferences": [
+        "창세기 5:24 - '에녹이 하나님과 동행하더니 하나님이 그를 데려가시므로 세상에 있지 아니하였더라'",
+        "히브리서 11:5 - '믿음으로 에녹은 죽음을 보지 않고 옮겨졌으니 하나님이 그를 옮기심으로 다시 보이지 아니하였느니라 그는 옮겨지기 전에 하나님을 기쁘시게 하는 자라 하는 증거를 받았느니라'",
+        "미가 6:8 - '여호와께서 네게 구하시는 것은 오직 정의를 행하며 인자를 사랑하며 겸손하게 네 하나님과 함께 행하는 것이 아니냐'",
+        "야고보서 4:8 - '하나님을 가까이하라 그리하면 너희를 가까이하시리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 5장 15절은 하나님의 주권적 섭리를 보여줍니다. 타락이 심화되는 야렛('내려감')의 시대에, 하나님께 온전히 헌신된 에녹('헌신')이 태어난 것은 우연이 아닙니다. 이는 어둠이 깊을수록 하나님의 빛이 더욱 밝게 빛남을 보여주는 복음의 원리입니다. 에녹의 탄생은 인류 역사에서 전환점이 되었으며, 죽음을 보지 않고 하나님께로 옮겨간 그의 삶은 부활과 승천의 예표가 되었습니다. 이는 궁극적으로 죄와 죽음을 이기시고 승천하신 예수 그리스도를 가리키며, 그리스도 안에서 우리도 에녹처럼 하나님과 동행하며 영생을 누릴 수 있음을 보여줍니다."
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "id": "genesis_1_2",
+  "reference": "창세기 1:2",
+  "hebrew": "וְהָאָרֶץ, הָיְתָה תֹהוּ וָבֹהוּ, וְחֹשֶׁךְ, עַל-פְּנֵי תְהוֹם; וְרוּחַ אֱלֹהִים, מְרַחֶפֶת עַל-פְּנֵי הַמָּיִם.",
+  "ipa": "vəhaˈʔarɛts hajˈta ˈtohu vaˈvohu vəˈχoʃɛχ ʔal pəˈne təˈhom vəˈruaχ ʔɛloˈhim məraˈχɛfɛt ʔal pəˈne haˈmajim",
+  "koreanPronunciation": "베하아레츠 하예타 토후 바보후 베호쉐크 알 페네 테홈 베루아흐 엘로힘 메라헤페트 알 페네 하마임",
+  "modern": "땅은 혼돈하고 공허하며 어둠이 깊은 물 위에 있었고, 하나님의 영은 물 위를 운행하고 계셨습니다",
+  "words": [
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "meaning": "그리고 땅은",
+      "ipa": "vəhaˈʔarɛts",
+      "korean": "베하아레츠",
+      "letters": "וְ(ve) + הָ(ha) + אָ(a) + רֶ(re) + ץ(ts)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth1\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></radialGradient><linearGradient id=\"glow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#0277BD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#earth1)\" filter=\"drop-shadow(0 0 12px rgba(33, 150, 243, 0.8))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"28\" fill=\"url(#glow1)\" opacity=\"0.3\" /><path d=\"M 20 25 Q 28 20 35 25 Q 42 30 38 38 Q 35 45 28 42 Q 22 40 20 35 Z\" fill=\"#1B5E20\" opacity=\"0.7\" /><path d=\"M 38 18 Q 45 22 48 28 Q 50 35 45 40 L 42 35 Q 45 28 40 23 Z\" fill=\"#1B5E20\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙)",
+        "עָפָר (아파르 - 먼지)"
+      ]
+    },
+    {
+      "hebrew": "תֹהוּ וָבֹהוּ",
+      "meaning": "혼돈과 공허",
+      "ipa": "ˈtohu vaˈvohu",
+      "korean": "토후 바보후",
+      "letters": "תֹּ(to) + הוּ(hu) + וָ(va) + בֹ(vo) + הוּ(hu)",
+      "root": "תֹּהוּ (토후) + בֹּהוּ (보후)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"chaos1\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#212121\" /></radialGradient><linearGradient id=\"void1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#616161\" /><stop offset=\"50%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#212121\" /></linearGradient><linearGradient id=\"swirl1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#chaos1)\" opacity=\"0.9\" /><path d=\"M 32 8 Q 48 16 56 32 Q 48 48 32 56 Q 16 48 8 32 Q 16 16 32 8 Z\" fill=\"none\" stroke=\"url(#swirl1)\" stroke-width=\"2\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(117, 117, 117, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#void1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 6px rgba(33, 33, 33, 0.9))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"12\" fill=\"none\" stroke=\"#757575\" stroke-width=\"1.5\" opacity=\"0.4\" transform=\"rotate(30 32 32)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"12\" fill=\"none\" stroke=\"#757575\" stroke-width=\"1.5\" opacity=\"0.4\" transform=\"rotate(-30 32 32)\" /></svg>",
+      "relatedWords": [
+        "שְׁאוֹל (쉐올 - 스올, 깊은 곳)",
+        "מִדְבָּר (미드바르 - 광야)"
+      ]
+    },
+    {
+      "hebrew": "וְחֹשֶׁךְ",
+      "meaning": "그리고 어둠",
+      "ipa": "vəˈχoʃɛχ",
+      "korean": "베호쉐크",
+      "letters": "וְ(ve) + חֹ(cho) + שֶׁ(she) + ךְ(kh)",
+      "root": "חֹשֶׁךְ (호쉐크)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"dark1\"><stop offset=\"0%\" stop-color=\"#311B92\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"shadow1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1A237E\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient><radialGradient id=\"dim1\"><stop offset=\"0%\" stop-color=\"#424242\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#dark1)\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#shadow1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 16px rgba(0, 0, 0, 0.9))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"#000000\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#dim1)\" /><path d=\"M 8 32 Q 16 28 24 32 Q 16 36 8 32 Z\" fill=\"#1A237E\" opacity=\"0.4\" /><path d=\"M 56 32 Q 48 28 40 32 Q 48 36 56 32 Z\" fill=\"#1A237E\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "לַיְלָה (라일라 - 밤)",
+        "אֹפֶל (오펠 - 암흑)"
+      ]
+    },
+    {
+      "hebrew": "תְהוֹם",
+      "meaning": "깊은 물, 심연",
+      "ipa": "təˈhom",
+      "korean": "테홈",
+      "letters": "תְּ(te) + הוֹ(ho) + ם(m)",
+      "root": "תְּהוֹם (테홈)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"deep1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#006064\" /><stop offset=\"50%\" stop-color=\"#004D40\" /><stop offset=\"100%\" stop-color=\"#000051\" /></linearGradient><radialGradient id=\"abyss1\"><stop offset=\"0%\" stop-color=\"#00838F\" opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#000051\" /></radialGradient><linearGradient id=\"wave1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#0097A7\" /><stop offset=\"50%\" stop-color=\"#00838F\" /><stop offset=\"100%\" stop-color=\"#006064\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#deep1)\" /><circle cx=\"32\" cy=\"40\" r=\"20\" fill=\"url(#abyss1)\" filter=\"drop-shadow(0 4px 12px rgba(0, 0, 0, 0.8))\" /><path d=\"M 0 20 Q 16 15 32 20 Q 48 25 64 20 L 64 28 Q 48 33 32 28 Q 16 23 0 28 Z\" fill=\"url(#wave1)\" opacity=\"0.6\" /><path d=\"M 0 32 Q 16 27 32 32 Q 48 37 64 32 L 64 40 Q 48 45 32 40 Q 16 35 0 40 Z\" fill=\"url(#wave1)\" opacity=\"0.4\" /><ellipse cx=\"32\" cy=\"48\" rx=\"18\" ry=\"8\" fill=\"#000051\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָם (얌 - 바다)",
+        "נָהָר (나하르 - 강)"
+      ]
+    },
+    {
+      "hebrew": "רוּחַ אֱלֹהִים",
+      "meaning": "하나님의 영",
+      "ipa": "ˈruaχ ʔɛloˈhim",
+      "korean": "루아흐 엘로힘",
+      "letters": "רוּ(ru) + חַ(ach) + אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "רוּחַ (루아흐) + אֱלֹהִים (엘로힘)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"spirit1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#E1F5FE\" /><stop offset=\"100%\" stop-color=\"#81D4FA\" /></radialGradient><linearGradient id=\"wind1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#B3E5FC\" /><stop offset=\"50%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" /></linearGradient><linearGradient id=\"divine1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#spirit1)\" opacity=\"0.3\" filter=\"drop-shadow(0 0 16px rgba(129, 212, 250, 0.8))\" /><path d=\"M 8 32 Q 16 28 24 32 Q 32 36 40 32 Q 48 28 56 32\" stroke=\"url(#wind1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" stroke-linecap=\"round\" /><path d=\"M 12 24 Q 20 20 28 24 Q 36 28 44 24 Q 52 20 60 24\" stroke=\"url(#wind1)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.6\" stroke-linecap=\"round\" /><path d=\"M 12 40 Q 20 36 28 40 Q 36 44 44 40 Q 52 36 60 40\" stroke=\"url(#wind1)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.6\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#divine1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 20 L 34 26 L 40 26 L 35 30 L 37 36 L 32 32 L 27 36 L 29 30 L 24 26 L 30 26 Z\" fill=\"url(#divine1)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נְשָׁמָה (네샤마 - 숨, 생명)",
+        "רוּחַ הַקֹּדֶשׁ (루아흐 하코데쉬 - 성령)"
+      ]
+    },
+    {
+      "hebrew": "מְרַחֶפֶת",
+      "meaning": "운행하다, 맴돌다",
+      "ipa": "məraˈχɛfɛt",
+      "korean": "메라헤페트",
+      "letters": "מְ(me) + רַ(ra) + חֶ(che) + פֶ(fe) + ת(t)",
+      "root": "ר-ח-פ (라하프)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hover1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#90CAF9\" /></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#64B5F6\" opacity=\"0\" /></radialGradient><linearGradient id=\"wing1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E1F5FE\" /><stop offset=\"100%\" stop-color=\"#B3E5FC\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"30\" ry=\"12\" fill=\"url(#glow2)\" opacity=\"0.4\" /><path d=\"M 32 28 Q 20 20 8 24 Q 16 28 20 32 Q 24 28 32 32 Z\" fill=\"url(#wing1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(100, 181, 246, 0.4))\" /><path d=\"M 32 28 Q 44 20 56 24 Q 48 28 44 32 Q 40 28 32 32 Z\" fill=\"url(#wing1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(100, 181, 246, 0.4))\" /><ellipse cx=\"32\" cy=\"24\" rx=\"6\" ry=\"8\" fill=\"url(#hover1)\" /><circle cx=\"30\" cy=\"22\" r=\"1.5\" fill=\"#1976D2\" /><circle cx=\"34\" cy=\"22\" r=\"1.5\" fill=\"#1976D2\" /><path d=\"M 32 26 Q 32 28 32 30\" stroke=\"#FFB300\" stroke-width=\"1.5\" stroke-linecap=\"round\" /><path d=\"M 8 24 Q 12 22 16 24 Q 20 26 20 32\" stroke=\"url(#wing1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 56 24 Q 52 22 48 24 Q 44 26 44 32\" stroke=\"url(#wing1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עוּף (우프 - 날다)",
+        "נָשָׂא (나사 - 올리다)"
+      ]
+    },
+    {
+      "hebrew": "הַמָּיִם",
+      "meaning": "물들",
+      "ipa": "haˈmajim",
+      "korean": "하마임",
+      "letters": "הַ(ha) + מָּ(ma) + יִם(yim)",
+      "root": "מַיִם (마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#29B6F6\" /><stop offset=\"100%\" stop-color=\"#039BE5\" /></linearGradient><radialGradient id=\"drop1\"><stop offset=\"0%\" stop-color=\"#E1F5FE\" /><stop offset=\"50%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#29B6F6\" /></radialGradient><linearGradient id=\"ripple1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" opacity=\"0.6\" /><stop offset=\"50%\" stop-color=\"#29B6F6\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" opacity=\"0.6\" /></linearGradient></defs><rect width=\"64\" height=\"32\" y=\"32\" fill=\"url(#water1)\" /><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"4\" fill=\"url(#ripple1)\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"3\" fill=\"url(#ripple1)\" opacity=\"0.4\" /><path d=\"M 32 12 Q 28 20 28 26 Q 28 32 32 32 Q 36 32 36 26 Q 36 20 32 12 Z\" fill=\"url(#drop1)\" filter=\"drop-shadow(2px 4px 6px rgba(3, 155, 229, 0.5))\" /><ellipse cx=\"32\" cy=\"18\" rx=\"2\" ry=\"3\" fill=\"#FFFFFF\" opacity=\"0.7\" /><path d=\"M 20 44 Q 24 40 28 44 Q 32 48 36 44 Q 40 40 44 44\" stroke=\"url(#water1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" stroke-linecap=\"round\" /><circle cx=\"16\" cy=\"52\" r=\"2\" fill=\"#81D4FA\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"52\" r=\"2\" fill=\"#81D4FA\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מַעְיָן (마얀 - 샘)",
+        "נָחַל (나할 - 시내)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:2는 창조 이전의 땅의 상태를 묘사합니다. '토후 바보후'(혼돈과 공허)는 질서가 없고 아직 형태를 갖추지 못한 상태를 의미하며, 하나님의 영이 이 혼돈 위를 운행하시며 곧 이어질 창조의 질서를 준비하고 계심을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תֹהוּ וָבֹהוּ (토후 바보후) - 혼돈과 공허의 상태",
+        "description": "이 히브리어 표현은 음운적으로 유사한 두 단어를 연결하여 완전한 무질서와 형태 없음을 강조합니다. '토후'는 황폐함과 혼란을, '보후'는 텅 빔과 공허함을 의미하며, 함께 사용되어 창조 이전의 절대적인 무질서 상태를 나타냅니다.",
+        "points": [
+          "창조 이전의 땅은 형태도 목적도 없는 혼돈 상태였습니다",
+          "이 표현은 이사야 34:11과 예레미야 4:23에서도 심판의 결과로 사용됩니다",
+          "하나님의 창조는 이 혼돈에 질서와 아름다움을 부여하는 과정입니다",
+          "우리의 삶도 하나님의 개입 없이는 혼돈과 공허함에 머물 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חֹשֶׁךְ (호쉐크) - 빛이 오기 전의 어둠",
+        "description": "어둠은 단순히 빛의 부재가 아니라 혼돈의 일부이며, 하나님의 창조 질서가 아직 시작되지 않은 상태를 상징합니다. 3절에서 '빛이 있으라'는 말씀으로 이 어둠이 물리치게 됩니다.",
+        "points": [
+          "어둠은 성경에서 무질서, 위험, 악의 상징으로 사용됩니다",
+          "하나님의 첫 창조 행위는 빛을 만들어 어둠을 물리치는 것이었습니다",
+          "영적으로 이 어둠은 하나님을 알지 못하는 상태를 의미합니다",
+          "그리스도는 '세상의 빛'으로 오셔서 이 영적 어둠을 물리치셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "רוּחַ אֱלֹהִים (루아흐 엘로힘) - 하나님의 영의 운행",
+        "description": "'루아흐'는 영, 바람, 숨을 모두 의미할 수 있는 단어입니다. '메라헤페트'(운행하다)는 새가 알을 품듯이 맴도는 것을 의미하며, 하나님의 영이 창조를 준비하고 보호하며 생명을 부여하실 준비를 하고 계심을 나타냅니다.",
+        "points": [
+          "하나님의 영은 혼돈 속에서도 질서를 가져올 준비를 하고 계셨습니다",
+          "새가 둥지를 품듯이 하나님은 창조를 돌보시고 보호하십니다",
+          "성령은 신약에서도 새로운 창조와 거듭남의 역할을 하십니다",
+          "하나님의 영은 지금도 우리의 혼란한 삶 위를 운행하며 변화를 준비하십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "תְהוֹם (테홈) - 깊은 물, 심연",
+        "description": "'테홈'은 깊고 측량할 수 없는 물을 의미하며, 고대 근동 문화에서는 혼돈의 힘을 상징했습니다. 하지만 성경은 이 심연도 하나님의 통제 아래 있으며, 하나님의 영이 그 위를 운행하신다고 선언합니다.",
+        "points": [
+          "고대 세계에서 깊은 물은 두려움과 혼돈의 상징이었습니다",
+          "하나님은 이 심연을 창조하시고 통제하시는 분이십니다",
+          "시편 104:5-9에서 하나님은 물에 경계를 정하시는 분으로 묘사됩니다",
+          "우리의 삶에서 마주하는 '깊은 물'같은 어려움도 하나님의 주권 아래 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 세상을 처음부터 아름답게 만들지 않고 혼돈한 상태로 시작하셨을까요?",
+      "answer": "하나님은 우리에게 중요한 것을 보여주시고 싶으셨어요. 혼란스럽고 어두운 상태에서 시작하셔서, 하나님께서 질서와 빛과 아름다움을 만드시는 것을 보여주셨어요. 마치 화가가 빈 캔버스에서 시작해서 아름다운 그림을 그리는 것처럼, 하나님도 아무것도 없는 곳에서 멋진 세상을 만드셨답니다. 이것은 하나님이 얼마나 능력 있으시고 창조적이신지를 보여주는 거예요. 우리 마음이 혼란스러울 때도 하나님은 평안과 질서를 주실 수 있으세요.",
+      "bibleReferences": [
+        "시편 104:30 - '주의 영을 보내어 그들을 창조하사 지면을 새롭게 하시나이다'",
+        "고린도후서 4:6 - '어둠에 빛이 비치라 말씀하셨던 그 하나님께서 예수 그리스도의 얼굴에 있는 하나님의 영광을 아는 빛을 우리 마음에 비추셨느니라'",
+        "요한복음 1:5 - '빛이 어둠에 비치되 어둠이 깨닫지 못하더라'",
+        "로마서 8:2 - '생명의 성령의 법이 죄와 사망의 법에서 너를 해방하였음이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1:2는 하나님의 창조가 혼돈에서 질서로, 어둠에서 빛으로 나아가는 과정임을 보여줍니다. 하나님의 영이 혼돈 위를 운행하신다는 것은 하나님께서 모든 무질서와 어둠을 통제하시며, 그것을 아름다운 창조로 변화시키실 수 있다는 희망의 메시지입니다. 이는 우리의 영적 거듭남에도 적용됩니다 - 성령께서 우리의 혼란한 삶 위를 운행하시며 새로운 피조물로 만드십니다(고린도후서 5:17)."
+    }
+  }
+}

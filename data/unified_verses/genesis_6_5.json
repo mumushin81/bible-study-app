@@ -1,0 +1,199 @@
+{
+  "id": "genesis_6_5",
+  "reference": "창세기 6:5",
+  "hebrew": "וַיַּרְא יְהוָה, כִּי רַבָּה רָעַת הָאָדָם בָּאָרֶץ; וְכָל־יֵצֶר מַחְשְׁבֹת לִבּוֹ, רַק רַע כָּל־הַיּוֹם.",
+  "ipa": "vaˈjar jehoˈva ki raˈba raˈʔat haʔaˈdam baˈarɛts vəxol ˈjɛtsɛr maχʃəˈvot liˈbo raq raˈʔ kol haˈjom",
+  "koreanPronunciation": "바야르 여호와 키 라바 라아트 하아담 바아레츠 베콜 예체르 마흐쉬보트 리보 라크 라 콜 하욤",
+  "modern": "여호와께서 사람의 죄악이 세상에 가득하고, 그 마음의 생각과 모든 계획이 항상 악한 것뿐임을 보셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보셨다",
+      "ipa": "vaˈjar",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사 - 와우 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"saw_vayar\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"22\" ry=\"14\" fill=\"url(#saw_vayar)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#saw_vayar)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#01579B\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "רֹאֶה (로에 - 보는 자)"
+      ]
+    },
+    {
+      "hebrew": "רַבָּה",
+      "meaning": "많다, 크다",
+      "ipa": "raˈba",
+      "korean": "라바",
+      "letters": "רַ(ra) + בָּה(ba)",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "형용사 - 여성형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"great_rabah\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#great_rabah)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#great_rabah)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#great_rabah)\" opacity=\"0.1\" /></svg>",
+      "relatedWords": [
+        "רַב (라브 - 많은)",
+        "רָבָה (라바 - 증가하다)"
+      ]
+    },
+    {
+      "hebrew": "רָעַת",
+      "meaning": "악, 죄악",
+      "ipa": "raˈʔat",
+      "korean": "라아트",
+      "letters": "רָ(ra) + עַת(at)",
+      "root": "ר-ע-ע (라아)",
+      "grammar": "명사 - 연계형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"evil_raat\"><stop offset=\"0%\" stop-color=\"#434343\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#evil_raat)\" opacity=\"0.7\" /><path d=\"M 20 24 L 28 32 L 20 40\" stroke=\"#FF0000\" stroke-width=\"3\" fill=\"none\" /><path d=\"M 44 24 L 36 32 L 44 40\" stroke=\"#FF0000\" stroke-width=\"3\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "רַע (라 - 악한)",
+        "רָעָה (라아 - 악, 재앙)"
+      ]
+    },
+    {
+      "hebrew": "וְכָל־יֵצֶר",
+      "meaning": "그리고 모든 상상, 계획",
+      "ipa": "vəxol ˈjɛtsɛr",
+      "korean": "베콜 예체르",
+      "letters": "וְ(ve) + כָל(kol) + יֵ(ye) + צֶר(tser)",
+      "root": "י-צ-ר (야차르)",
+      "grammar": "명사 - 형상, 계획",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"imagination_yetser\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#imagination_yetser)\" stroke-width=\"2\" opacity=\"0.3\" /><path d=\"M 24 28 Q 32 20 40 28\" stroke=\"url(#imagination_yetser)\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 24 36 Q 32 44 40 36\" stroke=\"url(#imagination_yetser)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "יָצַר (야차르 - 형성하다)",
+        "יֹצֵר (요체르 - 창조자)"
+      ]
+    },
+    {
+      "hebrew": "מַחְשְׁבֹת",
+      "meaning": "생각들, 계획들",
+      "ipa": "maχʃəˈvot",
+      "korean": "마흐쉬보트",
+      "letters": "מַ(ma) + חְ(χ) + שְׁ(sh) + בֹת(vot)",
+      "root": "ח-ש-ב (하샤브)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"thoughts_machshavot\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></radialGradient></defs><circle cx=\"20\" cy=\"24\" r=\"8\" fill=\"url(#thoughts_machshavot)\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"28\" r=\"10\" fill=\"url(#thoughts_machshavot)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"44\" r=\"12\" fill=\"url(#thoughts_machshavot)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "חָשַׁב (하샤브 - 생각하다)",
+        "מַחְשָׁבָה (마흐샤바 - 생각)"
+      ]
+    },
+    {
+      "hebrew": "לִבּוֹ",
+      "meaning": "그의 마음",
+      "ipa": "liˈbo",
+      "korean": "리보",
+      "letters": "לִ(li) + בּוֹ(bo)",
+      "root": "לֵב (레브)",
+      "grammar": "명사 - 소유격",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heart_libo\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><path d=\"M 32 52 L 12 32 Q 12 16 24 16 Q 32 16 32 24 Q 32 16 40 16 Q 52 16 52 32 Z\" fill=\"url(#heart_libo)\" /></svg>",
+      "relatedWords": [
+        "לֵב (레브 - 마음)",
+        "לֵבָב (레바브 - 마음)"
+      ]
+    },
+    {
+      "hebrew": "רַק",
+      "meaning": "오직, 단지",
+      "ipa": "raq",
+      "korean": "라크",
+      "letters": "רַק(raq)",
+      "root": "רַק (라크)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"only_raq\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#only_raq)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#only_raq)\" stroke-width=\"2\" stroke-dasharray=\"4 4\" /></svg>",
+      "relatedWords": [
+        "אַךְ (아크 - 단지)",
+        "לְבַד (레바드 - 홀로)"
+      ]
+    },
+    {
+      "hebrew": "רַע",
+      "meaning": "악한",
+      "ipa": "raˈʔ",
+      "korean": "라",
+      "letters": "רַע(ra)",
+      "root": "ר-ע-ע (라아)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"evil_ra\"><stop offset=\"0%\" stop-color=\"#000000\" /><stop offset=\"100%\" stop-color=\"#434343\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#evil_ra)\" /><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"44\" stroke=\"#FF0000\" stroke-width=\"3\" /><line x1=\"44\" y1=\"20\" x2=\"20\" y2=\"44\" stroke=\"#FF0000\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "רָעָה (라아 - 악)",
+        "רָשָׁע (라샤 - 악한 자)"
+      ]
+    },
+    {
+      "hebrew": "כָּל־הַיּוֹם",
+      "meaning": "항상, 온종일",
+      "ipa": "kol haˈjom",
+      "korean": "콜 하욤",
+      "letters": "כָּל(kol) + הַ(ha) + יּוֹם(yom)",
+      "root": "יוֹם (욤)",
+      "grammar": "시간 표현",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"allday_kolhayom\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#allday_kolhayom)\" stroke-width=\"3\" /><path d=\"M 32 12 L 32 32 L 44 32\" stroke=\"url(#allday_kolhayom)\" stroke-width=\"2.5\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "תָּמִיד (타미드 - 항상)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 노아 홍수의 직접적인 원인을 설명합니다. 하나님께서 인간의 내면을 보셨을 때, 그들의 생각과 계획이 '오직 악할 뿐'이었습니다. 이는 전적 타락의 상태를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "👁️",
+        "title": "하나님이 보신 것",
+        "description": "하나님은 겉모습이 아니라 마음을 보십니다. 인간의 죄악이 단순히 행동에만 있는 것이 아니라, 마음의 깊은 곳까지 타락했음을 보셨습니다.",
+        "points": [
+          "하나님은 인간의 내면을 보시는 분",
+          "외적 행위뿐 아니라 내적 동기까지 심판하심",
+          "마음의 상태가 행동을 결정합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "💭",
+        "title": "마음의 계획",
+        "description": "'예체르'(יֵצֶר)는 인간 마음의 성향과 계획을 의미합니다. 타락 이후 인간의 본성은 악을 향해 기울어졌습니다.",
+        "points": [
+          "죄는 행위 이전에 마음에서 시작됩니다",
+          "인간의 타락한 본성 - 전적 타락 교리",
+          "구원 없이는 선을 행할 수 없는 인간"
+        ],
+        "color": "red"
+      },
+      {
+        "emoji": "⚫",
+        "title": "오직 악할 뿐",
+        "description": "'라크 라'(רַק רַע) - '오직 악할 뿐'이라는 표현은 인간의 완전한 타락을 보여줍니다. 선한 생각이 전혀 없는 상태입니다.",
+        "points": [
+          "전적 타락 - 인간 본성의 모든 면이 죄로 오염됨",
+          "하나님 없는 인간의 절망적 상태",
+          "홍수 심판의 불가피성"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "⏰",
+        "title": "항상 악함",
+        "description": "'콜 하욤'(כָּל־הַיּוֹם) - '온종일, 항상'이라는 표현은 죄의 지속성과 끊임없음을 나타냅니다.",
+        "points": [
+          "때때로가 아니라 항상 악을 행함",
+          "죄의 습관화와 고착화",
+          "회개의 기회를 거부한 결과"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 사람들의 마음이 항상 나쁜 생각만 했을까요?",
+      "answer": "사람들이 하나님을 잊어버리고 자기 마음대로만 살았기 때문이에요. 하나님을 생각하지 않으면 우리 마음은 나쁜 생각들로 가득 차게 돼요. 그래서 우리는 매일매일 하나님께 기도하고, 하나님의 말씀을 읽으면서 착한 마음을 가져야 해요.",
+      "bibleReferences": [
+        "예레미야 17:9 - '만물보다 거짓되고 심히 부패한 것은 마음이라'",
+        "로마서 3:10-12 - '의인은 없나니 하나도 없으며... 선을 행하는 자는 없나니 하나도 없도다'",
+        "마태복음 15:19 - '마음에서 나오는 것은 악한 생각과 살인과 간음과...'",
+        "잠언 4:23 - '모든 지킬 만한 것 중에 더욱 네 마음을 지키라 생명의 근원이 이에서 남이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "전적 타락과 하나님의 은혜",
+      "content": "이 구절은 인간의 전적 타락을 가장 명확하게 보여주는 구절 중 하나입니다. 인간이 스스로 선해질 수 없다는 이 진리는, 역설적으로 하나님의 은혜가 얼마나 필요한지를 드러냅니다. 노아가 은혜를 입은 것(6:8)은 그의 의로움 때문이 아니라 오직 하나님의 주권적 선택이었습니다."
+    }
+  }
+}

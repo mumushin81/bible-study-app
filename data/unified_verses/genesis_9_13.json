@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_13",
+  "reference": "창세기 9:13",
+  "hebrew": "אֶת-קַשְׁתִּי, נָתַתִּי בֶּעָנָן; וְהָיְתָה לְאוֹת בְּרִית, בֵּינִי וּבֵין הָאָרֶץ.",
+  "ipa": "ʔɛt qaʃˈti naˈtati beʔaˈnan vəhajəˈta ləʔot bəˈrit beni uven haˈʔarɛts",
+  "koreanPronunciation": "에트 카쉬티 나타티 베아난 베하예타 레오트 베리트 베니 우벤 하아레츠",
+  "modern": "내가 내 무지개를 구름 속에 두었나니 이것이 나와 세상 사이의 언약의 증거니라",
+  "words": [
+    {
+      "hebrew": "קַשְׁתִּי",
+      "meaning": "나의 활",
+      "ipa": "qaʃˈti",
+      "korean": "카쉬티",
+      "letters": "קַ(qa) + שְׁ(sh) + תִּי(ti)",
+      "root": "קֶשֶׁת (케쉐트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"rainbow\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"16.67%\" stop-color=\"#FF7F00\" /><stop offset=\"33.33%\" stop-color=\"#FFFF00\" /><stop offset=\"50%\" stop-color=\"#00FF00\" /><stop offset=\"66.67%\" stop-color=\"#0000FF\" /><stop offset=\"83.33%\" stop-color=\"#4B0082\" /><stop offset=\"100%\" stop-color=\"#9400D3\" /></linearGradient></defs><path d=\"M 8 52 Q 32 8 56 52\" fill=\"none\" stroke=\"url(#rainbow)\" stroke-width=\"8\" stroke-linecap=\"round\" opacity=\"0.9\" /><path d=\"M 12 52 Q 32 16 52 52\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "קֶשֶׁת (케쉐트 - 활, 무지개)",
+        "חֵץ (헤츠 - 화살)"
+      ]
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "meaning": "내가 두었다",
+      "ipa": "naˈtati",
+      "korean": "나타티",
+      "letters": "נָ(na) + תַ(ta) + תִּי(ti)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"placed\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#placed)\" opacity=\"0.4\" /><path d=\"M 32 24 L 32 44\" stroke=\"#FFA500\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"48\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다, 두다)",
+        "שִׂים (심 - 놓다)"
+      ]
+    },
+    {
+      "hebrew": "בֶּעָנָן",
+      "meaning": "구름 속에",
+      "ipa": "beʔaˈnan",
+      "korean": "베아난",
+      "letters": "בֶּ(be) + עָ(a) + נָן(nan)",
+      "root": "עָנָן (아난)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cloud\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#B0B0B0\" /></linearGradient></defs><ellipse cx=\"20\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#cloud)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"28\" rx=\"16\" ry=\"12\" fill=\"url(#cloud)\" opacity=\"0.9\" /><ellipse cx=\"44\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#cloud)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"14\" ry=\"8\" fill=\"url(#cloud)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "עָנָן (아난 - 구름)",
+        "עָב (아브 - 먹구름)"
+      ]
+    },
+    {
+      "hebrew": "וְהָיְתָה",
+      "meaning": "그리고 그것이 될 것이다",
+      "ipa": "vəhajəˈta",
+      "korean": "베하예타",
+      "letters": "וְ(ve) + הָ(ha) + יְ(ye) + תָה(ta)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"become\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#become)\" opacity=\"0.5\" /><path d=\"M 28 32 L 36 32\" stroke=\"url(#become)\" stroke-width=\"4\" /><circle cx=\"44\" cy=\"32\" r=\"12\" fill=\"url(#become)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "לְאוֹת",
+      "meaning": "표시로",
+      "ipa": "ləʔot",
+      "korean": "레오트",
+      "letters": "לְ(le) + אוֹת(ot)",
+      "root": "א-ו-ת (아우트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"token\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#token)\" opacity=\"0.8\" /><path d=\"M 24 32 L 30 38 L 42 26\" stroke=\"#FFFFFF\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "אוֹת (오트 - 표시)",
+        "סִימָן (시만 - 표시, 신호)"
+      ]
+    },
+    {
+      "hebrew": "בְּרִית",
+      "meaning": "언약",
+      "ipa": "bəˈrit",
+      "korean": "베리트",
+      "letters": "בְּ(be) + רִית(rit)",
+      "root": "בְּרִית (베리트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant_scroll\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4E4C1\" /><stop offset=\"100%\" stop-color=\"#D4AF37\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" rx=\"2\" fill=\"url(#covenant_scroll)\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"24\" x2=\"44\" y2=\"24\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"20\" y1=\"30\" x2=\"44\" y2=\"30\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"20\" y1=\"36\" x2=\"44\" y2=\"36\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><line x1=\"20\" y1=\"42\" x2=\"36\" y2=\"42\" stroke=\"#8B4513\" stroke-width=\"1.5\" /></svg>",
+      "relatedWords": [
+        "כָּרַת בְּרִית (카라트 베리트 - 언약을 맺다)",
+        "עֵדוּת (에두트 - 증거)"
+      ]
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅",
+      "ipa": "haˈʔarɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"50%\" stop-color=\"#228B22\" /><stop offset=\"100%\" stop-color=\"#006400\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#earth)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 24 Q 24 20 32 24 Q 40 28 46 24\" fill=\"#8B4513\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"#4169E1\" stroke-width=\"2\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֲדָמָה (아다마 - 흙)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "드디어 언약의 표시가 무엇인지 밝혀집니다 - 바로 '무지개'입니다! 히브리어로 '케쉐트'는 원래 '활'을 의미하지만, 여기서는 하늘의 '활', 즉 무지개를 가리킵니다. 이는 전쟁 무기가 평화의 상징으로 변한 놀라운 이미지입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "קַשְׁתִּי (카쉬티) - 나의 활",
+        "description": "'케쉐트'는 원래 전쟁에서 사용하는 활입니다. 고대 근동에서 활은 심판과 전쟁의 상징이었습니다. 그런데 하나님은 자신의 활을 '구름 속에' 두십니다. 이는 활의 방향이 땅을 향하지 않고 하늘을 향한다는 의미입니다. 전쟁이 끝났고 평화가 선포된 것입니다.",
+        "points": [
+          "무지개는 전쟁 무기가 평화 상징으로 변한 것입니다",
+          "하나님은 더 이상 활을 겨누지 않으십니다",
+          "심판이 끝나고 은혜의 시대가 시작되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בֶּעָנָן (베아난) - 구름 속에",
+        "description": "구름은 성경에서 하나님의 임재를 나타냅니다(출 13:21, 왕상 8:10). 무지개가 구름 속에 있다는 것은 하나님의 영광 가운데 있다는 의미입니다. 또한 비구름, 즉 심판의 구름 속에 평화의 무지개가 있다는 역설을 보여줍니다.",
+        "points": [
+          "구름은 하나님의 임재의 상징입니다",
+          "심판(비구름) 속에 은혜(무지개)가 있습니다",
+          "하나님의 영광이 언약에 함께합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְהָיְתָה לְאוֹת בְּרִית (베하예타 레오트 베리트) - 언약의 표시가 될 것",
+        "description": "무지개는 단순히 아름다운 자연 현상이 아니라 '언약의 표시'로 의미가 부여됩니다. 같은 현상이라도 하나님의 말씀으로 새로운 의미를 갖게 됩니다. 이는 성례전(성찬, 세례)의 원리와 같습니다.",
+        "points": [
+          "하나님의 말씀이 자연 현상에 의미를 부여합니다",
+          "보통의 것이 거룩한 표시가 됩니다",
+          "우리는 무지개를 볼 때 언약을 기억해야 합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "무지개의 과학과 신학",
+        "description": "무지개는 물방울에 의한 빛의 굴절 현상입니다. 어쩌면 노아 이전에도 있었을 수 있지만, 하나님은 이것을 언약의 표시로 지정하셨습니다. 과학적 설명과 신학적 의미는 모순되지 않습니다. 하나님은 자연 법칙을 창조하시고, 그것을 통해 자신을 계시하십니다.",
+        "points": [
+          "과학과 신앙은 충돌하지 않습니다",
+          "하나님은 자연을 통해 말씀하십니다",
+          "일반 계시(자연)와 특별 계시(말씀)가 조화를 이룹니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 무지개를 언약의 표시로 선택하셨을까요?",
+      "answer": "무지개는 비가 온 후에 나타나잖아요! 노아 시대 사람들은 비만 오면 '또 큰 홍수가 올까?' 하고 무서워했을 거예요. 그래서 하나님은 비가 그친 후에 나타나는 무지개를 선택하신 거예요. 무지개를 볼 때마다 '걱정하지 마, 다시는 홍수로 세상을 멸하지 않을 거야'라고 말씀하시는 거죠. 그리고 무지개는 정말 아름답잖아요! 일곱 가지 색깔이 조화롭게 어우러진 무지개는 하나님의 아름다움과 사랑을 보여줘요. 무지개를 볼 때마다 하나님의 약속을 기억하세요!",
+      "bibleReferences": [
+        "에스겔 1:28 - '그 사방 광채의 모양은 비 오는 날 구름에 있는 무지개 같으니 이는 여호와의 영광의 형상의 모양이라'",
+        "요한계시록 4:3 - '앉으신 이의 모양이 벽옥과 홍보석 같고 또 무지개가 있어 보좌에 둘렸는데 그 모양이 녹보석 같더라'",
+        "요한계시록 10:1 - '내가 또 보니 힘센 다른 천사가 구름을 입고 하늘에서 내려오는데 그 머리 위에 무지개가 있고'",
+        "시편 19:1 - '하늘이 하나님의 영광을 선포하고 궁창이 그의 손으로 하신 일을 나타내는도다'",
+        "로마서 1:20 - '창세로부터 그의 보이지 아니하는 것들 곧 그의 영원하신 능력과 신성이 그가 만드신 만물에 분명히 보여 알려졌나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:13의 무지개는 성경 전체에서 중요한 상징입니다. 에스겔은 하나님의 영광을 '무지개 같다'고 묘사했고(겔 1:28), 요한계시록은 하나님의 보좌 주위에 무지개가 있다고 말합니다(계 4:3). 무지개는 하나님의 신실하심, 긍휼하심, 그리고 심판 후의 회복을 상징합니다. '나의 활'이라는 표현은 심오합니다 - 전쟁 무기가 평화의 상징으로 변했고, 활의 방향이 땅이 아니라 하늘을 향합니다. 이는 이사야 2:4의 '칼을 쳐서 보습을 만들고 창을 쳐서 낫을 만든다'는 평화의 예언과 연결됩니다. 신약적 관점에서 무지개는 그리스도의 십자가를 예표합니다 - 하나님의 진노(활)가 우리가 아닌 그리스도를 향했고, 이제 우리에게는 평화(무지개)만 남았습니다."
+    }
+  }
+}

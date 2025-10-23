@@ -1,0 +1,238 @@
+{
+  "id": "genesis_4_23",
+  "reference": "창세기 4:23",
+  "hebrew": "וַיֹּאמֶר לֶמֶךְ לְנָשָׁיו עָדָה וְצִלָּה שְׁמַעַן קוֹלִי נְשֵׁי לֶמֶךְ הַאְזֵנָּה אִמְרָתִי כִּי אִישׁ הָרַגְתִּי לְפִצְעִי וְיֶלֶד לְחַבֻּרָתִי",
+  "ipa": "vajˈjomɛr ˈlɛmɛx lənaˈʃav ʕaˈda vəʦiˈla ʃəˈmaʕn koˈli nəˈʃe ˈlɛmɛx haʔˈzɛna ʔimraˈti ki ʔiʃ haˈragti ləfitˈʕi vəˈjɛlɛd ləxaburaˈti",
+  "koreanPronunciation": "바요메르 레메크 레나샤브 아다 베칠라 쉐마안 콜리 네쉐 레메크 하아제나 임라티 키 이쉬 하라그티 레핏치 베옐레드 레하부라티",
+  "modern": "레메크가 그의 아내들 아다와 칠라에게 말했습니다. '내 목소리를 들으라, 레메크의 아내들이여, 내 말에 귀를 기울이라. 나는 나를 상하게 한 사람을 죽였고, 나를 다치게 한 청년을 죽였노라'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech23\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"#4682B4\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#speech23)\" filter=\"drop-shadow(0 2px 6px rgba(70, 130, 180, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#speech23)\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\"/></svg>"
+    },
+    {
+      "hebrew": "לֶמֶךְ",
+      "meaning": "레메크",
+      "ipa": "ˈlɛmɛx",
+      "korean": "레메크",
+      "letters": "לֶ(le) + מֶךְ(mekh)",
+      "root": "ל-מ-ך (레메크)",
+      "grammar": "명사",
+      "emoji": "🧔",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lamech1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#B22222\"/></linearGradient><radialGradient id=\"shadow1\"><stop offset=\"0%\" stop-color=\"#000000\"/><stop offset=\"100%\" stop-color=\"rgba(0, 0, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#shadow1)\" opacity=\"0.2\"/><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#lamech1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.4))\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FF0000\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FF0000\"/><path d=\"M 28 28 Q 32 26 36 28\" stroke=\"#000\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"16\" fill=\"url(#lamech1)\"/></svg>"
+    },
+    {
+      "hebrew": "לְנָשָׁיו",
+      "meaning": "그의 아내들에게",
+      "ipa": "lənaˈʃav",
+      "korean": "레나샤브",
+      "letters": "לְ(le) + נָ(na) + שָׁיו(shav)",
+      "root": "א-נ-ש (아나쉬)",
+      "grammar": "명사",
+      "emoji": "👩‍👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\"/><stop offset=\"100%\" stop-color=\"#FF69B4\"/></linearGradient></defs><ellipse cx=\"24\" cy=\"26\" rx=\"10\" ry=\"12\" fill=\"url(#wives1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"40\" cy=\"26\" rx=\"10\" ry=\"12\" fill=\"url(#wives1)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"21\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"27\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"37\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"43\" cy=\"24\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "עָדָה וְצִלָּה",
+      "meaning": "아다와 칠라",
+      "ipa": "ʕaˈda vəʦiˈla",
+      "korean": "아다 베칠라",
+      "letters": "עָ(a) + דָה(dah) + וְ(ve) + צִ(tsi) + לָּה(lah)",
+      "root": "עָדָה / צִלָּה (아다 / 칠라)",
+      "grammar": "명사",
+      "emoji": "👸👸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"adah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient><linearGradient id=\"zillah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient></defs><path d=\"M 12 48 L 16 36 L 22 40 L 26 28 L 20 28 L 16 20 L 12 28 L 6 28 Z\" fill=\"url(#adah1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.4))\"/><path d=\"M 38 48 L 42 36 L 48 40 L 52 28 L 46 28 L 42 20 L 38 28 L 32 28 Z\" fill=\"url(#zillah1)\" filter=\"drop-shadow(0 2px 4px rgba(128, 128, 128, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "שְׁמַעַן",
+      "meaning": "들으라 (여성 복수)",
+      "ipa": "ʃəˈmaʕn",
+      "korean": "쉐마안",
+      "letters": "שְׁ(she) + מַ(ma) + עַן(an)",
+      "root": "ש-מ-ע (샤마)",
+      "grammar": "동사",
+      "emoji": "👂",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hear1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"sound1\"><stop offset=\"0%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 165, 0, 0)\"/></radialGradient></defs><path d=\"M 16 24 Q 12 32 16 40 L 24 36 L 24 28 Z\" fill=\"url(#hear1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 140, 0, 0.4))\"/><rect x=\"24\" y=\"28\" width=\"8\" height=\"8\" fill=\"url(#hear1)\"/><circle cx=\"40\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"url(#sound1)\" stroke-width=\"3\" opacity=\"0.6\"/><circle cx=\"40\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#sound1)\" stroke-width=\"2\" opacity=\"0.4\"/><circle cx=\"40\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#sound1)\" stroke-width=\"1\" opacity=\"0.2\"/></svg>"
+    },
+    {
+      "hebrew": "קוֹלִי",
+      "meaning": "내 목소리를",
+      "ipa": "koˈli",
+      "korean": "콜리",
+      "letters": "קוֹ(ko) + לִי(li)",
+      "root": "ק-ו-ל (콜)",
+      "grammar": "명사",
+      "emoji": "🔊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"voice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\"/><stop offset=\"100%\" stop-color=\"#4169E1\"/></linearGradient></defs><path d=\"M 12 24 L 20 24 L 28 16 L 28 48 L 20 40 L 12 40 Z\" fill=\"url(#voice1)\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.4))\"/><path d=\"M 34 20 Q 40 24 40 32 Q 40 40 34 44\" stroke=\"url(#voice1)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 40 16 Q 48 22 48 32 Q 48 42 40 48\" stroke=\"url(#voice1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\"/><path d=\"M 46 12 Q 56 20 56 32 Q 56 44 46 52\" stroke=\"url(#voice1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "נְשֵׁי לֶמֶךְ",
+      "meaning": "레메크의 아내들이여",
+      "ipa": "nəˈʃe ˈlɛmɛx",
+      "korean": "네쉐 레메크",
+      "letters": "נְ(ne) + שֵׁי(she) + לֶ(le) + מֶךְ(mekh)",
+      "root": "א-נ-ש (아나쉬)",
+      "grammar": "명사",
+      "emoji": "👩‍❤️‍👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wives2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient></defs><path d=\"M 32 52 Q 16 36 16 24 Q 16 16 22 16 Q 28 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><path d=\"M 32 52 Q 48 36 48 24 Q 48 16 42 16 Q 36 16 32 22\" fill=\"url(#wives2)\" opacity=\"0.8\"/><circle cx=\"22\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"42\" cy=\"20\" r=\"3\" fill=\"#FFB6C1\"/></svg>"
+    },
+    {
+      "hebrew": "הַאְזֵנָּה",
+      "meaning": "귀를 기울이라 (여성 복수)",
+      "ipa": "haʔˈzɛna",
+      "korean": "하아제나",
+      "letters": "הַ(ha) + אְ(a) + זֵנָּה(zenah)",
+      "root": "א-ז-ן (아잔)",
+      "grammar": "동사",
+      "emoji": "👂✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"listen1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"100%\" stop-color=\"#8A2BE2\"/></linearGradient><radialGradient id=\"glow2\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><path d=\"M 14 20 Q 10 32 14 44 L 26 40 L 26 24 Z\" fill=\"url(#listen1)\" filter=\"drop-shadow(0 2px 4px rgba(138, 43, 226, 0.4))\"/><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#glow2)\" opacity=\"0.4\"/><polygon points=\"40,28 44,32 40,36\" fill=\"#FFD700\" opacity=\"0.8\"/><polygon points=\"46,24 50,32 46,40\" fill=\"#FFD700\" opacity=\"0.6\"/><polygon points=\"52,20 56,32 52,44\" fill=\"#FFD700\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "אִמְרָתִי",
+      "meaning": "내 말을",
+      "ipa": "ʔimraˈti",
+      "korean": "임라티",
+      "letters": "אִ(i) + מְרָ(mra) + תִי(ti)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "명사",
+      "emoji": "💭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"word1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#20B2AA\"/><stop offset=\"100%\" stop-color=\"#008B8B\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"20\" ry=\"14\" fill=\"url(#word1)\" opacity=\"0.3\" filter=\"drop-shadow(0 2px 4px rgba(0, 139, 139, 0.3))\"/><ellipse cx=\"38\" cy=\"38\" rx=\"14\" ry=\"10\" fill=\"url(#word1)\" opacity=\"0.5\"/><ellipse cx=\"44\" cy=\"46\" rx=\"8\" ry=\"6\" fill=\"url(#word1)\" opacity=\"0.7\"/><path d=\"M 20 20 L 28 20 M 24 16 L 24 24\" stroke=\"#FFFFFF\" stroke-width=\"2\"/><path d=\"M 30 28 L 38 28 M 34 24 L 34 32\" stroke=\"#FFFFFF\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면",
+      "ipa": "ki",
+      "korean": "키",
+      "letters": "כִּ(ki) + י(i)",
+      "root": "כִּי (키)",
+      "grammar": "접속사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient></defs><path d=\"M 32 16 Q 40 16 40 24 Q 40 32 32 36 L 32 40\" stroke=\"url(#because1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.4))\"/><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"url(#because1)\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#because1)\" stroke-width=\"2\" opacity=\"0.3\"/></svg>"
+    },
+    {
+      "hebrew": "אִישׁ",
+      "meaning": "남자, 사람",
+      "ipa": "ʔiʃ",
+      "korean": "이쉬",
+      "letters": "אִי(i) + שׁ(sh)",
+      "root": "א-י-שׁ (이쉬)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"man23\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#man23)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 36 L 32 32 L 44 36 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#man23)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "הָרַגְתִּי",
+      "meaning": "내가 죽였다",
+      "ipa": "haˈragti",
+      "korean": "하라그티",
+      "letters": "הָ(ha) + רַ(ra) + גְתִּי(gti)",
+      "root": "ה-ר-ג (하라그)",
+      "grammar": "동사",
+      "emoji": "⚔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kill1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient><linearGradient id=\"blade1\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"#696969\"/></linearGradient></defs><path d=\"M 48 16 L 44 20 L 28 36 L 24 40 L 28 44 L 32 40 L 48 24 L 52 20 Z\" fill=\"url(#blade1)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.5))\"/><rect x=\"20\" y=\"40\" width=\"8\" height=\"12\" rx=\"2\" fill=\"url(#kill1)\"/><path d=\"M 16 32 L 20 28 L 24 32 L 28 28 L 32 32\" stroke=\"#DC143C\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "לְפִצְעִי",
+      "meaning": "나를 상하게 한 것 때문에",
+      "ipa": "ləfitˈʕi",
+      "korean": "레핏치",
+      "letters": "לְ(le) + פִ(fi) + צְעִי(tsi)",
+      "root": "פ-צ-ע (파차)",
+      "grammar": "명사",
+      "emoji": "🩹",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wound1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"url(#wound1)\" opacity=\"0.3\"/><path d=\"M 24 28 Q 28 32 32 28 Q 36 32 40 28\" stroke=\"url(#wound1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(139, 0, 0, 0.4))\"/><path d=\"M 24 36 Q 28 32 32 36 Q 36 32 40 36\" stroke=\"url(#wound1)\" stroke-width=\"3\" fill=\"none\"/><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"#DC143C\"/><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#DC143C\"/></svg>"
+    },
+    {
+      "hebrew": "וְיֶלֶד",
+      "meaning": "그리고 청년을",
+      "ipa": "vəˈjɛlɛd",
+      "korean": "베옐레드",
+      "letters": "וְ(ve) + יֶ(ye) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "명사",
+      "emoji": "🧑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"youth1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#32CD32\"/><stop offset=\"100%\" stop-color=\"#228B22\"/></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"9\" fill=\"url(#youth1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#333\"/><path d=\"M 28 26 Q 32 28 36 26\" stroke=\"#000\" stroke-width=\"1\" fill=\"none\"/><ellipse cx=\"32\" cy=\"42\" rx=\"13\" ry=\"15\" fill=\"url(#youth1)\"/><path d=\"M 20 40 L 18 50\" stroke=\"url(#youth1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 44 40 L 46 50\" stroke=\"url(#youth1)\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "לְחַבֻּרָתִי",
+      "meaning": "나를 다치게 한 것 때문에",
+      "ipa": "ləxaburaˈti",
+      "korean": "레하부라티",
+      "letters": "לְ(le) + חַ(ha) + בֻּרָתִי(burati)",
+      "root": "ח-ב-ר (하바르)",
+      "grammar": "명사",
+      "emoji": "🤕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bruise1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\"/><stop offset=\"100%\" stop-color=\"#4B0082\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#bruise1)\" opacity=\"0.4\" filter=\"drop-shadow(0 2px 4px rgba(75, 0, 130, 0.4))\"/><circle cx=\"28\" cy=\"28\" r=\"8\" fill=\"url(#bruise1)\" opacity=\"0.6\"/><circle cx=\"38\" cy=\"34\" r=\"6\" fill=\"url(#bruise1)\" opacity=\"0.5\"/><circle cx=\"30\" cy=\"38\" r=\"4\" fill=\"url(#bruise1)\" opacity=\"0.7\"/><rect x=\"20\" y=\"26\" width=\"24\" height=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\" rx=\"2\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 23절은 레메크의 노래로 알려진 잔혹한 복수의 선언입니다. 레메크는 가인의 후손으로, 자신을 상하게 한 자들에 대한 과도한 보복을 자랑스럽게 노래합니다. 이는 인류의 죄가 깊어지고 폭력이 확산되는 과정을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לֶמֶךְ (레메크) - 폭력의 확산",
+        "description": "레메크는 가인의 6대손으로, 성경에 기록된 최초의 일부다처제를 행한 사람입니다. 그의 이름은 '강력함' 또는 '파괴자'를 의미하며, 그의 노래는 인간 폭력의 극단적 표현입니다.",
+        "points": [
+          "가인의 후손으로서 폭력의 유산을 이어받음",
+          "두 아내를 둔 최초의 일부다처제 실행자",
+          "자기 과시와 복수를 노래로 자랑하는 교만함"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁמַעַן קוֹלִי (쉐마안 콜리) - 강요된 청종",
+        "description": "'내 목소리를 들으라'는 명령형 표현은 레메크가 자신의 아내들에게 자신의 폭력 행위를 듣도록 강요하는 장면입니다. 이는 시편 23편의 '여호와의 음성을 들으라'와 대조됩니다.",
+        "points": [
+          "하나님의 음성이 아닌 인간의 교만한 음성",
+          "여성들에게 남편의 폭력을 인정하도록 강요함",
+          "가정 내에서의 권위 남용과 폭력의 정당화"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הָרַגְתִּי (하라그티) - 과도한 보복",
+        "description": "'내가 죽였다'는 완료형 동사로, 레메크는 자신을 상하게 한 사람과 다치게 한 청년을 죽였다고 선언합니다. 이는 자기방어를 넘어선 과도한 복수입니다.",
+        "points": [
+          "정당방위가 아닌 과도한 보복 살인",
+          "상처에 대한 응징이 사형으로 확대됨",
+          "가인의 살인보다 더 악화된 폭력성"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְפִצְעִי וְלְחַבֻּרָתִי (레핏치 베레하부라티) - 사소한 이유",
+        "description": "'상처'(페차)와 '타박상'(하부라)은 생명을 위협하지 않는 경미한 부상을 의미합니다. 레메크는 이런 사소한 이유로 사람을 죽였습니다.",
+        "points": [
+          "경미한 상처에 대한 극단적 보복",
+          "율법의 '눈에는 눈, 이에는 이'를 넘어선 과잉 복수",
+          "인간 생명의 가치를 무시하는 잔혹함"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "레메크는 왜 자기를 조금 다치게 한 사람을 죽였다고 자랑했나요?",
+      "answer": "레메크는 마음이 매우 나쁜 사람이었어요. 누군가 자기를 살짝 다치게 했을 때, 그 사람을 죽여버렸어요. 그것도 모자라서 아내들에게 자랑까지 했답니다. 이건 정말 잘못된 거예요. 하나님께서는 우리에게 용서하고 사랑하라고 하셨는데, 레메크는 정반대로 행동했어요. 작은 상처 때문에 사람을 죽이는 것은 너무나 나쁜 일이에요.",
+      "bibleReferences": [
+        "창세기 4:15 - '가인을 죽이는 자는 벌을 칠 배나 받으리라'",
+        "출애굽기 21:24 - '눈에는 눈으로, 이에는 이로'",
+        "마태복음 5:38-39 - '악한 자를 대적하지 말라 누구든지 네 오른편 뺨을 치거든 왼편도 돌려 대며'",
+        "로마서 12:19 - '내가 친히 갚으리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "레메크의 노래는 죄가 세대를 거듭하며 더욱 악화되는 인류의 타락을 보여줍니다. 가인이 동생을 죽인 후 하나님께 두려워했다면, 레메크는 살인을 자랑합니다. 이는 하나님 없는 인간 문명이 어디로 향하는지를 보여주며, 궁극적으로 노아 시대의 대홍수를 예비하는 배경이 됩니다. 그러나 하나님의 은혜는 이런 죄악 가운데서도 셋의 계보를 통해 구원의 역사를 이어가십니다."
+    }
+  }
+}

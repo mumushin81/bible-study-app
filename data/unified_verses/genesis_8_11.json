@@ -1,0 +1,199 @@
+{
+  "id": "genesis_8_11",
+  "reference": "창세기 8:11",
+  "hebrew": "וַתָּבֹא אֵלָיו הַיּוֹנָה לְעֵת עֶרֶב וְהִנֵּה עֲלֵה־זַיִת טָרָף בְּפִיהָ וַיֵּדַע נֹחַ כִּי־קַלּוּ הַמַּיִם מֵעַל הָאָרֶץ.",
+  "ipa": "vataˈvo eˈlav hajˈona ləˈet ˈɛrɛv vəhine ʔale ˈzajit taˈraf bəˈfiha vajˈeda noax ki qaˈlu haˈmajim meˈʔal haˈʔarɛts",
+  "koreanPronunciation": "바타보 엘라브 하요나 레에트 에레브 베힌네 알레 자이트 타라프 베피하 바예다 노아흐 키 칼루 하마임 메알 하아레츠",
+  "modern": "저녁때에 비둘기가 그에게 돌아왔는데, 보라, 그 부리에 싱싱한 올리브 잎이 있었습니다. 그래서 노아는 땅에서 물이 줄어들었음을 알았습니다",
+  "words": [
+    {
+      "hebrew": "וַתָּבֹא",
+      "meaning": "그리고 왔다, 돌아왔다",
+      "ipa": "vataˈvo",
+      "korean": "바타보",
+      "letters": "וַ(va) + תָּ(ta) + בֹא(vo)",
+      "root": "ב-ו-א (bo)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"come_back\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><path d=\"M 56 32 L 16 32\" stroke=\"url(#come_back)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 24 26\" stroke=\"#43A047\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 16 32 L 24 38\" stroke=\"#43A047\" stroke-width=\"4\" stroke-linecap=\"round\" /><rect x=\"8\" y=\"24\" width=\"12\" height=\"16\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.6\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "מָבוֹא (마보 - 입구)"
+      ]
+    },
+    {
+      "hebrew": "לְעֵת",
+      "meaning": "때에, 시각에",
+      "ipa": "ləˈet",
+      "korean": "레에트",
+      "letters": "לְ(lə) + עֵת(et)",
+      "root": "עֵת (에트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time_circle\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#time_circle)\" stroke-width=\"4\" /><line x1=\"32\" y1=\"32\" x2=\"32\" y2=\"16\" stroke=\"#1976D2\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"32\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#1976D2\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#1976D2\" /></svg>",
+      "relatedWords": [
+        "עֵת (에트 - 때, 시간)",
+        "עִתִּים (이팀 - 때들)"
+      ]
+    },
+    {
+      "hebrew": "עֶרֶב",
+      "meaning": "저녁",
+      "ipa": "ˈɛrɛv",
+      "korean": "에레브",
+      "letters": "עֶ(e) + רֶב(rev)",
+      "root": "ע-ר-ב (arav)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"evening_sky\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"50%\" stop-color=\"#F7931E\" /><stop offset=\"100%\" stop-color=\"#FDC830\" /></linearGradient><radialGradient id=\"sunset_glow\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#evening_sky)\" opacity=\"0.6\" rx=\"8\" /><circle cx=\"16\" cy=\"48\" r=\"14\" fill=\"url(#sunset_glow)\" filter=\"drop-shadow(0 0 12px rgba(255, 107, 53, 0.6))\" /><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"6\" fill=\"#5D4037\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עֶרֶב (에레브 - 저녁)",
+        "עֲרָבִים (아라빔 - 두 저녁 사이)"
+      ]
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "meaning": "그리고 보라",
+      "ipa": "vəhine",
+      "korean": "베힌네",
+      "letters": "וְ(və) + הִ(hi) + נֵּה(ne)",
+      "root": "ה-נ-ה (hineh)",
+      "grammar": "감탄사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"behold_light\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#behold_light)\" /><path d=\"M 24 28 L 28 32 L 24 36\" stroke=\"#FF6F00\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 28 L 36 32 L 32 36\" stroke=\"#FF6F00\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 40 28 L 44 32 L 40 36\" stroke=\"#FF6F00\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "הִנֵּה (힌네 - 보라)",
+        "רָאָה (라아 - 보다)"
+      ]
+    },
+    {
+      "hebrew": "עֲלֵה־זַיִת",
+      "meaning": "올리브 잎",
+      "ipa": "ʔale ˈzajit",
+      "korean": "알레 자이트",
+      "letters": "עֲ(a) + לֵה(leh) + זַ(za) + יִת(yit)",
+      "root": "עָלֶה + זַיִת (알레 + 자이트)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"olive_leaf\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7CB342\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"24\" rx=\"14\" ry=\"8\" fill=\"url(#olive_leaf)\" transform=\"rotate(-30 36 24)\" /><ellipse cx=\"28\" cy=\"36\" rx=\"14\" ry=\"8\" fill=\"url(#olive_leaf)\" transform=\"rotate(-30 28 36)\" opacity=\"0.9\" /><ellipse cx=\"44\" cy=\"32\" rx=\"12\" ry=\"7\" fill=\"url(#olive_leaf)\" transform=\"rotate(-30 44 32)\" opacity=\"0.8\" /><line x1=\"20\" y1=\"48\" x2=\"36\" y2=\"20\" stroke=\"#6D4C41\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עָלֶה (알레 - 잎)",
+        "זַיִת (자이트 - 올리브)"
+      ]
+    },
+    {
+      "hebrew": "טָרָף",
+      "meaning": "싱싱한, 갓 딴",
+      "ipa": "taˈraf",
+      "korean": "타라프",
+      "letters": "טָ(ta) + רָף(raf)",
+      "root": "ט-ר-פ (taraf)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"fresh_green\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#7CB342\" /><stop offset=\"100%\" stop-color=\"#558B2F\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"12\" fill=\"url(#fresh_green)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"26\" cy=\"28\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"34\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"34\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "טָרָף (타라프 - 신선한)",
+        "טֶרֶף (테레프 - 먹이)"
+      ]
+    },
+    {
+      "hebrew": "בְּפִיהָ",
+      "meaning": "그 부리에, 그 입에",
+      "ipa": "bəˈfiha",
+      "korean": "베피하",
+      "letters": "בְּ(bə) + פִי(fi) + הָ(ha)",
+      "root": "פֶּה (페)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"beak_bird\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient></defs><path d=\"M 20 32 L 44 28 L 44 36 Z\" fill=\"url(#beak_bird)\" stroke=\"#E65100\" stroke-width=\"2\" /><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"3\" fill=\"#7CB342\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "פֶּה (페 - 입)",
+        "פִּי (피 - 입의)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּדַע",
+      "meaning": "그리고 알았다",
+      "ipa": "vajˈeda",
+      "korean": "바예다",
+      "letters": "וַ(va) + יֵּ(ye) + דַע(da)",
+      "root": "י-ד-ע (yada)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"knowledge_light\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"16\" fill=\"url(#knowledge_light)\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"#FF8F00\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 32 36 L 32 48\" stroke=\"#FF8F00\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 52 L 32 48 L 36 52\" fill=\"#FF8F00\" /></svg>",
+      "relatedWords": [
+        "יָדַע (야다 - 알다)",
+        "דַּעַת (다아트 - 지식)"
+      ]
+    },
+    {
+      "hebrew": "קַלּוּ",
+      "meaning": "가벼워졌다, 줄어들었다",
+      "ipa": "qaˈlu",
+      "korean": "칼루",
+      "letters": "קַ(qa) + לּוּ(lu)",
+      "root": "ק-ל-ל (qalal)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"water_decreased\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#0288D1\" opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" opacity=\"0.2\" /></linearGradient></defs><rect x=\"12\" y=\"52\" width=\"40\" height=\"4\" fill=\"url(#water_decreased)\" /><rect x=\"14\" y=\"44\" width=\"36\" height=\"4\" fill=\"url(#water_decreased)\" opacity=\"0.8\" /><rect x=\"16\" y=\"36\" width=\"32\" height=\"4\" fill=\"url(#water_decreased)\" opacity=\"0.6\" /><rect x=\"18\" y=\"28\" width=\"28\" height=\"4\" fill=\"url(#water_decreased)\" opacity=\"0.4\" /><path d=\"M 56 24 L 56 16\" stroke=\"#4FC3F7\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 52 20 L 56 16 L 60 20\" stroke=\"#4FC3F7\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "קַל (칼 - 가벼운)",
+        "קָלַל (칼랄 - 가볍게 하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 11절은 홍수 이야기의 가장 희망적인 순간 중 하나입니다. 비둘기가 올리브 잎을 물고 돌아온 것은 생명의 회복과 평화의 시작을 상징합니다. 이 장면은 역사적으로 평화와 희망의 상징이 되었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לְעֵת עֶרֶב (레에트 에레브) - 저녁때",
+        "description": "비둘기가 저녁에 돌아온 것은 의미심장합니다. 창조 때도 '저녁이 되고 아침이 되니'라고 했듯이, 저녁은 새로운 날의 시작입니다.",
+        "points": [
+          "저녁은 히브리 달력에서 새 날의 시작입니다",
+          "어둠 후에 빛이 오듯, 시련 후에 희망이 옵니다",
+          "저녁의 평화로운 분위기가 희망을 더합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְהִנֵּה (베힌네) - 보라!",
+        "description": "'힌네(보라)'는 놀라움과 기쁨의 감탄사입니다. 노아의 놀라운 발견과 기쁨이 이 한 단어에 담겨 있습니다.",
+        "points": [
+          "예상치 못한 기쁜 발견입니다",
+          "하나님의 신실하심을 확인하는 순간입니다",
+          "희망이 현실이 되는 놀라운 순간입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עֲלֵה־זַיִת טָרָף (알레 자이트 타라프) - 싱싱한 올리브 잎",
+        "description": "올리브 잎이 '싱싱했다'는 것은 나무가 살아있고 성장하고 있음을 의미합니다. 이는 땅이 생명을 지탱할 수 있게 되었음을 보여줍니다.",
+        "points": [
+          "올리브는 평화와 번영의 상징입니다",
+          "싱싱한 잎은 생명력의 증거입니다",
+          "자연의 회복이 시작되었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וַיֵּדַע נֹחַ (바예다 노아흐) - 노아가 알았다",
+        "description": "노아는 올리브 잎을 보고 즉시 의미를 이해했습니다. 이는 그의 지혜와 하나님과의 친밀한 관계를 보여줍니다.",
+        "points": [
+          "작은 표징도 큰 의미를 전달합니다",
+          "믿음의 사람은 하나님의 신호를 알아봅니다",
+          "지식은 관찰과 이해에서 옵니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 비둘기가 올리브 잎을 물고 왔을까요?",
+      "answer": "올리브 나무는 물에 잘 견디는 나무예요. 홍수가 나도 죽지 않고 살아남을 수 있죠. 비둘기가 싱싱한 올리브 잎을 물고 온 것은 두 가지를 알려줘요. 첫째, 물이 많이 줄어서 나무가 물 밖으로 나왔어요. 둘째, 나무가 살아있고 새 잎을 내고 있어요! 이건 정말 좋은 소식이에요. 땅이 다시 살아나고 있다는 뜻이거든요. 노아는 이 작은 잎을 보고 '이제 곧 방주에서 나갈 수 있겠구나!'하고 기뻐했을 거예요. 올리브 잎은 지금도 평화의 상징이에요.",
+      "bibleReferences": [
+        "시편 52:8 - '나는 하나님의 집에 있는 푸른 감람나무 같음이여 하나님의 인자하심을 영원히 의지하리로다'",
+        "스가랴 4:3 - '그 곁에 두 감람나무가 있는데 하나는 그 등잔대 우편에 있고 하나는 그 좌편에 있나이다'",
+        "로마서 11:17 - '또한 가지 얼마가 꺾이었는데 돌감람나무인 네가 그들 중에 접붙임이 되어'",
+        "요한계시록 11:4 - '이는 이 땅의 주 앞에 서 있는 두 감람나무와 두 촛대니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:11은 희망과 평화의 복음입니다. 올리브 잎은 단순한 식물이 아니라 하나님의 메시지였습니다. '심판이 끝났고, 생명이 회복되고 있으며, 평화가 시작되었다'는 메시지입니다. 역사적으로 올리브 가지는 평화의 상징이 되었으며, UN 깃발에도 올리브 가지가 그려져 있습니다. 비둘기와 올리브 잎의 조합은 예수 그리스도를 통한 평화의 복음을 예표합니다. 성령(비둘기)이 화평의 복음(올리브)을 가져오시는 것처럼, 노아 시대에도 비둘기가 평화의 소식을 전했습니다. 작은 올리브 잎 하나가 전 인류에게 큰 희망을 주었듯이, 작은 믿음의 표징도 큰 격려가 될 수 있습니다."
+    }
+  }
+}

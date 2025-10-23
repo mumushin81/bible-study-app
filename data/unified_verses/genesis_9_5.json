@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_5",
+  "reference": "창세기 9:5",
+  "hebrew": "וְאַךְ אֶת-דִּמְכֶם לְנַפְשֹׁתֵיכֶם, אֶדְרֹשׁ--מִיַּד כָּל-חַיָּה, אֶדְרְשֶׁנּוּ; וּמִיַּד הָאָדָם מִיַּד אִישׁ אָחִיו, אֶדְרֹשׁ אֶת-נֶפֶשׁ הָאָדָם.",
+  "ipa": "vəʔaχ ʔɛt dimχɛm lənapʃoˈtɛχɛm ʔɛdˈroʃ mijad kol χaˈja ʔɛdərˈʃɛnu umijad haʔaˈdam mijad ʔiʃ aˈχiv ʔɛdˈroʃ ʔɛt ˈnɛpɛʃ haʔaˈdam",
+  "koreanPronunciation": "베아크 에트 딤켐 레나프쇼테켐 에드로쉬 미야드 콜 하야 에드레쉐누 우미야드 하아담 미야드 이쉬 아히브 에드로쉬 에트 네페쉬 하아담",
+  "modern": "내가 반드시 너희의 피 곧 너희 생명의 피를 찾으리니, 모든 짐승에게서 그것을 찾을 것이요 사람에게서도 찾으리라. 각 사람의 형제에게서 그 사람의 생명을 찾으리라",
+  "words": [
+    {
+      "hebrew": "אֶדְרֹשׁ",
+      "meaning": "내가 찾을 것이다, 내가 요구할 것이다",
+      "ipa": "ʔɛdˈroʃ",
+      "korean": "에드로쉬",
+      "letters": "אֶ(e) + דְ(de) + רֹשׁ(rosh)",
+      "root": "ד-ר-שׁ (다라쉬)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"search_light\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"magnify\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#191970\" /></linearGradient></defs><circle cx=\"28\" cy=\"28\" r=\"16\" fill=\"none\" stroke=\"url(#magnify)\" stroke-width=\"4\" /><circle cx=\"28\" cy=\"28\" r=\"12\" fill=\"url(#search_light)\" opacity=\"0.3\" /><line x1=\"40\" y1=\"40\" x2=\"52\" y2=\"52\" stroke=\"url(#magnify)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 24 24 L 32 32\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "דָּרַשׁ (다라쉬 - 찾다, 요구하다)",
+        "מִדְרָשׁ (미드라쉬 - 연구, 주석)"
+      ]
+    },
+    {
+      "hebrew": "דִּמְכֶם",
+      "meaning": "너희의 피",
+      "ipa": "dimχɛm",
+      "korean": "딤켐",
+      "letters": "דִּ(di) + מְ(me) + כֶם(khem)",
+      "root": "דָּם (담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"blood_life\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><path d=\"M 32 12 Q 24 20 20 28 Q 16 36 20 44 Q 24 52 32 52 Q 40 52 44 44 Q 48 36 44 28 Q 40 20 32 12 Z\" fill=\"url(#blood_life)\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 0, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "דָּם (담 - 피)",
+        "דָּמִים (다밈 - 피들, 살인)"
+      ]
+    },
+    {
+      "hebrew": "לְנַפְשֹׁתֵיכֶם",
+      "meaning": "너희 생명을 위하여",
+      "ipa": "lənapʃoˈtɛχɛm",
+      "korean": "레나프쇼테켐",
+      "letters": "לְ(le) + נַ(na) + פְ(pe) + שֹׁ(sho) + תֵי(te) + כֶם(khem)",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"lives_glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><circle cx=\"24\" cy=\"28\" r=\"12\" fill=\"url(#lives_glow)\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"28\" r=\"12\" fill=\"url(#lives_glow)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"40\" r=\"12\" fill=\"url(#lives_glow)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נֶפֶשׁ (네페쉬 - 생명, 영혼)",
+        "חַיִּים (하이임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "מִיַּד",
+      "meaning": "~의 손에서",
+      "ipa": "mijad",
+      "korean": "미야드",
+      "letters": "מִ(mi) + יַּד(yad)",
+      "root": "יָד (야드)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand_grasp\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect x=\"24\" y=\"36\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#hand_grasp)\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"#DC143C\" opacity=\"0.7\" /><path d=\"M 28 28 L 24 36\" stroke=\"#8B4513\" stroke-width=\"2\" /><path d=\"M 36 28 L 40 36\" stroke=\"#8B4513\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "יָד (야드 - 손)",
+        "כַּף (카프 - 손바닥)"
+      ]
+    },
+    {
+      "hebrew": "חַיָּה",
+      "meaning": "짐승",
+      "ipa": "χaˈja",
+      "korean": "하야",
+      "letters": "חַ(kha) + יָּה(ya)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"beast_gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"16\" fill=\"url(#beast_gradient)\" /><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#beast_gradient)\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#beast_gradient)\" /><circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"#000000\" /><circle cx=\"44\" cy=\"26\" r=\"3\" fill=\"#000000\" /><path d=\"M 28 32 L 32 36 L 36 32\" stroke=\"#654321\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "חַיָּה (하야 - 살아있는 것)",
+        "בְּהֵמָה (베헤마 - 가축)"
+      ]
+    },
+    {
+      "hebrew": "אִישׁ",
+      "meaning": "사람, 남자",
+      "ipa": "ʔiʃ",
+      "korean": "이쉬",
+      "letters": "אִ(i) + ישׁ(sh)",
+      "root": "א-נ-שׁ (아나쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"person_gradient\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#person_gradient)\" stroke=\"#8B4513\" stroke-width=\"2\" /><rect x=\"24\" y=\"30\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#person_gradient)\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"24\" y1=\"35\" x2=\"16\" y2=\"44\" stroke=\"#8B4513\" stroke-width=\"3\" stroke-linecap=\"round\" /><line x1=\"40\" y1=\"35\" x2=\"48\" y2=\"44\" stroke=\"#8B4513\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자)",
+        "אֱנוֹשׁ (에노쉬 - 인간)"
+      ]
+    },
+    {
+      "hebrew": "אָחִיו",
+      "meaning": "그의 형제",
+      "ipa": "aˈχiv",
+      "korean": "아히브",
+      "letters": "אָ(a) + חִ(khi) + יו(v)",
+      "root": "אָח (아흐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brothers\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"50%\" stop-color=\"#6495ED\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient></defs><circle cx=\"24\" cy=\"20\" r=\"6\" fill=\"url(#brothers)\" /><rect x=\"18\" y=\"28\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#brothers)\" /><circle cx=\"40\" cy=\"20\" r=\"6\" fill=\"url(#brothers)\" /><rect x=\"34\" y=\"28\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#brothers)\" /><path d=\"M 30 36 L 34 36\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָח (아흐 - 형제)",
+        "אָחוֹת (아호트 - 자매)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 생명의 피를 요구하시겠다고 선언하십니다. 이는 살인 금지의 근거가 되며, 모든 생명은 하나님께 책임을 져야 한다는 원리를 확립합니다. 동물에게서도, 사람에게서도 생명의 값을 치르게 하시겠다는 엄중한 경고입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֶדְרֹשׁ (에드로쉬) - 내가 반드시 찾으리라",
+        "description": "이 동사는 세 번 반복됩니다. '찾다', '요구하다', '묻다'의 의미로, 법정 용어입니다. 하나님은 심판자로서 모든 생명 유린에 대해 책임을 물으시겠다는 것입니다.",
+        "points": [
+          "하나님은 모든 생명의 주권자이십니다",
+          "생명 침해는 하나님께 직접 대답해야 할 죄입니다",
+          "반복은 강조와 확실성을 의미합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִיַּד כָּל-חַיָּה (미야드 콜 하야) - 모든 짐승의 손에서",
+        "description": "짐승이 사람을 죽였을 경우에도 하나님은 그 책임을 묻으십니다. 출애굽기 21:28-32에서는 소가 사람을 받아 죽였을 때 그 소를 죽이라고 명령합니다. 이는 인간 생명의 절대적 가치를 보여줍니다.",
+        "points": [
+          "인간의 생명은 동물보다 무한히 귀합니다",
+          "사람을 죽인 짐승도 심판받습니다",
+          "이는 하나님 형상의 존엄성 때문입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִיַּד אִישׁ אָחִיו (미야드 이쉬 아히브) - 각 사람의 형제의 손에서",
+        "description": "'형제'라는 단어는 모든 인간이 서로 형제임을 강조합니다. 카인이 아벨을 죽인 후 '내가 아우를 지키는 자입니까?'라고 물었을 때, 하나님은 '네 아우의 피가 땅에서부터 내게 호소하느니라'고 대답하셨습니다(창 4:9-10).",
+        "points": [
+          "모든 인간은 형제입니다",
+          "형제 살해는 가장 큰 죄 중 하나입니다",
+          "우리는 서로의 생명을 지킬 책임이 있습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "사형 제도의 신학적 근거",
+        "description": "이 구절은 다음 구절(9:6)의 사형 제도와 연결됩니다. 하나님이 직접 생명의 값을 요구하신다는 원리가 인간 사법 제도의 기초가 됩니다. 그러나 이는 복수가 아니라 정의의 실현입니다.",
+        "points": [
+          "정의는 하나님의 성품에서 나옵니다",
+          "생명의 값은 생명으로 치러야 합니다",
+          "그러나 예수 그리스도는 우리를 대신해 그 값을 치르셨습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람을 죽인 짐승에게도 책임을 물으실까요?",
+      "answer": "사람은 아주아주 특별하기 때문이에요. 하나님께서 사람을 하나님의 모습을 닮게 만드셨거든요. 그래서 사람의 생명은 무엇보다 소중해요. 만약 짐승이 사람을 해치면, 그 짐승도 벌을 받아야 해요. 이것은 사람이 얼마나 귀한 존재인지 보여주는 거예요. 하나님은 우리 한 사람 한 사람을 너무너무 사랑하셔서, 우리를 해치는 것은 무엇이든 용납하지 않으세요. 이것은 우리가 하나님의 눈에 얼마나 소중한지 알려주는 거랍니다.",
+      "bibleReferences": [
+        "창세기 4:10 - '이르시되 네가 무엇을 하였느냐 네 아우의 피 소리가 땅에서부터 내게 호소하느니라'",
+        "출애굽기 21:28 - '소가 남자나 여자를 받아서 죽이면 그 소는 반드시 돌로 쳐죽일 것이요 그 고기는 먹지 말 것이며'",
+        "민수기 35:33 - '너희는 거주하는 땅을 더럽히지 말라 피는 땅을 더럽히나니 피 흘림을 받은 땅은 이를 흘리게 한 자의 피가 아니면 속죄할 수 없느니라'",
+        "시편 9:12 - '피 흘림 당한 자를 심문하시는 이가 그들을 기억하심이여 가난한 자의 부르짖음을 잊지 아니하시도다'",
+        "마태복음 10:29-31 - '참새 두 마리가 한 앗사리온에 팔리지 않느냐 그러나 너희 아버지께서 허락하지 아니하시면 그 하나도 땅에 떨어지지 아니하리라... 두려워하지 말라 너희는 많은 참새보다 귀하니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:5는 모든 생명, 특히 인간 생명의 신성함을 확립합니다. 하나님은 생명의 주인이시며, 모든 생명 침해에 대해 책임을 물으십니다. 이는 카인과 아벨 사건 이후 더욱 명확해진 원리입니다. 짐승에게서도, 사람에게서도 생명의 값을 요구하신다는 이 엄중한 선언은, 인간이 하나님의 형상으로 창조되었기 때문입니다(9:6). 이 원리는 구약의 사법 제도와 신약의 그리스도 속죄론의 기초가 됩니다. 우리의 죄값(영적 죽음)을 치르기 위해 예수 그리스도께서 자신의 생명을 드리셨고, 하나님은 그 피를 받으셨습니다. 이제 우리는 그리스도의 피로 의롭다 함을 받았습니다(롬 5:9)."
+    }
+  }
+}

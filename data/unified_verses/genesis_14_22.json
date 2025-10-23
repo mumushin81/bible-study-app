@@ -1,0 +1,152 @@
+{
+  "id": "genesis_14_22",
+  "reference": "창세기 14:22",
+  "hebrew": "וַיֹּאמֶר אַבְרָם אֶל־מֶלֶךְ סְדֹם הֲרִמֹתִי יָדִי אֶל־יְהוָה אֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ׃",
+  "ipa": "vajˈjomɛr ʔavˈram ʔɛl-ˈmɛlɛχ səˈdom həriˈmoti jaˈdi ʔɛl-jəhoˈva ʔel ɛlˈjon koˈne ʃaˈmajim vaˈʔarɛts",
+  "koreanPronunciation": "바요메르 아브람 엘 멜레크 스돔 하리모티 야디 엘 여호와 엘 엘욘 코네 샤마임 바아레츠",
+  "modern": "아브람이 소돔 왕에게 대답했습니다. '나는 하늘과 땅을 만드신 가장 높으신 하나님 여호와께 손을 들어 맹세합니다.'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-speech22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#357ABD\" /></linearGradient><radialGradient id=\"abram-speech22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" /></radialGradient></defs><rect x=\"8\" y=\"20\" width=\"40\" height=\"30\" rx=\"8\" fill=\"url(#abram-speech22-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 50 L 16 58 L 24 52 Z\" fill=\"url(#abram-speech22-grad1)\" /><circle cx=\"18\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /><circle cx=\"38\" cy=\"32\" r=\"2\" fill=\"url(#abram-speech22-grad2)\" /></svg>",
+      "relatedWords": [
+        "דָּבָר (다바르 - 말씀)",
+        "פֶּה (페 - 입)"
+      ]
+    },
+    {
+      "hebrew": "הֲרִמֹתִי יָדִי",
+      "meaning": "내 손을 들었다 (맹세하다)",
+      "ipa": "həriˈmoti jaˈdi",
+      "korean": "하리모티 야디",
+      "letters": "הֲ(ha) + רִ(ri) + מֹ(mo) + תִי(ti) + יָ(ya) + דִי(di)",
+      "root": "ר-ו-ם (룸)",
+      "grammar": "동사",
+      "emoji": "✋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-oath22-grad1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFB74D\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></linearGradient><radialGradient id=\"abram-oath22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><path d=\"M 32 48 L 28 32 L 30 16 L 34 16 L 36 32 L 32 48 Z\" fill=\"url(#abram-oath22-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"16\" rx=\"4\" ry=\"6\" fill=\"url(#abram-oath22-grad1)\" /><path d=\"M 24 32 L 28 28 L 30 20 L 32 20 L 30 28 L 26 32 Z\" fill=\"url(#abram-oath22-grad1)\" /><path d=\"M 40 32 L 36 28 L 34 20 L 32 20 L 34 28 L 38 32 Z\" fill=\"url(#abram-oath22-grad1)\" /><circle cx=\"32\" cy=\"10\" r=\"8\" fill=\"url(#abram-oath22-grad2)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָשָׂא יָד (나사 야드 - 손을 들다)",
+        "שָׁבַע (샤바 - 맹세하다)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "ipa": "jəhoˈva",
+      "korean": "여호와",
+      "letters": "יְ(ye) + הוָ(ho) + ה(va)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-yhwh22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"abram-yhwh22-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#abram-yhwh22-grad2)\" opacity=\"0.2\" /><path d=\"M 12 40 L 16 28 L 22 32 L 32 20 L 42 32 L 48 28 L 52 40 Z\" fill=\"url(#abram-yhwh22-grad1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"40\" width=\"40\" height=\"6\" fill=\"url(#abram-yhwh22-grad1)\" rx=\"2\" /><circle cx=\"32\" cy=\"24\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\" /><path d=\"M 32 16 L 34 22 L 30 22 Z\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "אֲדֹנָי (아도나이 - 주님)",
+        "אֶהְיֶה (에흐예 - 나는 있다)"
+      ]
+    },
+    {
+      "hebrew": "אֵל עֶלְיוֹן",
+      "meaning": "가장 높으신 하나님",
+      "ipa": "ʔel ɛlˈjon",
+      "korean": "엘 엘욘",
+      "letters": "אֵל(el) + עֶ(el) + לְ(ye) + יוֹן(on)",
+      "root": "עָלָה (알라)",
+      "grammar": "명사",
+      "emoji": "⛰️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-elyon22-grad1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6A1B9A\" /><stop offset=\"50%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#AB47BC\" /></linearGradient><linearGradient id=\"abram-elyon22-grad2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A148C\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient><radialGradient id=\"abram-elyon22-glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><path d=\"M 32 8 L 52 48 L 44 48 L 32 28 L 20 48 L 12 48 Z\" fill=\"url(#abram-elyon22-grad1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 16 L 44 44 L 36 44 L 32 32 L 28 44 L 20 44 Z\" fill=\"url(#abram-elyon22-grad2)\" /><circle cx=\"32\" cy=\"8\" r=\"6\" fill=\"url(#abram-elyon22-glow)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><path d=\"M 32 4 L 34 8 L 30 8 Z\" fill=\"#FFD700\" /><path d=\"M 28 6 L 32 8 L 28 10 Z\" fill=\"#FFD700\" /><path d=\"M 36 6 L 32 8 L 36 10 Z\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "עֶלְיוֹן (엘욘 - 지극히 높으신)",
+        "רָם (람 - 높은)"
+      ]
+    },
+    {
+      "hebrew": "קֹנֵה שָׁמַיִם וָאָרֶץ",
+      "meaning": "하늘과 땅을 만드신 분",
+      "ipa": "koˈne ʃaˈmajim vaˈʔarɛts",
+      "korean": "코네 샤마임 바아레츠",
+      "letters": "קֹ(ko) + נֵה(ne) + שָׁ(sha) + מַיִם(mayim) + וָ(va) + אָ(a) + רֶץ(rets)",
+      "root": "ק-נ-ה (카나)",
+      "grammar": "동사",
+      "emoji": "🌍",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-creator22-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient><linearGradient id=\"abram-creator22-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient><radialGradient id=\"abram-creator22-grad3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#BBDEFB\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"36\" r=\"20\" fill=\"url(#abram-creator22-grad1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"22\" cy=\"36\" rx=\"8\" ry=\"12\" fill=\"url(#abram-creator22-grad2)\" /><ellipse cx=\"42\" cy=\"36\" rx=\"6\" ry=\"10\" fill=\"url(#abram-creator22-grad2)\" /><ellipse cx=\"32\" cy=\"30\" rx=\"5\" ry=\"6\" fill=\"url(#abram-creator22-grad2)\" /><circle cx=\"32\" cy=\"36\" r=\"22\" fill=\"url(#abram-creator22-grad3)\" /><path d=\"M 12 20 Q 32 8 52 20\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"10\" r=\"4\" fill=\"#FFEB3B\" filter=\"drop-shadow(0 0 6px rgba(255, 235, 59, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בָּרָא (바라 - 창조하다)",
+        "עָשָׂה (아사 - 만들다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아브람이 소돔 왕의 제안을 단호하게 거절하며 맹세하는 장면입니다. '손을 들어 맹세한다'는 표현은 고대 근동의 공식적인 맹세 의식을 나타내며, 아브람은 여호와를 '엘 엘욘(가장 높으신 하나님)'이라 부르며 창조주 하나님께 대한 신앙을 고백합니다. 이 맹세는 아브람이 물질보다 하나님을 선택하는 결정적인 순간입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הֲרִמֹתִי יָדִי (하리모티 야디) - 손을 들어 맹세하다",
+        "description": "히브리어 '하림 야드'는 '손을 높이 들다'라는 의미로, 고대 근동에서 공식적인 맹세나 서약을 할 때 사용하던 의식적 제스처입니다. 손을 하늘로 들어 올림으로써 하나님을 증인으로 삼고, 그 앞에서 진실을 말하겠다는 서약의 표시였습니다.",
+        "points": [
+          "공식적이고 구속력 있는 맹세의 표현입니다",
+          "하나님을 증인으로 세우는 엄숙한 행위입니다",
+          "아브람의 결단이 일시적 감정이 아닌 신앙적 결정임을 보여줍니다",
+          "신약의 '손을 들어 기도하다'의 배경이 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֵל עֶלְיוֹן (엘 엘욘) - 가장 높으신 하나님",
+        "description": "'엘 엘욘'은 하나님의 지고하심과 주권을 강조하는 호칭입니다. '엘욘'은 '가장 높은', '지극히 높은'을 의미하며, 이는 멜기세덱이 사용했던 호칭(14:18-20)을 아브람이 그대로 고백하는 것입니다. 아브람은 여호와가 모든 신들 위에 계신 유일하신 참 하나님임을 선포합니다.",
+        "points": [
+          "멜기세덱의 신앙 고백을 아브람이 받아들였습니다",
+          "여호와께서 소돔의 신들보다 높으심을 선언합니다",
+          "하나님의 절대적 주권과 초월성을 인정합니다",
+          "시편 91:1의 '지극히 높으신 자의 은밀한 곳'과 연결됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "קֹנֵה שָׁמַיִם וָאָרֶץ (코네 샤마임 바아레츠) - 하늘과 땅의 소유주",
+        "description": "'코네'는 '소유하다', '창조하다', '획득하다'는 의미를 모두 담고 있습니다. 하나님은 하늘과 땅을 창조하셨을 뿐 아니라 그것의 정당한 소유주이시며, 따라서 그 안의 모든 것도 하나님의 것입니다. 아브람은 이 고백을 통해 소돔 왕의 재물을 거절할 신학적 근거를 제시합니다.",
+        "points": [
+          "하나님은 우주의 창조주이자 소유주이십니다",
+          "모든 재물의 궁극적 주인은 하나님이십니다",
+          "아브람이 소돔 왕의 재물을 거절할 수 있는 이유입니다",
+          "창세기 1:1의 창조 신앙을 재확인합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "יְהוָה אֵל עֶלְיוֹן (여호와 엘 엘욘) - 언약의 하나님이자 우주의 통치자",
+        "description": "아브람은 '여호와'(언약의 하나님)와 '엘 엘욘'(우주의 통치자)을 결합하여 사용합니다. 이는 자신과 언약을 맺으신 하나님이 바로 온 우주를 다스리시는 지극히 높으신 분임을 고백하는 것입니다. 개인적 신앙과 우주적 주권이 하나로 통합됩니다.",
+        "points": [
+          "개인적 언약의 하나님이 우주적 통치자이심을 고백합니다",
+          "아브람의 신앙이 더욱 깊어지고 확장되었음을 보여줍니다",
+          "멜기세덱과의 만남이 아브람의 신학을 풍성하게 했습니다",
+          "신약의 '주 예수 그리스도' 고백의 구약적 원형입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 손을 들어 하나님께 맹세했을까요?",
+      "answer": "아브람은 자신이 한 말이 정말 진심이라는 것을 보여주고 싶었어요. 옛날 사람들은 중요한 약속을 할 때 하늘을 향해 손을 들었답니다. 마치 '하나님, 제가 거짓말하는지 보고 계세요!'라고 말하는 것 같아요. 아브람은 하나님께서 하늘과 땅을 모두 만드셨기 때문에, 소돔 왕의 재물 같은 것은 필요 없다고 말하고 싶었어요. 하나님이 가장 중요하다는 것을 보여주기 위해 손을 들어 맹세한 거예요.",
+      "bibleReferences": [
+        "출애굽기 6:8 - '내가 손을 들어 아브라함과 이삭과 야곱에게 주기로 맹세한 땅'",
+        "신명기 32:40 - '내가 하늘을 향하여 내 손을 들고 말하노니 나는 영원히 살아 있노라'",
+        "시편 63:4 - '이러므로 내가 평생에 주를 송축하며 주의 이름으로 말미암아 내 손을 들리이다'",
+        "디모데전서 2:8 - '그러므로 각처에서 남자들이 분노와 다툼이 없이 거룩한 손을 들어 기도하기를 원하노라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 맹세는 신앙과 삶의 일치를 보여줍니다. 하나님을 '가장 높으신 분', '하늘과 땅의 소유주'로 고백하는 것은 단순한 신학적 진술이 아니라, 구체적인 삶의 선택으로 이어집니다. 우리도 하나님을 주님으로 고백한다면, 세상의 재물과 명예보다 하나님의 뜻을 우선시하는 결단이 따라야 합니다. '너희는 하나님과 재물을 겸하여 섬기지 못하느니라'(마태복음 6:24)는 예수님의 말씀이 여기서 예표됩니다."
+    }
+  }
+}

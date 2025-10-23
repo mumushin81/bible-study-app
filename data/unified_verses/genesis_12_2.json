@@ -1,0 +1,185 @@
+{
+  "id": "genesis_12_2",
+  "reference": "창세기 12:2",
+  "hebrew": "וְאֶעֶשְׂךָ לְגוֹי גָּדוֹל, וַאֲבָרֶכְךָ וַאֲגַדְּלָה שְׁמֶךָ; וֶהְיֵה בְּרָכָה.",
+  "ipa": "vəʔɛˈɛsəxa ləˈgoj gaˈdol vaʔavaˈrɛxəxa vaʔagadˈdəla ʃəˈmɛxa vɛhˈje bəraˈxa",
+  "koreanPronunciation": "베에세카 레고이 가돌 바아바렉카 바아가드라 쉬메카 베흐예 베라카",
+  "modern": "내가 너를 큰 민족이 되게 하고, 너에게 복을 주어 네 이름을 위대하게 만들겠다. 너는 복의 근원이 될 것이다.",
+  "words": [
+    {
+      "hebrew": "וְאֶעֶשְׂךָ",
+      "meaning": "그리고 내가 너를 만들 것이다",
+      "ipa": "vəʔɛˈɛsəxa",
+      "korean": "베에세카",
+      "letters": "וְ(ve) + אֶ(e) + עֶשְׂ(es) + ךָ(kha)",
+      "root": "ע-שׂ-ה (아사 - 만들다)",
+      "grammar": "동사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"make_asah\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#make_asah)\" opacity=\"0.3\" /><path d=\"M 20 32 L 32 20 L 44 32 L 32 44 Z\" fill=\"#667EEA\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다, 하다)",
+        "מַעֲשֶׂה (마아세 - 행위, 작품)"
+      ]
+    },
+    {
+      "hebrew": "לְגוֹי",
+      "meaning": "민족으로",
+      "ipa": "ləˈgoj",
+      "korean": "레고이",
+      "letters": "לְ(le) + גוֹי(goy)",
+      "root": "גּוֹי (고이 - 민족)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nation_goy\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"6\" fill=\"url(#nation_goy)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"24\" r=\"6\" fill=\"url(#nation_goy)\" opacity=\"0.7\" /><circle cx=\"24\" cy=\"40\" r=\"6\" fill=\"url(#nation_goy)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"40\" r=\"6\" fill=\"url(#nation_goy)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#4FACFE\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "גּוֹי (고이 - 민족)",
+        "עַם (암 - 백성)"
+      ]
+    },
+    {
+      "hebrew": "גָּדוֹל",
+      "meaning": "큰, 위대한",
+      "ipa": "gaˈdol",
+      "korean": "가돌",
+      "letters": "גָּ(ga) + דוֹ(do) + ל(l)",
+      "root": "ג-ד-ל (가달 - 크다)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"great_gadol\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#great_gadol)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#great_gadol)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#great_gadol)\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "גָּדַל (가달 - 크다, 자라다)",
+        "גְּדֻלָּה (게둘라 - 위대함)"
+      ]
+    },
+    {
+      "hebrew": "וַאֲבָרֶכְךָ",
+      "meaning": "그리고 내가 너를 축복할 것이다",
+      "ipa": "vaʔavaˈrɛxəxa",
+      "korean": "바아바렉카",
+      "letters": "וַ(va) + אֲ(a) + בָרֶ(vare) + כְךָ(khe-kha)",
+      "root": "ב-ר-ך (바라크 - 축복하다)",
+      "grammar": "동사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bless_barach\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#bless_barach)\" opacity=\"0.4\" /><path d=\"M 32 16 L 34 28 L 46 28 L 36 36 L 40 48 L 32 40 L 24 48 L 28 36 L 18 28 L 30 28 Z\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "בָּרַךְ (바라크 - 축복하다)",
+        "בְּרָכָה (베라카 - 축복)"
+      ]
+    },
+    {
+      "hebrew": "וַאֲגַדְּלָה",
+      "meaning": "그리고 내가 크게 할 것이다",
+      "ipa": "vaʔagadˈdəla",
+      "korean": "바아가드라",
+      "letters": "וַ(va) + אֲ(a) + גַדְּ(gad) + לָה(lah)",
+      "root": "ג-ד-ל (가달 - 크다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"magnify_gadal\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"12\" height=\"8\" fill=\"url(#magnify_gadal)\" opacity=\"0.5\" /><rect x=\"20\" y=\"24\" width=\"16\" height=\"12\" fill=\"url(#magnify_gadal)\" opacity=\"0.6\" /><rect x=\"24\" y=\"20\" width=\"20\" height=\"16\" fill=\"url(#magnify_gadal)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "גָּדַל (가달 - 크게 하다)",
+        "הִתְגַּדֵּל (히트가델 - 스스로 크게 하다)"
+      ]
+    },
+    {
+      "hebrew": "שְׁמֶךָ",
+      "meaning": "네 이름",
+      "ipa": "ʃəˈmɛxa",
+      "korean": "쉬메카",
+      "letters": "שְׁ(she) + מֶ(me) + ךָ(kha)",
+      "root": "שֵׁם (솀 - 이름)",
+      "grammar": "명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name_shem\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><rect x=\"12\" y=\"24\" width=\"40\" height=\"16\" rx=\"4\" fill=\"url(#name_shem)\" opacity=\"0.5\" /><text x=\"32\" y=\"36\" font-size=\"14\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-weight=\"bold\">NAME</text></svg>",
+      "relatedWords": [
+        "שֵׁם (솀 - 이름)",
+        "הַשֵּׁם (하쉠 - 그 이름, 하나님)"
+      ]
+    },
+    {
+      "hebrew": "וֶהְיֵה",
+      "meaning": "그리고 너는 ~이 될 것이다",
+      "ipa": "vɛhˈje",
+      "korean": "베흐예",
+      "letters": "וֶ(ve) + הְ(he) + יֵה(yeh)",
+      "root": "ה-י-ה (하야 - 되다, 존재하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"be_hayah\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#be_hayah)\" opacity=\"0.4\" /><path d=\"M 24 32 L 40 32\" stroke=\"#4FACFE\" stroke-width=\"2\" marker-end=\"url(#arrow)\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"#00F2FE\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 되다, 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "בְּרָכָה",
+      "meaning": "축복",
+      "ipa": "bəraˈxa",
+      "korean": "베라카",
+      "letters": "בְּ(be) + רָ(ra) + כָה(khah)",
+      "root": "ב-ר-ך (바라크 - 축복하다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"blessing_berachah\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#blessing_berachah)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" /><path d=\"M 20 40 Q 32 48 44 40\" stroke=\"#FFD700\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 16 44 Q 32 54 48 44\" stroke=\"#FFA500\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בָּרוּךְ (바루크 - 축복받은)",
+        "בָּרַךְ (바라크 - 축복하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:2는 아브라함 언약의 핵심을 담고 있습니다. 하나님께서 아브람에게 주신 약속은 단지 개인적인 축복이 아니라, 온 인류를 위한 구속 계획의 시작입니다. 이 구절에는 다섯 가지 약속이 담겨 있으며, 모두 '나'(하나님)가 주어인 능동적 약속입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "큰 민족 (גּוֹי גָּדוֹל) - 양적 확장",
+        "description": "하나님은 자녀가 없던 75세의 아브람에게 '큰 민족'을 이루겠다고 약속하십니다. 이는 단순히 숫자적 증가가 아니라, 영향력 있는 민족이 되리라는 약속입니다.",
+        "points": [
+          "불가능해 보이는 상황에서도 하나님은 약속하십니다",
+          "하나님의 시간표는 우리와 다릅니다",
+          "이스라엘 민족의 탄생을 예고합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "복을 주심 (אֲבָרֶכְךָ) - 질적 풍성함",
+        "description": "'바라크(축복하다)'는 히브리어 동사는 단순히 좋은 것을 주는 것 이상을 의미합니다. 무릎을 꿇다(바라크)에서 유래한 이 단어는 하나님께서 아브람에게 임재하시고 능력을 부여하심을 뜻합니다.",
+        "points": [
+          "물질적 축복뿐 아니라 영적 축복을 포함합니다",
+          "하나님과의 관계가 축복의 원천입니다",
+          "축복은 하나님의 주권적 선물입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "이름을 위대하게 (אֲגַדְּלָה שְׁמֶךָ) - 명성과 영향력",
+        "description": "바벨탑 사건에서 사람들은 스스로 이름을 내려 했지만 실패했습니다(창 11:4). 그러나 하나님은 자신의 부르심에 순종하는 아브람의 이름을 친히 높이시겠다고 약속하십니다.",
+        "points": [
+          "바벨탑의 자기 영광과 대조됩니다",
+          "진정한 명예는 하나님께로부터 옵니다",
+          "아브라함의 이름은 오늘날까지 세 종교(유대교, 기독교, 이슬람)에서 존경받습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "복의 근원 (הְיֵה בְּרָכָה) - 타자를 향한 사명",
+        "description": "아브람은 축복을 받는 데서 그치지 않고, 다른 이들에게 축복이 되어야 합니다. 이는 선택받은 자의 책임과 사명을 나타냅니다.",
+        "points": [
+          "축복은 독점하는 것이 아니라 나누는 것입니다",
+          "이스라엘의 제사장적 사명을 암시합니다",
+          "우리도 받은 복을 다른 이들과 나눠야 합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람에게 이렇게 많은 축복을 약속하셨을까요?",
+      "answer": "하나님께서 아브람에게 축복을 약속하신 것은 아브람이 특별히 착해서가 아니에요. 하나님은 아브람을 통해 세상의 모든 사람들에게 복을 주시려는 큰 계획을 가지고 계셨어요. 마치 선생님이 한 학생에게 사탕을 많이 주시면서 '이걸 친구들과 나눠 먹어'라고 하시는 것처럼요. 하나님은 아브람의 후손을 통해 결국 예수님을 보내주셔서, 온 세상 사람들이 구원받을 수 있게 하셨답니다. 하나님의 축복은 항상 나 혼자만이 아니라 다른 사람들과 함께 누리라고 주시는 거예요.",
+      "bibleReferences": [
+        "창세기 18:18 - '아브라함은 강대한 나라가 되고 천하 만민은 그로 말미암아 복을 받게 될 것이 아니냐'",
+        "갈라디아서 3:8 - '또 하나님이 이방을 믿음으로 말미암아 의로 정하실 것을 성경이 미리 알고 먼저 아브라함에게 복음을 전하되 모든 이방인이 너로 말미암아 복을 받으리라 하였으니'",
+        "갈라디아서 3:14 - '이는 그리스도 예수 안에서 아브라함의 복이 이방인에게 미치게 하고'",
+        "베드로전서 2:9 - '그러나 너희는 택하신 족속이요 왕같은 제사장들이요 거룩한 나라요 그의 소유가 된 백성이니 이는 너희를 어두운 데서 불러내어 그의 기이한 빛에 들어가게 하신 이의 아름다운 덕을 선포하게 하려 하심이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:2의 약속은 신약에서 예수 그리스도를 통해 성취됩니다. 갈라디아서 3:8은 이 구절을 '복음을 미리 전한 것'으로 해석합니다. 아브라함의 '씨'인 그리스도를 통해 모든 민족이 축복을 받게 됩니다. 또한 이 구절은 '선교적 축복'의 패러다임을 보여줍니다. 하나님의 백성은 축복을 받되, 그 축복이 자신에게만 머물러서는 안 되며, 다른 이들에게도 복이 되어야 합니다. 이는 오늘날 교회의 사명이기도 합니다 - 받은 복을 세상과 나누는 것입니다."
+    }
+  }
+}

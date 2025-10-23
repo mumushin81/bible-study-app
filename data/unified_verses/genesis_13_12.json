@@ -1,0 +1,150 @@
+{
+  "id": "genesis_13_12",
+  "reference": "창세기 13:12",
+  "hebrew": "אַבְרָם יָשַׁב בְּאֶרֶץ כְּנַעַן וְלוֹט בְּעָרֵי הַכִּכָּר וַיֶּאֱהַל עַד סְדֹם",
+  "ipa": "ˈavram jaˈʃav bəˈʔerɛʦ kəˈnaʕan vəlot jaˈʃav bəʕare hakikˈkar vajeˈʔɛhal ʕad səˈdom",
+  "koreanPronunciation": "아브람 야샤브 베에레츠 케나안 베롯 야샤브 베아레 하키카르 바예에할 아드 스돔",
+  "modern": "아브람은 가나안 땅에 거주하였고, 롯은 평지의 성읍들에 거주하며 점점 소돔까지 장막을 옮겼습니다",
+  "words": [
+    {
+      "hebrew": "אַבְרָם",
+      "meaning": "아브람",
+      "ipa": "ˈavram",
+      "korean": "아브람",
+      "letters": "אַ(av) + בְרָם(ram)",
+      "root": "אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "👴",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-faith1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#B8860B\"/></linearGradient><radialGradient id=\"abram-blessing1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#abram-blessing1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#abram-faith1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"14\" fill=\"url(#abram-faith1)\"/><path d=\"M 32 10 L 32 16\" stroke=\"#FFD700\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"8\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "יָשַׁב",
+      "meaning": "거주하다",
+      "ipa": "jaˈʃav",
+      "korean": "야샤브",
+      "letters": "יָ(ya) + שַׁב(shav)",
+      "root": "י-שׁ-ב (야샤브)",
+      "grammar": "동사",
+      "emoji": "🏕️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-dwell1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient></defs><path d=\"M 32 16 L 12 40 L 52 40 Z\" fill=\"url(#abram-dwell1)\" filter=\"drop-shadow(0 2px 4px rgba(210, 105, 30, 0.4))\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#8B4513\"/><path d=\"M 32 16 L 32 12\" stroke=\"#D2691E\" stroke-width=\"2\"/><circle cx=\"32\" cy=\"10\" r=\"2\" fill=\"#FFD700\"/></svg>"
+    },
+    {
+      "hebrew": "בְּאֶרֶץ כְּנַעַן",
+      "meaning": "가나안 땅에",
+      "ipa": "bəˈʔerɛʦ kəˈnaʕan",
+      "korean": "베에레츠 케나안",
+      "letters": "בְּ(be) + אֶ(e) + רֶץ(retz) + כְּ(ke) + נַעַן(na'an)",
+      "root": "א-ר-ץ (에레츠)",
+      "grammar": "명사",
+      "emoji": "🗺️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-canaan1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"50%\" stop-color=\"#6B8E23\"/><stop offset=\"100%\" stop-color=\"#556B2F\"/></linearGradient><radialGradient id=\"abram-promise-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"4\" fill=\"url(#abram-canaan1)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#abram-promise-glow1)\" opacity=\"0.4\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 20 28 L 32 20 L 44 28 L 44 44 L 20 44 Z\" fill=\"#8B4513\" opacity=\"0.6\"/><path d=\"M 28 36 L 28 44\" stroke=\"#FFD700\" stroke-width=\"2\"/><path d=\"M 36 36 L 36 44\" stroke=\"#FFD700\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "וְלוֹט",
+      "meaning": "그리고 롯은",
+      "ipa": "vəlot",
+      "korean": "베롯",
+      "letters": "וְ(ve) + לוֹט(lot)",
+      "root": "לוֹט (롯)",
+      "grammar": "명사",
+      "emoji": "🧑‍🦱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-contrast1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#A9A9A9\"/></linearGradient></defs><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#lot-contrast1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#lot-contrast1)\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "בְּעָרֵי הַכִּכָּר",
+      "meaning": "평야의 성읍들에",
+      "ipa": "bəʕare hakikˈkar",
+      "korean": "베아레 하키카르",
+      "letters": "בְּ(be) + עָ(a) + רֵי(re) + הַ(ha) + כִּכָּר(kikar)",
+      "root": "ע-י-ר (이르)",
+      "grammar": "명사",
+      "emoji": "🏘️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-cities1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B0B0B0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient></defs><rect x=\"12\" y=\"32\" width=\"12\" height=\"20\" fill=\"url(#lot-cities1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><rect x=\"28\" y=\"28\" width=\"12\" height=\"24\" fill=\"url(#lot-cities1)\"/><rect x=\"44\" y=\"36\" width=\"12\" height=\"16\" fill=\"url(#lot-cities1)\"/><rect x=\"14\" y=\"36\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/><rect x=\"30\" y=\"32\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/><rect x=\"46\" y=\"40\" width=\"3\" height=\"4\" fill=\"#FFD700\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "וַיֶּאֱהַל",
+      "meaning": "그리고 장막을 치다",
+      "ipa": "vajeˈʔɛhal",
+      "korean": "바예에할",
+      "letters": "וַ(va) + יֶּ(ye) + אֱהַל(ehal)",
+      "root": "א-ה-ל (아할)",
+      "grammar": "동사",
+      "emoji": "⛺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-tent1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"lot-shadow1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"rgba(0,0,0,0.3)\"/><stop offset=\"100%\" stop-color=\"rgba(0,0,0,0)\"/></linearGradient></defs><path d=\"M 32 20 L 16 44 L 48 44 Z\" fill=\"url(#lot-tent1)\" filter=\"drop-shadow(0 2px 4px rgba(139, 69, 19, 0.4))\"/><rect x=\"30\" y=\"44\" width=\"4\" height=\"10\" fill=\"#654321\"/><ellipse cx=\"32\" cy=\"54\" rx=\"16\" ry=\"4\" fill=\"url(#lot-shadow1)\"/></svg>"
+    },
+    {
+      "hebrew": "עַד סְדֹם",
+      "meaning": "소돔까지",
+      "ipa": "ʕad səˈdom",
+      "korean": "아드 스돔",
+      "letters": "עַד(ad) + סְ(se) + דֹם(dom)",
+      "root": "סְדֹם (스돔)",
+      "grammar": "명사",
+      "emoji": "🔥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-sodom1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"50%\" stop-color=\"#FF4500\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><rect x=\"20\" y=\"36\" width=\"24\" height=\"20\" fill=\"#2F4F4F\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.4))\"/><rect x=\"24\" y=\"42\" width=\"4\" height=\"6\" fill=\"#FF4500\" opacity=\"0.6\"/><rect x=\"36\" y=\"42\" width=\"4\" height=\"6\" fill=\"#FF4500\" opacity=\"0.6\"/><path d=\"M 26 36 L 26 28 Q 24 32 22 28 L 24 32 Z\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(0 0 4px rgba(255, 69, 0, 0.6))\"/><path d=\"M 38 36 L 38 28 Q 36 32 34 28 L 36 32 Z\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(0 0 4px rgba(255, 69, 0, 0.6))\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 12절은 아브라함과 롯의 대조적인 거처를 보여줍니다. 아브라함은 가나안 땅에 거주했고, 롯은 점차 소돔으로 가까이 갔습니다. '장막을 쳤다'는 표현은 단순한 물리적 이동이 아니라 점진적인 영적 타협을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יָשַׁב בְּאֶרֶץ כְּנַעַן (야샤브 베에레츠 케나안) - 가나안 땅에 거주하다",
+        "description": "아브라함이 '거주했다'는 것은 하나님의 약속의 땅에 머물렀다는 의미입니다. 그는 외적으로는 덜 풍요로워 보이는 땅을 선택했지만, 이곳이 하나님께서 약속하신 언약의 땅이었습니다.",
+        "points": [
+          "하나님의 약속을 신뢰하고 그 땅에 머물렀습니다",
+          "외적 조건보다 하나님의 말씀을 따랐습니다",
+          "가나안은 후에 이스라엘의 기업이 될 약속의 땅"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בְּעָרֵי הַכִּכָּר (베아레 하키카르) - 평야의 성읍들에",
+        "description": "롯은 '성읍들'에 거주했습니다. 이는 문명의 편리함과 도시의 풍요를 추구했다는 의미입니다. 그러나 이 성읍들은 소돔과 고모라를 포함한 죄악된 도시들이었습니다.",
+        "points": [
+          "문명의 편리함과 세상적 풍요를 선택했습니다",
+          "영적 위험을 간과한 채 물질적 이익만 추구",
+          "성읍들은 곧 하나님의 심판을 받을 곳들"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיֶּאֱהַל עַד סְדֹם (바예에할 아드 스돔) - 소돔까지 장막을 치다",
+        "description": "'소돔까지'라는 표현은 점진적인 타협을 보여줍니다. 처음에는 멀리서 바라보다가(10절), 평야로 이동하고(11절), 이제는 소돔 가까이까지 장막을 쳤습니다. 다음 장(14:12)에서는 소돔 성 안에 살게 됩니다.",
+        "points": [
+          "죄와의 타협은 점진적으로 이루어집니다",
+          "처음에는 '가까이'만 하다가 결국 '안'으로 들어가게 됩니다",
+          "작은 타협이 큰 영적 위기로 이어집니다"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֹהֶל בְּכְנַעַן וְאֹהֶל עַד סְדֹם (오헬 베크나안 베오헬 아드 세돔) - 두 가지 장막",
+        "description": "이 구절은 아브라함과 롯의 선택이 가져온 결과를 대조적으로 보여줍니다. 아브라함은 약속의 땅에 장막을 치며 순례자로 살았고, 롯은 세상 도시에 정착하며 편안함을 추구했습니다.",
+        "points": [
+          "아브라함: 약속을 신뢰하며 순례자의 삶",
+          "롯: 현세적 안정을 추구하며 세상과 타협",
+          "우리의 거처는 우리의 가치관을 반영합니다 (히 11:9-10)"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "롯은 왜 점점 소돔 가까이로 장막을 옮겼나요?",
+      "answer": "롯은 처음에는 멀리서 소돔을 바라보기만 했어요. 하지만 그곳이 너무 좋아 보여서 조금씩 가까이 갔답니다. 처음에는 '조금만'이라고 생각했겠지만, 점점 더 가까이 가다가 결국 소돔 성 안에 살게 되었어요. 이것은 우리가 나쁜 것에 조금씩 가까이 가면 결국 그 안으로 들어가게 된다는 것을 보여줘요. 그래서 처음부터 나쁜 것과는 멀리 떨어져 있어야 해요.",
+      "bibleReferences": [
+        "창세기 14:12 - '소돔에 거주하는 아브람의 조카 롯도 사로잡고'",
+        "창세기 19:1 - '그 때에 롯이 소돔 성문에 앉았더라'",
+        "야고보서 1:14-15 - '각 사람이 시험을 받는 것은 자기 욕심에 끌려 미혹됨이니'",
+        "히브리서 11:9-10 - '믿음으로 그가 이방의 땅에 있는 것 같이 약속의 땅에 거류하여'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 '점진적 타협'의 위험성을 경고합니다. 롯의 소돔행은 한순간에 이루어진 것이 아니라 단계적으로 진행되었습니다: 바라봄(10절) → 선택(11절) → 가까이 장막을 침(12절) → 성 안에 거주(14:12). 반면 아브라함은 약속의 땅에 순례자로 거하며 영원한 성을 바라보았습니다(히 11:10). 우리의 거처는 우리의 시민권이 어디에 있는지를 보여줍니다(빌 3:20)."
+    }
+  }
+}

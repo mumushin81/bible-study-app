@@ -1,0 +1,215 @@
+{
+  "id": "genesis_4_22",
+  "reference": "창세기 4:22",
+  "hebrew": "וְצִלָּה גַם הִוא יָלְדָה אֶת תּוּבַל קַיִן לֹטֵשׁ כָּל חֹרֵשׁ נְחֹשֶׁת וּבַרְזֶל וַאֲחוֹת תּוּבַל קַיִן נַעֲמָה",
+  "ipa": "vəʦiˈla gam hi jaləˈda ʔɛt tuˈval ˈkajin loˈteʃ kol xoˈreʃ nəˈxoʃet uvarˈzel vaʔaxot tuˈval ˈkajin naʕaˈma",
+  "koreanPronunciation": "베칠라 감 히 얄다 에트 투발 카인 로테쉬 콜 호레쉬 네호쉐트 우바르젤 바아호트 투발 카인 나아마",
+  "modern": "씰라도 두발가인을 낳았는데, 그는 구리와 쇠로 여러 가지 기구를 만드는 자가 되었고, 두발가인의 누이는 나아마였습니다",
+  "words": [
+    {
+      "hebrew": "וְצִלָּה",
+      "meaning": "그리고 씰라",
+      "ipa": "vəʦiˈla",
+      "korean": "베칠라",
+      "letters": "וְ(ve) + צִ(tsi) + לָּה(lah)",
+      "root": "צ-ל-ל (칠랄)",
+      "grammar": "명사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"zillah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#C2185B\"/></linearGradient><linearGradient id=\"hair22\"><stop offset=\"0%\" stop-color=\"#4A148C\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(233, 30, 99, 0.1)\"/><ellipse cx=\"32\" cy=\"26\" rx=\"13\" ry=\"15\" fill=\"url(#zillah1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 12 Q 24 8 32 8 Q 40 8 44 12 Q 46 16 44 20 L 42 24\" stroke=\"url(#hair22)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#333\"/></svg>"
+    },
+    {
+      "hebrew": "גַם הִוא",
+      "meaning": "또한 그녀도",
+      "ipa": "gam hi",
+      "korean": "감 히",
+      "letters": "גַם(gam) + הִ(hi) + וא(a)",
+      "root": "ג-מ (감)",
+      "grammar": "부사",
+      "emoji": "➕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"also1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#also1)\" opacity=\"0.2\"/><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" rx=\"2\" fill=\"url(#also1)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/><rect x=\"16\" y=\"28\" width=\"32\" height=\"8\" rx=\"2\" fill=\"url(#also1)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "יָלְדָה",
+      "meaning": "낳았다",
+      "ipa": "jaləˈda",
+      "korean": "얄다",
+      "letters": "יָ(ya) + לְ(le) + דָה(dah)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"baby22\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"halo22\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#halo22)\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby22)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#baby22)\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת תּוּבַל קַיִן",
+      "meaning": "두발가인을",
+      "ipa": "ʔɛt tuˈval ˈkajin",
+      "korean": "에트 투발 카인",
+      "letters": "אֶת(et) + תּוּ(tu) + בַל(val) + קַ(ka) + יִן(yin)",
+      "root": "ת-ב-ל (투발)",
+      "grammar": "명사",
+      "emoji": "⚒️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tubal1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#607D8B\"/><stop offset=\"100%\" stop-color=\"#37474F\"/></linearGradient><linearGradient id=\"metal1\"><stop offset=\"0%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#D84315\"/></linearGradient><radialGradient id=\"fire1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#D84315\"/></radialGradient></defs><rect x=\"16\" y=\"36\" width=\"12\" height=\"20\" rx=\"2\" fill=\"url(#tubal1)\" filter=\"drop-shadow(0 3px 6px rgba(55, 71, 79, 0.5))\"/><path d=\"M 22 20 L 14 36 L 30 36 Z\" fill=\"url(#metal1)\" filter=\"drop-shadow(0 2px 4px rgba(216, 67, 21, 0.4))\"/><circle cx=\"44\" cy=\"32\" r=\"12\" fill=\"url(#fire1)\" opacity=\"0.4\"/><path d=\"M 44 24 Q 48 28 44 32 Q 40 28 44 24\" fill=\"url(#fire1)\"/></svg>"
+    },
+    {
+      "hebrew": "לֹטֵשׁ",
+      "meaning": "벼리는 자, 제련하는 자",
+      "ipa": "loˈteʃ",
+      "korean": "로테쉬",
+      "letters": "לֹ(lo) + טֵשׁ(tesh)",
+      "root": "ל-ט-שׁ (라타쉬)",
+      "grammar": "동사",
+      "emoji": "🔨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sharpen1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90A4AE\"/><stop offset=\"100%\" stop-color=\"#546E7A\"/></linearGradient><linearGradient id=\"spark1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"8\" rx=\"2\" fill=\"url(#sharpen1)\" filter=\"drop-shadow(0 2px 4px rgba(84, 110, 122, 0.4))\"/><path d=\"M 32 16 L 24 44 L 40 44 Z\" fill=\"url(#sharpen1)\" filter=\"drop-shadow(0 3px 6px rgba(84, 110, 122, 0.5))\"/><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"url(#spark1)\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"url(#spark1)\"/><circle cx=\"32\" cy=\"28\" r=\"2\" fill=\"url(#spark1)\"/></svg>"
+    },
+    {
+      "hebrew": "כָּל",
+      "meaning": "모든",
+      "ipa": "kol",
+      "korean": "콜",
+      "letters": "כָּ(ko) + ל(l)",
+      "root": "כ-ל-ל (칼랄)",
+      "grammar": "형용사",
+      "emoji": "🌐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all22\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\"/><stop offset=\"100%\" stop-color=\"#0097A7\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#all22)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(0, 188, 212, 0.4))\"/><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#all22)\"/><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"url(#all22)\"/><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"url(#all22)\"/><circle cx=\"32\" cy=\"48\" r=\"4\" fill=\"url(#all22)\"/><circle cx=\"24\" cy=\"24\" r=\"3\" fill=\"url(#all22)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"url(#all22)\" opacity=\"0.7\"/><circle cx=\"24\" cy=\"40\" r=\"3\" fill=\"url(#all22)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"40\" r=\"3\" fill=\"url(#all22)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "חֹרֵשׁ",
+      "meaning": "대장장이, 제작자",
+      "ipa": "xoˈreʃ",
+      "korean": "호레쉬",
+      "letters": "חֹ(ho) + רֵשׁ(resh)",
+      "root": "ח-ר-שׁ (하라쉬)",
+      "grammar": "명사",
+      "emoji": "👨‍🏭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"smith1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient><linearGradient id=\"anvil1\"><stop offset=\"0%\" stop-color=\"#708090\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><radialGradient id=\"heat1\"><stop offset=\"0%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"rgba(255, 107, 53, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#smith1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#smith1)\"/><rect x=\"40\" y=\"46\" width=\"16\" height=\"8\" rx=\"2\" fill=\"url(#anvil1)\" filter=\"drop-shadow(0 2px 4px rgba(47, 79, 79, 0.4))\"/><circle cx=\"48\" cy=\"40\" r=\"8\" fill=\"url(#heat1)\" opacity=\"0.5\"/></svg>"
+    },
+    {
+      "hebrew": "נְחֹשֶׁת",
+      "meaning": "구리, 청동",
+      "ipa": "nəˈxoʃet",
+      "korean": "네호쉐트",
+      "letters": "נְ(ne) + חֹ(ho) + שֶׁת(shet)",
+      "root": "נ-ח-שׁ (나하쉬)",
+      "grammar": "명사",
+      "emoji": "🟫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bronze1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD7F32\"/><stop offset=\"50%\" stop-color=\"#B87333\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><radialGradient id=\"shine1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#bronze1)\" filter=\"drop-shadow(0 4px 8px rgba(139, 69, 19, 0.5))\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#shine1)\" opacity=\"0.3\"/><circle cx=\"24\" cy=\"24\" r=\"4\" fill=\"#FFD700\" opacity=\"0.5\"/></svg>"
+    },
+    {
+      "hebrew": "וּבַרְזֶל",
+      "meaning": "그리고 쇠, 철",
+      "ipa": "uvarˈzel",
+      "korean": "우바르젤",
+      "letters": "וּ(u) + בַ(bar) + רְזֶל(zel)",
+      "root": "ב-ר-ז (바르즈)",
+      "grammar": "명사",
+      "emoji": "⚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"iron1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#708090\"/><stop offset=\"50%\" stop-color=\"#4F4F4F\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient><radialGradient id=\"shine22\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"rgba(192, 192, 192, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#iron1)\" filter=\"drop-shadow(0 4px 8px rgba(47, 79, 79, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#shine22)\" opacity=\"0.4\"/><circle cx=\"26\" cy=\"26\" r=\"3\" fill=\"#C0C0C0\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "וַאֲחוֹת",
+      "meaning": "그리고 누이",
+      "ipa": "vaʔaxot",
+      "korean": "바아호트",
+      "letters": "וַ(va) + אֲ(a) + חוֹת(hot)",
+      "root": "א-ח (아흐)",
+      "grammar": "명사",
+      "emoji": "👧",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sister1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\"/><stop offset=\"100%\" stop-color=\"#FF69B4\"/></linearGradient><linearGradient id=\"hair23\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"26\" rx=\"13\" ry=\"15\" fill=\"url(#sister1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 12 Q 24 8 32 8 Q 40 8 44 12 Q 46 16 44 20 L 42 24\" stroke=\"url(#hair23)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"28\" cy=\"24\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"24\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#sister1)\"/></svg>"
+    },
+    {
+      "hebrew": "תּוּבַל קַיִן",
+      "meaning": "두발가인",
+      "ipa": "tuˈval ˈkajin",
+      "korean": "투발 카인",
+      "letters": "תּוּ(tu) + בַל(val) + קַ(ka) + יִן(yin)",
+      "root": "ת-ב-ל (투발)",
+      "grammar": "명사",
+      "emoji": "⚒️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tubal22\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#607D8B\"/><stop offset=\"100%\" stop-color=\"#37474F\"/></linearGradient><linearGradient id=\"metal22\"><stop offset=\"0%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#D84315\"/></linearGradient><radialGradient id=\"fire22\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FF6B35\"/><stop offset=\"100%\" stop-color=\"#D84315\"/></radialGradient></defs><rect x=\"16\" y=\"36\" width=\"12\" height=\"20\" rx=\"2\" fill=\"url(#tubal22)\" filter=\"drop-shadow(0 3px 6px rgba(55, 71, 79, 0.5))\"/><path d=\"M 22 20 L 14 36 L 30 36 Z\" fill=\"url(#metal22)\" filter=\"drop-shadow(0 2px 4px rgba(216, 67, 21, 0.4))\"/><circle cx=\"44\" cy=\"32\" r=\"12\" fill=\"url(#fire22)\" opacity=\"0.4\"/><path d=\"M 44 24 Q 48 28 44 32 Q 40 28 44 24\" fill=\"url(#fire22)\"/></svg>"
+    },
+    {
+      "hebrew": "נַעֲמָה",
+      "meaning": "나아마",
+      "ipa": "naʕaˈma",
+      "korean": "나아마",
+      "letters": "נַ(na) + עֲ(a) + מָה(mah)",
+      "root": "נ-ע-מ (나암)",
+      "grammar": "명사",
+      "emoji": "👸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"naamah1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"50%\" stop-color=\"#FF1493\"/><stop offset=\"100%\" stop-color=\"#C71585\"/></linearGradient><linearGradient id=\"crown22\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"30\" rx=\"13\" ry=\"15\" fill=\"url(#naamah1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 16 L 24 12 L 28 16 L 32 10 L 36 16 L 40 12 L 44 16 L 40 20 L 32 18 L 24 20 Z\" fill=\"url(#crown22)\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.5))\"/><circle cx=\"28\" cy=\"28\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"28\" r=\"2\" fill=\"#333\"/><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 3px rgba(255, 20, 147, 0.8))\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 22절은 두발가인을 금속 제련과 도구 제작의 창시자로 소개합니다. 그는 구리와 철을 다루는 기술을 개발하여 인류 문명에 큰 진보를 가져왔으며, 이는 청동기 시대와 철기 시대의 시작을 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תּוּבַל קַיִן (투발 카인) - 금속공학의 창시자",
+        "description": "'투발'은 '생산하다', '가져오다'를 의미하며, '가인'은 그의 조상 가인과 연결됩니다. 두발가인은 금속을 제련하고 가공하는 기술을 발명한 인물로, 인류 역사에서 금속 시대의 문을 연 혁명적 인물입니다.",
+        "points": [
+          "청동기와 철기 시대의 기술적 혁신을 대표",
+          "도구와 무기 제작 기술의 발전",
+          "문명의 급속한 발전을 가능하게 한 기술 혁명"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לֹטֵשׁ (로테쉬) - 벼리다, 제련하다",
+        "description": "'로테쉬'는 금속을 '날카롭게 하다', '벼리다', '제련하다'를 의미합니다. 이는 단순히 금속을 발견한 것이 아니라, 그것을 불에 녹여 정제하고 형태를 만드는 고도의 기술을 의미합니다.",
+        "points": [
+          "고온으로 금속을 녹이는 제련 기술",
+          "불순물을 제거하고 순수한 금속을 얻는 정련 과정",
+          "영적으로 하나님께서 우리를 연단하심을 상징 (말라기 3:2-3)"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "נְחֹשֶׁת (네호쉐트) - 구리, 청동",
+        "description": "'네호쉐트'는 구리 또는 청동을 의미합니다. 구리는 인류가 최초로 제련한 금속 중 하나이며, 주석과 합금하면 청동이 됩니다. 청동기 시대는 석기 시대 이후의 큰 문명적 도약을 나타냅니다.",
+        "points": [
+          "구리는 성막의 제단과 여러 기구에 사용됨 (출애굽기 27:2)",
+          "청동은 농기구, 무기, 도구 제작에 혁명을 가져옴",
+          "인류 문명의 기술적 발전을 상징"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בַרְזֶל (바르젤) - 철",
+        "description": "'바르젤'은 철을 의미하며, 구리보다 단단하고 강한 금속입니다. 철기 시대는 더욱 강력한 도구와 무기를 가능하게 했으며, 농업과 건축, 전쟁에 혁명적 변화를 가져왔습니다.",
+        "points": [
+          "철은 구리보다 강하고 내구성이 뛰어남",
+          "성경에서 철은 강함과 견고함을 상징 (신명기 28:48, 시편 2:9)",
+          "철기 시대는 고대 문명의 전성기를 가져옴"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "5️⃣",
+        "title": "נַעֲמָה (나아마) - 아름다움",
+        "description": "'나아마'라는 이름은 '즐거움', '아름다움', '쾌적함'을 의미합니다. 그녀는 성경에 이름이 기록된 최초의 여성 중 하나이지만, 그녀의 역할에 대한 추가 정보는 없습니다. 일부 전통은 그녀가 노아의 아들들 중 하나와 결혼했다고 합니다.",
+        "points": [
+          "가인의 후손 중 이름이 명시된 유일한 여성",
+          "이름의 의미처럼 아름다움과 기쁨을 나타냄",
+          "성경의 간결한 기록 속에서도 주목받는 인물"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "두발가인은 왜 구리와 철로 도구를 만들었나요?",
+      "answer": "두발가인은 돌이나 나무보다 훨씬 강한 물질을 발견했어요. 구리와 철은 불에 녹였다가 원하는 모양으로 만들 수 있었거든요. 이렇게 만든 칼이나 도끼, 농기구는 돌로 만든 것보다 훨씬 강하고 오래 사용할 수 있었어요. 두발가인은 이런 금속을 다루는 기술을 발명해서 사람들의 생활을 편리하게 만들었답니다. 마치 지금 우리가 철로 만든 자동차나 건물을 사용하는 것처럼요!",
+      "bibleReferences": [
+        "출애굽기 27:2 - '네 모퉁이에 뿔을 만들되 그 뿔이 제단에 이어지게 하고 제단을 놋으로 싸고'",
+        "신명기 8:9 - '그 땅의 돌은 철이요 산에서는 동을 캘 것이라'",
+        "사무엘상 13:19 - '그 때에 이스라엘 온 땅에 철공이 없었으니 이는 블레셋 사람들이 말하기를 히브리 사람들이 칼이나 창을 만들까 두렵다 하였음이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "두발가인의 금속 공예 기술은 인간의 창의성과 하나님의 창조 질서에 대한 이해가 결합된 결과입니다. 하나님께서는 땅속에 금속을 두셨고, 인간에게 그것을 발견하고 사용할 지혜를 주셨습니다. 그러나 기술은 선을 위해서도 악을 위해서도 사용될 수 있습니다. 청동과 철은 농기구를 만들어 생산성을 높이기도 했지만, 무기를 만들어 폭력을 증가시키기도 했습니다. 이는 하나님의 선물을 어떻게 사용하느냐가 중요함을 보여줍니다. 가인의 후손들의 문명 발전은 타락 이후에도 하나님의 일반 은총이 계속됨을 증거합니다."
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_25",
+  "reference": "창세기 9:25",
+  "hebrew": "וַיֹּאמֶר אָרוּר כְּנַעַן עֶבֶד עֲבָדִים יִהְיֶה לְאֶחָיו",
+  "ipa": "vajːoːmɛr ʔaːruːr kənaːʕan ʕɛvɛd ʕaːvaːdiːm jihjeː ləʔɛχaːjv",
+  "koreanPronunciation": "바요메르 아루르 크나안 에베드 아바딤 이흐예 레에하브",
+  "modern": "그가 말했다: '가나안은 저주를 받을 것이다. 그는 그의 형제들의 종들의 종이 될 것이다'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말했다",
+      "ipa": "vajːoːmɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "אָמַר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"said_vayomer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"20\" ry=\"16\" fill=\"url(#said_vayomer)\" opacity=\"0.8\" /><path d=\"M 24 40 L 32 44 L 28 40 Z\" fill=\"url(#said_vayomer)\" opacity=\"0.8\" /><path d=\"M 26 22 Q 28 20 30 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 34 22 Q 36 20 38 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבַר (다바르 - 말하다, 이야기하다)"
+      ]
+    },
+    {
+      "hebrew": "אָרוּר",
+      "meaning": "저주받은",
+      "ipa": "ʔaːruːr",
+      "korean": "아루르",
+      "letters": "אָ(a) + רוּר(rur)",
+      "root": "אָרַר (아라르)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"cursed_arur\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#212121\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#cursed_arur)\" opacity=\"0.7\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))\" /><path d=\"M 20 20 L 44 44\" stroke=\"#FF5252\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 44 20 L 20 44\" stroke=\"#FF5252\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָרַר (아라르 - 저주하다)",
+        "קְלָלָה (클랄라 - 저주)"
+      ]
+    },
+    {
+      "hebrew": "כְּנַעַן",
+      "meaning": "가나안",
+      "ipa": "kənaːʕan",
+      "korean": "크나안",
+      "letters": "כְּ(ke) + נַ(na) + עַן(an)",
+      "root": "כְּנַעַן (크나안)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"canaan_kenaan2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><path d=\"M 12 48 L 12 32 Q 12 24 20 20 L 44 20 Q 52 24 52 32 L 52 48 Z\" fill=\"url(#canaan_kenaan2)\" opacity=\"0.8\" /><rect x=\"24\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><rect x=\"34\" y=\"32\" width=\"6\" height=\"8\" fill=\"#8D6E63\" opacity=\"0.8\" /><path d=\"M 20 28 L 24 24 L 28 28\" fill=\"#D84315\" opacity=\"0.7\" /><path d=\"M 36 28 L 40 24 L 44 28\" fill=\"#D84315\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "כָּנַע (카나 - 복종하다)",
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)"
+      ]
+    },
+    {
+      "hebrew": "עֶבֶד",
+      "meaning": "종",
+      "ipa": "ʕɛvɛd",
+      "korean": "에베드",
+      "letters": "עֶ(e) + בֶד(ved)",
+      "root": "עָבַד (아바드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"servant_eved\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#servant_eved)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"14\" fill=\"url(#servant_eved)\" opacity=\"0.8\" /><rect x=\"18\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved)\" opacity=\"0.7\" /><rect x=\"38\" y=\"36\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#servant_eved)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"none\" stroke=\"#9E9E9E\" stroke-width=\"2\" stroke-dasharray=\"4,4\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עָבַד (아바드 - 섬기다)",
+        "עֲבוֹדָה (아보다 - 일, 섬김)"
+      ]
+    },
+    {
+      "hebrew": "עֲבָדִים",
+      "meaning": "종들",
+      "ipa": "ʕaːvaːdiːm",
+      "korean": "아바딤",
+      "letters": "עֲ(a) + בָ(va) + דִים(dim)",
+      "root": "עָבַד (아바드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"servants_avadim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#757575\" /><stop offset=\"100%\" stop-color=\"#424242\" /></linearGradient></defs><circle cx=\"20\" cy=\"28\" r=\"6\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /><ellipse cx=\"20\" cy=\"42\" rx=\"10\" ry=\"10\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"10\" ry=\"10\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"28\" r=\"6\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"42\" rx=\"10\" ry=\"10\" fill=\"url(#servants_avadim)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "עֶבֶד (에베드 - 종)",
+        "שִׁפְחָה (쉬프하 - 여종)"
+      ]
+    },
+    {
+      "hebrew": "יִהְיֶה",
+      "meaning": "그가 될 것이다",
+      "ipa": "jihjeː",
+      "korean": "이흐예",
+      "letters": "יִ(yi) + הְ(he) + יֶה(yeh)",
+      "root": "הָיָה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"willbe_yihyeh\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"8\" fill=\"url(#willbe_yihyeh)\" opacity=\"0.5\" /><path d=\"M 32 32 L 48 32\" stroke=\"url(#willbe_yihyeh)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#willbe_yihyeh)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "הוֹוֶה (호베 - 현재)"
+      ]
+    },
+    {
+      "hebrew": "לְאֶחָיו",
+      "meaning": "그의 형제들에게",
+      "ipa": "ləʔɛχaːjv",
+      "korean": "레에하브",
+      "letters": "לְ(le) + אֶ(e) + חָיו(chav)",
+      "root": "אָח (아흐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hisbrothers_leechav\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"50%\" stop-color=\"#1976D2\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#hisbrothers_leechav)\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#hisbrothers_leechav)\" opacity=\"0.8\" /><path d=\"M 30 28 L 34 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָח (아흐 - 형제)",
+        "אָחוֹת (아호트 - 자매)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아의 예언적 저주 선언입니다. 가나안에 대한 저주는 성경에서 가장 논란이 많은 구절 중 하나입니다. 중요한 것은 이것이 인종적 저주가 아니라, 함의 불경한 행동에 대한 결과이며, 역사적으로 성취된 예언이라는 점입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֹּאמֶר אָרוּר כְּנַעַן (바요메르 아루르 크나안) - 가나안은 저주받으리라",
+        "description": "왜 함이 아니라 가나안이 저주받았을까요? 여러 해석이 있지만, 일반적으로 (1) 가나안이 실제로 불경한 행동을 했거나, (2) 함의 죄가 그의 후손에게 영향을 미쳤거나, (3) 예언적으로 가나안 족속의 도덕적 타락을 예고한 것으로 이해됩니다.",
+        "points": [
+          "죄의 결과는 세대를 넘어 영향을 미칠 수 있습니다",
+          "가나안 족속은 후에 극심한 도덕적 타락을 보였습니다",
+          "이 저주는 인종적이 아니라 도덕적, 영적 저주입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עֶבֶד עֲבָדִים (에베드 아바딤) - 종들의 종",
+        "description": "'종들의 종'은 히브리어 최상급 표현으로, 가장 낮은 지위를 의미합니다. 이는 역사적으로 가나안 족속이 이스라엘(셈의 후손)에게 복종하게 된 것으로 성취되었습니다.",
+        "points": [
+          "교만의 결과는 낮아짐입니다",
+          "부모를 경멸한 자는 낮은 지위에 이릅니다",
+          "역사적으로 여호수아의 가나안 정복에서 성취되었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יִהְיֶה לְאֶחָיו (이흐예 레에하브) - 그의 형제들에게",
+        "description": "가나안은 셈과 야벳(그의 '형제들')의 종이 될 것이라는 예언입니다. 이는 이스라엘(셈)과 그리스-로마(야벳) 문명에 의한 가나안 족속의 복속으로 역사적으로 실현되었습니다.",
+        "points": [
+          "가나안 족속은 이스라엘의 종이 되었습니다(여호수아 9:23)",
+          "페니키아인(가나안의 후손)은 그리스-로마에 복속되었습니다",
+          "예언은 역사를 통해 정확히 성취되었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "저주의 의미와 한계",
+        "description": "이 저주는 절대적이지 않습니다. 가나안 출신인 라합(여호수아 2장)과 가나안 여인(마태복음 15:22)은 믿음으로 구원받았습니다. 이는 하나님의 은혜가 모든 저주를 초월함을 보여줍니다.",
+        "points": [
+          "저주는 회개와 믿음으로 깨어질 수 있습니다",
+          "하나님의 은혜는 모든 저주보다 큽니다",
+          "예수 그리스도는 모든 저주를 십자가에서 담당하셨습니다(갈라디아서 3:13)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 가나안은 저주를 받았나요?",
+      "answer": "이것은 어려운 질문이에요. 함이 잘못했는데 왜 가나안이 저주를 받았는지 궁금하죠? 몇 가지 이유가 있어요. 첫째, 아빠 함이 노아를 존경하지 않은 것을 보고 배웠기 때문에 가나안도 할아버지를 존경하지 않았을 수 있어요. 둘째, 나중에 가나안 사람들이 정말 나쁜 일을 많이 해서, 노아가 미리 그것을 예언한 거예요. 하지만 중요한 것은, 가나안 사람 중에서도 하나님을 믿으면 축복받을 수 있었어요! 라합이라는 가나안 여자는 하나님을 믿어서 구원받았고, 예수님의 조상이 되었답니다. 이것은 우리 부모님이나 조상이 어떤 사람이든, 우리가 하나님을 믿으면 축복받을 수 있다는 것을 보여줘요!",
+      "bibleReferences": [
+        "여호수아 9:23 - '그러므로 너희가 저주를 받나니 너희는 영원히 종이 되어 다 내 하나님의 집을 위하여 나무 패며 물 긷는 자가 되리라'",
+        "사사기 1:28 - '이스라엘이 강성한 후에야 가나안 족속에게 사역을 시켰고 다 쫓아내지 아니하였더라'",
+        "여호수아 2:11-13 - '우리가 듣자 곧 마음이 녹았고 너희로 말미암아 사람이 정신을 잃었나니... 우리의 생명을 살려 주소서'(라합)",
+        "마태복음 15:28 - '예수께서 대답하여 이르시되 여자여 네 믿음이 크도다'(가나안 여인)",
+        "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받은 바 되사 율법의 저주에서 우리를 속량하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:25는 죄의 세대 간 영향과 하나님의 예언적 말씀의 성취를 보여줍니다. 이 저주는 인종적 저주가 아니라, 불경과 도덕적 타락에 대한 하나님의 심판을 예고한 것입니다. 역사적으로 가나안 족속은 극심한 우상숭배와 음행, 인신제사 등으로 타락했으며(레위기 18장), 이스라엘에 의해 심판받았습니다. 그러나 이 저주는 절대적이지 않습니다. 라합(여호수아 2장)과 가나안 여인(마태복음 15:22)처럼 믿음으로 하나님께 나아온 이들은 구원받았습니다. 궁극적으로 예수 그리스도께서 십자가에서 모든 저주를 담당하셨으므로(갈라디아서 3:13), 누구든지 그리스도를 믿으면 모든 저주에서 자유롭게 됩니다. 이 구절은 우리에게 부모 공경의 중요성과 죄의 결과에 대한 경고를 주지만, 동시에 하나님의 은혜가 모든 저주를 초월한다는 희망의 메시지도 담고 있습니다."
+    }
+  }
+}

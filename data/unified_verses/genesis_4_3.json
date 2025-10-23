@@ -1,0 +1,138 @@
+{
+  "id": "genesis_4_3",
+  "reference": "창세기 4:3",
+  "hebrew": "וַיְהִי מִקֵּץ יָמִים וַיָּבֵא קַיִן מִפְּרִי הָאֲדָמָה מִנְחָה לַיהוָה",
+  "ipa": "vajeˈhi mikˈkeʦ jaˈmim vajaˈve ˈkajin mipˈri haʔadaˈma minˈxa lajhoˈva",
+  "koreanPronunciation": "바예히 미케츠 야밈 바야베 카인 미프리 하아다마 민하 라예호와",
+  "modern": "세월이 지난 후에, 가인이 땅의 소산으로 제물을 여호와께 드렸습니다",
+  "words": [
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 되다",
+      "ipa": "vajeˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "🔄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"become2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><path d=\"M 32 16 Q 48 24 48 32 Q 48 40 32 48\" stroke=\"url(#become2)\" stroke-width=\"4\" fill=\"none\" marker-end=\"url(#arrow2)\" filter=\"drop-shadow(0 2px 4px rgba(106, 27, 154, 0.4))\"/><path d=\"M 32 48 Q 16 40 16 32 Q 16 24 32 16\" stroke=\"url(#become2)\" stroke-width=\"4\" fill=\"none\" opacity=\"0.6\"/><defs><marker id=\"arrow2\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#6A1B9A\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "מִקֵּץ יָמִים",
+      "meaning": "날들의 끝에, 세월이 지난 후",
+      "ipa": "mikˈkeʦ jaˈmim",
+      "korean": "미케츠 야밈",
+      "letters": "מִ(mi) + קֵּץ(ketz) + יָ(ya) + מִים(mim)",
+      "root": "ק-צ-ה (카차)",
+      "grammar": "명사구",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><path d=\"M 24 12 L 40 12 L 36 32 L 28 32 Z\" fill=\"none\" stroke=\"url(#time1)\" stroke-width=\"3\"/><path d=\"M 28 32 L 24 52 L 40 52 L 36 32 Z\" fill=\"none\" stroke=\"url(#time1)\" stroke-width=\"3\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#time1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 28 22 L 36 22\" stroke=\"url(#time1)\" stroke-width=\"2\"/><path d=\"M 28 42 L 36 42\" stroke=\"url(#time1)\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "וַיָּבֵא",
+      "meaning": "그리고 가져오다",
+      "ipa": "vajaˈve",
+      "korean": "바야베",
+      "letters": "וַ(va) + יָּ(ya) + בֵא(ve)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><path d=\"M 12 32 L 32 16 L 52 32\" stroke=\"url(#bring1)\" stroke-width=\"4\" fill=\"none\" marker-end=\"url(#arrow3)\"/><rect x=\"28\" y=\"32\" width=\"8\" height=\"16\" fill=\"url(#bring1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><defs><marker id=\"arrow3\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#2E7D32\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "קַיִן",
+      "meaning": "가인",
+      "ipa": "ˈkajin",
+      "korean": "카인",
+      "letters": "קַ(ka) + יִן(yin)",
+      "root": "ק-י-ן (카인)",
+      "grammar": "명사",
+      "emoji": "🧑‍🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cain3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient><linearGradient id=\"tool3\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#cain3)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#cain3)\"/><path d=\"M 46 44 L 52 50 L 48 54 L 42 48 Z\" fill=\"url(#tool3)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><rect x=\"44\" y=\"48\" width=\"2\" height=\"12\" fill=\"#8B4513\"/></svg>"
+    },
+    {
+      "hebrew": "מִפְּרִי הָאֲדָמָה",
+      "meaning": "땅의 소산으로부터",
+      "ipa": "mipˈri haʔadaˈma",
+      "korean": "미프리 하아다마",
+      "letters": "מִ(mi) + פְּרִי(pri) + הָ(ha) + אֲדָמָה(adamah)",
+      "root": "פ-ר-ה (파라)",
+      "grammar": "명사구",
+      "emoji": "🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fruit1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"100%\" stop-color=\"#6B8E23\"/></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"#FF6347\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"#FFD700\"/><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"#9ACD32\"/><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"#8B4513\" opacity=\"0.6\"/><path d=\"M 24 28 L 24 44\" stroke=\"url(#fruit1)\" stroke-width=\"2\"/><path d=\"M 32 24 L 32 44\" stroke=\"url(#fruit1)\" stroke-width=\"2\"/><path d=\"M 40 28 L 40 44\" stroke=\"url(#fruit1)\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "מִנְחָה",
+      "meaning": "제물, 예물",
+      "ipa": "minˈxa",
+      "korean": "민하",
+      "letters": "מִ(mi) + נְחָה(nhah)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🕊️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"offering1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient><radialGradient id=\"smoke1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><rect x=\"20\" y=\"40\" width=\"24\" height=\"16\" fill=\"url(#offering1)\" filter=\"drop-shadow(0 2px 4px rgba(255, 165, 0, 0.4))\"/><path d=\"M 26 40 Q 24 32 26 24\" stroke=\"url(#smoke1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\"/><path d=\"M 32 40 Q 32 30 32 20\" stroke=\"url(#smoke1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\"/><path d=\"M 38 40 Q 40 32 38 24\" stroke=\"url(#smoke1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "לַיהוָה",
+      "meaning": "여호와께",
+      "ipa": "lajhoˈva",
+      "korean": "라예호와",
+      "letters": "לַ(la) + יְ(ye) + הוָה(hovah)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh2\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"beam2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#yhwh2)\" opacity=\"0.6\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><g stroke=\"url(#beam2)\" stroke-width=\"3\" fill=\"none\"><line x1=\"32\" y1=\"12\" x2=\"32\" y2=\"20\"/><line x1=\"44\" y1=\"16\" x2=\"40\" y2=\"22\"/><line x1=\"48\" y1=\"28\" x2=\"42\" y2=\"30\"/><line x1=\"48\" y1=\"36\" x2=\"42\" y2=\"34\"/><line x1=\"44\" y1=\"48\" x2=\"40\" y2=\"42\"/><line x1=\"32\" y1=\"52\" x2=\"32\" y2=\"44\"/><line x1=\"20\" y1=\"48\" x2=\"24\" y2=\"42\"/><line x1=\"16\" y1=\"36\" x2=\"22\" y2=\"34\"/></g><text x=\"32\" y=\"36\" text-anchor=\"middle\" font-size=\"12\" fill=\"#FFD700\" font-weight=\"bold\">יהוה</text></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 3절은 인류 최초의 예배 장면을 기록합니다. 가인이 땅의 소산으로 제물을 드린 것은 하나님께 감사와 경배를 표현하려는 종교적 행위였습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מִקֵּץ יָמִים (미케츠 야밈) - 때가 이르렀을 때",
+        "description": "'날들의 끝'이라는 표현은 단순한 시간의 경과가 아니라, 정해진 때, 약속된 시간을 의미합니다. 제사에는 적절한 때가 있습니다.",
+        "points": [
+          "하나님께 나아가는 데는 정해진 때가 있음",
+          "레위기의 절기들도 정해진 시간에 드림",
+          "예배는 일상의 연장이 아닌 특별한 시간"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִנְחָה (민하) - 제물, 선물",
+        "description": "'민하'는 곡식 제사, 소제를 의미하지만, 여기서는 일반적인 '제물'의 의미로 사용됩니다. 하나님께 드리는 예물입니다.",
+        "points": [
+          "레위기에서 '민하'는 곡식으로 드리는 소제",
+          "노동의 결실을 하나님께 드림",
+          "하나님께 나아가는 예배의 표현"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִפְּרִי הָאֲדָמָה (미프리 하아다마) - 땅의 소산",
+        "description": "가인은 자신의 직업인 농사의 결실을 하나님께 드렸습니다. 이는 자신의 노동의 열매를 하나님께 돌리는 행위입니다.",
+        "points": [
+          "자신의 직업에서 나온 최선을 하나님께 드림",
+          "노동의 결실을 하나님의 은혜로 인정",
+          "그러나 4절에서 아벨의 제사와 대비됨"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "가인은 왜 땅에서 난 곡식으로 제사를 드렸나요?",
+      "answer": "가인은 농부였기 때문에 자기가 농사지어서 수확한 곡식을 하나님께 드렸어요. 마치 우리가 용돈을 받으면 그중 일부를 하나님께 헌금으로 드리는 것처럼, 가인도 자기가 일해서 얻은 것 중에서 하나님께 드린 거예요. 하나님께 감사하고 예배하고 싶었기 때문이에요.",
+      "bibleReferences": [
+        "잠언 3:9 - '네 재물과 네 소산의 처음 익은 열매로 여호와를 공경하라'",
+        "레위기 2:1 - '누구든지 소제의 예물을 여호와께 드리려거든'",
+        "말라기 3:10 - '너희의 온전한 십일조를 창고에 들여'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "가인의 제사는 인류 최초의 예배 행위를 보여줍니다. 자신의 노동의 열매를 하나님께 드리는 것은 하나님을 인정하고 경배하는 행위입니다. 그러나 다음 절에서 드러나듯이, 단순히 무엇을 드리느냐가 아니라 어떤 마음으로 드리느냐가 중요합니다. 예배는 형식이 아니라 마음의 문제입니다."
+    }
+  }
+}

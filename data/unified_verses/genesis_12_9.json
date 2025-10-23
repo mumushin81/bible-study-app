@@ -1,0 +1,129 @@
+{
+  "id": "genesis_12_9",
+  "reference": "창세기 12:9",
+  "hebrew": "וַיִּסַּע אַבְרָם, הָלוֹךְ וְנָסוֹעַ הַנֶּגְבָּה.",
+  "ipa": "vajˈjissaʔ ʔavˈram haˈlox vənaˈsoaʔ hanˈnɛgba",
+  "koreanPronunciation": "바이사 아브람 할로크 베나소아 하네그바",
+  "modern": "아브람은 계속해서 남쪽 네게브 지방으로 이동해 갔습니다.",
+  "words": [
+    {
+      "hebrew": "וַיִּסַּע",
+      "meaning": "그리고 그가 여행했다, 이동했다",
+      "ipa": "vajˈjissaʔ",
+      "korean": "바이사",
+      "letters": "וַ(va) + יִּ(yi) + סַּע(ssa)",
+      "root": "נ-ס-ע (나사 - 여행하다, 떠나다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"journey_nasa\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><path d=\"M 10 20 Q 20 16 28 24 T 44 20 T 54 28\" stroke=\"url(#journey_nasa)\" stroke-width=\"3\" fill=\"none\" marker-end=\"url(#arrow)\" /><circle cx=\"12\" cy=\"20\" r=\"3\" fill=\"#4FACFE\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"24\" r=\"3\" fill=\"#4FACFE\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"20\" r=\"3\" fill=\"#00F2FE\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נָסַע (나사 - 여행하다, 출발하다)",
+        "מַסָּע (마사 - 여정, 여행)"
+      ]
+    },
+    {
+      "hebrew": "הָלוֹךְ",
+      "meaning": "가면서, 계속 가며",
+      "ipa": "haˈlox",
+      "korean": "할로크",
+      "letters": "הָ(ha) + לוֹךְ(loch)",
+      "root": "ה-ל-ך (할라크 - 가다)",
+      "grammar": "부정사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"going_haloch\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 16 32 L 48 32\" stroke=\"url(#going_haloch)\" stroke-width=\"4\" stroke-dasharray=\"6,3\" /><circle cx=\"20\" cy=\"32\" r=\"2\" fill=\"#667EEA\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#667EEA\" /><circle cx=\"44\" cy=\"32\" r=\"2\" fill=\"#764BA2\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 가다)",
+        "הֲלִיכָה (할리카 - 걸음, 행보)"
+      ]
+    },
+    {
+      "hebrew": "וְנָסוֹעַ",
+      "meaning": "그리고 여행하며",
+      "ipa": "vənaˈsoaʔ",
+      "korean": "베나소아",
+      "letters": "וְ(ve) + נָ(na) + סוֹעַ(soa)",
+      "root": "נ-ס-ע (나사)",
+      "grammar": "부정사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"traveling\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><path d=\"M 12 28 L 24 24 L 36 28 L 48 24 L 52 28\" stroke=\"url(#traveling)\" stroke-width=\"3\" fill=\"none\" /><circle cx=\"12\" cy=\"28\" r=\"3\" fill=\"#FA709A\" opacity=\"0.6\" /><circle cx=\"36\" cy=\"28\" r=\"3\" fill=\"#FA709A\" opacity=\"0.6\" /><circle cx=\"52\" cy=\"28\" r=\"3\" fill=\"#FEE140\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נָסוֹעַ (나소아 - 여행하는 것)",
+        "נָסַע (나사 - 떠나다)"
+      ]
+    },
+    {
+      "hebrew": "הַנֶּגְבָּה",
+      "meaning": "네게브로 (남쪽으로)",
+      "ipa": "hanˈnɛgba",
+      "korean": "하네그바",
+      "letters": "הַ(ha) + נֶּגְבָּ(negba) + ה(h)",
+      "root": "נֶגֶב (네게브 - 남쪽, 건조한 지역)",
+      "grammar": "고유명사 + 방향 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"negev\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect x=\"8\" y=\"32\" width=\"48\" height=\"24\" rx=\"4\" fill=\"url(#negev)\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"40\" r=\"2\" fill=\"#D2691E\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#D2691E\" opacity=\"0.5\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"#D2691E\" opacity=\"0.5\" /><path d=\"M 32 12 L 32 28\" stroke=\"#FFD700\" stroke-width=\"2\" marker-end=\"url(#arrow)\" /><text x=\"44\" y=\"24\" font-size=\"10\" fill=\"#FFD700\">S</text></svg>",
+      "relatedWords": [
+        "נֶגֶב (네게브 - 남쪽, 네게브 광야)",
+        "דָּרוֹם (다롬 - 남쪽)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:9는 짧지만 중요한 구절입니다. '하록 베나소아(הָלוֹךְ וְנָסוֹעַ)'라는 히브리어 표현은 '계속해서 가고 또 가는' 끊임없는 여정을 묘사합니다. 아브람은 한 곳에 정착하지 않고 남쪽 네게브로 계속 이동합니다. 이는 믿음의 순례적 성격을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "하록 베나소아 - 계속되는 여정",
+        "description": "히브리어 '하록 베나소아'(הָלוֹךְ וְנָסוֹעַ)는 부정사의 반복으로 '계속해서, 끊임없이'라는 의미를 강조합니다. 아브람의 믿음의 여정은 한 번의 결단이 아니라 계속되는 순종입니다.",
+        "points": [
+          "믿음은 한 번의 사건이 아니라 평생의 여정입니다",
+          "아브람은 멈추지 않고 계속 하나님의 인도를 따랐습니다",
+          "우리의 신앙 생활도 계속되는 성장과 순종의 과정입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "네게브 - 시험의 장소",
+        "description": "네게브(הַנֶּגֶב)는 '건조한 땅', '남쪽'을 의미하며, 유다 남부의 척박한 광야 지역입니다. 이곳은 농사짓기 어렵고 물이 부족한 곳으로, 아브람에게는 도전적인 장소였습니다.",
+        "points": [
+          "하나님의 인도가 항상 편안한 곳으로만 이끄는 것은 아닙니다",
+          "네게브는 후에 기근의 배경이 됩니다 (12:10)",
+          "시험과 도전은 믿음을 더욱 견고하게 합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "목적 없는 이동이 아니라 하나님의 인도",
+        "description": "아브람의 이동은 무작위가 아니라 하나님의 인도를 따른 것입니다. 비록 우리에게는 목적이 분명하지 않아 보여도, 하나님은 아브람을 특정한 목적지로 이끄셨습니다.",
+        "points": [
+          "하나님의 인도는 때로 우리가 이해하지 못할 수 있습니다",
+          "아브람은 왜 네게브로 가는지 몰랐을 수 있습니다",
+          "신뢰는 모든 것을 이해하지 못해도 따르는 것입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "정착 vs 순례 - 나그네의 삶",
+        "description": "아브람은 한 곳에 정착하지 않고 계속 이동했습니다. 이는 그가 이 땅의 소유자가 아니라 나그네임을 보여줍니다. 진정한 고향은 하나님이 예비하신 곳입니다.",
+        "points": [
+          "우리도 이 세상에서는 순례자입니다",
+          "진정한 안식은 하나님 안에 있습니다",
+          "이동은 불안정이 아니라 하나님께 대한 의존입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 한 곳에 머물지 않고 계속 이동했을까요?",
+      "answer": "아브람이 계속 이동한 것은 하나님께서 그를 인도하셨기 때문이에요. 마치 보물찾기를 할 때 지도를 보고 계속 앞으로 나아가는 것처럼, 아브람도 하나님의 인도를 따라 계속 갔어요. 한 곳에 머물러서 '이제 됐어, 여기가 좋아'라고 하지 않았어요. 하나님께서 '더 가자'라고 하시면 순종했답니다. 때로는 가는 길이 어렵고 힘들었지만, 아브람은 하나님을 믿고 계속 따라갔어요. 우리도 하나님께서 우리를 어디로 인도하시든, 그분을 믿고 따라가야 해요. 하나님은 우리를 가장 좋은 곳으로 데려가실 거예요.",
+      "bibleReferences": [
+        "히브리서 11:9-10 - '믿음으로 그가 이방인과 같이 약속의 땅에 거류하여 동일한 약속을 유업으로 함께 받은 이삭 및 야곱과 더불어 장막에 거하였으니 이는 그가 하나님이 계획하시고 지으실 터가 있는 성을 바랐음이라'",
+        "잠언 3:5-6 - '너는 마음을 다하여 여호와를 신뢰하고 네 명철을 의지하지 말라 너는 범사에 그를 인정하라 그리하면 네 길을 지도하시리라'",
+        "시편 37:23 - '여호와께서 사람의 걸음을 정하시고 그의 길을 기뻐하시나니'",
+        "예레미야 10:23 - '여호와여 내가 알거니와 사람의 길이 자기에게 있지 아니하니 걸음을 지도함이 걷는 자에게 있지 아니하니이다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:9는 믿음의 동적 성격을 보여줍니다. 아브람의 믿음은 정적이지 않고 동적이었습니다 - '계속해서 가고 또 갔습니다'. 이는 기독교 신앙의 본질입니다. 우리는 한 번 믿고 끝나는 것이 아니라, 평생 하나님을 따라가는 순례자입니다. 네게브로 향한 여정은 앞으로 올 시험(기근)을 예고하지만, 동시에 하나님의 신실하심을 경험할 기회이기도 합니다. 히브리서는 아브라함을 '나그네'로 묘사하며, 그가 '하나님이 계획하시고 지으실 터가 있는 성'을 바랐다고 말합니다. 우리도 이 세상의 어떤 것에도 궁극적으로 정착하지 말고, 더 나은 본향을 향해 계속 나아가야 합니다."
+    }
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "id": "genesis_12_8",
+  "reference": "창세기 12:8",
+  "hebrew": "וַיַּעְתֵּק מִשָּׁם הָהָרָה, מִקֶּדֶם לְבֵית־אֵל, וַיֵּט אָהֳלֹה; בֵּית־אֵל מִיָּם, וְהָעַי מִקֶּדֶם, וַיִּבֶן־שָׁם מִזְבֵּחַ לַיהוָה, וַיִּקְרָא בְּשֵׁם יְהוָה.",
+  "ipa": "vajˈjaʔteq miʃˈʃam haˈhara miˈqqɛdɛm ləˈvet ʔel vajˈjet ʔohoˈlo bet ʔel mijˈjam vəhaˈʔaj miˈqqɛdɛm vajˈjivɛn ʃam mizˈbeax laʔadonai vajˈjiqra bəˈʃem ʔadonai",
+  "koreanPronunciation": "바야테크 미쌈 하하라 미케뎀 레베트 엘 바옛 오홀로 베트 엘 미얌 베하아이 미케뎀 바이벤 샴 미즈베아흐 라아도나이 바이크라 베쉠 아도나이",
+  "modern": "그는 거기서 벧엘 동쪽 산으로 옮겨가서 장막을 쳤습니다. 서쪽으로는 벧엘이, 동쪽으로는 아이가 있었습니다. 그는 거기서 여호와를 위하여 제단을 쌓고 여호와의 이름을 불렀습니다.",
+  "words": [
+    {
+      "hebrew": "וַיַּעְתֵּק",
+      "meaning": "그리고 그가 옮겼다",
+      "ipa": "vajˈjaʔteq",
+      "korean": "바야테크",
+      "letters": "וַ(va) + יַּ(ya) + עְתֵּק(ateq)",
+      "root": "ע-ת-ק (아타크 - 옮기다, 이동하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"move_ataq\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#move_ataq)\" opacity=\"0.4\" /><path d=\"M 28 32 L 48 32\" stroke=\"#4FACFE\" stroke-width=\"3\" stroke-dasharray=\"4,2\" marker-end=\"url(#arrow)\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"#00F2FE\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עָתַק (아타크 - 옮기다)",
+        "הֶעְתִּיק (헤티크 - 이동시키다)"
+      ]
+    },
+    {
+      "hebrew": "הָהָרָה",
+      "meaning": "그 산으로",
+      "ipa": "haˈhara",
+      "korean": "하하라",
+      "letters": "הָ(ha) + הָ(ha) + רָה(rah)",
+      "root": "הַר (하르 - 산)",
+      "grammar": "명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mountain_har\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#A0826D\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><path d=\"M 8 52 L 32 12 L 56 52 Z\" fill=\"url(#mountain_har)\" opacity=\"0.7\" /><path d=\"M 20 52 L 32 32 L 44 52 Z\" fill=\"#8B4513\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "הַר (하르 - 산)",
+        "הָרִים (하림 - 산들)"
+      ]
+    },
+    {
+      "hebrew": "בֵּית־אֵל",
+      "meaning": "벧엘 (하나님의 집)",
+      "ipa": "ˈbet ʔel",
+      "korean": "베트 엘",
+      "letters": "בֵּית(bet) + אֵל(el)",
+      "root": "בַּיִת (바이트 - 집) + אֵל (엘 - 하나님)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bethel\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><path d=\"M 32 12 L 52 28 L 48 28 L 48 48 L 16 48 L 16 28 L 12 28 Z\" fill=\"url(#bethel)\" opacity=\"0.5\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#FFD700\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"22\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집)",
+        "אֵל (엘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּט",
+      "meaning": "그리고 그가 쳤다 (장막을)",
+      "ipa": "vajˈjet",
+      "korean": "바옛",
+      "letters": "וַ(va) + יֵּט(yet)",
+      "root": "נ-ט-ה (나타 - 펴다, 치다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"pitch_natah\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><path d=\"M 16 48 L 32 24 L 48 48 Z\" fill=\"url(#pitch_natah)\" opacity=\"0.6\" stroke=\"#A8EDEA\" stroke-width=\"2\" /><rect x=\"28\" y=\"46\" width=\"8\" height=\"6\" fill=\"#8B4513\" /></svg>",
+      "relatedWords": [
+        "נָטָה (나타 - 펴다, 뻗다)",
+        "מַטֶּה (마테 - 지팡이, 막대)"
+      ]
+    },
+    {
+      "hebrew": "אָהֳלֹה",
+      "meaning": "그의 장막",
+      "ipa": "ʔohoˈlo",
+      "korean": "오홀로",
+      "letters": "אָ(o) + הֳ(ho) + לֹה(lo)",
+      "root": "אֹהֶל (오헬 - 장막, 천막)",
+      "grammar": "명사 + 접미사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tent_ohel\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><path d=\"M 12 48 L 32 20 L 52 48 Z\" fill=\"url(#tent_ohel)\" opacity=\"0.7\" /><line x1=\"32\" y1=\"20\" x2=\"32\" y2=\"48\" stroke=\"#8B4513\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אֹהֶל (오헬 - 장막, 천막)",
+        "אֹהֶל מוֹעֵד (오헬 모에드 - 회막)"
+      ]
+    },
+    {
+      "hebrew": "מִיָּם",
+      "meaning": "서쪽으로부터",
+      "ipa": "mijˈjam",
+      "korean": "미얌",
+      "letters": "מִ(mi) + יָּם(yam)",
+      "root": "יָם (얌 - 바다, 서쪽)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"west_yam\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"100%\" stop-color=\"#0288D1\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#west_yam)\" opacity=\"0.3\" /><path d=\"M 20 32 L 12 28 L 12 36 Z\" fill=\"#4FC3F7\" /><text x=\"44\" y=\"36\" font-size=\"12\" fill=\"#0288D1\">W</text></svg>",
+      "relatedWords": [
+        "יָם (얌 - 바다, 서쪽)",
+        "מַעֲרָב (마아라브 - 서쪽)"
+      ]
+    },
+    {
+      "hebrew": "הָעַי",
+      "meaning": "아이 (폐허)",
+      "ipa": "haˈʔaj",
+      "korean": "하아이",
+      "letters": "הָ(ha) + עַי(ai)",
+      "root": "עַי (아이 - 폐허 더미)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ai_ruins\"><stop offset=\"0%\" stop-color=\"#999999\" /><stop offset=\"100%\" stop-color=\"#666666\" /></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"10\" height=\"16\" fill=\"url(#ai_ruins)\" opacity=\"0.5\" /><rect x=\"30\" y=\"40\" width=\"8\" height=\"12\" fill=\"url(#ai_ruins)\" opacity=\"0.6\" /><rect x=\"42\" y=\"38\" width=\"12\" height=\"14\" fill=\"url(#ai_ruins)\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "עַי (아이 - 폐허)",
+        "עִי (이 - 돌무더기)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 그가 불렀다",
+      "ipa": "vajˈjiqra",
+      "korean": "바이크라",
+      "letters": "וַ(va) + יִּ(yi) + קְרָא(qra)",
+      "root": "ק-ר-א (카라 - 부르다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"call_qara\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#call_qara)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#call_qara)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#call_qara)\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "קָרָא (카라 - 부르다, 읽다)",
+        "מִקְרָא (미크라 - 낭독, 성경)"
+      ]
+    },
+    {
+      "hebrew": "בְּשֵׁם",
+      "meaning": "이름으로",
+      "ipa": "bəˈʃem",
+      "korean": "베쉠",
+      "letters": "בְּ(be) + שֵׁם(shem)",
+      "root": "שֵׁם (솀 - 이름)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name_shem\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"12\" y=\"24\" width=\"40\" height=\"16\" rx=\"4\" fill=\"url(#name_shem)\" opacity=\"0.5\" /><text x=\"32\" y=\"36\" font-size=\"12\" text-anchor=\"middle\" fill=\"#FFFFFF\" font-weight=\"bold\">NAME</text></svg>",
+      "relatedWords": [
+        "שֵׁם (솀 - 이름)",
+        "הַשֵּׁם (하쉠 - 그 이름, 하나님)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12:8은 아브람의 계속되는 여정과 예배 생활을 보여줍니다. 그는 세겜에서 벧엘로 이동하여 장막을 치고 다시 제단을 쌓습니다. 여기서 그는 '여호와의 이름을 불렀다'는 새로운 차원의 예배를 드립니다. 이는 공개적인 신앙 고백이자 선포입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "벧엘 - 하나님의 집",
+        "description": "벧엘(בֵּית־אֵל)은 '하나님의 집'이라는 뜻입니다. 후에 야곱이 이곳에서 하늘의 사다리를 보는 꿈을 꾸고 이 이름을 붙입니다(창 28:19). 아브람은 이미 이 장소의 영적 중요성을 감지했을 것입니다.",
+        "points": [
+          "특정 장소들은 하나님과의 만남으로 거룩해집니다",
+          "벧엘은 이스라엘 역사에서 계속 중요한 예배 장소가 됩니다",
+          "우리 삶에도 '하나님의 집'이 되는 장소들이 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "장막 생활 - 나그네의 정체성",
+        "description": "아브람은 집이 아니라 장막(אֹהֶל)에 살았습니다. 장막은 임시 거처로, 그가 이 땅에서 나그네임을 상징합니다. 히브리서 11:9는 이를 강조하며, 그가 '장막에 거하였다'고 말합니다.",
+        "points": [
+          "아브람은 소유자가 아니라 나그네였습니다",
+          "장막은 이동성과 임시성을 상징합니다",
+          "우리도 이 세상에서는 나그네입니다 (벧전 2:11)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "제단과 장막 - 예배와 삶의 통합",
+        "description": "아브람은 장막을 칠 때마다 제단도 쌓았습니다. 거주지와 예배처가 함께합니다. 이는 삶과 예배의 분리가 없음을 보여줍니다. 그의 일상 전체가 하나님 앞에서의 삶이었습니다.",
+        "points": [
+          "예배는 주일만이 아니라 삶 전체여야 합니다",
+          "우리 집도 하나님을 예배하는 곳이 되어야 합니다",
+          "일상과 신앙은 분리될 수 없습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "여호와의 이름을 부름 - 공개적 예배",
+        "description": "'여호와의 이름을 불렀다'(וַיִּקְרָא בְּשֵׁם יְהוָה)는 단순히 기도한 것 이상을 의미합니다. 이는 공개적으로 여호와를 선포하고, 그분의 이름을 높이며, 주변 사람들에게 증거한 것입니다.",
+        "points": [
+          "신앙은 사적일 뿐 아니라 공적이어야 합니다",
+          "아브람은 가나안 사람들 가운데서 여호와를 증거했습니다",
+          "우리도 하나님의 이름을 담대히 부르고 선포해야 합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 새로운 곳에 갈 때마다 제단을 쌓았을까요?",
+      "answer": "아브람은 새로운 곳에 도착할 때마다 제단을 쌓았어요. 이것은 '여기도 하나님의 땅이에요. 여기서도 하나님을 예배해요'라고 말하는 거였답니다. 마치 우리가 새 집으로 이사 가면 그 집에서도 하나님께 기도하는 것처럼요. 아브람은 어디를 가든지 하나님을 잊지 않고 가장 먼저 하나님을 예배했어요. 그리고 다른 사람들에게도 '나는 하나님을 믿는 사람이에요'라고 보여주었답니다. 우리도 어디를 가든, 무엇을 하든 하나님을 먼저 생각하고 예배해야 해요.",
+      "bibleReferences": [
+        "창세기 13:4 - '그가 처음으로 제단을 쌓은 곳이라 그가 거기서 여호와의 이름을 불렀더라'",
+        "시편 116:17 - '내가 주께 감사제를 드리고 여호와의 이름을 부르리이다'",
+        "로마서 10:13 - '누구든지 주의 이름을 부르는 자는 구원을 받으리라'",
+        "골로새서 3:17 - '또 무엇을 하든지 말에나 일에나 다 주 예수의 이름으로 하고 그를 힘입어 하나님 아버지께 감사하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 12:8은 순례자의 삶과 예배자의 삶을 동시에 보여줍니다. 아브람은 장막에 살면서(순례자) 제단을 쌓았습니다(예배자). 이는 베드로전서 2:11의 '나그네와 행인'이라는 정체성과 같습니다. 또한 '여호와의 이름을 불렀다'는 표현은 공적 예배와 선교적 증거를 의미합니다. 아브람은 가나안 사람들 가운데서 여호와를 선포했습니다. 이는 오늘날 우리의 모델입니다 - 세상에서 나그네로 살되, 담대히 하나님을 증거하는 것입니다. 벧엘('하나님의 집')과 아이('폐허')의 대조도 의미심장합니다. 우리는 하나님의 집을 향해 살아야지, 폐허를 향해 살아서는 안 됩니다."
+    }
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "id": "genesis_9_2",
+  "reference": "창세기 9:2",
+  "hebrew": "וּמוֹרַאֲכֶם וְחִתְּכֶם, יִהְיֶה, עַל כָּל-חַיַּת הָאָרֶץ, וְעַל כָּל-עוֹף הַשָּׁמָיִם; בְּכֹל אֲשֶׁר תִּרְמֹשׂ הָאֲדָמָה, וּבְכָל-דְּגֵי הַיָּם--בְּיֶדְכֶם נִתָּנוּ.",
+  "ipa": "umoraʔaˈχɛm vəχitəˈχɛm jihˈjɛ ʔal kol χaˈjat haˈʔarɛts vəʔal kol ʔof haʃaˈmajim bəχol ʔaˈʃɛr tirˈmos haʔadaˈma uvχol dəˈɡe hajˈjam bəjɛdˈχɛm nitaˈnu",
+  "koreanPronunciation": "우모라아켐 베히테켐 이흐예 알 콜 하야트 하아레츠 베알 콜 오프 하샤마임 베콜 아쉐르 티르모스 하아다마 우브콜 데게 하얌 베예드켐 니타누",
+  "modern": "땅의 모든 짐승과 공중의 모든 새와 땅에 기는 모든 것과 바다의 모든 물고기가 너희를 두려워하며 너희를 무서워할 것이니, 이들이 너희 손에 붙여졌느니라",
+  "words": [
+    {
+      "hebrew": "וּמוֹרַאֲכֶם",
+      "meaning": "너희에 대한 두려움",
+      "ipa": "umoraʔaˈχɛm",
+      "korean": "우모라아켐",
+      "letters": "וּ(u) + מוֹ(mo) + רַ(ra) + אֲ(a) + כֶם(khem)",
+      "root": "י-ר-א (야레)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"fear_aura\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#fear_aura)\" opacity=\"0.3\" /><path d=\"M 32 16 L 28 28 L 20 24 L 26 36 L 16 40 L 28 44 L 24 56 L 32 44 L 40 56 L 36 44 L 48 40 L 38 36 L 44 24 L 36 28 Z\" fill=\"#FF4500\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(255, 69, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "מוֹרָא (모라 - 두려움)",
+        "יִרְאָה (이르아 - 경외)"
+      ]
+    },
+    {
+      "hebrew": "וְחִתְּכֶם",
+      "meaning": "너희에 대한 공포",
+      "ipa": "vəχitəˈχɛm",
+      "korean": "베히테켐",
+      "letters": "וְ(ve) + חִ(khi) + תְּ(te) + כֶם(khem)",
+      "root": "ח-ת-ת (하타트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terror_wave\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#4A148C\" /><stop offset=\"50%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#4A148C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#6A1B9A\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"none\" stroke=\"url(#terror_wave)\" stroke-width=\"2\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#terror_wave)\" stroke-width=\"1.5\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"none\" stroke=\"url(#terror_wave)\" stroke-width=\"1\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "חִתָּה (히타 - 공포)",
+        "חַת (하트 - 두려움)"
+      ]
+    },
+    {
+      "hebrew": "חַיַּת",
+      "meaning": "짐승",
+      "ipa": "χaˈjat",
+      "korean": "하야트",
+      "letters": "חַ(kha) + יַּ(ya) + ת(t)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"beast_fur\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"16\" fill=\"url(#beast_fur)\" /><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#beast_fur)\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#beast_fur)\" /><circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"#000000\" /><circle cx=\"44\" cy=\"26\" r=\"3\" fill=\"#000000\" /></svg>",
+      "relatedWords": [
+        "חַיָּה (하야 - 생명체)",
+        "חַי (하이 - 살아있는)"
+      ]
+    },
+    {
+      "hebrew": "עוֹף",
+      "meaning": "새",
+      "ipa": "ʔof",
+      "korean": "오프",
+      "letters": "עוֹ(o) + ף(f)",
+      "root": "ע-ו-ף (아우프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird_body\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#bird_body)\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#bird_body)\" /><path d=\"M 20 32 Q 12 28 8 32 Q 12 36 20 34\" fill=\"#4169E1\" opacity=\"0.8\" /><path d=\"M 48 32 Q 56 28 60 32 Q 56 36 48 34\" fill=\"#4169E1\" opacity=\"0.8\" /><circle cx=\"30\" cy=\"26\" r=\"1.5\" fill=\"#000000\" /></svg>",
+      "relatedWords": [
+        "עָף (아프 - 날다)",
+        "צִפּוֹר (치포르 - 새)"
+      ]
+    },
+    {
+      "hebrew": "תִּרְמֹשׂ",
+      "meaning": "기는",
+      "ipa": "tirˈmos",
+      "korean": "티르모스",
+      "letters": "תִּ(ti) + רְ(re) + מֹ(mo) + שׂ(s)",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creep_path\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><path d=\"M 8 32 Q 20 28 32 32 Q 44 36 56 32\" stroke=\"url(#creep_path)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"16\" cy=\"30\" r=\"2\" fill=\"#228B22\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"#228B22\" /><circle cx=\"48\" cy=\"30\" r=\"2\" fill=\"#228B22\" /></svg>",
+      "relatedWords": [
+        "רֶמֶשׂ (레메스 - 기는 것)",
+        "רָמַשׂ (라마스 - 기어다니다)"
+      ]
+    },
+    {
+      "hebrew": "דְּגֵי",
+      "meaning": "물고기들",
+      "ipa": "dəˈɡe",
+      "korean": "데게",
+      "letters": "דְּ(de) + גֵי(ge)",
+      "root": "ד-ג (다그)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fish_scale\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00CED1\" /><stop offset=\"50%\" stop-color=\"#48D1CC\" /><stop offset=\"100%\" stop-color=\"#40E0D0\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"12\" fill=\"url(#fish_scale)\" /><path d=\"M 52 32 L 60 26 L 60 38 Z\" fill=\"url(#fish_scale)\" /><circle cx=\"20\" cy=\"28\" r=\"2\" fill=\"#000000\" /><path d=\"M 28 32 Q 32 28 36 32\" stroke=\"#20B2AA\" stroke-width=\"1\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "דָּג (다그 - 물고기)",
+        "דָּגָה (다가 - 번성하다)"
+      ]
+    },
+    {
+      "hebrew": "בְּיֶדְכֶם",
+      "meaning": "너희 손에",
+      "ipa": "bəjɛdˈχɛm",
+      "korean": "베예드켐",
+      "letters": "בְּ(be) + יֶ(ye) + דְ(de) + כֶם(khem)",
+      "root": "יָד (야드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hand_power\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></linearGradient></defs><rect x=\"24\" y=\"36\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#hand_power)\" stroke=\"#8B4513\" stroke-width=\"1.5\" /><rect x=\"28\" y=\"20\" width=\"4\" height=\"20\" rx=\"2\" fill=\"url(#hand_power)\" stroke=\"#8B4513\" stroke-width=\"1\" /><rect x=\"34\" y=\"24\" width=\"4\" height=\"16\" rx=\"2\" fill=\"url(#hand_power)\" stroke=\"#8B4513\" stroke-width=\"1\" /><rect x=\"40\" y=\"28\" width=\"4\" height=\"12\" rx=\"2\" fill=\"url(#hand_power)\" stroke=\"#8B4513\" stroke-width=\"1\" /><rect x=\"18\" y=\"32\" width=\"4\" height=\"12\" rx=\"2\" fill=\"url(#hand_power)\" stroke=\"#8B4513\" stroke-width=\"1\" /></svg>",
+      "relatedWords": [
+        "יָד (야드 - 손)",
+        "כֹּחַ (코아흐 - 힘)"
+      ]
+    },
+    {
+      "hebrew": "נִתָּנוּ",
+      "meaning": "주어졌다",
+      "ipa": "nitaˈnu",
+      "korean": "니타누",
+      "letters": "נִ(ni) + תָּ(ta) + נוּ(nu)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gift_glow\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><rect x=\"20\" y=\"28\" width=\"24\" height=\"24\" rx=\"2\" fill=\"url(#gift_glow)\" stroke=\"#FF8C00\" stroke-width=\"2\" /><rect x=\"30\" y=\"24\" width=\"4\" height=\"32\" fill=\"#FF6347\" /><rect x=\"16\" y=\"38\" width=\"32\" height=\"4\" fill=\"#FF6347\" /><path d=\"M 32 24 Q 28 20 24 24\" stroke=\"#FF6347\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 32 24 Q 36 20 40 24\" stroke=\"#FF6347\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 노아와 그의 후손에게 모든 생물에 대한 권세를 주십니다. 이는 창조 때 주셨던 다스림의 권한이 홍수 후에도 계속됨을 보여줍니다. 그러나 이제는 동물들이 인간을 두려워하는 새로운 관계가 시작됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וּמוֹרַאֲכֶם וְחִתְּכֶם (우모라아켐 베히테켐) - 두려움과 공포",
+        "description": "홍수 이전에는 동물과 인간이 평화롭게 공존했을 가능성이 있습니다. 그러나 죄로 인해 타락한 세상에서는 동물들이 인간을 두려워하고 피하게 됩니다. 이는 타락의 결과이자 동시에 하나님의 보호하심입니다.",
+        "points": [
+          "죄는 피조물 간의 관계도 변화시켰습니다",
+          "두려움은 하나님이 인간에게 주신 보호 장치입니다",
+          "이는 완전한 낙원의 상실을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "על כָּל-חַיַּת הָאָרֶץ (알 콜 하야트 하아레츠) - 모든 생물",
+        "description": "땅의 짐승, 공중의 새, 땅에 기는 것, 바다의 물고기 - 모든 생물이 열거됩니다. 이는 인간에게 주어진 권세가 전 피조물에 미침을 강조합니다.",
+        "points": [
+          "하나님은 모든 생물을 인간의 관리 아래 두셨습니다",
+          "이는 창조 질서의 회복입니다",
+          "책임 있는 청지기 의식이 필요합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּיֶדְכֶם נִתָּנוּ (베예드켐 니타누) - 너희 손에 주어졌다",
+        "description": "이는 단순한 지배가 아니라 하나님으로부터 받은 책임입니다. '주어졌다'는 수동태는 하나님이 주신 권한임을 분명히 합니다. 인간은 하나님의 대리자로서 피조물을 돌봐야 합니다.",
+        "points": [
+          "권세는 하나님으로부터 위임받은 것입니다",
+          "손에 주어졌다는 것은 직접적인 책임을 의미합니다",
+          "청지기로서 하나님께 책임을 져야 합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 동물들이 사람을 두려워하게 되었을까요?",
+      "answer": "처음에 하나님이 세상을 만드셨을 때는 사람과 동물이 친구처럼 지냈어요. 하지만 죄가 세상에 들어온 후, 모든 것이 변했답니다. 동물들이 사람을 두려워하는 것은 슬픈 일이지만, 동시에 하나님의 보호예요. 만약 동물들이 사람을 무서워하지 않는다면, 위험한 동물들이 사람을 해칠 수 있거든요. 하지만 언젠가 예수님이 다시 오시면, 사자와 어린양이 함께 뛰어놀고, 사람과 동물이 다시 친구가 될 거예요!",
+      "bibleReferences": [
+        "창세기 1:26 - '하나님이 이르시되 우리의 형상을 따라 우리의 모양대로 우리가 사람을 만들고 그들로 바다의 물고기와 하늘의 새와 가축과 온 땅과 땅에 기는 모든 것을 다스리게 하자'",
+        "이사야 11:6-9 - '그 때에 이리가 어린 양과 함께 살며 표범이 어린 염소와 함께 누우며... 나의 거룩한 산 모든 곳에서 해 됨도 없고 상함도 없을 것이니'",
+        "로마서 8:19-21 - '피조물이 고대하는 바는 하나님의 아들들이 나타나는 것이니... 피조물도 썩어짐의 종 노릇 한 데서 해방되어 하나님의 자녀들의 영광의 자유에 이를 것이니라'",
+        "시편 8:6-8 - '주의 손으로 만드신 것을 다스리게 하시고 만물을 그의 발 아래 두셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:2는 타락한 세상에서의 새로운 질서를 보여줍니다. 인간은 여전히 피조물을 다스리지만, 이제는 두려움과 공포라는 관계의 변화가 생겼습니다. 이는 죄의 결과이지만, 동시에 하나님의 은혜로운 보호입니다. 우리는 이 권세를 남용해서는 안 되며, 하나님의 청지기로서 책임감 있게 행동해야 합니다. 궁극적으로 예수 그리스도의 재림과 함께 모든 피조물이 회복될 것이며(로마서 8:21), 다시 한번 평화로운 낙원이 도래할 것입니다."
+    }
+  }
+}

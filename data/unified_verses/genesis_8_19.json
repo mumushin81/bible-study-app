@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_19",
+  "reference": "창세기 8:19",
+  "hebrew": "כָּל־הַחַיָּה כָּל־הָרֶמֶשׂ וְכָל־הָעוֹף כֹּל רוֹמֵשׂ עַל־הָאָרֶץ לְמִשְׁפְּחֹתֵיהֶם יָצְאוּ מִן־הַתֵּבָה.",
+  "ipa": "kol haxaˈja kol haˈrɛmɛʃ vəxol haˈof kol roˈmeʃ ʔal haˈʔarɛts ləmiʃpəxoteˈhɛm jaˈtsəu min hateva",
+  "koreanPronunciation": "콜 하하야 콜 하레메쉬 베콜 하오프 콜 로메쉬 알 하아레츠 레미쉬페호테헴 야추 민 하테바",
+  "modern": "모든 생물, 모든 기는 것, 모든 새, 땅에서 움직이는 모든 것이 그 종류대로 방주에서 나왔습니다",
+  "words": [
+    {
+      "hebrew": "כָּל",
+      "meaning": "모든",
+      "ipa": "kol",
+      "korean": "콜",
+      "letters": "כָּל(kol)",
+      "root": "כֹּל (콜)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"all_complete\"><stop offset=\"0%\" stop-color=\"#42A5F5\" opacity=\"0.8\" /><stop offset=\"50%\" stop-color=\"#1976D2\" opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#all_complete)\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"#1976D2\" stroke-width=\"2\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"none\" stroke=\"#1976D2\" stroke-width=\"2\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#1976D2\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든, 전부)",
+        "כֻּלָּם (쿨람 - 그들 모두)"
+      ]
+    },
+    {
+      "hebrew": "הָעוֹף",
+      "meaning": "새",
+      "ipa": "haˈof",
+      "korean": "하오프",
+      "letters": "הָ(ha) + עוֹף(of)",
+      "root": "עוֹף (오프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birds_flying\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"12\" ry=\"8\" fill=\"url(#birds_flying)\" /><circle cx=\"24\" cy=\"26\" r=\"5\" fill=\"url(#birds_flying)\" /><path d=\"M 16 28 L 8 24 L 16 26 Z\" fill=\"url(#birds_flying)\" /><path d=\"M 48 28 L 56 24 L 48 26 Z\" fill=\"url(#birds_flying)\" /><ellipse cx=\"20\" cy=\"18\" rx=\"10\" ry=\"6\" fill=\"url(#birds_flying)\" opacity=\"0.6\" transform=\"rotate(-20 20 18)\" /><ellipse cx=\"44\" cy=\"18\" rx=\"10\" ry=\"6\" fill=\"url(#birds_flying)\" opacity=\"0.6\" transform=\"rotate(20 44 18)\" /></svg>",
+      "relatedWords": [
+        "עוֹף (오프 - 새)",
+        "צִפּוֹר (치포르 - 새)"
+      ]
+    },
+    {
+      "hebrew": "רוֹמֵשׂ",
+      "meaning": "기는, 움직이는",
+      "ipa": "roˈmeʃ",
+      "korean": "로메쉬",
+      "letters": "רוֹ(ro) + מֵשׂ(mesh)",
+      "root": "ר-מ-שׂ (ramas)",
+      "grammar": "동사 분사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creeping_move\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><path d=\"M 8 32 Q 20 28 32 32 Q 44 36 56 32\" stroke=\"url(#creeping_move)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"#5D4037\" /><circle cx=\"24\" cy=\"30\" r=\"3\" fill=\"#5D4037\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"34\" r=\"3\" fill=\"#5D4037\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"3\" fill=\"#5D4037\" /></svg>",
+      "relatedWords": [
+        "רָמַשׂ (라마스 - 기다)",
+        "רֶמֶשׂ (레메쉬 - 기는 것)"
+      ]
+    },
+    {
+      "hebrew": "לְמִשְׁפְּחֹתֵיהֶם",
+      "meaning": "그들의 종류대로",
+      "ipa": "ləmiʃpəxoteˈhɛm",
+      "korean": "레미쉬페호테헴",
+      "letters": "לְ(lə) + מִ(mi) + שְׁ(sh) + פְּ(pə) + חֹ(cho) + תֵי(te) + הֶם(hem)",
+      "root": "מִשְׁפָּחָה (미쉬파하)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"families_group\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><circle cx=\"16\" cy=\"20\" r=\"6\" fill=\"url(#families_group)\" opacity=\"0.7\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.5\" /><circle cx=\"16\" cy=\"42\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"20\" r=\"6\" fill=\"url(#families_group)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"42\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"20\" r=\"6\" fill=\"url(#families_group)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.5\" /><circle cx=\"48\" cy=\"42\" r=\"4\" fill=\"url(#families_group)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מִשְׁפָּחָה (미쉬파하 - 가족, 종족)",
+        "מִין (민 - 종류)"
+      ]
+    },
+    {
+      "hebrew": "יָצְאוּ",
+      "meaning": "나갔다",
+      "ipa": "jaˈtsəu",
+      "korean": "야추",
+      "letters": "יָ(ya) + צְ(tsə) + אוּ(u)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"went_out\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" opacity=\"0.2\" /><stop offset=\"100%\" stop-color=\"#66BB6A\" /></linearGradient></defs><rect x=\"8\" y=\"20\" width=\"16\" height=\"24\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" /><circle cx=\"40\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.6\" /><circle cx=\"56\" cy=\"32\" r=\"4\" fill=\"#66BB6A\" opacity=\"0.4\" /><path d=\"M 24 28 L 32 32 L 24 36\" fill=\"#43A047\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출애굽)"
+      ]
+    },
+    {
+      "hebrew": "מִן־הַתֵּבָה",
+      "meaning": "방주로부터",
+      "ipa": "min hateva",
+      "korean": "민 하테바",
+      "letters": "מִן(min) + הַ(ha) + תֵּ(te) + בָה(vah)",
+      "root": "מִן + תֵּבָה (민 + 테바)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"from_ark\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A1887F\" opacity=\"0.3\" /></linearGradient></defs><path d=\"M 12 38 L 8 46 L 32 46 L 28 38 Z\" fill=\"url(#from_ark)\" opacity=\"0.6\" /><rect x=\"14\" y=\"22\" width=\"16\" height=\"16\" rx=\"2\" fill=\"url(#from_ark)\" opacity=\"0.7\" /><path d=\"M 30 32 L 56 32\" stroke=\"#66BB6A\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-dasharray=\"4 4\" /><path d=\"M 48 26 L 56 32 L 48 38\" fill=\"#66BB6A\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מִן (민 - ~로부터)",
+        "תֵּבָה (테바 - 방주, 궤)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 19절은 동물들이 방주에서 나오는 장면을 묘사합니다. '그 종류대로'라는 표현은 창조 때(1:21, 24-25)의 질서가 보존되었음을 보여줍니다. 이것으로 홍수 이야기의 방주 부분이 완결됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל (콜) - 모든 것의 포함",
+        "description": "'콜(모든)'이 네 번 반복됩니다. 이는 완전성과 포괄성을 강조합니다. 한 생명도 빠짐없이 나왔습니다.",
+        "points": [
+          "하나님의 구원은 완전합니다",
+          "들어갈 때와 나갈 때 모두 온전합니다",
+          "생명의 다양성이 보존되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "생물의 분류",
+        "description": "생물(하야), 기는 것(레메쉬), 새(오프)가 언급됩니다. 이는 창조 때의 분류(1:20-25)를 따릅니다.",
+        "points": [
+          "창조의 질서가 유지됩니다",
+          "각 종류가 보존되었습니다",
+          "생태계의 다양성이 회복됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְמִשְׁפְּחֹתֵיהֶם (레미쉬페호테헴) - 종류대로",
+        "description": "'미쉬파하(가족, 종족)'대로 나간 것은 창조 때의 '민(종류)대로'(1:21, 24-25)와 연결됩니다.",
+        "points": [
+          "각 종의 정체성이 보존되었습니다",
+          "창조의 질서가 홍수 후에도 계속됩니다",
+          "질서 있는 나감입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "완결된 구원",
+        "description": "모든 동물이 방주에서 나옴으로써 하나님의 구원 계획이 완성됩니다. 들어간 것들이 모두 나왔습니다.",
+        "points": [
+          "구원은 시작부터 끝까지 완성됩니다",
+          "하나님은 약속을 지키십니다",
+          "새로운 시작을 위한 준비가 완료되었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 동물들이 '종류대로' 나왔다고 말할까요?",
+      "answer": "하나님이 만드신 모든 동물들이 홍수에서도 살아남았다는 걸 보여주려고 그래요. 강아지는 강아지대로, 고양이는 고양이대로, 새들은 새들대로 나왔어요. 하나님이 처음에 만드신 대로 그대로 보존된 거예요. 방주 안에서 1년 넘게 있었는데도 모든 동물들이 건강하게 살아서 나온 거예요. 이건 하나님이 정말 잘 돌보셨다는 증거예요. 그리고 이제 이 동물들이 다시 온 세상에 퍼져서 살게 될 거예요. 하나님의 창조하신 세상이 다시 시작되는 거죠!",
+      "bibleReferences": [
+        "창세기 1:21 - '하나님이 큰 바다 짐승들과 물에서 번성하여 움직이는 모든 생물을 그 종류대로, 날개 있는 모든 새를 그 종류대로 창조하시니'",
+        "창세기 1:24-25 - '하나님이 이르시되 땅은 생물을 그 종류대로 내되 가축과 기는 것과 땅의 짐승을 종류대로 내라 하시니 그대로 되니라'",
+        "시편 145:16 - '손을 펴사 모든 생물의 소원을 만족하게 하시나이다'",
+        "시편 104:24 - '여호와여 주께서 하신 일이 어찌 그리 많은지요 주께서 지혜로 그들을 다 지으셨으니 주께서 지으신 것들이 땅에 가득하니이다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:19는 하나님의 구원 계획의 완성을 보여줍니다. '모든(콜)'이 네 번 반복되어 완전성을 강조하며, '종류대로(레미쉬페호테헴)' 나간 것은 창조의 질서가 보존되었음을 확인합니다. 이는 하나님의 심판이 파괴가 아니라 정화였으며, 홍수 후 세계가 혼돈이 아닌 질서 있는 재창조임을 보여줍니다. 동물들이 방주에서 나온 것으로 홍수 내러티브의 방주 부분이 완결되며, 다음 장에서는 노아의 제단과 하나님의 새 언약이 이어집니다. 모든 생명이 온전히 보존되어 나간 것은 하나님의 신실하심과 생명을 향한 사랑을 증거합니다. 이것은 그리스도를 통한 구원도 완전하며, 새 창조에서 모든 것이 회복될 것을 예표합니다."
+    }
+  }
+}

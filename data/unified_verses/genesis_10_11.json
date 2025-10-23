@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_11",
+  "reference": "창세기 10:11",
+  "hebrew": "מִן־הָאָרֶץ הַהִוא יָצָא אַשּׁוּר, וַיִּבֶן אֶת־נִינְוֵה וְאֶת־רְחֹבֹת עִיר, וְאֶת־כָּלַח.",
+  "ipa": "minhaˈʔarɛts hahi jaˈtsa ʔaʃˈʃur vajˈjivɛn ʔɛt ninˈve vəʔɛt rəxoˈvot ˈʕir vəʔɛt kaˈlax",
+  "koreanPronunciation": "민하아레츠 하히 야차 아슈르 바이벤 에트 니느베 베에트 레호보트 이르 베에트 칼라흐",
+  "modern": "그가 그 땅에서 앗수르로 나아가 니느웨와 르호보딜과 갈라를 건설하였으며",
+  "words": [
+    {
+      "hebrew": "יָצָא",
+      "meaning": "나아갔다, 나왔다",
+      "ipa": "jaˈtsa",
+      "korean": "야차",
+      "letters": "יָ(ya) + צָ(tsa) + א(a)",
+      "root": "י-צ-א (야차 - 나가다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_yatsa\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#FF9800\" /><stop offset=\"100%\" stop-color=\"#F57C00\" /></linearGradient></defs><rect x=\"8\" y=\"20\" width=\"20\" height=\"24\" rx=\"2\" fill=\"#BCAAA4\" opacity=\"0.5\" /><line x1=\"28\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"url(#exit_yatsa)\" stroke-width=\"4\" stroke-linecap=\"round\" /><polygon points=\"52,32 44,28 44,36\" fill=\"#F57C00\" /></svg>",
+      "relatedWords": [
+        "יְצִיאָה (예치아 - 출구, 탈출)",
+        "יְצִיאַת מִצְרַיִם (예치아트 미츠라임 - 출애굽)"
+      ]
+    },
+    {
+      "hebrew": "אַשּׁוּר",
+      "meaning": "앗수르 (앗시리아)",
+      "ipa": "ʔaʃˈʃur",
+      "korean": "아슈르",
+      "letters": "אַ(a) + שּׁ(sh) + וּ(shu) + ר(r)",
+      "root": "אַשּׁוּר (아슈르)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"assyria_ashshur\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#212121\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"2\" fill=\"url(#assyria_ashshur)\" opacity=\"0.7\" /><path d=\"M 32 20 L 36 28 L 44 28 L 38 34 L 40 42 L 32 36 L 24 42 L 26 34 L 20 28 L 28 28 Z\" fill=\"#D32F2F\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אַשּׁוּרִי (아슈리 - 앗수르인)",
+        "אֶרֶץ אַשּׁוּר (에레츠 아슈르 - 앗수르 땅)"
+      ]
+    },
+    {
+      "hebrew": "נִינְוֵה",
+      "meaning": "니느웨 (앗수르의 수도)",
+      "ipa": "ninˈve",
+      "korean": "니느베",
+      "letters": "נִ(ni) + ינְ(n) + וֵ(ve) + ה(h)",
+      "root": "נִינְוֵה (니느베)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nineveh_ninveh\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5D4037\" /><stop offset=\"100%\" stop-color=\"#3E2723\" /></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"32\" rx=\"2\" fill=\"url(#nineveh_ninveh)\" /><rect x=\"16\" y=\"24\" width=\"12\" height=\"12\" fill=\"#8D6E63\" opacity=\"0.6\" /><rect x=\"36\" y=\"24\" width=\"12\" height=\"12\" fill=\"#8D6E63\" opacity=\"0.6\" /><rect x=\"26\" y=\"40\" width=\"12\" height=\"12\" fill=\"#6D4C41\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יוֹנָה (요나 - 요나 선지자)",
+        "תְּשׁוּבָה (테슈바 - 회개)"
+      ]
+    },
+    {
+      "hebrew": "רְחֹבֹת עִיר",
+      "meaning": "르호봇 이르 (넓은 거리들의 도시)",
+      "ipa": "rəxoˈvot ˈʕir",
+      "korean": "레호보트 이르",
+      "letters": "רְ(re) + חֹ(cho) + בֹ(vo) + ת(t) + עִ(i) + יר(r)",
+      "root": "ר-ח-ב (라하브 - 넓다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"streets_rechovot\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E0E0E0\" /><stop offset=\"100%\" stop-color=\"#9E9E9E\" /></linearGradient></defs><rect x=\"8\" y=\"20\" width=\"48\" height=\"8\" fill=\"url(#streets_rechovot)\" opacity=\"0.7\" /><rect x=\"8\" y=\"36\" width=\"48\" height=\"8\" fill=\"url(#streets_rechovot)\" opacity=\"0.7\" /><rect x=\"24\" y=\"8\" width=\"8\" height=\"48\" fill=\"url(#streets_rechovot)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רְחוֹב (레호브 - 거리, 광장)",
+        "רָחָב (라하브 - 넓은)"
+      ]
+    },
+    {
+      "hebrew": "כָּלַח",
+      "meaning": "갈라 (칼라흐, 님루드)",
+      "ipa": "kaˈlax",
+      "korean": "칼라흐",
+      "letters": "כָּ(ka) + לַ(la) + ח(ch)",
+      "root": "כָּלַח (칼라흐)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"kalah_kalach\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#kalah_kalach)\" opacity=\"0.7\" /><rect x=\"24\" y=\"24\" width=\"16\" height=\"16\" rx=\"2\" fill=\"#8D6E63\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כֶּלַח (켈라흐 - 힘)",
+        "כָּלָה (칼라 - 완성하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "니므롯의 확장은 시날 땅에서 멈추지 않고 북쪽 앗수르 땅으로 이어집니다. 이 구절의 주어 해석(니므롯인가 앗수르인가)에는 논란이 있지만, 니므롯의 제국이 메소포타미아 전역으로 확대되었음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "주어 논쟁: 누가 나아갔는가?",
+        "description": "히브리어 문법상 '야차(나아갔다)'의 주어가 니므롯인지 앗수르인지 모호합니다. 전통적으로 니므롯이 앗수르 땅으로 확장했다고 해석하지만, 일부는 앗수르(셈의 아들)가 니므롯을 피해 나갔다고 봅니다.",
+        "points": [
+          "대부분의 번역은 니므롯을 주어로 봅니다",
+          "문맥상 니므롯의 제국 확장 이야기의 연속입니다",
+          "앗수르가 주어라면, 니므롯의 압제를 피한 것일 수 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "니느웨 - 요나의 도시",
+        "description": "니느웨는 후에 앗수르 제국의 수도가 되며, 요나서의 무대가 됩니다. 요나가 가기 싫어했던 이 거대한 도시는 회개하여 하나님의 긍휼을 경험합니다. 그러나 나훔서에서 최종 심판을 받습니다.",
+        "points": [
+          "요나 시대에는 '사흘 길이나 되는 큰 성'이었습니다(욘 3:3)",
+          "고고학적으로 거대한 성벽과 궁전 유적이 발굴되었습니다",
+          "회개와 심판의 양면을 보여주는 도시입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "르호봇 이르와 갈라 - 위성 도시들",
+        "description": "'르호봇 이르(넓은 거리들의 도시)'는 니느웨의 교외나 광장 지구를 가리킬 수 있습니다. 갈라(칼라흐, 현대의 님루드)는 고고학적으로 거대한 궁전과 신전이 발굴된 주요 도시입니다.",
+        "points": [
+          "갈라흐에서 '검은 오벨리스크'가 발견되어 성경과 연결됩니다",
+          "앗수르 제국의 체계적인 도시 계획을 보여줍니다",
+          "군사적, 행정적 중요성을 가진 도시들이었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "남에서 북으로 - 제국의 확장",
+        "description": "시날(남부 메소포타미아)에서 앗수르(북부 메소포타미아)로의 확장은 티그리스-유프라테스 강 유역 전체를 장악하려는 의도를 보여줍니다. 이는 후대 바빌론과 앗수르의 패권 경쟁을 예표합니다.",
+        "points": [
+          "메소포타미아 전역이 하나의 제국 아래 통합되었습니다",
+          "전략적 요충지들을 체계적으로 건설/정복했습니다",
+          "인간 제국주의의 원형적 모델을 보여줍니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 니므롯은 계속 새로운 도시를 만들었나요?",
+      "answer": "니므롯은 점점 더 많은 땅과 도시를 가지려고 했어요. 한 도시로는 만족하지 못하고 계속 더 크고 강한 나라를 만들고 싶어 했죠. 이것은 욕심이에요. 하나님은 우리에게 필요한 것을 주시고, 가진 것에 감사하며 살라고 하세요. 하지만 니므롯은 더 많이 가질수록 더 많이 원했어요. 마치 장난감이 많아도 계속 새 장난감만 사달라고 하는 것과 비슷해요. 진짜 행복은 많이 가지는 데 있는 게 아니라, 하나님을 사랑하고 다른 사람과 나누는 데 있답니다.",
+      "bibleReferences": [
+        "전도서 5:10 - '은을 사랑하는 자는 은으로 만족하지 못하고'",
+        "누가복음 12:15 - '사람의 생명이 그 소유의 넉넉한 데 있지 아니하니라'",
+        "빌립보서 4:11-12 - '내가 궁핍하므로 말하는 것이 아니니라 어떠한 형편에든지 나는 자족하기를 배웠노니'",
+        "디모데전서 6:6-8 - '자족하는 마음이 있으면 경건은 큰 유익이 되느니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯의 앗수르 진출은 성경 역사에서 중요한 의미를 갖습니다. 앗수르(앗시리아)는 후에 북이스라엘을 멸망시키는 하나님의 심판 도구가 되지만(왕하 17장), 동시에 교만으로 인해 자신도 심판받습니다(나 1-3장). 니느웨는 요나서를 통해 하나님의 긍휼이 이방 민족에게도 미친다는 것을 보여주지만, 나훔서에서는 돌이키지 않는 악에 대한 최종 심판을 보여줍니다. 이 이중성은 중요한 신학적 메시지를 담고 있습니다: 하나님은 모든 민족에게 회개의 기회를 주시지만, 계속된 반역에는 심판이 따릅니다. 니므롯으로 시작된 메소포타미아 제국들(바벨론, 앗수르)은 이스라엘을 괴롭히지만, 결국 다니엘이 본 환상처럼 하나님 나라 앞에 무너집니다(단 2:44-45). 니느웨의 철저한 파괴(BC 612년)는 나훔의 예언 성취이자, 어떤 인간 제국도 영원하지 않다는 교훈을 줍니다."
+    }
+  }
+}

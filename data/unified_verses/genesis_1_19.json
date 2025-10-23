@@ -1,0 +1,135 @@
+{
+  "id": "genesis_1_19",
+  "reference": "창세기 1:19",
+  "hebrew": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר י֥וֹם רְבִיעִֽי",
+  "ipa": "vajəˈhi ˈɛrɛv vajəˈhi ˈboqɛr jom rəviˈʔi",
+  "koreanPronunciation": "바예히 에레브 바예히 보케르 욤 레비이",
+  "modern": "저녁이 되고 아침이 되니 넷째 날이었습니다",
+  "words": [
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 ~이 되었다",
+      "ipa": "vajəˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִ(hi) + י(y)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"become1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"50%\" stop-color=\"#E91E63\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow1)\" /><path d=\"M 20 40 Q 32 20 44 40\" stroke=\"url(#become1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(156, 39, 176, 0.8))\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#become1)\" filter=\"drop-shadow(0 0 6px rgba(255, 107, 53, 0.9))\" /><circle cx=\"20\" cy=\"40\" r=\"4\" fill=\"#9C27B0\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"40\" r=\"4\" fill=\"#FF6B35\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다, 되다)",
+        "יִהְיֶה (이흐예 - ~이 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "meaning": "저녁",
+      "ipa": "ˈɛrɛv",
+      "korean": "에레브",
+      "letters": "עֶ(e) + רֶ(re) + ב(v)",
+      "root": "עֶרֶב (에레브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C44569\" /><stop offset=\"100%\" stop-color=\"#5F27CD\" /></linearGradient><linearGradient id=\"sun2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky2)\" rx=\"8\" /><circle cx=\"16\" cy=\"48\" r=\"10\" fill=\"url(#sun2)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.7))\" /><path d=\"M 0 48 Q 32 40 64 48 L 64 64 L 0 64 Z\" fill=\"#2C3E50\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עַרְבַּיִם (아르바임 - 두 저녁 사이)",
+        "עָרַב (아라브 - 저녁이 되다)"
+      ]
+    },
+    {
+      "hebrew": "בֹ֖קֶר",
+      "meaning": "아침",
+      "ipa": "ˈboqɛr",
+      "korean": "보케르",
+      "letters": "בֹּ(bo) + קֶ(ke) + ר(r)",
+      "root": "בֹּקֶר (보케르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"50%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFE082\" /></linearGradient><radialGradient id=\"sun3\"><stop offset=\"0%\" stop-color=\"#FFF59D\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky3)\" rx=\"8\" /><circle cx=\"48\" cy=\"20\" r=\"12\" fill=\"url(#sun3)\" filter=\"drop-shadow(0 0 16px rgba(255, 235, 59, 0.9))\" /><line x1=\"48\" y1=\"4\" x2=\"48\" y2=\"12\" stroke=\"#FFF59D\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"60\" y1=\"8\" x2=\"54\" y2=\"14\" stroke=\"#FFF59D\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"64\" y1=\"20\" x2=\"56\" y2=\"20\" stroke=\"#FFF59D\" stroke-width=\"2\" stroke-linecap=\"round\" /><line x1=\"60\" y1=\"32\" x2=\"54\" y2=\"26\" stroke=\"#FFF59D\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "בָּקַר (바카르 - 아침이 되다)",
+        "בַּבֹּקֶר (바보케르 - 아침에)"
+      ]
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "meaning": "날",
+      "ipa": "jom",
+      "korean": "욤",
+      "letters": "י(y) + וֹ(o) + ם(m)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"day1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1E88E5\" /></linearGradient><linearGradient id=\"paper1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#ECEFF1\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" rx=\"4\" fill=\"url(#paper1)\" stroke=\"url(#day1)\" stroke-width=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"8\" y=\"8\" width=\"48\" height=\"12\" rx=\"4\" fill=\"url(#day1)\" /><circle cx=\"20\" cy=\"30\" r=\"3\" fill=\"#42A5F5\" /><circle cx=\"32\" cy=\"30\" r=\"3\" fill=\"#42A5F5\" /><circle cx=\"44\" cy=\"30\" r=\"3\" fill=\"#42A5F5\" /><circle cx=\"20\" cy=\"42\" r=\"3\" fill=\"#42A5F5\" /><circle cx=\"32\" cy=\"42\" r=\"3\" fill=\"#42A5F5\" /></svg>",
+      "relatedWords": [
+        "יוֹמָם (요맘 - 낮에, 날마다)",
+        "הַיּוֹם (하욤 - 오늘)"
+      ]
+    },
+    {
+      "hebrew": "רְבִיעִֽי",
+      "meaning": "넷째",
+      "ipa": "rəviˈʔi",
+      "korean": "레비이",
+      "letters": "רְ(re) + בִ(vi) + יעִ(i) + י(y)",
+      "root": "אַרְבַּע (아르바)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"four1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6A1B9A\" /><stop offset=\"50%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#AB47BC\" /></linearGradient><radialGradient id=\"glow4\"><stop offset=\"0%\" stop-color=\"#CE93D8\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" stop-opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow4)\" /><text x=\"32\" y=\"46\" font-family=\"Arial, sans-serif\" font-size=\"36\" font-weight=\"bold\" fill=\"url(#four1)\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 6px rgba(106, 27, 154, 0.8))\">4</text><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"url(#four1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אַרְבָּעָה (아르바아 - 네, 넷)",
+        "אַרְבָּעִים (아르바임 - 사십)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:19는 넷째 날의 완성을 선언하는 구절입니다. 이 날은 해와 달과 별들이 창조된 날로, 시간의 흐름을 명확하게 표시하는 '저녁과 아침'이라는 표현이 네 번째로 반복됩니다. 하나님의 창조 사역은 질서 있게 진행되며, 각 날은 명확한 시작과 끝을 가집니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַֽיְהִי עֶ֥רֶב וַֽיְהִי בֹ֖קֶר (바예히 에레브 바예히 보케르) - 시간의 리듬",
+        "description": "'저녁이 되고 아침이 되니'라는 표현은 창조 6일 동안 매일 반복되는 후렴구입니다. 히브리 문화에서 하루는 저녁부터 시작하므로, '저녁'이 먼저 언급됩니다. 이는 어둠에서 빛으로, 혼돈에서 질서로 나아가는 창조의 패턴을 상징합니다.",
+        "points": [
+          "히브리 하루는 저녁(해질 때)부터 시작됩니다",
+          "저녁→아침 순서는 어둠에서 빛으로의 이동을 상징합니다",
+          "반복되는 리듬은 하나님의 질서와 신뢰성을 나타냅니다",
+          "창조의 각 단계는 명확한 구분과 완성을 가집니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "י֥וֹם רְבִיעִֽי (욤 레비이) - 넷째 날, 빛의 통치자들",
+        "description": "넷째 날은 해와 달과 별들이 창조된 특별한 날입니다. '레비이'(넷째)라는 서수는 창조 과정의 순차적 질서를 강조합니다. 이날 창조된 천체들은 첫째 날 창조된 빛을 다스리고 시간을 표시하는 역할을 맡게 됩니다.",
+        "points": [
+          "넷째 날에는 해, 달, 별들이 창조되었습니다",
+          "천체들은 낮과 밤, 계절과 년도를 구분하는 표지입니다",
+          "첫째 날의 빛과 넷째 날의 광원은 구분됩니다",
+          "하나님은 시간의 흐름을 측정할 수 있는 도구를 주셨습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "창조의 패턴 - 말씀, 실행, 확인, 완성",
+        "description": "창세기 1장의 각 창조일은 동일한 패턴을 따릅니다: 하나님의 명령('하나님이 이르시되'), 즉각적 실행('그대로 되니라'), 하나님의 평가('보시기에 좋았더라'), 그리고 시간의 완성('저녁이 되고 아침이 되니'). 이 반복되는 구조는 창조의 질서와 완전함을 강조합니다.",
+        "points": [
+          "매일의 창조는 동일한 문학적 구조를 따릅니다",
+          "하나님의 말씀과 행동의 완벽한 일치를 보여줍니다",
+          "각 날의 완성은 다음 날의 토대가 됩니다",
+          "반복은 창조의 신뢰성과 안정성을 강화합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 매일 '저녁이 되고 아침이 되니'라고 말씀하셨을까요?",
+      "answer": "하나님은 우리에게 시간이 어떻게 흘러가는지 알려주시기 위해서예요. 마치 엄마 아빠가 '자기 전에 이 닦고, 일어나면 세수하자'라고 말하는 것처럼, 하나님도 우리가 시간을 이해하도록 '저녁'과 '아침'으로 하루를 구분해주셨어요. 그리고 매일 같은 말을 반복하시면서 '오늘도 내가 너희와 함께 있어'라고 말씀하시는 거예요. 하나님은 우리의 매일매일을 돌보시는 분이시랍니다.",
+      "bibleReferences": [
+        "시편 74:16 - '낮도 주의 것이요 밤도 주의 것이라 주께서 빛과 해를 예비하셨으며'",
+        "시편 104:19 - '여호와께서 달로 절기를 정하심이여 해는 그 지는 때를 알도다'",
+        "예레미야 33:20 - '낮에 대한 나의 언약과 밤에 대한 나의 언약을 깨뜨려'",
+        "창세기 8:22 - '땅이 있을 동안에는 심음과 거둠과 추위와 더위와 여름과 겨울과 낮과 밤이 쉬지 아니하리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "저녁과 아침의 반복은 하나님께서 시간의 주관자이심을 선포합니다. 시간은 무작위로 흐르는 것이 아니라 하나님의 섭리 안에서 질서 있게 진행됩니다. 어둠(저녁)이 먼저 오고 빛(아침)이 뒤따르는 패턴은 우리 삶에도 적용됩니다 - 고난 후에 기쁨이, 밤 후에 아침이 반드시 옵니다. '저녁에는 울음이 기숙할지라도 아침에는 기쁨이 오리로다'(시편 30:5)."
+    }
+  }
+}

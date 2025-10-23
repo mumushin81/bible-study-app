@@ -1,0 +1,108 @@
+{
+  "id": "genesis_6_12",
+  "reference": "창세기 6:12",
+  "hebrew": "וַיַּרְא אֱלֹהִים אֶת־הָאָרֶץ, וְהִנֵּה נִשְׁחָתָה: כִּי־הִשְׁחִית כָּל־בָּשָׂר אֶת־דַּרְכּוֹ, עַל־הָאָרֶץ.",
+  "ipa": "vaˈjar ʔɛloˈhim ʔɛt haˈarɛts vəhiˈne niʃχaˈta ki hiʃˈχit kol baˈsar ʔɛt darˈko ʔal haˈarɛts",
+  "koreanPronunciation": "바야르 엘로힘 에트 하아레츠 베힌네 니쉬하타 키 히쉬히트 콜 바사르 에트 다르코 알 하아레츠",
+  "modern": "하나님께서 땅을 보시니 부패해 있었습니다. 모든 육체가 땅 위에서 자신의 길을 부패시켰기 때문입니다",
+  "words": [
+    {
+      "hebrew": "וְהִנֵּה",
+      "meaning": "그리고 보라",
+      "ipa": "vəhiˈne",
+      "korean": "베힌네",
+      "letters": "וְ(ve) + הִ(hi) + נֵּה(ne)",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"behold_vehineh\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#behold_vehineh)\" opacity=\"0.3\" /><path d=\"M 24 28 L 28 32 L 40 20\" stroke=\"url(#behold_vehineh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "הִנֵּה (힌네 - 보라)",
+        "רְאֵה (레에 - 보라)"
+      ]
+    },
+    {
+      "hebrew": "נִשְׁחָתָה",
+      "meaning": "부패되었다",
+      "ipa": "niʃχaˈta",
+      "korean": "니쉬하타",
+      "letters": "נִ(ni) + שְׁ(sh) + חָ(χa) + תָה(ta)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사 - 니팔형 완료",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"corrupted_nishchatah\"><stop offset=\"0%\" stop-color=\"#434343\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#corrupted_nishchatah)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שָׁחַת (샤하트 - 파괴하다)",
+        "שַׁחַת (샤하트 - 구덩이)"
+      ]
+    },
+    {
+      "hebrew": "הִשְׁחִית",
+      "meaning": "부패시켰다",
+      "ipa": "hiʃˈχit",
+      "korean": "히쉬히트",
+      "letters": "הִ(hi) + שְׁ(sh) + חִית(χit)",
+      "root": "שׁ-ח-ת (샤하트)",
+      "grammar": "동사 - 히필형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"corrupt_hishchit\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><path d=\"M 32 12 L 20 32 L 32 52 L 44 32 Z\" fill=\"url(#corrupt_hishchit)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "מַשְׁחִית (마쉬히트 - 파괴자)",
+        "שָׁחַת (샤하트 - 파괴하다)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "육체, 고기",
+      "ipa": "baˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂר(sar)",
+      "root": "ב-ש-ר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flesh_basar2\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"22\" fill=\"url(#flesh_basar2)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שְׁאֵר (셰에르 - 살)",
+        "גּוּף (구프 - 몸)"
+      ]
+    },
+    {
+      "hebrew": "דַּרְכּוֹ",
+      "meaning": "그의 길",
+      "ipa": "darˈko",
+      "korean": "다르코",
+      "letters": "דַּ(dar) + רְ(r) + כּוֹ(ko)",
+      "root": "דֶּרֶךְ (데레크)",
+      "grammar": "명사 - 소유격",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"way_darko\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 16 48 Q 32 32 48 16\" stroke=\"url(#way_darko)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "דֶּרֶךְ (데레크 - 길)",
+        "אֹרַח (오라흐 - 길, 방법)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 땅을 보시고 그 부패함을 확인하십니다. '모든 육체'가 자신의 길을 부패시켰다는 표현은 전면적인 타락을 의미합니다.",
+    "sections": [
+      {
+        "emoji": "👁️",
+        "title": "하나님이 보심",
+        "description": "하나님께서 '보시고'(וַיַּרְא) '보라'(וְהִנֵּה)라는 표현은 하나님의 철저한 관찰과 확인을 나타냅니다.",
+        "points": [
+          "하나님은 모든 것을 보시는 분",
+          "숨겨진 죄도 하나님 앞에 드러남",
+          "공의로운 심판의 기초"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 땅을 다시 보셨을까요?",
+      "answer": "하나님은 모든 것을 다 아시지만, 심판하기 전에 다시 한번 확인하셨어요. 정말로 나쁜 일들이 일어나고 있는지 살펴보시고, 공정하게 판단하시기 위해서였답니다. 하나님은 항상 공평하신 분이세요.",
+      "bibleReferences": [
+        "창세기 18:21 - '내가 이제 내려가서 과연 내게 들려온 그 부르짖음과 같은지 보고자 하노라'",
+        "시편 33:13 - '여호와께서 하늘에서 굽어보사 모든 인생을 보심이여'"
+      ]
+    },
+    "conclusion": {
+      "title": "공의로운 심판",
+      "content": "하나님의 심판은 충동적이거나 감정적이지 않습니다. 철저한 관찰과 확인 후에 내려지는 공의로운 판결입니다."
+    }
+  }
+}

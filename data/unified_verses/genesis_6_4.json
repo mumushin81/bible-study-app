@@ -1,0 +1,257 @@
+{
+  "id": "genesis_6_4",
+  "reference": "창세기 6:4",
+  "hebrew": "הַנְּפִלִים הָיוּ בָאָרֶץ, בַּיָּמִים הָהֵם, וְגַם אַחֲרֵי־כֵן, אֲשֶׁר יָבֹאוּ בְּנֵי הָאֱלֹהִים אֶל־בְּנוֹת הָאָדָם, וְיָלְדוּ לָהֶם: הֵמָּה הַגִּבֹּרִים אֲשֶׁר מֵעוֹלָם, אַנְשֵׁי הַשֵּׁם.",
+  "ipa": "hanəfiˈlim haˈju vaˈarɛts bajaˈmim haˈhem vəˈgam aχaˈre xen ʔaˈʃer javoˈu bəˈne haʔɛloˈhim ʔel bəˈnot haʔaˈdam vəjalˈdu laˈhem ˈhema hagiboˈrim ʔaˈʃer meˈolam anˈʃe haˈʃem",
+  "koreanPronunciation": "한필림 하유 바아레츠 바야밈 하헴 베감 아하레 켄 아쉐르 야보우 베네 하엘로힘 엘 베노트 하아담 베얄두 라헴 헴마 하기보림 아쉐르 메올람 안쉐 하쉠",
+  "modern": "그 당시와 그 후에도 네필림이 땅에 있었는데, 하나님의 아들들이 사람의 딸들과 관계하여 자녀를 낳았을 때였습니다. 그들은 옛날의 용사들이요 유명한 사람들이었습니다",
+  "words": [
+    {
+      "hebrew": "הַנְּפִלִים",
+      "meaning": "네필림 (거인들, 타락한 자들)",
+      "ipa": "hanəfiˈlim",
+      "korean": "한필림",
+      "letters": "הַ(ha) + נְּ(nə) + פִ(fi) + לִים(lim)",
+      "root": "נ-פ-ל (나팔 - 떨어지다)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nephilim_gradient\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#434343\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient></defs><rect x=\"24\" y=\"8\" width=\"16\" height=\"48\" rx=\"8\" fill=\"url(#nephilim_gradient)\" /><circle cx=\"32\" cy=\"16\" r=\"8\" fill=\"url(#nephilim_gradient)\" /><rect x=\"16\" y=\"28\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#nephilim_gradient)\" /><rect x=\"40\" y=\"28\" width=\"8\" height=\"16\" rx=\"4\" fill=\"url(#nephilim_gradient)\" /></svg>",
+      "relatedWords": [
+        "נָפַל (나팔 - 떨어지다)",
+        "גִּבּוֹר (기보르 - 용사)"
+      ]
+    },
+    {
+      "hebrew": "הָיוּ",
+      "meaning": "있었다",
+      "ipa": "haˈju",
+      "korean": "하유",
+      "letters": "הָ(ha) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"were_hayu\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#were_hayu)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "meaning": "땅에",
+      "ipa": "vaˈarɛts",
+      "korean": "바아레츠",
+      "letters": "בָּ(ba) + אָ(a) + רֶץ(rɛts)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth_baaretz\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"12\" fill=\"url(#earth_baaretz)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅)",
+        "אֲדָמָה (아다마 - 흙)"
+      ]
+    },
+    {
+      "hebrew": "בַּיָּמִים",
+      "meaning": "그 날들에",
+      "ipa": "bajaˈmim",
+      "korean": "바야밈",
+      "letters": "בַּ(ba) + יָּ(ya) + מִים(mim)",
+      "root": "יוֹם (욤)",
+      "grammar": "전치사 + 명사 복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days_bayamim\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"5\" fill=\"url(#days_bayamim)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"url(#days_bayamim)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"32\" r=\"5\" fill=\"url(#days_bayamim)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    },
+    {
+      "hebrew": "הָהֵם",
+      "meaning": "그것들 (그 당시)",
+      "ipa": "haˈhem",
+      "korean": "하헴",
+      "letters": "הָ(ha) + הֵם(hem)",
+      "root": "הֵם (헴)",
+      "grammar": "지시대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"those_hahem\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 16 32 L 32 20 L 48 32\" stroke=\"url(#those_hahem)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "הֵם (헴 - 그들)",
+        "אֵלֶּה (엘레 - 이것들)"
+      ]
+    },
+    {
+      "hebrew": "וְגַם",
+      "meaning": "그리고 또한",
+      "ipa": "vəˈgam",
+      "korean": "베감",
+      "letters": "וְ(ve) + גַם(gam)",
+      "root": "גַּם (감)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"also_vegam\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" rx=\"4\" fill=\"url(#also_vegam)\" /><rect x=\"16\" y=\"28\" width=\"32\" height=\"8\" rx=\"4\" fill=\"url(#also_vegam)\" /></svg>",
+      "relatedWords": [
+        "גַּם (감 - 또한)",
+        "אַף (아프 - ~조차)"
+      ]
+    },
+    {
+      "hebrew": "אַחֲרֵי־כֵן",
+      "meaning": "그 후에",
+      "ipa": "aχaˈre xen",
+      "korean": "아하레 켄",
+      "letters": "אַ(a) + חֲ(χa) + רֵי(re) + כֵן(ken)",
+      "root": "אַחַר (아하르)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"after_acharei\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 12 32 L 52 32\" stroke=\"url(#after_acharei)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 24 L 52 32 L 44 40\" stroke=\"url(#after_acharei)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "אַחַר (아하르 - 후에)",
+        "לְפָנִים (레파님 - 이전에)"
+      ]
+    },
+    {
+      "hebrew": "יָבֹאוּ",
+      "meaning": "그들이 들어갔다",
+      "ipa": "javoˈu",
+      "korean": "야보우",
+      "letters": "יָ(ya) + בֹ(vo) + אוּ(u)",
+      "root": "ב-ו-א (보)",
+      "grammar": "동사 - 미완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"camein_yavou\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" rx=\"4\" fill=\"none\" stroke=\"url(#camein_yavou)\" stroke-width=\"3\" /><path d=\"M 8 32 L 28 32\" stroke=\"url(#camein_yavou)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 20 24 L 28 32 L 20 40\" stroke=\"url(#camein_yavou)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "בּוֹא (보 - 오다)",
+        "בָּא (바 - 왔다)"
+      ]
+    },
+    {
+      "hebrew": "וְיָלְדוּ",
+      "meaning": "그리고 낳았다",
+      "ipa": "vəjalˈdu",
+      "korean": "베얄두",
+      "letters": "וְ(ve) + יָ(ya) + לְ(l) + דוּ(du)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사 - 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bore_veyaldu\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#bore_veyaldu)\" opacity=\"0.5\" /><circle cx=\"24\" cy=\"40\" r=\"6\" fill=\"url(#bore_veyaldu)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"40\" r=\"6\" fill=\"url(#bore_veyaldu)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "יֶלֶד (옐레드 - 아이)"
+      ]
+    },
+    {
+      "hebrew": "הֵמָּה",
+      "meaning": "그들은",
+      "ipa": "ˈhema",
+      "korean": "헴마",
+      "letters": "הֵ(he) + מָּה(ma)",
+      "root": "הֵם (헴)",
+      "grammar": "대명사 - 3인칭 복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"they_hemah\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"6\" fill=\"url(#they_hemah)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#they_hemah)\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"url(#they_hemah)\" /></svg>",
+      "relatedWords": [
+        "הֵם (헴 - 그들)",
+        "אֵלֶּה (엘레 - 이것들)"
+      ]
+    },
+    {
+      "hebrew": "הַגִּבֹּרִים",
+      "meaning": "용사들, 영웅들",
+      "ipa": "hagiboˈrim",
+      "korean": "하기보림",
+      "letters": "הַ(ha) + גִּ(gi) + בֹּ(bo) + רִים(rim)",
+      "root": "גִּבּוֹר (기보르)",
+      "grammar": "명사 - 복수형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mighty_giborim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><path d=\"M 32 8 L 36 24 L 52 24 L 40 34 L 44 50 L 32 40 L 20 50 L 24 34 L 12 24 L 28 24 Z\" fill=\"url(#mighty_giborim)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\" /></svg>",
+      "relatedWords": [
+        "גִּבּוֹר (기보르 - 용사)",
+        "גְּבוּרָה (게부라 - 용기, 힘)"
+      ]
+    },
+    {
+      "hebrew": "מֵעוֹלָם",
+      "meaning": "옛날부터, 영원부터",
+      "ipa": "meˈolam",
+      "korean": "메올람",
+      "letters": "מֵ(me) + עוֹ(o) + לָם(lam)",
+      "root": "עוֹלָם (올람)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ancient_meolam\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#ancient_meolam)\" stroke-width=\"3\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#ancient_meolam)\" stroke-width=\"3\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"url(#ancient_meolam)\" stroke-width=\"3\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עוֹלָם (올람 - 영원, 세상)",
+        "קֶדֶם (케뎀 - 옛날)"
+      ]
+    },
+    {
+      "hebrew": "אַנְשֵׁי",
+      "meaning": "사람들",
+      "ipa": "anˈʃe",
+      "korean": "안쉐",
+      "letters": "אַ(an) + נְ(n) + שֵׁי(she)",
+      "root": "אִישׁ (이쉬)",
+      "grammar": "명사 - 연계형 복수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"men_anshei\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"20\" cy=\"20\" r=\"5\" fill=\"url(#men_anshei)\" /><ellipse cx=\"20\" cy=\"36\" rx=\"6\" ry=\"10\" fill=\"url(#men_anshei)\" /><circle cx=\"44\" cy=\"20\" r=\"5\" fill=\"url(#men_anshei)\" /><ellipse cx=\"44\" cy=\"36\" rx=\"6\" ry=\"10\" fill=\"url(#men_anshei)\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 사람, 남자)",
+        "אֲנָשִׁים (아나쉼 - 사람들)"
+      ]
+    },
+    {
+      "hebrew": "הַשֵּׁם",
+      "meaning": "이름, 명성",
+      "ipa": "haˈʃem",
+      "korean": "하쉠",
+      "letters": "הַ(ha) + שֵּׁם(shem)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "명사 - 정관사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"name_hashem\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#name_hashem)\" opacity=\"0.3\" /><path d=\"M 32 16 L 36 28 L 48 28 L 38 36 L 42 48 L 32 40 L 22 48 L 26 36 L 16 28 L 28 28 Z\" fill=\"url(#name_hashem)\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "שְׁמוּאֵל (쉬무엘 - 하나님께서 들으셨다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 노아 홍수 이전 세상의 특이한 상황을 묘사합니다. 네필림의 정체와 기원에 대해서는 많은 논쟁이 있지만, 분명한 것은 당시 세상이 극도로 타락했다는 것입니다.",
+    "sections": [
+      {
+        "emoji": "👹",
+        "title": "네필림의 정체",
+        "description": "네필림(הַנְּפִלִים)은 '떨어진 자들'이라는 뜻입니다. 그들이 타락한 천사의 후손인지, 단순히 폭력적인 독재자들인지는 해석이 분분합니다.",
+        "points": [
+          "히브리어 '나팔'(떨어지다)에서 유래",
+          "민수기 13:33에서도 언급되는 거인족",
+          "육체적으로나 영적으로 타락한 존재들"
+        ],
+        "color": "red"
+      },
+      {
+        "emoji": "⚔️",
+        "title": "기보림 - 옛날의 용사들",
+        "description": "'기보림'(הַגִּבֹּרִים)은 강력한 전사들을 의미합니다. 그들은 유명했지만, 그 명성이 하나님께 영광을 돌리기 위한 것이 아니었습니다.",
+        "points": [
+          "폭력과 힘으로 이름을 떨친 자들",
+          "자신의 영광을 추구한 인본주의",
+          "하나님 없는 위대함의 공허함"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "📜",
+        "title": "유명한 사람들",
+        "description": "'명성 있는 자들'(אַנְשֵׁי הַשֵּׁם)이라는 표현은 바벨탑 사건(창 11:4)과 연결됩니다. 인간이 스스로 이름을 만들려는 시도는 항상 심판으로 이어집니다.",
+        "points": [
+          "자기 영광을 추구하는 인간의 교만",
+          "하나님의 영광 대신 인간의 명성 추구",
+          "세속적 성공과 영적 실패의 대조"
+        ],
+        "color": "purple"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 네필림과 용사들이 나쁜 사람들이었을까요?",
+      "answer": "그들은 힘이 세고 유명했지만, 그 힘을 나쁜 일에 사용했어요. 하나님을 사랑하고 다른 사람들을 도와주는 대신, 자기들만 대단하다고 자랑하고 약한 사람들을 괴롭혔답니다. 진짜 영웅은 하나님을 사랑하고 다른 사람들을 도와주는 사람이에요.",
+      "bibleReferences": [
+        "창세기 11:4 - '우리 이름을 내고 온 지면에 흩어짐을 면하자 하였더니'",
+        "민수기 13:33 - '거기서 네피림 후손 아낙 자손 대장부들을 보았나니'",
+        "잠언 16:18 - '교만은 패망의 선봉이요 거만한 마음은 넘어짐의 앞잡이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "타락의 극치",
+      "content": "이 구절은 홍수 이전 세상이 얼마나 타락했는지를 보여줍니다. 영적, 도덕적, 육체적 모든 면에서 하나님의 창조 질서가 무너졌습니다. 인간의 명성과 힘이 하나님의 영광을 대체했고, 이것이 홍수 심판의 배경이 되었습니다."
+    }
+  }
+}

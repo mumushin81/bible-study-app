@@ -1,0 +1,111 @@
+{
+  "id": "genesis_11_19",
+  "reference": "창세기 11:19",
+  "hebrew": "וַיְחִי־פֶלֶג אַחֲרֵי הוֹלִידוֹ אֶת־רְעוּ תֵּשַׁע שָׁנִים וּמָאתַיִם שָׁנָה וַיּוֹלֶד בָּנִים וּבָנוֹת׃",
+  "ipa": "vajəˈħi ˈpɛlɛɡ ʔaħaˈrei holiˈdo ʔɛt rəˈʕu ˈteʃaʕ ʃaˈnim umaˈtajim ʃaˈna vajˈjolɛd baˈnim uvaˈnot",
+  "koreanPronunciation": "바예히 펠레그 아하레이 홀리도 에트 레우 테샤 샤님 우마타임 샤나 바욜레드 바님 우바노트",
+  "modern": "펠렉이 르우를 낳은 후 이백구 년을 지내며 자녀들을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "אַחֲרֵי",
+      "meaning": "~한 후에",
+      "ipa": "ʔaħaˈrei",
+      "korean": "아하레이",
+      "letters": "אַ(a) + חֲ(ha) + רֵי(rei)",
+      "root": "אַחַר (아하르)",
+      "grammar": "전치사",
+      "emoji": "⏭️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg19-after1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#peleg19-after1)\" opacity=\"0.2\" /><path d=\"M 16 32 L 28 20 L 28 44 Z\" fill=\"url(#peleg19-after1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 32 L 44 20 L 44 44 Z\" fill=\"url(#peleg19-after1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>"
+    },
+    {
+      "hebrew": "הוֹלִידוֹ",
+      "meaning": "그가 낳은",
+      "ipa": "holiˈdo",
+      "korean": "홀리도",
+      "letters": "הוֹ(ho) + לִי(li) + דוֹ(do)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👨‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg19-birth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#388E3C\" /></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"url(#peleg19-birth1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"40\" r=\"7\" fill=\"url(#peleg19-birth1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 24 34 Q 28 36 32 36 Q 36 36 40 33\" stroke=\"url(#peleg19-birth1)\" stroke-width=\"3\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>"
+    },
+    {
+      "hebrew": "תֵּשַׁע",
+      "meaning": "아홉",
+      "ipa": "ˈteʃaʕ",
+      "korean": "테샤",
+      "letters": "תֵּ(te) + שַׁ(sha) + ע(a)",
+      "root": "תֵּשַׁע (테샤)",
+      "grammar": "명사",
+      "emoji": "9️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg19-nine1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AB47BC\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#peleg19-nine1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial\">9</text></svg>"
+    },
+    {
+      "hebrew": "מָאתַיִם",
+      "meaning": "이백",
+      "ipa": "maˈtajim",
+      "korean": "마타임",
+      "letters": "מָ(ma) + אתַ(a) + יִם(yim)",
+      "root": "מֵאָה (메아)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg19-hundred1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C92A2A\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#peleg19-hundred1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"38\" font-size=\"20\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial\">200</text></svg>"
+    },
+    {
+      "hebrew": "בָּנִים וּבָנוֹת",
+      "meaning": "아들들과 딸들",
+      "ipa": "baˈnim uvaˈnot",
+      "korean": "바님 우바노트",
+      "letters": "בָּ(ba) + נִים(nim) + וּ(u) + בָ(ba) + נוֹת(not)",
+      "root": "בֵּן (벤) / בַּת (바트)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peleg19-family1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA000\" /></linearGradient><radialGradient id=\"peleg19-heart1\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#peleg19-heart1)\" opacity=\"0.15\" /><circle cx=\"20\" cy=\"28\" r=\"8\" fill=\"url(#peleg19-family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#peleg19-family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"28\" r=\"8\" fill=\"url(#peleg19-family1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"42\" r=\"6\" fill=\"url(#peleg19-family1)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"38\" cy=\"42\" r=\"6\" fill=\"url(#peleg19-family1)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בַּת (바트 - 딸)",
+        "מִשְׁפָּחָה (미쉬파하 - 가족)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 19절은 펠렉의 생애 전체를 요약합니다. 그는 르우를 낳은 후 209년을 더 살면서 많은 자녀를 두었습니다. 이 구절은 단순한 수명 기록을 넘어 하나님께서 인류를 번성하게 하시는 축복의 연속성을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "מָאתַיִם וָתֵשַׁע שָׁנִים (마타임 바테샤 샤님) - 209년의 감소하는 수명",
+        "description": "펠렉은 르우를 낳은 후 209년을 더 살았고, 총 수명은 239년이었습니다(30+209). 에벨의 464년, 셈의 600년과 비교하면 세대가 내려올수록 수명이 급격히 단축되는 추세를 볼 수 있습니다.",
+        "points": [
+          "대홍수 이후 환경 변화로 인간 수명이 점진적으로 감소했습니다",
+          "죄의 결과로 인한 육체적 쇠퇴가 가속화되었습니다",
+          "유한한 인생과 영원하신 하나님의 대조를 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּנִים וּבָנוֹת (바님 우바노트) - 자녀들의 축복",
+        "description": "'아들들과 딸들'이라는 표현은 펠렉이 르우 외에도 많은 자녀를 두었음을 나타냅니다. 이는 창세기 1:28의 '생육하고 번성하라'는 창조 명령이 대홍수와 바벨탑 사건 이후에도 계속 이어지고 있음을 보여줍니다.",
+        "points": [
+          "자녀는 하나님께서 주시는 축복이자 기업입니다",
+          "분열의 시대에도 생명과 번성의 축복은 계속됩니다",
+          "각 가정이 하나님의 언약을 다음 세대에 전하는 통로입니다"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 펠렉은 르우를 낳은 후에도 209년이나 더 살았을까요?",
+      "answer": "옛날 사람들은 지금보다 훨씬 오래 살았어요. 하지만 노아 할아버지 시대보다는 점점 수명이 짧아지고 있었답니다. 펠렉이 오래 산 것은 하나님께서 주신 축복이에요. 그 긴 시간 동안 펠렉은 많은 자녀들을 낳고, 손자 손녀들도 많이 보면서 가족들에게 하나님에 대해 가르쳐줄 수 있었을 거예요. 오래 사는 것은 더 많은 사람들에게 하나님의 사랑을 전할 수 있는 기회랍니다.",
+      "bibleReferences": [
+        "시편 90:10 - '우리의 연수가 칠십이요 강건하면 팔십이라도'",
+        "시편 90:12 - '우리에게 우리 날 계수함을 가르치사 지혜로운 마음을 얻게 하소서'",
+        "창세기 1:28 - '하나님이 그들에게 복을 주시며 그들에게 이르시되 생육하고 번성하여'",
+        "신명기 6:7 - '네 자녀에게 부지런히 가르치며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "펠렉의 긴 생애는 하나님의 언약이 세대를 거쳐 전달되는 과정을 보여줍니다. 비록 수명이 감소하는 추세였지만, 209년이라는 시간은 여러 세대에 걸쳐 신앙을 전수하기에 충분했습니다. 이는 오늘날 우리에게도 주어진 시간을 하나님의 구속 역사를 전하는 데 사용해야 함을 가르쳐줍니다(신명기 6:7)."
+    }
+  }
+}

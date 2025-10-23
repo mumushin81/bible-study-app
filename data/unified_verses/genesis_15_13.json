@@ -1,0 +1,170 @@
+{
+  "id": "genesis_15_13",
+  "reference": "창세기 15:13",
+  "hebrew": "וַיֹּאמֶר לְאַבְרָם, יָדֹעַ תֵּדַע כִּי-גֵר יִהְיֶה זַרְעֲךָ בְּאֶרֶץ לֹא לָהֶם, וַעֲבָדוּם, וְעִנּוּ אֹתָם--אַרְבַּע מֵאוֹת שָׁנָה.",
+  "ipa": "ʃaˈna meˈʔot ʔarˈbaʕ ʔoˈtam vəʕinˈnu vaʕaˈvdum laˈhɛm lo bəˈʔɛrɛts zarʕaˈxa jihˈjɛ ɡer ki teˈdaʕ jaˈdoaʕ ləʔavˈram vajˈjomɛr",
+  "koreanPronunciation": "샤나 메오트 아르바 오탐 베이누 바아부둠 라헴 로 베에레츠 자르아하 이흐예 게르 키 테다 야도아 레아브람 바요메르",
+  "modern": "하나님께서 아브람에게 말씀하셨습니다: '너는 반드시 알아야 한다. 네 후손들이 자기 땅이 아닌 곳에서 나그네가 되어 그들을 섬기며 400년 동안 학대받을 것이다.'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "💬",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-speak1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><radialGradient id=\"prophecy13-speak2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#A78BFA\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#prophecy13-speak1)\" opacity=\"0.2\" /><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"18\" fill=\"url(#prophecy13-speak1)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 32 Q 26 28 32 32 Q 38 36 44 32\" stroke=\"url(#prophecy13-speak2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"24\" cy=\"24\" r=\"3\" fill=\"url(#prophecy13-speak2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><circle cx=\"32\" cy=\"22\" r=\"3\" fill=\"url(#prophecy13-speak2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"url(#prophecy13-speak2)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבָר (다바르 - 말씀)"
+      ]
+    },
+    {
+      "hebrew": "יָדֹעַ תֵּדַע",
+      "meaning": "반드시 알아야 한다",
+      "ipa": "teˈdaʕ jaˈdoaʕ",
+      "korean": "테다 야도아",
+      "letters": "יָ(ya) + דֹעַ(doa) + תֵּ(te) + דַע(da)",
+      "root": "י-ד-ע (야다)",
+      "grammar": "동사",
+      "emoji": "📖",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-know1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></linearGradient><linearGradient id=\"prophecy13-know2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#FBBF24\" /></linearGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"2\" fill=\"url(#prophecy13-know1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"16\" width=\"24\" height=\"32\" rx=\"1\" fill=\"url(#prophecy13-know2)\" opacity=\"0.9\" /><line x1=\"24\" y1=\"22\" x2=\"40\" y2=\"22\" stroke=\"#92400E\" stroke-width=\"1.5\" /><line x1=\"24\" y1=\"28\" x2=\"40\" y2=\"28\" stroke=\"#92400E\" stroke-width=\"1.5\" /><line x1=\"24\" y1=\"34\" x2=\"36\" y2=\"34\" stroke=\"#92400E\" stroke-width=\"1.5\" /><circle cx=\"32\" cy=\"42\" r=\"4\" fill=\"#EF4444\" filter=\"drop-shadow(0 0 4px rgba(239, 68, 68, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "גֵר",
+      "meaning": "나그네",
+      "ipa": "ɡer",
+      "korean": "게르",
+      "letters": "גֵ(ge) + ר(r)",
+      "root": "ג-ו-ר (구르)",
+      "grammar": "명사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-stranger1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"prophecy13-stranger2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"20\" ry=\"4\" fill=\"rgba(0, 0, 0, 0.2)\" /><path d=\"M 28 18 L 30 36 L 26 48 L 28 54\" stroke=\"url(#prophecy13-stranger1)\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 28 18 L 30 36 L 34 48 L 36 54\" stroke=\"url(#prophecy13-stranger1)\" stroke-width=\"5\" stroke-linecap=\"round\" fill=\"none\" /><circle cx=\"28\" cy=\"12\" r=\"6\" fill=\"url(#prophecy13-stranger2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 22 Q 18 28 20 36\" stroke=\"url(#prophecy13-stranger1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" /><rect x=\"36\" y=\"24\" width=\"8\" height=\"16\" rx=\"2\" fill=\"url(#prophecy13-stranger2)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "גּוּר (구르 - 체류하다)",
+        "נָכְרִי (노크리 - 외국인)"
+      ]
+    },
+    {
+      "hebrew": "זַרְעֲךָ",
+      "meaning": "네 후손",
+      "ipa": "zarʕaˈxa",
+      "korean": "자르아하",
+      "letters": "זַ(zar) + רְ(re) + עֲ(a) + ךָ(kha)",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "명사",
+      "emoji": "👨‍👩‍👧‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-seed1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#10B981\" /><stop offset=\"100%\" stop-color=\"#059669\" /></linearGradient><radialGradient id=\"prophecy13-seed2\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></radialGradient></defs><path d=\"M 32 48 Q 28 38 32 28 Q 36 18 32 8\" stroke=\"url(#prophecy13-seed1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#prophecy13-seed2)\" filter=\"drop-shadow(0 0 6px rgba(245, 158, 11, 0.8))\" /><circle cx=\"24\" cy=\"36\" r=\"4\" fill=\"url(#prophecy13-seed2)\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"36\" r=\"4\" fill=\"url(#prophecy13-seed2)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"44\" r=\"3\" fill=\"url(#prophecy13-seed2)\" opacity=\"0.6\" /><circle cx=\"36\" cy=\"44\" r=\"3\" fill=\"url(#prophecy13-seed2)\" opacity=\"0.6\" /><ellipse cx=\"20\" cy=\"20\" rx=\"8\" ry=\"12\" fill=\"url(#prophecy13-seed1)\" opacity=\"0.3\" transform=\"rotate(-20 20 20)\" /><ellipse cx=\"44\" cy=\"20\" rx=\"8\" ry=\"12\" fill=\"url(#prophecy13-seed1)\" opacity=\"0.3\" transform=\"rotate(20 44 20)\" /></svg>",
+      "relatedWords": [
+        "זֶרַע (제라 - 씨앗, 자손)",
+        "בֵּן (벤 - 아들)"
+      ]
+    },
+    {
+      "hebrew": "וַעֲבָדוּם",
+      "meaning": "그리고 그들을 섬길 것이다",
+      "ipa": "vaʕaˈvdum",
+      "korean": "바아부둠",
+      "letters": "וַ(va) + עֲ(a) + בָ(va) + דוּם(dum)",
+      "root": "ע-ב-ד (아바드)",
+      "grammar": "동사",
+      "emoji": "⛓️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-serve1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6B7280\" /><stop offset=\"100%\" stop-color=\"#374151\" /></linearGradient><linearGradient id=\"prophecy13-serve2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9CA3AF\" /><stop offset=\"100%\" stop-color=\"#6B7280\" /></linearGradient></defs><circle cx=\"20\" cy=\"28\" r=\"6\" fill=\"url(#prophecy13-serve1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"44\" cy=\"28\" r=\"6\" fill=\"url(#prophecy13-serve1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"26\" cy=\"28\" rx=\"3\" ry=\"6\" fill=\"url(#prophecy13-serve2)\" transform=\"rotate(45 26 28)\" /><ellipse cx=\"32\" cy=\"28\" rx=\"3\" ry=\"6\" fill=\"url(#prophecy13-serve2)\" /><ellipse cx=\"38\" cy=\"28\" rx=\"3\" ry=\"6\" fill=\"url(#prophecy13-serve2)\" transform=\"rotate(-45 38 28)\" /><rect x=\"18\" y=\"36\" width=\"28\" height=\"4\" rx=\"2\" fill=\"url(#prophecy13-serve1)\" opacity=\"0.6\" /><path d=\"M 24 40 L 22 48 M 32 40 L 32 48 M 40 40 L 42 48\" stroke=\"url(#prophecy13-serve2)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עֶבֶד (에베드 - 종)",
+        "עֲבוֹדָה (아보다 - 노역, 섬김)"
+      ]
+    },
+    {
+      "hebrew": "וְעִנּוּ אֹתָם",
+      "meaning": "그리고 그들을 학대할 것이다",
+      "ipa": "ʔoˈtam vəʕinˈnu",
+      "korean": "오탐 베이누",
+      "letters": "וְ(ve) + עִ(i) + נּוּ(nu) + אֹ(o) + תָם(tam)",
+      "root": "ע-נ-ה (아나)",
+      "grammar": "동사",
+      "emoji": "😢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-afflict1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DC2626\" /><stop offset=\"100%\" stop-color=\"#991B1B\" /></linearGradient><radialGradient id=\"prophecy13-afflict2\"><stop offset=\"0%\" stop-color=\"#FCA5A5\" /><stop offset=\"100%\" stop-color=\"#EF4444\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#prophecy13-afflict1)\" opacity=\"0.2\" /><path d=\"M 32 16 L 28 28 L 32 40 L 36 28 Z\" fill=\"url(#prophecy13-afflict1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"url(#prophecy13-afflict2)\" filter=\"drop-shadow(0 0 6px rgba(239, 68, 68, 0.8))\" /><path d=\"M 20 32 Q 32 36 44 32\" stroke=\"url(#prophecy13-afflict1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><ellipse cx=\"24\" cy=\"28\" rx=\"3\" ry=\"4\" fill=\"url(#prophecy13-afflict2)\" opacity=\"0.7\" /><ellipse cx=\"40\" cy=\"28\" rx=\"3\" ry=\"4\" fill=\"url(#prophecy13-afflict2)\" opacity=\"0.7\" /></svg>"
+    },
+    {
+      "hebrew": "אַרְבַּע מֵאוֹת שָׁנָה",
+      "meaning": "400년",
+      "ipa": "ʃaˈna meˈʔot ʔarˈbaʕ",
+      "korean": "샤나 메오트 아르바",
+      "letters": "אַ(ar) + רְ(re) + בַּע(ba) + מֵ(me) + אוֹת(ot) + שָׁ(sha) + נָה(na)",
+      "root": "숫자 표현",
+      "grammar": "명사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prophecy13-time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient><linearGradient id=\"prophecy13-time2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FCD34D\" /></linearGradient></defs><path d=\"M 28 8 L 36 8 L 40 28 L 32 32 L 24 28 Z\" fill=\"url(#prophecy13-time1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 28 L 32 32 L 40 28 L 36 56 L 28 56 Z\" fill=\"url(#prophecy13-time1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"4\" fill=\"url(#prophecy13-time2)\" opacity=\"0.6\" /><path d=\"M 30 36 Q 32 44 34 48\" fill=\"url(#prophecy13-time2)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"50\" r=\"2\" fill=\"#D97706\" /><text x=\"32\" y=\"22\" font-size=\"12\" font-weight=\"bold\" fill=\"#78350F\" text-anchor=\"middle\">400</text></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 년)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 아브라함에게 주신 이 예언은 이스라엘 역사에서 가장 중요한 사건 중 하나인 출애굽의 예고입니다. 400년이라는 긴 세월 동안 이집트에서 종살이하게 될 것을 미리 알려주심으로써, 하나님의 주권적인 섭리와 역사에 대한 완전한 통제를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יָדֹעַ תֵּדַע (야도아 테다) - 반드시 알라",
+        "description": "히브리어에서 동일한 동사를 두 번 반복하는 것은 강조를 나타냅니다. '알다'라는 동사가 부정사와 동사 형태로 반복되어 '반드시 알아야 한다', '확실히 알라'는 의미를 전달합니다. 이는 앞으로 일어날 일이 불확실한 가능성이 아니라 확정된 미래임을 강조합니다.",
+        "points": [
+          "하나님의 예언은 반드시 이루어지는 확실한 미래입니다",
+          "아브라함은 후손들의 고난을 미리 알고 준비할 수 있었습니다",
+          "하나님은 역사를 미리 아시고 계획하시는 분이십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "גֵר (게르) - 나그네 되어",
+        "description": "'게르'는 자기 땅이 아닌 곳에서 거주하는 외국인을 의미합니다. 이스라엘 백성은 가나안 땅을 약속받았지만, 그 땅을 받기 전에 이집트에서 나그네로 살아야 했습니다. 이는 하나님의 백성이 이 땅에서는 영원한 거처가 없는 순례자임을 상징합니다.",
+        "points": [
+          "약속의 땅을 받기 전 400년의 시험 기간이 있었습니다",
+          "나그네 신분은 하나님만을 의지하게 만드는 훈련이었습니다",
+          "신약에서 그리스도인도 이 땅의 나그네로 묘사됩니다 (히브리서 11:13)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַעֲבָדוּם וְעִנּוּ (바아부둠 베이누) - 섬기며 학대받을",
+        "description": "이집트에서의 종살이는 단순한 노동이 아니라 학대와 고통이 동반되는 것이었습니다. '아바드'(섬기다)와 '아나'(괴롭히다, 학대하다)가 함께 사용되어 극심한 압제 상황을 묘사합니다. 이는 출애굽기 1장에서 구체적으로 성취됩니다.",
+        "points": [
+          "하나님의 백성도 세상에서 고난과 박해를 경험합니다",
+          "이집트의 학대는 죄의 노예 상태를 상징합니다",
+          "고난은 하나님의 구원을 더욱 갈망하게 만듭니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אַרְבַּע מֵאוֹת שָׁנָה (아르바 메오트 샤나) - 400년",
+        "description": "400년이라는 구체적인 기간은 하나님의 계획이 정확하고 확실함을 보여줍니다. 실제로 출애굽기 12:40-41은 이집트 체류 기간을 430년으로 기록하는데, 이는 아브라함 시대부터 계산한 것입니다. 400년은 반올림된 수치이거나 실제 종살이 기간을 의미할 수 있습니다.",
+        "points": [
+          "하나님의 시간표는 정확하며 한 치의 오차도 없습니다",
+          "긴 고난의 기간도 하나님의 계획 안에 있습니다",
+          "정해진 때가 되면 반드시 구원이 옵니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브라함의 후손들이 400년 동안 고생할 거라고 미리 말씀하셨을까요?",
+      "answer": "하나님은 미래를 다 아시기 때문에 아브라함에게 미리 알려주신 거예요. 마치 부모님이 '내일 병원 가야 해'라고 미리 말씀하시는 것처럼요. 비록 힘든 일이 있을 거라고 하셨지만, 그것도 하나님의 큰 계획 안에 있다는 걸 알려주셨어요. 그리고 나중에는 반드시 구해주실 거라는 약속도 함께 주셨답니다. 하나님은 우리가 어려움을 겪을 때도 우리를 잊지 않으시고 계획을 가지고 계세요.",
+      "bibleReferences": [
+        "출애굽기 1:13-14 - '이집트 사람들이 이스라엘 자손을 엄하게 부려 고역으로 그들의 생활을 괴롭게 하니'",
+        "출애굽기 12:40-41 - '이스라엘 자손이 애굽에 거주한 지 사백삼십 년이라 사백삼십 년이 끝나는 그 날에 여호와의 군대가 다 애굽 땅에서 나왔으니'",
+        "사도행전 7:6-7 - '하나님이 이같이 말씀하시되 그 씨가 다른 땅에 나그네 되리니... 사백 년 동안 종 노릇 하며 괴롭게 받으리라'",
+        "시편 105:23-25 - '이스라엘이 애굽에 들어감이여 야곱이 함의 땅에 나그네 되었도다... 그들의 원수들로 하여금 그의 백성을 미워하게 하시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 예언은 하나님의 주권과 섭리를 보여줍니다. 고난도 하나님의 계획 안에 있으며, 정해진 때가 되면 반드시 구원이 옵니다. 이집트의 종살이는 죄의 노예 상태를 상징하며, 출애굽은 그리스도를 통한 구원을 예표합니다. 하나님은 역사를 주관하시며 약속을 반드시 이루시는 신실하신 분입니다."
+    }
+  }
+}

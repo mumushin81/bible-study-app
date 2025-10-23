@@ -1,0 +1,98 @@
+{
+  "id": "genesis_11_27",
+  "reference": "창세기 11:27",
+  "hebrew": "וְאֵלֶּה תּוֹלְדֹת תֶּרַח תֶּרַח הוֹלִיד אֶת-אַבְרָם אֶת-נָחוֹר וְאֶת-הָרָן וְהָרָן הוֹלִיד אֶת-לוֹט.",
+  "ipa": "vəˈʔɛllɛ toləˈdot ˈtɛraħ ˈtɛraħ hoˈlid ʔɛt ʔavˈram ʔɛt naˈħor vəʔɛt haˈran vəhaˈran hoˈlid ʔɛt lot",
+  "koreanPronunciation": "베엘레 톨도트 테라흐 테라흐 홀리드 에트 아브람 에트 나호르 베에트 하란 베하란 홀리드 에트 로트",
+  "modern": "이것은 데라의 족보입니다. 데라는 아브람과 나호르와 하란을 낳았고, 하란은 롯을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "תּוֹלְדֹת",
+      "meaning": "족보, 세대, 후손",
+      "ipa": "toləˈdot",
+      "korean": "톨도트",
+      "letters": "תּוֹ(to) + לְ(le) + דֹ(do) + ת(t)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "명사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-scroll1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D4AF37\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient><linearGradient id=\"generations27-paper1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF8DC\"/><stop offset=\"100%\" stop-color=\"#F5DEB3\"/></linearGradient></defs><rect x=\"12\" y=\"8\" width=\"40\" height=\"48\" rx=\"4\" fill=\"url(#generations27-paper1)\" filter=\"drop-shadow(2px 4px 6px rgba(0,0,0,0.3))\"/><circle cx=\"16\" cy=\"12\" r=\"6\" fill=\"url(#generations27-scroll1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"48\" cy=\"12\" r=\"6\" fill=\"url(#generations27-scroll1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"20\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"36\" x2=\"44\" y2=\"36\" stroke=\"#8B7355\" stroke-width=\"2\"/><line x1=\"20\" y1=\"44\" x2=\"36\" y2=\"44\" stroke=\"#8B7355\" stroke-width=\"2\"/></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "דּוֹר (도르 - 세대)"
+      ]
+    },
+    {
+      "hebrew": "הוֹלִיד",
+      "meaning": "낳았다 (아버지가)",
+      "ipa": "hoˈlid",
+      "korean": "홀리드",
+      "letters": "הוֹ(ho) + לִ(li) + יד(d)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👨‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-father1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3F51B5\"/><stop offset=\"100%\" stop-color=\"#1A237E\"/></linearGradient><linearGradient id=\"generations27-child1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\"/><stop offset=\"100%\" stop-color=\"#1976D2\"/></linearGradient><radialGradient id=\"generations27-bond1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#generations27-bond1)\"/><circle cx=\"24\" cy=\"24\" r=\"10\" fill=\"url(#generations27-father1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><circle cx=\"40\" cy=\"40\" r=\"8\" fill=\"url(#generations27-child1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><path d=\"M 24 34 Q 32 36 40 40\" stroke=\"url(#generations27-father1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "לוֹט",
+      "meaning": "롯 (덮개, 가림)",
+      "ipa": "lot",
+      "korean": "로트",
+      "letters": "לוֹ(lo) + ט(t)",
+      "root": "לוֹט (로트)",
+      "grammar": "명사",
+      "emoji": "👨‍🦱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations27-lot1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#795548\"/><stop offset=\"100%\" stop-color=\"#4E342E\"/></linearGradient><radialGradient id=\"generations27-veil1\"><stop offset=\"0%\" stop-color=\"#E0E0E0\"/><stop offset=\"100%\" stop-color=\"#9E9E9E\" stop-opacity=\"0.6\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#generations27-veil1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#generations27-lot1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><ellipse cx=\"32\" cy=\"48\" rx=\"14\" ry=\"10\" fill=\"url(#generations27-lot1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><path d=\"M 20 28 Q 32 16 44 28\" fill=\"url(#generations27-veil1)\" opacity=\"0.5\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 27절은 '톨도트'(족보) 공식으로 시작하며, 데라의 세대를 소개합니다. 이 구절은 단순한 가계도를 넘어 하나님의 구원 역사가 어떻게 구체적인 가족을 통해 전개되는지를 보여주는 신학적 구조입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תּוֹלְדֹת (톨도트) - 세대의 기록",
+        "description": "'톨도트'는 '낳다'를 의미하는 '얄라드'에서 파생된 명사로, 창세기 전체를 구조화하는 핵심 단어입니다. 창세기는 10개의 톨도트로 나뉘며, 이 구절은 데라의 톨도트를 시작하며 아브라함 이야기로 넘어갑니다.",
+        "points": [
+          "창세기는 '톨도트' 구조로 짜여진 책입니다 (2:4, 5:1, 6:9, 10:1, 11:10, 11:27, 25:12, 25:19, 36:1, 37:2)",
+          "각 톨도트는 단순한 족보가 아니라 신학적 의미를 담은 역사 기록입니다",
+          "데라의 톨도트는 아브라함 언약으로 이어지는 전환점입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "תֶּרַח הוֹלִיד (테라흐 홀리드) - 계보의 연속성",
+        "description": "'홀리드'(낳았다)는 히프일 동사 형태로, 아버지가 자녀를 낳는 행위를 강조합니다. 히브리 족보에서 아버지의 이름을 두 번 반복하는 것은 새로운 단락의 시작을 알리는 문학적 장치입니다.",
+        "points": [
+          "족보는 하나님의 언약이 혈통을 통해 이어짐을 보여줍니다",
+          "반복된 '데라'는 이야기의 초점이 그의 자녀들로 옮겨감을 알립니다",
+          "세 아들의 순서는 출생 순이 아니라 중요도에 따른 것입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הָרָן הוֹלִיד אֶת-לוֹט (하란 홀리드 에트 로트) - 조카 롯의 등장",
+        "description": "하란이 롯을 낳았다는 기록은 곧 하란이 일찍 죽게 되고 롯이 아브람의 보호 아래 놓이게 될 것을 암시합니다. 롯은 후에 아브람과 함께 가나안으로 가지만, 결국 소돔에 정착하게 됩니다.",
+        "points": [
+          "롯의 언급은 그가 아브라함 이야기에서 중요한 역할을 할 것을 예고합니다",
+          "롯은 아브람의 조카이지만 후계자로 간주되지 않습니다",
+          "롯의 후손(모압, 암몬)도 이스라엘 역사에 등장하게 됩니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경에는 이렇게 긴 족보가 많이 나올까요?",
+      "answer": "성경의 족보는 단순한 이름 목록이 아니라 하나님의 약속이 어떻게 이루어지는지 보여주는 증거예요. 마치 여러분의 가족 앨범을 보면서 할아버지, 아버지, 그리고 여러분으로 이어지는 이야기를 듣는 것처럼, 성경의 족보는 하나님이 약속하신 구원자 예수님이 실제로 오셨다는 것을 증명해줍니다. 아브람에서 시작된 이 족보는 결국 예수님까지 이어지거든요!",
+      "bibleReferences": [
+        "마태복음 1:1 - '아브라함과 다윗의 자손 예수 그리스도의 계보라'",
+        "누가복음 3:34 - '야곱의 아들이요 이삭의 아들이요 아브라함의 아들이요'",
+        "갈라디아서 3:16 - '이 약속들은 아브라함과 그 자손에게 말씀하신 것인데'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "톨도트 공식은 하나님의 구원 역사가 추상적 개념이 아니라 실제 역사 속 구체적인 가족을 통해 이루어짐을 보여줍니다. 데라의 세대 기록은 아브라함 언약의 시작이며, 궁극적으로 예수 그리스도의 계보로 이어집니다. 이는 하나님이 우리의 일상적 삶, 가족, 관계 속에서 당신의 구원 계획을 이루어가심을 의미합니다."
+    }
+  }
+}

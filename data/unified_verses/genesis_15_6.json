@@ -1,0 +1,137 @@
+{
+  "id": "genesis_15_6",
+  "reference": "창세기 15:6",
+  "hebrew": "וְהֶאֱמִן בַּיהוָה וַיַּחְשְׁבֶהָ לּוֹ צְדָקָה",
+  "ipa": "vəheʔɛˈmin bajhoˈva vajjaχʃəˈveha lo ʦəðaˈqa",
+  "koreanPronunciation": "베헤에민 바예호와 바야흐쉐베하 로 체다카",
+  "modern": "아브람이 여호와를 믿으니 여호와께서 이를 그에게 의로 여기셨더라",
+  "words": [
+    {
+      "hebrew": "וְהֶאֱמִן",
+      "meaning": "그리고 그가 믿었다",
+      "ipa": "vəheʔɛˈmin",
+      "korean": "베헤에민",
+      "letters": "וְ(ve) + הֶ(he) + אֱמִן(emin)",
+      "root": "א-מ-ן (아만)",
+      "grammar": "동사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"believe-righteous1-faith1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"50%\" stop-color=\"#F59E0B\"/><stop offset=\"100%\" stop-color=\"rgba(245, 158, 11, 0)\"/></radialGradient><linearGradient id=\"believe-righteous1-heart1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EF4444\"/><stop offset=\"100%\" stop-color=\"#B91C1C\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#believe-righteous1-faith1)\" opacity=\"0.5\"/><path d=\"M 32 44 L 20 32 Q 20 24 26 24 Q 32 24 32 28 Q 32 24 38 24 Q 44 24 44 32 Z\" fill=\"url(#believe-righteous1-heart1)\" filter=\"drop-shadow(0 4px 8px rgba(185, 28, 28, 0.5))\"/><circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"#FCD34D\" opacity=\"0.7\" filter=\"drop-shadow(0 0 6px rgba(252, 211, 77, 0.8))\"/><path d=\"M 32 12 L 28 20 L 36 20 Z\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "אֱמוּנָה (에무나 - 믿음, 신실함)",
+        "אָמֵן (아멘 - 진실로)"
+      ]
+    },
+    {
+      "hebrew": "בַּיהוָה",
+      "meaning": "여호와를",
+      "ipa": "bajhoˈva",
+      "korean": "바예호와",
+      "letters": "בַּ(ba) + יהוָה(yhova)",
+      "root": "י-ה-ו-ה (야훼)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"believe-righteous1-lord1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"believe-righteous1-glory1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#believe-righteous1-glory1)\" opacity=\"0.6\"/><path d=\"M 12 48 L 16 36 L 22 40 L 32 28 L 42 40 L 48 36 L 52 48 Z\" fill=\"url(#believe-righteous1-lord1)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(255, 140, 0, 0.5))\"/><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" rx=\"1\" fill=\"url(#believe-righteous1-lord1)\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.8))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּחְשְׁבֶהָ לּוֹ",
+      "meaning": "그것을 그에게 여기시다",
+      "ipa": "vajjaχʃəˈveha lo",
+      "korean": "바야흐쉐베하 로",
+      "letters": "וַ(va) + יַּ(ya) + חְשְׁבֶהָ(chshevha) + לּוֹ(lo)",
+      "root": "ח-ש-ב (하샤브)",
+      "grammar": "동사",
+      "emoji": "⚖️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"believe-righteous1-scale1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9CA3AF\"/><stop offset=\"100%\" stop-color=\"#6B7280\"/></linearGradient><linearGradient id=\"believe-righteous1-gold1\"><stop offset=\"0%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"#F59E0B\"/></linearGradient></defs><rect x=\"30\" y=\"10\" width=\"4\" height=\"30\" fill=\"url(#believe-righteous1-scale1)\"/><rect x=\"16\" y=\"24\" width=\"32\" height=\"3\" fill=\"url(#believe-righteous1-scale1)\"/><circle cx=\"32\" cy=\"10\" r=\"4\" fill=\"url(#believe-righteous1-gold1)\" filter=\"drop-shadow(0 2px 4px rgba(245, 158, 11, 0.5))\"/><rect x=\"14\" y=\"38\" width=\"10\" height=\"12\" rx=\"2\" fill=\"url(#believe-righteous1-gold1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><rect x=\"40\" y=\"38\" width=\"10\" height=\"12\" rx=\"2\" fill=\"url(#believe-righteous1-gold1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 19 38 L 15 28\" stroke=\"url(#believe-righteous1-scale1)\" stroke-width=\"2\"/><path d=\"M 45 38 L 49 28\" stroke=\"url(#believe-righteous1-scale1)\" stroke-width=\"2\"/></svg>",
+      "relatedWords": [
+        "חֶשְׁבּוֹן (헤쉬본 - 계산)",
+        "מַחֲשָׁבָה (마하샤바 - 생각)"
+      ]
+    },
+    {
+      "hebrew": "צְדָקָה",
+      "meaning": "의",
+      "ipa": "ʦəðaˈqa",
+      "korean": "체다카",
+      "letters": "צְ(tse) + דָ(da) + קָה(kah)",
+      "root": "צ-ד-ק (차다크)",
+      "grammar": "명사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"believe-righteous1-righteousness1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"50%\" stop-color=\"#FCD34D\"/><stop offset=\"100%\" stop-color=\"rgba(252, 211, 77, 0)\"/></radialGradient><linearGradient id=\"believe-righteous1-light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\"/><stop offset=\"100%\" stop-color=\"#F59E0B\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#believe-righteous1-righteousness1)\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#believe-righteous1-light1)\" filter=\"drop-shadow(0 0 12px rgba(251, 191, 36, 0.8))\"/><polygon points=\"32,16 34,22 40,23 36,27 37,33 32,30 27,33 28,27 24,23 30,22\" fill=\"#FFFFFF\" opacity=\"0.9\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.6\"/><path d=\"M 26 32 L 30 36 L 38 28\" stroke=\"#F59E0B\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/></svg>",
+      "relatedWords": [
+        "צַדִּיק (차디크 - 의로운 자)",
+        "צֶדֶק (체데크 - 의, 정의)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 6절은 성경 전체에서 가장 중요한 신학적 진술 중 하나입니다. 이 짧은 구절은 신약에서 네 번이나 인용되며(로마서 4:3, 갈라디아서 3:6, 야고보서 2:23), 칭의 교리(justification by faith)의 근간이 됩니다. 아브람은 하나님의 약속을 믿었고, 하나님은 그 믿음을 의로 여기셨습니다. 이는 행위가 아닌 믿음으로 의롭다 함을 받는 복음의 핵심입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וְהֶאֱמִן (베헤에민) - 그리고 그가 믿었다",
+        "description": "'아만'은 '확고하다, 신뢰하다, 의지하다'를 의미하는 히브리어 동사입니다. 히필 형태(Hiphil)로 사용되어 '믿음을 두다, 신뢰하다'를 나타냅니다. 아브람은 단순히 정보를 받아들인 것이 아니라, 전인격적으로 하나님을 신뢰하고 의지했습니다. 이는 '아멘'의 어근이기도 합니다.",
+        "points": [
+          "믿음은 단순한 지적 동의가 아니라 전인격적 신뢰",
+          "아브람의 믿음은 불가능해 보이는 약속(별같은 자손)에 대한 것",
+          "로마서 4:19-21 '믿음이 약하여지지 아니하고 하나님을 영화롭게 하였으며'",
+          "히브리서 11:1 '믿음은 바라는 것들의 실상이요 보이지 않는 것들의 증거니'"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בַּיהוָה (바예호와) - 여호와를",
+        "description": "아브람의 믿음의 대상은 '여호와', 즉 언약의 하나님입니다. 전치사 '베(in)'는 믿음이 하나님 '안에' 있음을, 하나님과의 인격적 연합을 의미합니다. 이는 단순히 하나님에 대한 믿음이 아니라, 하나님과의 관계적 신뢰입니다.",
+        "points": [
+          "믿음의 대상이 누구냐가 핵심 - 하나님 자신",
+          "'여호와'는 출애굽기 3:14 '스스로 있는 자', 영원하고 신실한 분",
+          "요한복음 14:1 '너희는 하나님을 믿으니 또 나를 믿으라'",
+          "믿음은 추상적 개념이 아니라 살아계신 인격적 하나님과의 관계"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיַּחְשְׁבֶהָ לּוֹ (바야흐쉐베하 로) - 그것을 그에게 여기시다",
+        "description": "'하샤브'는 '계산하다, 간주하다, 귀속시키다'를 의미합니다. 이는 법정 용어로, 하나님께서 아브람의 믿음을 의로 '계산하셨다, 입금하셨다'는 뜻입니다. 이것이 칭의(稱義, justification)의 핵심 개념입니다.",
+        "points": [
+          "로마서 4:3-5 '일하는 자에게는 삯이 은혜로 여겨지지 아니하고 보수로 여겨지되 일을 아니할지라도 경건하지 아니한 자를 의롭다 하시는 이를 믿는 자에게는 그의 믿음을 의로 여기시나니'",
+          "하나님의 주권적 행위 - 인간은 의를 얻을 수 없고, 하나님이 주시는 것",
+          "고린도후서 5:21 '하나님이 죄를 알지도 못하신 이를 우리를 대신하여 죄로 삼으신 것은 우리로 하여금 그 안에서 하나님의 의가 되게 하려 하심이라'",
+          "이는 은행에서 계좌에 돈을 입금하는 것과 같은 법적 거래"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "צְדָקָה (체다카) - 의",
+        "description": "'체다카'는 '의로움, 정의, 옳음'을 의미합니다. 이는 법적, 도덕적으로 완전히 옳은 상태를 가리킵니다. 아브람은 완전하지 않았지만, 하나님은 그의 믿음을 보시고 그를 의롭다고 선언하셨습니다. 이것이 전가된 의(imputed righteousness)입니다.",
+        "points": [
+          "빌립보서 3:9 '율법에서 난 내 의가 아니라 그리스도를 믿음으로 말미암은 의'",
+          "로마서 3:22 '곧 예수 그리스도를 믿음으로 말미암아 모든 믿는 자에게 미치는 하나님의 의니'",
+          "아브람의 의는 자신의 행위가 아니라 하나님이 주신 것",
+          "예레미야 23:6 '그의 이름은 여호와 우리의 의라 일컬음을 받으리라'"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "아브람은 무엇을 하지 않았는데 의롭다고 인정받았나요?",
+      "answer": "아브람은 특별히 착한 일을 해서 의롭다고 인정받은 게 아니에요. 그냥 하나님의 약속을 믿었어요. '별처럼 많은 자손을 주실 거야'라는 하나님의 말씀을 '네, 정말 그렇게 될 거예요'라고 믿었더니, 하나님께서 '너는 의로운 사람이야'라고 말씀하신 거예요. 마치 친구가 '내일 너한테 선물 줄게'라고 했을 때, '정말? 고마워!'라고 믿고 기뻐하면, 친구가 기뻐하는 것과 같아요. 하나님은 우리가 그분을 믿는 것을 가장 기뻐하세요.",
+      "bibleReferences": [
+        "로마서 4:3 - '아브라함이 하나님을 믿으매 그것이 그에게 의로 여겨진 바 되었느니라'",
+        "갈라디아서 3:6 - '아브라함이 하나님을 믿으매 이것을 그에게 의로 정하셨다 함과 같으니라'",
+        "로마서 4:5 - '일을 아니할지라도 경건하지 아니한 자를 의롭다 하시는 이를 믿는 자에게는 그의 믿음을 의로 여기시나니'",
+        "에베소서 2:8-9 - '너희는 그 은혜에 의하여 믿음으로 말미암아 구원을 받았으니 이것은 너희에게서 난 것이 아니요 하나님의 선물이라 행위에서 난 것이 아니니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 15:6은 종교개혁의 핵심 교리인 '오직 믿음으로'(Sola Fide)의 성경적 근거입니다. 바울은 이 구절을 근거로 구원이 행위가 아닌 믿음으로만 얻어진다고 선포했습니다(로마서 4장, 갈라디아서 3장). 아브람의 믿음은 완전하지 않았지만, 하나님은 그 믿음을 의로 여기셨습니다. 이는 궁극적으로 예수 그리스도의 의가 믿는 자에게 전가됨을 예표합니다. 우리의 의는 우리 안에 있지 않고, 그리스도 안에 있으며, 믿음으로 그 의를 받습니다. 이것이 복음의 핵심입니다."
+    }
+  }
+}

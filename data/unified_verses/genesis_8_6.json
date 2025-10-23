@@ -1,0 +1,143 @@
+{
+  "id": "genesis_8_6",
+  "reference": "창세기 8:6",
+  "hebrew": "וַיְהִי מִקֵּץ אַרְבָּעִים יוֹם וַיִּפְתַּח נֹחַ אֶת־חַלּוֹן הַתֵּבָה אֲשֶׁר עָשָׂה.",
+  "ipa": "vajəˈhi miˈkets ʔarbaˈʔim jom vajifˈtax noˈax ʔɛt xaˈlon hateva ʔaˈʃɛr ʔaˈsa",
+  "koreanPronunciation": "바예히 미케츠 아르바임 욤 바이프타흐 노아흐 에트 할론 하테바 아쉐르 아사",
+  "modern": "40일이 지난 후에, 노아가 자기가 만든 방주의 창문을 열었습니다",
+  "words": [
+    {
+      "hebrew": "מִקֵּץ",
+      "meaning": "끝에, 후에",
+      "ipa": "miˈkets",
+      "korean": "미케츠",
+      "letters": "מִ(mi) + קֵּץ(kets)",
+      "root": "ק-צ-ה (katsah)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"timeline_mikets\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9E9E9E\" opacity=\"0.4\" /><stop offset=\"90%\" stop-color=\"#FF6F00\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient></defs><line x1=\"8\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"url(#timeline_mikets)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"56\" cy=\"32\" r=\"6\" fill=\"#FF6F00\" filter=\"drop-shadow(0 0 6px rgba(255, 111, 0, 0.6))\" /><path d=\"M 54 28 L 58 32 L 54 36\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "קֵץ (케츠 - 끝)",
+        "קָצָה (카차 - 끝나다)"
+      ]
+    },
+    {
+      "hebrew": "אַרְבָּעִים",
+      "meaning": "40",
+      "ipa": "ʔarbaˈʔim",
+      "korean": "아르바임",
+      "letters": "אַ(ar) + רְ(r) + בָּ(ba) + עִים(im)",
+      "root": "אַרְבַּע (아르바)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"number_40\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#5E35B1\" /></linearGradient></defs><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#number_40)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">40</text><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"url(#number_40)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "אַרְבַּע (아르바 - 4)",
+        "רְבִיעִי (레비이 - 넷째)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּפְתַּח",
+      "meaning": "그리고 열었다",
+      "ipa": "vajifˈtax",
+      "korean": "바이프타흐",
+      "letters": "וַ(va) + יִּ(yi) + פְ(f) + תַּח(tach)",
+      "root": "פ-ת-ח (patach)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door_open\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><radialGradient id=\"light_coming\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" opacity=\"0\" /></radialGradient></defs><rect x=\"12\" y=\"12\" width=\"28\" height=\"40\" rx=\"2\" fill=\"url(#door_open)\" transform=\"rotate(-25 26 32)\" /><circle cx=\"48\" cy=\"32\" r=\"20\" fill=\"url(#light_coming)\" /><circle cx=\"22\" cy=\"34\" r=\"2\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "פָּתַח (파타흐 - 열다)",
+        "פֶּתַח (페타흐 - 문, 입구)"
+      ]
+    },
+    {
+      "hebrew": "חַלּוֹן",
+      "meaning": "창문",
+      "ipa": "xaˈlon",
+      "korean": "할론",
+      "letters": "חַ(cha) + לּוֹן(lon)",
+      "root": "ח-ל-ל (chalal)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"window_frame\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"sky_view\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81D4FA\" /><stop offset=\"100%\" stop-color=\"#4FC3F7\" /></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"2\" fill=\"url(#sky_view)\" opacity=\"0.7\" /><rect x=\"16\" y=\"16\" width=\"32\" height=\"32\" rx=\"2\" stroke=\"url(#window_frame)\" stroke-width=\"4\" fill=\"none\" /><line x1=\"32\" y1=\"16\" x2=\"32\" y2=\"48\" stroke=\"url(#window_frame)\" stroke-width=\"3\" /><line x1=\"16\" y1=\"32\" x2=\"48\" y2=\"32\" stroke=\"url(#window_frame)\" stroke-width=\"3\" /><circle cx=\"24\" cy=\"24\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חַלּוֹן (할론 - 창문)",
+        "אֲרֻבָּה (아루바 - 창문, 통풍구)"
+      ]
+    },
+    {
+      "hebrew": "עָשָׂה",
+      "meaning": "만들었다",
+      "ipa": "ʔaˈsa",
+      "korean": "아사",
+      "letters": "עָ(a) + שָׂ(sa) + ה(h)",
+      "root": "ע-ש-ה (asah)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hands_create\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"100%\" stop-color=\"#FFCC80\" /></linearGradient><radialGradient id=\"work_glow\"><stop offset=\"0%\" stop-color=\"#FFD54F\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#work_glow)\" /><path d=\"M 20 40 Q 20 32 24 28 L 28 32 L 24 36 Z\" fill=\"url(#hands_create)\" stroke=\"#E65100\" stroke-width=\"1.5\" /><path d=\"M 44 40 Q 44 32 40 28 L 36 32 L 40 36 Z\" fill=\"url(#hands_create)\" stroke=\"#E65100\" stroke-width=\"1.5\" /><rect x=\"26\" y=\"32\" width=\"12\" height=\"8\" rx=\"1\" fill=\"#8B4513\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 만들다, 행하다)",
+        "מַעֲשֶׂה (마아세 - 일, 작품)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 6절은 노아가 방주의 창문을 여는 장면을 묘사합니다. 40일이라는 기간은 성경에서 시험과 준비의 기간을 상징합니다. 노아는 이제 능동적으로 상황을 확인하기 시작합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "40일의 의미",
+        "description": "성경에서 40은 시험, 시련, 준비의 기간을 나타냅니다. 모세의 40일 금식, 이스라엘의 40년 광야 생활, 예수님의 40일 금식 등이 있습니다.",
+        "points": [
+          "40일은 완전한 준비 기간입니다",
+          "시험과 인내의 시간입니다",
+          "새로운 단계로 나아가기 위한 기다림입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיִּפְתַּח (바이프타흐) - 열림의 행동",
+        "description": "노아가 창문을 여는 것은 수동적 기다림에서 능동적 확인으로의 전환을 의미합니다. 이는 믿음의 행동입니다.",
+        "points": [
+          "믿음은 때로 능동적 행동을 요구합니다",
+          "하나님의 인도하심 안에서 지혜롭게 행동합니다",
+          "열린 창문은 새로운 가능성을 상징합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "חַלּוֹן הַתֵּבָה (할론 하테바) - 방주의 창문",
+        "description": "노아가 만든 창문은 외부 세계와의 유일한 통로였습니다. 이 창문을 통해 노아는 하나님의 회복 과정을 관찰할 수 있었습니다.",
+        "points": [
+          "창문은 소통과 관찰의 수단입니다",
+          "하나님의 일하심을 지켜보는 통로입니다",
+          "닫혀있던 것이 열림으로써 새로운 시작을 알립니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֲשֶׁר עָשָׂה (아쉐르 아사) - 그가 만든",
+        "description": "'그가 만든'이라는 표현은 노아의 순종을 상기시킵니다. 하나님의 명령대로 방주를 만들 때 포함시킨 창문이 이제 중요한 역할을 합니다.",
+        "points": [
+          "하나님의 지시대로 행한 것이 때가 되어 유용하게 쓰입니다",
+          "순종의 열매는 적절한 때에 나타납니다",
+          "작은 순종도 하나님의 계획 안에서 중요합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 40일을 더 기다렸다가 창문을 열었을까요?",
+      "answer": "노아는 하나님의 때를 기다리는 지혜로운 사람이었어요. 산봉우리가 보였다고 해서 바로 밖으로 나갈 수 있는 건 아니었어요. 땅이 마르고 안전해지기까지 더 기다려야 했죠. 40일은 성경에서 중요한 숫자예요. 비가 40일 내렸고, 이제 또 40일을 기다린 거예요. 노아는 조급하게 서두르지 않고, 하나님이 보여주시는 단계를 차근차근 따라갔어요. 마치 우리가 케이크를 구울 때 오븐에서 꺼내기 전에 정확히 시간을 재는 것처럼, 노아도 완벽한 때를 기다린 거예요.",
+      "bibleReferences": [
+        "출애굽기 24:18 - '모세는 구름 속으로 들어가서 산 위에 올랐으며 사십 일 사십 야를 산에 있으니라'",
+        "마태복음 4:2 - '사십 일을 밤낮으로 금식하신 후에 주리신지라'",
+        "신명기 8:2 - '네 하나님 여호와께서 이 사십 년 동안에 네게 광야 길을 걷게 하신 것을 기억하라'",
+        "사도행전 1:3 - '해 받으신 후에 또한 그들에게 확실한 많은 증거로 친히 살아 계심을 나타내사 사십 일 동안 그들에게 보이시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:6은 믿음과 행동의 균형을 보여줍니다. 노아는 조급하게 서두르지 않고 40일을 더 기다렸습니다. 그러나 단순히 수동적으로만 기다리지 않고, 적절한 때에 창문을 열어 상황을 확인했습니다. 이는 하나님을 신뢰하면서도 우리에게 주신 지혜와 판단력을 사용하는 것이 중요함을 가르칩니다. '그가 만든' 창문은 순종의 열매가 적절한 때에 유용하게 쓰임을 보여줍니다. 우리가 하나님의 말씀에 순종할 때, 그 순종의 결과는 나중에 우리에게 유익이 됩니다."
+    }
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "id": "genesis_6_6",
+  "reference": "창세기 6:6",
+  "hebrew": "וַיִּנָּחֶם יְהוָה, כִּי־עָשָׂה אֶת־הָאָדָם בָּאָרֶץ; וַיִּתְעַצֵּב, אֶל־לִבּוֹ.",
+  "ipa": "vajiˈnaχɛm jehoˈva ki ʔaˈsa ʔɛt haʔaˈdam baˈarɛts vajitʔaˈtsev ʔɛl liˈbo",
+  "koreanPronunciation": "바이나헴 여호와 키 아사 에트 하아담 바아레츠 바이트아체브 엘 리보",
+  "modern": "여호와께서 땅 위에 사람을 만드신 것을 후회하시고, 마음에 근심하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּנָּחֶם",
+      "meaning": "그리고 후회하셨다, 슬퍼하셨다",
+      "ipa": "vajiˈnaχɛm",
+      "korean": "바이나헴",
+      "letters": "וַ(va) + יִּ(yi) + נָּ(na) + חֶם(χɛm)",
+      "root": "נ-ח-ם (나함)",
+      "grammar": "동사 - 니팔형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"regret_vayinachem\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 32 20 Q 32 32 20 40\" stroke=\"url(#regret_vayinachem)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 20 Q 32 32 44 40\" stroke=\"url(#regret_vayinachem)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"20\" cy=\"40\" r=\"3\" fill=\"url(#regret_vayinachem)\" /><circle cx=\"44\" cy=\"40\" r=\"3\" fill=\"url(#regret_vayinachem)\" /></svg>",
+      "relatedWords": [
+        "נָחַם (나함 - 후회하다, 위로하다)",
+        "נְחָמָה (네하마 - 위로)"
+      ]
+    },
+    {
+      "hebrew": "עָשָׂה",
+      "meaning": "만들다, 행하다",
+      "ipa": "ʔaˈsa",
+      "korean": "아사",
+      "letters": "עָ(a) + שָׂה(sa)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"made_asah\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#made_asah)\" opacity=\"0.5\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"24\" rx=\"4\" fill=\"url(#made_asah)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "מַעֲשֶׂה (마아세 - 행위, 작품)",
+        "עֹשֶׂה (오세 - 만드는 자)"
+      ]
+    },
+    {
+      "hebrew": "וַיִּתְעַצֵּב",
+      "meaning": "그리고 근심하셨다, 슬퍼하셨다",
+      "ipa": "vajitʔaˈtsev",
+      "korean": "바이트아체브",
+      "letters": "וַ(va) + יִּ(yi) + תְ(t) + עַ(a) + צֵּב(tsev)",
+      "root": "ע-צ-ב (아차브)",
+      "grammar": "동사 - 히트파엘형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"grieved_vayitatsev\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4A5568\" /><stop offset=\"100%\" stop-color=\"#2D3748\" /></linearGradient></defs><path d=\"M 32 48 Q 32 36 20 32 Q 32 28 32 16\" stroke=\"url(#grieved_vayitatsev)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 32 48 Q 32 36 44 32 Q 32 28 32 16\" stroke=\"url(#grieved_vayitatsev)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"url(#grieved_vayitatsev)\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"url(#grieved_vayitatsev)\" /></svg>",
+      "relatedWords": [
+        "עֶצֶב (에체브 - 슬픔, 고통)",
+        "עָצַב (아차브 - 슬프게 하다)"
+      ]
+    },
+    {
+      "hebrew": "אֶל־לִבּוֹ",
+      "meaning": "그의 마음에",
+      "ipa": "ʔɛl liˈbo",
+      "korean": "엘 리보",
+      "letters": "אֶל(el) + לִ(li) + בּוֹ(bo)",
+      "root": "לֵב (레브)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heart_ellibo\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><path d=\"M 32 52 L 12 32 Q 12 16 24 16 Q 32 16 32 24 Q 32 16 40 16 Q 52 16 52 32 Z\" fill=\"url(#heart_ellibo)\" opacity=\"0.6\" /><path d=\"M 24 28 Q 28 24 32 28 Q 36 24 40 28\" stroke=\"url(#heart_ellibo)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "לֵב (레브 - 마음)",
+        "לֵבָב (레바브 - 심장, 마음)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 하나님의 깊은 감정을 표현합니다. '후회하다'와 '근심하다'는 표현은 하나님의 불변성과 어떻게 조화를 이루는지 신학적 질문을 제기합니다. 이는 하나님이 인간의 죄에 대해 얼마나 깊이 반응하시는지를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "💔",
+        "title": "하나님의 후회",
+        "description": "하나님이 '후회하셨다'(וַיִּנָּחֶם)는 표현은 하나님이 마음을 바꾸셨다는 뜻이 아니라, 인간의 죄에 대한 깊은 슬픔과 고통을 의미합니다.",
+        "points": [
+          "하나님의 불변성과 감정의 진실성",
+          "의인화적 표현 - 인간이 이해할 수 있는 언어",
+          "사랑의 하나님이 죄로 인해 겪는 고통"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "😢",
+        "title": "마음에 근심하심",
+        "description": "'마음에 근심하셨다'(וַיִּתְעַצֵּב)는 표현은 하나님의 깊은 정서적 반응을 보여줍니다. 아버지가 자녀의 타락을 보며 슬퍼하시는 것입니다.",
+        "points": [
+          "하나님은 무감정한 존재가 아니십니다",
+          "창조주와 피조물의 관계에서 오는 사랑과 고통",
+          "심판은 하나님께 기쁨이 아니라 슬픔입니다"
+        ],
+        "color": "purple"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 슬퍼하셨을까요?",
+      "answer": "하나님은 사람들을 너무너무 사랑하시는데, 그 사람들이 나쁜 짓만 하니까 마음이 아프셨어요. 엄마 아빠가 우리가 잘못했을 때 화가 나시면서도 동시에 속상하신 것처럼, 하나님도 사람들이 나쁜 일만 하니까 정말 슬프셨답니다.",
+      "bibleReferences": [
+        "에베소서 4:30 - '하나님의 성령을 근심하게 하지 말라'",
+        "이사야 63:10 - '그들이 반역하여 주의 성령을 근심하게 하였으므로'",
+        "누가복음 19:41 - '예수께서 가까이 오사 성을 보시고 우시며'"
+      ]
+    },
+    "conclusion": {
+      "title": "하나님의 감정",
+      "content": "이 구절은 하나님이 인격적이며 감정을 가지신 분임을 보여줍니다. 심판은 하나님의 분노에서 나오지만, 동시에 깊은 슬픔을 동반합니다. 십자가는 이러한 하나님의 마음을 가장 분명히 보여줍니다."
+    }
+  }
+}

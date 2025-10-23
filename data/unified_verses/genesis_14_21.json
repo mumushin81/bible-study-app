@@ -1,0 +1,171 @@
+{
+  "id": "genesis_14_21",
+  "reference": "창세기 14:21",
+  "hebrew": "וַיֹּאמֶר מֶלֶךְ־סְדֹם אֶל־אַבְרָם תֶּן־לִי הַנֶּפֶשׁ וְהָרְכֻשׁ קַח־לָךְ.",
+  "ipa": "vaˈjomɛr ˈmɛlɛχ səˈdom ʔɛl avˈram tɛn li haˈnɛfɛʃ vəharəˈχuʃ qaχ laχ",
+  "koreanPronunciation": "바요메르 멜렉 세돔 엘 아브람 텐 리 하네페쉬 베하레쿠쉬 카흐 라크",
+  "modern": "소돔 왕이 아브람에게 이르되, 사람들은 내게 돌려보내고 물품은 네가 가지라",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "ipa": "vaˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (amar)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak_vayomer\"><stop offset=\"0%\" stop-color=\"#60A5FA\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"14\" fill=\"#DBEAFE\" stroke=\"url(#speak_vayomer)\" stroke-width=\"2\" /><ellipse cx=\"32\" cy=\"32\" rx=\"14\" ry=\"9\" fill=\"url(#speak_vayomer)\" opacity=\"0.2\" /><path d=\"M 20 32 Q 32 36 44 32\" stroke=\"url(#speak_vayomer)\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "אֵמֶר (에메르 - 말, 언약)"
+      ]
+    },
+    {
+      "hebrew": "מֶלֶךְ־סְדֹם",
+      "meaning": "소돔의 왕",
+      "ipa": "ˈmɛlɛχ səˈdom",
+      "korean": "멜렉 세돔",
+      "letters": "מֶ(me) + לֶךְ(lekh) + סְ(se) + דֹם(dom)",
+      "root": "מֶלֶךְ + סְדֹם (멜렉 + 세돔)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fire_sedom\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DC2626\" /><stop offset=\"50%\" stop-color=\"#F97316\" /><stop offset=\"100%\" stop-color=\"#FBBF24\" /></linearGradient><linearGradient id=\"crown_sedom\"><stop offset=\"0%\" stop-color=\"#78716C\" /><stop offset=\"100%\" stop-color=\"#57534E\" /></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"32\" height=\"20\" fill=\"#44403C\" /><rect x=\"20\" y=\"42\" width=\"4\" height=\"6\" fill=\"#F97316\" opacity=\"0.6\" /><rect x=\"28\" y=\"42\" width=\"4\" height=\"6\" fill=\"#F97316\" opacity=\"0.6\" /><rect x=\"36\" y=\"42\" width=\"4\" height=\"6\" fill=\"#F97316\" opacity=\"0.6\" /><path d=\"M 20 28 L 24 16 L 28 20 L 32 12 L 36 20 L 40 16 L 44 28 Z\" fill=\"url(#crown_sedom)\" stroke=\"#292524\" stroke-width=\"2\" /><rect x=\"19\" y=\"28\" width=\"26\" height=\"4\" fill=\"url(#crown_sedom)\" /><path d=\"M 26 50 Q 32 54 38 50\" stroke=\"url(#fire_sedom)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "סְדֹם (세돔 - 소돔)",
+        "עֲמֹרָה (아모라 - 고모라)"
+      ]
+    },
+    {
+      "hebrew": "אֶל־אַבְרָם",
+      "meaning": "아브람에게",
+      "ipa": "ʔɛl avˈram",
+      "korean": "엘 아브람",
+      "letters": "אֶל(el) + אַבְ(av) + רָם(ram)",
+      "root": "אֶל + אַבְרָם (엘 + 아브람)",
+      "grammar": "전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow_el\"><stop offset=\"0%\" stop-color=\"#10B981\" /><stop offset=\"100%\" stop-color=\"#059669\" /></linearGradient><linearGradient id=\"person_avram\"><stop offset=\"0%\" stop-color=\"#D4A574\" /><stop offset=\"100%\" stop-color=\"#A67C52\" /></linearGradient></defs><path d=\"M 12 32 L 36 32\" stroke=\"url(#arrow_el)\" stroke-width=\"3\" /><path d=\"M 30 26 L 40 32 L 30 38\" fill=\"url(#arrow_el)\" /><circle cx=\"50\" cy=\"26\" r=\"6\" fill=\"url(#person_avram)\" /><ellipse cx=\"50\" cy=\"40\" rx=\"8\" ry=\"12\" fill=\"url(#person_avram)\" /></svg>",
+      "relatedWords": [
+        "אֶל (엘 - ~에게, ~로)",
+        "אַבְרָם (아브람 - 높은 아버지)"
+      ]
+    },
+    {
+      "hebrew": "תֶּן־לִי",
+      "meaning": "나에게 주라",
+      "ipa": "tɛn li",
+      "korean": "텐 리",
+      "letters": "תֶּן(ten) + לִי(li)",
+      "root": "נ-ת-ן (natan)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"give_tenli\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#D97706\" /></linearGradient></defs><path d=\"M 12 32 L 40 32\" stroke=\"url(#give_tenli)\" stroke-width=\"4\" /><path d=\"M 34 26 L 44 32 L 34 38\" fill=\"url(#give_tenli)\" /><circle cx=\"12\" cy=\"32\" r=\"5\" fill=\"#FDE047\" stroke=\"url(#give_tenli)\" stroke-width=\"2\" /><path d=\"M 46 24 L 46 40 L 52 40 L 52 24 Z\" fill=\"url(#give_tenli)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "לִי (리 - 나에게)"
+      ]
+    },
+    {
+      "hebrew": "הַנֶּפֶשׁ",
+      "meaning": "사람들, 생명",
+      "ipa": "haˈnɛfɛʃ",
+      "korean": "하네페쉬",
+      "letters": "הַ(ha) + נֶּ(ne) + פֶשׁ(fesh)",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"soul_hanefesh\"><stop offset=\"0%\" stop-color=\"#FCA5A5\" /><stop offset=\"100%\" stop-color=\"#EF4444\" /></radialGradient></defs><circle cx=\"20\" cy=\"20\" r=\"6\" fill=\"url(#soul_hanefesh)\" /><ellipse cx=\"20\" cy=\"34\" rx=\"7\" ry=\"10\" fill=\"url(#soul_hanefesh)\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#soul_hanefesh)\" /><ellipse cx=\"32\" cy=\"38\" rx=\"7\" ry=\"10\" fill=\"url(#soul_hanefesh)\" /><circle cx=\"44\" cy=\"20\" r=\"6\" fill=\"url(#soul_hanefesh)\" /><ellipse cx=\"44\" cy=\"34\" rx=\"7\" ry=\"10\" fill=\"url(#soul_hanefesh)\" /></svg>",
+      "relatedWords": [
+        "נֶפֶשׁ (네페쉬 - 영혼, 생명, 사람)",
+        "נְשָׁמָה (네샤마 - 호흡, 영)"
+      ]
+    },
+    {
+      "hebrew": "וְהָרְכֻשׁ",
+      "meaning": "그리고 재물",
+      "ipa": "vəharəˈχuʃ",
+      "korean": "베하레쿠쉬",
+      "letters": "וְ(ve) + הָ(ha) + רְ(re) + כֻשׁ(khush)",
+      "root": "רְכוּשׁ (레쿠쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"goods_veharekush\"><stop offset=\"0%\" stop-color=\"#FDE047\" /><stop offset=\"100%\" stop-color=\"#EAB308\" /></linearGradient></defs><rect x=\"12\" y=\"28\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#goods_veharekush)\" stroke=\"#CA8A04\" stroke-width=\"2\" /><rect x=\"24\" y=\"24\" width=\"16\" height=\"24\" rx=\"2\" fill=\"url(#goods_veharekush)\" stroke=\"#CA8A04\" stroke-width=\"2\" /><rect x=\"36\" y=\"32\" width=\"16\" height=\"16\" rx=\"2\" fill=\"url(#goods_veharekush)\" stroke=\"#CA8A04\" stroke-width=\"2\" /><circle cx=\"20\" cy=\"38\" r=\"3\" fill=\"#A16207\" /><circle cx=\"32\" cy=\"36\" r=\"3\" fill=\"#A16207\" /><circle cx=\"44\" cy=\"40\" r=\"3\" fill=\"#A16207\" /></svg>",
+      "relatedWords": [
+        "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+        "כֶּסֶף (케세프 - 은, 돈)"
+      ]
+    },
+    {
+      "hebrew": "קַח־לָךְ",
+      "meaning": "네가 가지라",
+      "ipa": "qaχ laχ",
+      "korean": "카흐 라크",
+      "letters": "קַח(qakh) + לָךְ(lakh)",
+      "root": "ל-ק-ח (laqakh)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"take_qachlakh\"><stop offset=\"0%\" stop-color=\"#34D399\" /><stop offset=\"100%\" stop-color=\"#10B981\" /></linearGradient></defs><path d=\"M 20 44 L 20 32 Q 20 28 24 28 L 28 28 Q 32 28 32 32 L 32 48 Q 32 52 28 52 L 24 52 Q 20 52 20 48 Z\" fill=\"url(#take_qachlakh)\" stroke=\"#059669\" stroke-width=\"2\" /><rect x=\"22\" y=\"24\" width=\"3\" height=\"12\" rx=\"1.5\" fill=\"url(#take_qachlakh)\" /><rect x=\"26\" y=\"20\" width=\"3\" height=\"16\" rx=\"1.5\" fill=\"url(#take_qachlakh)\" /><rect x=\"30\" y=\"22\" width=\"3\" height=\"14\" rx=\"1.5\" fill=\"url(#take_qachlakh)\" /><circle cx=\"44\" cy=\"32\" r=\"10\" fill=\"#FDE047\" stroke=\"#EAB308\" stroke-width=\"2\" /><text x=\"44\" y=\"38\" font-size=\"16\" font-weight=\"bold\" fill=\"#CA8A04\" text-anchor=\"middle\">$</text></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 취하다, 받다)",
+        "לֶקַח (레카흐 - 교훈, 가르침)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "멜기세덱과의 신성한 만남 직후, 소돔 왕이 아브람에게 세속적 제안을 합니다. '사람들은 돌려보내고 물품은 네가 가져라' - 당시 전쟁 관습상 합리적인 제안이었지만, 아브람은 이를 단호히 거절합니다 (22-24절). 이는 영적 가치와 물질적 이득 사이의 선택을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "멜렉 세돔 (מֶלֶךְ־סְדֹם) - 소돔의 왕",
+        "description": "소돔은 후에 하나님의 심판으로 멸망할 악한 성읍입니다 (창 18-19장). 소돔 왕의 제안은 겉보기에는 합리적이지만, 영적으로는 위험한 유혹입니다. 멜기세덱의 거룩한 축복 직후에 나타난 세속적 유혹입니다.",
+        "points": [
+          "소돔은 죄악으로 가득한 성읍 (창 13:13)",
+          "소돔 왕의 제안은 합리적이나 영적으로 위험함",
+          "거룩한 만남 후 세속적 유혹이 따라옴 - 영적 전쟁의 패턴"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "하네페쉬 (הַנֶּפֶשׁ) - 사람들",
+        "description": "'네페쉬'는 기본적으로 '영혼, 생명'을 의미하지만 여기서는 '사람들', 즉 포로로 잡혀간 소돔 주민들을 가리킵니다. 소돔 왕은 자기 백성들을 되찾고 싶어했습니다.",
+        "points": [
+          "네페쉬 = 영혼, 생명, 사람",
+          "전쟁 포로였던 소돔 주민들을 의미",
+          "왕으로서 백성을 되찾으려는 정당한 요구"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "베하레쿠쉬 (וְהָרְכֻשׁ) - 그리고 재물",
+        "description": "'레쿠쉬'는 재산, 소유물, 전리품을 의미합니다. 당시 전쟁 관습상 승자가 패자의 재물을 취하는 것은 당연했습니다. 소돔 왕은 이 권리를 아브람에게 넘기려 했습니다.",
+        "points": [
+          "레쿠쉬 = 재산, 소유물, 전리품",
+          "막대한 전리품 - 5명의 왕들이 약탈했던 것들",
+          "물질적으로 매우 유혹적인 제안"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "카흐 라크 (קַח־לָךְ) - 네가 가져라",
+        "description": "'카흐 라크'는 '너를 위해 가져가라'는 의미로, 소돔 왕이 아브람에게 전리품에 대한 완전한 소유권을 주겠다는 제안입니다. 이는 매우 관대한 제안처럼 보이지만, 아브람을 소돔 왕에게 빚진 자로 만들 수 있었습니다.",
+        "points": [
+          "전리품에 대한 완전한 소유권 제안",
+          "겉으로는 관대하나 실제로는 속박의 위험",
+          "소돔 왕에게 빚을 진다면 영적 자유를 잃을 수 있음"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 소돔 왕은 아브라함에게 재물을 가지라고 했을까요?",
+      "answer": "소돔 왕은 자기 백성들을 구해준 아브라함에게 감사하는 마음으로 보상을 주고 싶었어요. 또 당시 전쟁에서 이긴 사람이 물건들을 가지는 게 당연한 규칙이기도 했어요. 하지만 소돔 왕의 제안에는 숨은 의도가 있을 수도 있었어요. 만약 아브라함이 그 물건들을 받으면, '소돔 왕 덕분에 부자가 되었다'고 말할 수 있거든요. 아브라함은 그것을 원하지 않았어요. 오직 하나님만이 자신을 부유하게 하시는 분이라는 걸 보여주고 싶었답니다.",
+      "bibleReferences": [
+        "창세기 14:22-23 - '내가 천지를 만드신 지극히 높으신 하나님 여호와께 손을 들어 맹세하노니 네 말이 내가 아브람을 부요하게 하였다 할까 하여 네게 속한 것은 실 한 오라기나 신발 끈 한 가닥도 내가 가지지 아니하리라'",
+        "히브리서 11:24-26 - '믿음으로 모세는 장성하여 바로의 공주의 아들이라 칭함을 거절하고... 그리스도를 위하여 받는 수모를 애굽의 모든 보화보다 더 큰 재물로 여겼으니'",
+        "마태복음 6:24 - '한 사람이 두 주인을 섬기지 못할 것이니 혹 이를 미워하고 저를 사랑하거나 혹 이를 중히 여기고 저를 경히 여김이라 너희가 하나님과 재물을 겸하여 섬기지 못하느니라'",
+        "야고보서 4:4 - '세상과 벗된 것이 하나님과 원수 됨을 알지 못하느냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 아브람이 직면한 영적 시험의 시작입니다. 멜기세덱에게 십일조를 드린 직후 소돔 왕의 제안을 받는 이 대비는 의도적입니다. 하나님을 섬길 것인가, 세상의 부를 취할 것인가? 다음 구절들(22-24절)에서 아브람은 명확한 선택을 합니다: '실 한 오라기나 신발 끈 한 가닥도 내가 가지지 아니하리라.' 그는 '천지의 소유자이신 엘 엘욘'께 손을 들어 맹세합니다. 이것은 신자의 삶에서 반복되는 선택입니다 - 하나님의 축복으로 만족할 것인가, 세상의 제안을 받아들일 것인가? 아브람의 선택은 마태복음 6:24의 '하나님과 재물을 겸하여 섬기지 못한다'는 원리를 미리 보여줍니다. 그의 거절은 믿음의 고백이자, 하나님만이 진정한 공급자이심을 선포하는 것입니다."
+    }
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "id": "genesis_6_22",
+  "reference": "창세기 6:22",
+  "hebrew": "וַיַּעַשׂ, נֹחַ: כְּכֹל אֲשֶׁר צִוָּה אֹתוֹ, אֱלֹהִים—כֵּן עָשָׂה.",
+  "ipa": "vaˈjaʔas ˈnoaχ kəˈχol ʔaˈʃer tsiˈva ʔoˈto ʔɛloˈhim ken ʔaˈsa",
+  "koreanPronunciation": "바야아스 노아흐 케콜 아쉐르 치와 오토 엘로힘 켄 아사",
+  "modern": "노아가 그와 같이 했으니, 하나님이 그에게 명하신 대로 다 준행했습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 행했다",
+      "ipa": "vaˈjaʔas",
+      "korean": "바야아스",
+      "letters": "וַ(va) + יַּ(ya) + עַשׂ(as)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사 - 와우 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"did_vayyaas\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#81C784\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#did_vayyaas)\" stroke-width=\"3\" /><path d=\"M 22 32 L 28 38 L 42 24\" stroke=\"url(#did_vayyaas)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 행하다, 만들다)",
+        "מַעֲשֶׂה (마아세 - 행위)"
+      ]
+    },
+    {
+      "hebrew": "כְּכֹל",
+      "meaning": "모든 것과 같이",
+      "ipa": "kəˈχol",
+      "korean": "케콜",
+      "letters": "כְּ(ke) + כֹל(chol)",
+      "root": "כֹּל (콜)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"according_kechol\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#according_kechol)\" opacity=\"0.2\" /><circle cx=\"20\" cy=\"24\" r=\"4\" fill=\"url(#according_kechol)\" /><circle cx=\"44\" cy=\"24\" r=\"4\" fill=\"url(#according_kechol)\" /><circle cx=\"20\" cy=\"40\" r=\"4\" fill=\"url(#according_kechol)\" /><circle cx=\"44\" cy=\"40\" r=\"4\" fill=\"url(#according_kechol)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#according_kechol)\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든)",
+        "כָּכָה (카카 - 이와 같이)"
+      ]
+    },
+    {
+      "hebrew": "צִוָּה",
+      "meaning": "명령했다",
+      "ipa": "tsiˈva",
+      "korean": "치와",
+      "letters": "צִ(tsi) + וָּה(vah)",
+      "root": "צ-ו-ה (차바)",
+      "grammar": "동사 - 피엘형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"commanded_tsivah\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#commanded_tsivah)\" opacity=\"0.4\" /><path d=\"M 32 30 L 16 48\" stroke=\"url(#commanded_tsivah)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 30 L 48 48\" stroke=\"url(#commanded_tsivah)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 30 L 32 52\" stroke=\"url(#commanded_tsivah)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "צִוָּה (치바 - 명령하다)",
+        "מִצְוָה (미츠바 - 계명)"
+      ]
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "meaning": "그를",
+      "ipa": "ʔoˈto",
+      "korean": "오토",
+      "letters": "אֹ(o) + תוֹ(to)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사 + 3인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"him_oto\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#him_oto)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#him_oto)\" /></svg>",
+      "relatedWords": [
+        "אֵת (에트 - ~을)",
+        "אוֹתָהּ (오타 - 그녀를)"
+      ]
+    },
+    {
+      "hebrew": "כֵּן",
+      "meaning": "그와 같이",
+      "ipa": "ken",
+      "korean": "켄",
+      "letters": "כֵּן(ken)",
+      "root": "כֵּן (켄)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"so_ken\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 16 32 L 32 32 L 32 16\" stroke=\"url(#so_ken)\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><path d=\"M 32 32 L 48 32 L 48 48\" stroke=\"url(#so_ken)\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "כֵּן (켄 - 그렇게)",
+        "כָּכָה (카카 - 이와 같이)"
+      ]
+    },
+    {
+      "hebrew": "עָשָׂה",
+      "meaning": "행했다",
+      "ipa": "ʔaˈsa",
+      "korean": "아사",
+      "letters": "עָ(a) + שָׂה(sah)",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사 - 완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"done_asah\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#4CAF50\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#done_asah)\" opacity=\"0.3\" /><path d=\"M 20 32 L 28 40 L 44 24\" stroke=\"url(#done_asah)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(0 0 6px rgba(76, 175, 80, 0.6))\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 행하다)",
+        "נַעֲשֶׂה (나아세 - 행해지다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 6장의 마지막 구절은 노아의 완전한 순종을 보여줍니다. '하나님이 명하신 대로 다 준행했다'는 이 짧은 문장은 노아 신앙의 핵심을 담고 있습니다.",
+    "sections": [
+      {
+        "emoji": "✅",
+        "title": "완전한 순종",
+        "description": "'케콜'(כְּכֹל) - '모든 것과 같이'라는 표현은 노아가 하나님의 명령을 부분적이 아니라 완전하게 순종했음을 강조합니다.",
+        "points": [
+          "전적 순종 - 선택적 순종이 아님",
+          "즉각적 순종 - 지체하지 않음",
+          "정확한 순종 - 자기 방식이 아님"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "🙏",
+        "title": "믿음의 행함",
+        "description": "노아의 순종은 그의 믿음의 증거입니다. 야고보서는 '행함이 없는 믿음은 죽은 것'(약 2:17)이라고 가르칩니다.",
+        "points": [
+          "믿음은 행동으로 나타남",
+          "순종은 믿음의 열매",
+          "히브리서 11:7 - 믿음으로 방주를 준비"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "👑",
+        "title": "의로움의 근거",
+        "description": "노아가 '의인'이라 불린 것은 이러한 순종 때문입니다. 그러나 근본적으로는 하나님의 은혜입니다(6:8).",
+        "points": [
+          "은혜로 구원받음",
+          "순종으로 의가 나타남",
+          "행위가 아니라 믿음으로 의롭다 함을 얻음"
+        ],
+        "color": "gold"
+      }
+    ],
+    "whyQuestion": {
+      "question": "노아는 왜 하나님의 말씀을 다 순종했을까요?",
+      "answer": "노아는 하나님을 진짜로 사랑하고 믿었기 때문이에요. 하나님이 시키신 일은 다 좋은 일이라는 걸 알았거든요. 그래서 '내 맘대로 할래'가 아니라 '하나님 말씀대로 할래!'라고 했답니다. 우리도 노아처럼 하나님 말씀을 잘 따라야 해요.",
+      "bibleReferences": [
+        "히브리서 11:7 - '믿음으로 노아는 아직 보이지 않는 일에 경고하심을 받아 경외함으로 방주를 준비하여 그 집을 구원하였으니'",
+        "야고보서 2:17 - '행함이 없는 믿음은 그 자체가 죽은 것이라'",
+        "요한복음 14:15 - '너희가 나를 사랑하면 나의 계명을 지키리라'",
+        "사무엘상 15:22 - '순종이 제사보다 낫고 듣는 것이 숫양의 기름보다 나으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "순종의 본",
+      "content": "노아는 모든 신자의 모범입니다. 그의 순종은 단순한 의무가 아니라 하나님을 향한 사랑과 믿음의 표현이었습니다. 창세기 6장은 심판의 메시지로 시작했지만, 순종의 은혜로운 이야기로 끝을 맺습니다. 이는 우리에게 하나님의 명령에 대한 완전한 순종을 촉구합니다."
+    }
+  }
+}

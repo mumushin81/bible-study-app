@@ -1,0 +1,133 @@
+{
+  "id": "genesis_11_30",
+  "reference": "창세기 11:30",
+  "hebrew": "וַתְּהִי שָׂרַי עֲקָרָה; אֵין לָהּ וָלָד.",
+  "ipa": "vaˈlad lah ʔen ʔɑqɑˈrɑ saˈraj vatˈtəhi",
+  "koreanPronunciation": "바테히 사라이 아카라 에인 라 발라드",
+  "modern": "사라이는 임신하지 못하는 여인이었으며, 그에게는 자녀가 없었습니다",
+  "words": [
+    {
+      "hebrew": "וַתְּהִי",
+      "meaning": "그리고 ~였다",
+      "ipa": "vatˈtəhi",
+      "korean": "바테히",
+      "letters": "וַ(va) + תְּ(tə) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "📖",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"barren30-narrative1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B7355\"/><stop offset=\"100%\" stop-color=\"#D2B48C\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" fill=\"url(#barren30-narrative1)\" rx=\"2\" stroke=\"#654321\" stroke-width=\"2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><line x1=\"20\" y1=\"24\" x2=\"44\" y2=\"24\" stroke=\"#654321\" stroke-width=\"1.5\"/><line x1=\"20\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"#654321\" stroke-width=\"1.5\"/><line x1=\"20\" y1=\"40\" x2=\"36\" y2=\"40\" stroke=\"#654321\" stroke-width=\"1.5\"/></svg>"
+    },
+    {
+      "hebrew": "שָׂרַי",
+      "meaning": "사라이",
+      "ipa": "saˈraj",
+      "korean": "사라이",
+      "letters": "שָׂ(sa) + רַ(ra) + י(i)",
+      "root": "שָׂרַי (사라이)",
+      "grammar": "명사",
+      "emoji": "👸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"barren30-sarai1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E6B8AF\"/><stop offset=\"100%\" stop-color=\"#D5A6BD\"/></linearGradient><radialGradient id=\"barren30-sarai2\"><stop offset=\"0%\" stop-color=\"#FFF8DC\"/><stop offset=\"100%\" stop-color=\"#FFE4E1\"/></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"14\" fill=\"url(#barren30-sarai2)\" stroke=\"#D5A6BD\" stroke-width=\"2\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 20 42 Q 32 38 44 42 L 44 52 Q 32 56 20 52 Z\" fill=\"url(#barren30-sarai1)\" stroke=\"#D5A6BD\" stroke-width=\"2\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#654321\"/><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#654321\"/><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#C08080\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+      "relatedWords": [
+        "שָׂרָה (사라 - 공주, 여주인)",
+        "שַׂר (사르 - 지도자, 통치자)"
+      ]
+    },
+    {
+      "hebrew": "עֲקָרָה",
+      "meaning": "임신하지 못하는, 불임의",
+      "ipa": "ʔɑqɑˈrɑ",
+      "korean": "아카라",
+      "letters": "עֲ(a) + קָ(qa) + רָה(ra)",
+      "root": "ע-ק-ר (아카르)",
+      "grammar": "형용사",
+      "emoji": "💔",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"barren30-barren1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#C4A484\"/><stop offset=\"100%\" stop-color=\"#8B7355\"/></linearGradient><linearGradient id=\"barren30-barren2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#D3D3D3\"/><stop offset=\"100%\" stop-color=\"#A9A9A9\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"14\" fill=\"url(#barren30-barren1)\" opacity=\"0.4\"/><path d=\"M 24 20 Q 32 12 40 20\" stroke=\"url(#barren30-barren2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\"/><path d=\"M 22 28 Q 32 22 42 28\" stroke=\"url(#barren30-barren2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"40\" r=\"4\" fill=\"none\" stroke=\"#8B7355\" stroke-width=\"2\" stroke-dasharray=\"2,2\" opacity=\"0.5\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"></svg>",
+      "relatedWords": [
+        "עָקָר (아카르 - 뿌리째 뽑다)",
+        "עֵקֶר (에케르 - 자손, 후손)"
+      ]
+    },
+    {
+      "hebrew": "אֵין לָהּ וָלָד",
+      "meaning": "그에게는 자녀가 없었다",
+      "ipa": "vaˈlad lah ʔen",
+      "korean": "에인 라 발라드",
+      "letters": "אֵין(ein) + לָהּ(lah) + וָלָד(valad)",
+      "root": "י-ל-ד (야라드)",
+      "grammar": "명사",
+      "emoji": "🚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"barren30-nochild1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#D3D3D3\"/></radialGradient><linearGradient id=\"barren30-nochild2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#B22222\"/><stop offset=\"100%\" stop-color=\"#8B0000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#barren30-nochild1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#barren30-nochild2)\" stroke-width=\"4\" opacity=\"0.7\"/><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#barren30-nochild2)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 2px rgba(0, 0, 0, 0.3))\"/></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이, 자녀)",
+        "יָלַד (얄라드 - 낳다, 출산하다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 30절은 구원 역사의 위대한 반전을 준비하는 서론입니다. 사라이의 불임은 단순한 개인의 슬픔을 넘어, 하나님께서 인간의 불가능을 통해 역사하시는 신성한 패턴의 시작점입니다. 이삭의 기적적 탄생, 나아가 메시아의 오심까지 연결되는 구원사의 중요한 전환점입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שָׂרַי (사라이) - 공주에서 민족의 어머니로",
+        "description": "사라이(שָׂרַי)는 '나의 공주'라는 뜻으로, 후에 하나님께서 '사라'(שָׂרָה, 열방의 공주)로 이름을 바꾸어 주십니다. 그녀는 아브라함과 함께 믿음의 여정을 시작한 동역자이며, 이스라엘 민족의 어머니가 될 인물입니다.",
+        "points": [
+          "개인의 공주(사라이)에서 열방의 공주(사라)로의 신분 변화",
+          "불임의 여인에서 믿음의 어머니로의 영적 성장 과정",
+          "하나님의 언약을 받을 선택받은 여성",
+          "신약에서 '믿음의 여성들의 모범'으로 칭송받음 (벧전 3:6)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עֲקָרָה (아카라) - 불임, 하나님의 역사를 위한 무대",
+        "description": "'아카라'(עֲקָרָה)는 '불임의', '자녀를 낳지 못하는'을 의미하며, 어근 '아카르'(עָקַר)는 '뿌리째 뽑다'는 뜻입니다. 고대 근동 사회에서 불임은 큰 수치이자 저주로 여겨졌지만, 성경은 이를 하나님의 초자연적 개입을 위한 무대로 사용합니다.",
+        "points": [
+          "인간의 불가능은 하나님의 가능성을 드러내는 배경입니다",
+          "성경의 주요 인물들(이삭, 야곱, 요셉, 삼손, 사무엘)이 불임의 어머니에게서 태어남",
+          "하나님의 약속은 인간의 능력이 아닌 하나님의 주권으로 성취됩니다",
+          "궁극적으로 동정녀 마리아를 통한 예수님의 탄생을 예표함"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֵין לָהּ וָלָד (에인 라 발라드) - 자녀가 없음, 절망에서 소망으로",
+        "description": "'에인'(אֵין)은 '없다', '존재하지 않다'를 의미하고, '발라드'(וָלָד)는 '자녀', '후손'을 뜻합니다. 이 짧은 문구는 사라이의 절망적 상황을 극명하게 요약하지만, 동시에 하나님의 기적적 개입을 위한 완벽한 무대를 준비합니다.",
+        "points": [
+          "고대 사회에서 자녀는 축복과 가문 계승의 증표였습니다",
+          "아브라함에게 주신 '큰 민족'의 약속(창 12:2)과 극명한 대조를 이룹니다",
+          "인간의 절망이 깊을수록 하나님의 영광이 더 크게 드러납니다",
+          "25년 후 이삭의 탄생은 '불가능을 가능케 하시는 하나님'의 증거가 됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "תּוֹלְדוֹת יְשׁוּעָה (톨도트 예슈아) - 구원사적 의미, 기적의 패턴",
+        "description": "사라이의 불임은 성경 전체에 걸쳐 반복되는 '하나님의 초자연적 개입' 패턴의 시작입니다. 불임의 여인들(리브가, 라헬, 한나, 엘리사벳)을 통해 하나님은 구원사의 중요 인물들을 탄생시키시며, 이는 궁극적으로 동정녀 마리아를 통한 메시아의 탄생을 예표합니다.",
+        "points": [
+          "불임 → 기적적 출산 패턴: 이삭, 야곱, 요셉, 삼손, 사무엘, 세례 요한",
+          "인간의 능력이 끝난 곳에서 하나님의 능력이 시작됩니다",
+          "믿음은 보이는 것이 아니라 보이지 않는 약속을 붙드는 것입니다 (히 11:11)",
+          "'불가능'은 하나님께 기회이지 장애물이 아닙니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사라이가 아기를 낳지 못하게 하셨을까요?",
+      "answer": "하나님은 사라이가 아기를 못 낳게 하신 게 아니라, 특별한 계획이 있으셨어요. 마치 깜짝 선물을 주기 전에 기다리게 하는 것처럼, 하나님은 아브라함과 사라이에게 특별한 아기 이삭을 주시려고 준비하고 계셨답니다. 사라이가 너무 나이가 많아서 아기를 가질 수 없을 때, 하나님께서 기적으로 이삭을 주셨어요. 이렇게 해서 모든 사람들이 '와, 이건 정말 하나님이 하신 일이야!'라고 알 수 있게 되었답니다. 하나님은 불가능해 보이는 일도 하실 수 있는 분이세요!",
+      "bibleReferences": [
+        "창세기 18:14 - '여호와께 능하지 못한 일이 있겠느냐 기한이 이를 때에 내가 네게로 돌아오리니 사라에게 아들이 있으리라'",
+        "창세기 21:1-2 - '여호와께서 말씀하신 대로 사라를 돌보셨고 여호와께서 말씀하신 대로 사라에게 행하셨으므로 사라가 임신하고 하나님이 말씀하신 시기가 되어 늙은 아브라함에게 아들을 낳으니'",
+        "히브리서 11:11 - '믿음으로 사라 자신도 나이가 많아 단산하였으나 임신할 수 있는 힘을 얻었으니 이는 약속하신 이를 미쁘신 줄 알았음이라'",
+        "로마서 4:19-21 - '그가 백 세나 되어 자기 몸이 죽은 것 같고 사라의 태가 죽은 것 같음을 알고도 믿음이 약하여지지 아니하고 약속을 따라 은혜를 입을 자는 이 사람의 씨라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "사라이의 불임은 인간의 무능력을 강조하는 동시에 하나님의 전능하심을 드러내는 신학적 장치입니다. 구원은 인간의 노력이나 능력으로 이루어지지 않고, 오직 하나님의 은혜와 약속으로 성취됩니다. 불임의 사라이에게서 이삭이 태어나고, 궁극적으로 그 후손 가운데서 메시아가 오신 것은, 구원이 전적으로 하나님의 주권적 은혜임을 보여주는 복음의 예표입니다. 우리의 '불가능'한 상황이야말로 하나님의 영광을 드러낼 최고의 무대입니다."
+    }
+  }
+}

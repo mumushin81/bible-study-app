@@ -1,0 +1,171 @@
+{
+  "id": "genesis_8_13",
+  "reference": "창세기 8:13",
+  "hebrew": "וַיְהִי בְּאַחַת וְשֵׁשׁ־מֵאוֹת שָׁנָה בָּרִאשׁוֹן בְּאֶחָד לַחֹדֶשׁ חָרְבוּ הַמַּיִם מֵעַל הָאָרֶץ וַיָּסַר נֹחַ אֶת־מִכְסֵה הַתֵּבָה וַיַּרְא וְהִנֵּה חָרְבוּ פְּנֵי הָאֲדָמָה.",
+  "ipa": "vajəˈhi bəʔaˈxat vəˈʃeʃ meˈot ʃaˈna bariˈʃon bəʔeˈxad laxoˈdeʃ xarˈəvu haˈmajim meˈʔal haˈʔarɛts vajaˈsar noax ʔɛt mixˈse hateva vajˈar vəhine xarˈəvu pəˈne haʔadaˈma",
+  "koreanPronunciation": "바예히 베아하트 베쉐쉬 메오트 샤나 바리쇼온 베에하드 라호데쉬 하르부 하마임 메알 하아레츠 바야사르 노아흐 에트 미크세 하테바 바야르 베힌네 하르부 페네 하아다마",
+  "modern": "601년 첫째 달 초하루에 땅 위의 물이 말랐습니다. 노아가 방주의 덮개를 열고 보니, 보라, 땅의 표면이 말라 있었습니다",
+  "words": [
+    {
+      "hebrew": "בְּאַחַת וְשֵׁשׁ־מֵאוֹת",
+      "meaning": "601년에",
+      "ipa": "bəʔaˈxat vəˈʃeʃ meˈot",
+      "korean": "베아하트 베쉐쉬 메오트",
+      "letters": "בְּ(bə) + אַ(a) + חַת(chat) + וְ(və) + שֵׁשׁ(shesh) + מֵ(me) + אוֹת(ot)",
+      "root": "אֶחָד + שֵׁשׁ + מֵאָה (에하드 + 쉐쉬 + 메아)",
+      "grammar": "수사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year_601\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5E35B1\" /><stop offset=\"100%\" stop-color=\"#4527A0\" /></linearGradient></defs><text x=\"32\" y=\"38\" font-family=\"Arial, sans-serif\" font-size=\"20\" font-weight=\"bold\" fill=\"url(#year_601)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">601</text><circle cx=\"32\" cy=\"32\" r=\"26\" stroke=\"url(#year_601)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 년)",
+        "מֵאָה (메아 - 100)"
+      ]
+    },
+    {
+      "hebrew": "בָּרִאשׁוֹן",
+      "meaning": "첫째 달에",
+      "ipa": "bariˈʃon",
+      "korean": "바리쇼온",
+      "letters": "בָּ(ba) + רִא(ri) + שׁוֹן(shon)",
+      "root": "רִאשׁוֹן (리쇼온)",
+      "grammar": "서수",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"first_month\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial, sans-serif\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#first_month)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\">1st</text><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#first_month)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רִאשׁוֹן (리쇼온 - 첫째)",
+        "רֹאשׁ (로쉬 - 머리, 시작)"
+      ]
+    },
+    {
+      "hebrew": "חָרְבוּ",
+      "meaning": "말랐다",
+      "ipa": "xarˈəvu",
+      "korean": "하르부",
+      "letters": "חָ(cha) + רְ(r) + בוּ(vu)",
+      "root": "ח-ר-ב (charav)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dry_earth\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D7CCC8\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></linearGradient><radialGradient id=\"sun_heat\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"26\" ry=\"12\" fill=\"url(#dry_earth)\" /><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#sun_heat)\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.7))\" /><path d=\"M 20 42 L 22 44 L 20 46\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 32 44 L 34 46 L 32 48\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /><path d=\"M 44 42 L 46 44 L 44 46\" stroke=\"#8D6E63\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "חָרֵב (하레브 - 마른)",
+        "חָרְבָּה (하르바 - 황무지)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּסַר",
+      "meaning": "그리고 제거했다, 열었다",
+      "ipa": "vajaˈsar",
+      "korean": "바야사르",
+      "letters": "וַ(va) + יָּ(ya) + סַר(sar)",
+      "root": "ס-ו-ר (sur)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"remove_cover\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#A1887F\" opacity=\"0.3\" /></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"24\" rx=\"2\" fill=\"url(#remove_cover)\" /><path d=\"M 12 20 L 52 20\" stroke=\"#6D4C41\" stroke-width=\"2\" /><path d=\"M 52 20 L 58 16\" stroke=\"#8D6E63\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 52 24 L 58 20\" stroke=\"#8D6E63\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "סוּר (수르 - 제거하다)",
+        "הֵסִיר (헤시르 - 제거하다)"
+      ]
+    },
+    {
+      "hebrew": "מִכְסֵה",
+      "meaning": "덮개, 지붕",
+      "ipa": "mixˈse",
+      "korean": "미크세",
+      "letters": "מִ(mi) + כְ(k) + סֵה(seh)",
+      "root": "כ-ס-ה (kasah)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"roof_cover\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#6D4C41\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><path d=\"M 10 36 L 32 18 L 54 36\" fill=\"url(#roof_cover)\" stroke=\"#4E342E\" stroke-width=\"2\" /><rect x=\"16\" y=\"36\" width=\"32\" height=\"20\" fill=\"#8D6E63\" opacity=\"0.7\" /><rect x=\"28\" y=\"28\" width=\"8\" height=\"8\" rx=\"1\" fill=\"#A1887F\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כִּסָּה (키사 - 덮다)",
+        "כְּסוּת (케수트 - 덮개)"
+      ]
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보았다",
+      "ipa": "vajˈar",
+      "korean": "바야르",
+      "letters": "וַ(va) + יַּ(ya) + רְא(r)",
+      "root": "ר-א-ה (raah)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"seeing_eye\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"50%\" stop-color=\"#1976D2\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"20\" fill=\"none\" stroke=\"#1976D2\" stroke-width=\"3\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#seeing_eye)\" /><circle cx=\"32\" cy=\"32\" r=\"7\" fill=\"#000000\" /><circle cx=\"34\" cy=\"30\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "רְאִיָּה (레이야 - 시력)"
+      ]
+    },
+    {
+      "hebrew": "פְּנֵי הָאֲדָמָה",
+      "meaning": "땅의 표면",
+      "ipa": "pəˈne haʔadaˈma",
+      "korean": "페네 하아다마",
+      "letters": "פְּ(pə) + נֵי(ne) + הָ(ha) + אֲ(a) + דָ(da) + מָה(mah)",
+      "root": "פָּנִים + אֲדָמָה (파님 + 아다마)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"ground_surface\"><stop offset=\"0%\" stop-color=\"#BCAAA4\" /><stop offset=\"50%\" stop-color=\"#A1887F\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"28\" ry=\"16\" fill=\"url(#ground_surface)\" /><circle cx=\"20\" cy=\"36\" r=\"2\" fill=\"#6D4C41\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"38\" r=\"2.5\" fill=\"#6D4C41\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"40\" r=\"2\" fill=\"#6D4C41\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴, 표면)",
+        "אֲדָמָה (아다마 - 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 13절은 노아 생애의 중요한 시점을 기록합니다. 노아가 601세 되던 해 첫째 달 초하루, 정확히 1년 10일 만에 땅이 말랐습니다. 노아는 방주 덮개를 열고 직접 확인합니다. 이는 믿음과 확인의 균형을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "601년 첫째 달 초하루 - 새로운 시작",
+        "description": "새해 첫 달 첫날은 완전히 새로운 시작을 상징합니다. 홍수가 600년째 둘째 달 열이레에 시작되었으니, 약 1년이 지났습니다.",
+        "points": [
+          "정확한 날짜 기록은 역사성을 강조합니다",
+          "새해 첫날은 새로운 시대의 시작을 상징합니다",
+          "하나님의 시간표는 완벽하게 계획되어 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "חָרְבוּ הַמַּיִם (하르부 하마임) - 물이 마름",
+        "description": "'하라브(마르다)'는 완전히 건조해짐을 의미합니다. 물이 단순히 줄어든 것이 아니라 완전히 말랐습니다.",
+        "points": [
+          "완전한 회복이 이루어졌습니다",
+          "하나님의 심판이 완전히 끝났습니다",
+          "새로운 삶을 시작할 준비가 되었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיָּסַר אֶת־מִכְסֵה (바야사르 에트 미크세) - 덮개를 제거함",
+        "description": "노아가 직접 방주 덮개를 연 것은 능동적 행동입니다. 그는 하나님을 신뢰하면서도 직접 확인했습니다.",
+        "points": [
+          "믿음은 수동적이 아니라 능동적입니다",
+          "확인하는 것은 불신이 아니라 지혜입니다",
+          "하나님은 우리가 주도적으로 행동하기를 원하십니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְהִנֵּה (베힌네) - 보라!",
+        "description": "다시 등장하는 '힌네(보라)'는 놀라움과 기쁨을 나타냅니다. 노아의 기대가 현실이 되었습니다.",
+        "points": [
+          "하나님의 약속은 확실히 이루어집니다",
+          "기다림의 보상은 기쁨입니다",
+          "눈으로 확인하는 순간의 감격입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 방주 덮개를 열어 직접 확인했을까요?",
+      "answer": "비둘기가 돌아오지 않았지만, 노아는 신중한 사람이었어요. 정말로 밖이 안전한지 자기 눈으로 직접 확인하고 싶었던 거예요. 하나님을 믿었지만, 하나님이 주신 지혜로 조심스럽게 행동한 거죠. 마치 우리가 엄마가 '밖에 비 그쳤어' 라고 말씀하셔도 창문을 열어 직접 확인하는 것처럼요. 노아가 덮개를 열고 보니, 정말로 땅이 말라있었어요! '와, 정말이다!' 하고 감격했을 거예요. 1년 넘게 방주 안에만 있다가 처음으로 밖 세상을 본 거니까, 정말 기뻤을 거예요.",
+      "bibleReferences": [
+        "요한복음 20:27 - '도마에게 이르시되 네 손가락을 이리 내밀어 내 손을 보고 네 손을 내밀어 내 옆구리에 넣어 보라 그리하여 믿음 없는 자가 되지 말고 믿는 자가 되라'",
+        "누가복음 24:39 - '내 손과 발을 보고 나인 줄 알라 또 나를 만져 보라 영은 살과 뼈가 없으되 너희 보는 바와 같이 나는 있느니라'",
+        "잠언 14:15 - '어리석은 자는 온갖 말을 믿으나 슬기로운 자는 그의 행동을 삼가느니라'",
+        "데살로니가전서 5:21 - '모든 것을 시험하여 좋은 것을 붙들고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:13은 믿음과 확인의 균형을 보여줍니다. 노아는 하나님을 신뢰했지만, 방주 덮개를 열어 직접 확인했습니다. 이는 맹목적 믿음이 아니라 지혜로운 믿음을 보여줍니다. 601년 첫째 달 초하루라는 정확한 날짜는 이것이 신화가 아닌 역사임을 강조합니다. 땅이 '마랐다(하라브)'는 표현은 단순한 물의 증발이 아니라 완전한 회복을 의미합니다. 노아가 덮개를 열 때의 '힌네(보라)'는 1년 이상의 기다림 끝에 오는 성취의 기쁨을 나타냅니다. 이는 우리에게 인내의 끝에 오는 하나님의 신실한 보상을 보여줍니다."
+    }
+  }
+}

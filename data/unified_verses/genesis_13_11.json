@@ -1,0 +1,128 @@
+{
+  "id": "genesis_13_11",
+  "reference": "창세기 13:11",
+  "hebrew": "וַיִּבְחַר לוֹ לוֹט מִקֶּדֶם וַיִּסַּע וַיִּפָּרְדוּ אִישׁ מֵעַל אָחִיו",
+  "ipa": "vajivˈxar lo lot ʔet kol kikˈkar hajarˈden vajiˈsa lot miˈkedem vajipaˈrədu ʔiʃ meˈʕal ʔaˈxiv",
+  "koreanPronunciation": "바이브하르 로 롯 에트 콜 키카르 하야르덴 바이사 롯 미케뎀 바이파르두 이쉬 메알 아히브",
+  "modern": "이에 롯이 요단 온 들을 선택한 후 동쪽으로 떠나니, 그들이 서로 떠났습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּבְחַר",
+      "meaning": "그리고 선택하다",
+      "ipa": "vajivˈxar",
+      "korean": "바이브하르",
+      "letters": "וַ(va) + יִּ(yi) + בְחַר(vhar)",
+      "root": "ב-ח-ר (바하르)",
+      "grammar": "동사",
+      "emoji": "👈",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-choice1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#C92A2A\"/></linearGradient></defs><path d=\"M 32 12 L 24 32 L 12 32 L 32 48 L 52 32 L 40 32 Z\" fill=\"url(#lot-choice1)\" filter=\"drop-shadow(0 3px 6px rgba(201, 42, 42, 0.4))\"/><circle cx=\"32\" cy=\"48\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "לוֹ לוֹט",
+      "meaning": "자신을 위해 롯이",
+      "ipa": "lo lot",
+      "korean": "로 롯",
+      "letters": "לוֹ(lo) + לוֹט(lot)",
+      "root": "לוֹט (롯)",
+      "grammar": "명사",
+      "emoji": "🙋",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-self1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#lot-self1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"14\" ry=\"16\" fill=\"url(#lot-self1)\"/><path d=\"M 18 30 L 12 20\" stroke=\"url(#lot-self1)\" stroke-width=\"4\" stroke-linecap=\"round\"/><circle cx=\"10\" cy=\"18\" r=\"4\" fill=\"url(#lot-self1)\"/></svg>"
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "meaning": "동쪽으로부터",
+      "ipa": "miˈkedem",
+      "korean": "미케뎀",
+      "letters": "מִ(mi) + קֶּ(ke) + דֶם(dem)",
+      "root": "ק-ד-ם (카담)",
+      "grammar": "명사",
+      "emoji": "🌅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-east1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"50%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient></defs><circle cx=\"48\" cy=\"24\" r=\"14\" fill=\"url(#lot-east1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 140, 0, 0.5))\"/><line x1=\"48\" y1=\"8\" x2=\"48\" y2=\"16\"/><line x1=\"60\" y1=\"12\" x2=\"56\" y2=\"16\"/><line x1=\"64\" y1=\"24\" x2=\"56\" y2=\"24\"/><line x1=\"60\" y1=\"36\" x2=\"56\" y2=\"32\"/><g stroke=\"#FFD700\" stroke-width=\"2\"><line x1=\"48\" y1=\"8\" x2=\"48\" y2=\"16\"/><line x1=\"60\" y1=\"12\" x2=\"56\" y2=\"16\"/><line x1=\"64\" y1=\"24\" x2=\"56\" y2=\"24\"/><line x1=\"60\" y1=\"36\" x2=\"56\" y2=\"32\"/></g><path d=\"M 8 48 L 24 48\" stroke=\"#4682B4\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-east1)\"/><defs><marker id=\"lot-arrow-east1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#4682B4\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "וַיִּסַּע",
+      "meaning": "그리고 떠나다",
+      "ipa": "vajiˈsa",
+      "korean": "바이사",
+      "letters": "וַ(va) + יִּ(yi) + סַּע(sa)",
+      "root": "נ-ס-ע (나사)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-depart1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"44\" cy=\"20\" r=\"8\" fill=\"url(#lot-depart1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><ellipse cx=\"44\" cy=\"38\" rx=\"10\" ry=\"12\" fill=\"url(#lot-depart1)\"/><path d=\"M 34 50 L 30 56\" stroke=\"url(#lot-depart1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 54 50 L 58 56\" stroke=\"url(#lot-depart1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 12 32 L 56 32\" stroke=\"url(#lot-depart1)\" stroke-width=\"2\" stroke-dasharray=\"4 2\" opacity=\"0.5\"/></svg>"
+    },
+    {
+      "hebrew": "וַיִּפָּרְדוּ",
+      "meaning": "그리고 떨어지다, 분리되다",
+      "ipa": "vajipaˈrədu",
+      "korean": "바이파르두",
+      "letters": "וַ(va) + יִּ(yi) + פָּרְדוּ(par'du)",
+      "root": "פ-ר-ד (파라드)",
+      "grammar": "동사",
+      "emoji": "↔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-separate1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\"/><stop offset=\"100%\" stop-color=\"#4ECDC4\"/></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"10\" fill=\"#FF6B6B\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 107, 0.4))\"/><circle cx=\"44\" cy=\"32\" r=\"10\" fill=\"#4ECDC4\" filter=\"drop-shadow(0 2px 4px rgba(78, 205, 196, 0.4))\"/><line x1=\"20\" y1=\"32\" x2=\"8\" y2=\"32\" stroke=\"#FF6B6B\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-left1)\"/><line x1=\"44\" y1=\"32\" x2=\"56\" y2=\"32\" stroke=\"#4ECDC4\" stroke-width=\"3\" marker-end=\"url(#lot-arrow-right1)\"/><defs><marker id=\"lot-arrow-left1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"0\" refY=\"3\" orient=\"auto\"><path d=\"M 9 0 L 9 6 L 0 3 Z\" fill=\"#FF6B6B\"/></marker><marker id=\"lot-arrow-right1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#4ECDC4\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "אִישׁ מֵעַל אָחִיו",
+      "meaning": "사람이 그의 형제로부터",
+      "ipa": "ʔiʃ meˈʕal ʔaˈxiv",
+      "korean": "이쉬 메알 아히브",
+      "letters": "אִישׁ(ish) + מֵ(me) + עַל(al) + אָ(a) + חִיו(hiv)",
+      "root": "א-ח (아흐)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-brothers1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#673AB7\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#lot-brothers1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#lot-brothers1)\" filter=\"drop-shadow(0 2px 4px rgba(156, 39, 176, 0.3))\"/><ellipse cx=\"24\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#lot-brothers1)\" opacity=\"0.8\"/><ellipse cx=\"40\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#lot-brothers1)\" opacity=\"0.8\"/><path d=\"M 30 36 L 34 36\" stroke=\"#9C27B0\" stroke-width=\"2\" stroke-dasharray=\"2 2\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 11절은 롯의 선택이 실행되는 순간을 기록합니다. '선택했다'는 히브리어 '바하르'는 의도적이고 결정적인 선택을 의미합니다. 이 선택으로 아브라함과 롯은 물리적으로뿐 아니라 영적으로도 분리되었습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּבְחַר לוֹ (바이브하르 로) - 자신을 위해 선택하다",
+        "description": "'자신을 위해'라는 표현이 강조됩니다. 롯의 선택은 철저히 자기 중심적이었습니다. 그는 삼촌 아브라함을 배려하지 않고, 하나님의 뜻도 구하지 않고, 오직 자신의 이익만을 추구했습니다.",
+        "points": [
+          "자기 중심적 선택은 결국 손실로 이어집니다",
+          "아브라함은 양보했지만 더 큰 축복을 받았습니다 (13:14-17)",
+          "이기적인 선택은 하나님과의 관계를 해칩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִקֶּדֶם (미케뎀) - 동쪽으로",
+        "description": "성경에서 '동쪽으로 가다'는 종종 하나님으로부터 멀어지는 것을 상징합니다. 아담과 하와가 에덴 동쪽으로 쫓겨났고 (창 3:24), 가인도 에덴 동쪽 놋 땅으로 떠났습니다 (창 4:16). 롯도 동쪽으로 가면서 영적으로 하나님과 멀어졌습니다.",
+        "points": [
+          "동쪽은 성경에서 하나님의 임재로부터 떠남을 상징",
+          "지리적 이동이 영적 이동을 반영합니다",
+          "외적 풍요를 선택했지만 영적 빈곤으로 향했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיִּפָּרְדוּ (바이파르두) - 분리되다",
+        "description": "'파라드'는 '분리되다', '나뉘다'를 의미하는 동사입니다. 이 분리는 단순한 물리적 분리가 아니라 영적 방향의 분리였습니다. 아브라함은 가나안에 남아 하나님의 약속을 붙들었고, 롯은 소돔을 향해 갔습니다.",
+        "points": [
+          "선택은 결국 분리를 가져옵니다",
+          "세상과 하나님을 동시에 섬길 수 없습니다 (마 6:24)",
+          "물리적 분리 이상의 영적 방향의 차이"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "아브라함과 롯은 왜 서로 헤어졌나요?",
+      "answer": "롯이 자기가 보기에 좋은 요단 평야를 선택하고 그곳으로 떠났기 때문이에요. 삼촌 아브라함은 롯에게 먼저 선택하라고 양보했는데, 롯은 제일 좋아 보이는 곳을 골랐어요. 그래서 롯은 동쪽 요단 평야로 갔고, 아브라함은 가나안 땅에 남게 되었답니다. 때로는 우리의 선택이 사랑하는 사람과의 이별을 가져올 수 있어요.",
+      "bibleReferences": [
+        "창세기 13:9 - '네 앞에 온 땅이 있지 아니하냐 나를 떠나가라'",
+        "야고보서 4:4 - '세상과 벗된 것이 하나님과 원수 됨을 알지 못하느냐'",
+        "마태복음 6:24 - '한 사람이 두 주인을 섬기지 못할 것이니'",
+        "요한일서 2:15 - '이 세상이나 세상에 있는 것들을 사랑하지 말라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "롯의 선택은 자기 중심적 결정의 위험성을 경고합니다. 외적 풍요와 이익만을 추구하는 선택은 결국 하나님과의 분리, 영적 공동체로부터의 이탈로 이어집니다. 반면 아브라함의 양보는 더 큰 축복을 가져왔습니다. 하나님 나라에서는 자기를 낮추는 자가 높아지고, 양보하는 자가 더 큰 것을 얻습니다 (마 5:5, 빌 2:3-11)."
+    }
+  }
+}

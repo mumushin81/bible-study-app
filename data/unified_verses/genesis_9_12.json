@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_12",
+  "reference": "창세기 9:12",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים, זֹאת אוֹת-הַבְּרִית אֲשֶׁר-אֲנִי נֹתֵן, בֵּינִי וּבֵינֵיכֶם, וּבֵין כָּל-נֶפֶשׁ חַיָּה, אֲשֶׁר אִתְּכֶם--לְדֹרֹת, עוֹלָם.",
+  "ipa": "vajˈjomɛr ʔɛloˈhim zoʔt ʔot habəˈrit ʔaˈʃɛr ʔaˈni noˈten beni uveˈneχɛm uven kol ˈnɛpɛʃ χaˈja ʔaˈʃɛr ʔitəˈχɛm lədoˈrot ʔoˈlam",
+  "koreanPronunciation": "바요메르 엘로힘 조트 오트 하베리트 아쉐르 아니 노텐 베니 우베네켐 우벤 콜 네페쉬 하야 아쉐르 이테켐 레도로트 올람",
+  "modern": "하나님이 이르시되 내가 나와 너희와 및 너희와 함께 하는 모든 생물 사이에 대대로 영원히 세우는 언약의 증거는 이것이라",
+  "words": [
+    {
+      "hebrew": "זֹאת",
+      "meaning": "이것",
+      "ipa": "zoʔt",
+      "korean": "조트",
+      "letters": "זֹ(zo) + את(t)",
+      "root": "זֶה (제)",
+      "grammar": "지시대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"this\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#this)\" filter=\"drop-shadow(0 4px 8px rgba(255, 215, 0, 0.5))\" /><path d=\"M 32 20 L 32 32 L 38 38\" stroke=\"#FF6347\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것-남성)",
+        "הִנֵּה (힌네 - 보라)"
+      ]
+    },
+    {
+      "hebrew": "אוֹת",
+      "meaning": "표시, 증거",
+      "ipa": "ʔot",
+      "korean": "오트",
+      "letters": "אוֹ(o) + ת(t)",
+      "root": "א-ו-ת (아우트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sign\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"40\" height=\"40\" rx=\"4\" fill=\"url(#sign)\" stroke=\"#FF6347\" stroke-width=\"3\" /><path d=\"M 24 32 L 32 40 L 48 24\" stroke=\"#FFFFFF\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "אוֹתוֹת (오토트 - 표징들)",
+        "מוֹפֵת (모페트 - 기적)"
+      ]
+    },
+    {
+      "hebrew": "הַבְּרִית",
+      "meaning": "그 언약",
+      "ipa": "habəˈrit",
+      "korean": "하베리트",
+      "letters": "הַ(ha) + בְּ(be) + רִית(rit)",
+      "root": "בְּרִית (베리트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant_doc\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"32\" rx=\"3\" fill=\"url(#covenant_doc)\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"28\" x2=\"44\" y2=\"28\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"34\" x2=\"44\" y2=\"34\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"40\" x2=\"44\" y2=\"40\" stroke=\"#8B4513\" stroke-width=\"2\" /><line x1=\"20\" y1=\"46\" x2=\"36\" y2=\"46\" stroke=\"#8B4513\" stroke-width=\"2\" /><circle cx=\"48\" cy=\"16\" r=\"6\" fill=\"#DC143C\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "בְּרִית (베리트 - 언약)",
+        "עֵדוּת (에두트 - 증거)"
+      ]
+    },
+    {
+      "hebrew": "נֹתֵן",
+      "meaning": "주는",
+      "ipa": "noˈten",
+      "korean": "노텐",
+      "letters": "נֹ(no) + תֵן(ten)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "분사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"giving\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><path d=\"M 20 28 L 16 32 L 16 48 L 20 52 L 28 52 L 32 48 L 32 32 L 28 28 Z\" fill=\"#FFE4B5\" stroke=\"#CD853F\" stroke-width=\"2\" /><path d=\"M 32 32 L 56 32\" stroke=\"url(#giving)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#giving)\" opacity=\"0.6\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"url(#giving)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נָתַן (나탄 - 주다)",
+        "מַתָּנָה (마타나 - 선물)"
+      ]
+    },
+    {
+      "hebrew": "בֵּינִי",
+      "meaning": "나 사이에",
+      "ipa": "beni",
+      "korean": "베니",
+      "letters": "בֵּ(be) + ינִי(ni)",
+      "root": "בֵּין (벤)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"between\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"12\" fill=\"url(#between)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"32\" r=\"12\" fill=\"url(#between)\" opacity=\"0.7\" /><line x1=\"28\" y1=\"32\" x2=\"36\" y2=\"32\" stroke=\"#FFD700\" stroke-width=\"6\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "בֵּין (벤 - ~사이에)",
+        "תָּוֶךְ (타베크 - 가운데)"
+      ]
+    },
+    {
+      "hebrew": "לְדֹרֹת",
+      "meaning": "대대로",
+      "ipa": "lədoˈrot",
+      "korean": "레도로트",
+      "letters": "לְ(le) + דֹ(do) + רֹת(rot)",
+      "root": "דּוֹר (도르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"generations\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D3D3D3\" /><stop offset=\"50%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient></defs><circle cx=\"16\" cy=\"20\" r=\"6\" fill=\"url(#generations)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#generations)\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"44\" r=\"10\" fill=\"url(#generations)\" /><line x1=\"20\" y1=\"24\" x2=\"28\" y2=\"28\" stroke=\"#FFD700\" stroke-width=\"2\" /><line x1=\"36\" y1=\"36\" x2=\"44\" y2=\"40\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "דּוֹר (도르 - 세대)",
+        "תּוֹלְדוֹת (톨도트 - 족보)"
+      ]
+    },
+    {
+      "hebrew": "עוֹלָם",
+      "meaning": "영원",
+      "ipa": "ʔoˈlam",
+      "korean": "올람",
+      "letters": "עוֹ(o) + לָם(lam)",
+      "root": "ע-ל-ם (알람)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"eternal\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#eternal)\" stroke-width=\"6\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"none\" stroke=\"url(#eternal)\" stroke-width=\"4\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#eternal)\" opacity=\"0.5\" /><path d=\"M 32 8 L 32 12\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 32 52 L 32 56\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עַד (아드 - ~까지)",
+        "נֶצַח (네차흐 - 영원)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 언약의 '표시'(오트)를 주시겠다고 선언하십니다. 언약은 보이지 않는 약속이지만, 표시는 보이는 증거입니다. 이 표시는 '나와 너희 사이에' 있어, 관계를 상징하며, '대대로 영원히' 지속됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "זֹאת אוֹת-הַבְּרִית (조트 오트 하베리트) - 이것이 언약의 표시",
+        "description": "'오트'(표시)는 단순한 상징이 아니라 언약의 보증입니다. 할례가 아브라함 언약의 표시(창 17:11)이고, 안식일이 시내산 언약의 표시(출 31:13)인 것처럼, 무지개는 노아 언약의 표시입니다.",
+        "points": [
+          "하나님은 보이는 표시로 언약을 확증하십니다",
+          "표시는 언약을 기억하게 하는 도구입니다",
+          "하나님은 우리의 연약함을 아시고 감각적 증거를 주십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אֲשֶׁר-אֲנִי נֹתֵן (아쉐르 아니 노텐) - 내가 주는",
+        "description": "현재 분사 '노텐'(주는)은 지속적 행위를 나타냅니다. 하나님은 한 번 주시고 끝나는 것이 아니라, 계속해서 표시를 제공하십니다. 무지개는 비 올 때마다 나타나 언약을 상기시킵니다.",
+        "points": [
+          "하나님의 은혜는 일회적이 아니라 계속적입니다",
+          "표시는 반복되어 언약을 지속적으로 확인합니다",
+          "하나님은 우리가 잊지 않도록 배려하십니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בֵּינִי וּבֵינֵיכֶם (베니 우베네켐) - 나와 너희 사이에",
+        "description": "'사이에'(벤)라는 표현이 세 번 반복됩니다: 나와 너희, 너희와 모든 생물. 언약은 관계적이며, 표시는 이 관계를 보여줍니다. 무지개는 하늘(하나님)과 땅(인간) 사이에 있습니다.",
+        "points": [
+          "언약은 하나님과 피조물의 관계를 확립합니다",
+          "표시는 관계의 상징입니다",
+          "무지개의 위치(하늘과 땅 사이)는 의미심장합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "לְדֹרֹת, עוֹלָם (레도로트 올람) - 대대로 영원히",
+        "description": "'도로트'(세대들)와 '올람'(영원)이 함께 쓰여 시간의 전 영역을 포괄합니다. 이 언약은 시간의 제약을 받지 않습니다. 노아 시대뿐 아니라 우리 시대에도, 미래 세대에도 유효합니다.",
+        "points": [
+          "하나님의 언약은 영원합니다",
+          "각 세대는 동일한 언약의 수혜자입니다",
+          "하나님의 신실하심은 변하지 않습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 언약의 표시가 필요하다고 생각하셨을까요?",
+      "answer": "하나님은 우리가 약속을 쉽게 잊어버린다는 것을 아시기 때문이에요. 만약 엄마가 '아이스크림 사줄게'라고만 말하면 가끔 잊을 수도 있잖아요. 하지만 냉장고에 아이스크림 쿠폰을 붙여놓으면, 볼 때마다 '아, 엄마가 약속했지!'라고 기억하게 되죠. 무지개도 마찬가지예요. 비가 오고 나서 무지개를 볼 때마다, 우리는 '아, 하나님이 다시는 홍수로 세상을 멸하지 않겠다고 약속하셨지!'라고 기억할 수 있어요. 무지개는 하나님의 사랑의 편지 같은 거랍니다!",
+      "bibleReferences": [
+        "출애굽기 31:13 - '너는 이스라엘 자손에게 말하여 이르기를 너희는 나의 안식일을 지키라 이는 나와 너희 사이에 대대로 표징이니'",
+        "창세기 17:11 - '너희는 포피를 베어라 이것이 나와 너희 사이의 언약의 표징이니라'",
+        "에스겔 20:12 - '내가 또 그들을 거룩하게 하는 여호와인 줄 알게 하려 하여 내 안식일을 주어 그들과 나 사이에 표징을 삼았노라'",
+        "로마서 4:11 - '그가 할례의 표를 받은 것은 무할례시에 믿음으로 된 의를 인친 것이니'",
+        "고린도전서 11:24-25 - '이것은 너희를 위하는 내 몸이니 이것을 행하여 나를 기념하라 하시고... 이 잔은 내 피로 세운 새 언약이니 이것을 행하여 마실 때마다 나를 기념하라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:12는 언약 신학에서 '표시'(sign)의 중요성을 보여줍니다. 하나님은 보이지 않는 약속을 보이는 표시로 확증하십니다. 이는 우리의 연약한 믿음을 배려하신 은혜입니다. 무지개는 할례(아브라함 언약), 안식일(모세 언약), 성찬(새 언약)과 같은 언약 표시의 원형입니다. 중요한 것은, 표시 자체가 능력이 있는 것이 아니라, 표시가 가리키는 언약과 그 언약을 주신 하나님이 중요하다는 것입니다. 무지개를 볼 때마다 우리는 하나님의 신실하심, 긍휼하심, 그리고 창조 세계에 대한 사랑을 기억해야 합니다. '대대로 영원히'라는 표현은 이 언약이 시간을 초월한다는 것을 강조하며, 우리 역시 이 영원한 언약의 수혜자임을 확인합니다."
+    }
+  }
+}

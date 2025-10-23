@@ -1,0 +1,136 @@
+{
+  "id": "genesis_13_2",
+  "reference": "창세기 13:2",
+  "hebrew": "וְאַבְרָם כָּבֵד מְאֹד בַּמִּקְנֶה בַּכֶּסֶף וּבַזָּהָב",
+  "ipa": "vəʔavˈram kaˈvɛd məˈʔod bamikˈne baxˈɛsɛf uvazaˈhav",
+  "koreanPronunciation": "베아브람 카베드 메오드 바미크네 바케세프 우바자하브",
+  "modern": "아브람은 가축과 은과 금이 매우 풍부하여 부유했습니다",
+  "words": [
+    {
+      "hebrew": "וְאַבְרָם",
+      "meaning": "그리고 아브람은",
+      "ipa": "vəʔavˈram",
+      "korean": "베아브람",
+      "letters": "וְ(ve) + אַ(av) + בְ(be) + רָם(ram)",
+      "root": "אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-wealthy-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"abram-richness-gen13-2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#abram-richness-gen13-2)\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"26\" rx=\"12\" ry=\"14\" fill=\"url(#abram-wealthy-gen13-2)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"22\" y=\"36\" width=\"20\" height=\"22\" rx=\"2\" fill=\"url(#abram-wealthy-gen13-2)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#8B4513\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#8B4513\" /><path d=\"M 26 16 Q 32 12 38 16\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"22\" cy=\"48\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"42\" cy=\"48\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "כָּבֵד מְאֹד",
+      "meaning": "매우 부유하다",
+      "ipa": "kaˈvɛd məˈʔod",
+      "korean": "카베드 메오드",
+      "letters": "כָּ(ka) + בֵד(ved) + מְ(me) + אֹד(od)",
+      "root": "כָּבֵד (카베드) + מְאֹד (메오드)",
+      "grammar": "형용사",
+      "emoji": "💎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"heavy-wealth-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9b59b6\" /><stop offset=\"50%\" stop-color=\"#8e44ad\" /><stop offset=\"100%\" stop-color=\"#6c3483\" /></linearGradient><radialGradient id=\"heavy-shine-gen13-2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"70%\" stop-color=\"#9b59b6\" opacity=\"0.3\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"rgba(155, 89, 182, 0.2)\" /><path d=\"M 32 16 L 42 28 L 38 44 L 26 44 L 22 28 Z\" fill=\"url(#heavy-wealth-gen13-2)\" filter=\"drop-shadow(2px 4px 8px rgba(0, 0, 0, 0.4))\" /><path d=\"M 32 16 L 28 28 L 32 36 L 36 28 Z\" fill=\"url(#heavy-shine-gen13-2)\" /><circle cx=\"32\" cy=\"24\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "כָּבֵד (카베드 - 무겁다, 부유하다)",
+        "כָּבוֹד (카보드 - 영광, 무게)"
+      ]
+    },
+    {
+      "hebrew": "בַּמִּקְנֶה",
+      "meaning": "가축으로",
+      "ipa": "bamikˈne",
+      "korean": "바미크네",
+      "letters": "בַּ(ba) + מִּ(mi) + קְ(ke) + נֶה(neh)",
+      "root": "בְּ (베) + מִקְנֶה (미크네)",
+      "grammar": "명사",
+      "emoji": "🐑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"livestock-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f1c40f\" /><stop offset=\"100%\" stop-color=\"#f39c12\" /></linearGradient><linearGradient id=\"livestock-body-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ecf0f1\" /><stop offset=\"100%\" stop-color=\"#bdc3c7\" /></linearGradient></defs><ellipse cx=\"20\" cy=\"36\" rx=\"10\" ry=\"12\" fill=\"url(#livestock-body-gen13-2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"20\" cy=\"24\" r=\"8\" fill=\"url(#livestock-body-gen13-2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"44\" cy=\"38\" rx=\"12\" ry=\"14\" fill=\"url(#livestock-gen13-2)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"26\" r=\"10\" fill=\"url(#livestock-gen13-2)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"18\" cy=\"23\" r=\"2\" fill=\"#2c3e50\" /><circle cx=\"42\" cy=\"25\" r=\"2\" fill=\"#2c3e50\" /><path d=\"M 16 48 Q 18 52 20 48 Q 22 52 24 48\" stroke=\"#95a5a6\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 40 52 Q 42 56 44 52 Q 46 56 48 52\" stroke=\"#d35400\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "מִקְנֶה (미크네 - 가축, 소떼)",
+        "קָנָה (카나 - 사다, 얻다)"
+      ]
+    },
+    {
+      "hebrew": "בַּכֶּסֶף",
+      "meaning": "은으로",
+      "ipa": "baxˈɛsɛf",
+      "korean": "바케세프",
+      "letters": "בַּ(ba) + כֶּ(ke) + סֶף(sef)",
+      "root": "בְּ (베) + כֶּסֶף (케세프)",
+      "grammar": "명사",
+      "emoji": "🪙",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"silver-coin-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#d0d0d0\" /><stop offset=\"50%\" stop-color=\"#c0c0c0\" /><stop offset=\"100%\" stop-color=\"#a8a8a8\" /></linearGradient><radialGradient id=\"silver-shine-gen13-2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"70%\" stop-color=\"#c0c0c0\" opacity=\"0.5\" /></radialGradient></defs><circle cx=\"24\" cy=\"28\" r=\"12\" fill=\"url(#silver-coin-gen13-2)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"40\" cy=\"36\" r=\"14\" fill=\"url(#silver-coin-gen13-2)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"44\" r=\"10\" fill=\"url(#silver-coin-gen13-2)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"28\" r=\"12\" fill=\"url(#silver-shine-gen13-2)\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"36\" r=\"14\" fill=\"url(#silver-shine-gen13-2)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"44\" r=\"10\" fill=\"url(#silver-shine-gen13-2)\" opacity=\"0.6\" /><text x=\"24\" y=\"32\" font-family=\"Arial\" font-size=\"10\" fill=\"#7f8c8d\" text-anchor=\"middle\">$</text><text x=\"40\" y=\"40\" font-family=\"Arial\" font-size=\"12\" fill=\"#7f8c8d\" text-anchor=\"middle\">$</text></svg>",
+      "relatedWords": [
+        "כֶּסֶף (케세프 - 은, 돈)",
+        "כָּסַף (카사프 - 갈망하다)"
+      ]
+    },
+    {
+      "hebrew": "וּבַזָּהָב",
+      "meaning": "그리고 금으로",
+      "ipa": "uvazaˈhav",
+      "korean": "우바자하브",
+      "letters": "וּ(u) + בַ(ba) + זָּ(za) + הָב(hav)",
+      "root": "וְ (베) + בְּ (베) + זָהָב (자하브)",
+      "grammar": "명사",
+      "emoji": "👑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gold-treasure-gen13-2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"gold-radiance-gen13-2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"60%\" stop-color=\"#FFD700\" opacity=\"0.4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#gold-radiance-gen13-2)\" opacity=\"0.3\" /><circle cx=\"28\" cy=\"30\" r=\"10\" fill=\"url(#gold-treasure-gen13-2)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"42\" cy=\"34\" r=\"12\" fill=\"url(#gold-treasure-gen13-2)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"34\" cy=\"46\" r=\"9\" fill=\"url(#gold-treasure-gen13-2)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"30\" r=\"10\" fill=\"url(#gold-radiance-gen13-2)\" opacity=\"0.5\" /><circle cx=\"42\" cy=\"34\" r=\"12\" fill=\"url(#gold-radiance-gen13-2)\" opacity=\"0.5\" /><path d=\"M 20 18 L 24 14 L 28 18 L 26 22 L 22 22 Z\" fill=\"url(#gold-treasure-gen13-2)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"16\" r=\"2\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.6))\" /></svg>",
+      "relatedWords": [
+        "זָהָב (자하브 - 금)",
+        "זֹהַב (조하브 - 빛나는 것)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 2절은 아브람의 물질적 풍요를 묘사합니다. 애굽에서 돌아온 아브람은 가축과 은과 금이 매우 많아 부유했습니다. 이 부는 애굽에서 얻은 것으로 보이지만, 궁극적으로는 하나님의 축복의 결과입니다. 그러나 이 물질적 풍요는 곧 아브람과 롯 사이의 갈등을 일으키는 원인이 되기도 합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּבֵד מְאֹד (카베드 메오드) - 매우 무겁다, 부유하다",
+        "description": "\"카베드\"는 원래 \"무겁다\"는 뜻이지만, 부와 영광을 표현할 때 사용됩니다. \"메오드\"는 \"매우\"라는 강조어로, 아브람의 부가 단순히 많은 정도가 아니라 극도로 풍부했음을 나타냅니다. 히브리어에서 \"무게\"는 중요성과 가치를 상징합니다.",
+        "points": [
+          "물질적 부는 하나님의 축복의 한 형태일 수 있습니다",
+          "\"카보드(영광)\"와 같은 어근에서, 무게는 중요성을 의미합니다",
+          "아브람의 부는 하나님의 약속(\"내가 너를 큰 민족으로 만들겠다\")의 시작이었습니다",
+          "그러나 부 자체가 목적이 아니라, 하나님의 나라를 위한 도구입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בַּמִּקְנֶה בַּכֶּסֶף וּבַזָּהָב (바미크네 바케세프 우바자하브) - 가축과 은과 금으로",
+        "description": "아브람의 부는 세 가지 범주로 구성됩니다: 가축(생산 수단), 은(거래 수단), 금(저장 가치). 이는 고대 근동에서 부를 측정하는 전형적인 방식이었으며, 아브람이 모든 종류의 재산을 풍부하게 가졌음을 보여줍니다.",
+        "points": [
+          "가축은 식량과 의복을 제공하는 생명의 원천이었습니다",
+          "은은 거래와 교환의 수단으로, 경제적 영향력을 의미했습니다",
+          "금은 가치 저장 수단이자 왕과 귀족의 상징이었습니다",
+          "아브람의 부는 다각화되어 있어 안정적이고 지속 가능했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּרָכָה וְנִסָּיוֹן (브라카 베니사욘) - 축복과 시험",
+        "description": "아브람의 부는 하나님의 축복이지만, 동시에 시험과 책임을 동반합니다. 다음 장에서 아브람과 롯의 목자들 사이에 갈등이 일어나는 것은 이 풍요로움 때문입니다. 부는 축복이지만, 지혜롭게 관리하지 않으면 분쟁의 원인이 될 수 있습니다.",
+        "points": [
+          "물질적 축복은 하나님의 은혜이지만, 청지기적 책임을 요구합니다",
+          "아브람의 부는 후에 롯과의 분리를 야기하는 간접적 원인이 됩니다",
+          "부 자체는 선하지도 악하지도 않지만, 우리의 마음가짐이 중요합니다",
+          "디모데전서 6:10 - \"돈을 사랑함이 일만 악의 뿌리\""
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 그렇게 많은 재물을 가지게 되었을까요?",
+      "answer": "하나님께서 아브람을 축복하셨기 때문이에요. 하나님은 아브람에게 \"너를 큰 민족으로 만들고 축복하겠다\"고 약속하셨어요. 마치 우리 부모님이 우리를 사랑해서 좋은 것을 주시는 것처럼, 하나님도 아브람을 사랑하셔서 많은 것을 주셨답니다. 하지만 하나님이 주신 것들은 아브람 혼자만 즐기라고 준 게 아니라, 다른 사람들을 돕고 하나님의 일을 하는 데 사용하라고 주신 거예요.",
+      "bibleReferences": [
+        "창세기 12:2 - \"내가 너로 큰 민족을 이루고 네게 복을 주어 네 이름을 창대하게 하리니\"",
+        "잠언 10:22 - \"여호와께서 복을 주시므로 사람이 부하게 되나니 근심을 겸하여 주지 아니하시느니라\"",
+        "신명기 8:18 - \"네 하나님 여호와를 기억하라 그가 네게 재물 얻을 능력을 주셨음이라\"",
+        "누가복음 12:48 - \"무릇 많이 받은 자에게는 많이 요구할 것이요\""
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 부는 하나님의 신실하심과 약속 성취의 증거입니다. 하나님은 아브람을 축복하겠다고 약속하셨고, 그 약속을 지키셨습니다. 그러나 진정한 축복은 물질 자체가 아니라, 그것을 주신 하나님과의 관계입니다. 아브람의 부는 하나님의 나라를 세우고 다른 이들을 축복하는 도구로 사용되어야 했습니다. 오늘날 우리도 물질적 축복을 받을 때, 그것이 우상이 되지 않도록 주의하고, 하나님의 영광과 이웃 사랑을 위해 사용해야 합니다."
+    }
+  }
+}

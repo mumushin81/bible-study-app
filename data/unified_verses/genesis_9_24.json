@@ -1,0 +1,199 @@
+{
+  "id": "genesis_9_24",
+  "reference": "창세기 9:24",
+  "hebrew": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה לוֹ בְּנוֹ הַקָּטָן",
+  "ipa": "vajːiːqɛts nɔːaχ miːjeːnoː vajːeːdaʕ ʔet ʔaʃɛr ʕaːsaː loː bənoː haqːaːtːaːn",
+  "koreanPronunciation": "바이케츠 노아흐 미예노 바예다 에트 아쉐르 아사 로 베노 하카탄",
+  "modern": "노아가 술이 깨어 그의 작은 아들이 자기에게 한 일을 알게 되었다",
+  "words": [
+    {
+      "hebrew": "וַיִּיקֶץ",
+      "meaning": "그리고 그가 깨어났다",
+      "ipa": "vajːiːqɛts",
+      "korean": "바이케츠",
+      "letters": "וַ(va) + יִּי(yi) + קֶץ(qetz)",
+      "root": "יָקַץ (야카츠)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"awake_vayiketz\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#awake_vayiketz)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 24 28 L 28 24 L 32 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 28 L 40 24 L 32 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"28\" cy=\"32\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"36\" cy=\"32\" r=\"2\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "יָקַץ (야카츠 - 깨다, 일어나다)",
+        "עוּר (우르 - 깨어나다)"
+      ]
+    },
+    {
+      "hebrew": "נֹחַ",
+      "meaning": "노아",
+      "ipa": "nɔːaχ",
+      "korean": "노아흐",
+      "letters": "נֹ(no) + חַ(ach)",
+      "root": "נוּחַ (누아흐)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah_noach2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"12\" fill=\"#0288D1\" opacity=\"0.6\" /><rect x=\"20\" y=\"24\" width=\"24\" height=\"24\" fill=\"url(#noah_noach2)\" opacity=\"0.8\" /><path d=\"M 20 24 L 32 12 L 44 24 Z\" fill=\"#A1887F\" opacity=\"0.9\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#3E2723\" opacity=\"0.8\" /><rect x=\"24\" y=\"28\" width=\"6\" height=\"6\" fill=\"#4FC3F7\" opacity=\"0.7\" /><rect x=\"34\" y=\"28\" width=\"6\" height=\"6\" fill=\"#4FC3F7\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식, 평안)"
+      ]
+    },
+    {
+      "hebrew": "מִיֵּינוֹ",
+      "meaning": "그의 포도주로부터",
+      "ipa": "miːjeːnoː",
+      "korean": "미예노",
+      "letters": "מִ(mi) + יֵּי(yei) + נוֹ(no)",
+      "root": "יַיִן (야인)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hiswine_miyeino\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8E24AA\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></linearGradient></defs><path d=\"M 28 12 L 28 24 Q 28 32 32 36 Q 36 32 36 24 L 36 12 Z\" fill=\"url(#hiswine_miyeino)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"12\" rx=\"4\" ry=\"2\" fill=\"url(#hiswine_miyeino)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"36\" rx=\"8\" ry=\"4\" fill=\"url(#hiswine_miyeino)\" opacity=\"0.9\" /><path d=\"M 32 36 L 32 52\" stroke=\"url(#hiswine_miyeino)\" stroke-width=\"2\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"url(#hiswine_miyeino)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "יַיִן (야인 - 포도주)",
+        "תִּירוֹשׁ (티로쉬 - 새 포도주)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּדַע",
+      "meaning": "그리고 그가 알았다",
+      "ipa": "vajːeːdaʕ",
+      "korean": "바예다",
+      "letters": "וַ(va) + יֵּ(ye) + דַע(da)",
+      "root": "יָדַע (야다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"know_vayeda\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#know_vayeda)\" opacity=\"0.8\" /><path d=\"M 32 22 L 32 32 L 38 38\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"20\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יָדַע (야다 - 알다)",
+        "דַּעַת (다아트 - 지식)"
+      ]
+    },
+    {
+      "hebrew": "אֵת",
+      "meaning": "~을/를",
+      "ipa": "ʔet",
+      "korean": "에트",
+      "letters": "אֵ(e) + ת(t)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"et_marker\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient></defs><rect x=\"8\" y=\"28\" width=\"38\" height=\"8\" rx=\"4\" fill=\"url(#et_marker)\" opacity=\"0.8\" /><path d=\"M 42 32 L 56 32 L 48 20 Z\" fill=\"url(#et_marker)\" /><path d=\"M 42 32 L 56 32 L 48 44 Z\" fill=\"url(#et_marker)\" /></svg>",
+      "relatedWords": [
+        "אוֹת (오트 - 표징)",
+        "עִם (임 - ~와 함께)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר־עָשָׂה",
+      "meaning": "한 것",
+      "ipa": "ʔaʃɛr ʕaːsaː",
+      "korean": "아쉐르 아사",
+      "letters": "אֲשֶׁר(asher) + עָשָׂה(asah)",
+      "root": "עָשָׂה (아사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"did_asherasah\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><path d=\"M 24 44 L 32 32 L 40 44\" stroke=\"url(#did_asherasah)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#did_asherasah)\" opacity=\"0.8\" /><path d=\"M 32 30 L 32 32\" stroke=\"url(#did_asherasah)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 하다, 만들다)",
+        "מַעֲשֶׂה (마아세 - 행위, 일)"
+      ]
+    },
+    {
+      "hebrew": "לוֹ",
+      "meaning": "그에게",
+      "ipa": "loː",
+      "korean": "로",
+      "letters": "לוֹ(lo)",
+      "root": "לְ (레)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tohim_lo\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><path d=\"M 16 32 L 48 32\" stroke=\"url(#tohim_lo)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><path d=\"M 40 24 L 48 32 L 40 40\" stroke=\"url(#tohim_lo)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "לְ (레 - ~에게)",
+        "אֵלָיו (엘라브 - 그에게로)"
+      ]
+    },
+    {
+      "hebrew": "בְּנוֹ",
+      "meaning": "그의 아들",
+      "ipa": "bənoː",
+      "korean": "베노",
+      "letters": "בְּ(be) + נוֹ(no)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hisson_beno\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#hisson_beno)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#hisson_beno)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "הַקָּטָן",
+      "meaning": "작은 자",
+      "ipa": "haqːaːtːaːn",
+      "korean": "하카탄",
+      "letters": "הַ(ha) + קָּ(qa) + טָן(tan)",
+      "root": "קָטָן (카탄)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"younger_hakatan\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><circle cx=\"24\" cy=\"36\" r=\"6\" fill=\"url(#younger_hakatan)\" opacity=\"0.6\" /><ellipse cx=\"24\" cy=\"48\" rx=\"8\" ry=\"8\" fill=\"url(#younger_hakatan)\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"28\" r=\"10\" fill=\"url(#younger_hakatan)\" opacity=\"0.9\" /><ellipse cx=\"40\" cy=\"48\" rx=\"14\" ry=\"12\" fill=\"url(#younger_hakatan)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "קָטָן (카탄 - 작은, 어린)",
+        "צָעִיר (차이르 - 젊은)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "노아가 술에서 깨어 자신에게 일어난 일을 알게 되는 구절입니다. '작은 아들'이 누구인지에 대해서는 해석이 다양하지만, 일반적으로 함을 가리키는 것으로 이해됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּיקֶץ נֹחַ מִיֵּינוֹ (바이케츠 노아흐 미예노) - 노아가 술에서 깨다",
+        "description": "'야카츠'(깨다)는 잠에서 깨어나는 것뿐 아니라 영적, 도덕적 각성을 의미할 수도 있습니다. 노아는 육체적으로나 정신적으로 깨어나 현실을 직시하게 됩니다.",
+        "points": [
+          "취함에서 깨어나는 것은 현실을 직면하는 것입니다",
+          "죄의 결과는 결국 드러나게 됩니다",
+          "하나님은 우리를 깨워 진실을 보게 하십니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיֵּדַע אֵת אֲשֶׁר־עָשָׂה לוֹ בְּנוֹ (바예다 에트 아쉐르 아사 로 베노) - 아들이 자기에게 한 일을 알다",
+        "description": "노아는 어떻게 알게 되었을까요? 아마도 셈과 야벳이 존경스럽게 알렸거나, 다른 방법으로 알게 되었을 것입니다. 중요한 것은 진실이 드러났다는 사실입니다.",
+        "points": [
+          "숨겨진 일도 결국 드러납니다",
+          "하나님은 진실을 알게 하십니다",
+          "부모는 자녀의 행동을 분별할 수 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בְּנוֹ הַקָּטָן (베노 하카탄) - 그의 작은 아들",
+        "description": "'카탄'은 '작은', '어린', '막내'를 의미합니다. 창세기 10:6에서 함은 노아의 둘째 아들로 나오므로, 여기서 '작은 아들'은 '나쁜 행동을 한 아들' 또는 '하찮은 행동을 한 아들'을 의미할 수 있습니다. 일부 학자들은 가나안을 가리킨다고 해석하기도 합니다.",
+        "points": [
+          "'작은'은 나이뿐 아니라 행동의 질을 의미할 수 있습니다",
+          "불경한 행동은 사람을 '작게' 만듭니다",
+          "존경과 사랑이 사람을 '크게' 만듭니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "깨달음과 심판",
+        "description": "노아가 진실을 알게 된 것은 다음 구절(25절)의 예언적 선언과 저주로 이어집니다. 이는 죄에 대한 하나님의 심판이 공의롭고 정확하다는 것을 보여줍니다.",
+        "points": [
+          "진실에 대한 깨달음은 심판의 전제조건입니다",
+          "하나님의 심판은 사실에 기초합니다",
+          "선과 악에 대한 명확한 구분이 필요합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 노아는 깨어났을 때 화가 났을까요?",
+      "answer": "노아가 깨어났을 때 자기에게 무슨 일이 있었는지 알게 되었어요. 함이 아버지의 실수를 다른 사람들에게 말하고 조롱했다는 것을 알았을 때, 노아는 매우 슬프고 화가 났을 거예요. 노아가 화난 이유는 두 가지예요. 첫째, 자신이 술을 마시고 실수한 것에 대해 부끄러웠어요. 둘째, 아들 함이 아버지를 존경하지 않고 비웃었다는 것이 더 슬펐어요. 부모님은 자녀가 자기를 사랑하고 존경하기를 바라거든요. 하지만 셈과 야벳이 사랑으로 자기를 덮어준 것을 알았을 때는 기뻤을 거예요. 이것이 노아가 다음에 축복과 저주를 선언한 이유랍니다.",
+      "bibleReferences": [
+        "민수기 32:23 - '너희는 여호와께 죄를 지은 줄 알라 너희의 죄가 반드시 너희를 찾아낼 줄 알라'",
+        "누가복음 8:17 - '숨은 것이 장차 드러나지 아니할 것이 없고 감추인 것이 장차 알려지고 나타나지 않을 것이 없느니라'",
+        "전도서 12:14 - '하나님은 모든 행위와 모든 은밀한 일을 선악 간에 심판하시리라'",
+        "잠언 28:13 - '자기의 죄를 숨기는 자는 형통하지 못하나 죄를 자복하고 버리는 자는 불쌍히 여김을 받으리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:24는 죄와 그 결과에 대한 깨달음을 다룹니다. 노아가 술에서 깨어나는 것은 영적 각성의 상징이기도 합니다. 죄로 인해 흐려진 의식이 회복되고, 진실을 직면하게 됩니다. 이는 우리가 죄에서 돌이킬 때 경험하는 영적 각성과 유사합니다. '작은 아들'이라는 표현은 불경한 행동이 사람을 '작게' 만든다는 진리를 보여줍니다. 반대로 셈과 야벳의 존경스러운 행동은 그들을 '크게' 만들었습니다(25-27절의 축복). 이 구절은 또한 하나님의 심판이 사실에 기초한다는 것을 가르칩니다. 노아가 정확히 무슨 일이 있었는지 알게 된 후에야 예언적 선언을 하기 때문입니다. 모든 죄와 선행은 결국 드러나며(누가복음 8:17), 하나님의 공의로운 심판을 받게 됩니다."
+    }
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "id": "genesis_6_3",
+  "reference": "창세기 6:3",
+  "hebrew": "וַיֹּאמֶר יְהוָה, לֹא־יָדוֹן רוּחִי בָאָדָם לְעֹלָם, בְּשַׁגַּם, הוּא בָשָׂר; וְהָיוּ יָמָיו, מֵאָה וְעֶשְׂרִים שָׁנָה.",
+  "ipa": "vajoˈmer jehoˈva lo jaˈdon ruˈχi vaʔaˈdam leˈolam bəʃaˈgam hu vaˈsar vəhaˈju jaˈmav meˈa veʔesˈrim ʃaˈna",
+  "koreanPronunciation": "바요메르 여호와 로 야돈 루히 바아담 레올람 베샤감 후 바사르 베하유 야마브 메아 베에스림 샤나",
+  "modern": "여호와께서 말씀하셨습니다. '내 영이 사람과 영원히 함께하지는 않을 것이다. 그는 육체이기 때문이다. 그의 날들은 120년이 될 것이다'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "ipa": "vajoˈmer",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사 - 와우 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak_vayomer\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"12\" fill=\"url(#speak_vayomer)\" opacity=\"0.2\" /><path d=\"M 16 32 Q 24 24 32 32 Q 40 40 48 32\" stroke=\"url(#speak_vayomer)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "אֵמֶר (에메르 - 말씀)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와 (주님)",
+      "ipa": "jehoˈva",
+      "korean": "여호와",
+      "letters": "יְ(ye) + הוָה(hova)",
+      "root": "ה-י-ה (하야 - 존재하다)",
+      "grammar": "고유명사 - 하나님의 이름",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh_gradient\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#yhwh_gradient)\" opacity=\"0.3\" /><text x=\"32\" y=\"40\" font-family=\"Arial\" font-size=\"24\" font-weight=\"bold\" fill=\"url(#yhwh_gradient)\" text-anchor=\"middle\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֲדֹנָי (아도나이 - 주)"
+      ]
+    },
+    {
+      "hebrew": "לֹא־יָדוֹן",
+      "meaning": "함께 하지 않을 것이다, 다투지 않을 것이다",
+      "ipa": "lo jaˈdon",
+      "korean": "로 야돈",
+      "letters": "לֹא(lo) + יָ(ya) + דוֹן(don)",
+      "root": "ד-ו-ן (던 - 판단하다)",
+      "grammar": "동사 - 부정 + 미완료형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"notcontend_lo\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#notcontend_lo)\" stroke-width=\"3\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#notcontend_lo)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "דִּין (딘 - 판단, 재판)",
+        "דָּן (단 - 판사)"
+      ]
+    },
+    {
+      "hebrew": "רוּחִי",
+      "meaning": "나의 영",
+      "ipa": "ruˈχi",
+      "korean": "루히",
+      "letters": "רוּ(ru) + חִי(χi)",
+      "root": "רוּחַ (루아흐)",
+      "grammar": "명사 - 1인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"spirit_ruchi\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><path d=\"M 8 32 Q 16 24 24 32 Q 32 40 40 32 Q 48 24 56 32\" stroke=\"url(#spirit_ruchi)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"24\" cy=\"32\" r=\"2\" fill=\"url(#spirit_ruchi)\" opacity=\"0.6\" /><circle cx=\"40\" cy=\"32\" r=\"2\" fill=\"url(#spirit_ruchi)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רוּחַ (루아흐 - 영, 바람)",
+        "רוּחַ הַקֹּדֶשׁ (루아흐 하코데쉬 - 성령)"
+      ]
+    },
+    {
+      "hebrew": "בָאָדָם",
+      "meaning": "사람 안에서",
+      "ipa": "vaʔaˈdam",
+      "korean": "바아담",
+      "letters": "בָ(va) + אָדָם(adam)",
+      "root": "אָדָם (아담)",
+      "grammar": "전치사 + 명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"inadam_gradient\"><stop offset=\"0%\" stop-color=\"#F2994A\" /><stop offset=\"100%\" stop-color=\"#F2C94C\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"7\" fill=\"url(#inadam_gradient)\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"38\" rx=\"9\" ry=\"13\" fill=\"url(#inadam_gradient)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 사람)",
+        "בְּתוֹךְ (베토크 - 안에)"
+      ]
+    },
+    {
+      "hebrew": "לְעֹלָם",
+      "meaning": "영원히",
+      "ipa": "leˈolam",
+      "korean": "레올람",
+      "letters": "לְ(le) + עֹ(o) + לָם(lam)",
+      "root": "עוֹלָם (올람)",
+      "grammar": "명사 - 전치사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"forever_leolam\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#forever_leolam)\" stroke-width=\"3\" /><path d=\"M 32 12 L 32 32 L 44 20\" stroke=\"url(#forever_leolam)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"32\" cy=\"32\" r=\"2\" fill=\"url(#forever_leolam)\" /></svg>",
+      "relatedWords": [
+        "עוֹלָם (올람 - 영원, 세상)",
+        "נֶצַח (네차흐 - 영원)"
+      ]
+    },
+    {
+      "hebrew": "בְּשַׁגַּם",
+      "meaning": "~이기 때문에",
+      "ipa": "bəʃaˈgam",
+      "korean": "베샤감",
+      "letters": "בְּ(be) + שַׁ(sha) + גַּם(gam)",
+      "root": "שׁ + גַּם (쉬 + 감)",
+      "grammar": "접속사 복합형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because_beshagam\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><path d=\"M 12 32 L 28 32\" stroke=\"url(#because_beshagam)\" stroke-width=\"3\" /><path d=\"M 28 32 L 44 20\" stroke=\"url(#because_beshagam)\" stroke-width=\"3\" /><path d=\"M 28 32 L 44 44\" stroke=\"url(#because_beshagam)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "גַּם (감 - 또한)",
+        "כִּי (키 - ~이므로)"
+      ]
+    },
+    {
+      "hebrew": "הוּא",
+      "meaning": "그는",
+      "ipa": "hu",
+      "korean": "후",
+      "letters": "הוּא(hu)",
+      "root": "הוּא (후)",
+      "grammar": "대명사 - 3인칭 남성",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"he_hu\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#he_hu)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#he_hu)\" /></svg>",
+      "relatedWords": [
+        "הִיא (히 - 그녀는)",
+        "הֵם (헴 - 그들은)"
+      ]
+    },
+    {
+      "hebrew": "בָשָׂר",
+      "meaning": "육체, 고기",
+      "ipa": "vaˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂר(sar)",
+      "root": "ב-ש-ר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flesh_basar\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"24\" fill=\"url(#flesh_basar)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"26\" r=\"3\" fill=\"url(#flesh_basar)\" opacity=\"0.4\" /><circle cx=\"36\" cy=\"38\" r=\"3\" fill=\"url(#flesh_basar)\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "גּוּף (구프 - 몸)",
+        "שְׁאֵר (셰에르 - 살, 친족)"
+      ]
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "meaning": "그리고 ~될 것이다",
+      "ipa": "vəhaˈju",
+      "korean": "베하유",
+      "letters": "וְ(ve) + הָ(ha) + יוּ(yu)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사 - 연속형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"willbe_vehayu\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient></defs><path d=\"M 16 32 L 48 32\" stroke=\"url(#willbe_vehayu)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 40 24 L 48 32 L 40 40\" stroke=\"url(#willbe_vehayu)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "הָיָה (하야 - 있다)",
+        "יִהְיֶה (이흐예 - 될 것이다)"
+      ]
+    },
+    {
+      "hebrew": "יָמָיו",
+      "meaning": "그의 날들",
+      "ipa": "jaˈmav",
+      "korean": "야마브",
+      "letters": "יָ(ya) + מָ(ma) + יו(yv)",
+      "root": "יוֹם (욤)",
+      "grammar": "명사 - 복수 + 3인칭 소유",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"days_yamav\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"6\" fill=\"url(#days_yamav)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#days_yamav)\" opacity=\"0.6\" /><circle cx=\"44\" cy=\"32\" r=\"6\" fill=\"url(#days_yamav)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יוֹם (욤 - 날)",
+        "יָמִים (야밈 - 날들)"
+      ]
+    },
+    {
+      "hebrew": "מֵאָה",
+      "meaning": "백",
+      "ipa": "meˈa",
+      "korean": "메아",
+      "letters": "מֵ(me) + אָה(a)",
+      "root": "מֵאָה (메아)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hundred_meah\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#hundred_meah)\" text-anchor=\"middle\">100</text></svg>",
+      "relatedWords": [
+        "עֶשֶׂר (에세르 - 십)",
+        "אֶלֶף (엘레프 - 천)"
+      ]
+    },
+    {
+      "hebrew": "וְעֶשְׂרִים",
+      "meaning": "그리고 이십",
+      "ipa": "veʔesˈrim",
+      "korean": "베에스림",
+      "letters": "וְ(ve) + עֶ(e) + שְׂ(s) + רִים(rim)",
+      "root": "עֶשְׂרִים (에스림)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"twenty_veesrim\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient></defs><text x=\"32\" y=\"42\" font-family=\"Arial\" font-size=\"32\" font-weight=\"bold\" fill=\"url(#twenty_veesrim)\" text-anchor=\"middle\">20</text></svg>",
+      "relatedWords": [
+        "עֶשֶׂר (에세르 - 십)",
+        "שְׁלֹשִׁים (쉴로쉼 - 삼십)"
+      ]
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָה(na)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"year_shanah\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#year_shanah)\" stroke-width=\"3\" /><path d=\"M 32 32 L 32 14\" stroke=\"url(#year_shanah)\" stroke-width=\"2\" /><path d=\"M 32 32 L 48 32\" stroke=\"url(#year_shanah)\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "שָׁנִים (샤님 - 년들)",
+        "יוֹבֵל (요벨 - 희년)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님의 영이 사람과 영원히 함께하지 않을 것이라는 선언은 인간의 죄악에 대한 하나님의 인내에도 한계가 있음을 보여줍니다. 120년이라는 기간은 홍수까지의 유예 기간이거나 인간 수명의 제한을 의미할 수 있습니다.",
+    "sections": [
+      {
+        "emoji": "⏳",
+        "title": "하나님의 인내의 한계",
+        "description": "하나님은 오래 참으시지만, 영원히 참으시는 것은 아닙니다. 인간의 죄악이 극에 달하면 하나님의 심판이 임합니다.",
+        "points": [
+          "하나님의 영이 떠나심은 영적 죽음을 의미합니다",
+          "120년은 회개의 기회이자 심판까지의 유예 기간",
+          "하나님의 오래 참으심과 공의의 균형"
+        ],
+        "color": "orange"
+      },
+      {
+        "emoji": "🏃",
+        "title": "육체의 한계",
+        "description": "'그는 육체이다'라는 선언은 인간의 연약함과 죄성을 지적합니다. 영적 존재와 달리 인간은 유한하고 타락하기 쉽습니다.",
+        "points": [
+          "육체는 영과 대비되어 연약함을 나타냅니다",
+          "인간의 한계와 죄의 본성",
+          "영적 생명이 없는 육체적 존재의 공허함"
+        ],
+        "color": "red"
+      },
+      {
+        "emoji": "🔢",
+        "title": "120년의 의미",
+        "description": "이 숫자는 두 가지로 해석됩니다: (1) 홍수까지의 유예 기간 (2) 인간 수명의 새로운 제한. 두 해석 모두 하나님의 주권적 결정을 보여줍니다.",
+        "points": [
+          "노아가 방주를 짓는 기간으로 해석 가능",
+          "홍수 이후 인간 수명이 점차 감소하는 패턴",
+          "하나님이 인간의 생명을 주관하심"
+        ],
+        "color": "blue"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 120년이라고 하셨을까요?",
+      "answer": "하나님은 사람들에게 잘못을 고칠 기회를 주시려고 했어요. 120년은 아주 긴 시간이에요. 그 동안 노아 할아버지가 큰 배를 만들면서 사람들에게 '하나님이 곧 홍수를 보내실 거예요'라고 계속 말했어요. 하지만 사람들은 듣지 않았답니다. 하나님은 참고 기다리시는 분이세요.",
+      "bibleReferences": [
+        "베드로후서 3:9 - '주의 약속은 어떤 이들이 더디다고 생각하는 것 같이 더딘 것이 아니라 오직 주께서는 너희를 대하여 오래 참으사'",
+        "베드로전서 3:20 - '옛적에 노아의 날 방주를 준비할 동안 하나님이 오래 참고 기다리실 때'",
+        "로마서 2:4 - '하나님의 인자하심이 너를 인도하여 회개하게 하심을 알지 못하느냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "은혜와 심판의 균형",
+      "content": "이 구절은 하나님의 성품에서 은혜와 공의가 완벽하게 균형을 이루고 있음을 보여줍니다. 하나님은 인내하시지만 무한정 참지는 않으십니다. 120년이라는 기간은 하나님의 자비이자 경고였습니다."
+    }
+  }
+}

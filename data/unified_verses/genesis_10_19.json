@@ -1,0 +1,161 @@
+{
+  "id": "genesis_10_19",
+  "reference": "창세기 10:19",
+  "hebrew": "וַיְהִי גְּבוּל הַכְּנַעֲנִי מִצִּידֹן בֹּאֲכָה גְרָרָה עַד־עַזָּה בֹּאֲכָה סְדֹמָה וַעֲמֹרָה וְאַדְמָה וּצְבֹיִם עַד־לָשַׁע",
+  "ipa": "vajəhi gəvul hakkənaʕɑˈni mitsiˈdon boʔɑˈxɑ gərɑˈrɑ ʕad ʕɑˈzɑ boʔɑˈxɑ sədomɑ vaʕɑmoˈrɑ vəʔadmɑ utsəvoˈjim ʕad lɑˈʃaʕ",
+  "koreanPronunciation": "바예히 그불 하크나아니 미치돈 보아카 그라라 아드 아자 보아카 스도마 바아모라 베아드마 우츠보임 아드 라샤",
+  "modern": "가나안의 경계는 시돈에서부터 그랄을 지나 가사까지와 소돔과 고모라와 아드마와 스보임을 지나 라사까지였더라",
+  "words": [
+    {
+      "hebrew": "גְּבוּל",
+      "meaning": "경계, 영토",
+      "ipa": "gəvul",
+      "korean": "그불",
+      "letters": "גְּ(ge) + בוּ(vu) + ל(l)",
+      "root": "גָּבַל (가발)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"border_gevul\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"url(#border_gevul)\" stroke-width=\"4\" stroke-dasharray=\"8,4\" /><circle cx=\"8\" cy=\"8\" r=\"4\" fill=\"#E74C3C\" /><circle cx=\"56\" cy=\"8\" r=\"4\" fill=\"#E74C3C\" /><circle cx=\"56\" cy=\"56\" r=\"4\" fill=\"#E74C3C\" /><circle cx=\"8\" cy=\"56\" r=\"4\" fill=\"#E74C3C\" /></svg>",
+      "relatedWords": [
+        "גָּבַל (가발 - 경계를 정하다)",
+        "תְּחוּם (테훔 - 영역, 구역)"
+      ]
+    },
+    {
+      "hebrew": "צִידֹן",
+      "meaning": "시돈",
+      "ipa": "tsiˈdon",
+      "korean": "치돈",
+      "letters": "צִ(tsi) + י(i) + דֹ(do) + ן(n)",
+      "root": "צִידֹן (치돈)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"city_sidon\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"24\" fill=\"url(#city_sidon)\" /><path d=\"M 16 28 L 32 16 L 48 28 Z\" fill=\"url(#city_sidon)\" opacity=\"0.8\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"16\" fill=\"#34495E\" /></svg>",
+      "relatedWords": [
+        "עִיר (이르 - 도시)",
+        "נָמֵל (나멜 - 항구)"
+      ]
+    },
+    {
+      "hebrew": "גְרָרָה",
+      "meaning": "그랄",
+      "ipa": "gərɑˈrɑ",
+      "korean": "그라라",
+      "letters": "גְ(ge) + רָ(ra) + רָ(ra) + ה(h)",
+      "root": "גְּרָר (그라르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"city_gerar\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#city_gerar)\" opacity=\"0.3\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"20\" fill=\"url(#city_gerar)\" /><rect x=\"28\" y=\"24\" width=\"8\" height=\"28\" fill=\"url(#city_gerar)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "מָקוֹם (마콤 - 장소)",
+        "עִיר (이르 - 도시)"
+      ]
+    },
+    {
+      "hebrew": "עַזָּה",
+      "meaning": "가사",
+      "ipa": "ʕɑˈzɑ",
+      "korean": "아자",
+      "letters": "עַ(a) + זָּ(za) + ה(h)",
+      "root": "עַזָּה (아자)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"city_gaza\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><rect x=\"12\" y=\"32\" width=\"40\" height=\"20\" fill=\"url(#city_gaza)\" /><path d=\"M 12 32 L 32 20 L 52 32 Z\" fill=\"url(#city_gaza)\" opacity=\"0.8\" /><rect x=\"28\" y=\"38\" width=\"8\" height=\"14\" fill=\"#2C3E50\" /></svg>",
+      "relatedWords": [
+        "עָז (아즈 - 강한)",
+        "פְּלִשְׁתִּים (플리쉬팀 - 블레셋)"
+      ]
+    },
+    {
+      "hebrew": "סְדֹמָה",
+      "meaning": "소돔",
+      "ipa": "sədomɑ",
+      "korean": "스도마",
+      "letters": "סְ(se) + דֹ(do) + מָ(ma) + ה(h)",
+      "root": "סְדֹם (스돔)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fire_sodom\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"50%\" stop-color=\"#E67E22\" /><stop offset=\"100%\" stop-color=\"#F39C12\" /></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"32\" height=\"16\" fill=\"#2C3E50\" /><path d=\"M 20 36 Q 24 20 28 36 M 32 36 Q 36 16 40 36 M 44 36 Q 48 24 52 36\" stroke=\"url(#fire_sodom)\" stroke-width=\"3\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "אֵש (에쉬 - 불)",
+        "מִשְׁפָּט (미쉬파트 - 심판)"
+      ]
+    },
+    {
+      "hebrew": "עֲמֹרָה",
+      "meaning": "고모라",
+      "ipa": "ʕɑmoˈrɑ",
+      "korean": "아모라",
+      "letters": "עֲ(a) + מֹ(mo) + רָ(ra) + ה(h)",
+      "root": "עֲמֹרָה (아모라)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"fire_gomorrah\"><stop offset=\"0%\" stop-color=\"#C0392B\" /><stop offset=\"50%\" stop-color=\"#D35400\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></linearGradient></defs><rect x=\"16\" y=\"36\" width=\"32\" height=\"16\" fill=\"#34495E\" /><path d=\"M 24 36 Q 28 24 32 36 M 36 36 Q 40 20 44 36\" stroke=\"url(#fire_gomorrah)\" stroke-width=\"3\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "חֵטְא (헤트 - 죄)",
+        "כִּלָּיוֹן (킬라욘 - 멸망)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "가나안 족속의 영토 경계를 구체적으로 설명하는 구절입니다. 북쪽의 시돈에서 남쪽의 가사까지, 그리고 동쪽으로 소돔과 고모라 지역까지 펼쳐진 광대한 영토를 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "북쪽 경계: 시돈",
+        "description": "시돈은 페니키아의 주요 항구 도시로, 가나안 영토의 북쪽 경계를 나타냅니다. 뛰어난 해양 문화와 무역으로 번성했던 고대 도시입니다.",
+        "points": [
+          "지중해 연안의 중요한 항구 도시였습니다",
+          "페니키아 문명의 중심지 중 하나였습니다",
+          "자주색 염료와 유리 제조로 유명했습니다",
+          "두로와 함께 페니키아의 쌍둥이 도시로 불렸습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "서쪽 해안: 그랄과 가사",
+        "description": "그랄과 가사는 지중해 연안의 중요한 도시들입니다. 아브라함과 이삭이 거주했던 그랄, 그리고 블레셋의 주요 도시 가사가 가나안의 서쪽 경계를 이루었습니다.",
+        "points": [
+          "그랄은 아브라함과 이삭이 체류했던 곳입니다 (창세기 20장, 26장)",
+          "가사는 블레셋 오대성의 하나로 전략적 요충지였습니다",
+          "삼손과 관련된 사건들이 일어난 곳입니다 (사사기 16장)",
+          "해안 무역로의 중요한 거점이었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "동쪽 경계: 소돔과 고모라",
+        "description": "소돔과 고모라는 사해 남쪽 평야에 위치했던 도시들로, 가나안 영토의 동쪽 경계를 나타냅니다. 죄악으로 인해 멸망받은 대표적인 도시들입니다.",
+        "points": [
+          "사해 평야의 비옥한 지역에 위치했습니다 (창세기 13:10)",
+          "롯이 선택하여 거주했던 곳입니다",
+          "극심한 죄악으로 하나님의 심판을 받아 멸망했습니다 (창세기 19장)",
+          "성경 전체에서 하나님의 심판의 상징으로 사용됩니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "광대한 영토",
+        "description": "이 구절이 묘사하는 가나안의 경계는 매우 광대한 영토를 나타냅니다. 지중해 연안에서 사해까지, 북쪽 페니키아에서 남쪽 네게브까지 펼쳐진 땅이었습니다.",
+        "points": [
+          "약속의 땅이 얼마나 광대했는지 보여줍니다",
+          "다양한 기후와 지형을 포함하는 풍요로운 땅이었습니다",
+          "전략적으로 중요한 무역로들이 교차하는 지역이었습니다",
+          "이스라엘이 차지할 약속의 땅의 범위를 암시합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 가나안의 경계를 이렇게 자세히 기록했을까요?",
+      "answer": "성경이 가나안의 경계를 자세히 기록한 것은 나중에 이스라엘 백성에게 주실 약속의 땅이 어디인지 정확히 알려주기 위해서예요. 마치 부모님이 아이에게 '이 집이 네 것이 될 거야'라고 말씀하시며 집을 보여주시는 것처럼, 하나님께서도 이스라엘 백성에게 '이 땅이 너희에게 줄 땅이다'라고 미리 보여주신 거예요. 또한 하나님께서 모든 땅과 민족을 아시고 정확히 계획하신다는 것을 보여주시기 위해서랍니다.",
+      "bibleReferences": [
+        "창세기 15:18-21 - '여호와께서 아브람과 더불어 언약을 세워 이르시되 내가 이 땅을 애굽 강에서부터 그 큰 강 유브라데까지 네 자손에게 주노니'",
+        "민수기 34:2-12 - '이스라엘 자손에게 명령하여 그들에게 이르라 너희가 가나안 땅에 들어가면 그 땅 곧 너희 기업이 될 가나안 땅은... 그 경계가 이러하니라'",
+        "여호수아 1:4 - '광야와 이 레바논에서부터 큰 강 곧 유브라데 강까지 헷 족속의 온 땅과 또 해 지는 쪽 대해까지 너희의 영토가 되리라'",
+        "신명기 1:7-8 - '너희는 돌이켜 행진하여... 그 온 지방 곧 아라바와 산지와 평지와 남방과 해변과 가나안 족속의 땅과 레바논과 큰 강 유브라데까지 가라 보라 내가 이 땅을 너희 앞에 두었은즉'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 하나님의 약속이 얼마나 구체적인지를 보여줍니다. 막연한 약속이 아니라 정확한 지리적 경계를 가진 실제 땅을 약속하셨습니다. 또한 소돔과 고모라를 언급함으로써, 이 땅이 나중에 죄로 인해 심판받을 것임을 암시합니다. 하나님은 축복의 약속과 함께 순종의 중요성도 함께 가르치십니다. 이스라엘은 이 땅을 받되, 소돔과 고모라처럼 죄악에 빠지지 않아야 했습니다."
+    }
+  }
+}

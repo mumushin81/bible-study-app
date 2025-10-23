@@ -1,0 +1,170 @@
+{
+  "id": "genesis_13_1",
+  "reference": "창세기 13:1",
+  "hebrew": "וַיַּעַל אַבְרָם מִמִּצְרַיִם הוּא וְאִשְׁתּוֹ וְכָל אֲשֶׁר לוֹ וְלוֹט עִמּוֹ הַנֶּגְבָּה",
+  "ipa": "vajjaʕal ʔavˈram mimitsˈrajim huʔ vəʔiʃˈto vəxol ʔaˈʃɛr lo vəˈlot ʕimo hanˈɛgba",
+  "koreanPronunciation": "바야알 아브람 미미츠라임 후 베이쉬토 베콜 아쉐르 로 벨로트 임모 하네그바",
+  "modern": "아브람이 애굽에서 그와 그의 아내와 모든 소유와 롯과 함께 네겝으로 올라왔습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַל",
+      "meaning": "그리고 올라갔다",
+      "ipa": "vajjaʕal",
+      "korean": "바야알",
+      "letters": "וַ(va) + יַ(ya) + עַל(al)",
+      "root": "ע-ל-ה (알라)",
+      "grammar": "동사",
+      "emoji": "⬆️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ascend-gen13-1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#f39c12\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></linearGradient><radialGradient id=\"ascend-glow-gen13-1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#3498db\" /></radialGradient></defs><path d=\"M 32 56 L 32 16\" stroke=\"url(#ascend-gen13-1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 28 L 32 16 L 44 28\" stroke=\"url(#ascend-gen13-1)\" stroke-width=\"6\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"url(#ascend-glow-gen13-1)\" filter=\"drop-shadow(0 0 8px rgba(52, 152, 219, 0.8))\" /></svg>",
+      "relatedWords": [
+        "עָלָה (알라 - 올라가다)",
+        "עֲלִיָּה (알리야 - 상승, 귀환)"
+      ]
+    },
+    {
+      "hebrew": "אַבְרָם",
+      "meaning": "아브람",
+      "ipa": "ʔavˈram",
+      "korean": "아브람",
+      "letters": "אַ(av) + בְ(be) + רָם(ram)",
+      "root": "אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abram-person-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"abram-halo-gen13-1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"48\" r=\"12\" fill=\"rgba(255, 215, 0, 0.2)\" /><ellipse cx=\"32\" cy=\"24\" rx=\"10\" ry=\"12\" fill=\"url(#abram-person-gen13-1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"10\" r=\"8\" fill=\"url(#abram-halo-gen13-1)\" opacity=\"0.6\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"20\" rx=\"2\" fill=\"url(#abram-person-gen13-1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><path d=\"M 26 24 A 2 2 0 0 1 30 24\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 34 24 A 2 2 0 0 1 38 24\" stroke=\"#8B4513\" stroke-width=\"1.5\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "אַבְרָהָם (아브라함 - 열국의 아버지)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "מִמִּצְרַיִם",
+      "meaning": "애굽에서",
+      "ipa": "mimitsˈrajim",
+      "korean": "미미츠라임",
+      "letters": "מִ(mi) + מִּ(mi) + צְ(tse) + רַיִם(rayim)",
+      "root": "מִן (민) + מִצְרַיִם (미츠라임)",
+      "grammar": "명사",
+      "emoji": "🏜️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"egypt-sky-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></linearGradient><linearGradient id=\"egypt-pyramid-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"100%\" stop-color=\"#8B7355\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#egypt-sky-gen13-1)\" /><path d=\"M 12 48 L 24 24 L 36 48 Z\" fill=\"url(#egypt-pyramid-gen13-1)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.4))\" /><path d=\"M 28 48 L 40 28 L 52 48 Z\" fill=\"url(#egypt-pyramid-gen13-1)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"50\" cy=\"18\" rx=\"8\" ry=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 10px rgba(255, 215, 0, 0.8))\" /><rect y=\"48\" width=\"64\" height=\"16\" fill=\"#C19A6B\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מִצְרַיִם (미츠라임 - 애굽, 이집트)",
+        "מֵצַר (메차르 - 곤경, 좁은 곳)"
+      ]
+    },
+    {
+      "hebrew": "הוּא וְאִשְׁתּוֹ",
+      "meaning": "그와 그의 아내",
+      "ipa": "huʔ vəʔiʃˈto",
+      "korean": "후 베이쉬토",
+      "letters": "הוּא(hu) + וְ(ve) + אִשְׁ(ish) + תּוֹ(to)",
+      "root": "הוּא (후) + אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"couple-unity-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C06C84\" /><stop offset=\"100%\" stop-color=\"#6C5B7B\" /></linearGradient><radialGradient id=\"couple-heart-gen13-1\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient></defs><circle cx=\"22\" cy=\"24\" r=\"8\" fill=\"url(#couple-unity-gen13-1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"42\" cy=\"24\" r=\"8\" fill=\"url(#couple-unity-gen13-1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"16\" y=\"28\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#couple-unity-gen13-1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"36\" y=\"28\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#couple-unity-gen13-1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 48 Q 28 52 24 48 Q 20 44 24 40 Q 28 36 32 40 Q 36 36 40 40 Q 44 44 40 48 Q 36 52 32 48 Z\" fill=\"url(#couple-heart-gen13-1)\" opacity=\"0.7\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "אִישׁ (이쉬 - 남자, 남편)"
+      ]
+    },
+    {
+      "hebrew": "וְכָל אֲשֶׁר לוֹ",
+      "meaning": "그에게 속한 모든 것",
+      "ipa": "vəxol ʔaˈʃɛr lo",
+      "korean": "베콜 아쉐르 로",
+      "letters": "וְ(ve) + כָל(kol) + אֲ(a) + שֶׁר(sher) + לוֹ(lo)",
+      "root": "כֹּל (콜) + אֲשֶׁר (아쉐르)",
+      "grammar": "명사",
+      "emoji": "💰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"possessions-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"possessions-glow-gen13-1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"rgba(255, 215, 0, 0.2)\" /><rect x=\"20\" y=\"24\" width=\"24\" height=\"16\" rx=\"2\" fill=\"url(#possessions-gen13-1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"26\" cy=\"32\" r=\"3\" fill=\"url(#possessions-glow-gen13-1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"url(#possessions-glow-gen13-1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><circle cx=\"38\" cy=\"32\" r=\"3\" fill=\"url(#possessions-glow-gen13-1)\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /><path d=\"M 18 18 L 22 14 L 26 18\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 38 18 L 42 14 L 46 18\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "כֹּל (콜 - 모든, 전체)",
+        "רְכוּשׁ (레쿠쉬 - 재산, 소유)"
+      ]
+    },
+    {
+      "hebrew": "וְלוֹט עִמּוֹ",
+      "meaning": "롯이 그와 함께",
+      "ipa": "vəˈlot ʕimo",
+      "korean": "벨로트 임모",
+      "letters": "וְ(ve) + לוֹט(lot) + עִ(i) + מּוֹ(mo)",
+      "root": "לוֹט (로트) + עִם (임)",
+      "grammar": "명사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-companion-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667eea\" /><stop offset=\"100%\" stop-color=\"#764ba2\" /></linearGradient><radialGradient id=\"lot-unity-gen13-1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#667eea\" /></radialGradient></defs><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#lot-companion-gen13-1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"40\" cy=\"28\" r=\"10\" fill=\"url(#lot-companion-gen13-1)\" opacity=\"0.8\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 42 L 18 48 L 24 50 L 28 44\" fill=\"url(#lot-companion-gen13-1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 44 42 L 46 48 L 40 50 L 36 44\" fill=\"url(#lot-companion-gen13-1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"38\" rx=\"8\" ry=\"4\" fill=\"url(#lot-unity-gen13-1)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "עִם (임 - ~와 함께)",
+        "לוֹט (로트 - 아브람의 조카)"
+      ]
+    },
+    {
+      "hebrew": "הַנֶּגְבָּה",
+      "meaning": "네겝으로 (남쪽 지역)",
+      "ipa": "hanˈɛgba",
+      "korean": "하네그바",
+      "letters": "הַ(ha) + נֶּ(ne) + גְ(ge) + בָּה(bah)",
+      "root": "נֶגֶב (네게브)",
+      "grammar": "명사",
+      "emoji": "🏜️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"negev-sky-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></linearGradient><linearGradient id=\"negev-sand-gen13-1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EDC9AF\" /><stop offset=\"100%\" stop-color=\"#D2B48C\" /></linearGradient></defs><rect width=\"64\" height=\"32\" fill=\"url(#negev-sky-gen13-1)\" /><rect y=\"32\" width=\"64\" height=\"32\" fill=\"url(#negev-sand-gen13-1)\" /><path d=\"M 0 32 Q 16 28 32 32 Q 48 36 64 32\" fill=\"#C19A6B\" opacity=\"0.5\" /><path d=\"M 0 40 Q 20 36 40 40 Q 60 44 64 40\" fill=\"#DEB887\" opacity=\"0.4\" /><circle cx=\"50\" cy=\"16\" r=\"8\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><path d=\"M 16 48 Q 20 44 24 48\" stroke=\"#8B7355\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 40 52 Q 44 48 48 52\" stroke=\"#8B7355\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נֶגֶב (네게브 - 남쪽, 건조한 지역)",
+        "דָּרוֹם (다롬 - 남쪽)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 13장 1절은 아브람이 애굽 체류를 마치고 약속의 땅 가나안으로 돌아오는 장면을 묘사합니다. 애굽에서의 시련과 실수에도 불구하고, 아브람은 하나님의 부르심을 받은 땅으로 다시 돌아옵니다. 이는 영적 회복과 재헌신의 여정을 상징합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּעַל (바야알) - 올라가다",
+        "description": "히브리어 \"알라\"는 단순히 지리적으로 올라간다는 의미를 넘어, 영적으로 상승하고 회복된다는 의미를 담고 있습니다. 애굽은 낮은 곳이며, 가나안은 높은 곳으로, 아브람은 영적으로 낮았던 상태에서 하나님께로 돌아옵니다.",
+        "points": [
+          "애굽은 영적 타협과 실패의 장소였지만, 아브람은 다시 일어납니다",
+          "\"알라\"는 이스라엘 사람들이 예루살렘 성전으로 올라갈 때 사용하는 단어입니다",
+          "하나님의 은혜는 실패한 자를 다시 일으켜 세우십니다",
+          "회복의 첫걸음은 하나님이 부르신 곳으로 돌아가는 것입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִמִּצְרַיִם (미미츠라임) - 애굽에서",
+        "description": "애굽(미츠라임)은 \"좁은 곳\", \"곤경\"이라는 뜻을 가진 \"메차르\"와 어원이 같습니다. 아브람은 기근을 피해 애굽으로 내려갔지만, 그곳에서 거짓말하고 타협했습니다. 이제 그는 그 좁은 곳에서 벗어나 자유로 나옵니다.",
+        "points": [
+          "애굽은 성경에서 종종 죄와 세상의 유혹을 상징합니다",
+          "아브람은 애굽에서 부를 얻었지만, 영적으로는 타협했습니다",
+          "출애굽 사건에서도 이스라엘은 애굽의 노예 상태에서 해방됩니다",
+          "물질적 풍요가 영적 건강을 보장하지 않습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הַנֶּגְבָּה (하네그바) - 네겝으로",
+        "description": "네겝은 가나안 남부의 건조하고 광야 같은 지역입니다. 아브람은 애굽의 풍요로움을 떠나 척박한 네겝으로 돌아옵니다. 이는 하나님의 부르심에 순종하고, 세상의 안락함보다 하나님의 뜻을 선택하는 모습입니다.",
+        "points": [
+          "네겝은 건조하지만, 약속의 땅의 일부입니다",
+          "하나님의 부르심은 때로 광야를 지나야 합니다",
+          "영적 훈련과 성숙은 종종 불편한 환경에서 일어납니다",
+          "아브람은 애굽의 편안함보다 하나님의 임재가 있는 곳을 선택했습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 애굽에서 다시 가나안으로 돌아왔을까요?",
+      "answer": "아브람은 애굽에서 많은 재물을 얻었지만, 그곳은 하나님이 아브람을 부르신 곳이 아니었어요. 마치 우리가 집을 떠나 여행을 갔다가 다시 집으로 돌아오듯이, 아브람도 하나님이 약속하신 땅으로 돌아온 거예요. 애굽은 부유했지만, 가나안은 하나님이 함께 하시는 곳이었답니다. 우리도 때때로 잘못된 선택을 하지만, 하나님께로 돌아갈 수 있어요.",
+      "bibleReferences": [
+        "창세기 12:1-3 - \"네 고향과 친척과 아버지의 집을 떠나 내가 네게 보여 줄 땅으로 가라\"",
+        "창세기 12:10-20 - \"그 땅에 기근이 들었으므로 아브람이 애굽에 거류하려고 그리로 내려갔으니\"",
+        "호세아 11:1 - \"이스라엘이 어렸을 때에 내가 사랑하여 내 아들을 애굽에서 불러냈거늘\"",
+        "요한계시록 18:4 - \"내 백성아 거기서 나와 그의 죄에 참여하지 말고 그가 받을 재앙들을 받지 말라\""
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 애굽에서의 귀환은 회개와 복귀의 모델입니다. 우리는 실수하고 잘못된 선택을 할 때가 있지만, 하나님은 우리를 다시 부르시고 회복시키십니다. 진정한 축복은 물질적 풍요가 아니라 하나님의 임재 안에 거하는 것입니다. 아브람은 애굽의 부를 가지고 돌아왔지만, 그보다 더 중요한 것은 하나님이 약속하신 땅으로 돌아온 것입니다. 우리도 때때로 영적으로 \"애굽\"에 머물 때가 있지만, 하나님께로 \"올라가는\" 결단이 필요합니다."
+    }
+  }
+}

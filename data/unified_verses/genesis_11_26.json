@@ -1,0 +1,176 @@
+{
+  "id": "genesis_11_26",
+  "reference": "창세기 11:26",
+  "hebrew": "וַיְחִי-תֶרַח שִׁבְעִים שָׁנָה וַיּוֹלֶד אֶת-אַבְרָם אֶת-נָחוֹר וְאֶת-הָרָן.",
+  "ipa": "vajəˈħi ˈtɛraħ ʃivˈʕim ʃaˈna vajˈjolɛd ʔɛt ʔavˈram ʔɛt naˈħor vəʔɛt haˈran",
+  "koreanPronunciation": "바예히 테라흐 쉬브임 샤나 바요레드 에트 아브람 에트 나호르 베에트 하란",
+  "modern": "데라가 70세가 되었을 때 아브람과 나호르와 하란을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "살았다, 되었다",
+      "ipa": "vajəˈħi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(hi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "👴",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-life1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient><radialGradient id=\"terah26-glow1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-glow1)\" opacity=\"0.2\"/><path d=\"M 32 12 L 32 52\" stroke=\"url(#terah26-life1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"32\" cy=\"18\" r=\"8\" fill=\"url(#terah26-life1)\" filter=\"drop-shadow(0 2px 6px rgba(76,175,80,0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#4CAF50\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"46\" r=\"6\" fill=\"#2E7D32\" opacity=\"0.5\"/></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "תֶרַח",
+      "meaning": "데라",
+      "ipa": "ˈtɛraħ",
+      "korean": "테라흐",
+      "letters": "תֶּ(te) + רַ(ra) + ח(h)",
+      "root": "תֶרַח (테라흐)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-person1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#5D2E0F\"/></linearGradient><radialGradient id=\"terah26-halo1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\" stop-opacity=\"0.4\"/></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"24\" fill=\"url(#terah26-halo1)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"url(#terah26-person1)\" filter=\"drop-shadow(0 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 16 48 Q 24 36 32 36 Q 40 36 48 48\" fill=\"url(#terah26-person1)\" stroke=\"#8B4513\" stroke-width=\"2\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFD700\"/></svg>"
+    },
+    {
+      "hebrew": "שִׁבְעִים",
+      "meaning": "70",
+      "ipa": "ʃivˈʕim",
+      "korean": "쉬브임",
+      "letters": "שִׁ(shi) + בְ(v) + עִ(i) + ים(m)",
+      "root": "שֶׁבַע (쉐바)",
+      "grammar": "명사",
+      "emoji": "7️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"50%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#FF5722\"/></linearGradient><radialGradient id=\"terah26-numglow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#9C27B0\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-numglow1)\"/><text x=\"32\" y=\"44\" font-size=\"32\" font-weight=\"bold\" text-anchor=\"middle\" fill=\"url(#terah26-num1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.5))\">70</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "해, 년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-year1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#2196F3\"/><stop offset=\"100%\" stop-color=\"#0D47A1\"/></linearGradient><linearGradient id=\"terah26-sun1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA000\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#terah26-year1)\" opacity=\"0.2\" stroke=\"url(#terah26-year1)\" stroke-width=\"3\" stroke-dasharray=\"8 4\"/><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#terah26-sun1)\" filter=\"drop-shadow(0 2px 6px rgba(255,215,0,0.7))\"/><path d=\"M 32 32 L 44 32 A 12 12 0 0 1 32 44\" fill=\"none\" stroke=\"url(#terah26-year1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>",
+      "relatedWords": [
+        "שָׁנִים (שanimaninim - 여러 해들)",
+        "יוֹם (욤 - 날)"
+      ]
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "낳았다, 아버지가 되었다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바요레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶ(le) + ד(d)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-birth1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF69B4\"/><stop offset=\"100%\" stop-color=\"#FF1493\"/></linearGradient><radialGradient id=\"terah26-love1\"><stop offset=\"0%\" stop-color=\"#FFE0F0\"/><stop offset=\"100%\" stop-color=\"#FF69B4\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-love1)\"/><path d=\"M 32 48 Q 18 38 18 28 Q 18 20 24 20 Q 28 20 32 24 Q 36 20 40 20 Q 46 20 46 28 Q 46 38 32 48 Z\" fill=\"url(#terah26-birth1)\" filter=\"drop-shadow(0 4px 6px rgba(255,20,147,0.5))\"/><circle cx=\"26\" cy=\"26\" r=\"3\" fill=\"#FFE0F0\" opacity=\"0.8\"/><circle cx=\"38\" cy=\"26\" r=\"3\" fill=\"#FFE0F0\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "תּוֹלְדוֹת (톨도트 - 족보, 세대)"
+      ]
+    },
+    {
+      "hebrew": "אַבְרָם",
+      "meaning": "아브람 (높은 아버지)",
+      "ipa": "ʔavˈram",
+      "korean": "아브람",
+      "letters": "אַ(av) + בְ(ra) + רָ(m)",
+      "root": "אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "⭐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF6B35\"/></linearGradient><radialGradient id=\"terah26-starglow1\"><stop offset=\"0%\" stop-color=\"#FFFACD\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.2\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-starglow1)\"/><path d=\"M 32 8 L 36 24 L 52 24 L 40 34 L 44 50 L 32 40 L 20 50 L 24 34 L 12 24 L 28 24 Z\" fill=\"url(#terah26-abram1)\" filter=\"drop-shadow(0 4px 8px rgba(255,215,0,0.8))\"/><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>",
+      "relatedWords": [
+        "אַבְרָהָם (아브라함 - 많은 민족의 아버지)",
+        "אָב (아브 - 아버지)"
+      ]
+    },
+    {
+      "hebrew": "נָחוֹר",
+      "meaning": "나호르 (코고는 자)",
+      "ipa": "naˈħor",
+      "korean": "나호르",
+      "letters": "נָ(na) + חוֹ(ho) + ר(r)",
+      "root": "נָחוֹר (나호르)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-nahor1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#607D8B\"/><stop offset=\"100%\" stop-color=\"#37474F\"/></linearGradient><radialGradient id=\"terah26-person2\"><stop offset=\"0%\" stop-color=\"#90A4AE\"/><stop offset=\"100%\" stop-color=\"#607D8B\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#terah26-person2)\"/><circle cx=\"32\" cy=\"26\" r=\"10\" fill=\"url(#terah26-nahor1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/><ellipse cx=\"32\" cy=\"46\" rx=\"16\" ry=\"12\" fill=\"url(#terah26-nahor1)\" filter=\"drop-shadow(0 3px 5px rgba(0,0,0,0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "הָרָן",
+      "meaning": "하란 (산악인)",
+      "ipa": "haˈran",
+      "korean": "하란",
+      "letters": "הָ(ha) + רָ(ra) + ן(n)",
+      "root": "הָרָן (하란)",
+      "grammar": "명사",
+      "emoji": "🏔️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"terah26-haran1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#5D4037\"/></linearGradient><linearGradient id=\"terah26-mountain1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\"/><stop offset=\"100%\" stop-color=\"#6D4C41\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"rgba(161,136,127,0.2)\" rx=\"8\"/><path d=\"M 10 52 L 32 16 L 54 52 Z\" fill=\"url(#terah26-mountain1)\" filter=\"drop-shadow(2px 4px 6px rgba(0,0,0,0.4))\"/><path d=\"M 32 16 L 42 34 L 32 34 Z\" fill=\"#FFFFFF\" opacity=\"0.4\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 26절은 아브라함 이야기의 시작점이자 구속사의 새로운 장을 여는 중요한 구절입니다. 데라가 70세에 세 아들을 낳았다는 기록은 단순한 족보 정보를 넘어, 하나님의 구원 계획이 구체적인 가족을 통해 전개되기 시작함을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תֶרַח (테라흐) - 새로운 세대의 시작",
+        "description": "데라는 노아의 아들 셈의 후손으로, 우상 숭배가 만연한 갈대아 우르에서 살았던 인물입니다. 그의 이름은 '배회하다' 또는 '지체하다'를 의미하며, 후에 하란으로 이주했지만 약속의 땅에는 도달하지 못한 그의 삶을 암시합니다.",
+        "points": [
+          "데라는 셈의 9대 후손으로, 노아로부터 아브라함까지의 계보를 잇습니다",
+          "우상 숭배의 중심지 갈대아 우르에서 살았지만, 하나님은 그의 가족을 선택하셨습니다",
+          "70세에 자녀를 낳은 것은 하나님의 섭리적 타이밍을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיּוֹלֶד (바요레드) - 하나님의 계획을 잇는 출생",
+        "description": "'낳았다'는 히브리어 '얄라드'의 동사형으로, 단순한 생물학적 출생이 아니라 언약의 계보를 이어가는 신학적 의미를 담고 있습니다. 창세기에서 출생 기록은 항상 하나님의 구원 계획과 연결됩니다.",
+        "points": [
+          "족보는 하나님의 구원 역사가 특정 가계를 통해 이어짐을 보여줍니다",
+          "아브람의 출생은 우연이 아니라 하나님의 섭리적 계획입니다",
+          "이 출생은 결국 예수 그리스도의 계보로 이어집니다 (마태복음 1장)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַבְרָם (아브람) - 높임 받는 아버지",
+        "description": "아브람('높은 아버지')이라는 이름은 후에 아브라함('많은 민족의 아버지')으로 바뀌게 됩니다. 세 아들 중 첫 번째로 언급된 것은 족보상의 순서가 아니라 구속사적 중요성 때문입니다.",
+        "points": [
+          "이름에 담긴 의미가 하나님의 부르심을 통해 실현됩니다",
+          "믿음의 조상으로서 유대인, 기독교인, 이슬람교도 모두에게 중요한 인물",
+          "그를 통해 '땅의 모든 족속이 복을 받게' 될 것입니다 (창세기 12:3)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "שִׁבְעִים שָׁנָה (쉬브임 샤나) - 70년의 의미",
+        "description": "70이라는 숫자는 성경에서 완전성과 충만함을 상징합니다. 데라가 70세에 아들들을 낳기 시작한 것은 하나님의 완전한 때가 되었음을 나타내며, 인간의 연약함 속에서도 역사하시는 하나님의 주권을 보여줍니다.",
+        "points": [
+          "70은 성경에서 완전한 수로, 하나님의 때가 충만함을 의미합니다",
+          "늦은 나이의 출산은 사라의 경우처럼 하나님의 초자연적 역사를 암시합니다",
+          "인간의 연약함과 한계 속에서도 하나님의 계획은 진행됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 데라의 아들 중에서 특별히 아브람을 선택하셨을까요?",
+      "answer": "하나님은 우리가 얼마나 착하거나 훌륭한지를 보고 선택하시는 것이 아니라, 당신의 사랑과 계획에 따라 선택하세요. 아브람도 우상을 섬기는 가정에서 자랐지만, 하나님은 그를 특별히 부르셔서 믿음의 조상으로 삼으셨어요. 마치 선생님이 여러분 중 한 명을 반장으로 뽑으시는 것처럼, 하나님은 아브람을 선택하셔서 온 세상을 축복하는 일에 쓰기로 하신 거예요. 이것이 바로 하나님의 놀라운 은혜랍니다!",
+      "bibleReferences": [
+        "신명기 7:7-8 - '여호와께서 너희를 기뻐하시고 너희를 택하심은 너희가 다른 민족보다 수효가 많기 때문이 아니라'",
+        "로마서 9:11 - '그 자식들이 아직 나지도 아니하고 무슨 선이나 악을 행하지 아니한 때에'",
+        "에베소서 1:4 - '곧 창세 전에 그리스도 안에서 우리를 택하사'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "데라의 세 아들 출생 기록은 하나님의 구원 역사가 평범한 가정을 통해 시작됨을 보여줍니다. 우상 숭배의 중심지에서도, 노년의 부모를 통해서도 하나님의 계획은 진행됩니다. 이는 우리의 환경이나 조건과 상관없이 하나님이 우리를 부르시고 사용하실 수 있음을 의미합니다. 아브람의 출생은 결국 예수 그리스도로 이어지는 구속사의 중요한 고리입니다."
+    }
+  }
+}

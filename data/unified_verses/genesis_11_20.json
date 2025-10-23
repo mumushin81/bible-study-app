@@ -1,0 +1,139 @@
+{
+  "id": "genesis_11_20",
+  "reference": "창세기 11:20",
+  "hebrew": "וַיְחִי רְעוּ שְׁתַּיִם וּשְׁלֹשִׁים שָׁנָה וַיּוֹלֶד אֶת־שְׂרוּג׃",
+  "ipa": "vajəˈħi rəˈʕu ʃətaˈjim uʃəloˈʃim ʃaˈna vajˈjolɛd ʔɛt səˈruɡ",
+  "koreanPronunciation": "바예히 레우 쉬타임 우쉘로쉼 샤나 바욜레드 에트 스루그",
+  "modern": "르우가 삼십이 세에 스룩을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "רְעוּ",
+      "meaning": "르우",
+      "ipa": "rəˈʕu",
+      "korean": "레우",
+      "letters": "רְ(re) + עוּ(u)",
+      "root": "רְעוּ (레우)",
+      "grammar": "명사",
+      "emoji": "🤝",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"reu20-friend1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient><radialGradient id=\"reu20-glow1\"><stop offset=\"0%\" stop-color=\"#FFD54F\" /><stop offset=\"100%\" stop-color=\"#FFA726\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#reu20-glow1)\" opacity=\"0.2\" /><path d=\"M 18 32 L 24 26 L 24 38 Z M 46 32 L 40 26 L 40 38 Z\" fill=\"url(#reu20-friend1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"8\" fill=\"url(#reu20-friend1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "רֵעַ (레아 - 친구)",
+        "רֵעוּת (레우트 - 우정)"
+      ]
+    },
+    {
+      "hebrew": "שְׁתַּיִם",
+      "meaning": "둘",
+      "ipa": "ʃətaˈjim",
+      "korean": "쉬타임",
+      "letters": "שְׁ(she) + תַּ(ta) + יִם(yim)",
+      "root": "שְׁנַיִם (쉬나임)",
+      "grammar": "명사",
+      "emoji": "2️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"reu20-two1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1565C0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#reu20-two1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial\">2</text></svg>"
+    },
+    {
+      "hebrew": "שְׁלֹשִׁים",
+      "meaning": "삼십",
+      "ipa": "ʃəloˈʃim",
+      "korean": "쉘로쉼",
+      "letters": "שְׁ(she) + לֹ(lo) + שִׁ(shi) + ים(m)",
+      "root": "שָׁלוֹשׁ (샬로쉬)",
+      "grammar": "명사",
+      "emoji": "3️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"reu20-thirty1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#reu20-thirty1)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><text x=\"32\" y=\"42\" font-size=\"28\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" font-family=\"Arial\">30</text></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"reu20-year1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"36\" rx=\"4\" fill=\"url(#reu20-year1)\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"12\" y=\"16\" width=\"40\" height=\"8\" fill=\"#E91E63\" /><circle cx=\"24\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" /><circle cx=\"40\" cy=\"20\" r=\"2\" fill=\"#FFFFFF\" /><rect x=\"18\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"29\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /><rect x=\"40\" y=\"30\" width=\"6\" height=\"6\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּ(yo) + וֹ(o) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"reu20-baby1\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"100%\" stop-color=\"#FFCC80\" /></radialGradient><linearGradient id=\"reu20-heart1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF4081\" /><stop offset=\"100%\" stop-color=\"#F50057\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#reu20-baby1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"45\" rx=\"14\" ry=\"10\" fill=\"url(#reu20-baby1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333333\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333333\" /><path d=\"M 20 50 Q 32 56 44 50\" stroke=\"url(#reu20-heart1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "תּוֹלְדוֹת (톨도트 - 계보)"
+      ]
+    },
+    {
+      "hebrew": "שְׂרוּג",
+      "meaning": "스룩",
+      "ipa": "səˈruɡ",
+      "korean": "스루그",
+      "letters": "שְׂ(se) + רוּג(rug)",
+      "root": "שָׂרַג (사라그)",
+      "grammar": "명사",
+      "emoji": "🌿",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"reu20-vine1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"30%\" stop-color=\"#6D4C41\" /><stop offset=\"100%\" stop-color=\"#4E342E\" /></linearGradient><linearGradient id=\"reu20-leaf1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"#E8F5E9\" opacity=\"0.3\" /><path d=\"M 32 52 Q 30 40 32 28 Q 34 16 32 8\" stroke=\"url(#reu20-vine1)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"22\" cy=\"24\" rx=\"8\" ry=\"12\" fill=\"url(#reu20-leaf1)\" transform=\"rotate(-30 22 24)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"42\" cy=\"32\" rx=\"8\" ry=\"12\" fill=\"url(#reu20-leaf1)\" transform=\"rotate(30 42 32)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"28\" cy=\"40\" rx=\"7\" ry=\"10\" fill=\"url(#reu20-leaf1)\" transform=\"rotate(-20 28 40)\" opacity=\"0.9\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /></svg>",
+      "relatedWords": [
+        "שָׂרַג (사라그 - 얽히다, 엮다)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 20절은 '친구'라는 의미의 이름을 가진 르우가 32세에 스룩을 낳았다는 기록입니다. 르우의 이름은 분열된 세상에서 관계와 화합의 중요성을 상기시키며, 그의 아들 스룩을 통해 아브라함으로 이어지는 구속 역사가 계속됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "רְעוּ (레우) - 친구, 동반자의 의미",
+        "description": "르우(רְעוּ)라는 이름은 히브리어 '레아(רֵעַ, 친구)'에서 유래했습니다. 바벨탑 사건으로 언어가 혼잡해지고 민족이 흩어진 시대에, '친구'라는 이름은 관계 회복과 화합에 대한 소망을 담고 있습니다.",
+        "points": [
+          "하나님과의 친밀한 관계를 추구하는 삶의 중요성을 상징합니다",
+          "분열된 세상에서도 사랑과 우정으로 하나 될 수 있는 가능성을 보여줍니다",
+          "그리스도 안에서 회복될 관계의 예표가 됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׂרוּג (스루그) - 가지, 덩굴의 의미",
+        "description": "스룩(שְׂרוּג)이라는 이름은 '얽히다', '엮다'를 의미하는 히브리어 동사 '사라그(שָׂרַג)'와 관련이 있으며, 가지나 덩굴처럼 뻗어나가는 것을 암시합니다. 이는 계보가 계속 이어지며 결국 아브라함에게 이를 것을 예표합니다.",
+        "points": [
+          "생명의 연속성과 세대 간의 연결을 상징합니다",
+          "포도나무의 가지처럼 하나님의 언약이 뻗어나갑니다",
+          "요한복음 15:5의 참 포도나무 비유를 예표합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שְׁלֹשִׁים וּשְׁתַּיִם שָׁנָה (슐로쉼 우쉬타임 샤나) - 32세 출산 나이의 패턴",
+        "description": "르우가 32세에 스룩을 낳은 것은 펠렉이 30세에 르우를 낳은 것과 유사한 패턴입니다. 이 시기의 족장들은 비교적 이른 나이에 자녀를 낳았으며, 이는 하나님의 언약이 빠르게 다음 세대로 전달되도록 하셨음을 보여줍니다.",
+        "points": [
+          "하나님의 구속 계획은 세대를 거쳐 꾸준히 진행됩니다",
+          "각 세대는 다음 세대에게 신앙을 전달할 책임이 있습니다",
+          "메시아를 향한 계보가 중단 없이 이어집니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 르우의 이름이 '친구'라는 뜻일까요?",
+      "answer": "바벨탑 사건 이후 사람들의 언어가 달라지고 서로 멀어졌을 때, 르우의 부모님은 '친구'라는 의미의 이름을 지어주었어요. 이것은 비록 사람들이 흩어져 살게 되었지만, 서로 친구가 되고 사랑하며 화목하게 지내야 한다는 소망을 담은 거예요. 하나님은 우리가 서로 사랑하고 친구처럼 지내기를 원하세요. 예수님도 우리를 친구라고 부르셨답니다(요한복음 15:15).",
+      "bibleReferences": [
+        "잠언 17:17 - '친구는 사랑이 끊이지 아니하고 형제는 위급한 때까지 위하여 났느니라'",
+        "요한복음 15:15 - '이제부터는 너희를 종이라 하지 아니하리니 너희를 친구라 하였노니'",
+        "잠언 18:24 - '어떤 친구는 형제보다 친밀하니라'",
+        "에베소서 2:14 - '그는 우리의 화평이신지라 둘로 하나를 만드사'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "르우에서 스룩으로 이어지는 계보는 하나님의 구속 역사가 '친구'(관계)를 통해 '가지'(연결)처럼 뻗어나감을 보여줍니다. 분열된 세상 속에서도 하나님은 관계를 회복하시고, 그 관계를 통해 메시아를 향한 길을 준비하십니다. 이는 궁극적으로 그리스도 안에서 모든 민족이 하나 되는 교회를 예표합니다(에베소서 2:14-16)."
+    }
+  }
+}

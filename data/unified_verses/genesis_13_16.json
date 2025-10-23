@@ -1,0 +1,121 @@
+{
+  "id": "genesis_13_16",
+  "reference": "창세기 13:16",
+  "hebrew": "וְשַׂמְתִּי אֶת זַרְעֲךָ כַּעֲפַר הָאָרֶץ אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת גַּם זַרְעֲךָ יִמָּנֶה",
+  "ipa": "vəsamˈti ʔɛt zarʔaˈχa kaʕaˈfar haˈʔarɛts ʔaˈʃɛr ʔim juˈχal ʔiʃ limnot ʔɛt ʕaˈfar haˈʔarɛts gam zarʔaˈχa jimmaˈnɛ",
+  "koreanPronunciation": "베삼티 에트 자르아카 카아파르 하아레츠 아쉐르 임 유칼 이쉬 림노트 에트 아파르 하아레츠 감 자르아카 이마네",
+  "modern": "내가 네 후손을 땅의 티끌처럼 많게 하리니, 사람이 땅의 티끌을 셀 수 있다면 네 후손도 셀 수 있을 것이다",
+  "words": [
+    {
+      "hebrew": "וְשַׂמְתִּי אֶת זַרְעֲךָ",
+      "meaning": "그리고 내가 네 후손을 만들겠다",
+      "ipa": "vəsamˈti ʔɛt zarʔaˈχa",
+      "korean": "베삼티 에트 자르아카",
+      "letters": "וְ(ve) + שַׂ(sa) + מְתִּי(mti) + אֶת(et) + זַרְעֲךָ(zarakha)",
+      "root": "שׂ-ו-ם (숨)",
+      "grammar": "동사",
+      "emoji": "🎯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"seed-descendants1-make\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#a93226\" /></linearGradient><radialGradient id=\"seed-descendants1-center\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#seed-descendants1-make)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#seed-descendants1-make)\" stroke-width=\"3\" filter=\"drop-shadow(2px 2px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#seed-descendants1-make)\" stroke-width=\"2\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#seed-descendants1-center)\" filter=\"drop-shadow(0 0 8px rgba(231, 76, 60, 0.8))\" /><path d=\"M 32 12 L 32 22\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 42 L 32 52\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 12 32 L 22 32\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 42 32 L 52 32\" stroke=\"#e74c3c\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שׂוּם (숨 - 두다, 만들다)",
+        "עָשָׂה (아사 - 만들다)"
+      ]
+    },
+    {
+      "hebrew": "כַּעֲפַר הָאָרֶץ",
+      "meaning": "땅의 티끌처럼",
+      "ipa": "kaʕaˈfar haˈʔarɛts",
+      "korean": "카아파르 하아레츠",
+      "letters": "כַּ(ka) + עֲ(a) + פַר(far) + הָ(ha) + אָרֶץ(aretz)",
+      "root": "עָפָר (아파르)",
+      "grammar": "명사",
+      "emoji": "🏜️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-sand\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f4e7d7\" /><stop offset=\"50%\" stop-color=\"#d4a373\" /><stop offset=\"100%\" stop-color=\"#b8956a\" /></linearGradient><radialGradient id=\"dust-earth1-particle\"><stop offset=\"0%\" stop-color=\"#f4e7d7\" /><stop offset=\"100%\" stop-color=\"#d4a373\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"28\" ry=\"10\" fill=\"url(#dust-earth1-sand)\" filter=\"drop-shadow(2px 3px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"24\" cy=\"32\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"26\" r=\"3\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.9\" /><circle cx=\"40\" cy=\"30\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"28\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"20\" cy=\"38\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"42\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"40\" r=\"2\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"38\" r=\"2.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.8\" /><circle cx=\"12\" cy=\"36\" r=\"1.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.5\" /><circle cx=\"52\" cy=\"36\" r=\"1.5\" fill=\"url(#dust-earth1-particle)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עָפָר (아파르 - 티끌, 먼지)",
+        "אָבָק (아박 - 먼지)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת",
+      "meaning": "만약 사람이 셀 수 있다면",
+      "ipa": "ʔaˈʃɛr ʔim juˈχal ʔiʃ limnot",
+      "korean": "아쉐르 임 유칼 이쉬 림노트",
+      "letters": "אֲ(a) + שֶׁר(sher) + אִם(im) + יוּ(yu) + כַל(khal) + אִישׁ(ish) + לִ(li) + מְנוֹת(mnot)",
+      "root": "י-כ-ל (야칼) + מ-נ-ה (마나)",
+      "grammar": "동사",
+      "emoji": "🔢",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-count\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#16a085\" /><stop offset=\"50%\" stop-color=\"#1abc9c\" /><stop offset=\"100%\" stop-color=\"#0e6655\" /></linearGradient><radialGradient id=\"dust-earth1-number\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#16a085\" /></radialGradient></defs><rect x=\"8\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"26\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><rect x=\"44\" y=\"16\" width=\"12\" height=\"16\" rx=\"2\" fill=\"url(#dust-earth1-count)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><text x=\"14\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">1</text><text x=\"32\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">2</text><text x=\"50\" y=\"28\" font-size=\"14\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\">3</text><circle cx=\"14\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"20\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"26\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"44\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><circle cx=\"50\" cy=\"44\" r=\"2\" fill=\"url(#dust-earth1-number)\" opacity=\"0.7\" /><text x=\"32\" y=\"56\" font-size=\"10\" fill=\"#999\" text-anchor=\"middle\">...</text></svg>",
+      "relatedWords": [
+        "יָכֹל (야콜 - 할 수 있다)",
+        "מָנָה (마나 - 세다, 계산하다)"
+      ]
+    },
+    {
+      "hebrew": "גַּם זַרְעֲךָ יִמָּנֶה",
+      "meaning": "네 후손도 셀 수 있을 것이다",
+      "ipa": "gam zarʔaˈχa jimmaˈnɛ",
+      "korean": "감 자르아카 이마네",
+      "letters": "גַּם(gam) + זַ(za) + רְ(re) + עֲ(a) + ךָ(kha) + יִ(yi) + מָּ(mma) + נֶה(neh)",
+      "root": "זֶרַע (제라) + מ-נ-ה (마나)",
+      "grammar": "동사",
+      "emoji": "♾️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dust-earth1-countless\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#f39c12\" /><stop offset=\"50%\" stop-color=\"#e67e22\" /><stop offset=\"100%\" stop-color=\"#d35400\" /></linearGradient><radialGradient id=\"dust-earth1-star\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#f39c12\" /></radialGradient></defs><circle cx=\"16\" cy=\"16\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"28\" cy=\"12\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"40\" cy=\"14\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"52\" cy=\"18\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"12\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"24\" cy=\"26\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"36\" cy=\"28\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"48\" cy=\"30\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"18\" cy=\"40\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"30\" cy=\"42\" r=\"3\" fill=\"url(#dust-earth1-star)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(243, 156, 18, 0.7))\" /><circle cx=\"42\" cy=\"44\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"54\" cy=\"42\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"22\" cy=\"52\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /><circle cx=\"34\" cy=\"54\" r=\"2\" fill=\"url(#dust-earth1-star)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.5))\" /><circle cx=\"46\" cy=\"56\" r=\"2.5\" fill=\"url(#dust-earth1-star)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(243, 156, 18, 0.6))\" /></svg>",
+      "relatedWords": [
+        "רַב (라브 - 많은)",
+        "אֵין מִסְפָּר (에인 미스파르 - 셀 수 없는)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 아브람에게 땅뿐 아니라 셀 수 없는 후손도 약속하십니다. '땅의 티끌'이라는 비유는 수적으로 셀 수 없을 만큼 많음을 의미하며, 이는 후에 '하늘의 별'과 '바다의 모래'라는 비유와 함께 반복되는 약속입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כַּעֲפַר הָאָרֶץ (카아파르 하아레츠) - 땅의 티끌처럼",
+        "description": "티끌은 발밑에 깔린 무수히 많은 먼지 입자를 의미합니다. 이는 사람이 셀 수 없을 정도로 많은 수를 나타내는 히브리어 관용 표현입니다. 하나님은 아브람의 후손이 셀 수 없이 많아질 것을 약속하십니다.",
+        "points": [
+          "티끌은 인간이 셀 수 없을 만큼 많은 수의 상징입니다",
+          "이 약속은 육체적 후손과 영적 후손 모두를 포함합니다",
+          "수적 증가는 하나님의 축복의 표현입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "אִם יוּכַל אִישׁ לִמְנוֹת (임 유칼 이쉬 림노트) - 만약 사람이 셀 수 있다면",
+        "description": "하나님은 불가능한 가정을 제시합니다. 땅의 티끌을 세는 것은 인간의 능력 밖의 일입니다. 이러한 수사적 표현은 약속의 위대함과 불가능함을 강조합니다.",
+        "points": [
+          "불가능한 가정을 통해 약속의 크기를 강조합니다",
+          "인간의 계산 능력을 초월하는 하나님의 축복입니다",
+          "자녀가 없던 아브람에게 이는 놀라운 약속입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "זַרְעֲךָ (자르아카) - 네 후손",
+        "description": "'제라(씨)'는 생물학적 자손뿐 아니라 영적 후손을 포함합니다. 신약에서 바울은 이 약속이 그리스도를 믿는 모든 사람에게 확장된다고 설명합니다(갈라디아서 3:29).",
+        "points": [
+          "후손은 육체적 자손과 신앙의 자손을 모두 포함합니다",
+          "그리스도 안에서 모든 믿는 자가 아브라함의 자손입니다",
+          "이 약속은 전 세계 모든 민족에게 열려 있습니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 아브람의 후손을 '티끌'에 비유하셨을까요?",
+      "answer": "티끌은 우리가 발로 밟고 지나가는 땅바닥에 셀 수 없이 많이 있어요. 하나님은 아브람의 자손이 이렇게 많아질 거라고 약속하신 거예요. 그때 아브람은 아직 자녀가 한 명도 없었는데, 하나님은 '너의 자손이 이렇게 많아질 거야'라고 말씀하신 거예요. 그리고 정말로 이 약속대로 이스라엘 백성은 엄청나게 많아졌고, 예수님을 믿는 우리들도 아브람의 자손이 되었답니다!",
+      "bibleReferences": [
+        "창세기 15:5 - '하늘을 우러러 뭇별을 셀 수 있나 보라 또 그에게 이르시되 네 자손이 이와 같으리라'",
+        "창세기 22:17 - '내가 네게 큰 복을 주고 네 씨가 크게 번성하여 하늘의 별과 같고 바닷가의 모래와 같게 하리니'",
+        "로마서 4:18 - '그가 바랄 수 없는 중에 바라고 믿었으니 이는 네 후손이 이같으리라 하신 말씀대로 많은 민족의 조상이 되게 하려 하심이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "하나님의 약속은 인간의 계산이나 이해를 초월합니다. '티끌처럼 많은' 후손의 약속은 단순히 수적 증가가 아니라, 하나님의 구원 계획이 전 세계 모든 민족에게 확장될 것을 예표합니다. 그리스도 안에서 이 약속은 성취되었고, 믿음으로 말미암아 우리 모두가 아브라함의 자손이 되었습니다."
+    }
+  }
+}

@@ -1,0 +1,185 @@
+{
+  "id": "genesis_11_10",
+  "reference": "창세기 11:10",
+  "hebrew": "אֵלֶּה תּוֹלְדֹת שֵׁם בֶּן מְאַת שָׁנָה וַיּוֹלֶד אַרְפַּכְשָׁד שְׁנָתַיִם אַחַר הַמַּבּוּל",
+  "ipa": "ˈʔɛllɛ toləˈdot ʃem ʃem bɛn məˈʔat ʃaˈna vajˈjolɛd ʔɛt ʔarpaxˈʃad ʃənaˈtajim ʔaˈxar hammabˈbul",
+  "koreanPronunciation": "엘레 톨도트 셈 셈 벤 메아트 샤나 바욜레드 에트 아르팍샤드 쉐나타임 아하르 함마불",
+  "modern": "이것은 셈의 족보입니다. 셈은 백 세가 되었을 때 홍수 후 2년에 아르박삿을 낳았습니다",
+  "words": [
+    {
+      "hebrew": "אֵלֶּה",
+      "meaning": "이것은",
+      "ipa": "ˈʔɛllɛ",
+      "korean": "엘레",
+      "letters": "אֵ(e) + לֶּ(l) + ה(leh)",
+      "root": "אֵלֶּה (엘레)",
+      "grammar": "대명사",
+      "emoji": "👉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"elleh-point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4A90E2\" /><stop offset=\"100%\" stop-color=\"#7B68EE\" /></linearGradient><radialGradient id=\"elleh-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#4A90E2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#elleh-point1)\" opacity=\"0.2\" /><path d=\"M 20 32 L 35 32 L 30 27 M 35 32 L 30 37\" stroke=\"url(#elleh-point1)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(74, 144, 226, 0.5))\" /><circle cx=\"42\" cy=\"32\" r=\"4\" fill=\"url(#elleh-glow1)\" filter=\"drop-shadow(0 0 6px rgba(123, 104, 238, 0.8))\" /></svg>",
+      "relatedWords": [
+        "זֹאת (조트 - 이것)",
+        "זֶה (제 - 이)"
+      ]
+    },
+    {
+      "hebrew": "תּוֹלְדֹת",
+      "meaning": "족보, 계보",
+      "ipa": "toləˈdot",
+      "korean": "톨도트",
+      "letters": "תּ(to) + וֹ(o) + לְ(le) + דֹת(dot)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "명사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"toledot-scroll1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4E4C1\" /><stop offset=\"100%\" stop-color=\"#D4AF37\" /></linearGradient><linearGradient id=\"toledot-text1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"32\" rx=\"2\" fill=\"url(#toledot-scroll1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"12\" cy=\"32\" r=\"6\" fill=\"url(#toledot-scroll1)\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"url(#toledot-scroll1)\" /><line x1=\"20\" y1=\"24\" x2=\"44\" y2=\"24\" stroke=\"url(#toledot-text1)\" stroke-width=\"2\" opacity=\"0.8\" /><line x1=\"20\" y1=\"30\" x2=\"44\" y2=\"30\" stroke=\"url(#toledot-text1)\" stroke-width=\"2\" opacity=\"0.8\" /><line x1=\"20\" y1=\"36\" x2=\"44\" y2=\"36\" stroke=\"url(#toledot-text1)\" stroke-width=\"2\" opacity=\"0.8\" /><line x1=\"20\" y1=\"42\" x2=\"36\" y2=\"42\" stroke=\"url(#toledot-text1)\" stroke-width=\"2\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "יֶלֶד (옐레드 - 아이)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃem",
+      "korean": "셈",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (셈)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shem-genealogy1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"shem-crown1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#shem-genealogy1)\" filter=\"drop-shadow(0 4px 6px rgba(255, 140, 0, 0.4))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#shem-crown1)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"8\" fill=\"url(#shem-genealogy1)\" /><path d=\"M 26 18 L 32 12 L 38 18 Z\" fill=\"#FFD700\" filter=\"drop-shadow(0 2px 3px rgba(255, 215, 0, 0.6))\" /><circle cx=\"30\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"34\" cy=\"26\" r=\"2\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (셈 - 이름)",
+        "נֹחַ (노아흐 - 노아)"
+      ]
+    },
+    {
+      "hebrew": "בֶּן מְאַת שָׁנָה",
+      "meaning": "백 세",
+      "ipa": "bɛn məˈʔat ʃaˈna",
+      "korean": "벤 메아트 샤나",
+      "letters": "בֶּן(ben) + מְאַת(me'at) + שָׁנָה(shanah)",
+      "root": "בֵּן (벤) + מֵאָה (메아) + שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "💯",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"age100-number1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#E74C3C\" /></linearGradient><radialGradient id=\"age100-glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#9B59B6\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#age100-number1)\" filter=\"drop-shadow(0 4px 8px rgba(155, 89, 182, 0.5))\" /><text x=\"32\" y=\"42\" font-size=\"24\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 2px rgba(0, 0, 0, 0.4))\">100</text><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#age100-glow1)\" stroke-width=\"2\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "שָׁנָה (샤나 - 해)"
+      ]
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּ(yyo) + וֹ(o) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"vayoled-baby1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></linearGradient><radialGradient id=\"vayoled-heart1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#vayoled-baby1)\" filter=\"drop-shadow(0 3px 5px rgba(255, 105, 180, 0.4))\" /><ellipse cx=\"32\" cy=\"46\" rx=\"14\" ry=\"10\" fill=\"url(#vayoled-baby1)\" /><circle cx=\"29\" cy=\"26\" r=\"2\" fill=\"#654321\" /><circle cx=\"35\" cy=\"26\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF1493\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 20 20 Q 16 16 18 12 Q 20 8 24 10 Q 28 6 32 10 Q 36 6 40 10 Q 44 8 46 12 Q 48 16 44 20\" fill=\"url(#vayoled-heart1)\" opacity=\"0.6\" transform=\"translate(-10, -4) scale(0.3)\" /></svg>",
+      "relatedWords": [
+        "יָלַד (얄라드 - 낳다)",
+        "תּוֹלְדוֹת (톨도트 - 족보)"
+      ]
+    },
+    {
+      "hebrew": "אַרְפַּכְשָׁד",
+      "meaning": "아르박삿",
+      "ipa": "ʔarpaxˈʃad",
+      "korean": "아르팍샤드",
+      "letters": "אַ(ar) + רְ(r) + פַּ(pa) + כְ(kh) + שָׁד(shad)",
+      "root": "אַרְפַּכְשָׁד (아르팍샤드)",
+      "grammar": "명사",
+      "emoji": "🌟",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arpachshad-name1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1E90FF\" /><stop offset=\"50%\" stop-color=\"#00CED1\" /><stop offset=\"100%\" stop-color=\"#20B2AA\" /></linearGradient><radialGradient id=\"arpachshad-star1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#arpachshad-name1)\" opacity=\"0.3\" /><path d=\"M 32 12 L 36 26 L 50 26 L 39 34 L 43 48 L 32 40 L 21 48 L 25 34 L 14 26 L 28 26 Z\" fill=\"url(#arpachshad-star1)\" filter=\"drop-shadow(0 0 8px rgba(30, 144, 255, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.9))\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (셈 - 셈)",
+        "שֶׁלַח (셸라흐 - 셸라)"
+      ]
+    },
+    {
+      "hebrew": "שְׁנָתַיִם",
+      "meaning": "2년",
+      "ipa": "ʃənaˈtajim",
+      "korean": "쉐나타임",
+      "letters": "שְׁ(she) + נָ(na) + תַ(ta) + יִם(yim)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "2️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shenatayim-two1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#FFA07A\" /></linearGradient><radialGradient id=\"shenatayim-circle1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FF6B6B\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#shenatayim-two1)\" filter=\"drop-shadow(0 4px 6px rgba(255, 107, 107, 0.4))\" /><text x=\"32\" y=\"44\" font-size=\"32\" font-weight=\"bold\" fill=\"#FFFFFF\" text-anchor=\"middle\" filter=\"drop-shadow(0 2px 2px rgba(0, 0, 0, 0.4))\">2</text><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#shenatayim-circle1)\" stroke-width=\"2\" opacity=\"0.4\" /></svg>",
+      "relatedWords": [
+        "שָׁנָה (샤나 - 해)",
+        "שְׁלֹשׁ (쉘로쉬 - 셋)"
+      ]
+    },
+    {
+      "hebrew": "אַחַר הַמַּבּוּל",
+      "meaning": "홍수 후",
+      "ipa": "ʔaˈxar hammabˈbul",
+      "korean": "아하르 함마불",
+      "letters": "אַ(a) + חַר(char) + הַ(ha) + מַּ(ma) + בּוּל(bul)",
+      "root": "אַחַר (아하르) + מַבּוּל (마불)",
+      "grammar": "전치사",
+      "emoji": "🌊",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mabbul-flood1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E3A8A\" /></linearGradient><radialGradient id=\"mabbul-ark1\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#mabbul-flood1)\" opacity=\"0.4\" rx=\"8\" /><path d=\"M 8 48 Q 16 44 24 48 Q 32 52 40 48 Q 48 44 56 48\" stroke=\"#4682B4\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 8 54 Q 16 50 24 54 Q 32 58 40 54 Q 48 50 56 54\" stroke=\"#1E3A8A\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 20 20 L 44 20 L 46 32 L 18 32 Z\" fill=\"url(#mabbul-ark1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"30\" y=\"12\" width=\"4\" height=\"8\" fill=\"#654321\" /></svg>",
+      "relatedWords": [
+        "מַבּוּל (마불 - 홍수)",
+        "נֹחַ (노아흐 - 노아)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 10절은 셈의 족보를 시작하며, 홍수 이후 하나님의 구속 계획이 셈의 계통을 통해 이어짐을 보여줍니다. 이 족보는 노아에서 아브라함으로 이어지는 구원 역사의 다리 역할을 하며, 하나님께서 선택하신 언약의 가족을 추적합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "תּוֹלְדֹת (톨도트) - 족보의 신학적 의미",
+        "description": "'톨도트'는 '세대', '계보', '족보'를 의미하는 히브리어로, 창세기 전체에서 구조적 틀을 제공하는 핵심 단어입니다. 이 단어는 단순한 계보 기록을 넘어 하나님의 구속 계획이 세대를 거쳐 어떻게 전개되는지를 보여줍니다.",
+        "points": [
+          "창세기에서 '톨도트'는 10번 등장하여 책의 구조를 형성합니다",
+          "각 톨도트는 하나님의 약속이 세대를 거쳐 이어짐을 추적합니다",
+          "셈의 톨도트는 노아에서 아브라함으로 이어지는 언약의 계보입니다",
+          "이 족보는 예수 그리스도까지 이어지는 메시아 계보의 일부입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שֵׁם (셈) - 선택받은 계통",
+        "description": "셈은 노아의 세 아들 중 하나로, 그의 이름은 '이름'을 의미합니다. 홍수 후 하나님의 축복을 받은 셈의 계통은 아브라함, 이삭, 야곱, 그리고 궁극적으로 예수 그리스도로 이어지는 언약의 가족입니다.",
+        "points": [
+          "셈은 노아로부터 축복을 받았습니다 (창세기 9:26)",
+          "셈족은 중동의 주요 민족들의 조상이 됩니다",
+          "하나님의 구속 계획은 셈의 후손을 통해 실현됩니다",
+          "아브라함은 셈의 9대손으로 언약의 민족을 시작합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אַחַר הַמַּבּוּל (아하르 함마불) - 새로운 시작",
+        "description": "'홍수 후'라는 표현은 단순한 시간 표시를 넘어 새로운 창조의 시작을 의미합니다. 홍수는 하나님의 심판이었지만, 홍수 후는 하나님의 은혜와 새로운 약속의 시대입니다.",
+        "points": [
+          "홍수는 옛 세상을 심판했지만, 새로운 기회를 제공했습니다",
+          "셈의 족보는 홍수 후 2년에 시작되어 새 시대를 표시합니다",
+          "이 시간 표기는 노아 언약의 맥락에서 구원 역사를 추적합니다",
+          "홍수 후의 세계는 아브라함 언약으로 이어질 무대입니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람들의 이름과 나이를 성경에 자세히 기록하셨을까요?",
+      "answer": "하나님은 역사 속에서 일하시는 분이시기 때문에, 실제 사람들과 실제 시간을 통해 약속을 이루시는 것을 보여주시기 위해서예요. 마치 가족 앨범에 사진을 모아두는 것처럼, 하나님은 셈에서 아브라함까지, 그리고 아브라함에서 예수님까지 이어지는 구원의 이야기를 우리에게 보여주십니다. 이 족보는 하나님의 약속이 진짜로 이루어진다는 증거예요!",
+      "bibleReferences": [
+        "누가복음 3:36 - '그 위는 가이난이요 그 위는 아르박삿이요 그 위는 셈이요'",
+        "히브리서 11:8 - '믿음으로 아브라함은 부르심을 받았을 때에 순종하여'",
+        "마태복음 1:1 - '아브라함과 다윗의 자손 예수 그리스도의 세계라'",
+        "갈라디아서 3:16 - '이 약속들은 아브라함과 그 자손에게 말씀하신 것인데'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "셈의 족보는 하나님의 구속 계획이 역사 속에서 구체적으로 실현됨을 보여줍니다. 홍수의 심판 후에도 하나님은 은혜로 새로운 세대를 일으키시고, 그들을 통해 모든 민족을 축복하실 계획을 진행하십니다. 이 족보는 궁극적으로 예수 그리스도로 이어지는 구원의 계보이며, 하나님의 약속이 세대를 거쳐 신실하게 성취됨을 증거합니다."
+    }
+  }
+}

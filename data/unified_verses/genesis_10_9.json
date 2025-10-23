@@ -1,0 +1,143 @@
+{
+  "id": "genesis_10_9",
+  "reference": "창세기 10:9",
+  "hebrew": "הוּא־הָיָה גִבֹּר־צַיִד, לִפְנֵי יְהוָה; עַל־כֵּן יֵאָמַר, כְּנִמְרֹד גִּבּוֹר צַיִד, לִפְנֵי יְהוָה.",
+  "ipa": "huhaˈja gibborˈtsajid lifˈne jəhoˈva ʕalken jeʔaˈmar kənimˈrod gibˈbor ˈtsajid lifˈne jəhoˈva",
+  "koreanPronunciation": "후하야 기보르차이드 리프네이 예호바 알켄 예아마르 케님로드 기보르 차이드 리프네이 예호바",
+  "modern": "그가 여호와 앞에서 용감한 사냥꾼이었으므로 속담에 이르기를 니므롯 같이 여호와 앞에 용감한 사냥꾼이로다 하더라",
+  "words": [
+    {
+      "hebrew": "צַיִד",
+      "meaning": "사냥꾼, 사냥",
+      "ipa": "ˈtsajid",
+      "korean": "차이드",
+      "letters": "צַ(tsa) + יִ(yi) + ד(d)",
+      "root": "צ-י-ד (차야드 - 사냥하다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hunt_tsayid\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><line x1=\"12\" y1=\"32\" x2=\"44\" y2=\"32\" stroke=\"url(#hunt_tsayid)\" stroke-width=\"3\" /><polygon points=\"44,32 36,28 36,36\" fill=\"#5D4037\" /><circle cx=\"52\" cy=\"32\" r=\"6\" fill=\"none\" stroke=\"#D32F2F\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "צָד (차드 - 사냥하다)",
+        "צַיָּד (차야드 - 사냥꾼)"
+      ]
+    },
+    {
+      "hebrew": "לִפְנֵי",
+      "meaning": "앞에서, ~에 대하여",
+      "ipa": "lifˈne",
+      "korean": "리프네이",
+      "letters": "לִ(li) + פְ(f) + נֵ(ne) + י(y)",
+      "root": "פָּנִים (파님 - 얼굴)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"before_lifnei\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#7B1FA2\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"12\" fill=\"url(#before_lifnei)\" opacity=\"0.7\" /><polygon points=\"44,32 32,26 32,38\" fill=\"#7B1FA2\" opacity=\"0.6\" /><line x1=\"32\" y1=\"32\" x2=\"52\" y2=\"32\" stroke=\"#9C27B0\" stroke-width=\"2\" stroke-dasharray=\"3,3\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴)",
+        "לְפָנָיו (레파나브 - 그 앞에)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה",
+      "meaning": "여호와 (하나님의 이름)",
+      "ipa": "jəhoˈva",
+      "korean": "예호바",
+      "letters": "יְ(ye) + הוָ(ho) + ה(vah)",
+      "root": "ה-י-ה (하야 - 있다, 되다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh_yehovah\"><stop offset=\"0%\" stop-color=\"#FFF\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA000\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#yhwh_yehovah)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 0.8))\" /><text x=\"32\" y=\"40\" font-size=\"18\" fill=\"#FFF\" text-anchor=\"middle\" font-weight=\"bold\">יהוה</text></svg>",
+      "relatedWords": [
+        "אֶהְיֶה (에헤예 - 나는 있다)",
+        "הָיָה (하야 - 되다, 있다)"
+      ]
+    },
+    {
+      "hebrew": "יֵאָמַר",
+      "meaning": "말해진다, 속담이 되다",
+      "ipa": "jeʔaˈmar",
+      "korean": "예아마르",
+      "letters": "יֵ(ye) + אָ(a) + מַ(ma) + ר(r)",
+      "root": "א-מ-ר (아마르 - 말하다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"say_yeamar\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"24\" cy=\"28\" rx=\"16\" ry=\"12\" fill=\"url(#say_yeamar)\" opacity=\"0.6\" /><circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"#FFF\" opacity=\"0.5\" /><path d=\"M 24 36 L 20 44 L 28 40 Z\" fill=\"#1976D2\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "מָשָׁל (마샬 - 속담)"
+      ]
+    },
+    {
+      "hebrew": "כְּנִמְרֹד",
+      "meaning": "니므롯처럼",
+      "ipa": "kənimˈrod",
+      "korean": "케님로드",
+      "letters": "כְּ(ke) + נִ(ni) + מְ(m) + רֹ(ro) + ד(d)",
+      "root": "כְּ + נִמְרֹד (케 + 님로드)",
+      "grammar": "전치사+명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"like_kenimrod\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E53935\" /><stop offset=\"100%\" stop-color=\"#C62828\" /></linearGradient></defs><rect x=\"12\" y=\"12\" width=\"20\" height=\"20\" rx=\"2\" fill=\"url(#like_kenimrod)\" opacity=\"0.7\" /><rect x=\"32\" y=\"32\" width=\"20\" height=\"20\" rx=\"2\" fill=\"url(#like_kenimrod)\" opacity=\"0.7\" /><line x1=\"22\" y1=\"22\" x2=\"42\" y2=\"42\" stroke=\"#D32F2F\" stroke-width=\"2\" stroke-dasharray=\"4,4\" /></svg>",
+      "relatedWords": [
+        "כְּמוֹ (케모 - ~처럼)",
+        "כָּזֶה (카제 - 이와 같은)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "이 구절은 니므롯에 대한 묘사를 계속하며, 그가 고대 세계에서 속담의 주인공이 될 만큼 유명했음을 보여줍니다. 그러나 '여호와 앞에서'라는 표현의 해석에 따라 이것이 칭찬인지 비판인지가 달라집니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "리프네이 예호바 - 두 가지 해석",
+        "description": "'리프네이 예호바(לִפְנֵי יְהוָה)'는 문자적으로 '여호와 앞에서'이지만, 두 가지로 해석될 수 있습니다: (1) '여호와께서 인정하시는' 긍정적 의미, (2) '여호와를 거스르며, 여호와께 도전하며'라는 부정적 의미.",
+        "points": [
+          "전통적으로 많은 주석가들이 부정적으로 해석합니다",
+          "문맥상 니므롯은 하나님께 반역한 인물로 이해됩니다",
+          "유대 전승은 그를 바벨탑의 주도자로 봅니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "기보르 차이드 - 사냥꾼의 의미",
+        "description": "'사냥꾼'은 단순히 동물을 사냥하는 자가 아니라, 사람들을 '사냥'하여 자신의 지배 아래 두는 정복자를 의미할 수 있습니다. 고대 근동의 왕들은 종종 '사냥꾼'으로 자신을 묘사했습니다.",
+        "points": [
+          "사냥은 왕권과 정복의 상징이었습니다",
+          "앗수르와 바벨론 왕들의 칭호였습니다",
+          "민족들을 정복하고 제국을 건설하는 자를 암시합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "속담이 된 니므롯",
+        "description": "'케님로드(כְּנִמְרֹד, 니므롯처럼)'라는 표현이 속담이 되었다는 것은, 그의 명성이 당대를 넘어 오래도록 지속되었음을 보여줍니다. 이는 그의 영향력이 얼마나 컸는지를 시사합니다.",
+        "points": [
+          "니므롯은 역사적으로 실존했던 강력한 인물이었습니다",
+          "그의 이름은 권력과 정복의 대명사가 되었습니다",
+          "후대 제국들의 원형이 되었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "신학적 긴장: 하나님의 주권 vs 인간의 야망",
+        "description": "니므롯 이야기는 하나님의 '땅에 충만하라'는 명령과 인간의 '우리 이름을 내자'(바벨탑)는 야망 사이의 긴장을 보여줍니다. 니므롯은 하나님의 계획을 이루는 듯하지만 실제로는 거역합니다.",
+        "points": [
+          "확장은 하나님의 명령이지만, 동기가 중요합니다",
+          "하나님의 영광이 아닌 인간의 영광 추구는 죄입니다",
+          "능력 자체가 아니라 그 사용 목적이 문제입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 유명해지는 것이 나쁠 수 있나요?",
+      "answer": "유명해지는 것 자체는 나쁘지 않아요. 다윗 왕이나 다니엘도 유명했지만 하나님을 섬겼어요. 문제는 '왜' 유명해지고 싶은지예요. 니므롯은 자기가 대단해 보이려고, 사람들이 자기를 무서워하게 만들려고 했어요. 하지만 진짜 멋진 사람은 하나님을 기쁘시게 하고 다른 사람을 돕는 사람이에요. 우리가 공부를 잘하거나 운동을 잘해서 칭찬받는 것은 좋지만, 그것으로 자랑하고 다른 친구들을 무시하면 안 돼요. 하나님은 우리 마음을 보세요.",
+      "bibleReferences": [
+        "잠언 22:1 - '많은 재물보다 명예를 택할 것이요 은이나 금보다 은총을 더욱 택할 것이니라'",
+        "전도서 7:1 - '아름다운 이름이 보배로운 기름보다 나으며'",
+        "빌립보서 2:3 - '아무 일에든지 다툼이나 허영으로 하지 말고 오직 겸손한 마음으로 각각 자기보다 남을 낫게 여기고'",
+        "마태복음 23:12 - '누구든지 자기를 높이는 자는 낮아지고 누구든지 자기를 낮추는 자는 높아지리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "니므롯이 속담의 주인공이 되었다는 것은 그의 영향력이 막대했음을 보여주지만, 성경은 이를 경고의 메시지로 제시합니다. '여호와 앞에서'라는 표현은 심판석 앞에 선 죄인을 연상시킵니다. 니므롯은 인간 역사에서 하나님 없이 자신의 왕국을 세우려는 모든 시도의 원형입니다. 그의 후계자들은 바벨론(느부갓네살), 앗수르(산헤립), 페르시아(고레스), 그리스(알렉산더), 로마(카이사르)로 이어지며, 궁극적으로 계시록의 '짐승'에 이릅니다. 그러나 성경은 이 모든 제국이 일어나고 무너지는 것을 기록하며, 오직 하나님의 나라만이 영원함을 선포합니다(단 2:44). 니므롯의 이야기는 '여호와 앞에서' 살아간다는 것이 무엇을 의미하는지 성찰하게 합니다 - 그분께 대항하며 사는가, 아니면 그분 아래서 겸손히 사는가?"
+    }
+  }
+}

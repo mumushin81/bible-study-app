@@ -1,0 +1,153 @@
+{
+  "id": "genesis_3_23",
+  "reference": "창세기 3:23",
+  "hebrew": "וַיְשַׁלְּחֵהוּ יְהוָה אֱלֹהִים, מִגַּן-עֵדֶן--לַעֲבֹד, אֶת-הָאֲדָמָה, אֲשֶׁר לֻקַּח, מִשָּׁם.",
+  "ipa": "vajəʃalləˈħehu jəhoˈvɑ ʔɛloˈhim miggan-ˈʕɛdɛn laʕaˈvod ʔɛt-haʔadaˈma ʔaˈʃɛr luˈkaħ miˈʃam",
+  "koreanPronunciation": "바예샬레헤후 여호와 엘로힘 미간 에덴 라아보드 에트 하아다마 아쉐르 루카흐 미샴",
+  "modern": "그리하여 여호와 하나님께서 사람을 에덴 동산에서 내보내시어, 그가 처음 만들어졌던 바로 그 땅을 경작하게 하셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיְשַׁלְּחֵהוּ",
+      "meaning": "그를 내보내셨다",
+      "ipa": "vajəʃalləˈħehu",
+      "korean": "바예샬레헤후",
+      "letters": "וַ(va) + יְ(ye) + שַׁ(sha) + לְּ(lle) + חֵ(he) + הוּ(hu)",
+      "root": "ש-ל-ח (샬라흐)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"door1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#5C2E0C\" /></linearGradient><linearGradient id=\"light1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.3\" /></radialGradient></defs><rect x=\"18\" y=\"8\" width=\"28\" height=\"48\" rx=\"2\" fill=\"url(#door1)\" stroke=\"#3E2723\" stroke-width=\"2\" filter=\"drop-shadow(4px 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"39\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.8))\" /><path d=\"M 46 10 L 50 32 L 46 54\" stroke=\"url(#light1)\" stroke-width=\"8\" opacity=\"0.7\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 0 6px rgba(255, 165, 0, 0.6))\" /><ellipse cx=\"52\" cy=\"32\" rx=\"8\" ry=\"20\" fill=\"url(#glow1)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "שָׁלַח (샬라흐 - 보내다)",
+        "שְׁלִיחַ (쉘리아흐 - 사자, 사도)"
+      ]
+    },
+    {
+      "hebrew": "יְהוָה אֱלֹהִים",
+      "meaning": "여호와 하나님",
+      "ipa": "jəhoˈvɑ ʔɛloˈhim",
+      "korean": "여호와 엘로힘",
+      "letters": "יְ(ye) + הוָ(ho) + ה(va) + אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "יהוה (여호와) + אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"jewel2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"30%\" stop-color=\"#9C27B0\" /><stop offset=\"100%\" stop-color=\"#6A1B9A\" /></radialGradient><linearGradient id=\"base2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFC107\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient><radialGradient id=\"bg2\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#bg2)\" /><path d=\"M 10 42 L 14 28 L 20 34 L 26 24 L 32 20 L 38 24 L 44 34 L 50 28 L 54 42 Z\" fill=\"url(#crown2)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"10\" y=\"42\" width=\"44\" height=\"6\" rx=\"1\" fill=\"url(#base2)\" stroke=\"#FF6F00\" stroke-width=\"1.5\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel2)\" filter=\"drop-shadow(0 0 6px rgba(156, 39, 176, 0.9))\" /><circle cx=\"20\" cy=\"36\" r=\"2.5\" fill=\"url(#jewel2)\" opacity=\"0.8\" /><circle cx=\"44\" cy=\"36\" r=\"2.5\" fill=\"url(#jewel2)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יהוה (여호와 - 스스로 계신 자)",
+        "אֵל (엘 - 하나님)"
+      ]
+    },
+    {
+      "hebrew": "מִגַּן-עֵדֶן",
+      "meaning": "에덴 동산에서",
+      "ipa": "miggan-ˈʕɛdɛn",
+      "korean": "미간 에덴",
+      "letters": "מִ(mi) + גַּן(gan) + עֵ(e) + דֶן(den)",
+      "root": "גַּן (간) + עֵדֶן (에덴)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tree3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\" /><stop offset=\"50%\" stop-color=\"#388E3C\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient><radialGradient id=\"foliage3\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"50%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></radialGradient><linearGradient id=\"trunk3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient><radialGradient id=\"fruit3\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FFC107\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"rgba(200, 230, 201, 0.3)\" rx=\"8\" /><circle cx=\"32\" cy=\"26\" r=\"16\" fill=\"url(#foliage3)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"24\" cy=\"20\" rx=\"10\" ry=\"12\" fill=\"url(#foliage3)\" opacity=\"0.8\" /><ellipse cx=\"40\" cy=\"20\" rx=\"10\" ry=\"12\" fill=\"url(#foliage3)\" opacity=\"0.8\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"20\" rx=\"2\" fill=\"url(#trunk3)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.4))\" /><circle cx=\"22\" cy=\"22\" r=\"3\" fill=\"url(#fruit3)\" filter=\"drop-shadow(0 0 4px rgba(255, 193, 7, 0.8))\" /><circle cx=\"38\" cy=\"18\" r=\"3\" fill=\"url(#fruit3)\" filter=\"drop-shadow(0 0 4px rgba(255, 193, 7, 0.8))\" /><circle cx=\"32\" cy=\"14\" r=\"3\" fill=\"url(#fruit3)\" filter=\"drop-shadow(0 0 4px rgba(255, 193, 7, 0.8))\" /></svg>",
+      "relatedWords": [
+        "גַּן (간 - 동산, 정원)",
+        "פַּרְדֵּס (파르데스 - 낙원)"
+      ]
+    },
+    {
+      "hebrew": "לַעֲבֹד",
+      "meaning": "경작하게 하려고",
+      "ipa": "laʕaˈvod",
+      "korean": "라아보드",
+      "letters": "לַ(la) + עֲ(a) + בֹד(vod)",
+      "root": "ע-ב-ד (아바드)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"soil4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient><linearGradient id=\"wheat4\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"50%\" stop-color=\"#FFB74D\" /><stop offset=\"100%\" stop-color=\"#FFD54F\" /></linearGradient><radialGradient id=\"grain4\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFB300\" /></radialGradient><linearGradient id=\"tool4\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#78909C\" /><stop offset=\"100%\" stop-color=\"#546E7A\" /></linearGradient></defs><rect x=\"0\" y=\"44\" width=\"64\" height=\"20\" fill=\"url(#soil4)\" opacity=\"0.4\" /><path d=\"M 14 50 Q 16 40 18 34\" stroke=\"url(#wheat4)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"18\" cy=\"32\" r=\"3\" fill=\"url(#grain4)\" /><path d=\"M 26 48 Q 28 38 30 32\" stroke=\"url(#wheat4)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"30\" cy=\"30\" r=\"3\" fill=\"url(#grain4)\" /><path d=\"M 38 50 Q 40 40 42 34\" stroke=\"url(#wheat4)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"42\" cy=\"32\" r=\"3\" fill=\"url(#grain4)\" /><path d=\"M 50 48 Q 52 38 54 32\" stroke=\"url(#wheat4)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"54\" cy=\"30\" r=\"3\" fill=\"url(#grain4)\" /><path d=\"M 8 52 L 12 48 L 12 20 L 10 18\" stroke=\"url(#tool4)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.4))\" /></svg>",
+      "relatedWords": [
+        "עֲבֹדָה (아보다 - 노동, 일)",
+        "עֶבֶד (에베드 - 종, 일꾼)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-הָאֲדָמָה",
+      "meaning": "그 땅을",
+      "ipa": "ʔɛt-haʔadaˈma",
+      "korean": "에트 하아다마",
+      "letters": "אֶת(et) + הָ(ha) + אֲ(a) + דָ(da) + מָה(ma)",
+      "root": "אֲדָמָה (아다마)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth5\"><stop offset=\"0%\" stop-color=\"#A1887F\" /><stop offset=\"50%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#6D4C41\" /></radialGradient><linearGradient id=\"grass5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#66BB6A\" /></linearGradient><radialGradient id=\"glow5\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#8D6E63\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"shadow5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#5D4037\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#3E2723\" stop-opacity=\"0.6\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#earth5)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.5))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"10\" fill=\"url(#shadow5)\" opacity=\"0.5\" /><path d=\"M 15 28 Q 20 22 28 24 Q 35 26 40 22 Q 46 18 50 24 L 50 36 Q 45 42 38 40 Q 30 38 22 42 Q 16 45 15 40 Z\" fill=\"url(#grass5)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"20\" cy=\"16\" rx=\"12\" ry=\"8\" fill=\"url(#glow5)\" /></svg>",
+      "relatedWords": [
+        "אָדָם (아담 - 사람, 인간)",
+        "אֲדֹנִי (아도나이 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר לֻקַּח מִשָּׁם",
+      "meaning": "그가 거기서 취함을 받았던",
+      "ipa": "ʔaˈʃɛr luˈkaħ miˈʃam",
+      "korean": "아쉐르 루카흐 미샴",
+      "letters": "אֲ(a) + שֶׁר(sher) + לֻ(lu) + קַּח(kach) + מִ(mi) + שָּׁם(sham)",
+      "root": "אֲשֶׁר (아쉐르) + ל-ק-ח (라카흐) + שָׁם (샴)",
+      "grammar": "기타",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#B39DDB\" /><stop offset=\"50%\" stop-color=\"#9575CD\" /><stop offset=\"100%\" stop-color=\"#7E57C2\" /></linearGradient><radialGradient id=\"origin6\"><stop offset=\"0%\" stop-color=\"#FFE082\" /><stop offset=\"100%\" stop-color=\"#FFB300\" /></radialGradient><linearGradient id=\"path6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#CE93D8\" /><stop offset=\"50%\" stop-color=\"#BA68C8\" /><stop offset=\"100%\" stop-color=\"#AB47BC\" /></linearGradient><radialGradient id=\"halo6\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#BA68C8\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"52\" cy=\"32\" r=\"8\" fill=\"url(#origin6)\" filter=\"drop-shadow(0 0 8px rgba(255, 179, 0, 0.7))\" /><ellipse cx=\"52\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#halo6)\" /><path d=\"M 48 32 L 20 32\" stroke=\"url(#path6)\" stroke-width=\"4\" stroke-dasharray=\"4,2\" opacity=\"0.7\" /><path d=\"M 28 32 L 12 32 L 20 24\" stroke=\"url(#arrow6)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 28 32 L 12 32 L 20 40\" stroke=\"url(#arrow6)\" stroke-width=\"5\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"url(#arrow6)\" filter=\"drop-shadow(0 0 6px rgba(126, 87, 194, 0.8))\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3장 23절은 타락한 인간이 에덴 동산에서 쫓겨나는 슬픈 순간을 기록합니다. 하나님께서 아담을 내보내신 것은 단순한 징벌이 아니라, 그가 본래 지어진 목적으로 돌아가 노동하며 살아가도록 하신 섭리적 조치였습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיְשַׁלְּחֵהוּ (바예샬레헤후) - 내보내심의 의미",
+        "description": "히브리어 '샬라흐'는 '보내다', '내보내다'를 의미하는 동사입니다. 이 단어는 단순한 추방이 아니라 특정 목적을 가지고 보낸다는 의미를 담고 있습니다. 하나님께서 아담을 에덴에서 내보내신 것은 심판이면서 동시에 새로운 삶의 시작이었습니다.",
+        "points": [
+          "하나님께서 직접 아담을 내보내셨다는 점에서 심판의 주권성을 보여줍니다",
+          "동시에 '보내다'는 말은 새로운 사명을 부여하신다는 의미도 담고 있습니다",
+          "에덴의 축복을 잃었지만 생명 자체는 보존되었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "מִגַּן-עֵדֶן (미간 에덴) - 상실한 낙원",
+        "description": "'에덴'은 '기쁨', '즐거움'을 뜻하는 히브리어입니다. 에덴 동산은 하나님과 인간이 친밀하게 교제하던 완벽한 장소였습니다. 이곳에서 쫓겨난다는 것은 하나님과의 직접적인 교제와 완전한 안식을 잃는다는 의미였습니다.",
+        "points": [
+          "에덴은 하나님의 임재가 충만했던 거룩한 공간이었습니다",
+          "죄로 인해 인간은 이 완벽한 환경을 상실하게 되었습니다",
+          "그러나 하나님은 장차 새 하늘과 새 땅에서 에덴을 회복하실 것입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לַעֲבֹד אֶת-הָאֲדָמָה (라아보드 에트 하아다마) - 노동의 시작",
+        "description": "'아바드'는 '일하다', '섬기다'를 의미하며, '아다마'는 '땅', '흙'을 뜻합니다. 아담(אָדָם)은 '아다마'에서 유래한 이름으로, 흙에서 지어진 인간이 다시 흙을 경작하게 된 것입니다. 에덴에서는 기쁨으로 동산을 돌보았지만(2:15), 이제는 땀 흘리며 땅을 경작해야 합니다(3:19).",
+        "points": [
+          "노동은 원래 하나님께서 주신 축복이었지만, 타락 이후 고통이 동반되게 되었습니다",
+          "아담이 흙에서 나왔듯이, 이제 그 흙을 경작하며 살아가야 합니다",
+          "이는 인간의 연약함과 땅에 속한 존재임을 상기시킵니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֲשֶׁר לֻקַּח מִשָּׁם (아쉐르 루카흐 미샴) - 기원으로의 회귀",
+        "description": "'루카흐'는 '취하다', '받다'의 수동형으로 '취함을 받다'는 의미입니다. 이 구절은 창세기 2:7을 상기시킵니다 - 하나님께서 땅의 흙으로 아담을 지으셨고, 이제 그가 다시 그 땅으로 돌아가는 것입니다. 이는 '티끌에서 나와 티끌로 돌아간다'는 인생의 순환을 보여줍니다.",
+        "points": [
+          "인간의 육체적 기원은 땅의 흙이라는 겸손한 출발점을 상기시킵니다",
+          "죄의 결과로 죽음과 땅으로의 귀환이라는 운명을 맞게 되었습니다",
+          "그러나 그리스도 안에서 새로운 피조물이 되어 영원한 생명을 얻을 소망이 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "하나님은 왜 아담과 하와를 에덴 동산에서 내보내셨을까요?",
+      "answer": "아담과 하와가 하나님의 말씀을 어기고 선악과를 먹었기 때문이에요. 하나님은 그들을 벌하셔야 했지만, 동시에 생명나무 열매를 먹고 영원히 죄인으로 살지 않도록 보호하시기 위해 내보내셨어요. 마치 부모님이 아이가 잘못했을 때 벌을 주시지만, 여전히 아이를 사랑하고 돌보시는 것처럼, 하나님도 아담과 하와를 여전히 사랑하시며 돌보고 계셨답니다.",
+      "bibleReferences": [
+        "창세기 3:22 - '여호와 하나님이 이르시되 보라 이 사람이 선악을 아는 일에 우리 중 하나 같이 되었으니'",
+        "창세기 3:24 - '그가 그 사람을 쫓아내시고 에덴 동산 동쪽에 그룹들과 두루 도는 불 칼을 두어 생명나무의 길을 지키게 하시니라'",
+        "로마서 5:12 - '이러므로 한 사람으로 말미암아 죄가 세상에 들어오고 죄로 말미암아 사망이 들어왔나니'",
+        "요한계시록 22:2 - '그 나무 잎사귀들은 만국을 치료하기 위하여 있더라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "에덴에서의 추방은 인류 역사상 가장 슬픈 사건이지만, 하나님의 구원 계획의 시작이기도 합니다. 아담이 에덴을 잃었지만, 예수 그리스도는 '마지막 아담'으로 오셔서 우리를 위해 완전한 순종을 이루시고 낙원의 문을 다시 열어주셨습니다(누가복음 23:43). 우리는 땅을 경작하며 살아가지만, 장차 새 하늘과 새 땅에서 회복된 에덴의 영광을 누릴 소망을 가집니다."
+    }
+  }
+}

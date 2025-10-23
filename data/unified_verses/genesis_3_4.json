@@ -1,0 +1,143 @@
+{
+  "id": "genesis_3_4",
+  "reference": "창세기 3:4",
+  "hebrew": "וַיֹּאמֶר הַנָּחָשׁ, אֶל-הָאִשָּׁה:  לֹא-מוֹת, תְּמֻתוּן.",
+  "ipa": "təmuˈtun mot lo haʔiˈʃa ʔɛl hanaˈχaʃ vajˈjomɛr",
+  "koreanPronunciation": "테무툰 모트 로 하이샤 엘 하나하쉬 바요메르",
+  "modern": "뱀이 여자에게 말했습니다. \"너희는 결코 죽지 않을 것이다.\"",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶ(me) + ר(r)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speechGrad1_a7k9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><radialGradient id=\"speechGlow1_b3m2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#E0C3FC\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"speechDot1_c8n5\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"50%\" stop-color=\"#C471ED\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><linearGradient id=\"speechTail1_d2p7\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#667EEA\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#speechGlow1_b3m2)\" /><rect x=\"16\" y=\"18\" width=\"32\" height=\"22\" rx=\"6\" fill=\"url(#speechGrad1_a7k9)\" filter=\"drop-shadow(0 4px 10px rgba(102, 126, 234, 0.5))\" /><path d=\"M 24 40 L 20 50 L 28 42 Z\" fill=\"url(#speechTail1_d2p7)\" filter=\"drop-shadow(0 2px 5px rgba(118, 75, 162, 0.4))\" /><circle cx=\"24\" cy=\"29\" r=\"2.5\" fill=\"url(#speechDot1_c8n5)\" filter=\"drop-shadow(0 0 3px rgba(240, 147, 251, 0.8))\" /><circle cx=\"32\" cy=\"29\" r=\"2.5\" fill=\"url(#speechDot1_c8n5)\" filter=\"drop-shadow(0 0 3px rgba(240, 147, 251, 0.8))\" /><circle cx=\"40\" cy=\"29\" r=\"2.5\" fill=\"url(#speechDot1_c8n5)\" filter=\"drop-shadow(0 0 3px rgba(240, 147, 251, 0.8))\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "מַאֲמָר (마아마르 - 말씀)"
+      ]
+    },
+    {
+      "hebrew": "הַנָּחָשׁ",
+      "meaning": "뱀",
+      "ipa": "hanaˈχaʃ",
+      "korean": "하나하쉬",
+      "letters": "הַ(ha) + נָּ(na) + חָ(cha) + שׁ(sh)",
+      "root": "נָּחָשׁ (나하쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"snakeBody_e5r8\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" /><stop offset=\"25%\" stop-color=\"#64DD17\" /><stop offset=\"50%\" stop-color=\"#FFD600\" /><stop offset=\"75%\" stop-color=\"#FFAB00\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" /></linearGradient><radialGradient id=\"snakeEye_f9t3\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"40%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient><linearGradient id=\"snakeScale_g2w6\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#00C853\" stop-opacity=\"0.7\" /><stop offset=\"50%\" stop-color=\"#76FF03\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#FFD600\" stop-opacity=\"0.8\" /></linearGradient><radialGradient id=\"snakeApple_h4q1\"><stop offset=\"0%\" stop-color=\"#FF5252\" /><stop offset=\"60%\" stop-color=\"#C62828\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><path d=\"M 48 56 Q 52 48 48 40 Q 44 32 48 24 Q 52 16 48 8\" stroke=\"url(#snakeBody_e5r8)\" stroke-width=\"15\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(2px 4px 6px rgba(0, 128, 0, 0.5))\" /><ellipse cx=\"48\" cy=\"8\" rx=\"10\" ry=\"8\" fill=\"url(#snakeBody_e5r8)\" transform=\"rotate(-25 48 8)\" filter=\"drop-shadow(0 3px 5px rgba(0, 0, 0, 0.4))\" /><circle cx=\"46\" cy=\"6\" r=\"3\" fill=\"url(#snakeEye_f9t3)\" filter=\"drop-shadow(0 0 5px rgba(255, 107, 53, 0.9))\" /><circle cx=\"50\" cy=\"7\" r=\"1.5\" fill=\"#FFD700\" opacity=\"0.9\" /><path d=\"M 54 9 L 59 7 L 56 12 Z\" fill=\"#FF1744\" filter=\"drop-shadow(0 2px 3px rgba(255, 23, 68, 0.6))\" /><circle cx=\"22\" cy=\"34\" r=\"11\" fill=\"url(#snakeApple_h4q1)\" filter=\"drop-shadow(2px 4px 8px rgba(139, 0, 0, 0.6))\" /><ellipse cx=\"22\" cy=\"32\" rx=\"7\" ry=\"4\" fill=\"url(#snakeScale_g2w6)\" /><circle cx=\"20\" cy=\"31\" r=\"2\" fill=\"#FFD700\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נְחֹשֶׁת (네호쉐트 - 청동)",
+        "נַחַשׁ (나하쉬 - 점치다)"
+      ]
+    },
+    {
+      "hebrew": "אֶל-הָאִשָּׁה",
+      "meaning": "여자에게",
+      "ipa": "ʔɛl haʔiˈʃa",
+      "korean": "엘 하이샤",
+      "letters": "אֶל(el) + הָ(ha) + אִשָּׁ(ish) + ה(ah)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"womanFace_i7u2\"><stop offset=\"0%\" stop-color=\"#FFE5E5\" /><stop offset=\"50%\" stop-color=\"#FFB3C1\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></radialGradient><linearGradient id=\"womanHair_j3v8\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#6D3410\" /><stop offset=\"100%\" stop-color=\"#4A2410\" /></linearGradient><radialGradient id=\"womanGlow_k9x4\"><stop offset=\"0%\" stop-color=\"#FFC0CB\" stop-opacity=\"0.6\" /><stop offset=\"70%\" stop-color=\"#FF69B4\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#FF1493\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"womanDress_l5z6\" x1=\"0%\" x2=\"0%\" y1=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F8BBD0\" /><stop offset=\"50%\" stop-color=\"#F48FB1\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#womanGlow_k9x4)\" /><ellipse cx=\"32\" cy=\"22\" rx=\"11\" ry=\"13\" fill=\"url(#womanFace_i7u2)\" filter=\"drop-shadow(0 4px 8px rgba(255, 107, 157, 0.3))\" /><ellipse cx=\"32\" cy=\"16\" rx=\"13\" ry=\"11\" fill=\"url(#womanHair_j3v8)\" filter=\"drop-shadow(0 2px 6px rgba(74, 36, 16, 0.5))\" /><circle cx=\"29\" cy=\"21\" r=\"1.8\" fill=\"#4A2C2A\" /><circle cx=\"35\" cy=\"21\" r=\"1.8\" fill=\"#4A2C2A\" /><path d=\"M 29 26 Q 32 28 35 26\" stroke=\"#D81B60\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"27\" cy=\"23\" r=\"3\" fill=\"#FCE4EC\" opacity=\"0.5\" /><circle cx=\"37\" cy=\"23\" r=\"3\" fill=\"#FCE4EC\" opacity=\"0.5\" /><path d=\"M 32 34 Q 22 41 18 52 Q 25 50 32 50 Q 39 50 46 52 Q 42 41 32 34\" fill=\"url(#womanDress_l5z6)\" filter=\"drop-shadow(0 5px 10px rgba(233, 30, 99, 0.4))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"9\" ry=\"7\" fill=\"url(#womanFace_i7u2)\" filter=\"drop-shadow(0 2px 4px rgba(255, 107, 157, 0.2))\" /></svg>",
+      "relatedWords": [
+        "אִישׁ (이쉬 - 남자)",
+        "חַוָּה (하와 - 이브)"
+      ]
+    },
+    {
+      "hebrew": "לֹא-מוֹת",
+      "meaning": "결코 죽지 않을",
+      "ipa": "lo mot",
+      "korean": "로 모트",
+      "letters": "לֹא(lo) + מוֹ(mo) + ת(t)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"denialBg_m8s3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D32F2F\" /><stop offset=\"50%\" stop-color=\"#C62828\" /><stop offset=\"100%\" stop-color=\"#B71C1C\" /></linearGradient><radialGradient id=\"denialGlow_n4t7\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#FFCDD2\" stop-opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"denialX_p2w5\" x1=\"0%\" x2=\"100%\" y1=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFEBEE\" /><stop offset=\"100%\" stop-color=\"#FFE0E0\" /></linearGradient><radialGradient id=\"denialRing_q6y9\"><stop offset=\"0%\" stop-color=\"#FF5252\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#denialGlow_n4t7)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#denialBg_m8s3)\" filter=\"drop-shadow(0 5px 12px rgba(139, 0, 0, 0.6))\" /><circle cx=\"32\" cy=\"32\" r=\"21\" fill=\"none\" stroke=\"url(#denialRing_q6y9)\" stroke-width=\"2\" opacity=\"0.5\" /><line x1=\"19\" y1=\"19\" x2=\"45\" y2=\"45\" stroke=\"url(#denialX_p2w5)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5))\" /><line x1=\"45\" y1=\"19\" x2=\"19\" y2=\"45\" stroke=\"url(#denialX_p2w5)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.5))\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"#FF8A80\" stroke-width=\"1\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "מָוֶת (마웨트 - 죽음)",
+        "מֵת (메트 - 죽은)"
+      ]
+    },
+    {
+      "hebrew": "תְּמֻתוּן",
+      "meaning": "너희가 죽을 것이다",
+      "ipa": "təmuˈtun",
+      "korean": "테무툰",
+      "letters": "תְּ(te) + מֻ(mu) + תוּ(tu) + ן(n)",
+      "root": "מ-ו-ת (무트)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"deathSkull_r7a4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#616161\" /><stop offset=\"50%\" stop-color=\"#424242\" /><stop offset=\"100%\" stop-color=\"#212121\" /></linearGradient><radialGradient id=\"deathGlow_s3b8\"><stop offset=\"0%\" stop-color=\"#9E9E9E\" stop-opacity=\"0.6\" /><stop offset=\"70%\" stop-color=\"#616161\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"deathHighlight_t9c2\" x1=\"0%\" x2=\"100%\" y1=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#BDBDBD\" /><stop offset=\"50%\" stop-color=\"#9E9E9E\" /><stop offset=\"100%\" stop-color=\"#757575\" /></linearGradient><radialGradient id=\"deathEye_u5d6\"><stop offset=\"0%\" stop-color=\"#5C6BC0\" /><stop offset=\"50%\" stop-color=\"#3F51B5\" /><stop offset=\"100%\" stop-color=\"#1A237E\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#deathGlow_s3b8)\" /><ellipse cx=\"32\" cy=\"30\" rx=\"19\" ry=\"21\" fill=\"url(#deathSkull_r7a4)\" filter=\"drop-shadow(0 6px 14px rgba(0, 0, 0, 0.7))\" /><ellipse cx=\"30\" cy=\"26\" rx=\"7\" ry=\"5\" fill=\"url(#deathHighlight_t9c2)\" opacity=\"0.4\" /><ellipse cx=\"25\" cy=\"26\" rx=\"5.5\" ry=\"8\" fill=\"url(#deathEye_u5d6)\" filter=\"drop-shadow(0 0 10px rgba(63, 81, 181, 0.9))\" /><ellipse cx=\"39\" cy=\"26\" rx=\"5.5\" ry=\"8\" fill=\"url(#deathEye_u5d6)\" filter=\"drop-shadow(0 0 10px rgba(63, 81, 181, 0.9))\" /><ellipse cx=\"32\" cy=\"35\" rx=\"2.5\" ry=\"4\" fill=\"#424242\" /><path d=\"M 22 42 Q 24 44 26 42 Q 28 40 30 42 Q 32 44 34 42 Q 36 40 38 42 Q 40 44 42 42\" stroke=\"url(#deathHighlight_t9c2)\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.8\" filter=\"drop-shadow(0 1px 2px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"52\" r=\"9\" fill=\"#212121\" opacity=\"0.4\" filter=\"blur(4px)\" /></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 3장 4절은 인류 역사상 가장 치명적인 거짓말이 등장하는 순간입니다. 뱀은 하나님의 경고를 정면으로 부인하며 '너희는 결코 죽지 않을 것이다'라고 말합니다. 이는 단순한 거짓말이 아니라 하나님의 말씀에 대한 직접적인 도전이며, 죄와 죽음이 세상에 들어오게 된 결정적 순간입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "לֹא-מוֹת תְּמֻתוּן (로 모트 테무툰) - 거짓의 시작",
+        "description": "히브리어로 '로 모트'는 강한 부정을 나타내며, '결코 ~하지 않을 것이다'라는 의미입니다. 뱀은 하나님의 경고(창세기 2:17 '네가 먹는 날에는 반드시 죽으리라')를 정면으로 부인합니다. 이는 하나님의 말씀에 대한 첫 번째 공격입니다.",
+        "points": [
+          "하나님의 명확한 경고를 직접적으로 부인하는 대담함",
+          "진리를 왜곡하여 거짓을 진실처럼 포장하는 전략",
+          "죄의 결과(죽음)를 축소하고 숨기려는 시도",
+          "사탄의 거짓말은 항상 하나님의 말씀을 부인하는 것으로 시작됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַנָּחָשׁ (하나하쉬) - 속이는 자의 정체",
+        "description": "뱀은 단순한 동물이 아니라 사탄의 도구입니다(요한계시록 12:9 '옛 뱀 곧 마귀라고도 하고 사탄이라고도 하며'). 히브리어 '나하쉬'는 뱀을 의미하지만, 동시에 '점치다', '추측하다'라는 의미도 가지고 있어 속임수와 연결됩니다.",
+        "points": [
+          "사탄은 교묘하고 간교한 방법으로 접근합니다",
+          "외적으로는 무해해 보이지만 내적으로는 치명적입니다",
+          "하나님의 선한 피조물(뱀)을 악의 도구로 사용합니다",
+          "거짓의 아비(요한복음 8:44)는 오늘날에도 여전히 활동합니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיֹּאמֶר (바요메르) - 말의 힘과 책임",
+        "description": "'바요메르(말했다)'는 창조 이야기에서 하나님이 세상을 창조하실 때 사용하신 동사와 동일합니다. 하나님은 말씀으로 생명을 창조하셨지만, 뱀은 말로 죽음을 가져옵니다. 말의 힘이 얼마나 크고 중요한지를 보여줍니다.",
+        "points": [
+          "말은 생명을 창조할 수도, 죽음을 가져올 수도 있습니다",
+          "하나님의 말씀은 생명이지만, 사탄의 말은 죽음입니다",
+          "우리가 무엇을 듣고 무엇을 믿느냐가 우리의 운명을 결정합니다",
+          "야고보서 3:6 '혀는 곧 불이요 불의의 세계라'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֶל-הָאִשָּׁה (엘 하이샤) - 공격의 표적",
+        "description": "뱀은 아담이 아닌 여자에게 먼저 접근합니다. 이는 전략적 선택입니다. 여자는 하나님의 명령을 직접 듣지 못했고(아담이 전달받음), 따라서 더 혼란스러울 수 있었습니다. 사탄은 항상 가장 취약한 지점을 공격합니다.",
+        "points": [
+          "사탄은 우리의 약한 부분을 노립니다",
+          "분리된 상태(아담 없이 홀로)는 영적으로 위험합니다",
+          "하나님의 말씀을 정확히 아는 것이 중요합니다",
+          "베드로전서 5:8 '근신하라 깨어라 너희 대적 마귀가...삼킬 자를 찾나니'"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 뱀은 이브에게 거짓말을 했을까요?",
+      "answer": "뱀(사탄)은 하나님을 사랑하는 사람들을 미워하기 때문이에요. 마치 나쁜 사람이 좋은 친구 사이를 갈라놓으려고 거짓말하는 것처럼, 뱀도 하나님과 이브 사이를 갈라놓고 싶었어요. 뱀은 '죽지 않을 거야'라고 말했지만 실제로는 죽게 될 거라는 걸 알았어요. 거짓말쟁이는 항상 나쁜 결과를 숨기고 좋은 것처럼 속이려고 하거든요. 그래서 우리는 하나님의 말씀만 믿어야 해요.",
+      "bibleReferences": [
+        "요한복음 8:44 - '그는 처음부터 살인한 자요 진리가 그 속에 없으므로 거짓을 말할 때마다 제 것으로 말하나니 이는 그가 거짓말쟁이요 거짓의 아비가 되었음이라'",
+        "베드로전서 5:8 - '근신하라 깨어라 너희 대적 마귀가 우는 사자 같이 두루 다니며 삼킬 자를 찾나니'",
+        "요한계시록 12:9 - '큰 용이 내쫓기니 옛 뱀 곧 마귀라고도 하고 사탄이라고도 하며 온 천하를 꾀는 자라'",
+        "야고보서 4:7 - '그러므로 너희는 하나님께 복종할지어다 마귀를 대적하라 그리하면 너희를 피하리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 죄의 본질을 보여줍니다. 죄는 항상 하나님의 말씀을 부인하고 거짓을 진실처럼 포장하는 것으로 시작됩니다. 뱀의 거짓말은 오늘날에도 계속되고 있습니다 - '이 정도는 괜찮아', '하나님이 정말 그렇게 말씀하셨을까?' 그러나 예수 그리스도는 '진리'이시며(요한복음 14:6), 그분의 말씀은 우리를 자유케 합니다(요한복음 8:32). 거짓의 아비를 이기는 유일한 방법은 진리이신 예수님을 붙잡는 것입니다."
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "id": "genesis_10_24",
+  "reference": "창세기 10:24",
+  "hebrew": "וְאַרְפַּכְשַׁד יָלַד אֶת־שָׁלַח וְשֶׁלַח יָלַד אֶת־עֵבֶר",
+  "ipa": "vəʔɑrpɑxˈʃɑd jɑˈlɑd ʔɛt ʃɑˈlɑx vəˈʃɛlɑx jɑˈlɑd ʔɛt ˈevɛr",
+  "koreanPronunciation": "베아르팍샤드 얄라드 에트 샬라흐 베쉘라흐 얄라드 에트 에베르",
+  "modern": "아르박삿은 셀라를 낳고 셀라는 에벨을 낳았으며",
+  "words": [
+    {
+      "hebrew": "אַרְפַּכְשַׁד",
+      "meaning": "아르박삿",
+      "ipa": "ʔɑrpɑxˈʃɑd",
+      "korean": "아르팍샤드",
+      "letters": "אַ(ar) + רְ(r) + פַּ(pa) + כְ(ch) + שַׁ(sha) + ד(d)",
+      "root": "אַרְפַּכְשַׁד (아르팍샤드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"arphaxad_gen\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#arphaxad_gen)\" /><line x1=\"32\" y1=\"28\" x2=\"32\" y2=\"44\" stroke=\"url(#arphaxad_gen)\" stroke-width=\"3\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 셈)",
+        "כַּשְׂדִּים (카스딤 - 갈대아)"
+      ]
+    },
+    {
+      "hebrew": "יָלַד",
+      "meaning": "낳았다",
+      "ipa": "jɑˈlɑd",
+      "korean": "얄라드",
+      "letters": "יָ(ya) + לַ(la) + ד(d)",
+      "root": "יָלַד (야라드)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"birth_yalad\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#birth_yalad)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#birth_yalad)\" /></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "הוֹלִיד (홀리드 - 낳다)"
+      ]
+    },
+    {
+      "hebrew": "שָׁלַח",
+      "meaning": "셀라",
+      "ipa": "ʃɑˈlɑx",
+      "korean": "샬라흐",
+      "letters": "שָׁ(sha) + לַ(la) + ח(ch)",
+      "root": "שָׁלַח (샬라흐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#shelah)\" opacity=\"0.6\" /><text x=\"32\" y=\"38\" font-size=\"16\" fill=\"url(#shelah)\" text-anchor=\"middle\">שלח</text></svg>",
+      "relatedWords": [
+        "שָׁלַח (샬라흐 - 보내다)",
+        "שָׁלוֹם (샬롬 - 평안)"
+      ]
+    },
+    {
+      "hebrew": "עֵבֶר",
+      "meaning": "에벨",
+      "ipa": "ˈevɛr",
+      "korean": "에베르",
+      "letters": "עֵ(e) + בֶ(ve) + ר(r)",
+      "root": "עֵבֶר (에베르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"eber_special\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#eber_special)\" opacity=\"0.4\" /><path d=\"M 16 32 L 48 32\" stroke=\"url(#eber_special)\" stroke-width=\"4\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#eber_special)\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"url(#eber_special)\" /></svg>",
+      "relatedWords": [
+        "עָבַר (아바르 - 건너다)",
+        "עִבְרִי (이브리 - 히브리인)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아르박삿에서 에벨까지의 직계 계보를 보여주는 중요한 구절입니다. 이 계보는 아브라함을 거쳐 예수 그리스도까지 이어지는 구속사의 핵심 라인입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "아르박삿 - 홍수 후의 새 시작",
+        "description": "아르박삿은 홍수 후 2년에 태어난 셈의 아들입니다. 그는 새로운 인류 역사의 중요한 연결고리가 됩니다.",
+        "points": [
+          "홍수 후 2년에 태어났습니다 (창세기 11:10)",
+          "셈이 100세 때 낳은 아들입니다",
+          "438년을 살았습니다 (창세기 11:12-13)",
+          "메시아의 직계 조상입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "셀라 - 연결의 고리",
+        "description": "셀라는 아르박삿과 에벨을 연결하는 중요한 인물입니다. 그의 이름은 '싹'이나 '보내다'는 의미를 가질 수 있습니다.",
+        "points": [
+          "아르박삿이 35세 때 낳은 아들입니다 (창세기 11:12)",
+          "433년을 살았습니다 (창세기 11:14-15)",
+          "예수님의 족보에 포함됩니다 (누가복음 3:35)",
+          "구속사의 중요한 연결고리입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "에벨 - 히브리의 조상",
+        "description": "에벨은 히브리 민족의 시조로, 그의 이름에서 '히브리'라는 명칭이 유래했습니다. '건너온 자'라는 의미를 담고 있습니다.",
+        "points": [
+          "'에벨(Eber)'에서 '히브리(Hebrew)'가 유래했습니다",
+          "'건너다, 지나가다'는 의미를 가집니다",
+          "유프라테스 강을 건너온 사람들을 의미할 수 있습니다",
+          "464년을 살았습니다 (창세기 11:16-17)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "구속사적 의미",
+        "description": "이 계보는 단순한 혈통 기록이 아니라, 하나님의 구원 계획이 어떻게 진행되는지를 보여주는 신학적 기록입니다.",
+        "points": [
+          "홍수 심판 후 새로운 인류의 시작을 보여줍니다",
+          "하나님의 약속이 세대를 거쳐 이어짐을 나타냅니다",
+          "메시아의 혈통이 명확히 보존되고 있음을 보여줍니다",
+          "하나님의 신실하심과 섭리를 증거합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 이런 족보를 자세히 기록했을까요?",
+      "answer": "성경이 족보를 자세히 기록한 것은 예수님이 오시기까지의 길을 정확히 보여주기 위해서예요. 마치 보물 지도처럼, 이 족보는 하나님께서 어떻게 약속을 지키셨는지를 보여주는 거예요. 노아의 아들 셈에게서 시작해서, 아르박삿, 셀라, 에벨을 거쳐 계속 이어지다가 결국 예수님까지 이르게 돼요. 이것은 하나님께서 오랜 시간 동안 한 번도 약속을 잊지 않으시고 지키셨다는 증거랍니다.",
+      "bibleReferences": [
+        "창세기 11:10-12 - '셈의 족보는 이러하니라 셈은 백 세 곧 홍수 후 이 년에 아르박삿을 낳았고... 아르박삿은 삼십오 세에 셀라를 낳았고'",
+        "누가복음 3:35-36 - '그 위는 세룩이요 그 위는 르우요 그 위는 벨렉이요 그 위는 에벨이요 그 위는 살라요 그 위는 가이난이요 그 위는 아박삿이요'",
+        "마태복음 1:1 - '아브라함과 다윗의 자손 예수 그리스도의 계보라'",
+        "갈라디아서 3:16 - '이 약속들은 아브라함과 그 자손에게 말씀하신 것인데 여럿을 가리켜 그 자손들이라 하지 아니하시고 오직 한 사람을 가리켜 네 자손이라 하셨으니 곧 그리스도라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 하나님의 구원 계획이 역사 속에서 구체적으로 진행되고 있음을 보여줍니다. 아르박삿-셀라-에벨로 이어지는 계보는 결국 아브라함, 다윗, 그리고 예수 그리스도로 이어집니다. 에벨이라는 이름에서 유래한 '히브리'라는 정체성은 하나님의 백성이 '건너온 자들', 즉 이 세상에 속하지 않고 하나님의 약속을 향해 나아가는 순례자임을 상징합니다."
+    }
+  }
+}

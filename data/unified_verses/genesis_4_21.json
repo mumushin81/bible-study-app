@@ -1,0 +1,182 @@
+{
+  "id": "genesis_4_21",
+  "reference": "창세기 4:21",
+  "hebrew": "וְשֵׁם אָחִיו יוּבָל הוּא הָיָה אֲבִי כָּל תֹּפֵשׂ כִּנּוֹר וְעוּגָב",
+  "ipa": "vəˈʃem ʔaˈxiv juˈval hu haˈja ʔaˈvi kol toˈfes kiˈnor vəʕuˈgav",
+  "koreanPronunciation": "베쉠 아히브 유발 후 하야 아비 콜 토페스 키노르 베우가브",
+  "modern": "그의 형제의 이름은 유발인데, 그는 수금과 퉁소를 잡는 모든 자의 조상이 되었습니다",
+  "words": [
+    {
+      "hebrew": "וְשֵׁם",
+      "meaning": "그리고 이름",
+      "ipa": "vəˈʃem",
+      "korean": "베쉠",
+      "letters": "וְ(ve) + שֵׁם(shem)",
+      "root": "ש-מ (쉠)",
+      "grammar": "명사",
+      "emoji": "📛",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"name1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"28\" rx=\"4\" fill=\"url(#name1)\" filter=\"drop-shadow(0 3px 6px rgba(70, 130, 180, 0.4))\"/><text x=\"32\" y=\"38\" text-anchor=\"middle\" font-size=\"16\" fill=\"#FFFFFF\" font-weight=\"bold\">שֵׁם</text><path d=\"M 32 12 L 28 20 L 36 20 Z\" fill=\"url(#name1)\"/></svg>"
+    },
+    {
+      "hebrew": "אָחִיו",
+      "meaning": "그의 형제",
+      "ipa": "ʔaˈxiv",
+      "korean": "아히브",
+      "letters": "אָ(a) + חִיו(hiv)",
+      "root": "א-ח (아흐)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brothers21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#brothers21)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#brothers21)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 14 38 L 24 34 L 34 38 L 34 52 L 24 48 L 14 52 Z\" fill=\"url(#brothers21)\"/><path d=\"M 30 38 L 40 34 L 50 38 L 50 52 L 40 48 L 30 52 Z\" fill=\"url(#brothers21)\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "יוּבָל",
+      "meaning": "유발",
+      "ipa": "juˈval",
+      "korean": "유발",
+      "letters": "יוּ(yu) + בָל(val)",
+      "root": "י-ב-ל (야발)",
+      "grammar": "명사",
+      "emoji": "🎵",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"jubal1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"50%\" stop-color=\"#E91E63\"/><stop offset=\"100%\" stop-color=\"#FF6B9D\"/></linearGradient><radialGradient id=\"sound1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sound1)\" opacity=\"0.3\"/><path d=\"M 24 20 Q 28 24 24 28\" stroke=\"url(#jubal1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 32 16 Q 36 24 32 32\" stroke=\"url(#jubal1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 40 20 Q 44 24 40 28\" stroke=\"url(#jubal1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"42\" r=\"8\" fill=\"url(#jubal1)\" filter=\"drop-shadow(0 3px 6px rgba(156, 39, 176, 0.5))\"/></svg>"
+    },
+    {
+      "hebrew": "הוּא",
+      "meaning": "그",
+      "ipa": "hu",
+      "korean": "후",
+      "letters": "ה(h) + וּא(u)",
+      "root": "ה-ו-א (후)",
+      "grammar": "대명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"he21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"10\" fill=\"url(#he21)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 36 L 32 32 L 44 36 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#he21)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    },
+    {
+      "hebrew": "הָיָה",
+      "meaning": "되다",
+      "ipa": "haˈja",
+      "korean": "하야",
+      "letters": "הָ(ha) + יָה(yah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"being21\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#being21)\"/><polygon points=\"32,16 34,26 44,28 34,30 32,40 30,30 20,28 30,26\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "אֲבִי",
+      "meaning": "조상, 아버지",
+      "ipa": "ʔaˈvi",
+      "korean": "아비",
+      "letters": "אֲ(a) + בִי(vi)",
+      "root": "א-ב (아브)",
+      "grammar": "명사",
+      "emoji": "👨‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"father21\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><radialGradient id=\"legacy21\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#legacy21)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#father21)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"34\" rx=\"10\" ry=\"12\" fill=\"url(#father21)\"/><circle cx=\"24\" cy=\"48\" r=\"5\" fill=\"url(#father21)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"48\" r=\"5\" fill=\"url(#father21)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "כָּל",
+      "meaning": "모든",
+      "ipa": "kol",
+      "korean": "콜",
+      "letters": "כָּ(ko) + ל(l)",
+      "root": "כ-ל-ל (칼랄)",
+      "grammar": "형용사",
+      "emoji": "🌐",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\"/><stop offset=\"100%\" stop-color=\"#0097A7\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#all1)\" stroke-width=\"3\" filter=\"drop-shadow(0 2px 4px rgba(0, 188, 212, 0.4))\"/><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#all1)\"/><circle cx=\"32\" cy=\"16\" r=\"4\" fill=\"url(#all1)\"/><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"url(#all1)\"/><circle cx=\"32\" cy=\"48\" r=\"4\" fill=\"url(#all1)\"/><circle cx=\"24\" cy=\"24\" r=\"3\" fill=\"url(#all1)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"24\" r=\"3\" fill=\"url(#all1)\" opacity=\"0.7\"/><circle cx=\"24\" cy=\"40\" r=\"3\" fill=\"url(#all1)\" opacity=\"0.7\"/><circle cx=\"40\" cy=\"40\" r=\"3\" fill=\"url(#all1)\" opacity=\"0.7\"/></svg>"
+    },
+    {
+      "hebrew": "תֹּפֵשׂ",
+      "meaning": "잡는 자, 연주하는 자",
+      "ipa": "toˈfes",
+      "korean": "토페스",
+      "letters": "תֹּ(to) + פֵשׂ(fes)",
+      "root": "ת-פ-שׂ (타파스)",
+      "grammar": "동사",
+      "emoji": "🎸",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"play1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"100%\" stop-color=\"#C41E3A\"/></linearGradient></defs><ellipse cx=\"28\" cy=\"42\" rx=\"14\" ry=\"10\" fill=\"url(#play1)\" filter=\"drop-shadow(0 3px 6px rgba(196, 30, 58, 0.4))\"/><rect x=\"42\" y=\"16\" width=\"6\" height=\"32\" rx=\"3\" fill=\"url(#play1)\"/><line x1=\"45\" y1=\"20\" x2=\"45\" y2=\"44\" stroke=\"#FFF\" stroke-width=\"1\" opacity=\"0.3\"/><line x1=\"45\" y1=\"24\" x2=\"45\" y2=\"44\" stroke=\"#FFF\" stroke-width=\"1\" opacity=\"0.3\"/><line x1=\"45\" y1=\"28\" x2=\"45\" y2=\"44\" stroke=\"#FFF\" stroke-width=\"1\" opacity=\"0.3\"/><circle cx=\"45\" cy=\"16\" r=\"4\" fill=\"url(#play1)\"/></svg>"
+    },
+    {
+      "hebrew": "כִּנּוֹר",
+      "meaning": "수금, 거문고",
+      "ipa": "kiˈnor",
+      "korean": "키노르",
+      "letters": "כִּ(ki) + נּוֹר(nor)",
+      "root": "כ-נ-ר (키나르)",
+      "grammar": "명사",
+      "emoji": "🎻",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"kinnor1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"strings1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><path d=\"M 20 16 Q 24 12 28 16 L 28 48 Q 24 52 20 48 Z\" fill=\"url(#kinnor1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.5))\"/><path d=\"M 36 16 Q 40 12 44 16 L 44 48 Q 40 52 36 48 Z\" fill=\"url(#kinnor1)\" filter=\"drop-shadow(0 3px 6px rgba(139, 69, 19, 0.5))\"/><line x1=\"28\" y1=\"20\" x2=\"36\" y2=\"20\" stroke=\"url(#strings1)\" stroke-width=\"1.5\"/><line x1=\"28\" y1=\"26\" x2=\"36\" y2=\"26\" stroke=\"url(#strings1)\" stroke-width=\"1.5\"/><line x1=\"28\" y1=\"32\" x2=\"36\" y2=\"32\" stroke=\"url(#strings1)\" stroke-width=\"1.5\"/><line x1=\"28\" y1=\"38\" x2=\"36\" y2=\"38\" stroke=\"url(#strings1)\" stroke-width=\"1.5\"/><line x1=\"28\" y1=\"44\" x2=\"36\" y2=\"44\" stroke=\"url(#strings1)\" stroke-width=\"1.5\"/></svg>"
+    },
+    {
+      "hebrew": "וְעוּגָב",
+      "meaning": "그리고 퉁소, 관악기",
+      "ipa": "vəʕuˈgav",
+      "korean": "베우가브",
+      "letters": "וְ(ve) + עוּ(u) + גָב(gav)",
+      "root": "ע-ו-ג (우가브)",
+      "grammar": "명사",
+      "emoji": "🎺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ugav1\" x1=\"0%\" x1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><radialGradient id=\"sound21\"><stop offset=\"0%\" stop-color=\"#87CEEB\"/><stop offset=\"100%\" stop-color=\"rgba(135, 206, 235, 0)\"/></radialGradient></defs><rect x=\"8\" y=\"28\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#ugav1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 140, 0, 0.5))\"/><circle cx=\"52\" cy=\"32\" r=\"10\" fill=\"url(#ugav1)\" filter=\"drop-shadow(0 2px 6px rgba(255, 140, 0, 0.5))\"/><circle cx=\"12\" cy=\"32\" r=\"3\" fill=\"#8B4513\"/><circle cx=\"20\" cy=\"32\" r=\"3\" fill=\"#8B4513\"/><circle cx=\"28\" cy=\"32\" r=\"3\" fill=\"#8B4513\"/><circle cx=\"36\" cy=\"32\" r=\"3\" fill=\"#8B4513\"/><circle cx=\"56\" cy=\"24\" r=\"6\" fill=\"url(#sound21)\" opacity=\"0.4\"/><circle cx=\"60\" cy=\"28\" r=\"4\" fill=\"url(#sound21)\" opacity=\"0.3\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 21절은 유발을 음악과 악기 연주의 창시자로 소개합니다. 그는 수금(현악기)과 퉁소(관악기)를 연주하는 모든 자들의 조상이 되었으며, 이는 인류 문화에서 음악과 예술의 시작을 나타냅니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "יוּבָל (유발) - 음악의 아버지",
+        "description": "'유발'이라는 이름은 '흐름', '소리의 흐름'을 연상시킵니다. 그는 형 야발과 함께 가인의 후손 중에서 문화와 예술의 발전에 크게 기여한 인물입니다. 음악은 하나님께서 인간에게 주신 창의성의 선물입니다.",
+        "points": [
+          "인류 최초로 악기를 만들고 음악을 체계화한 인물",
+          "음악과 예술이 타락 이후에도 하나님의 선물로 주어짐",
+          "창의성과 아름다움을 추구하는 인간의 본성 표현"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כִּנּוֹר (키노르) - 수금, 현악기",
+        "description": "'키노르'는 하프나 거문고 같은 현악기를 의미합니다. 다윗이 사울 왕 앞에서 연주한 악기도 키노르였으며, 시편에서 자주 언급되는 찬양의 악기입니다.",
+        "points": [
+          "성경에서 가장 자주 언급되는 악기 (42회)",
+          "다윗이 사울의 악한 영을 쫓기 위해 연주함 (사무엘상 16:23)",
+          "천상의 예배에서도 사용되는 악기로 묘사됨 (요한계시록 5:8)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עוּגָב (우가브) - 퉁소, 관악기",
+        "description": "'우가브'는 피리나 플루트 같은 관악기를 의미합니다. 키노르가 현을 튕기는 악기라면, 우가브는 바람을 불어넣어 소리를 내는 악기로, 다양한 음악 표현을 가능하게 했습니다.",
+        "points": [
+          "목관악기의 초기 형태",
+          "시편 150편에서 하나님을 찬양하는 악기로 언급됨",
+          "현악기와 관악기의 조화로운 음악 발전"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "תֹּפֵשׂ (토페스) - 잡다, 다루다, 연주하다",
+        "description": "'토페스'는 '붙잡다', '다루다'를 의미하며, 악기를 능숙하게 다루는 연주 기술을 나타냅니다. 단순히 악기를 만드는 것을 넘어, 그것을 잘 다루는 기술의 발전을 의미합니다.",
+        "points": [
+          "악기 제작뿐 아니라 연주 기술의 발전",
+          "음악 교육과 전수의 시작",
+          "예술적 기량과 전문성의 발달"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "유발은 왜 수금과 퉁소를 만들었나요?",
+      "answer": "유발은 아름다운 소리를 만들고 싶었어요. 어떤 소리는 줄을 튕기면 나고(수금), 어떤 소리는 바람을 불어넣으면 나요(퉁소). 유발은 이렇게 다른 소리를 내는 악기들을 발명해서 사람들이 노래하고 춤추며 기뻐할 수 있게 했어요. 하나님께서 주신 창의력으로 아름다운 음악을 만든 거예요. 우리도 노래하고 악기를 연주하며 하나님을 찬양할 수 있답니다!",
+      "bibleReferences": [
+        "시편 150:3-5 - '나팔 소리로 찬양하며 비파와 수금으로 찬양할지어다 소고 치며 춤추어 찬양하며 현악과 퉁소로 찬양할지어다'",
+        "사무엘상 16:23 - '다윗이 수금을 들고 손으로 탄즉 사울이 상쾌하여 낫고 악령은 그에게서 떠나더라'",
+        "에베소서 5:19 - '시와 찬송과 신령한 노래들로 서로 화답하며 너희의 마음으로 주께 노래하며 찬송하며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "유발의 음악 창시는 타락 이후에도 하나님의 형상을 따라 지음 받은 인간의 창의성과 아름다움에 대한 갈망이 계속됨을 보여줍니다. 음악은 하나님께 영광을 돌리는 도구가 될 수 있으며, 시편과 찬송은 성경 전체에서 중요한 예배의 요소입니다. 동시에 음악은 선을 위해서도, 악을 위해서도 사용될 수 있기에, 우리는 하나님께서 주신 이 선물을 바르게 사용해야 합니다."
+    }
+  }
+}

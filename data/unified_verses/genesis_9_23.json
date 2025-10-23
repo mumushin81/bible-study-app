@@ -1,0 +1,284 @@
+{
+  "id": "genesis_9_23",
+  "reference": "창세기 9:23",
+  "hebrew": "וַיִּקַּח שֵׁם וָיֶפֶת אֶת־הַשִּׂמְלָה וַיָּשִׂימוּ עַל־שְׁכֶם שְׁנֵיהֶם וַיֵּלְכוּ אֲחֹרַנִּית וַיְכַסּוּ אֵת עֶרְוַת אֲבִיהֶם וּפְנֵיהֶם אֲחֹרַנִּית וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ",
+  "ipa": "vajːiqːaχ ʃeːm vaːjɛfɛt ʔɛt hasiːmlaː vajːaːsiːmuː ʕal ʃəkɛm ʃneːhɛm vajːeːləχuː ʔaχoːraniːt vajkasːuː ʔet ʕɛrvat ʔaviːhɛm uːfəneːhɛm ʔaχoːraniːt vəʕɛrvat ʔaviːhɛm loː raːʔuː",
+  "koreanPronunciation": "바이카흐 쉠 바예페트 에트 하심라 바야시무 알 슈켐 슈네헴 바옐쿠 아호라니트 바이카수 에트 에르바트 아비헴 우페네헴 아호라니트 베에르바트 아비헴 로 라우",
+  "modern": "셈과 야벳이 옷을 가져다가 두 사람의 어깨에 메고 뒷걸음으로 걸어가서 아버지의 벗은 몸을 덮어주었다. 그들은 얼굴을 돌리고 있어서 아버지의 벗은 몸을 보지 않았다",
+  "words": [
+    {
+      "hebrew": "וַיִּקַּח",
+      "meaning": "그리고 그가 가져갔다",
+      "ipa": "vajːiqːaχ",
+      "korean": "바이카흐",
+      "letters": "וַ(va) + יִּ(yi) + קַּח(qach)",
+      "root": "לָקַח (라카흐)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"take_vayikach\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><path d=\"M 48 32 L 32 32\" stroke=\"url(#take_vayikach)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#take_vayikach)\" opacity=\"0.9\" /><path d=\"M 16 28 L 24 32 L 16 36 Z\" fill=\"url(#take_vayikach)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "לָקַח (라카흐 - 가지다, 취하다)",
+        "נָתַן (나탄 - 주다)"
+      ]
+    },
+    {
+      "hebrew": "שֵׁם",
+      "meaning": "셈",
+      "ipa": "ʃeːm",
+      "korean": "쉠",
+      "letters": "שֵׁ(she) + ם(m)",
+      "root": "שֵׁם (쉠)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shem_name\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#shem_name)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#shem_name)\" opacity=\"0.8\" /><path d=\"M 24 20 L 28 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 40 20 L 36 16\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 32 16 L 32 12\" stroke=\"#FFA500\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "שֵׁם (쉠 - 이름)",
+        "שָׂם (삼 - 두다, 놓다)"
+      ]
+    },
+    {
+      "hebrew": "יֶפֶת",
+      "meaning": "야벳",
+      "ipa": "jɛfɛt",
+      "korean": "예페트",
+      "letters": "יֶ(ye) + פֶת(fet)",
+      "root": "יָפֶה (야페)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"japheth_yefet\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#japheth_yefet)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#japheth_yefet)\" opacity=\"0.8\" /><path d=\"M 20 28 L 16 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /><path d=\"M 44 28 L 48 28\" stroke=\"#42A5F5\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "יָפֶה (야페 - 아름다운)",
+        "פָּתָה (파타 - 넓히다)"
+      ]
+    },
+    {
+      "hebrew": "הַשִּׂמְלָה",
+      "meaning": "옷",
+      "ipa": "hasiːmlaː",
+      "korean": "하심라",
+      "letters": "הַ(ha) + שִׂ(si) + מְ(me) + לָה(lah)",
+      "root": "שִׂמְלָה (심라)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"garment_hasimlah\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7986CB\" /><stop offset=\"100%\" stop-color=\"#3949AB\" /></linearGradient></defs><path d=\"M 20 16 L 24 12 L 32 12 L 40 12 L 44 16 L 44 48 L 36 52 L 32 48 L 28 52 L 20 48 Z\" fill=\"url(#garment_hasimlah)\" opacity=\"0.8\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"12\" fill=\"url(#garment_hasimlah)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שִׂמְלָה (심라 - 옷, 겉옷)",
+        "בֶּגֶד (베게드 - 의복)"
+      ]
+    },
+    {
+      "hebrew": "וַיָּשִׂימוּ",
+      "meaning": "그리고 그들이 놓았다",
+      "ipa": "vajːaːsiːmuː",
+      "korean": "바야시무",
+      "letters": "וַ(va) + יָּ(ya) + שִׂי(si) + מוּ(mu)",
+      "root": "שׂוּם (숨)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"place_vayasimu\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#BCAAA4\" /></linearGradient></defs><rect x=\"16\" y=\"40\" width=\"32\" height=\"8\" fill=\"url(#place_vayasimu)\" opacity=\"0.6\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"12\" rx=\"2\" fill=\"url(#place_vayasimu)\" opacity=\"0.8\" /><path d=\"M 32 20 L 32 28\" stroke=\"url(#place_vayasimu)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.7\" /><path d=\"M 28 24 L 32 20 L 36 24\" stroke=\"url(#place_vayasimu)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "שׂוּם (숨 - 놓다, 두다)",
+        "שָׂם (삼 - 두다)"
+      ]
+    },
+    {
+      "hebrew": "שְׁכֶם",
+      "meaning": "어깨",
+      "ipa": "ʃəkɛm",
+      "korean": "슈켐",
+      "letters": "שְׁ(she) + כֶם(khem)",
+      "root": "שְׁכֶם (슈켐)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shoulder_shekhem\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#shoulder_shekhem)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"40\" rx=\"16\" ry=\"16\" fill=\"url(#shoulder_shekhem)\" opacity=\"0.8\" /><circle cx=\"18\" cy=\"28\" r=\"6\" fill=\"url(#shoulder_shekhem)\" opacity=\"0.9\" /><circle cx=\"46\" cy=\"28\" r=\"6\" fill=\"url(#shoulder_shekhem)\" opacity=\"0.9\" /></svg>",
+      "relatedWords": [
+        "שְׁכֶם (슈켐 - 어깨)",
+        "כָּתֵף (카테프 - 어깨)"
+      ]
+    },
+    {
+      "hebrew": "שְׁנֵיהֶם",
+      "meaning": "그들 둘",
+      "ipa": "ʃneːhɛm",
+      "korean": "슈네헴",
+      "letters": "שְׁ(she) + נֵי(nei) + הֶם(hem)",
+      "root": "שְׁנַיִם (슈나임)",
+      "grammar": "수사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"twothem_shneihem\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C44569\" /><stop offset=\"100%\" stop-color=\"#FF6B9D\" /></linearGradient></defs><circle cx=\"24\" cy=\"32\" r=\"12\" fill=\"url(#twothem_shneihem)\" opacity=\"0.8\" /><circle cx=\"40\" cy=\"32\" r=\"12\" fill=\"url(#twothem_shneihem)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "שְׁנַיִם (슈나임 - 둘)",
+        "שֵׁנִי (쉐니 - 둘째)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּלְכוּ",
+      "meaning": "그리고 그들이 걸었다",
+      "ipa": "vajːeːləχuː",
+      "korean": "바옐쿠",
+      "letters": "וַ(va) + יֵּ(ye) + לְ(le) + כוּ(khu)",
+      "root": "הָלַךְ (할라크)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"walk_vayelekhu\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#4CAF50\" /></linearGradient></defs><path d=\"M 12 48 Q 20 32 28 48\" stroke=\"url(#walk_vayelekhu)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 28 48 Q 36 32 44 48\" stroke=\"url(#walk_vayelekhu)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"20\" cy=\"40\" r=\"4\" fill=\"url(#walk_vayelekhu)\" opacity=\"0.7\" /><circle cx=\"36\" cy=\"40\" r=\"4\" fill=\"url(#walk_vayelekhu)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 걷다, 가다)",
+        "דֶּרֶךְ (데레크 - 길)"
+      ]
+    },
+    {
+      "hebrew": "אֲחֹרַנִּית",
+      "meaning": "뒤로",
+      "ipa": "ʔaχoːraniːt",
+      "korean": "아호라니트",
+      "letters": "אֲ(a) + חֹ(cho) + רַ(ra) + נִּית(nit)",
+      "root": "אָחוֹר (아호르)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"backward_achoranit\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><path d=\"M 48 32 L 16 32\" stroke=\"url(#backward_achoranit)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><path d=\"M 24 24 L 16 32 L 24 40\" stroke=\"url(#backward_achoranit)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /></svg>",
+      "relatedWords": [
+        "אָחוֹר (아호르 - 뒤)",
+        "פָּנִים (파님 - 앞, 얼굴)"
+      ]
+    },
+    {
+      "hebrew": "וַיְכַסּוּ",
+      "meaning": "그리고 그들이 덮었다",
+      "ipa": "vajkasːuː",
+      "korean": "바이카수",
+      "letters": "וַ(va) + יְ(ye) + כַ(kha) + סּוּ(ssu)",
+      "root": "כָּסָה (카사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cover_vaykhasu\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7986CB\" /><stop offset=\"100%\" stop-color=\"#3949AB\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"20\" fill=\"#FFCCBC\" opacity=\"0.5\" rx=\"4\" /><rect x=\"12\" y=\"24\" width=\"40\" height=\"28\" fill=\"url(#cover_vaykhasu)\" opacity=\"0.8\" rx=\"6\" /></svg>",
+      "relatedWords": [
+        "כָּסָה (카사 - 덮다)",
+        "מִכְסֶה (미크세 - 덮개)"
+      ]
+    },
+    {
+      "hebrew": "עֶרְוַת",
+      "meaning": "벗음",
+      "ipa": "ʕɛrvat",
+      "korean": "에르바트",
+      "letters": "עֶ(e) + רְ(r) + וַת(vat)",
+      "root": "עֶרְוָה (에르바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nakedness_ervat2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#nakedness_ervat2)\" opacity=\"0.5\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#nakedness_ervat2)\" opacity=\"0.5\" /><rect x=\"8\" y=\"8\" width=\"48\" height=\"48\" fill=\"none\" stroke=\"#FF5252\" stroke-width=\"3\" stroke-dasharray=\"6,6\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עֶרְוָה (에르바 - 벗음, 수치)",
+        "עָרֹם (아롬 - 벗은)"
+      ]
+    },
+    {
+      "hebrew": "אֲבִיהֶם",
+      "meaning": "그들의 아버지",
+      "ipa": "ʔaviːhɛm",
+      "korean": "아비헴",
+      "letters": "אֲ(a) + בִי(vi) + הֶם(hem)",
+      "root": "אָב (아브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"theirfather_avihem\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#theirfather_avihem)\" opacity=\"0.8\" /><ellipse cx=\"32\" cy=\"42\" rx=\"16\" ry=\"14\" fill=\"url(#theirfather_avihem)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אָבוֹת (아보트 - 조상들)"
+      ]
+    },
+    {
+      "hebrew": "פְנֵיהֶם",
+      "meaning": "그들의 얼굴",
+      "ipa": "fəneːhɛm",
+      "korean": "페네헴",
+      "letters": "פְּ(fe) + נֵי(nei) + הֶם(hem)",
+      "root": "פָּנִים (파님)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"face_feneihem\"><stop offset=\"0%\" stop-color=\"#FFCCBC\" /><stop offset=\"100%\" stop-color=\"#FF8A65\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"18\" fill=\"url(#face_feneihem)\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"28\" r=\"3\" fill=\"#5D4037\" opacity=\"0.8\" /><circle cx=\"38\" cy=\"28\" r=\"3\" fill=\"#5D4037\" opacity=\"0.8\" /><path d=\"M 26 38 Q 32 42 38 38\" stroke=\"#5D4037\" stroke-width=\"2\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "פָּנִים (파님 - 얼굴)",
+        "עַיִן (아인 - 눈)"
+      ]
+    },
+    {
+      "hebrew": "לֹא",
+      "meaning": "아니다",
+      "ipa": "loː",
+      "korean": "로",
+      "letters": "לֹא(lo)",
+      "root": "לֹא (로)",
+      "grammar": "부사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"not_lo\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF5252\" /><stop offset=\"100%\" stop-color=\"#D32F2F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#not_lo)\" stroke-width=\"4\" opacity=\"0.8\" /><path d=\"M 20 20 L 44 44\" stroke=\"url(#not_lo)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אַל (알 - ~하지 말라)",
+        "אֵין (에인 - 없다)"
+      ]
+    },
+    {
+      "hebrew": "רָאוּ",
+      "meaning": "그들이 보았다",
+      "ipa": "raːʔuː",
+      "korean": "라우",
+      "letters": "רָ(ra) + אוּ(u)",
+      "root": "רָאָה (라아)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"saw_rau\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"60%\" stop-color=\"#0288D1\" /><stop offset=\"100%\" stop-color=\"#01579B\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"24\" ry=\"16\" fill=\"#FFFFFF\" stroke=\"#0288D1\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#saw_rau)\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#000000\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 16 16 L 48 48\" stroke=\"#FF5252\" stroke-width=\"3\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רָאָה (라아 - 보다)",
+        "מַבָּט (마바트 - 시선)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "셈과 야벳의 존경스럽고 사려 깊은 행동을 기록한 구절입니다. 함의 불경한 태도와 대조적으로, 이 두 아들은 아버지의 수치를 보호하기 위해 최선을 다합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּקַּח שֵׁם וָיֶפֶת אֶת־הַשִּׂמְלָה (바이카흐 쉠 바예페트 에트 하심라) - 셈과 야벳이 옷을 가지다",
+        "description": "셈과 야벳은 즉시 행동합니다. 그들은 아버지의 벗음을 듣자마자 옷을 가져와 문제를 해결하려 합니다. 이는 사랑의 능동적 반응입니다.",
+        "points": [
+          "사랑은 즉각적이고 능동적으로 행동합니다",
+          "문제를 퍼뜨리기보다 해결책을 찾습니다",
+          "부모를 공경하는 구체적 행동입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וַיָּשִׂימוּ עַל־שְׁכֶם שְׁנֵיהֶם (바야시무 알 슈켐 슈네헴) - 그들 둘의 어깨에 메다",
+        "description": "두 형제는 옷을 함께 어깨에 메고 협력합니다. 이는 부모를 공경하는 일에 형제가 연합하는 아름다운 모습입니다.",
+        "points": [
+          "선한 일을 위한 형제의 연합과 협력",
+          "부담을 함께 나누는 형제애",
+          "부모 공경에 대한 공동 책임"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וַיֵּלְכוּ אֲחֹרַנִּית (바옐쿠 아호라니트) - 뒷걸음으로 걸어가다",
+        "description": "뒷걸음으로 걷는 것은 불편하고 어려운 일입니다. 하지만 셈과 야벳은 아버지의 벗음을 보지 않기 위해 기꺼이 이 불편함을 감수합니다. 이는 존경의 극치입니다.",
+        "points": [
+          "존경은 때로 불편함과 희생을 요구합니다",
+          "아버지의 존엄성이 자신의 편의보다 중요합니다",
+          "세심한 배려와 깊은 경외심을 보여줍니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וּפְנֵיהֶם אֲחֹרַנִּית וְעֶרְוַת אֲבִיהֶם לֹא רָאוּ (우페네헴 아호라니트 베에르바트 아비헴 로 라우) - 얼굴을 돌리고 보지 않다",
+        "description": "성경은 셈과 야벳이 '보지 않았다'는 사실을 두 번 강조합니다. 한 번은 '얼굴을 돌렸다'고, 또 한 번은 '보지 않았다'고 명시합니다. 이는 의도적이고 철저한 존경을 보여줍니다.",
+        "points": [
+          "존경은 의도적이고 철저해야 합니다",
+          "아버지의 약점을 보지 않으려는 사랑의 선택",
+          "사랑은 허물을 덮습니다(잠언 10:12, 베드로전서 4:8)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 셈과 야벳은 뒤로 걸어갔나요?",
+      "answer": "셈과 야벳은 정말 훌륭한 아들들이었어요! 그들은 아버지 노아를 너무나 사랑하고 존경했기 때문에, 아버지의 실수하신 모습을 보지 않으려고 뒤로 걸어갔답니다. 뒤로 걷는 것은 앞으로 걷는 것보다 훨씬 어렵고 불편해요. 넘어질 수도 있고요. 하지만 그들은 불편해도 상관없었어요. 아버지의 마음을 보호하는 것이 더 중요했거든요. 이것이 진짜 사랑이에요. 우리도 가족이 실수했을 때, 그 실수를 다른 사람들에게 말하지 않고 사랑으로 도와주어야 해요. 그것이 하나님이 기뻐하시는 일이랍니다!",
+      "bibleReferences": [
+        "잠언 10:12 - '미움은 다툼을 일으켜도 사랑은 모든 허물을 가리느니라'",
+        "베드로전서 4:8 - '무엇보다도 뜨겁게 서로 사랑할지니 사랑은 허다한 죄를 덮느니라'",
+        "갈라디아서 6:1 - '형제들아 사람이 만일 무슨 범죄한 일이 드러나거든 신령한 너희는 온유한 심령으로 그러한 자를 바로잡고'",
+        "에베소서 4:32 - '서로 친절하게 하며 불쌍히 여기며 서로 용서하기를 하나님이 그리스도 안에서 너희를 용서하심과 같이 하라'",
+        "레위기 19:32 - '너는 센 머리 앞에서 일어서고 노인의 얼굴을 공경하며 네 하나님을 경외하라 나는 여호와이니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:23은 부모 공경과 사랑의 완벽한 모델을 제시합니다. 셈과 야벳의 행동은 십계명의 다섯째 계명(출애굽기 20:12)을 완벽하게 실천한 것이며, 신약의 '사랑은 허물을 덮는다'는 원리(베드로전서 4:8)를 구현한 것입니다. 뒷걸음으로 걷는 불편함을 감수하면서까지 아버지의 존엄을 지킨 것은, 우리가 타인의 약점을 대할 때 어떤 태도를 가져야 하는지를 가르칩니다. 이는 또한 그리스도께서 우리의 수치를 덮으시기 위해 십자가의 수치를 당하신 것을 예표합니다. 예수님은 우리의 벗음(죄와 수치)을 당신의 의의 옷으로 덮어주셨습니다(이사야 61:10). 셈과 야벳의 행동은 우리가 서로에게 그리스도의 사랑을 실천해야 함을 보여주는 강력한 예입니다."
+    }
+  }
+}

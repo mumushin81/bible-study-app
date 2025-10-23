@@ -1,0 +1,159 @@
+{
+  "id": "genesis_10_18",
+  "reference": "창세기 10:18",
+  "hebrew": "וְאֶת־הָאַרְוָדִי וְאֶת־הַצְּמָרִי וְאֶת־הַחֲמָתִי וְאַחַר נָפֹצוּ מִשְׁפְּחוֹת הַכְּנַעֲנִי",
+  "ipa": "vəʔɛt haʔarvɑˈdi vəʔɛt hatstsəmɑˈri vəʔɛt haxɑmɑˈti vəʔaxar nɑˈfotsu miʃpəxot hakkənaʕɑˈni",
+  "koreanPronunciation": "베에트 하아르와디 베에트 하츠마리 베에트 하하마티 베아하르 나포추 미쉬프호트 하크나아니",
+  "modern": "아르왓 족속과 스말 족속과 하맛 족속을 낳았더니 이 후로 가나안 자손의 족속이 흩어져 처하였더라",
+  "words": [
+    {
+      "hebrew": "הָאַרְוָדִי",
+      "meaning": "아르왓 족속",
+      "ipa": "haʔarvɑˈdi",
+      "korean": "하아르와디",
+      "letters": "הָ(ha) + אַ(ar) + רְ(r) + וָ(va) + דִ(di) + י(i)",
+      "root": "אַרְוָד (아르와드)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"island_arvadi\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#island_arvadi)\" opacity=\"0.3\" /><ellipse cx=\"32\" cy=\"32\" rx=\"12\" ry=\"8\" fill=\"#27AE60\" /><rect x=\"28\" y=\"24\" width=\"8\" height=\"12\" fill=\"#8B4513\" /></svg>",
+      "relatedWords": [
+        "אִי (이 - 섬)",
+        "חוֹף (호프 - 해안)"
+      ]
+    },
+    {
+      "hebrew": "הַצְּמָרִי",
+      "meaning": "스말 족속",
+      "ipa": "hatstsəmɑˈri",
+      "korean": "하츠마리",
+      "letters": "הַ(ha) + צְּ(tse) + מָ(ma) + רִ(ri) + י(i)",
+      "root": "צְמָרִי (츠마리)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people_tsemari\"><stop offset=\"0%\" stop-color=\"#E67E22\" /><stop offset=\"100%\" stop-color=\"#D35400\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#people_tsemari)\" /><path d=\"M 20 32 Q 32 28 44 32 L 44 50 L 20 50 Z\" fill=\"url(#people_tsemari)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "צֶמֶר (체메르 - 양모)",
+        "מִשְׁפָּחָה (미쉬파하 - 족속)"
+      ]
+    },
+    {
+      "hebrew": "הַחֲמָתִי",
+      "meaning": "하맛 족속",
+      "ipa": "haxɑmɑˈti",
+      "korean": "하하마티",
+      "letters": "הַ(ha) + חֲ(cha) + מָ(ma) + תִ(ti) + י(i)",
+      "root": "חֲמָת (하마트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"city_hamati\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"12\" height=\"20\" fill=\"url(#city_hamati)\" /><rect x=\"36\" y=\"32\" width=\"12\" height=\"20\" fill=\"url(#city_hamati)\" /><rect x=\"24\" y=\"24\" width=\"16\" height=\"28\" fill=\"url(#city_hamati)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "עִיר (이르 - 도시)",
+        "חוֹמָה (호마 - 성벽)"
+      ]
+    },
+    {
+      "hebrew": "נָפֹצוּ",
+      "meaning": "흩어졌다",
+      "ipa": "nɑˈfotsu",
+      "korean": "나포추",
+      "letters": "נָ(na) + פֹ(fo) + צוּ(tsu)",
+      "root": "פוץ (푸츠)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"scatter_nafotsu\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"transparent\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#E74C3C\" /><circle cx=\"16\" cy=\"16\" r=\"3\" fill=\"#E74C3C\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"16\" r=\"3\" fill=\"#E74C3C\" opacity=\"0.7\" /><circle cx=\"16\" cy=\"48\" r=\"3\" fill=\"#E74C3C\" opacity=\"0.7\" /><circle cx=\"48\" cy=\"48\" r=\"3\" fill=\"#E74C3C\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "פָּזַר (파자르 - 흩다)",
+        "הֵפִיץ (헤피츠 - 퍼뜨리다)"
+      ]
+    },
+    {
+      "hebrew": "מִשְׁפְּחוֹת",
+      "meaning": "족속들",
+      "ipa": "miʃpəxot",
+      "korean": "미쉬프호트",
+      "letters": "מִ(mi) + שְׁ(sh) + פְּ(pe) + חוֹ(cho) + ת(t)",
+      "root": "מִשְׁפָּחָה (미쉬파하)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"family_mishpechot\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></linearGradient></defs><circle cx=\"24\" cy=\"20\" r=\"6\" fill=\"url(#family_mishpechot)\" /><circle cx=\"40\" cy=\"20\" r=\"6\" fill=\"url(#family_mishpechot)\" /><circle cx=\"32\" cy=\"36\" r=\"5\" fill=\"url(#family_mishpechot)\" /><circle cx=\"20\" cy=\"36\" r=\"4\" fill=\"url(#family_mishpechot)\" /><circle cx=\"44\" cy=\"36\" r=\"4\" fill=\"url(#family_mishpechot)\" /></svg>",
+      "relatedWords": [
+        "בַּיִת (바이트 - 집, 가문)",
+        "עַם (암 - 백성)"
+      ]
+    },
+    {
+      "hebrew": "הַכְּנַעֲנִי",
+      "meaning": "가나안 족속",
+      "ipa": "hakkənaʕɑˈni",
+      "korean": "하크나아니",
+      "letters": "הַ(ha) + כְּ(ke) + נַ(na) + עֲ(a) + נִ(ni) + י(i)",
+      "root": "כְּנַעַן (크나안)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"land_canaan\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#229954\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#land_canaan)\" opacity=\"0.3\" rx=\"8\" /><path d=\"M 10 40 Q 20 35 32 38 Q 44 41 54 36 L 54 54 L 10 54 Z\" fill=\"url(#land_canaan)\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ כְּנַעַן (에레츠 크나안 - 가나안 땅)",
+        "יוֹשֵׁב (요쉐브 - 거주자)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "가나안 자손의 마지막 세 족속과 그들이 흩어진 역사를 기록하는 구절입니다. 아르왓, 스말, 하맛 족속을 언급한 후, 가나안 자손들이 여러 지역으로 퍼져나간 사실을 설명합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "아르왓 족속 (Arvadites)",
+        "description": "아르왓 족속은 지중해의 섬에 거주했던 페니키아 민족입니다. 현재 시리아 해안의 루아드 섬이 그들의 거주지였습니다.",
+        "points": [
+          "지중해 연안의 작은 섬 아르왓에 살았습니다",
+          "뛰어난 항해술과 무역으로 유명했습니다",
+          "에스겔 27:8에서 두로의 노 젓는 자들로 언급됩니다",
+          "페니키아 문화의 중요한 일부였습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "스말 족속 (Zemarites)",
+        "description": "스말 족속은 페니키아 지역의 또 다른 민족으로, 정확한 위치는 명확하지 않지만 시리아 해안 지역에 거주했을 것으로 추정됩니다.",
+        "points": [
+          "페니키아 북부 지역에 위치했을 것으로 봅니다",
+          "가나안 족속 중 해안 지역에 거주한 민족입니다",
+          "상업과 무역에 종사했을 것으로 추정됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "하맛 족속 (Hamathites)",
+        "description": "하맛 족속은 시리아의 중요한 도시 하맛에 거주했던 민족입니다. 하맛은 이스라엘 북쪽 경계 근처의 전략적으로 중요한 도시였습니다.",
+        "points": [
+          "하맛은 오론테스 강 유역의 중요한 도시였습니다",
+          "이스라엘의 이상적 북쪽 경계로 자주 언급됩니다 (민수기 34:8)",
+          "다윗과 솔로몬 시대에 우호적인 관계를 유지했습니다",
+          "나중에 앗수르에 정복되었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "가나안 자손의 분산",
+        "description": "'이 후로 가나안 자손의 족속이 흩어졌다'는 표현은 가나안 족속들이 다양한 지역으로 확장되었음을 나타냅니다. 이는 하나님의 섭리 안에서 민족들이 각자의 영토를 차지하게 된 과정입니다.",
+        "points": [
+          "가나안 자손들은 원래 한 곳에서 시작했지만 점차 확산되었습니다",
+          "지중해 연안부터 내륙까지 넓은 지역에 퍼졌습니다",
+          "각 족속은 고유한 영토와 정체성을 발전시켰습니다",
+          "이 분산은 바벨탑 사건 이후의 민족 분산과 연결됩니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 가나안 자손들이 흩어졌을까요?",
+      "answer": "가나안 자손들이 흩어진 것은 하나님께서 각 민족에게 거할 땅을 정해주셨기 때문이에요. 마치 큰 가족이 각자 자기 집을 갖게 되는 것처럼, 각 족속들도 자기들이 살 땅을 찾아 이동했어요. 하나님은 모든 민족의 경계를 정하시고, 그들이 어디서 살지를 계획하셨어요. 비록 그들이 하나님을 떠났지만, 하나님은 여전히 그들의 역사를 주관하시며 나중에 이스라엘 백성을 통해 모든 민족을 축복하실 계획을 가지고 계셨답니다.",
+      "bibleReferences": [
+        "사도행전 17:26-27 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니 이는 사람으로 혹 하나님을 더듬어 찾아 발견하게 하려 하심이로되'",
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에 인종을 분정하실 때에 이스라엘 자손의 수효대로 민족들의 경계를 정하셨도다'",
+        "창세기 11:8-9 - '여호와께서 거기서 그들을 온 지면에 흩으셨으므로 그들이 그 도시를 건설하기를 그쳤더라 그러므로 그 이름을 바벨이라 하니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 구절은 하나님의 주권적 섭리를 보여줍니다. 가나안 자손들의 흩어짐은 우연이 아니라 하나님의 계획 안에서 이루어졌습니다. 각 민족이 정해진 땅에 거하게 된 것은 나중에 이스라엘 백성이 약속의 땅을 차지할 때를 대비한 하나님의 준비였습니다. 또한 이는 모든 역사가 하나님의 통치 아래 있으며, 심지어 하나님을 알지 못하는 민족들도 그분의 섭리 안에 있음을 보여줍니다."
+    }
+  }
+}

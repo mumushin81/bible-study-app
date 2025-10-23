@@ -1,0 +1,135 @@
+{
+  "id": "genesis_15_3",
+  "reference": "창세기 15:3",
+  "hebrew": "הֵן לֹא נָתַתָּה זָרַע וְהִנֵּה בֶן בֵּיתִי יוֹרֵשׁ אֹתִי",
+  "ipa": "vajˈjomer ʔavˈram hen li lo naˈtata ˈzara vəhiˈne ven beˈti joˈreʃ ʔoˈti",
+  "koreanPronunciation": "바요메르 아브람 헨 리 로 나타타 자라 베히네 벤 베이티 요레쉬 오티",
+  "modern": "아브람이 또 말하되 '보소서 주께서 내게 씨를 주지 아니하셨으니 내 집에서 태어난 자가 내 상속자가 될 것입니다'",
+  "words": [
+    {
+      "hebrew": "הֵן",
+      "meaning": "보라, 보소서",
+      "ipa": "hen",
+      "korean": "헨",
+      "letters": "הֵן(hen)",
+      "root": "הֵן (헨)",
+      "grammar": "감탄사",
+      "emoji": "👀",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"gen15-3-behold1\"><stop offset=\"0%\" stop-color=\"#FF6B9D\"/><stop offset=\"50%\" stop-color=\"#C41E3A\"/><stop offset=\"100%\" stop-color=\"rgba(196, 30, 58, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#gen15-3-behold1)\" opacity=\"0.3\"/><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"24\" cy=\"28\" r=\"5\" fill=\"#C41E3A\"/><circle cx=\"40\" cy=\"28\" r=\"5\" fill=\"#C41E3A\"/><circle cx=\"24\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/><circle cx=\"40\" cy=\"26\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "לֹא נָתַתָּה זָרַע",
+      "meaning": "씨를 주지 아니하셨으니",
+      "ipa": "lo naˈtata ˈzara",
+      "korean": "로 나타타 자라",
+      "letters": "לֹא(lo) + נָ(na) + תַתָּה(tata) + זָ(za) + רַע(ra)",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-3-seed1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#gen15-3-seed1)\" opacity=\"0.6\"/><circle cx=\"24\" cy=\"50\" r=\"3\" fill=\"#D2691E\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"50\" r=\"3\" fill=\"#D2691E\"/><circle cx=\"40\" cy=\"50\" r=\"3\" fill=\"#D2691E\"/><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"#E57373\" stroke-width=\"4\" opacity=\"0.6\"/><line x1=\"48\" y1=\"16\" x2=\"16\" y2=\"48\" stroke=\"#E57373\" stroke-width=\"4\" opacity=\"0.6\"/></svg>"
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "meaning": "그리고 보라",
+      "ipa": "vəhiˈne",
+      "korean": "베히네",
+      "letters": "וְ(ve) + הִנֵּה(hine)",
+      "root": "הִנֵּה (히네)",
+      "grammar": "감탄사",
+      "emoji": "👁️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-3-look1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"22\" ry=\"14\" fill=\"url(#gen15-3-look1)\" opacity=\"0.3\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.3))\"/><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"#FFFFFF\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#2E7D32\"/><circle cx=\"32\" cy=\"30\" r=\"2\" fill=\"#FFFFFF\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "בֶן בֵּיתִי",
+      "meaning": "내 집의 아들",
+      "ipa": "ben beˈti",
+      "korean": "벤 베이티",
+      "letters": "בֶן(ben) + בֵּי(bei) + תִי(ti)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-3-son1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><linearGradient id=\"gen15-3-house1\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient></defs><path d=\"M 32 20 L 48 32 L 44 32 L 44 50 L 20 50 L 20 32 L 16 32 Z\" fill=\"url(#gen15-3-house1)\" opacity=\"0.4\" filter=\"drop-shadow(0 2px 4px rgba(101, 67, 33, 0.3))\"/><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"url(#gen15-3-son1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><ellipse cx=\"32\" cy=\"40\" rx=\"8\" ry=\"10\" fill=\"url(#gen15-3-son1)\"/></svg>"
+    },
+    {
+      "hebrew": "יוֹרֵשׁ",
+      "meaning": "상속하다",
+      "ipa": "joˈreʃ",
+      "korean": "요레쉬",
+      "letters": "יוֹ(yo) + רֵשׁ(resh)",
+      "root": "י-ר-שׁ (야라쉬)",
+      "grammar": "동사",
+      "emoji": "📜",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-3-inherit1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><rect x=\"16\" y=\"16\" width=\"32\" height=\"36\" rx=\"2\" fill=\"url(#gen15-3-inherit1)\" opacity=\"0.3\" filter=\"drop-shadow(0 3px 6px rgba(106, 27, 154, 0.3))\"/><path d=\"M 24 28 L 32 20 L 40 28\" stroke=\"url(#gen15-3-inherit1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><line x1=\"32\" y1=\"20\" x2=\"32\" y2=\"42\" stroke=\"url(#gen15-3-inherit1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><circle cx=\"32\" cy=\"42\" r=\"4\" fill=\"url(#gen15-3-inherit1)\"/></svg>",
+      "relatedWords": [
+        "יְרֻשָּׁה (예루샤 - 유산)",
+        "נַחֲלָה (나할라 - 기업)"
+      ]
+    },
+    {
+      "hebrew": "אֹתִי",
+      "meaning": "나를",
+      "ipa": "ʔoˈti",
+      "korean": "오티",
+      "letters": "אֹ(o) + תִי(ti)",
+      "root": "אֶת (에트)",
+      "grammar": "대명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gen15-3-me1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#607D8B\"/><stop offset=\"100%\" stop-color=\"#455A64\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#gen15-3-me1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 20 40 L 32 36 L 44 40 L 44 54 L 32 50 L 20 54 Z\" fill=\"url(#gen15-3-me1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15장 3절에서 아브람은 자신의 고통을 더욱 구체적으로 표현합니다. '씨를 주지 아니하셨으니'라는 고백은 하나님의 약속과 현실 사이의 간극에서 오는 깊은 좌절을 드러냅니다. 그러나 이 솔직한 탄식은 하나님께서 더 명확한 약속으로 응답하시는 계기가 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הֵן לִי לֹא נָתַתָּה זָרַע (헨 리 로 나타타 자라) - 내게 씨를 주지 않으셨나이다",
+        "description": "'헨'은 '보라, 주목하라'는 뜻의 감탄사로, 아브람이 하나님께 자신의 상황을 호소하는 강렬한 표현입니다. '자라(씨)'는 단순히 자녀가 아니라 혈통을 이을 후손을 의미하며, 언약의 성취를 위한 필수 조건이었습니다.",
+        "points": [
+          "'자라(씨)'는 창세기 3:15의 여자의 후손, 메시아적 약속과 연결됨",
+          "아브람은 하나님의 약속(창 12:2 '큰 민족')을 기억하며 탄식함",
+          "25년간 자녀를 기다린 긴 세월의 고통 (창 12:4, 21:5)",
+          "갈라디아서 3:16 '네 씨'는 그리스도를 가리킴"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בֶן בֵּיתִי (벤 베이티) - 내 집에서 태어난 자",
+        "description": "'벤 베이티'는 문자적으로 '내 집의 아들'을 의미하며, 종으로 태어난 자를 가리킵니다. 고대 근동의 법(누지 문서)에 따르면, 자녀가 없는 경우 종을 양자로 삼아 상속자로 삼을 수 있었습니다.",
+        "points": [
+          "누지(Nuzi) 점토판에 기록된 고대 입양 관습과 일치",
+          "인간적 해결책으로 엘리에셀을 후계자로 생각함",
+          "하나님의 약속은 인간의 계획을 초월함",
+          "후에 이스마엘도 인간적 해결책이었으나 하나님은 이삭을 주심"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יוֹרֵשׁ אֹתִי (요레쉬 오티) - 나를 상속하는 자",
+        "description": "'야라쉬'는 '소유하다, 상속하다'를 의미하며, 법적 상속권을 나타냅니다. 아브람은 엘리에셀이 자신의 모든 재산과 이름을 상속받게 될 것이라고 예상했습니다.",
+        "points": [
+          "상속은 단순히 재산이 아니라 이름과 언약의 계승",
+          "아브람의 이름('많은 민족의 아버지')이 무색해지는 아이러니",
+          "로마서 4:13 '아브라함이나 그 후손에게 세상의 상속자가 되리라'",
+          "혈통이 아닌 믿음으로 아브라함의 자손이 됨 (갈 3:29)"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "아브람은 왜 '씨를 주지 않으셨다'고 말했나요?",
+      "answer": "아브람은 하나님께서 '큰 민족의 아버지가 될 것'이라고 약속하셨는데, 오랜 시간이 지나도 아기가 생기지 않았어요. 그래서 '하나님, 약속하셨는데 아직도 아기가 없어요'라고 솔직하게 말한 거예요. 마치 부모님이 선물을 약속했는데 오랫동안 주지 않으셔서 '언제 주실 거예요?'라고 물어보는 것과 비슷해요. 하나님은 이런 솔직한 질문을 기다리세요.",
+      "bibleReferences": [
+        "창세기 12:2 - '내가 너로 큰 민족을 이루고'",
+        "히브리서 6:15 - '그가 참고 기다려 약속을 받았느니라'",
+        "로마서 4:19-20 - '그가 백 세나 되어 자기 몸이 죽은 것 같고... 믿음이 약하여지지 아니하고'",
+        "시편 27:14 - '여호와를 기다릴지어다 강하고 담대하며'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 고백은 믿음과 의심 사이에서 고뇌하는 모든 성도의 모습입니다. 하나님의 약속과 현실 사이의 간극은 우리를 시험하지만, 동시에 더 깊은 믿음으로 나아가게 합니다. 아브람은 인간적 해결책(엘리에셀)을 생각했지만, 하나님은 초자연적 방법(이삭)으로 약속을 이루십니다. 이는 구원이 인간의 노력이 아닌 하나님의 은혜로만 이루어짐을 예표합니다(갈라디아서 4:21-31)."
+    }
+  }
+}

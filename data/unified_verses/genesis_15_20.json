@@ -1,0 +1,122 @@
+{
+  "id": "genesis_15_20",
+  "reference": "창세기 15:20",
+  "hebrew": "וְאֶת־הַחִתִּי וְאֶת־הַפְּרִזִּי וְאֶת־הָרְפָאִים׃",
+  "ipa": "vəʔɛt-hahittiˈ vəʔɛt-happərizˈzi vəʔɛt-harəfaˈʔim",
+  "koreanPronunciation": "베에트 하히티 베에트 하페리지 베에트 하레파임",
+  "modern": "헷 족속과 브리스 족속과 르바 족속",
+  "words": [
+    {
+      "hebrew": "הַחִתִּי",
+      "meaning": "헷 족속, 히타이트",
+      "ipa": "hahittiˈ",
+      "korean": "하히티",
+      "letters": "הַ(ha) + חִ(hi) + תִּי(ti)",
+      "root": "חֵת (헤트)",
+      "grammar": "명사",
+      "emoji": "🏛️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-hittite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DAA520\" /><stop offset=\"100%\" stop-color=\"#B8860B\" /></linearGradient><linearGradient id=\"nations20-stone1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A9A9A9\" /><stop offset=\"100%\" stop-color=\"#696969\" /></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#nations20-stone1)\" /><path d=\"M 8 44 L 32 20 L 56 44\" fill=\"url(#nations20-hittite1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.3))\" /><rect x=\"18\" y=\"32\" width=\"8\" height=\"12\" fill=\"url(#nations20-stone1)\" /><rect x=\"38\" y=\"32\" width=\"8\" height=\"12\" fill=\"url(#nations20-stone1)\" /><rect x=\"26\" y=\"36\" width=\"12\" height=\"8\" fill=\"#654321\" rx=\"2\" /><circle cx=\"32\" cy=\"28\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "חֵת (헤트 - 함의 아들)",
+        "אֶפְרוֹן (에브론 - 아브라함에게 땅을 판 헷 족속)"
+      ]
+    },
+    {
+      "hebrew": "הַפְּרִזִּי",
+      "meaning": "브리스 족속",
+      "ipa": "happərizˈzi",
+      "korean": "하페리지",
+      "letters": "הַ(ha) + פְּ(pe) + רִ(ri) + זִּי(zi)",
+      "root": "פְּרָזִי (페라지)",
+      "grammar": "명사",
+      "emoji": "🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-perizzite1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\" /><stop offset=\"100%\" stop-color=\"#BDB76B\" /></linearGradient><linearGradient id=\"nations20-field1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9ACD32\" /><stop offset=\"100%\" stop-color=\"#556B2F\" /></linearGradient></defs><rect x=\"0\" y=\"32\" width=\"64\" height=\"32\" fill=\"url(#nations20-field1)\" /><path d=\"M 16 32 Q 16 24 18 20 L 18 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 24 32 Q 24 20 26 16 L 26 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 32 32 Q 32 18 34 14 L 34 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 40 32 Q 40 20 42 16 L 42 32\" fill=\"url(#nations20-perizzite1)\" /><path d=\"M 48 32 Q 48 24 50 20 L 50 32\" fill=\"url(#nations20-perizzite1)\" /><ellipse cx=\"32\" cy=\"12\" rx=\"16\" ry=\"8\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.5))\" /></svg>",
+      "relatedWords": [
+        "פְּרָזָה (페라자 - 성벽 없는 촌락)",
+        "פְּרָזוֹן (페라존 - 시골, 농촌)"
+      ]
+    },
+    {
+      "hebrew": "הָרְפָאִים",
+      "meaning": "르바 족속, 거인들",
+      "ipa": "harəfaˈʔim",
+      "korean": "하레파임",
+      "letters": "הָ(ha) + רְ(re) + פָ(fa) + אִים(im)",
+      "root": "רָפָא (라파)",
+      "grammar": "명사",
+      "emoji": "👹",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nations20-rephaim1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"50%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><radialGradient id=\"nations20-shadow1\"><stop offset=\"0%\" stop-color=\"#000000\" opacity=\"0.4\" /><stop offset=\"100%\" stop-color=\"#000000\" opacity=\"0\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"58\" rx=\"24\" ry=\"4\" fill=\"url(#nations20-shadow1)\" /><rect x=\"26\" y=\"16\" width=\"12\" height=\"42\" rx=\"6\" fill=\"url(#nations20-rephaim1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"32\" cy=\"10\" r=\"8\" fill=\"url(#nations20-rephaim1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"24\" width=\"8\" height=\"20\" rx=\"4\" fill=\"url(#nations20-rephaim1)\" /><rect x=\"38\" y=\"24\" width=\"8\" height=\"20\" rx=\"4\" fill=\"url(#nations20-rephaim1)\" /><line x1=\"12\" y1=\"48\" x2=\"52\" y2=\"48\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /><line x1=\"12\" y1=\"54\" x2=\"52\" y2=\"54\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עֲנָקִים (아나킴 - 거인족)",
+        "גִּבּוֹר (기보르 - 용사, 거인)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 15:20은 가나안 땅에 거주하던 세 주요 족속을 언급합니다. 헷 족속은 강력한 제국을 이루었던 히타이트의 후손이고, 브리스 족속은 성벽 없는 촌락에 거주하던 농경민이며, 르바 족속은 전설적인 거인족입니다. 이들은 각각 다른 특징과 문화를 가진 민족으로, 가나안 땅의 다양성을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הַחִתִּי (하히티) - 헷 족속",
+        "description": "헷 족속은 소아시아(현 터키)의 강력한 히타이트 제국과 연관된 민족입니다. 성경에서 이들은 가나안 땅의 주요 거주민 중 하나로 자주 언급됩니다. 아브라함은 헷 족속 에브론으로부터 막벨라 굴을 매입했고(창 23장), 에서는 헷 족속 여인들과 결혼했습니다(창 26:34).",
+        "points": [
+          "헷 족속은 함의 아들 헤트의 후손입니다(창 10:15)",
+          "이들은 가나안 중부 산지, 특히 헤브론 지역에 거주했습니다",
+          "히타이트 제국(기원전 1600-1200년)과 연관이 있습니다",
+          "아브라함과 이삭 시대에 이미 가나안에 정착해 있었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "הַפְּרִזִּי (하페리지) - 브리스 족속",
+        "description": "'페라지'는 '성벽 없는 촌락에 사는 사람'을 의미합니다. 브리스 족속은 도시 국가를 이루지 않고 농촌 지역에 분산되어 살았던 민족으로 추정됩니다. 이들은 가나안 족속과 함께 자주 언급되며, 평화로운 농경민이었던 것으로 보입니다.",
+        "points": [
+          "브리스 족속은 성벽 없는 시골 마을에 거주했습니다",
+          "이들은 도시 국가가 아닌 농경 공동체를 이루었습니다",
+          "가나안 중부 산지의 숲이 우거진 지역에 살았습니다",
+          "기원이 불분명하지만 가나안의 원주민으로 여겨집니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הָרְפָאִים (하레파임) - 르바 족속",
+        "description": "르바 족속은 '거인들'로 알려진 전설적인 민족입니다. 이들은 요단 동편, 특히 바산과 아모리 지역에 거주했으며, 신명기는 이들을 '키가 크고 수가 많은' 민족으로 묘사합니다(신 2:20-21). 바산 왕 옥이 마지막 르바 족속이었다고 기록되어 있습니다(신 3:11).",
+        "points": [
+          "르바 족속은 키가 크고 강력한 거인족이었습니다",
+          "이들은 요단 동편 바산과 길르앗 지역에 거주했습니다",
+          "아나킴 족속도 르바 족속의 일부로 여겨집니다",
+          "바산 왕 옥의 침상이 4미터가 넘었다고 기록됩니다(신 3:11)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "מֶמְשָׁלָה (멤샬라) - 하나님의 주권",
+        "description": "이 세 족속은 각각 제국의 후손(헷), 농경민(브리스), 거인족(르바)으로 매우 다른 특징을 가지고 있습니다. 그럼에도 불구하고 하나님은 이 모든 민족의 땅을 아브람의 후손에게 주시겠다고 약속하십니다. 이는 하나님의 주권이 모든 민족과 모든 땅 위에 있음을 보여줍니다.",
+        "points": [
+          "각 민족은 고유한 문화와 강점을 가지고 있었습니다",
+          "어떤 민족도 하나님의 계획을 막을 수 없습니다",
+          "하나님은 거인족조차도 이스라엘 앞에서 물리치십니다",
+          "민족의 크기나 힘이 아니라 하나님의 약속이 역사를 결정합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 거인족이 사는 땅까지 아브람의 후손에게 주시겠다고 하셨을까요?",
+      "answer": "르바 족속은 정말 크고 무섭고 강한 사람들이었어요. 마치 우리가 무서워하는 괴물처럼요. 그런데 하나님은 '거인족이 살고 있어도 괜찮아, 내가 너희 편이니까 너희가 이길 수 있어'라고 말씀하신 거예요. 하나님은 아무리 크고 강한 적이라도 하나님보다 강할 수 없다는 것을 보여주신 거랍니다. 우리가 무서운 것을 만나도 하나님이 함께하시면 이길 수 있어요!",
+      "bibleReferences": [
+        "민수기 13:33 - '거기서 네피림 후손인 아낙 자손의 거인들을 보았나니 우리는 스스로 보기에도 메뚜기 같았고'",
+        "신명기 3:11 - '바산 왕 옥은 르바의 남은 족속이라 그의 침상은 철 침상이니 길이가 아홉 규빗이요 너비가 네 규빗이라'",
+        "신명기 9:2 - '그 백성은 강하고 키가 큰 아낙 자손이라... 누가 아낙 자손을 능히 당하리요'",
+        "여호수아 11:21-22 - '그 때에 여호수아가... 아낙 족속을 진멸하였으므로 이스라엘 자손의 산지에는 아낙 족속이 하나도 남지 아니하였고'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 세 족속의 다양성은 하나님의 약속이 얼마나 포괄적인지를 보여줍니다. 제국의 후손이든, 평화로운 농민이든, 무시무시한 거인족이든 상관없이 하나님은 그들의 땅을 이스라엘에게 주실 것입니다. 이는 우리에게도 적용됩니다. 우리 앞에 어떤 장애물이 있든지, 그것이 아무리 크고 강해 보이든지, 하나님의 약속은 반드시 성취됩니다. '너희를 위하여 싸우실 이는 너희 하나님 여호와시니라'(신 3:22)."
+    }
+  }
+}

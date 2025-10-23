@@ -1,0 +1,140 @@
+{
+  "id": "genesis_12_13",
+  "reference": "창세기 12:13",
+  "hebrew": "אִמְרִי נָא אֲחֹתִי אָתְּ לְמַעַן יִיטַב לִי בַעֲבוּרֵךְ וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ",
+  "ipa": "ʔimri naʔ ʔaħoˈti ʔat ləˈmaʕan jiˈtav li vaʕavuˈrex vəħajəˈta nafˈʃi biɡlaˈlex",
+  "koreanPronunciation": "임리 나 아호티 아트 레마안 이타브 리 바아부레크 베하예타 나프쉬 비글랄레크",
+  "modern": "제발 당신은 내 누이라고 말해 주십시오. 그러면 당신 덕분에 내가 좋은 대우를 받고, 당신으로 인하여 내 생명이 살 것입니다",
+  "words": [
+    {
+      "hebrew": "אִמְרִי נָא",
+      "meaning": "제발 말해 주십시오",
+      "ipa": "ʔimri naʔ",
+      "korean": "임리 나",
+      "letters": "אִ(i) + מְ(me) + רִי(ri) + נָא(na)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "🙏",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"half-truth1-plea\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient></defs><path d=\"M 20 32 L 24 20 L 28 32 M 36 32 L 40 20 L 44 32\" stroke=\"url(#half-truth1-plea)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><ellipse cx=\"32\" cy=\"38\" rx=\"18\" ry=\"8\" fill=\"url(#half-truth1-plea)\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"48\" r=\"3\" fill=\"#fcb69f\" filter=\"drop-shadow(0 0 4px rgba(252, 182, 159, 0.6))\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "נָא (나 - 제발, 부디)"
+      ]
+    },
+    {
+      "hebrew": "אֲחֹתִי אָתְּ",
+      "meaning": "당신은 내 누이입니다",
+      "ipa": "ʔaħoˈti ʔat",
+      "korean": "아호티 아트",
+      "letters": "אֲ(a) + חֹ(ḥo) + תִי(ti) + אָתְּ(at)",
+      "root": "אָחוֹת (아호트)",
+      "grammar": "명사",
+      "emoji": "👭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"half-truth1-sister\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#a8edea\" /><stop offset=\"100%\" stop-color=\"#fed6e3\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"12\" fill=\"url(#half-truth1-sister)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><circle cx=\"40\" cy=\"28\" r=\"12\" fill=\"url(#half-truth1-sister)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 20 44 L 28 44 M 36 44 L 44 44\" stroke=\"url(#half-truth1-sister)\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"22\" cy=\"26\" r=\"2\" fill=\"#764ba2\" /><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#764ba2\" /><path d=\"M 28 28 L 36 28\" stroke=\"#fed6e3\" stroke-width=\"2\" stroke-dasharray=\"2,2\" /></svg>",
+      "relatedWords": [
+        "אָחוֹת (아호트 - 누이, 자매)",
+        "אָח (아흐 - 형제, 오빠)"
+      ]
+    },
+    {
+      "hebrew": "לְמַעַן יִיטַב לִי",
+      "meaning": "내가 좋은 대우를 받도록",
+      "ipa": "ləˈmaʕan jiˈtav li",
+      "korean": "레마안 이타브 리",
+      "letters": "לְ(le) + מַ(ma) + עַן(an) + יִ(yi) + יטַב(tav) + לִי(li)",
+      "root": "מַעַן (마안) + י-ט-ב (야타브)",
+      "grammar": "동사",
+      "emoji": "🎁",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"half-truth1-favor\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><linearGradient id=\"half-truth1-ribbon\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#f093fb\" /><stop offset=\"100%\" stop-color=\"#f5576c\" /></linearGradient></defs><rect x=\"18\" y=\"24\" width=\"28\" height=\"24\" rx=\"2\" fill=\"url(#half-truth1-favor)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" fill=\"url(#half-truth1-ribbon)\" opacity=\"0.8\" /><rect x=\"18\" y=\"28\" width=\"28\" height=\"8\" fill=\"url(#half-truth1-ribbon)\" opacity=\"0.8\" /><path d=\"M 32 16 Q 28 12 24 16 Q 28 20 32 16 Q 36 12 40 16 Q 36 20 32 16\" fill=\"#f093fb\" /></svg>",
+      "relatedWords": [
+        "טוֹב (토브 - 좋은)",
+        "יָטַב (야타브 - 좋게 되다)"
+      ]
+    },
+    {
+      "hebrew": "בַעֲבוּרֵךְ",
+      "meaning": "당신 덕분에",
+      "ipa": "vaʕavuˈrex",
+      "korean": "바아부레크",
+      "letters": "בַ(ba) + עֲ(a) + בוּ(vu) + רֵךְ(rekh)",
+      "root": "עָבַר (아바르)",
+      "grammar": "전치사",
+      "emoji": "🔗",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"half-truth1-because\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><circle cx=\"20\" cy=\"32\" r=\"8\" fill=\"url(#half-truth1-because)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#half-truth1-because)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.2))\" /><path d=\"M 28 32 L 36 32\" stroke=\"url(#half-truth1-because)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 28 26 L 32 32 L 28 38\" stroke=\"#00f2fe\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "בַּעֲבוּר (바아부르 - ~때문에)",
+        "עָבַר (아바르 - 지나가다)"
+      ]
+    },
+    {
+      "hebrew": "וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ",
+      "meaning": "그리고 당신으로 인하여 내 생명이 살 것입니다",
+      "ipa": "vəħajəˈta nafˈʃi biɡlaˈlex",
+      "korean": "베하예타 나프쉬 비글랄레크",
+      "letters": "וְ(ve) + חָ(ḥa) + יְ(ye) + תָה(tah) + נַ(na) + פְ(fe) + שִׁי(shi) + בִּ(bi) + גְ(ge) + לָ(la) + לֵךְ(lekh)",
+      "root": "ח-י-ה (하야) + נֶפֶשׁ (네페쉬) + גָּלַל (갈랄)",
+      "grammar": "동사",
+      "emoji": "💚",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"half-truth1-life\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#56ab2f\" /><stop offset=\"100%\" stop-color=\"#a8e063\" /></linearGradient></defs><path d=\"M 32 52 Q 16 40 16 28 Q 16 16 24 12 Q 28 10 32 14 Q 36 10 40 12 Q 48 16 48 28 Q 48 40 32 52 Z\" fill=\"url(#half-truth1-life)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#FFD700\" opacity=\"0.6\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "נֶפֶשׁ (네페쉬 - 혼, 생명)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 12장 13절은 아브람이 사라이에게 자신을 누이라고 말해달라고 간청하는 장면입니다. 이는 기술적으로는 거짓말이 아니지만(사라는 이복 누이였음, 창 20:12), 진실을 숨기는 반쪽 진실입니다. 아브람은 자신의 생명을 지키기 위해 아내를 위험에 빠뜨리는 선택을 했습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אִמְרִי נָא אֲחֹתִי אָתְּ (임리 나 아호티 아트) - 제발 당신은 내 누이라고 말하십시오",
+        "description": "'임리'는 명령형이지만 '나'(제발, 부디)가 붙어 간청의 어조를 띱니다. 아브람은 사라이에게 자신을 누이로 소개해달라고 부탁합니다. 이는 기술적으로는 사실이지만(이복 누이), 아내라는 더 중요한 진실을 숨기는 것입니다.",
+        "points": [
+          "창세기 20:12에서 아브람은 사라가 자신의 이복 누이라고 밝혔으므로, 이는 완전한 거짓말은 아니었습니다",
+          "그러나 결혼 관계를 숨기는 것은 진실을 왜곡하는 속임수였습니다",
+          "반쪽 진실은 종종 완전한 거짓말보다 더 교묘하고 위험합니다",
+          "아브람은 사라이의 동의를 구했지만, 그녀를 보호하는 대신 자신을 보호하기 위해 그녀를 이용했습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לְמַעַן יִיטַב לִי בַעֲבוּרֵךְ (레마안 이타브 리 바아부레크) - 당신 덕분에 내가 좋은 대우를 받도록",
+        "description": "'레마안'은 목적을 나타내는 전치사로, 아브람의 계획이 자신의 안전과 이익을 위한 것임을 명확히 합니다. '이타브'는 좋게 되다, 잘되다는 의미로, 물질적 축복을 암시합니다.",
+        "points": [
+          "아브람은 사라이가 누이로 보이면 이집트인들이 자신에게 선물과 호의를 베풀 것을 기대했습니다",
+          "실제로 창세기 12:16에서 바로는 사라 때문에 아브람을 후하게 대접했습니다",
+          "아브람의 계획은 현실적으로 효과가 있었지만, 도덕적으로나 신앙적으로는 잘못된 것이었습니다",
+          "우리도 때로 하나님의 방법보다 인간적 지혜를 신뢰하여 단기적 이익을 추구할 수 있습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ (베하예타 나프쉬 비글랄레크) - 당신으로 인하여 내 생명이 살 것입니다",
+        "description": "'나프쉬'는 혼, 생명, 전인격을 의미하는 단어입니다. '비글랄레크'는 '당신 때문에', '당신으로 인하여'라는 뜻으로, 사라이에게 책임을 전가하는 어감이 있습니다.",
+        "points": [
+          "아브람은 자신의 생존을 사라이의 협조에 달려 있다고 말하며 압박했습니다",
+          "그는 자신의 생명이 하나님의 약속에 달려 있음을 잊고, 아내의 희생에 의존하려 했습니다",
+          "남편은 아내를 보호해야 할 책임이 있는데, 아브람은 그 역할을 저버렸습니다",
+          "에베소서 5:25는 '남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라'고 명령합니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 사라이에게 누이라고 말하라고 했을까요?",
+      "answer": "아브람은 무서워서 거짓말을 하기로 했어요. 사라이가 아내라고 하면 자기가 죽을까봐 두려웠거든요. 그래서 사라이에게 '내 누이라고 말해줘'라고 부탁했어요. 사실 사라이는 아브람의 이복 누이이기도 했지만, 더 중요한 건 아내라는 거예요. 아브람은 반만 진짜인 말로 자기 목숨을 지키려고 했지만, 이건 하나님을 믿지 못한 거예요. 하나님은 아브람을 지켜주실 수 있었는데, 아브람은 자기 꾀로 해결하려고 했답니다.",
+      "bibleReferences": [
+        "창세기 20:12 - '또 그는 실로 나의 이복 누이로서 내 아내가 되었으며'",
+        "에베소서 5:25 - '남편들아 아내 사랑하기를 그리스도께서 교회를 사랑하시고 그 교회를 위하여 자신을 주심 같이 하라'",
+        "잠언 12:22 - '거짓 입술은 여호와께 미움을 받아도 진실하게 행하는 자는 그의 기뻐하심을 받느니라'",
+        "베드로전서 3:7 - '남편된 자들아 이와 같이 지식을 따라 너희 아내와 동거하고... 생명의 은혜를 함께 이어받을 자로 알아 귀히 여기라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 반쪽 진실은 믿음의 실패를 보여줍니다. 하나님은 그를 큰 민족의 조상으로 만들겠다고 약속하셨는데, 그 약속은 사라이를 통해 자손이 태어나야 이루어질 수 있습니다. 아브람이 사라이를 위험에 빠뜨리는 것은 하나님의 약속 자체를 위협하는 행위였습니다. 그러나 하나님은 아브람의 실패에도 불구하고 사라이를 보호하시고 약속을 지키셨습니다. 이는 구원이 우리의 완전함이 아니라 하나님의 신실하심에 달려 있음을 보여줍니다. 동시에 우리는 두려움 속에서도 하나님을 신뢰하고 정직하게 행해야 합니다."
+    }
+  }
+}

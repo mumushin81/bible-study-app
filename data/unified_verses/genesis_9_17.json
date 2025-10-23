@@ -1,0 +1,227 @@
+{
+  "id": "genesis_9_17",
+  "reference": "창세기 9:17",
+  "hebrew": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ זֹאת אוֹת־הַבְּרִית אֲשֶׁר הֲקִמֹתִי בֵּינִי וּבֵין כָּל־בָּשָׂר אֲשֶׁר עַל־הָאָרֶץ",
+  "ipa": "vajːoːmɛr ʔɛloːhiːm ʔɛl nɔːaχ zɔːt ʔoːt habːəriːt ʔaʃɛr haqiːmoːtiː beːniː uːveːn kɔl baːsaːr ʔaʃɛr ʕal haːʔaːrɛts",
+  "koreanPronunciation": "바요메르 엘로힘 엘 노아흐 조트 오트 하브리트 아쉐르 하키모티 베이니 우베인 콜 바사르 아쉐르 알 하아레츠",
+  "modern": "하나님께서 노아에게 말씀하셨다: '이것이 내가 나와 땅 위의 모든 생명체 사이에 세운 언약의 표징이다'",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말했다",
+      "ipa": "vajːoːmɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "אָמַר (아마르)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech_vayomer\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#64B5F6\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"20\" ry=\"16\" fill=\"url(#speech_vayomer)\" opacity=\"0.8\" /><path d=\"M 24 40 L 32 44 L 28 40 Z\" fill=\"url(#speech_vayomer)\" opacity=\"0.8\" /><path d=\"M 26 22 Q 28 20 30 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 34 22 Q 36 20 38 22\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /><path d=\"M 28 30 Q 32 32 36 30\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "דָּבַר (다바르 - 말하다, 이야기하다)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloːhiːm",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִים(him)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_elohim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"jewel_elohim\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"11\" y=\"50\" width=\"42\" height=\"8\" rx=\"2\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><path d=\"M 28 28 L 30 24 L 32 28 Z\" fill=\"#FFFFFF\" opacity=\"0.4\" /><path d=\"M 32 24 L 34 20 L 36 24 Z\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 권능자)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "אֶל־נֹחַ",
+      "meaning": "노아에게",
+      "ipa": "ʔɛl nɔːaχ",
+      "korean": "엘 노아흐",
+      "letters": "אֶל(el) + נֹ(no) + חַ(ach)",
+      "root": "נֹחַ (노아흐)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"noah_noach\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"12\" fill=\"#0288D1\" opacity=\"0.6\" /><rect x=\"20\" y=\"24\" width=\"24\" height=\"24\" fill=\"url(#noah_noach)\" opacity=\"0.8\" /><path d=\"M 20 24 L 32 12 L 44 24 Z\" fill=\"#A1887F\" opacity=\"0.9\" /><rect x=\"28\" y=\"36\" width=\"8\" height=\"12\" fill=\"#3E2723\" opacity=\"0.8\" /><rect x=\"24\" y=\"28\" width=\"6\" height=\"6\" fill=\"#4FC3F7\" opacity=\"0.7\" /><rect x=\"34\" y=\"28\" width=\"6\" height=\"6\" fill=\"#4FC3F7\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "מְנוּחָה (메누하 - 안식, 평안)"
+      ]
+    },
+    {
+      "hebrew": "זֹאת",
+      "meaning": "이것",
+      "ipa": "zɔːt",
+      "korean": "조트",
+      "letters": "זֹ(zo) + את(t)",
+      "root": "זֶה (제)",
+      "grammar": "지시대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"point_zot\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#point_zot)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 32 44 L 32 56\" stroke=\"url(#point_zot)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"56\" r=\"3\" fill=\"url(#point_zot)\" opacity=\"0.9\" /><path d=\"M 20 20 L 32 32\" stroke=\"url(#point_zot)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.6\" /><path d=\"M 44 20 L 32 32\" stroke=\"url(#point_zot)\" stroke-width=\"3\" stroke-linecap=\"round\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "זֶה (제 - 이것)",
+        "הִנֵּה (힌네 - 보라)"
+      ]
+    },
+    {
+      "hebrew": "אוֹת",
+      "meaning": "표징, 징조",
+      "ipa": "ʔoːt",
+      "korean": "오트",
+      "letters": "אוֹ(o) + ת(t)",
+      "root": "אוֹת (오트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sign_ot\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B35\" /><stop offset=\"100%\" stop-color=\"#F7931E\" /></linearGradient></defs><rect x=\"16\" y=\"12\" width=\"32\" height=\"40\" rx=\"4\" fill=\"url(#sign_ot)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"28\" r=\"8\" fill=\"#FFFFFF\" opacity=\"0.8\" /><path d=\"M 32 28 L 32 40\" stroke=\"#FFFFFF\" stroke-width=\"3\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#FFFFFF\" /></svg>",
+      "relatedWords": [
+        "מוֹפֵת (모페트 - 기적, 표적)",
+        "נֵס (네스 - 기적, 표징)"
+      ]
+    },
+    {
+      "hebrew": "הַבְּרִית",
+      "meaning": "언약",
+      "ipa": "habːəriːt",
+      "korean": "하브리트",
+      "letters": "הַ(ha) + בְּ(be) + רִית(rit)",
+      "root": "בְּרִית (브리트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"covenant_berit\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><rect x=\"12\" y=\"20\" width=\"40\" height=\"28\" rx=\"4\" fill=\"url(#covenant_berit)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 30 L 28 38 L 44 26\" stroke=\"#FFFFFF\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" /><rect x=\"12\" y=\"20\" width=\"40\" height=\"6\" fill=\"#FF8C00\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "כָּרַת בְּרִית (카라트 브리트 - 언약을 맺다)",
+        "חֹק (호크 - 율례, 규례)"
+      ]
+    },
+    {
+      "hebrew": "אֲשֶׁר",
+      "meaning": "~하는",
+      "ipa": "ʔaʃɛr",
+      "korean": "아쉐르",
+      "letters": "אֲ(a) + שֶׁר(sher)",
+      "root": "אֲשֶׁר (아쉐르)",
+      "grammar": "관계대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"which_asher\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><path d=\"M 12 32 L 28 32\" stroke=\"url(#which_asher)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#which_asher)\" opacity=\"0.9\" /><path d=\"M 36 32 L 52 32\" stroke=\"url(#which_asher)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "שֶׁ (쉐 - ~하는)",
+        "כִּי (키 - ~하기 때문에)"
+      ]
+    },
+    {
+      "hebrew": "הֲקִמֹתִי",
+      "meaning": "내가 세웠다",
+      "ipa": "haqiːmoːtiː",
+      "korean": "하키모티",
+      "letters": "הֲ(ha) + קִ(qi) + מֹ(mo) + תִי(ti)",
+      "root": "קוּם (쿰)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"establish_hakimoti\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#81C784\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></linearGradient></defs><rect x=\"28\" y=\"16\" width=\"8\" height=\"36\" fill=\"url(#establish_hakimoti)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><rect x=\"20\" y=\"52\" width=\"24\" height=\"8\" rx=\"2\" fill=\"url(#establish_hakimoti)\" opacity=\"0.9\" /><path d=\"M 32 16 L 28 24 L 36 24 Z\" fill=\"#4CAF50\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "קוּם (쿰 - 일어나다, 세우다)",
+        "עָמַד (아마드 - 서다)"
+      ]
+    },
+    {
+      "hebrew": "בֵּינִי",
+      "meaning": "나 사이에",
+      "ipa": "beːniː",
+      "korean": "베이니",
+      "letters": "בֵּי(bei) + נִי(ni)",
+      "root": "בֵּין (베인)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"between_beini\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"50%\" stop-color=\"#00F2FE\" /><stop offset=\"100%\" stop-color=\"#4FACFE\" /></linearGradient></defs><circle cx=\"16\" cy=\"32\" r=\"8\" fill=\"#667EEA\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"#764BA2\" opacity=\"0.8\" /><path d=\"M 24 32 L 40 32\" stroke=\"url(#between_beini)\" stroke-width=\"4\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#between_beini)\" /></svg>",
+      "relatedWords": [
+        "בֵּין (베인 - 사이에)",
+        "תָּוֶךְ (타베크 - 중간)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "육체, 고기",
+      "ipa": "baːsaːr",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂר(sar)",
+      "root": "בָּשָׂר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"flesh_basar\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFAB91\" /><stop offset=\"100%\" stop-color=\"#D84315\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"24\" fill=\"url(#flesh_basar)\" opacity=\"0.8\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"28\" rx=\"12\" ry=\"8\" fill=\"#FFCCBC\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"36\" rx=\"14\" ry=\"10\" fill=\"#FF8A65\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "גּוּף (구프 - 몸)",
+        "עוֹר (오르 - 피부)"
+      ]
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅",
+      "ipa": "haːʔaːrɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_haaretz\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"40%\" stop-color=\"#4CAF50\" /><stop offset=\"70%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient><linearGradient id=\"ocean_haaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#0288D1\" /><stop offset=\"100%\" stop-color=\"#01579B\" /></linearGradient><linearGradient id=\"land_haaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#ocean_haaretz)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 20 Q 22 18 28 20 Q 32 22 36 20 Q 42 18 46 22 L 44 32 Q 40 36 36 34 Q 32 32 28 34 Q 24 36 20 32 Z\" fill=\"url(#land_haaretz)\" opacity=\"0.9\" /><ellipse cx=\"48\" cy=\"44\" rx=\"10\" ry=\"8\" fill=\"url(#land_haaretz)\" opacity=\"0.85\" /><ellipse cx=\"16\" cy=\"48\" rx=\"8\" ry=\"6\" fill=\"url(#land_haaretz)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#earth_haaretz)\" stroke-width=\"2\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"0.5\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙, 토지)",
+        "תֵּבֵל (테벨 - 세상, 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님께서 노아에게 언약의 표징을 확증하시는 구절입니다. 이는 단순한 약속이 아니라, 하나님께서 직접 '세우신'(하키모티) 확고한 언약임을 강조합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיֹּאמֶר אֱלֹהִים אֶל־נֹחַ (바요메르 엘로힘 엘 노아흐) - 하나님께서 노아에게 말씀하시다",
+        "description": "하나님께서 직접 노아에게 말씀하시는 장면입니다. 이는 개인적이고 친밀한 소통으로, 하나님과 인간 사이의 관계를 보여줍니다.",
+        "points": [
+          "하나님께서 직접 말씀하심으로 언약의 권위를 확립하십니다",
+          "노아는 하나님과 직접 대화하는 특권을 누립니다",
+          "신적 계시는 명확하고 직접적입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "זֹאת אוֹת־הַבְּרִית (조트 오트 하브리트) - 이것이 언약의 표징",
+        "description": "'오트'(표징)는 단순한 상징이 아니라 약속의 가시적 증거입니다. 무지개는 하나님의 신실하심을 눈으로 확인할 수 있는 영원한 표징입니다.",
+        "points": [
+          "표징(오트)은 보이지 않는 약속을 가시화합니다",
+          "무지개는 자연 속에 새겨진 하나님의 약속입니다",
+          "표징은 믿음을 강화하고 약속을 상기시킵니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֲשֶׁר הֲקִמֹתִי (아쉐르 하키모티) - 내가 세운",
+        "description": "'하키모티'는 '쿰'(일어나다, 세우다)에서 나온 동사로, 하나님께서 능동적으로 언약을 확립하셨음을 의미합니다. 이는 인간의 노력이나 조건과 무관한 일방적 은혜입니다.",
+        "points": [
+          "언약은 하나님의 주권적 결정입니다",
+          "'세우다'는 확고하고 영구적인 것을 의미합니다",
+          "인간의 행위가 아닌 하나님의 은혜가 언약의 기초입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "בֵּינִי וּבֵין כָּל־בָּשָׂר (베이니 우베인 콜 바사르) - 나와 모든 육체 사이에",
+        "description": "언약은 하나님('베이니' - 나 사이에)과 '모든 육체'(콜 바사르) 사이에 맺어진 것입니다. 이는 보편적 언약으로, 선택된 사람들뿐 아니라 모든 생명체를 포괄합니다.",
+        "points": [
+          "하나님께서 직접 언약의 한 당사자가 되십니다",
+          "'모든 육체'는 생명을 가진 모든 존재를 포함합니다",
+          "언약의 보편성은 하나님의 창조 사랑을 드러냅니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 노아에게 언약을 다시 확인하셨을까요?",
+      "answer": "하나님은 노아와 우리가 하나님의 약속을 항상 기억하고 안심하길 원하셨어요. 마치 부모님이 아이에게 '사랑해'라고 여러 번 말해주는 것처럼, 하나님도 우리를 향한 사랑과 약속을 반복해서 확인해주세요. 노아는 홍수를 겪으며 많이 무서웠을 거예요. 그래서 하나님은 '내가 정말로 너희를 지킬 거야'라고 다시 한번 확실하게 말씀해주신 거랍니다. 하나님의 약속은 변하지 않아요!",
+      "bibleReferences": [
+        "민수기 23:19 - '하나님은 사람이 아니시니 거짓말을 하지 않으시고 인생이 아니시니 후회가 없으시도다 어찌 그 말씀하신 바를 행하지 않으시며 하신 말씀을 실행하지 않으시랴'",
+        "히브리서 6:17-18 - '하나님은 약속을 기업으로 받는 자들에게 그 뜻이 변하지 아니함을 충분히 나타내시려고 그 일을 맹세로 보증하셨나니 이는 하나님이 거짓말을 하실 수 없는 이 두 가지 변하지 못할 사실로 말미암아'",
+        "시편 105:8 - '그는 그의 언약 곧 천 대에 명령하신 말씀을 영원히 기억하셨으니'",
+        "이사야 40:8 - '풀은 마르고 꽃은 시드나 우리 하나님의 말씀은 영원히 서리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "신학적 의미",
+      "content": "창세기 9:17은 하나님의 언약 확증을 보여주는 중요한 구절입니다. 하나님께서 '세우신'(하키모티) 언약은 인간의 노력이나 조건에 의존하지 않는 일방적 은혜입니다. 이는 후에 아브라함과의 언약(창세기 15장), 시내산 언약(출애굽기 19장), 다윗 언약(사무엘하 7장), 그리고 예수 그리스도의 새 언약(예레미야 31:31-34)으로 이어지는 구속사의 첫 단계입니다. 무지개라는 가시적 표징은 보이지 않는 하나님의 약속을 우리가 눈으로 확인할 수 있게 해주며, 모든 피조물에 대한 하나님의 신실하심을 증거합니다."
+    }
+  }
+}

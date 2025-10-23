@@ -1,0 +1,157 @@
+{
+  "id": "genesis_8_16",
+  "reference": "창세기 8:16",
+  "hebrew": "צֵא מִן־הַתֵּבָה אַתָּה וְאִשְׁתְּךָ וּבָנֶיךָ וּנְשֵׁי־בָנֶיךָ אִתָּךְ.",
+  "ipa": "tse min hateva ʔaˈta vəʔiʃˈtəxa uvaneˈxa unʃe vaneˈxa ʔiˈtax",
+  "koreanPronunciation": "체 민 하테바 아타 베이쉬테카 우바네카 운쉐 바네카 이타크",
+  "modern": "너는 방주에서 나가라. 너와 네 아내와 네 아들들과 네 며느리들이 너와 함께",
+  "words": [
+    {
+      "hebrew": "צֵא",
+      "meaning": "나가라",
+      "ipa": "tse",
+      "korean": "체",
+      "letters": "צֵא(tse)",
+      "root": "י-צ-א (yatsa)",
+      "grammar": "동사 명령형",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit_command\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"100%\" stop-color=\"#43A047\" /></linearGradient></defs><rect x=\"8\" y=\"24\" width=\"20\" height=\"16\" rx=\"2\" fill=\"#8B4513\" opacity=\"0.5\" /><path d=\"M 28 20 L 56 20 L 56 44 L 28 44\" fill=\"none\" stroke=\"url(#exit_command)\" stroke-width=\"4\" stroke-linecap=\"round\" /><path d=\"M 48 26 L 56 32 L 48 38\" fill=\"#43A047\" /><circle cx=\"20\" cy=\"32\" r=\"3\" fill=\"#FFA726\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출애굽)"
+      ]
+    },
+    {
+      "hebrew": "אַתָּה",
+      "meaning": "너",
+      "ipa": "ʔaˈta",
+      "korean": "아타",
+      "letters": "אַ(a) + תָּה(tah)",
+      "root": "אַתָּה (아타)",
+      "grammar": "대명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"you_person\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#you_person)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"12\" ry=\"14\" fill=\"url(#you_person)\" /><circle cx=\"32\" cy=\"24\" r=\"12\" fill=\"none\" stroke=\"#FFD700\" stroke-width=\"2\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אַתָּה (아타 - 너 남성)",
+        "אַתְּ (아트 - 너 여성)"
+      ]
+    },
+    {
+      "hebrew": "וְאִשְׁתְּךָ",
+      "meaning": "그리고 네 아내",
+      "ipa": "vəʔiʃˈtəxa",
+      "korean": "베이쉬테카",
+      "letters": "וְ(və) + אִ(i) + שְׁ(sh) + תְּךָ(təkha)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"wife_woman\"><stop offset=\"0%\" stop-color=\"#EC407A\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"7\" fill=\"url(#wife_woman)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"13\" ry=\"14\" fill=\"url(#wife_woman)\" /><path d=\"M 20 44 L 18 56\" stroke=\"url(#wife_woman)\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 44 44 L 46 56\" stroke=\"url(#wife_woman)\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여자, 아내)",
+        "אִישׁ (이쉬 - 남자, 남편)"
+      ]
+    },
+    {
+      "hebrew": "וּבָנֶיךָ",
+      "meaning": "그리고 네 아들들",
+      "ipa": "uvaneˈxa",
+      "korean": "우바네카",
+      "letters": "וּ(u) + בָ(ba) + נֶ(ne) + יךָ(kha)",
+      "root": "בֵּן (벤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sons_three\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\" /><stop offset=\"100%\" stop-color=\"#1976D2\" /></linearGradient></defs><circle cx=\"20\" cy=\"24\" r=\"6\" fill=\"url(#sons_three)\" opacity=\"0.8\" /><ellipse cx=\"20\" cy=\"40\" rx=\"8\" ry=\"10\" fill=\"url(#sons_three)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"24\" r=\"6\" fill=\"url(#sons_three)\" /><ellipse cx=\"32\" cy=\"40\" rx=\"8\" ry=\"10\" fill=\"url(#sons_three)\" /><circle cx=\"44\" cy=\"24\" r=\"6\" fill=\"url(#sons_three)\" opacity=\"0.8\" /><ellipse cx=\"44\" cy=\"40\" rx=\"8\" ry=\"10\" fill=\"url(#sons_three)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "בָּנִים (바님 - 아들들)"
+      ]
+    },
+    {
+      "hebrew": "וּנְשֵׁי־בָנֶיךָ",
+      "meaning": "그리고 네 아들들의 아내들",
+      "ipa": "unʃe vaneˈxa",
+      "korean": "운쉐 바네카",
+      "letters": "וּ(u) + נְ(n) + שֵׁי(she) + בָ(ba) + נֶיךָ(nekha)",
+      "root": "נָשִׁים + בֵּן (나쉼 + 벤)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"daughters_law\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#EC407A\" /><stop offset=\"100%\" stop-color=\"#C2185B\" /></linearGradient></defs><circle cx=\"18\" cy=\"22\" r=\"5\" fill=\"url(#daughters_law)\" opacity=\"0.8\" /><ellipse cx=\"18\" cy=\"36\" rx=\"7\" ry=\"9\" fill=\"url(#daughters_law)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"22\" r=\"5\" fill=\"url(#daughters_law)\" /><ellipse cx=\"32\" cy=\"36\" rx=\"7\" ry=\"9\" fill=\"url(#daughters_law)\" /><circle cx=\"46\" cy=\"22\" r=\"5\" fill=\"url(#daughters_law)\" opacity=\"0.8\" /><ellipse cx=\"46\" cy=\"36\" rx=\"7\" ry=\"9\" fill=\"url(#daughters_law)\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "נָשִׁים (나쉼 - 여자들)",
+        "כַּלָּה (칼라 - 며느리)"
+      ]
+    },
+    {
+      "hebrew": "אִתָּךְ",
+      "meaning": "너와 함께",
+      "ipa": "ʔiˈtax",
+      "korean": "이타크",
+      "letters": "אִ(i) + תָּ(ta) + ךְ(kh)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"together_unity\"><stop offset=\"0%\" stop-color=\"#FFA726\" /><stop offset=\"100%\" stop-color=\"#FF6F00\" opacity=\"0.5\" /></radialGradient></defs><circle cx=\"24\" cy=\"32\" r=\"10\" fill=\"url(#together_unity)\" opacity=\"0.7\" /><circle cx=\"40\" cy=\"32\" r=\"10\" fill=\"url(#together_unity)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#FFD54F\" /></svg>",
+      "relatedWords": [
+        "אֵת (에트 - ~와 함께)",
+        "עִם (임 - ~와 함께)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 16절은 하나님의 해방 선언입니다. '나가라'는 단순한 허락이 아니라 새로운 사명을 위한 명령입니다. 노아 가족 8명이 함께 나가는 것은 새로운 인류의 시작을 상징합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "צֵא (체) - 나가라!",
+        "description": "'체(나가라)'는 명령형입니다. 1년 전 '들어가라(보)'와 대칭을 이룹니다. 하나님이 들어가라 하셨고, 이제 나가라고 명령하십니다.",
+        "points": [
+          "들어감과 나감 모두 하나님의 명령입니다",
+          "해방은 허락이 아니라 명령입니다",
+          "새로운 사명을 위한 출발입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "가족의 순서",
+        "description": "노아, 그의 아내, 아들들, 며느리들 순서대로 언급됩니다. 들어갈 때와 같은 순서입니다(7:7).",
+        "points": [
+          "질서 있는 나감입니다",
+          "가족 단위의 구원을 강조합니다",
+          "들어갈 때와 나갈 때의 일관성입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אִתָּךְ (이타크) - 너와 함께",
+        "description": "'너와 함께'는 공동체를 강조합니다. 노아 혼자가 아니라 가족 모두가 함께 새로운 시작을 합니다.",
+        "points": [
+          "구원은 공동체적입니다",
+          "함께하는 것이 하나님의 계획입니다",
+          "고립이 아닌 연합입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "새로운 출애굽",
+        "description": "'나가라(체)'는 나중에 모세에게 '내 백성을 보내라'고 하신 출애굽을 예표합니다.",
+        "points": [
+          "구원은 나가는 것입니다",
+          "속박에서 자유로의 이동입니다",
+          "새로운 땅으로의 여정 시작입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 '나가도 된다'가 아니라 '나가라'고 명령하셨을까요?",
+      "answer": "하나님은 노아에게 새로운 일을 시키시려고 그래요. '나가도 돼'는 허락이지만, '나가라'는 명령이에요. 하나님은 노아가 밖으로 나가서 새로운 세상을 시작하기를 원하셨어요. 마치 선생님이 수업 끝나고 '집에 가도 돼'가 아니라 '집에 가자'라고 말씀하시는 것과 비슷해요. 하나님은 노아 가족이 방주에 계속 있는 게 아니라, 밖으로 나가서 하나님이 주신 땅에서 살기를 원하셨어요. '나가라'는 명령은 사실 축복이에요. 이제 새로운 삶을 시작하라는 거니까요!",
+      "bibleReferences": [
+        "창세기 12:1 - '여호와께서 아브람에게 이르시되 너는 너의 고향과 친척과 아버지의 집을 떠나 내가 네게 보여 줄 땅으로 가라'",
+        "출애굽기 3:10 - '이제 내가 너를 바로에게 보내어 너에게 내 백성 이스라엘 자손을 애굽에서 인도하여 내게 하리라'",
+        "이사야 52:11 - '너희는 떠날지어다 떠날지어다 거기서 나오고 부정한 것을 만지지 말지어다 그 가운데서 나올지어다'",
+        "고린도후서 6:17 - '그러므로 주께서 말씀하시기를 너희는 그들 중에서 나와서 따로 있고 부정한 것을 만지지 말라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8:16은 구원의 완성과 새로운 사명의 시작을 보여줍니다. '나가라(체)'는 단순한 허락이 아니라 명령으로, 하나님의 구원 계획의 다음 단계를 의미합니다. 1년 전 '들어가라(보)'로 시작된 여정이 이제 '나가라(체)'로 새로운 국면을 맞이합니다. 가족 전체가 '함께(이타크)' 나가는 것은 구원이 개인적이면서도 공동체적임을 보여줍니다. 이는 나중에 이스라엘의 출애굽을 예표하며, 궁극적으로는 그리스도를 통한 죄와 사망에서의 해방을 가리킵니다. 방주에서 나가는 것은 단순히 물리적 이동이 아니라, 옛 세상에서 새 세상으로의 영적 전환입니다."
+    }
+  }
+}

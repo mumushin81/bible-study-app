@@ -1,0 +1,186 @@
+{
+  "id": "genesis_8_21",
+  "reference": "창세기 8:21",
+  "hebrew": "וַיָּרַח רֵיחַ הַנִּיחֹחַ אֶל לִבּוֹ לֹא אֹסִף לְקַלֵּל יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו",
+  "ipa": "vajaˈraχ ʔadonˈaj ʔɛt ˈreaχ hanːiˈχoaχ vajˈomɛr ʔadonˈaj ʔɛl libːˈo lo ʔoˈsif ləkalːˈel ʕod ʔɛt haʔadaˈma baʔaˈvur haʔaˈdam ki ˈjetsɛr lev haʔaˈdam raʕ minːəʕuˈrav vəlo ʔoˈsif ʕod ləhakːˈot ʔɛt kol χaj kaʔaˈʃɛr ʕaˈsiti",
+  "koreanPronunciation": "바야라흐 아도나이 에트 레아흐 하니호아흐 바요메르 아도나이 엘 리보 로 오시프 레칼렐 오드 에트 하아다마 바아부르 하아담 키 예체르 레브 하아담 라 미네우라브 베로 오시프 오드 레하코트 에트 콜 하이 카아쉐르 아시티",
+  "modern": "여호와께서 그 향기를 받으시고 마음에 이르시되, \"내가 다시는 사람으로 말미암아 땅을 저주하지 아니하리니, 이는 사람의 마음이 어려서부터 악함이라. 내가 다시는 내가 한 것처럼 모든 생물을 멸하지 아니하리라\"",
+  "words": [
+    {
+      "hebrew": "וַיָּרַח",
+      "meaning": "그리고 맡으셨다, 향기를 받으셨다",
+      "ipa": "vajaˈraχ",
+      "korean": "바야라흐",
+      "letters": "וַ(va) + יָּ(ya) + רַח(rach)",
+      "root": "ר-ו-ח (루아흐)",
+      "grammar": "동사",
+      "emoji": "👃",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"scent1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DEB887\" /><stop offset=\"50%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#FFFACD\" /></linearGradient><radialGradient id=\"aroma1\"><stop offset=\"0%\" stop-color=\"#FFD700\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#DEB887\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#aroma1)\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 28 44 Q 30 38 32 32 Q 34 28 32 24 Q 30 20 28 16 Q 26 12 28 8\" stroke=\"url(#scent1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><path d=\"M 36 44 Q 34 38 32 32 Q 30 28 32 24 Q 34 20 36 16 Q 38 12 36 8\" stroke=\"url(#scent1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><ellipse cx=\"32\" cy=\"48\" rx=\"10\" ry=\"6\" fill=\"url(#scent1)\" opacity=\"0.5\" /><circle cx=\"28\" cy=\"20\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"20\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"14\" r=\"2\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "רֵיחַ (레아흐 - 향기, 냄새)",
+        "רוּחַ (루아흐 - 바람, 영, 냄새)"
+      ]
+    },
+    {
+      "hebrew": "רֵיחַ הַנִּיחֹחַ",
+      "meaning": "향기로운 냄새, 기쁘게 받으시는 향기",
+      "ipa": "ˈreaχ hanːiˈχoaχ",
+      "korean": "레아흐 하니호아흐",
+      "letters": "רֵיחַ(reach) + הַ(ha) + נִּיחֹחַ(nichoach)",
+      "root": "נ-ו-ח (누아흐)",
+      "grammar": "명사",
+      "emoji": "🌺",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sweet1\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient><linearGradient id=\"fragrance1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#DDA0DD\" /><stop offset=\"100%\" stop-color=\"#E6E6FA\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#sweet1)\" opacity=\"0.2\" /><path d=\"M 32 40 Q 26 36 24 32 Q 22 26 26 22 Q 30 18 32 24 Q 34 18 38 22 Q 42 26 40 32 Q 38 36 32 40\" fill=\"url(#sweet1)\" filter=\"drop-shadow(0 4px 8px rgba(199, 21, 133, 0.5))\" /><circle cx=\"28\" cy=\"28\" r=\"3\" fill=\"url(#fragrance1)\" opacity=\"0.8\" /><circle cx=\"36\" cy=\"28\" r=\"3\" fill=\"url(#fragrance1)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFD700\" /><path d=\"M 32 24 Q 30 20 28 16 Q 26 12 28 8\" stroke=\"url(#fragrance1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 32 24 Q 34 20 36 16 Q 38 12 36 8\" stroke=\"url(#fragrance1)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "נִיחוֹחַ (니호아흐 - 향기로운, 기쁘게 하는)",
+        "נוּחַ (누아흐 - 쉬다, 안식하다)",
+        "נֹחַ (노아흐 - 노아)"
+      ]
+    },
+    {
+      "hebrew": "אֶל לִבּוֹ",
+      "meaning": "그의 마음에, 마음속으로",
+      "ipa": "ʔɛl libːˈo",
+      "korean": "엘 리보",
+      "letters": "אֶל(el) + לִבּוֹ(libo)",
+      "root": "לֵב (레브)",
+      "grammar": "명사",
+      "emoji": "💭",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"thought1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E0E0\" /></radialGradient><linearGradient id=\"heart2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"28\" rx=\"20\" ry=\"16\" fill=\"url(#thought1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><path d=\"M 32 46 L 22 36 Q 20 30 24 26 Q 28 22 32 28 Q 36 22 40 26 Q 44 30 42 36 Z\" fill=\"url(#heart2)\" filter=\"drop-shadow(0 2px 6px rgba(196, 30, 58, 0.5))\" /><text x=\"32\" y=\"32\" font-size=\"16\" text-anchor=\"middle\" fill=\"#666666\" font-family=\"Arial\">💭</text></svg>",
+      "relatedWords": [
+        "לֵב (레브 - 마음)",
+        "לֵבָב (레바브 - 마음)"
+      ]
+    },
+    {
+      "hebrew": "לֹא אֹסִף",
+      "meaning": "나는 다시 하지 않으리라",
+      "ipa": "lo ʔoˈsif",
+      "korean": "로 오시프",
+      "letters": "לֹא(lo) + אֹסִף(osif)",
+      "root": "י-ס-ף (야사프)",
+      "grammar": "동사",
+      "emoji": "🚫",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"stop1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></linearGradient><radialGradient id=\"promise1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#stop1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#stop1)\" stroke-width=\"6\" filter=\"drop-shadow(0 0 8px rgba(220, 20, 60, 0.8))\" /><path d=\"M 14 14 L 50 50\" stroke=\"url(#stop1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(220, 20, 60, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#promise1)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "לֹא (로 - 아니다)",
+        "יָסַף (야사프 - 더하다, 계속하다)"
+      ]
+    },
+    {
+      "hebrew": "לְקַלֵּל",
+      "meaning": "저주하다",
+      "ipa": "ləkalːˈel",
+      "korean": "레칼렐",
+      "letters": "לְ(le) + קַלֵּל(kalel)",
+      "root": "ק-ל-ל (칼랄)",
+      "grammar": "동사",
+      "emoji": "⚡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"curse2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8B008B\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient><radialGradient id=\"broken1\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient></defs><circle cx=\"32\" cy=\"16\" r=\"10\" fill=\"url(#broken1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /><path d=\"M 32 26 L 28 36 L 32 34 L 36 36 Z\" fill=\"url(#curse2)\" /><path d=\"M 28 36 L 24 46 L 28 44 L 32 46 Z\" fill=\"url(#curse2)\" /><path d=\"M 36 36 L 32 46 L 36 44 L 40 46 Z\" fill=\"url(#curse2)\" /><circle cx=\"32\" cy=\"52\" r=\"8\" fill=\"url(#curse2)\" opacity=\"0.4\" filter=\"drop-shadow(0 2px 6px rgba(75, 0, 130, 0.6))\" /><path d=\"M 22 52 L 42 52\" stroke=\"url(#broken1)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "קָלַל (칼랄 - 저주하다, 경멸하다)",
+        "קְלָלָה (클랄라 - 저주)"
+      ]
+    },
+    {
+      "hebrew": "יֵצֶר לֵב הָאָדָם רַע",
+      "meaning": "사람의 마음의 계획이 악하다",
+      "ipa": "ˈjetsɛr lev haʔaˈdam raʕ",
+      "korean": "예체르 레브 하아담 라",
+      "letters": "יֵצֶר(yetser) + לֵב(lev) + הָאָדָם(ha'adam) + רַע(ra)",
+      "root": "י-צ-ר (야차르)",
+      "grammar": "명사",
+      "emoji": "💔",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"evil1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#2F4F4F\" /></linearGradient><radialGradient id=\"dark1\"><stop offset=\"0%\" stop-color=\"#8B0000\" /><stop offset=\"100%\" stop-color=\"#4B0000\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#evil1)\" opacity=\"0.4\" /><path d=\"M 32 46 L 22 36 Q 20 30 24 26 Q 28 22 32 28 Q 36 22 40 26 Q 44 30 42 36 Z\" fill=\"url(#dark1)\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 0, 0.6))\" /><path d=\"M 22 36 L 42 36\" stroke=\"#FFD700\" stroke-width=\"3\" stroke-linecap=\"round\" /><path d=\"M 28 30 L 32 34\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 36 30 L 32 34\" stroke=\"#FFD700\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FF6347\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "יֵצֶר (예체르 - 성향, 계획, 형상)",
+        "לֵב (레브 - 마음)",
+        "רַע (라 - 악한)"
+      ]
+    },
+    {
+      "hebrew": "מִנְּעֻרָיו",
+      "meaning": "그의 어릴 때부터, 젊음부터",
+      "ipa": "minːəʕuˈrav",
+      "korean": "미네우라브",
+      "letters": "מִ(mi) + נְּעֻ(ne'u) + רָיו(rav)",
+      "root": "נ-ע-ר (나아르)",
+      "grammar": "명사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"youth1\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><linearGradient id=\"grow1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></linearGradient></defs><circle cx=\"32\" cy=\"38\" r=\"12\" fill=\"url(#youth1)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#654321\" /><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#654321\" /><path d=\"M 28 42 Q 32 44 36 42\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><rect x=\"20\" y=\"48\" width=\"24\" height=\"14\" rx=\"4\" fill=\"url(#grow1)\" opacity=\"0.6\" /><path d=\"M 32 14 L 28 24 L 24 28 L 20 26 L 16 30\" stroke=\"url(#grow1)\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נַעַר (나아르 - 소년, 젊은이)",
+        "נְעוּרִים (네우림 - 청소년기, 젊음)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 8장 21절은 노아의 번제에 대한 하나님의 응답을 기록합니다. 하나님께서 '향기로운 냄새'를 받으시고 마음속으로 결심하시는 이 구절은, 대홍수 이야기의 신학적 정점이자 인류 역사의 새로운 전환점입니다. 역설적으로 하나님은 사람의 마음이 어려서부터 악하다는 것을 인정하시면서도, 다시는 땅을 저주하지 않고 모든 생물을 멸하지 않겠다고 약속하십니다. 이는 순전한 은혜의 선언입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "רֵיחַ הַנִּיחֹחַ (레아흐 하니호아흐) - 향기로운 냄새",
+        "description": "'니호아흐(נִיחוֹחַ)'는 '누아흐(נוּחַ, 쉬다, 안식하다)'에서 파생된 형용사로, 하나님을 기쁘시게 하고 안식하게 하는 향기를 의미합니다. 이는 단순히 물리적 냄새가 아니라, 예배자의 신앙과 헌신이 하나님께 받아들여졌음을 나타내는 은유적 표현입니다. 흥미롭게도 이 표현은 노아(נֹחַ)의 이름과 같은 어근을 공유합니다.",
+        "points": [
+          "'향기로운 냄새'는 하나님께서 예배를 기쁘게 받으셨다는 표현입니다",
+          "노아(נֹחַ)의 이름과 니호아흐(נִיחוֹחַ)가 같은 어근을 공유하여 언어적 연결을 만듭니다",
+          "에베소서 5:2에서 그리스도의 제사도 '향기로운 제물'로 묘사됩니다",
+          "진정한 예배는 하나님을 기쁘시게 하고 그분께 안식을 드립니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לֹא אֹסִף לְקַלֵּל (로 오시프 레칼렐) - 다시는 저주하지 않으리라",
+        "description": "하나님께서 '다시는 땅을 저주하지 않으리라'고 약속하신 이 말씀은 창세기 3:17의 저주와 대조를 이룹니다. 홍수는 그 저주의 극단적 표현이었지만, 이제 하나님은 새로운 시대를 여시며 은혜의 약속을 선포하십니다. 이것은 무조건적인 은혜의 언약입니다.",
+        "points": [
+          "창세기 3:17의 땅에 대한 저주가 사실상 해제됩니다",
+          "이 약속은 인간의 의로움이 아니라 하나님의 은혜에 근거합니다",
+          "노아 언약(창세기 9장)의 기초가 되는 선언입니다",
+          "그리스도는 십자가에서 모든 저주를 담당하셨습니다 (갈라디아서 3:13)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "יֵצֶר לֵב הָאָדָם רַע מִנְּעֻרָיו (예체르 레브 하아담 라 미네우라브) - 사람의 마음이 어려서부터 악함",
+        "description": "'예체르(יֵצֶר)'는 '성향', '계획', '형상'을 의미하며, 인간의 내적 경향성을 나타냅니다. 하나님은 홍수 전(창세기 6:5)과 홍수 후에 똑같이 인간의 본성이 악하다고 진단하십니다. 그럼에도 불구하고 하나님의 대응은 완전히 달라집니다 - 홍수가 아니라 은혜를 선택하신 것입니다. 이것이 복음의 핵심입니다.",
+        "points": [
+          "홍수는 인간의 죄성을 제거하지 못했습니다 - 근본 문제는 여전히 남아있습니다",
+          "창세기 6:5와 8:21은 같은 진단을 내리지만, 하나님의 응답은 완전히 다릅니다",
+          "인간의 도덕적 개선이 아니라 하나님의 은혜가 구원의 기초입니다",
+          "시편 51:5 '내가 죄악 중에서 출생하였음이여' - 원죄 교리의 성경적 근거",
+          "로마서 5:8 '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심'"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אֶל לִבּוֹ (엘 리보) - 하나님의 마음",
+        "description": "하나님께서 '마음에 이르시되'라는 표현은 하나님의 내적 결정과 의지를 나타냅니다. 이는 외적 압력이나 의무가 아니라, 하나님 자신의 본성에서 우러나온 은혜로운 결정입니다. 하나님의 마음은 심판보다 구원을, 진노보다 사랑을 원하십니다 (에스겔 33:11).",
+        "points": [
+          "하나님의 결정은 외적 조건이 아니라 그분의 본성에서 나옵니다",
+          "하나님의 마음은 사랑과 긍휼로 가득합니다 (요한1서 4:8)",
+          "호세아 11:8-9 '내 마음이 내 속에서 돌이키어 나의 긍휼이 온전히 불붙듯 하도다'",
+          "하나님은 '악인의 죽는 것을 기뻐하지 아니하시고' 회개하기를 원하십니다 (에스겔 33:11)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람이 여전히 악한데도 다시는 저주하지 않겠다고 하셨나요?",
+      "answer": "이것이 바로 하나님의 놀라운 은혜예요! 하나님은 홍수 전에도 사람들이 악했고, 홍수 후에도 사람들이 여전히 악하다는 것을 아셨어요. 그런데 이번에는 다르게 대응하셨답니다. 왜냐하면 하나님은 사람들을 정말 사랑하시거든요. 마치 부모님이 아이가 실수를 해도 계속 사랑하시는 것처럼, 하나님도 우리가 완벽하지 않아도 사랑으로 대하시기로 결정하신 거예요. 하나님은 우리를 벌주는 대신, 예수님을 보내주셔서 우리의 죄를 대신 짊어지게 하셨어요. 이것이 바로 은혜 - 우리가 받을 자격이 없는데도 주시는 하나님의 선물이랍니다!",
+      "bibleReferences": [
+        "창세기 6:5 - '여호와께서 사람의 죄악이 세상에 가득함과 그의 마음으로 생각하는 모든 계획이 항상 악할 뿐임을 보시고'",
+        "창세기 3:17 - '땅은 너로 말미암아 저주를 받고'",
+        "로마서 5:8 - '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심으로 하나님께서 우리에 대한 자기의 사랑을 확증하셨느니라'",
+        "에베소서 2:4-5 - '긍휼이 풍성하신 하나님이 우리를 사랑하신 그 큰 사랑을 인하여 허물로 죽은 우리를 그리스도와 함께 살리셨고'",
+        "갈라디아서 3:13 - '그리스도께서 우리를 위하여 저주를 받은 바 되사 율법의 저주에서 우리를 속량하셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 8장 21절은 성경 전체의 복음을 압축적으로 보여주는 핵심 구절입니다. 하나님은 인간의 악함을 완전히 알고 계시면서도, 심판이 아닌 은혜를 선택하십니다. 이것은 인간의 개선된 도덕성이 아니라 하나님의 주권적 사랑에 근거한 결정입니다. 홍수 전(창세기 6:5)과 홍수 후(창세기 8:21)의 인간 상태는 동일하지만, 하나님의 대응은 근본적으로 변화했습니다. 이는 로마서 5:8의 복음을 예표합니다 - '우리가 아직 죄인 되었을 때에 그리스도께서 우리를 위하여 죽으심.' 노아의 번제는 그리스도의 완전한 제사를 예표하며, 하나님의 은혜로운 응답은 십자가를 통한 영원한 언약을 가리킵니다."
+    }
+  }
+}

@@ -1,0 +1,171 @@
+{
+  "id": "genesis_14_2",
+  "reference": "창세기 14:2",
+  "hebrew": "עָשׂוּ מִלְחָמָה, אֶת־בֶּרַע מֶלֶךְ סְדֹם, וְאֶת־בִּרְשַׁע מֶלֶךְ עֲמֹרָה, שִׁנְאָב מֶלֶךְ אַדְמָה, וְשֶׁמְאֵבֶר מֶלֶךְ צְבֹיִים, וּמֶלֶךְ בֶּלַע הִיא־צֹעַר.",
+  "ipa": "ʔaˈsu milχaˈma ʔɛt ˈbɛraʔ ˈmɛlɛx səˈdom vəʔɛt birˈʃaʔ ˈmɛlɛx ʔamoˈra ʃinˈʔav ˈmɛlɛx ʔadˈmah vəʃɛmˈʔevɛr ˈmɛlɛx tsəvoˈjim uˈmɛlɛx ˈbɛlaʔ hiʔ ˈtsoʔar",
+  "koreanPronunciation": "아수 밀하마 에트 베라 멜레크 세돔 베에트 비르샤 멜레크 아모라 쉬나브 멜레크 아드마 베쉠에베르 멜레크 츠보임 우멜레크 벨라 히 초아르",
+  "modern": "이들이 소돔 왕 베라, 고모라 왕 비르사, 아드마 왕 시납, 스보임 왕 세메벨, 그리고 벨라 곧 소알 왕과 전쟁을 벌였습니다.",
+  "words": [
+    {
+      "hebrew": "עָשׂוּ",
+      "meaning": "그들이 만들었다, 벌였다",
+      "ipa": "ʔaˈsu",
+      "korean": "아수",
+      "letters": "עָ(a) + שׂוּ(su)",
+      "root": "ע-שׂ-ה (아사 - 하다, 만들다)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"made_war\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#made_war)\" opacity=\"0.3\" /><path d=\"M 20 32 L 32 20 L 44 32 L 32 44 Z\" fill=\"#667EEA\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "עָשָׂה (아사 - 하다, 만들다)",
+        "מַעֲשֶׂה (마아세 - 행위)"
+      ]
+    },
+    {
+      "hebrew": "מִלְחָמָה",
+      "meaning": "전쟁",
+      "ipa": "milχaˈma",
+      "korean": "밀하마",
+      "letters": "מִ(mil) + לְחָ(lcha) + מָה(mah)",
+      "root": "ל-ח-ם (라함 - 싸우다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"war_milchamah\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient></defs><path d=\"M 24 40 L 32 16 L 40 40 Z\" fill=\"none\" stroke=\"url(#war_milchamah)\" stroke-width=\"3\" /><path d=\"M 20 40 L 44 40\" stroke=\"#FF6B6B\" stroke-width=\"4\" /><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"#C44569\" /></svg>",
+      "relatedWords": [
+        "לָחַם (라함 - 싸우다, 전쟁하다)",
+        "לֶחֶם (레헴 - 빵)"
+      ]
+    },
+    {
+      "hebrew": "בֶּרַע",
+      "meaning": "베라 (소돔 왕)",
+      "ipa": "ˈbɛraʔ",
+      "korean": "베라",
+      "letters": "בֶּ(be) + רַע(ra)",
+      "root": "רַע (라 - 악한)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bera\"><stop offset=\"0%\" stop-color=\"#999999\" /><stop offset=\"100%\" stop-color=\"#666666\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#bera)\" opacity=\"0.5\" /><path d=\"M 24 18 L 28 12 L 32 16 L 36 12 L 40 18 Z\" fill=\"#999999\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#bera)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רַע (라 - 악한, 나쁜)",
+        "רָעָה (라아 - 악, 재앙)"
+      ]
+    },
+    {
+      "hebrew": "סְדֹם",
+      "meaning": "소돔",
+      "ipa": "səˈdom",
+      "korean": "세돔",
+      "letters": "סְ(se) + דֹם(dom)",
+      "root": "סְדֹם (세돔)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sodom\"><stop offset=\"0%\" stop-color=\"#FF4500\" /><stop offset=\"50%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"20\" fill=\"url(#sodom)\" opacity=\"0.5\" /><path d=\"M 24 28 Q 28 20 32 28 Q 36 20 40 28\" fill=\"url(#sodom)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "סְדֹם (세돔 - 소돔)",
+        "עֲמֹרָה (아모라 - 고모라)"
+      ]
+    },
+    {
+      "hebrew": "בִּרְשַׁע",
+      "meaning": "비르사 (고모라 왕)",
+      "ipa": "birˈʃaʔ",
+      "korean": "비르샤",
+      "letters": "בִּ(bi) + רְשַׁע(rsha)",
+      "root": "רָשָׁע (라샤 - 악한)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"birsha\"><stop offset=\"0%\" stop-color=\"#8B8B8B\" /><stop offset=\"100%\" stop-color=\"#555555\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#birsha)\" opacity=\"0.5\" /><path d=\"M 24 18 L 28 12 L 32 16 L 36 12 L 40 18 Z\" fill=\"#8B8B8B\" /><path d=\"M 16 48 Q 16 36 32 36 Q 48 36 48 48 Z\" fill=\"url(#birsha)\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "רָשָׁע (라샤 - 악인)",
+        "רִשְׁעָה (리쉬아 - 악함)"
+      ]
+    },
+    {
+      "hebrew": "עֲמֹרָה",
+      "meaning": "고모라",
+      "ipa": "ʔamoˈra",
+      "korean": "아모라",
+      "letters": "עֲ(a) + מֹ(mo) + רָה(rah)",
+      "root": "עֲמֹרָה (아모라)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gomorrah\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"20\" fill=\"url(#gomorrah)\" opacity=\"0.5\" /><path d=\"M 24 28 Q 28 20 32 28 Q 36 20 40 28\" fill=\"url(#gomorrah)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עֲמֹרָה (아모라 - 고모라)",
+        "סְדֹם (세돔 - 소돔)"
+      ]
+    },
+    {
+      "hebrew": "צֹעַר",
+      "meaning": "소알 (작은)",
+      "ipa": "ˈtsoʔar",
+      "korean": "초아르",
+      "letters": "צֹ(tso) + עַר(ar)",
+      "root": "צָעַר (차아르 - 작다)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"zoar\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#FED6E3\" /></linearGradient></defs><rect x=\"24\" y=\"36\" width=\"16\" height=\"16\" fill=\"url(#zoar)\" opacity=\"0.5\" /><path d=\"M 24 36 L 32 28 L 40 36 Z\" fill=\"#A8EDEA\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "צָעִיר (차이르 - 작은, 어린)",
+        "מִצְעָר (미츠아르 - 조금)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14:2는 5대 왕 연합군을 소개합니다. 이들은 소돔과 고모라를 포함한 '평지의 다섯 성읍' 왕들입니다. 흥미롭게도 소돔과 고모라 왕들의 이름('악 가운데'와 '악함')은 이 도시들의 타락한 상태를 암시합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "소돔과 고모라 - 타락의 상징",
+        "description": "소돔과 고모라는 성경에서 극심한 타락과 하나님의 심판을 상징하는 도시들입니다. 창세기 18-19장에서 이 도시들은 유황과 불로 멸망당합니다. 그들이 여기 등장하는 것은 의미심장합니다.",
+        "points": [
+          "소돔과 고모라는 극심한 죄악으로 유명했습니다",
+          "이 전쟁은 후에 올 심판의 전조입니다",
+          "롯이 이런 도시 근처에 살고 있었습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "왕들의 이름 - 상징적 의미",
+        "description": "베라(בֶּרַע)는 '악 가운데'를, 비르사(בִּרְשַׁע)는 '악함'을 의미합니다. 이름이 그 도시의 성격을 드러냅니다. 반면 소알(צֹעַר)은 '작은'이라는 뜻으로, 후에 롯이 피난한 곳입니다.",
+        "points": [
+          "이름은 운명과 성격을 반영합니다",
+          "소돔과 고모라 왕들의 이름은 그들의 악함을 나타냅니다",
+          "소알('작은')은 상대적으로 덜 악한 곳이었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "5대 왕 vs 4대 왕 - 수적 우세",
+        "description": "5대 왕 연합군은 숫자상으로는 우세했지만, 실제로는 작은 도시국가들이었습니다. 반면 4대 왕 연합군은 강대국들이었습니다. 숫자가 아니라 힘이 중요했습니다.",
+        "points": [
+          "외적 조건(숫자)이 항상 승리를 보장하지 않습니다",
+          "작은 도시국가들은 강대국들에게 속국이었습니다",
+          "진정한 힘은 하나님께로부터 옵니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "롯의 위험 - 세상과의 타협",
+        "description": "롯은 소돔 근처에 살았고(창 13:12), 나중에는 소돔 안에 살게 됩니다. 이 전쟁은 롯의 선택이 얼마나 위험한 것이었는지 보여줍니다. 세상과 가까이 하는 것은 위험합니다.",
+        "points": [
+          "롯은 '눈에 보기 좋은' 곳을 선택했지만 위험했습니다",
+          "세상과의 타협은 결국 문제를 가져옵니다",
+          "우리의 선택은 결과를 가져옵니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 성경은 소돔과 고모라를 계속 언급할까요?",
+      "answer": "성경이 소돔과 고모라를 계속 언급하는 것은 우리에게 중요한 교훈을 주기 위해서예요. 소돔과 고모라는 매우 나쁜 일을 많이 하는 도시였어요. 사람들이 하나님의 말씀을 듣지 않고, 나쁜 짓만 했답니다. 하나님은 그 도시를 벌하셨어요. 이것은 우리에게 '나쁜 일을 계속하면 결국 벌을 받게 돼'라고 가르쳐주는 거예요. 또 '나쁜 사람들과 가까이 지내면 너도 나빠질 수 있어'라는 교훈도 줘요. 롯은 소돔에 살았다가 큰 어려움을 겪었거든요. 우리는 하나님 말씀을 따르고, 착한 일을 하는 사람들과 친하게 지내야 해요.",
+      "bibleReferences": [
+        "베드로후서 2:6-7 - '소돔과 고모라 성을 재가 되게 하여 멸망하기로 정하여 후세에 경건하지 아니할 자들에게 본을 삼으셨으며 무법한 자들의 음란한 행실로 말미암아 고통하는 의로운 롯을 건지셨으니'",
+        "유다서 1:7 - '소돔과 고모라와 그 이웃 도시들도 그들과 같은 행동으로 음란하며 다른 육체를 따라 가다가 영원한 불의 형벌을 받음으로 거울이 되었느니라'",
+        "마태복음 10:15 - '내가 진실로 너희에게 이르노니 심판 날에 소돔과 고모라 땅이 그 성보다 견디기 쉬우리라'",
+        "고린도전서 15:33 - '속지 말라 악한 동무들은 선한 행실을 더럽히나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 14:2는 세상 도시들의 연합을 보여줍니다. 소돔과 고모라는 성경 전체에서 하나님을 거역하는 세상의 대표적 상징이 됩니다. 베드로후서 2:6은 소돔과 고모라를 '후세에 경건하지 아니할 자들에게 본'으로 삼으셨다고 말합니다. 유다서 7절도 이들을 '영원한 불의 형벌을 받음으로 거울이 되었다'고 언급합니다. 예수님도 심판의 엄중함을 말씀하실 때 소돔과 고모라를 언급하십니다(마 10:15). 이 전쟁 기사는 단순히 고대 역사가 아니라, 하나님을 대적하는 세상과 하나님의 백성 사이의 영적 전쟁을 예표합니다. 롯이 소돔에 살았다는 것은 경고입니다 - 세상과 타협하면 위험에 처합니다."
+    }
+  }
+}

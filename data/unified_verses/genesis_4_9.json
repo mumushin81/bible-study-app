@@ -1,0 +1,149 @@
+{
+  "id": "genesis_4_9",
+  "reference": "창세기 4:9",
+  "hebrew": "וַיֹּאמֶר יְהוָה אֶל קַיִן אֵי הֶבֶל אָחִיךָ וַיֹּאמֶר לֹא יָדַעְתִּי הֲשֹׁמֵר אָחִי אָנֹכִי",
+  "ipa": "vajˈjomɛr jəhoˈva ʔɛl ˈkajin ʔe ˈhɛvɛl ʔaˈxixa vajˈjomɛr lo jaˈdati hašoˈmer ʔaˈxi ʔaˈnoxi",
+  "koreanPronunciation": "바요메르 예호와 엘 카인 에이 헤벨 아히카 바요메르 로 야다티 하쇼메르 아히 아노키",
+  "modern": "여호와께서 가인에게 '네 동생 아벨이 어디 있느냐?' 물으시니, 가인이 대답하기를 '제가 알지 못합니다. 제가 내 동생을 지키는 자입니까?' 하였습니다",
+  "words": [
+    {
+      "hebrew": "וַיֹּאמֶר יְהוָה",
+      "meaning": "그리고 여호와께서 말씀하시다",
+      "ipa": "vajˈjomɛr jəhoˈva",
+      "korean": "바요메르 예호와",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer) + יְ(ye) + הוָה(hovah)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "⚡",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yhwh9\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"50%\" stop-color=\"#FFA500\"/><stop offset=\"100%\" stop-color=\"rgba(255, 140, 0, 0)\"/></radialGradient><linearGradient id=\"thunder9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#yhwh9)\" opacity=\"0.4\"/><path d=\"M 32 8 L 28 28 L 36 28 L 32 56 L 40 32 L 32 32 Z\" fill=\"url(#thunder9)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "אֶל קַיִן",
+      "meaning": "가인에게",
+      "ipa": "ʔɛl ˈkajin",
+      "korean": "엘 카인",
+      "letters": "אֶל(el) + קַ(ka) + יִן(yin)",
+      "root": "ק-י-ן (카인)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cain9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#cain9)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.5))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#cain9)\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#000\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#000\"/><path d=\"M 28 28 L 36 28\" stroke=\"#000\" stroke-width=\"2\"/></svg>"
+    },
+    {
+      "hebrew": "אֵי",
+      "meaning": "어디에",
+      "ipa": "ʔe",
+      "korean": "에이",
+      "letters": "אֵי(ei)",
+      "root": "אֵי (에이)",
+      "grammar": "부사",
+      "emoji": "❓",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"question9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#question9)\" opacity=\"0.2\"/><path d=\"M 24 22 Q 24 16 32 16 Q 40 16 40 22 Q 40 28 32 32 L 32 36\" stroke=\"url(#question9)\" stroke-width=\"4\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.4))\"/><circle cx=\"32\" cy=\"44\" r=\"3\" fill=\"url(#question9)\"/></svg>"
+    },
+    {
+      "hebrew": "הֶבֶל אָחִיךָ",
+      "meaning": "네 동생 아벨",
+      "ipa": "ˈhɛvɛl ʔaˈxixa",
+      "korean": "헤벨 아히카",
+      "letters": "הֶ(he) + בֶל(vel) + אָ(a) + חִיךָ(hicha)",
+      "root": "א-ח (아흐)",
+      "grammar": "명사",
+      "emoji": "👤",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abel9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#D3D3D3\"/></linearGradient><radialGradient id=\"spirit9\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"rgba(255, 255, 255, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#spirit9)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"28\" r=\"10\" fill=\"url(#abel9)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#696969\" opacity=\"0.6\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#696969\" opacity=\"0.6\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"8\" fill=\"url(#abel9)\" opacity=\"0.4\"/></svg>"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말하다",
+      "ipa": "vajˈjomɛr",
+      "korean": "바요메르",
+      "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사",
+      "emoji": "🗣️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lie9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#696969\"/><stop offset=\"100%\" stop-color=\"#2F4F4F\"/></linearGradient></defs><rect x=\"12\" y=\"16\" width=\"40\" height=\"28\" rx=\"6\" fill=\"url(#lie9)\" opacity=\"0.6\" filter=\"drop-shadow(0 2px 6px rgba(47, 79, 79, 0.4))\"/><path d=\"M 24 44 L 20 52 L 28 44 Z\" fill=\"url(#lie9)\" opacity=\"0.6\"/><path d=\"M 20 26 L 44 34\" stroke=\"#FF0000\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 20 34 L 44 26\" stroke=\"#FF0000\" stroke-width=\"3\" stroke-linecap=\"round\"/></svg>"
+    },
+    {
+      "hebrew": "לֹא יָדַעְתִּי",
+      "meaning": "나는 알지 못합니다",
+      "ipa": "lo jaˈdati",
+      "korean": "로 야다티",
+      "letters": "לֹא(lo) + יָ(ya) + דַ(da) + עְתִּי(ti)",
+      "root": "י-ד-ע (야다)",
+      "grammar": "동사",
+      "emoji": "🤥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"deny9\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B0000\"/><stop offset=\"100%\" stop-color=\"#DC143C\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#deny9)\" opacity=\"0.3\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#deny9)\" opacity=\"0.5\"/><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"40\" stroke=\"#FF0000\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.6))\"/><circle cx=\"26\" cy=\"26\" r=\"2\" fill=\"#000\"/><circle cx=\"38\" cy=\"26\" r=\"2\" fill=\"#000\"/></svg>"
+    },
+    {
+      "hebrew": "הֲשֹׁמֵר אָחִי אָנֹכִי",
+      "meaning": "제가 내 동생을 지키는 자입니까?",
+      "ipa": "hašoˈmer ʔaˈxi ʔaˈnoxi",
+      "korean": "하쇼메르 아히 아노키",
+      "letters": "הֲ(ha) + שֹׁ(sho) + מֵר(mer) + אָ(a) + חִי(hi) + אָ(a) + נֹכִי(nochi)",
+      "root": "ש-מ-ר (샤마르)",
+      "grammar": "동사구",
+      "emoji": "🛡️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"guard9\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><path d=\"M 32 8 L 16 16 L 16 32 Q 16 48 32 56 Q 48 48 48 32 L 48 16 Z\" fill=\"url(#guard9)\" opacity=\"0.3\" stroke=\"url(#guard9)\" stroke-width=\"2\"/><line x1=\"20\" y1=\"20\" x2=\"44\" y2=\"44\" stroke=\"#DC143C\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.6))\"/><line x1=\"44\" y1=\"20\" x2=\"20\" y2=\"44\" stroke=\"#DC143C\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(220, 20, 60, 0.6))\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 9절은 하나님과 가인 사이의 대화를 기록합니다. 하나님은 가인에게 아벨의 행방을 물으시고, 가인은 거짓말과 무례한 반문으로 대답합니다. 이는 아담과 하와가 범죄 후 하나님 앞에 섰던 장면(창 3:9)과 유사하지만, 가인의 대응은 훨씬 더 대담하고 반항적입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אֵי הֶבֶל אָחִיךָ (에이 헤벨 아히카) - 하나님의 질문",
+        "description": "하나님께서 '네 동생 아벨이 어디 있느냐'고 물으신 것은 정보를 얻기 위함이 아닙니다. 전지하신 하나님은 이미 모든 것을 아십니다. 이는 가인에게 회개의 기회를 주시는 질문입니다.",
+        "points": [
+          "하나님은 이미 모든 것을 아시지만 자백의 기회를 주심",
+          "창세기 3:9 '네가 어디 있느냐'와 유사한 구조",
+          "심판 전에 회개와 자백의 기회를 제공하시는 하나님의 은혜"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "לֹא יָדַעְתִּי (로 야다티) - 거짓말",
+        "description": "'나는 알지 못합니다'라는 대답은 명백한 거짓말입니다. 가인은 자신의 범죄를 숨기려고 하나님께 거짓말을 합니다. 이는 죄 위에 죄를 더하는 것입니다.",
+        "points": [
+          "하나님 앞에서도 거짓말하는 대담함",
+          "죄를 인정하지 않고 숨기려는 시도",
+          "죄는 항상 더 많은 죄를 낳음 (살인 → 거짓말)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "הֲשֹׁמֵר אָחִי אָנֹכִי (하쇼메르 아히 아노키) - 무책임한 반문",
+        "description": "'제가 내 동생을 지키는 자입니까?'라는 반문은 매우 무례하고 반항적입니다. 가인은 형제에 대한 책임을 완전히 부인하며 하나님께 대들고 있습니다.",
+        "points": [
+          "형제에 대한 책임을 부인하는 이기주의",
+          "하나님께 대드는 반항적 태도",
+          "그러나 성경은 '서로 사랑하라'고 가르침 (요일 3:11)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "אָחִי (아히) - 나의 형제",
+        "description": "아이러니하게도 가인은 '내 동생'이라는 단어를 사용합니다. 방금 형제를 죽여놓고도 '형제'라는 관계를 언급하는 것은 가인의 마음이 얼마나 강퍅해졌는지 보여줍니다.",
+        "points": [
+          "형제라는 관계를 인정하면서도 책임은 부인함",
+          "관계의 파괴와 책임의 회피",
+          "우리는 모두 형제의 파수꾼입니다 (레 19:18)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "가인은 왜 '제가 내 동생을 지키는 자입니까?'라고 대답했나요?",
+      "answer": "가인은 자기가 한 나쁜 일을 하나님께 들키고 싶지 않았어요. 그래서 거짓말을 하고, 더 나아가서 하나님께 따지듯이 '제가 왜 동생을 돌봐야 하나요?'라고 무례하게 대답했어요. 가인의 마음이 얼마나 나빠졌는지 보여줘요. 하나님은 우리가 서로 사랑하고 돌보기를 원하시는데, 가인은 그 책임을 거부했답니다.",
+      "bibleReferences": [
+        "요한일서 3:11 - '우리가 서로 사랑할지니 이는 너희가 처음부터 들은 소식이라'",
+        "레위기 19:18 - '네 이웃 사랑하기를 네 자신과 같이 사랑하라'",
+        "잠언 28:13 - '자기의 죄를 숨기는 자는 형통하지 못하나 죄를 자복하고 버리는 자는 불쌍히 여김을 받으리라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "가인의 대답은 죄가 인간의 마음을 얼마나 강퍅하게 만드는지 보여줍니다. 하나님께서 회개의 기회를 주셨음에도 불구하고, 가인은 거짓말과 반항으로 응답합니다. '내 동생을 지키는 자입니까?'라는 질문에 대한 성경적 답은 '그렇다'입니다. 우리는 모두 서로에게 책임이 있으며, 특히 형제자매를 사랑하고 돌볼 의무가 있습니다. 이는 '네 이웃을 네 몸과 같이 사랑하라'는 계명의 근간입니다."
+    }
+  }
+}

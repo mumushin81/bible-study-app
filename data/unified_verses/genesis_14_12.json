@@ -1,0 +1,152 @@
+{
+  "id": "genesis_14_12",
+  "reference": "창세기 14:12",
+  "hebrew": "וַיִּקְחוּ אֶת לוֹט וְאֶת רְכֻשׁוֹ בֶּן אֲחִי אַבְרָם וַיֵּלֵכוּ וְהוּא יֹשֵׁב בִּסְדֹם",
+  "ipa": "vajjikˈħu ʔɛt lot vəʔɛt rəxuˈʃo bɛn ʔaˈħi ʔavˈram vajjeˈlɛxu vəˈhu joˈʃɛv bisəˈdom",
+  "koreanPronunciation": "바이크후 에트 로트 베에트 레쿠쇼 벤 아히 아브람 바예레쿠 베후 요쉐브 비스돔",
+  "modern": "그들이 아브람의 조카 롯과 그의 재산도 사로잡아 갔는데, 롯은 소돔에 살고 있었습니다",
+  "words": [
+    {
+      "hebrew": "וַיִּקְחוּ אֶת לוֹט",
+      "meaning": "그리고 롯을 사로잡았다",
+      "ipa": "vajjikˈħu ʔɛt lot",
+      "korean": "바이크후 에트 로트",
+      "letters": "וַ(va) + יִּ(yi) + קְ(ke) + חוּ(ḥu) + אֶת(et) + לוֹט(lot)",
+      "root": "ל-ק-ח (라카흐) + לוֹט (로트)",
+      "grammar": "동사",
+      "emoji": "⛓️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-capture1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#7f8c8d\" /><stop offset=\"50%\" stop-color=\"#95a5a6\" /><stop offset=\"100%\" stop-color=\"#bdc3c7\" /></linearGradient><radialGradient id=\"lot-captive1\"><stop offset=\"0%\" stop-color=\"#e74c3c\" /><stop offset=\"100%\" stop-color=\"#c0392b\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#lot-captive1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"#d4a574\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><path d=\"M 20 40 Q 18 44 20 48\" stroke=\"url(#lot-capture1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.4))\" /><path d=\"M 44 40 Q 46 44 44 48\" stroke=\"url(#lot-capture1)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 2px 2px rgba(0, 0, 0, 0.4))\" /><rect x=\"18\" y=\"38\" width=\"6\" height=\"3\" rx=\"1\" fill=\"url(#lot-capture1)\" /><rect x=\"40\" y=\"38\" width=\"6\" height=\"3\" rx=\"1\" fill=\"url(#lot-capture1)\" /><path d=\"M 28 34 Q 32 36 36 34\" stroke=\"#8b4513\" stroke-width=\"2\" fill=\"none\" /></svg>",
+      "relatedWords": [
+        "שָׁבָה (샤바 - 사로잡다, 포로로 삼다)",
+        "לוֹט (로트 - 롯, 아브람의 조카)"
+      ]
+    },
+    {
+      "hebrew": "וְאֶת רְכֻשׁוֹ",
+      "meaning": "그리고 그의 재산을",
+      "ipa": "vəʔɛt rəxuˈʃo",
+      "korean": "베에트 레쿠쇼",
+      "letters": "וְ(ve) + אֶת(et) + רְ(re) + כֻ(khu) + שׁוֹ(sho)",
+      "root": "רְכוּשׁ (레쿠쉬)",
+      "grammar": "명사",
+      "emoji": "📦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-goods1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8b6f47\" /><stop offset=\"50%\" stop-color=\"#a0826d\" /><stop offset=\"100%\" stop-color=\"#d4a574\" /></linearGradient><linearGradient id=\"lot-treasure1\" x1=\"0%\" x2=\"100%\"><stop offset=\"0%\" stop-color=\"#f39c12\" /><stop offset=\"100%\" stop-color=\"#e67e22\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#lot-goods1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"34\" y=\"28\" width=\"14\" height=\"16\" rx=\"2\" fill=\"url(#lot-goods1)\" filter=\"drop-shadow(2px 3px 4px rgba(0, 0, 0, 0.4))\" /><rect x=\"24\" y=\"32\" width=\"16\" height=\"8\" rx=\"1\" fill=\"url(#lot-treasure1)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"36\" r=\"2\" fill=\"#FFD700\" /><circle cx=\"36\" cy=\"36\" r=\"2\" fill=\"#FFD700\" /><path d=\"M 20 24 L 24 20 L 28 24\" stroke=\"#c0392b\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 36 24 L 40 20 L 44 24\" stroke=\"#c0392b\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "רְכוּשׁ (레쿠쉬 - 재산, 소유)",
+        "נְכָסִים (네카심 - 재산들)"
+      ]
+    },
+    {
+      "hebrew": "בֶּן אֲחִי אַבְרָם",
+      "meaning": "아브람의 형제의 아들",
+      "ipa": "bɛn ʔaˈħi ʔavˈram",
+      "korean": "벤 아히 아브람",
+      "letters": "בֶּן(ben) + אֲ(a) + חִי(ḥi) + אַ(av) + בְ(be) + רָם(ram)",
+      "root": "בֵּן (벤) + אָח (아흐) + אַבְרָם (아브람)",
+      "grammar": "명사",
+      "emoji": "👨‍👦",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-nephew1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#ffecd2\" /><stop offset=\"100%\" stop-color=\"#fcb69f\" /></linearGradient><linearGradient id=\"lot-abram1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4facfe\" /><stop offset=\"100%\" stop-color=\"#00f2fe\" /></linearGradient></defs><circle cx=\"24\" cy=\"28\" r=\"10\" fill=\"url(#lot-abram1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"44\" cy=\"32\" r=\"8\" fill=\"url(#lot-nephew1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"24\" cy=\"26\" r=\"3\" fill=\"#2c3e50\" /><circle cx=\"44\" cy=\"30\" r=\"2.5\" fill=\"#2c3e50\" /><path d=\"M 20 32 Q 24 35 28 32\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 40 36 Q 44 38 48 36\" stroke=\"#2c3e50\" stroke-width=\"1.5\" fill=\"none\" /><path d=\"M 30 30 Q 36 28 40 30\" stroke=\"#FFD700\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.5))\" /></svg>",
+      "relatedWords": [
+        "בֵּן (벤 - 아들)",
+        "אָח (아흐 - 형제)"
+      ]
+    },
+    {
+      "hebrew": "וַיֵּלֵכוּ",
+      "meaning": "그리고 그들이 갔다",
+      "ipa": "vajjeˈlɛxu",
+      "korean": "바예레쿠",
+      "letters": "וַ(va) + יֵּ(ye) + לֵ(le) + כוּ(khu)",
+      "root": "ה-ל-ךְ (할라크)",
+      "grammar": "동사",
+      "emoji": "🚶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-depart1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b0000\" /><stop offset=\"50%\" stop-color=\"#c0392b\" /><stop offset=\"100%\" stop-color=\"#e74c3c\" /></linearGradient><radialGradient id=\"lot-captivity1\"><stop offset=\"0%\" stop-color=\"#2c3e50\" /><stop offset=\"100%\" stop-color=\"#8b0000\" opacity=\"0.3\" /></radialGradient></defs><path d=\"M 8 36 Q 20 32 32 36 Q 44 40 56 36\" stroke=\"url(#lot-depart1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.4))\" /><circle cx=\"16\" cy=\"34\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"36\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"38\" r=\"5\" fill=\"url(#lot-depart1)\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#lot-captivity1)\" opacity=\"0.3\" /><path d=\"M 44 34 L 48 28 L 52 34\" stroke=\"#e74c3c\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "הָלַךְ (할라크 - 가다, 걷다)",
+        "יָצָא (야차 - 나가다)"
+      ]
+    },
+    {
+      "hebrew": "וְהוּא יֹשֵׁב בִּסְדֹם",
+      "meaning": "그리고 그는 소돔에 거주하고 있었다",
+      "ipa": "vəˈhu joˈʃɛv bisəˈdom",
+      "korean": "베후 요쉐브 비스돔",
+      "letters": "וְ(ve) + הוּא(hu) + יֹ(yo) + שֵׁב(shev) + בִּ(bi) + סְ(se) + דֹם(dom)",
+      "root": "י-ש-ב (야샤브) + סְדֹם (스돔)",
+      "grammar": "동사",
+      "emoji": "🏘️",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"lot-sodom1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8b4513\" /><stop offset=\"50%\" stop-color=\"#cd853f\" /><stop offset=\"100%\" stop-color=\"#deb887\" /></linearGradient><radialGradient id=\"lot-sin1\"><stop offset=\"0%\" stop-color=\"#ff6b6b\" /><stop offset=\"100%\" stop-color=\"#8b0000\" opacity=\"0.4\" /></radialGradient></defs><rect x=\"20\" y=\"32\" width=\"24\" height=\"20\" fill=\"url(#lot-sodom1)\" filter=\"drop-shadow(2px 3px 5px rgba(0, 0, 0, 0.4))\" /><path d=\"M 16 32 L 32 20 L 48 32\" fill=\"#c0392b\" filter=\"drop-shadow(1px 2px 3px rgba(0, 0, 0, 0.3))\" /><rect x=\"28\" y=\"40\" width=\"8\" height=\"12\" fill=\"#8b4513\" /><rect x=\"22\" y=\"38\" width=\"6\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><rect x=\"36\" y=\"38\" width=\"6\" height=\"6\" fill=\"#ff6b6b\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"24\" r=\"16\" fill=\"url(#lot-sin1)\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"12\" r=\"3\" fill=\"#dc143c\" filter=\"drop-shadow(0 0 6px rgba(220, 20, 60, 0.6))\" /></svg>",
+      "relatedWords": [
+        "יָשַׁב (야샤브 - 거주하다, 앉다)",
+        "סְדֹם (스돔 - 소돔)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 14장 12절은 롯의 포로됨을 기록합니다. 롯이 소돔에 살았기 때문에 전쟁의 피해자가 되었다는 사실은 우리의 선택이 가져오는 결과를 보여줍니다. 창세기 13장에서 롯은 육신의 눈으로 보기 좋은 소돔 평지를 선택했지만, 그 결정은 결국 포로와 위험으로 이어졌습니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיִּקְחוּ אֶת לוֹט (바이크후 에트 로트) - 롯을 사로잡았다",
+        "description": "롯의 포로됨은 단순한 전쟁 포로가 아니라 그의 선택의 결과였습니다. 소돔에 거주하기로 한 결정이 그를 위험에 빠뜨렸고, 결국 노예가 되어 끌려가는 신세가 되었습니다. 이는 세상과의 타협이 가져오는 위험을 보여줍니다.",
+        "points": [
+          "롯은 부유했지만(창 13:5), 재산이 그를 보호하지 못했습니다",
+          "육신의 눈으로 보기 좋은 곳을 선택했지만(창 13:10), 그것이 영적으로 안전한 곳은 아니었습니다",
+          "하나님과 함께한 아브람은 가난해도 안전했지만, 세상과 타협한 롯은 부유해도 위험했습니다",
+          "포로됨은 죄의 결과로서의 속박을 상징합니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "וְאֶת רְכֻשׁוֹ (베에트 레쿠쇼) - 그리고 그의 재산을",
+        "description": "롯의 재산도 함께 약탈되었다는 것은 그가 소돔에서 모은 모든 물질적 성공이 순식간에 사라졌음을 의미합니다. 창세기 13장에서 롯은 풍부한 초원을 선택했고, 그곳에서 번영했을 것입니다. 그러나 그 모든 것이 하루아침에 사라졌습니다.",
+        "points": [
+          "롯은 물질적 번영을 위해 소돔을 선택했지만, 결국 모든 것을 잃었습니다",
+          "재산은 진정한 안전과 행복을 보장하지 못합니다",
+          "하나님 없는 번영은 언제든지 사라질 수 있는 허무한 것입니다",
+          "예수님은 '세상에서 자기를 위하여 재물을 쌓지 말라'고 경고하셨습니다(마 6:19-20)"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "בֶּן אֲחִי אַבְרָם (벤 아히 아브람) - 아브람의 형제의 아들",
+        "description": "본문이 롯을 '아브람의 조카'로 명시한 것은 중요한 의미가 있습니다. 이는 롯과 아브람의 관계를 상기시키며, 아브람이 롯을 구출할 책임과 동기를 강조합니다. 또한 하나님의 언약을 받은 아브람의 가족이라는 정체성을 보여줍니다.",
+        "points": [
+          "가족 관계는 고대 사회에서 매우 중요했으며, 서로를 보호할 의무가 있었습니다",
+          "롯은 아브람과 함께 갈대아 우르에서 출발했고(창 11:31), 가나안까지 동행했습니다(창 12:4)",
+          "롯이 소돔으로 떠난 후에도 아브람은 그를 가족으로 여기고 돌보았습니다",
+          "이는 그리스도께서 잃어버린 양을 찾으시는 사랑을 예표합니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְהוּא יֹשֵׁב בִּסְדֹם (베후 요쉐브 비스돔) - 그는 소돔에 거주하고 있었다",
+        "description": "'야샤브'는 단순히 머무는 것이 아니라 정착하여 거주한다는 의미입니다. 창세기 13:12에서는 롯이 '소돔 근처에 장막을 쳤다'고 했지만, 여기서는 '소돔에 거주했다'고 말합니다. 이는 롯이 점점 더 세상 속으로 깊이 들어갔음을 보여줍니다.",
+        "points": [
+          "롯은 처음에는 소돔 근처에 있었지만, 결국 성 안에 들어가 살게 되었습니다",
+          "창세기 19:1에서 롯은 소돔 성문에 앉아 있는데, 이는 그가 도시의 지도자가 되었음을 암시합니다",
+          "세상과의 타협은 점진적이며, 처음에는 '가까이'만 가다가 결국 '안에' 거하게 됩니다",
+          "야고보서 4:4는 '세상과 벗된 것이 하나님과 원수됨인 줄 알지 못하느냐'고 경고합니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 롯은 아브람의 조카인데도 포로로 잡혀갔을까요?",
+      "answer": "롯은 아브람의 조카지만, 아브람과 다른 선택을 했어요. 아브람은 하나님을 따라 가나안 땅에서 천막을 치고 살았지만, 롯은 돈을 많이 벌 수 있는 소돔이라는 도시로 이사 갔어요. 소돔은 땅이 좋고 부자가 될 수 있었지만, 나쁜 사람들이 많이 사는 곳이었답니다. 전쟁이 일어났을 때 소돔 사람들이 전쟁에서 졌기 때문에, 소돔에 살던 롯도 함께 포로로 잡혀가게 된 거예요. 이것은 우리가 어디에 사는지, 누구와 함께 있는지가 정말 중요하다는 것을 보여줘요. 좋은 선택을 하면 안전하지만, 나쁜 선택을 하면 위험해질 수 있거든요.",
+      "bibleReferences": [
+        "창세기 13:10-11 - '이에 롯이 눈을 들어 요단 들을 바라본즉... 롯이 요단 온 들을 택하고'",
+        "창세기 13:12-13 - '롯은 그 지방 성읍들에 머물러 장막을 옮겨 소돔까지 이르렀더라 소돔 사람은 악하여 여호와 앞에 큰 죄인이었더라'",
+        "베드로후서 2:7-8 - '무법한 자의 음란한 행실로 말미암아 고통당하는 의로운 롯을 건지셨으니 (이 의인이 그들 중에 거하여 날마다 저 불법한 행실을 보고 들음으로 그 의로운 심령이 상하였더라)'",
+        "야고보서 4:4 - '간음한 여인들아 세상과 벗된 것이 하나님과 원수됨인 줄 알지 못하느냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "롯의 포로됨은 세상과의 타협이 가져오는 위험을 경고합니다. 롯은 육신의 눈으로 보기 좋은 소돔을 선택했고, 물질적으로는 번영했지만 영적으로는 타락한 환경에 노출되었습니다. 결국 그 선택은 포로와 재산 상실로 이어졌습니다. 반면 아브람은 가난했지만 하나님과 동행했고, 결국 롯을 구출할 수 있는 위치에 있었습니다. 우리도 세상의 가치관과 하나님의 뜻 사이에서 선택해야 할 때가 있습니다. 눈에 보이는 것이 좋다고 해서 그것이 하나님의 뜻은 아닙니다. 진정한 안전과 축복은 하나님과의 관계 안에 있습니다."
+    }
+  }
+}

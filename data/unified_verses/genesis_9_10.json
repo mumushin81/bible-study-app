@@ -1,0 +1,172 @@
+{
+  "id": "genesis_9_10",
+  "reference": "창세기 9:10",
+  "hebrew": "וְאֵת כָּל-נֶפֶשׁ הַחַיָּה, אֲשֶׁר אִתְּכֶם, בָּעוֹף בַּבְּהֵמָה, וּבְכָל-חַיַּת הָאָרֶץ, אִתְּכֶם: מִכֹּל, יֹצְאֵי הַתֵּבָה, לְכֹל, חַיַּת הָאָרֶץ.",
+  "ipa": "vəʔet kol ˈnɛpɛʃ haχaˈja ʔaˈʃɛr ʔitəˈχɛm baˈʔof babəheˈma uvχol χaˈjat haˈʔarɛts ʔitəˈχɛm mikol yotsʔe hatɛˈva ləχol χaˈjat haˈʔarɛts",
+  "koreanPronunciation": "베에트 콜 네페쉬 하하야 아쉐르 이테켐 바오프 바베헤마 우브콜 하야트 하아레츠 이테켐 미콜 요체에 하테바 레콜 하야트 하아레츠",
+  "modern": "그리고 너희와 함께 있는 모든 생물, 곧 새와 가축과 땅의 모든 짐승 곧 방주에서 나온 모든 것, 땅의 모든 짐승과 더불어 언약을 세우리니",
+  "words": [
+    {
+      "hebrew": "נֶפֶשׁ",
+      "meaning": "생명",
+      "ipa": "ˈnɛpɛʃ",
+      "korean": "네페쉬",
+      "letters": "נֶ(ne) + פֶ(pe) + שׁ(sh)",
+      "root": "נ-פ-שׁ (나파쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"living_soul\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#living_soul)\" opacity=\"0.6\" /><path d=\"M 20 32 Q 26 24 32 28 Q 38 32 44 28\" stroke=\"#87CEEB\" stroke-width=\"3\" fill=\"none\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "נְשָׁמָה (네샤마 - 숨)",
+        "חַי (하이 - 살아있는)"
+      ]
+    },
+    {
+      "hebrew": "הַחַיָּה",
+      "meaning": "살아있는 것",
+      "ipa": "haχaˈja",
+      "korean": "하하야",
+      "letters": "הַ(ha) + חַ(kha) + יָּה(ya)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"alive\"><stop offset=\"0%\" stop-color=\"#FF69B4\" /><stop offset=\"50%\" stop-color=\"#FF1493\" /><stop offset=\"100%\" stop-color=\"#C71585\" /></radialGradient></defs><path d=\"M 32 16 Q 24 20 20 28 Q 16 36 20 44 Q 28 52 32 48 Q 36 52 44 44 Q 48 36 44 28 Q 40 20 32 16 Z\" fill=\"url(#alive)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.4))\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 살아있는)",
+        "חַיִּים (하이임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "עוֹף",
+      "meaning": "새",
+      "ipa": "ʔof",
+      "korean": "오프",
+      "letters": "עוֹ(o) + ף(f)",
+      "root": "ע-ו-ף (아우프)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bird\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"32\" rx=\"12\" ry=\"10\" fill=\"url(#bird)\" /><circle cx=\"32\" cy=\"28\" r=\"6\" fill=\"url(#bird)\" /><path d=\"M 20 32 Q 12 28 8 32 Q 12 36 20 34\" fill=\"#4169E1\" opacity=\"0.8\" /><path d=\"M 48 32 Q 56 28 60 32 Q 56 36 48 34\" fill=\"#4169E1\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "צִפּוֹר (치포르 - 새)",
+        "עוּף (우프 - 날다)"
+      ]
+    },
+    {
+      "hebrew": "בְּהֵמָה",
+      "meaning": "가축",
+      "ipa": "bəheˈma",
+      "korean": "베헤마",
+      "letters": "בְּ(be) + הֵ(he) + מָה(ma)",
+      "root": "ב-ה-ם (바함)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A0522D\" /><stop offset=\"100%\" stop-color=\"#8B4513\" /></linearGradient></defs><ellipse cx=\"36\" cy=\"40\" rx=\"20\" ry=\"14\" fill=\"url(#cattle)\" /><ellipse cx=\"24\" cy=\"32\" rx=\"10\" ry=\"12\" fill=\"url(#cattle)\" /><circle cx=\"20\" cy=\"28\" r=\"2\" fill=\"#000000\" /><rect x=\"16\" y=\"50\" width=\"4\" height=\"10\" fill=\"url(#cattle)\" /><rect x=\"32\" y=\"50\" width=\"4\" height=\"10\" fill=\"url(#cattle)\" /><rect x=\"40\" y=\"50\" width=\"4\" height=\"10\" fill=\"url(#cattle)\" /><rect x=\"48\" y=\"50\" width=\"4\" height=\"10\" fill=\"url(#cattle)\" /></svg>",
+      "relatedWords": [
+        "בָּקָר (바카르 - 소)",
+        "צֹאן (초안 - 양떼)"
+      ]
+    },
+    {
+      "hebrew": "חַיַּת",
+      "meaning": "짐승",
+      "ipa": "χaˈjat",
+      "korean": "하야트",
+      "letters": "חַ(kha) + יַּ(ya) + ת(t)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"wild_beast\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"40\" rx=\"20\" ry=\"16\" fill=\"url(#wild_beast)\" /><circle cx=\"24\" cy=\"28\" r=\"8\" fill=\"url(#wild_beast)\" /><circle cx=\"40\" cy=\"28\" r=\"8\" fill=\"url(#wild_beast)\" /><circle cx=\"20\" cy=\"26\" r=\"3\" fill=\"#FFD700\" /><circle cx=\"44\" cy=\"26\" r=\"3\" fill=\"#FFD700\" /></svg>",
+      "relatedWords": [
+        "חַיָּה (하야 - 야생동물)",
+        "טֶרֶף (테레프 - 먹이, 사냥감)"
+      ]
+    },
+    {
+      "hebrew": "יֹצְאֵי",
+      "meaning": "나온 자들",
+      "ipa": "yotsʔe",
+      "korean": "요체에",
+      "letters": "יֹ(yo) + צְ(tse) + אֵי(e)",
+      "root": "י-צ-א (야차)",
+      "grammar": "분사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"exit\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#696969\" /><stop offset=\"100%\" stop-color=\"#D3D3D3\" /></linearGradient></defs><rect x=\"8\" y=\"16\" width=\"24\" height=\"32\" rx=\"2\" fill=\"#8B4513\" /><rect x=\"12\" y=\"20\" width=\"16\" height=\"24\" fill=\"#D2691E\" /><path d=\"M 32 32 L 56 32\" stroke=\"url(#exit)\" stroke-width=\"4\" /><circle cx=\"40\" cy=\"32\" r=\"4\" fill=\"#4169E1\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#4169E1\" /><circle cx=\"56\" cy=\"32\" r=\"4\" fill=\"#4169E1\" /></svg>",
+      "relatedWords": [
+        "יָצָא (야차 - 나가다)",
+        "יְצִיאָה (예치아 - 출구)"
+      ]
+    },
+    {
+      "hebrew": "הַתֵּבָה",
+      "meaning": "방주",
+      "ipa": "hatɛˈva",
+      "korean": "하테바",
+      "letters": "הַ(ha) + תֵּ(te) + בָה(va)",
+      "root": "תֵּבָה (테바)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ark\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"water\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient></defs><rect x=\"8\" y=\"48\" width=\"48\" height=\"12\" fill=\"url(#water)\" opacity=\"0.6\" /><path d=\"M 12 28 L 12 48 L 52 48 L 52 28 L 44 20 L 20 20 Z\" fill=\"url(#ark)\" stroke=\"#5D4037\" stroke-width=\"2\" /><rect x=\"20\" y=\"32\" width=\"6\" height=\"6\" fill=\"#3E2723\" /><rect x=\"38\" y=\"32\" width=\"6\" height=\"6\" fill=\"#3E2723\" /><path d=\"M 32 20 L 32 28\" stroke=\"#654321\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "תֵּבָה (테바 - 상자, 방주)",
+        "אֲרוֹן (아론 - 궤)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "놀랍게도, 하나님의 언약은 인간만이 아니라 모든 생물을 포함합니다. 방주에서 나온 새와 가축과 야생동물까지, 모든 살아있는 피조물이 언약의 수혜자입니다. 이는 하나님의 창조 세계 전체에 대한 사랑을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "כָּל-נֶפֶשׁ הַחַיָּה (콜 네페쉬 하하야) - 모든 생물",
+        "description": "'모든'(콜)이라는 단어가 반복되어 언약의 포괄성을 강조합니다. '네페쉬'(생명)는 인간뿐 아니라 동물에게도 사용됩니다. 모든 생명은 하나님께 소중합니다.",
+        "points": [
+          "하나님은 모든 생명을 돌보십니다",
+          "창조 세계 전체가 하나님의 관심 대상입니다",
+          "생태계 보존은 신학적 의미가 있습니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּעוֹף בַּבְּהֵמָה וּבְכָל-חַיַּת (바오프 바베헤마 우브콜 하야트) - 새와 가축과 모든 짐승",
+        "description": "창세기 1장의 창조 순서를 따라 새, 가축, 야생동물이 열거됩니다. 이는 창조 질서 전체의 회복을 의미합니다. 홍수 심판은 전 세계적이었지만, 언약도 전 세계적입니다.",
+        "points": [
+          "언약은 창조 질서의 회복입니다",
+          "모든 피조물이 함께 하나님의 돌보심을 받습니다",
+          "인간과 자연은 분리될 수 없습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "מִכֹּל, יֹצְאֵי הַתֵּבָה (미콜 요체에 하테바) - 방주에서 나온 모든 것",
+        "description": "방주는 구원의 상징입니다. 방주에서 나온 모든 것은 심판에서 구원받은 자들입니다. 이들 모두가 새로운 언약 공동체를 형성합니다.",
+        "points": [
+          "구원받은 자는 새로운 공동체를 이룹니다",
+          "방주는 교회의 예표입니다",
+          "구원은 새로운 시작의 문입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "생태 신학적 의미",
+        "description": "이 구절은 현대 생태 신학의 중요한 근거입니다. 하나님의 언약이 인간뿐 아니라 모든 피조물을 포함한다는 것은, 환경 보호가 신앙의 문제임을 보여줍니다. 우리는 창조 세계의 청지기입니다.",
+        "points": [
+          "환경 보호는 하나님의 뜻입니다",
+          "동물 복지도 신학적 의미가 있습니다",
+          "창조 세계를 돌보는 것은 하나님을 섬기는 것입니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 사람뿐 아니라 동물들과도 언약을 맺으셨을까요?",
+      "answer": "하나님은 사람만 아니라 모든 생명을 사랑하시기 때문이에요! 하나님이 세상을 만드실 때, 동물들도 함께 만드셨잖아요. 새들, 물고기들, 강아지, 고양이, 코끼리, 사자... 모두 하나님의 작품이에요. 하나님은 참새 한 마리도 잊지 않으세요. 그래서 하나님은 '다시는 홍수로 세상을 멸하지 않겠다'고 약속하실 때, 모든 동물들도 포함시키신 거예요. 우리는 동물들을 잘 돌봐야 해요. 동물을 사랑하고 보호하는 것은 하나님이 만드신 세상을 소중히 여기는 거랍니다.",
+      "bibleReferences": [
+        "시편 36:6 - '여호와여 주의 인자하심이 하늘에 있고 주의 성실하심이 공중에 사무쳤으며 주의 공의는 높은 산과 같고 주의 심판은 큰 바다와 같으니이다 여호와여 주는 사람과 짐승을 구하여 주시나이다'",
+        "시편 145:9 - '여호와께서는 만유를 선대하시며 그가 지으신 모든 것에 긍휼을 베푸시는도다'",
+        "잠언 12:10 - '의인은 자기의 가축의 생명을 돌보나 악인의 긍휼은 잔인이니라'",
+        "마태복음 10:29 - '참새 두 마리가 한 앗사리온에 팔리지 않느냐 그러나 너희 아버지께서 허락하지 아니하시면 그 하나도 땅에 떨어지지 아니하리라'",
+        "로마서 8:19-21 - '피조물이 고대하는 바는 하나님의 아들들이 나타나는 것이니... 피조물도 썩어짐의 종 노릇 한 데서 해방되어 하나님의 자녀들의 영광의 자유에 이를 것임이라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:10은 하나님의 언약이 인간 중심적(anthropocentric)이 아니라 창조 중심적(creation-centered)임을 보여줍니다. 이는 현대 환경 위기 시대에 중요한 신학적 통찰을 제공합니다. 하나님은 전 피조물의 하나님이시며, 우리는 창조 세계의 청지기로 부름받았습니다. 로마서 8:19-22는 피조물이 '하나님의 아들들의 나타나기를 고대한다'고 말합니다. 우리의 구원은 개인적이면서 동시에 우주적입니다. 예수 그리스도의 구속 사역은 '만물을 화목하게 하는'(골 1:20) 것입니다. 따라서 환경 보호, 동물 복지, 지속 가능한 발전은 단순한 윤리적 선택이 아니라 언약적 책임입니다."
+    }
+  }
+}

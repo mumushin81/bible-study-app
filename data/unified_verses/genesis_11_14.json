@@ -1,0 +1,146 @@
+{
+  "id": "genesis_11_14",
+  "reference": "창세기 11:14",
+  "hebrew": "וַיְחִי שֶׁלַח, שְׁלֹשִׁים שָׁנָה; וַיּוֹלֶד אֶת-עֵבֶר.",
+  "ipa": "ˈʔɛvɛr ʔɛt vajˈjolɛd ʃaˈna ʃəloˈʃim ˈʃɛlaχ vajəˈχi",
+  "koreanPronunciation": "에베르 에트 바욜레드, 샤나 슐로쉼 셸라흐 바예히",
+  "modern": "셸라는 삼십 세에 에베르를 낳았습니다",
+  "words": [
+    {
+      "hebrew": "וַיְחִי",
+      "meaning": "그리고 살았다",
+      "ipa": "vajəˈχi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + חִי(khi)",
+      "root": "ח-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "⏳",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah14-time1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient><linearGradient id=\"shelah14-sand1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F4A460\" /><stop offset=\"100%\" stop-color=\"#D2691E\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"24\" fill=\"url(#shelah14-time1)\" opacity=\"0.2\" /><path d=\"M 32 12 L 42 20 L 42 44 L 32 52 L 22 44 L 22 20 Z\" fill=\"none\" stroke=\"url(#shelah14-time1)\" stroke-width=\"2.5\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><path d=\"M 32 20 Q 36 26 32 32 Q 28 26 32 20\" fill=\"url(#shelah14-sand1)\" /><path d=\"M 32 32 Q 36 38 32 44 Q 28 38 32 32\" fill=\"url(#shelah14-sand1)\" opacity=\"0.6\" /><line x1=\"22\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#shelah14-time1)\" stroke-width=\"1.5\" /></svg>",
+      "relatedWords": [
+        "חַי (하이 - 생명)",
+        "חַיִּים (하임 - 생명들)"
+      ]
+    },
+    {
+      "hebrew": "שֶׁלַח",
+      "meaning": "셸라 (사람 이름)",
+      "ipa": "ˈʃɛlaχ",
+      "korean": "셸라흐",
+      "letters": "שֶׁ(she) + לַ(la) + ח(kh)",
+      "root": "שָׁלַח (샬라흐)",
+      "grammar": "명사",
+      "emoji": "🌱",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah14-branch1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#A0522D\" /></linearGradient><radialGradient id=\"shelah14-leaf1\"><stop offset=\"0%\" stop-color=\"#90EE90\" /><stop offset=\"100%\" stop-color=\"#228B22\" /></radialGradient></defs><rect width=\"6\" height=\"32\" x=\"29\" y=\"24\" fill=\"url(#shelah14-branch1)\" rx=\"3\" /><ellipse cx=\"20\" cy=\"20\" rx=\"10\" ry=\"14\" fill=\"url(#shelah14-leaf1)\" transform=\"rotate(-30 20 20)\" opacity=\"0.9\" /><ellipse cx=\"44\" cy=\"20\" rx=\"10\" ry=\"14\" fill=\"url(#shelah14-leaf1)\" transform=\"rotate(30 44 20)\" opacity=\"0.9\" /><ellipse cx=\"32\" cy=\"12\" rx=\"8\" ry=\"12\" fill=\"url(#shelah14-leaf1)\" opacity=\"0.95\" /><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "relatedWords": [
+        "שָׁלַח (샬라흐 - 보내다)",
+        "שָׁלִיחַ (샬리아흐 - 사자, 사도)"
+      ]
+    },
+    {
+      "hebrew": "שְׁלֹשִׁים",
+      "meaning": "삼십",
+      "ipa": "ʃəloˈʃim",
+      "korean": "슐로쉼",
+      "letters": "שְׁ(she) + לֹ(lo) + שִׁ(shi) + ים(m)",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "수사",
+      "emoji": "3️⃣0️⃣",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah14-num1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#shelah14-num1)\" opacity=\"0.2\" /><text x=\"32\" y=\"40\" font-family=\"Arial, sans-serif\" font-size=\"28\" font-weight=\"bold\" fill=\"url(#shelah14-num1)\" text-anchor=\"middle\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\">30</text><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"none\" stroke=\"url(#shelah14-num1)\" stroke-width=\"3\" /></svg>"
+    },
+    {
+      "hebrew": "שָׁנָה",
+      "meaning": "해, 년",
+      "ipa": "ʃaˈna",
+      "korean": "샤나",
+      "letters": "שָׁ(sha) + נָ(na) + ה(h)",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사",
+      "emoji": "📅",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah14-year1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"none\" stroke=\"url(#shelah14-year1)\" stroke-width=\"3\" stroke-dasharray=\"4 4\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"10\" r=\"4\" fill=\"#FF6347\" /><circle cx=\"54\" cy=\"32\" r=\"4\" fill=\"#90EE90\" /><circle cx=\"32\" cy=\"54\" r=\"4\" fill=\"#FFD700\" /><circle cx=\"10\" cy=\"32\" r=\"4\" fill=\"#87CEEB\" /><path d=\"M 32 32 L 32 16\" stroke=\"url(#shelah14-year1)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><path d=\"M 32 32 L 44 24\" stroke=\"url(#shelah14-year1)\" stroke-width=\"2\" stroke-linecap=\"round\" /></svg>"
+    },
+    {
+      "hebrew": "וַיּוֹלֶד",
+      "meaning": "그리고 낳았다",
+      "ipa": "vajˈjolɛd",
+      "korean": "바욜레드",
+      "letters": "וַ(va) + יּוֹ(yo) + לֶד(led)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shelah14-birth1\"><stop offset=\"0%\" stop-color=\"#FFE4E1\" /><stop offset=\"100%\" stop-color=\"#FFB6C1\" /></radialGradient><linearGradient id=\"shelah14-glow1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#shelah14-birth1)\" /><ellipse cx=\"32\" cy=\"44\" rx=\"14\" ry=\"12\" fill=\"url(#shelah14-birth1)\" /><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" /><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#4A4A4A\" /><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"12\" r=\"6\" fill=\"url(#shelah14-glow1)\" opacity=\"0.6\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.6))\" /></svg>",
+      "relatedWords": [
+        "יֶלֶד (옐레드 - 아이)",
+        "תּוֹלְדוֹת (톨도트 - 계보, 세대)"
+      ]
+    },
+    {
+      "hebrew": "אֶת-עֵבֶר",
+      "meaning": "에베르를 (대격 표지 + 이름)",
+      "ipa": "ʔɛt ˈʔɛvɛr",
+      "korean": "에트 에베르",
+      "letters": "אֶת(et) + עֵ(e) + בֶר(ver)",
+      "root": "עָבַר (아바르)",
+      "grammar": "명사",
+      "emoji": "🌉",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shelah14-bridge1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4682B4\" /><stop offset=\"100%\" stop-color=\"#1E90FF\" /></linearGradient><linearGradient id=\"shelah14-river1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4682B4\" /></linearGradient></defs><rect x=\"0\" y=\"44\" width=\"64\" height=\"12\" fill=\"url(#shelah14-river1)\" opacity=\"0.4\" /><path d=\"M 8 32 Q 32 24 56 32\" stroke=\"url(#shelah14-bridge1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" /><rect x=\"16\" y=\"32\" width=\"3\" height=\"12\" fill=\"url(#shelah14-bridge1)\" /><rect x=\"31\" y=\"28\" width=\"3\" height=\"16\" fill=\"url(#shelah14-bridge1)\" /><rect x=\"46\" y=\"32\" width=\"3\" height=\"12\" fill=\"url(#shelah14-bridge1)\" /><circle cx=\"8\" cy=\"32\" r=\"3\" fill=\"#FFD700\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"56\" cy=\"32\" r=\"3\" fill=\"#32CD32\" /></svg>",
+      "relatedWords": [
+        "עָבַר (아바르 - 건너다)",
+        "עִבְרִי (이브리 - 히브리 사람)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 11장 14절은 셈의 족보에서 셸라가 에베르를 낳았음을 기록합니다. 에베르는 '히브리'(עִבְרִי)라는 민족 이름의 어원이 되는 매우 중요한 인물로, 아브라함의 직계 조상입니다. 이 구절은 단순한 계보 나열이 아니라 하나님의 구속 계획이 특정한 혈통을 통해 진행되고 있음을 보여줍니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "שֶׁלַח (셸라흐) - 보냄 받은 자, 가지",
+        "description": "셸라의 이름은 '보내다', '던지다'를 의미하는 동사 '샬라흐'에서 유래합니다. 이 이름은 '보냄 받은 자' 또는 '내뻗은 가지'를 의미하며, 하나님의 계획이 세대를 통해 계속 뻗어나감을 상징합니다.",
+        "points": [
+          "셸라는 아르박삿의 아들로, 노아 이후 다섯 번째 세대입니다",
+          "그의 이름은 하나님의 사명이 다음 세대로 전달됨을 나타냅니다",
+          "셸라는 403년을 더 살며 많은 자녀를 낳았습니다 (11:15)"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "עֵבֶר (에베르) - 건너편, 히브리의 조상",
+        "description": "에베르의 이름은 '건너다', '넘어가다'를 의미하는 동사 '아바르'에서 유래합니다. 에베르는 '히브리'(עִבְרִי, 이브리)라는 민족명의 어원이 되는 인물로, 아브라함이 '히브리 사람 아브람'(창 14:13)으로 불리는 근거가 됩니다.",
+        "points": [
+          "에베르는 히브리 민족의 정체성을 담은 이름의 기원입니다",
+          "'건너편 사람'이라는 의미는 유프라테스 강을 건넌 민족을 나타냅니다",
+          "에베르의 아들 벨렉 시대에 땅이 나뉘어졌습니다 (11:16-19)",
+          "에베르는 464년을 살며 장수의 축복을 누렸습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "שְׁלֹשִׁים שָׁנָה (슐로쉼 샤나) - 삼십 세, 생육의 축복",
+        "description": "셸라가 30세에 에베르를 낳았다는 기록은 홍수 이후 세대들의 출산 연령이 점차 낮아지고 있음을 보여줍니다. 아르박삿은 35세(11:12), 셸라는 30세, 에베르는 34세(11:16)에 자녀를 낳았으며, 이는 인간의 수명이 단축되는 과정을 반영합니다.",
+        "points": [
+          "홍수 이후 세대들의 출산 연령은 점차 빨라지고 있습니다",
+          "그럼에도 수명은 여전히 수백 년으로 긴 편입니다",
+          "하나님의 '생육하고 번성하라'는 축복이 계속됩니다",
+          "짧아진 생애는 죄의 결과이지만 축복의 약속은 이어집니다"
+        ],
+        "color": "green"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 셸라와 에베르의 이름과 나이를 자세히 기록하셨을까요?",
+      "answer": "하나님은 아브라함을 통해 모든 민족을 축복하실 계획을 갖고 계셨어요. 셸라와 에베르는 아브라함의 할아버지의 할아버지들이에요. 마치 우리가 가족 앨범에서 할아버지 할머니 사진을 보며 우리 가족의 역사를 배우는 것처럼, 이 기록은 하나님이 오랜 시간 동안 준비하신 구원의 계획을 보여줘요. 특히 에베르는 '히브리 사람'이라는 이름의 시작이 되는 아주 특별한 조상이랍니다!",
+      "bibleReferences": [
+        "창세기 14:13 - '히브리 사람 아브람에게 알리니'",
+        "누가복음 3:35-36 - '에베르의 아들이요 셀라의 아들이요'",
+        "사도행전 7:2-4 - '아브라함이 하란에 있을 때에'",
+        "히브리서 11:8-10 - '믿음으로 아브라함은 부르심을 받았을 때'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "셸라에서 에베르로 이어지는 족보는 하나님의 구속 역사가 끊이지 않고 진행되고 있음을 보여줍니다. 에베르라는 이름은 '건너편 사람'을 의미하며, 후에 아브라함이 우상 숭배의 땅을 떠나 약속의 땅으로 건너가는 영적 여정을 예표합니다. 이는 우리도 세상에서 하나님 나라로 '건너가는' 순례자임을 상기시킵니다 (히브리서 11:13-16)."
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "id": "genesis_14_16",
+  "reference": "창세기 14:16",
+  "hebrew": "וַיָּשֶׁב, אֵת כָּל-הָרְכֻשׁ; וְגַם אֶת-לוֹט אָחִיו וּרְכֻשׁוֹ הֵשִׁיב, וְגַם אֶת-הַנָּשִׁים וְאֶת-הָעָם.",
+  "ipa": "vəʔɛt haˈʔam vəʔɛt hannašˈšim heˈšiv urəχuˈšo ʔaˈħiv lot ʔɛt vəˈɣam harrəˈχuš kal ʔɛt vajˈjašɛv",
+  "koreanPronunciation": "베에트 하암 베에트 한나쉼 헤쉬브 우레쿠쇼 아히브 로트 에트 베감 하르쿠쉬 칼 에트 바야셰브",
+  "modern": "아브람은 모든 재물을 되찾았고, 그의 조카 롯과 그의 재산, 그리고 여인들과 백성들도 다시 데려왔습니다",
+  "words": [
+    {
+      "hebrew": "וַיָּשֶׁב",
+      "meaning": "그리고 되돌려 가져왔다, 회복하였다",
+      "ipa": "vajˈjašɛv",
+      "korean": "바야셰브",
+      "letters": "וַ(va) + יָּ(ya) + שֶׁב(shev)",
+      "root": "שׁ-ו-ב (슈브)",
+      "grammar": "동사",
+      "emoji": "🔄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-return16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00B4DB\" /><stop offset=\"100%\" stop-color=\"#0083B0\" /></linearGradient><linearGradient id=\"recovery-return16-grad2\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#56CCF2\" /><stop offset=\"100%\" stop-color=\"#2F80ED\" /></linearGradient></defs><path d=\"M 48 20 Q 56 32 48 44\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 0 6px rgba(0, 180, 219, 0.6))\" /><path d=\"M 48 44 L 16 44\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"6\" stroke-linecap=\"round\" /><polygon points=\"16,44 12,40 12,48\" fill=\"url(#recovery-return16-grad2)\" filter=\"drop-shadow(0 0 4px rgba(47, 128, 237, 0.8))\" /><circle cx=\"16\" cy=\"44\" r=\"6\" fill=\"url(#recovery-return16-grad2)\" /><path d=\"M 48 20 L 20 20\" stroke=\"url(#recovery-return16-grad1)\" stroke-width=\"4\" stroke-linecap=\"round\" opacity=\"0.4\" stroke-dasharray=\"4 2\" /></svg>",
+      "relatedWords": [
+        "תְּשׁוּבָה (테슈바 - 회개, 돌이킴)",
+        "שָׁב (샤브 - 돌아가다)"
+      ]
+    },
+    {
+      "hebrew": "כָּל־הָרְכֻשׁ",
+      "meaning": "모든 재물",
+      "ipa": "harrəˈχuš kal",
+      "korean": "칼 하르쿠쉬",
+      "letters": "כָּל(kol) + הָ(ha) + רְ(rə) + כֻשׁ(khush)",
+      "root": "רְכוּשׁ (레쿠쉬)",
+      "grammar": "명사",
+      "emoji": "💎",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-goods16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F7971E\" /><stop offset=\"100%\" stop-color=\"#FFD200\" /></linearGradient><radialGradient id=\"recovery-goods16-grad2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#43C6AC\" /></radialGradient><linearGradient id=\"recovery-goods16-grad3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><rect x=\"16\" y=\"32\" width=\"32\" height=\"24\" fill=\"url(#recovery-goods16-grad3)\" rx=\"2\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><rect x=\"20\" y=\"36\" width=\"24\" height=\"16\" fill=\"url(#recovery-goods16-grad1)\" /><circle cx=\"26\" cy=\"20\" r=\"6\" fill=\"url(#recovery-goods16-grad2)\" filter=\"drop-shadow(0 0 6px rgba(67, 198, 172, 0.8))\" /><circle cx=\"38\" cy=\"16\" r=\"5\" fill=\"url(#recovery-goods16-grad2)\" filter=\"drop-shadow(0 0 6px rgba(67, 198, 172, 0.8))\" /><polygon points=\"48,12 52,8 56,12 52,20\" fill=\"url(#recovery-goods16-grad1)\" filter=\"drop-shadow(0 0 4px rgba(255, 210, 0, 0.8))\" /></svg>"
+    },
+    {
+      "hebrew": "לוֹט",
+      "meaning": "롯 (아브람의 조카)",
+      "ipa": "lot",
+      "korean": "로트",
+      "letters": "לוֹ(lo) + ט(t)",
+      "root": "לוֹט (로트)",
+      "grammar": "명사",
+      "emoji": "👨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-lot16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FC466B\" /><stop offset=\"100%\" stop-color=\"#3F5EFB\" /></linearGradient><radialGradient id=\"recovery-lot16-grad2\"><stop offset=\"0%\" stop-color=\"#FDB99B\" /><stop offset=\"100%\" stop-color=\"#CF8BF3\" /></radialGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#recovery-lot16-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#2C3E50\" /><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#2C3E50\" /><path d=\"M 28 28 Q 32 30 36 28\" stroke=\"#2C3E50\" stroke-width=\"2\" stroke-linecap=\"round\" fill=\"none\" /><path d=\"M 32 34 L 28 52 L 36 52 Z\" fill=\"url(#recovery-lot16-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\" /><rect x=\"24\" y=\"38\" width=\"4\" height=\"14\" fill=\"url(#recovery-lot16-grad1)\" /><rect x=\"36\" y=\"38\" width=\"4\" height=\"14\" fill=\"url(#recovery-lot16-grad1)\" /></svg>",
+      "relatedWords": [
+        "אָח (아흐 - 형제)",
+        "מִשְׁפָּחָה (미쉬파하 - 가족)"
+      ]
+    },
+    {
+      "hebrew": "וּרְכֻשׁוֹ",
+      "meaning": "그리고 그의 재산",
+      "ipa": "urəχuˈšo",
+      "korean": "우레쿠쇼",
+      "letters": "וּ(u) + רְ(rə) + כֻ(khu) + שׁוֹ(sho)",
+      "root": "רְכוּשׁ (레쿠쉬)",
+      "grammar": "명사",
+      "emoji": "💰",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-property16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"recovery-property16-grad2\"><stop offset=\"0%\" stop-color=\"#FFEB3B\" /><stop offset=\"100%\" stop-color=\"#FF9800\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"20\" fill=\"url(#recovery-property16-grad1)\" filter=\"drop-shadow(2px 4px 6px rgba(0, 0, 0, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"18\" ry=\"6\" fill=\"url(#recovery-property16-grad2)\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"#8B4513\" opacity=\"0.3\" /><text x=\"32\" y=\"38\" font-family=\"Arial\" font-size=\"16\" font-weight=\"bold\" fill=\"#8B4513\" text-anchor=\"middle\">$</text></svg>"
+    },
+    {
+      "hebrew": "הַנָּשִׁים",
+      "meaning": "여인들",
+      "ipa": "hannašˈšim",
+      "korean": "한나쉼",
+      "letters": "הַ(ha) + נָּ(na) + שִׁים(shim)",
+      "root": "אִשָּׁה (이샤)",
+      "grammar": "명사",
+      "emoji": "👩",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-women16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C44569\" /></linearGradient><linearGradient id=\"recovery-women16-grad2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E8B4F0\" /><stop offset=\"100%\" stop-color=\"#A569BD\" /></linearGradient></defs><circle cx=\"22\" cy=\"24\" r=\"8\" fill=\"url(#recovery-women16-grad1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"42\" cy=\"24\" r=\"8\" fill=\"url(#recovery-women16-grad2)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 22 32 L 18 50 L 26 50 Z\" fill=\"url(#recovery-women16-grad1)\" /><path d=\"M 42 32 L 38 50 L 46 50 Z\" fill=\"url(#recovery-women16-grad2)\" /><path d=\"M 18 40 L 26 40\" stroke=\"#FFD700\" stroke-width=\"2\" /><path d=\"M 38 40 L 46 40\" stroke=\"#FFD700\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "אִשָּׁה (이샤 - 여인)",
+        "נָשִׁים (나쉼 - 아내들, 여인들)"
+      ]
+    },
+    {
+      "hebrew": "הָעָם",
+      "meaning": "백성들, 사람들",
+      "ipa": "haˈʔam",
+      "korean": "하암",
+      "letters": "הָ(ha) + עָם(am)",
+      "root": "עַם (암)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"recovery-people16-grad1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"100%\" stop-color=\"#764BA2\" /></linearGradient><linearGradient id=\"recovery-people16-grad2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F093FB\" /><stop offset=\"100%\" stop-color=\"#F5576C\" /></linearGradient></defs><circle cx=\"20\" cy=\"20\" r=\"6\" fill=\"url(#recovery-people16-grad1)\" / filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><circle cx=\"32\" cy=\"16\" r=\"6\" fill=\"url(#recovery-people16-grad2)\" /><circle cx=\"44\" cy=\"20\" r=\"6\" fill=\"url(#recovery-people16-grad1)\" /><path d=\"M 20 26 L 16 40 L 24 40 Z\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.8\" /><path d=\"M 32 22 L 28 36 L 36 36 Z\" fill=\"url(#recovery-people16-grad2)\" opacity=\"0.8\" /><path d=\"M 44 26 L 40 40 L 48 40 Z\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.8\" /><circle cx=\"26\" cy=\"44\" r=\"5\" fill=\"url(#recovery-people16-grad2)\" opacity=\"0.7\" /><circle cx=\"38\" cy=\"44\" r=\"5\" fill=\"url(#recovery-people16-grad1)\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "עַמִּים (아밈 - 민족들)",
+        "עַם יִשְׂרָאֵל (암 이스라엘 - 이스라엘 백성)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아브람은 단순히 롯만 구출한 것이 아니라 모든 재물과 사람들을 완전히 회복시켰습니다. 이는 하나님께서 주시는 구원이 부분적이 아닌 완전한 회복임을 보여주는 아름다운 그림입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיָּשֶׁב (바야셰브) - 되돌려 가져오다",
+        "description": "히브리어 '슈브'는 단순히 돌아온다는 의미를 넘어 회복, 회개, 복원을 의미하는 중요한 신학적 용어입니다. 아브람은 빼앗긴 것을 원상태로 되돌려 놓았습니다.",
+        "points": [
+          "하나님의 구원은 잃어버린 것의 완전한 회복",
+          "회복(슈브)은 구약성경의 핵심 주제 중 하나",
+          "그리스도를 통한 우리의 회복을 예표함"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "כָּל־הָרְכֻשׁ (칼 하르쿠쉬) - 모든 재물",
+        "description": "'칼'(모든)이라는 단어가 강조되어 있습니다. 아브람은 하나도 남김없이 모든 것을 되찾았으며, 이는 하나님께서 주시는 승리가 완전함을 보여줍니다.",
+        "points": [
+          "부분적 회복이 아닌 완전한 회복",
+          "하나님은 우리가 잃어버린 것을 아시고 되찾아 주심",
+          "물질도 하나님의 관심과 돌보심의 대상"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לוֹט וְהַנָּשִׁים וְהָעָם (로트 베한나쉼 베하암) - 롯과 여인들과 백성들",
+        "description": "사람들이 재물보다 먼저 언급되지는 않지만, 함께 기록되어 있습니다. 아브람은 재물뿐만 아니라 모든 사람을 구출했으며, 이는 그의 인간애와 책임감을 보여줍니다.",
+        "points": [
+          "사람의 가치는 물질보다 중요함",
+          "아브람은 가족뿐 아니라 다른 사람들도 구출함",
+          "선한 목자의 모습 - 한 마리도 잃지 않음"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "הֵשִׁיב (헤쉬브) - 돌려놓다, 회복시키다",
+        "description": "이 단어는 '슈브'의 사역형(Hiphil)으로, 단순히 돌아오는 것이 아니라 능동적으로 돌려놓는 행위를 의미합니다. 아브람은 적극적으로 모든 것을 원위치시켰습니다.",
+        "points": [
+          "수동적 구원이 아닌 능동적 회복",
+          "아브람은 단순한 구조자가 아닌 회복자",
+          "예수님께서 우리를 하나님께 돌려놓으심을 예표"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아브람은 재물을 자기가 가지지 않고 다 돌려주었을까요?",
+      "answer": "아브람은 하나님께서 이미 그에게 복을 주시기로 약속하셨다는 것을 믿었어요. 그래서 다른 사람의 것을 빼앗아 부자가 될 필요가 없었답니다. 아브람은 정직한 사람이었고, 옳은 일을 하는 것이 더 중요하다는 것을 알았어요. 하나님은 정직하고 다른 사람을 돕는 사람을 더욱 축복하신답니다.",
+      "bibleReferences": [
+        "창세기 14:22-23 - '나는 실 한 오라기나 신발끈 하나도 가지지 않겠노라'",
+        "잠언 10:22 - '여호와께서 복을 주시므로 부하게 하시고 근심을 겸하여 주지 아니하시느니라'",
+        "누가복음 19:8 - '삭개오가 재산의 절반을 가난한 자들에게 주다'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아브람의 완전한 회복 사역은 예수 그리스도의 구속 사역을 예표합니다. 그리스도께서는 죄로 인해 잃어버린 모든 것 - 하나님과의 관계, 의로움, 영생 - 을 완전히 회복시켜 주셨습니다. '모든 것'을 되찾았다는 표현은 그리스도 안에서 우리가 받는 완전한 구원을 상징합니다 (에베소서 1:7-10)."
+    }
+  }
+}

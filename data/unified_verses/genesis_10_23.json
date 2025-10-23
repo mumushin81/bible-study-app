@@ -1,0 +1,139 @@
+{
+  "id": "genesis_10_23",
+  "reference": "창세기 10:23",
+  "hebrew": "וּבְנֵי אֲרָם עוּץ וְחוּל וְגֶתֶר וָמַשׁ",
+  "ipa": "uvənei ʔɑˈrɑm uts vəxul vəˈgɛtɛr vɑˈmɑʃ",
+  "koreanPronunciation": "우브네이 아람 우츠 베훌 베게테르 바마쉬",
+  "modern": "아람의 아들은 우스와 훌과 게델과 마스요",
+  "words": [
+    {
+      "hebrew": "אֲרָם",
+      "meaning": "아람",
+      "ipa": "ʔɑˈrɑm",
+      "korean": "아람",
+      "letters": "אֲ(a) + רָ(ra) + ם(m)",
+      "root": "אֲרָם (아람)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"aram_land\"><stop offset=\"0%\" stop-color=\"#F39C12\" /><stop offset=\"100%\" stop-color=\"#E67E22\" /></linearGradient></defs><rect x=\"16\" y=\"28\" width=\"32\" height=\"24\" fill=\"url(#aram_land)\" opacity=\"0.5\" /><path d=\"M 16 28 L 32 16 L 48 28 Z\" fill=\"url(#aram_land)\" /></svg>"
+    },
+    {
+      "hebrew": "עוּץ",
+      "meaning": "우스",
+      "ipa": "uts",
+      "korean": "우츠",
+      "letters": "עוּ(u) + ץ(ts)",
+      "root": "עוּץ (우츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"uz\"><stop offset=\"0%\" stop-color=\"#8E44AD\" /><stop offset=\"100%\" stop-color=\"#9B59B6\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#uz)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "אִיּוֹב (이욥 - 욥)",
+        "יָעַץ (야아츠 - 상담하다)"
+      ]
+    },
+    {
+      "hebrew": "חוּל",
+      "meaning": "훌",
+      "ipa": "xul",
+      "korean": "훌",
+      "letters": "חוּ(chu) + ל(l)",
+      "root": "חוּל (훌)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"hul\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"100%\" stop-color=\"#2980B9\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#hul)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "חִיל (힐 - 힘, 능력)",
+        "חוּל (훌 - 돌다, 춤추다)"
+      ]
+    },
+    {
+      "hebrew": "גֶתֶר",
+      "meaning": "게델",
+      "ipa": "ˈgɛtɛr",
+      "korean": "게테르",
+      "letters": "גֶּ(ge) + תֶ(te) + ר(r)",
+      "root": "גֶתֶר (게테르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"gether\"><stop offset=\"0%\" stop-color=\"#1ABC9C\" /><stop offset=\"100%\" stop-color=\"#16A085\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"12\" fill=\"url(#gether)\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "מַשׁ",
+      "meaning": "마스",
+      "ipa": "mɑʃ",
+      "korean": "마쉬",
+      "letters": "מַ(ma) + שׁ(sh)",
+      "root": "מַשׁ (마쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mash\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#mash)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "מָשַׁשׁ (마샤쉬 - 더듬다)",
+        "מֶשֶׁךְ (메쉐크 - 메섹)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "아람의 네 아들을 나열하는 구절입니다. 이들은 시리아와 메소포타미아 북부 지역에 정착한 민족들의 조상이 되었으며, 특히 우스는 욥기의 욥과 연관됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "우스 - 욥의 땅",
+        "description": "우스는 욥기의 주인공 욥이 살았던 '우스 땅'과 연관된 이름입니다. 정확한 위치는 불분명하지만, 아라비아 북부나 에돔 지역으로 추정됩니다.",
+        "points": [
+          "욥기 1:1 - '우스 땅에 욥이라 이름하는 사람이 있었는데'",
+          "지혜와 부가 풍성한 지역이었을 것으로 봅니다",
+          "동방의 의로운 사람들이 살던 곳으로 묘사됩니다",
+          "에돔이나 아라비아 사막 근처로 추정됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "훌, 게델, 마스",
+        "description": "이 세 아들에 대한 구체적인 정보는 성경에 많지 않습니다. 그들은 아람 지역의 여러 부족들의 조상이 되었을 것으로 추정됩니다.",
+        "points": [
+          "시리아와 메소포타미아 북부에 정착했을 것으로 봅니다",
+          "아람 족속의 여러 분파를 형성했습니다",
+          "후대에 다양한 아람 왕국들이 이 지역에 세워졌습니다",
+          "이스라엘과 인접한 지역에 거주했습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "아람 족속의 중요성",
+        "description": "아람 족속은 이스라엘 역사에서 매우 중요한 역할을 합니다. 족장들의 조상이 아람 출신이며, 이스라엘과 밀접한 관계를 맺었습니다.",
+        "points": [
+          "아브라함이 하란(아람 지역)에서 출발했습니다",
+          "리브가, 라헬, 레아가 모두 아람 출신이었습니다",
+          "야곱이 '유리하는 아람 사람'으로 불렸습니다 (신명기 26:5)",
+          "아람어는 바벨론 포로 후 유대인의 일상 언어가 되었습니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "언어와 문화의 유산",
+        "description": "아람어는 고대 근동에서 가장 중요한 국제 언어 중 하나가 되었습니다. 성경의 일부도 아람어로 기록되었습니다.",
+        "points": [
+          "다니엘서와 에스라서 일부가 아람어로 기록되었습니다",
+          "예수님 시대에 일상 언어로 사용되었습니다",
+          "예수님도 아람어를 사용하셨습니다 ('엘리 엘리 라마 사박다니')",
+          "탈무드가 아람어로 기록되었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 아람 족속이 이스라엘과 특별한 관계를 가졌을까요?",
+      "answer": "아람 족속이 이스라엘과 특별한 관계를 가진 것은 아브라함의 가족이 원래 아람 지역 출신이었기 때문이에요. 아브라함의 고향 우르를 떠난 후 하란(아람 지역)에 살았고, 이삭의 아내 리브가도 야곱의 아내 라헬과 레아도 모두 아람 출신이었어요. 그래서 이스라엘 사람들은 아람 족속을 먼 친척처럼 생각했답니다. 하나님은 이렇게 가까운 민족들 사이에서도 당신의 특별한 백성을 선택하셨어요.",
+      "bibleReferences": [
+        "신명기 26:5 - '너는 또 네 하나님 여호와 앞에 아뢰기를 내 조상은 유리하는 아람 사람으로서 소수의 사람을 거느리고 애굽에 내려가서'",
+        "창세기 24:10 - '이에 종이 그 주인의 낙타 중 열 마리를 끌고 떠났으니... 메소보다미아로 가서 나홀의 성에 이르러'",
+        "창세기 28:5 - '이에 이삭이 야곱을 보내매 그가 밧단아람으로 가서 아람 사람 브두엘의 아들 라반에게 이르렀으니 라반은 야곱과 에서의 어머니 리브가의 오라비더라'",
+        "욥기 1:1, 3 - '우스 땅에 욥이라 이름하는 사람이 있었는데... 그 소유물은... 이 사람은 동방 사람 중에 가장 훌륭한 자라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "아람 자손들의 기록은 이스라엘의 뿌리와 정체성을 이해하는 데 중요합니다. 이스라엘 민족이 완전히 고립된 존재가 아니라 주변 민족들과 혈연적, 문화적 연결고리를 가지고 있었음을 보여줍니다. 특히 우스 땅의 욥은 이스라엘 밖에서도 하나님을 경외하는 의인이 있었음을 보여주며, 하나님의 관심이 이스라엘에만 국한되지 않음을 암시합니다."
+    }
+  }
+}

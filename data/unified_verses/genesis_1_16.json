@@ -1,0 +1,181 @@
+{
+  "id": "genesis_1_16",
+  "reference": "창세기 1:16",
+  "hebrew": "וַיַּעַשׂ אֱלֹהִים, אֶת-שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים:  אֶת-הַמָּאוֹר הַגָּדֹל, לְמֶמְשֶׁלֶת הַיּוֹם, וְאֶת-הַמָּאוֹר הַקָּטֹן לְמֶמְשֶׁלֶת הַלַּיְלָה, וְאֵת הַכּוֹכָבִים.",
+  "ipa": "vajˈjaʕaʂ ʔɛloˈhim ʔɛt ʃəˈne hamːəʔoˈrot hagːəðoˈlim ʔɛt hamːaˈʔor hagːaˈðol ləmɛmˈʃɛlɛt hajˈjom vəʔɛt hamːaˈʔor hakːaˈton ləmɛmˈʃɛlɛt halˈlajla vəʔet hakːoχaˈvim",
+  "koreanPronunciation": "바야아스 엘로힘 에트 쉐네이 함어로트 하그돌림 에트 함아오르 하가돌 레멤쉘레트 하욤 베에트 함아오르 하카톤 레멤쉘레트 할라일라 베에트 하코카빔",
+  "modern": "하나님께서 두 개의 큰 광명체를 만드시되, 큰 광명체는 낮을 주관하게 하시고 작은 광명체는 밤을 주관하게 하시며, 또 별들도 만드셨습니다",
+  "words": [
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "ipa": "vajˈjaʕaʂ",
+      "korean": "바야아스",
+      "letters": "וַ(va) + יַּ(ya) + עַ(a) + שׂ(s)",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"make1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></linearGradient><radialGradient id=\"spark1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><linearGradient id=\"tool1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.15)\" /><rect x=\"24\" y=\"36\" width=\"4\" height=\"20\" rx=\"2\" fill=\"url(#tool1)\" /><path d=\"M 18 28 L 38 28 L 38 38 L 32 42 L 26 38 Z\" fill=\"url(#make1)\" stroke=\"#FF6B35\" stroke-width=\"1.5\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"20\" cy=\"20\" r=\"3\" fill=\"url(#spark1)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.9))\" /><circle cx=\"36\" cy=\"18\" r=\"2.5\" fill=\"url(#spark1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 3px rgba(255, 215, 0, 0.8))\" /><circle cx=\"42\" cy=\"26\" r=\"2\" fill=\"url(#spark1)\" opacity=\"0.7\" filter=\"drop-shadow(0 0 2px rgba(255, 215, 0, 0.7))\" /></svg>",
+      "relatedWords": [
+        "מַעֲשֶׂה (마아세 - 행위, 작품)",
+        "עֹשֶׂה (오세 - 만드는 자)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown16\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow16\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><linearGradient id=\"purple16\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#purple16)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#glow16)\" opacity=\"0.3\" /><path d=\"M 12 48 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 48 Z\" fill=\"url(#crown16)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 6px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"12\" y=\"48\" width=\"40\" height=\"6\" rx=\"2\" fill=\"url(#crown16)\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"#FF1493\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /><circle cx=\"22\" cy=\"36\" r=\"2\" fill=\"#00FFFF\" opacity=\"0.8\" /><circle cx=\"42\" cy=\"36\" r=\"2\" fill=\"#00FFFF\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"42\" r=\"2\" fill=\"#00FFFF\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님)",
+        "יְהוָה (여호와 - 주님)"
+      ]
+    },
+    {
+      "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+      "meaning": "두 개의 큰 광명체들",
+      "ipa": "ʃəˈne hamːəʔoˈrot hagːəðoˈlim",
+      "korean": "쉐네이 함어로트 하그돌림",
+      "letters": "שְׁ(she) + נֵי(nei) + הַ(ha) + מְּ(me) + אֹ(o) + רֹת(rot) + הַ(ha) + גְּ(ge) + דֹ(do) + לִים(lim)",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sun16\"><stop offset=\"0%\" stop-color=\"#FFF8DC\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><radialGradient id=\"moon16\"><stop offset=\"0%\" stop-color=\"#F0F8FF\" /><stop offset=\"50%\" stop-color=\"#E0E6F8\" /><stop offset=\"100%\" stop-color=\"#B0C4DE\" /></radialGradient><linearGradient id=\"sky16\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C71585\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky16)\" opacity=\"0.25\" rx=\"8\" /><circle cx=\"20\" cy=\"24\" r=\"10\" fill=\"url(#sun16)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g stroke=\"#FFD700\" stroke-width=\"2.5\" opacity=\"0.8\"><line x1=\"20\" y1=\"10\" x2=\"20\" y2=\"14\" /><line x1=\"32\" y1=\"14\" x2=\"29\" y2=\"17\" /><line x1=\"34\" y1=\"24\" x2=\"30\" y2=\"24\" /><line x1=\"32\" y1=\"34\" x2=\"29\" y2=\"31\" /><line x1=\"20\" y1=\"38\" x2=\"20\" y2=\"34\" /><line x1=\"8\" y1=\"34\" x2=\"11\" y2=\"31\" /><line x1=\"6\" y1=\"24\" x2=\"10\" y2=\"24\" /><line x1=\"8\" y1=\"14\" x2=\"11\" y2=\"17\" /></g><circle cx=\"44\" cy=\"40\" r=\"8\" fill=\"url(#moon16)\" filter=\"drop-shadow(0 0 10px rgba(176, 196, 222, 0.8))\" /><circle cx=\"41\" cy=\"38\" r=\"6\" fill=\"#4B0082\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אוֹר (오르 - 빛)",
+        "מָאוֹר (마오르 - 광명체, 등불)"
+      ]
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַגָּדֹל",
+      "meaning": "큰 광명체",
+      "ipa": "hamːaˈʔor hagːaˈðol",
+      "korean": "함아오르 하가돌",
+      "letters": "הַ(ha) + מָּ(ma) + אוֹר(or) + הַ(ha) + גָּ(ga) + דֹל(dol)",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"bigsun1\"><stop offset=\"0%\" stop-color=\"#FFFACD\" /><stop offset=\"20%\" stop-color=\"#FFD700\" /><stop offset=\"60%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></radialGradient><radialGradient id=\"suncore1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></radialGradient><linearGradient id=\"ray1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#bigsun1)\" opacity=\"0.2\" /><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"url(#suncore1)\" filter=\"drop-shadow(0 0 16px rgba(255, 215, 0, 1))\" /><g opacity=\"0.9\"><path d=\"M 32 4 L 34 16 L 30 16 Z\" fill=\"url(#ray1)\" /><path d=\"M 32 60 L 34 48 L 30 48 Z\" fill=\"url(#ray1)\" /><path d=\"M 4 32 L 16 34 L 16 30 Z\" fill=\"url(#ray1)\" /><path d=\"M 60 32 L 48 34 L 48 30 Z\" fill=\"url(#ray1)\" /><path d=\"M 12 12 L 20 20 L 17 23 L 9 15 Z\" fill=\"url(#ray1)\" /><path d=\"M 52 52 L 44 44 L 47 41 L 55 49 Z\" fill=\"url(#ray1)\" /><path d=\"M 52 12 L 44 20 L 41 17 L 49 9 Z\" fill=\"url(#ray1)\" /><path d=\"M 12 52 L 20 44 L 23 47 L 15 55 Z\" fill=\"url(#ray1)\" /></g><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שֶׁמֶשׁ (쉐메쉬 - 태양)",
+        "אוֹר (오르 - 빛)"
+      ]
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַיּוֹם",
+      "meaning": "낮을 주관하기 위하여",
+      "ipa": "ləmɛmˈʃɛlɛt hajˈjom",
+      "korean": "레멤쉘레트 하욤",
+      "letters": "לְ(le) + מֶ(me) + מְ(me) + שֶׁ(she) + לֶת(let) + הַ(ha) + יּוֹם(yom)",
+      "root": "מ-שׁ-ל (마샬 - 다스리다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"daytime1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"50%\" stop-color=\"#87CEFA\" /><stop offset=\"100%\" stop-color=\"#00BFFF\" /></linearGradient><radialGradient id=\"daysun1\"><stop offset=\"0%\" stop-color=\"#FFFACD\" /><stop offset=\"40%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient><linearGradient id=\"cloud1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#F0F8FF\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#daytime1)\" opacity=\"0.4\" rx=\"8\" /><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#daysun1)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g stroke=\"#FFD700\" stroke-width=\"2.5\" stroke-linecap=\"round\"><line x1=\"32\" y1=\"4\" x2=\"32\" y2=\"8\" /><line x1=\"48\" y1=\"10\" x2=\"45\" y2=\"13\" /><line x1=\"54\" y1=\"20\" x2=\"50\" y2=\"20\" /><line x1=\"48\" y1=\"30\" x2=\"45\" y2=\"27\" /><line x1=\"16\" y1=\"10\" x2=\"19\" y2=\"13\" /><line x1=\"10\" y1=\"20\" x2=\"14\" y2=\"20\" /><line x1=\"16\" y1=\"30\" x2=\"19\" y2=\"27\" /></g><ellipse cx=\"18\" cy=\"48\" rx=\"10\" ry=\"6\" fill=\"url(#cloud1)\" opacity=\"0.7\" /><ellipse cx=\"46\" cy=\"50\" rx=\"12\" ry=\"7\" fill=\"url(#cloud1)\" opacity=\"0.6\" /><path d=\"M 16 56 Q 20 54 24 56 Q 28 58 32 56 Q 36 54 40 56 Q 44 58 48 56\" stroke=\"#90EE90\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\" /></svg>"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַקָּטֹן",
+      "meaning": "작은 광명체",
+      "ipa": "hamːaˈʔor hakːaˈton",
+      "korean": "함아오르 하카톤",
+      "letters": "הַ(ha) + מָּ(ma) + אוֹר(or) + הַ(ha) + קָּ(ka) + טֹן(ton)",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"moon1\"><stop offset=\"0%\" stop-color=\"#FFFAF0\" /><stop offset=\"30%\" stop-color=\"#F0F8FF\" /><stop offset=\"70%\" stop-color=\"#E6E6FA\" /><stop offset=\"100%\" stop-color=\"#B0C4DE\" /></radialGradient><linearGradient id=\"nightsky1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#191970\" /><stop offset=\"50%\" stop-color=\"#0C0C3F\" /><stop offset=\"100%\" stop-color=\"#000000\" /></linearGradient><radialGradient id=\"moonglow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#B0C4DE\" /></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#nightsky1)\" opacity=\"0.35\" rx=\"8\" /><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#moonglow1)\" opacity=\"0.15\" /><circle cx=\"32\" cy=\"32\" r=\"13\" fill=\"url(#moon1)\" filter=\"drop-shadow(0 0 14px rgba(176, 196, 222, 0.9))\" /><ellipse cx=\"28\" cy=\"30\" rx=\"7\" ry=\"9\" fill=\"#4B0082\" opacity=\"0.25\" /><circle cx=\"26\" cy=\"28\" r=\"2.5\" fill=\"#6A5ACD\" opacity=\"0.4\" /><circle cx=\"30\" cy=\"34\" r=\"2\" fill=\"#6A5ACD\" opacity=\"0.35\" /><circle cx=\"36\" cy=\"32\" r=\"1.5\" fill=\"#6A5ACD\" opacity=\"0.3\" /><circle cx=\"12\" cy=\"12\" r=\"1.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"50\" cy=\"18\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.7\" /><circle cx=\"54\" cy=\"48\" r=\"1.2\" fill=\"#FFFFFF\" opacity=\"0.75\" /></svg>",
+      "relatedWords": [
+        "יָרֵחַ (야레아흐 - 달)",
+        "לַיְלָה (라일라 - 밤)"
+      ]
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַלַּיְלָה",
+      "meaning": "밤을 주관하기 위하여",
+      "ipa": "ləmɛmˈʃɛlɛt halˈlajla",
+      "korean": "레멤쉘레트 할라일라",
+      "letters": "לְ(le) + מֶ(me) + מְ(me) + שֶׁ(she) + לֶת(let) + הַ(ha) + לַּ(la) + יְלָה(yla)",
+      "root": "מ-שׁ-ל (마샬 - 다스리다)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"nighttime1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#000080\" /><stop offset=\"50%\" stop-color=\"#191970\" /><stop offset=\"100%\" stop-color=\"#0C0C1F\" /></linearGradient><radialGradient id=\"nightmoon1\"><stop offset=\"0%\" stop-color=\"#F5F5F5\" /><stop offset=\"60%\" stop-color=\"#D3D3D3\" /><stop offset=\"100%\" stop-color=\"#A9A9A9\" /></radialGradient><linearGradient id=\"star1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#nighttime1)\" opacity=\"0.5\" rx=\"8\" /><circle cx=\"40\" cy=\"22\" r=\"9\" fill=\"url(#nightmoon1)\" filter=\"drop-shadow(0 0 10px rgba(211, 211, 211, 0.7))\" /><circle cx=\"37\" cy=\"20\" r=\"6.5\" fill=\"#0C0C1F\" opacity=\"0.5\" /><g fill=\"url(#star1)\"><circle cx=\"12\" cy=\"14\" r=\"1.8\" opacity=\"0.9\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))\" /><circle cx=\"24\" cy=\"10\" r=\"1.3\" opacity=\"0.85\" /><circle cx=\"52\" cy=\"16\" r=\"1.5\" opacity=\"0.8\" /><circle cx=\"18\" cy=\"32\" r=\"1.2\" opacity=\"0.75\" /><circle cx=\"50\" cy=\"40\" r=\"1.6\" opacity=\"0.85\" /><circle cx=\"14\" cy=\"48\" r=\"1.1\" opacity=\"0.7\" /><circle cx=\"58\" cy=\"52\" r=\"1.4\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"52\" r=\"1\" opacity=\"0.7\" /></g><path d=\"M 8 58 L 12 54 L 16 58 L 20 52 L 24 58 L 28 54 L 32 58 L 36 52 L 40 58 L 44 54 L 48 58 L 52 52 L 56 58\" stroke=\"#2F4F4F\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "הַכּוֹכָבִים",
+      "meaning": "별들",
+      "ipa": "hakːoχaˈvim",
+      "korean": "하코카빔",
+      "letters": "הַ(ha) + כּוֹ(ko) + כָ(ka) + בִים(vim)",
+      "root": "כּוֹכָב (코카브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"starfield1\"><stop offset=\"0%\" stop-color=\"#1C1C3C\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"bigstar1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></linearGradient><radialGradient id=\"starlight1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></radialGradient><linearGradient id=\"galaxy1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9370DB\" /><stop offset=\"50%\" stop-color=\"#8A2BE2\" /><stop offset=\"100%\" stop-color=\"#4B0082\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"32\" fill=\"url(#starfield1)\" opacity=\"0.4\" /><ellipse cx=\"32\" cy=\"32\" rx=\"28\" ry=\"18\" fill=\"url(#galaxy1)\" opacity=\"0.2\" transform=\"rotate(30 32 32)\" /><path d=\"M 32 16 L 34 26 L 44 28 L 36 34 L 38 44 L 32 38 L 26 44 L 28 34 L 20 28 L 30 26 Z\" fill=\"url(#bigstar1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /><circle cx=\"14\" cy=\"18\" r=\"2\" fill=\"url(#starlight1)\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\" /><circle cx=\"50\" cy=\"14\" r=\"1.5\" fill=\"url(#starlight1)\" opacity=\"0.85\" /><circle cx=\"56\" cy=\"28\" r=\"1.8\" fill=\"url(#starlight1)\" opacity=\"0.8\" /><circle cx=\"10\" cy=\"36\" r=\"1.3\" fill=\"url(#starlight1)\" opacity=\"0.75\" /><circle cx=\"52\" cy=\"48\" r=\"1.6\" fill=\"url(#starlight1)\" opacity=\"0.85\" /><circle cx=\"18\" cy=\"52\" r=\"1.2\" fill=\"url(#starlight1)\" opacity=\"0.7\" /><circle cx=\"42\" cy=\"56\" r=\"1.4\" fill=\"url(#starlight1)\" opacity=\"0.8\" /><circle cx=\"28\" cy=\"12\" r=\"1\" fill=\"#FFFFFF\" opacity=\"0.6\" /><circle cx=\"46\" cy=\"22\" r=\"0.8\" fill=\"#FFFFFF\" opacity=\"0.5\" /><circle cx=\"36\" cy=\"52\" r=\"0.9\" fill=\"#FFFFFF\" opacity=\"0.55\" /></svg>",
+      "relatedWords": [
+        "כּוֹכָב (코카브 - 별)",
+        "שָׁמַיִם (샤마임 - 하늘)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 1:16은 4일째 창조의 핵심으로, 하나님께서 태양과 달, 그리고 별들을 만드신 것을 상세히 설명합니다. 흥미롭게도 1절에서는 '광명체들을 만드셨다'고 하시더니, 16절에서는 그 광명체들의 구체적인 역할과 목적을 명시하십니다. 태양과 달이라는 이름 대신 '큰 광명체'와 '작은 광명체'로 표현한 것은 당시 고대 근동에서 태양과 달을 신으로 숭배하던 것을 거부하고, 이들이 단지 하나님이 창조하신 피조물임을 강조하기 위함입니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "וַיַּעַשׂ (바야아스) - 만드시다: 창조와 형성의 차이",
+        "description": "1절에서는 '바라(בָּרָא, 무에서 유를 창조하다)'를 사용했지만, 여기서는 '아사(עָשָׂה, 만들다, 형성하다)'를 사용합니다. '아사'는 이미 존재하는 재료를 사용하여 형성하고 조직하는 것을 의미합니다. 이는 1일째 창조된 빛(1:3)이 이제 구체적인 광명체로 조직되고 배치되었음을 나타냅니다.",
+        "points": [
+          "바라(창조)는 무에서 유를, 아사(만들다)는 유에서 새로운 형태를 만드는 것입니다",
+          "하나님은 1일째 창조하신 빛을 4일째 태양, 달, 별이라는 광명체로 조직하셨습니다",
+          "창조는 즉각적이지만, 형성과 배치는 질서 있는 과정입니다",
+          "이는 하나님의 창조가 계획적이고 단계적임을 보여줍니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים (쉐네이 함어로트 하그돌림) - 두 큰 광명체: 우상 숭배에 대한 거부",
+        "description": "고대 근동에서 태양신(바벨론의 샤마쉬, 이집트의 라)과 달신(메소포타미아의 신)은 최고의 신으로 숭배받았습니다. 하지만 성경은 이들의 이름을 언급하지 않고 단지 '큰 광명체'와 '작은 광명체'로 지칭합니다. 이는 이들이 신이 아니라 단지 하나님이 만드신 피조물일 뿐임을 강력히 선언하는 것입니다.",
+        "points": [
+          "태양과 달의 이름을 언급하지 않음으로써 우상 숭배를 거부합니다",
+          "광명체들은 창조주가 아니라 피조물입니다",
+          "하나님만이 유일한 창조주이시며 경배받으실 분입니다",
+          "이는 이스라엘 백성이 주변 민족의 천체 숭배에 빠지지 않도록 하는 신학적 교육입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לְמֶמְשֶׁלֶת (레멤쉘레트) - 주관하다: 피조물의 목적과 질서",
+        "description": "'멤쉘레트'는 '다스리다', '주관하다'를 의미하는 '마샬(מָשַׁל)' 동사에서 파생된 명사로, 지배권과 통치를 의미합니다. 태양은 낮을, 달은 밤을 주관하도록 창조되었습니다. 이는 하나님께서 각 피조물에게 특정한 역할과 목적을 부여하셨음을 보여줍니다. 또한 인간에게 주어진 '다스림'(1:28)의 모델이기도 합니다.",
+        "points": [
+          "모든 피조물은 하나님이 정하신 특정한 역할과 목적을 가지고 있습니다",
+          "태양과 달의 주관은 하나님의 주권 아래 위임된 통치입니다",
+          "시간의 구분(낮과 밤)은 창조 세계의 질서를 나타냅니다",
+          "인간의 청지기적 다스림도 이와 같이 하나님의 위임 아래 이루어집니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "וְאֵת הַכּוֹכָבִים (베에트 하코카빔) - 그리고 별들: 하나님의 광대한 창조",
+        "description": "태양과 달에 대한 상세한 설명 후, '그리고 별들'이라는 간단한 구절이 추가됩니다. 별들은 거의 부수적으로 언급되는 것처럼 보이지만, 실제로 우주에는 수천억 개의 별이 존재합니다. 이는 하나님의 창조의 광대함을 보여주며, 인간의 관점에서는 거대해 보이는 태양도 하나님 앞에서는 수많은 별들 중 하나일 뿐임을 암시합니다.",
+        "points": [
+          "별들의 간단한 언급은 하나님의 창조가 인간의 이해를 초월함을 보여줍니다",
+          "시편 147:4는 하나님이 별들의 수를 세시고 각각 이름을 부르신다고 말합니다",
+          "우주의 광대함 앞에서도 하나님은 각 별을 아시고 돌보십니다",
+          "인간도 하나님께는 수많은 피조물 중 하나이지만, 특별한 사랑의 대상입니다(시편 8:3-4)"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 태양과 달의 이름을 말씀하지 않으시고 '큰 광명체'와 '작은 광명체'라고 하셨을까요?",
+      "answer": "옛날 사람들은 태양과 달을 신이라고 생각하고 절을 했어요. 하지만 하나님은 태양과 달이 신이 아니라 하나님이 만드신 것일 뿐이라는 걸 알려주시고 싶으셨어요. 마치 우리가 만든 로봇이 아무리 멋있어도 우리가 만든 것이지, 우리보다 높은 존재가 아닌 것처럼요. 태양과 달도 하나님이 만드신 것이라서 우리는 태양과 달이 아니라 하나님께만 감사하고 경배해야 해요. 하나님은 태양과 달을 우리를 위해 만들어주셨답니다!",
+      "bibleReferences": [
+        "신명기 4:19 - '또 두려워 하늘을 향하여 눈을 들어 해와 달과 별 곧 하늘의 모든 군대를 보고 마음이 이끌려서 그것들을 경배하며 섬기지 말라'",
+        "시편 136:7-9 - '큰 빛들을 지으신 이에게 감사하라... 해로 낮을 주관하게 하신 이에게 감사하라... 달과 별들로 밤을 주관하게 하신 이에게 감사하라'",
+        "시편 147:4 - '그가 별들의 수를 세시고 그것들의 이름을 다 부르시는도다'",
+        "예레미야 31:35 - '해를 낮의 빛으로 주시고 달과 별들을 밤의 빛으로 정하시고... 만군의 여호와는 그의 이름이시니라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1:16은 단순히 천체의 창조를 넘어서, 하나님만이 유일한 창조주이시며 모든 피조물은 그분의 목적을 위해 존재한다는 신학적 선언입니다. 태양과 달을 '광명체'로 지칭함으로써 우상 숭배를 거부하고, 이들이 '주관하도록' 창조되었다고 말함으로써 모든 권위가 하나님으로부터 나온다는 진리를 가르칩니다. 또한 '그리고 별들'이라는 간단한 언급은 하나님의 창조가 우리의 이해를 초월하는 광대함을 보여주며, 동시에 각 별까지 돌보시는 하나님의 세밀한 섭리를 드러냅니다. 이는 요한복음 1:3의 '만물이 그로 말미암아 지은 바 되었으니'와 골로새서 1:16의 '만물이 그에게서 창조되고 그를 위하여 창조되었다'는 진리의 기초가 됩니다."
+    }
+  }
+}

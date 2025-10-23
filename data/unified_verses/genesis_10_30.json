@@ -1,0 +1,133 @@
+{
+  "id": "genesis_10_30",
+  "reference": "창세기 10:30",
+  "hebrew": "וַיְהִי מוֹשָׁבָם מִמֵּשָׁא בֹּאֲכָה סְפָרָה הַר הַקֶּדֶם",
+  "ipa": "vajəhi moʃɑˈvɑm mimeˈʃɑ boʔɑˈxɑ səfɑˈrɑ har haqqɛˈdɛm",
+  "koreanPronunciation": "바예히 모샤밤 미메샤 보아카 스파라 하르 하케뎀",
+  "modern": "그들이 거주하는 곳은 메사에서부터 스발로 가는 길의 동쪽 산이었더라",
+  "words": [
+    {
+      "hebrew": "מוֹשָׁבָם",
+      "meaning": "그들의 거주지",
+      "ipa": "moʃɑˈvɑm",
+      "korean": "모샤밤",
+      "letters": "מוֹ(mo) + שָׁ(sha) + בָ(va) + ם(m)",
+      "root": "מוֹשָׁב (모샤브)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"dwelling\"><stop offset=\"0%\" stop-color=\"#27AE60\" /><stop offset=\"100%\" stop-color=\"#229954\" /></linearGradient></defs><rect x=\"12\" y=\"28\" width=\"16\" height=\"20\" fill=\"url(#dwelling)\" opacity=\"0.6\" /><rect x=\"24\" y=\"28\" width=\"16\" height=\"20\" fill=\"url(#dwelling)\" opacity=\"0.7\" /><rect x=\"36\" y=\"28\" width=\"16\" height=\"20\" fill=\"url(#dwelling)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "יָשַׁב (야샤브 - 거주하다)",
+        "מָקוֹם (마콤 - 장소)"
+      ]
+    },
+    {
+      "hebrew": "מֵשָׁא",
+      "meaning": "메사",
+      "ipa": "meˈʃɑ",
+      "korean": "메샤",
+      "letters": "מֵ(me) + שָׁ(sha) + א(a)",
+      "root": "מֵשָׁא (메샤)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mesha\"><stop offset=\"0%\" stop-color=\"#E74C3C\" /><stop offset=\"100%\" stop-color=\"#C0392B\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"url(#mesha)\" opacity=\"0.5\" /><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#mesha)\" /></svg>",
+      "relatedWords": [
+        "מָשָׁא (마샤 - 짐, 부담)",
+        "מוֹאָב (모압 - 모압)"
+      ]
+    },
+    {
+      "hebrew": "סְפָרָה",
+      "meaning": "스발",
+      "ipa": "səfɑˈrɑ",
+      "korean": "스파라",
+      "letters": "סְ(se) + פָ(fa) + רָ(ra) + ה(h)",
+      "root": "סְפָר (스파르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sephar\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#8E44AD\" /></linearGradient></defs><path d=\"M 16 48 L 32 16 L 48 48 Z\" fill=\"none\" stroke=\"url(#sephar)\" stroke-width=\"4\" /></svg>",
+      "relatedWords": [
+        "סָפַר (사파르 - 세다, 이야기하다)",
+        "סֵפֶר (세페르 - 책)"
+      ]
+    },
+    {
+      "hebrew": "הַר הַקֶּדֶם",
+      "meaning": "동쪽 산",
+      "ipa": "har haqqɛˈdɛm",
+      "korean": "하르 하케뎀",
+      "letters": "הַ(ha) + ר(r) + הַ(ha) + קֶּ(qe) + דֶ(de) + ם(m)",
+      "root": "הַר (하르) + קֶדֶם (케뎀)",
+      "grammar": "명사구",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"east_mountain\"><stop offset=\"0%\" stop-color=\"#3498DB\" /><stop offset=\"50%\" stop-color=\"#2980B9\" /><stop offset=\"100%\" stop-color=\"#1F618D\" /></linearGradient></defs><path d=\"M 8 48 L 24 24 L 32 32 L 40 16 L 56 48 Z\" fill=\"url(#east_mountain)\" /><circle cx=\"52\" cy=\"16\" r=\"8\" fill=\"#F1C40F\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "הַר (하르 - 산)",
+        "קֶדֶם (케뎀 - 동쪽, 옛날)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "욕단 자손들의 거주 지역을 설명하는 구절입니다. 메사에서 스발까지의 동쪽 산악 지대는 아라비아 반도를 가리킵니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "메사 - 북쪽 경계",
+        "description": "메사는 욕단 자손들의 거주 지역의 북쪽 경계로, 아라비아 북서부 또는 시리아 남부로 추정됩니다.",
+        "points": [
+          "욕단 영토의 북쪽 시작점입니다",
+          "정확한 위치는 논쟁 중입니다",
+          "메카나 메디나 지역일 가능성도 있습니다",
+          "아라비아 북서부로 추정됩니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "스발 - 남쪽 경계",
+        "description": "스발은 욕단 영토의 남쪽 경계로, 예멘 남부의 산악 지대로 추정됩니다.",
+        "points": [
+          "욕단 영토의 남쪽 끝입니다",
+          "예멘의 산악 지대로 봅니다",
+          "아라비아 반도의 남쪽 끝입니다",
+          "향료 무역의 중요한 지역이었습니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "동쪽 산 - 지리적 특징",
+        "description": "'동쪽 산'은 아라비아 반도의 산악 지대를 가리킵니다. 이스라엘에서 볼 때 동쪽에 위치한 산들입니다.",
+        "points": [
+          "아라비아 반도의 서쪽 산맥을 의미합니다",
+          "이스라엘 관점에서 동쪽에 있습니다",
+          "예멘과 사우디아라비아의 산악 지대입니다",
+          "고도가 높아 기후가 온화한 지역입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "광대한 영토",
+        "description": "메사에서 스발까지는 아라비아 반도의 서쪽을 남북으로 가로지르는 광대한 영토를 나타냅니다.",
+        "points": [
+          "약 1,500km에 달하는 넓은 지역입니다",
+          "다양한 기후와 지형을 포함합니다",
+          "향료 무역로가 지나가는 전략적 위치입니다",
+          "부유하고 영향력 있는 지역이었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 욕단 자손들은 산악 지대에 살았을까요?",
+      "answer": "욕단 자손들이 산악 지대에 산 것은 그곳이 사막보다 살기 좋은 환경이었기 때문이에요. 아라비아 반도의 대부분은 뜨거운 사막이지만, 서쪽의 산악 지대는 고도가 높아서 기후가 더 시원하고 비도 더 많이 내려요. 그래서 농사도 짓고 목축도 할 수 있었답니다. 또한 이 지역은 유향과 몰약 같은 귀한 향료가 자라는 곳이었어요. 하나님께서는 각 민족에게 살기 좋은 땅을 주셨는데, 욥단의 후손들에게는 이 풍요로운 산악 지대를 주신 거예요.",
+      "bibleReferences": [
+        "신명기 32:8 - '지극히 높으신 자가 민족들에게 기업을 주실 때에 인종을 분정하실 때에 이스라엘 자손의 수효대로 민족들의 경계를 정하셨도다'",
+        "사도행전 17:26 - '인류의 모든 족속을 한 혈통으로 만드사 온 땅에 살게 하시고 그들의 연대를 정하시며 거주의 경계를 한정하셨으니'",
+        "시편 104:8 - '산은 오르고 골짜기는 내려가나이다 주께서 그들을 위하여 정하신 곳으로 내려가나이다'",
+        "욥기 38:25-27 - '누가 폭우를 위하여 길을 내었으며 우레의 번개 길을 내었으며 사람 없는 땅에, 사람 없는 광야에 비를 내리고 황무하고 황폐한 토지를 적시어... 연한 풀이 돋아나게 하였느냐'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "욥단 자손들의 거주 지역에 대한 구체적인 설명은 하나님께서 각 민족의 영토를 정확히 정하셨음을 보여줍니다. 메사에서 스발까지의 광대한 영토는 하나님의 축복과 공급하심을 나타냅니다. 이스라엘 동쪽의 이 민족들도 하나님의 창조 질서 안에서 각자의 자리를 가지고 있으며, 하나님의 섭리 가운데 있습니다. 이는 하나님의 주권이 온 땅에 미침을 보여줍니다."
+    }
+  }
+}

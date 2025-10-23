@@ -1,0 +1,199 @@
+{
+  "id": "genesis_14_19",
+  "reference": "창세기 14:19",
+  "hebrew": "וַיְבָרְכֵהוּ וַיֹּאמַר בָּרוּךְ אַבְרָם לְאֵל עֶלְיוֹן קֹנֵה שָׁמַיִם וָאָרֶץ.",
+  "ipa": "vajəvarəˈχehu vaˈjomar baˈruχ avˈram ləˈʔel ɛlˈjon qoˈneh ʃaˈmajim vaˈʔarɛts",
+  "koreanPronunciation": "바예바레케후 바요마르 바루크 아브람 레엘 엘욘 코네 샤마임 바아레츠",
+  "modern": "그가 아브람을 축복하여 말하되, 천지의 주재이시요 지극히 높으신 하나님이 아브람에게 복을 주시기를 원하노라",
+  "words": [
+    {
+      "hebrew": "וַיְבָרְכֵהוּ",
+      "meaning": "그리고 그를 축복했다",
+      "ipa": "vajəvarəˈχehu",
+      "korean": "바예바레케후",
+      "letters": "וַ(va) + יְ(ye) + בָ(va) + רְ(re) + כֵ(khe) + הוּ(hu)",
+      "root": "ב-ר-ךְ (barakh)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"blessing_varekhehu\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" opacity=\"0\" /></radialGradient><linearGradient id=\"hand_varekhehu\"><stop offset=\"0%\" stop-color=\"#FCD34D\" /><stop offset=\"100%\" stop-color=\"#F59E0B\" /></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"16\" fill=\"url(#blessing_varekhehu)\" opacity=\"0.6\" /><path d=\"M 24 36 L 24 48 Q 24 52 28 52 L 36 52 Q 40 52 40 48 L 40 36 Q 40 32 36 32 L 28 32 Q 24 32 24 36 Z\" fill=\"url(#hand_varekhehu)\" stroke=\"#D97706\" stroke-width=\"2\" /><rect x=\"26\" y=\"28\" width=\"3\" height=\"12\" rx=\"1.5\" fill=\"url(#hand_varekhehu)\" /><rect x=\"30\" y=\"24\" width=\"3\" height=\"16\" rx=\"1.5\" fill=\"url(#hand_varekhehu)\" /><rect x=\"34\" y=\"26\" width=\"3\" height=\"14\" rx=\"1.5\" fill=\"url(#hand_varekhehu)\" /><circle cx=\"32\" cy=\"16\" r=\"3\" fill=\"#FBBF24\" filter=\"drop-shadow(0 0 6px rgba(251, 191, 36, 0.8))\" /><circle cx=\"26\" cy=\"20\" r=\"2\" fill=\"#FBBF24\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"20\" r=\"2\" fill=\"#FBBF24\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"26\" r=\"2\" fill=\"#FBBF24\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "בְּרָכָה (브라카 - 축복)",
+        "בָּרוּךְ (바루크 - 복 받은)"
+      ]
+    },
+    {
+      "hebrew": "וַיֹּאמַר",
+      "meaning": "그리고 말했다",
+      "ipa": "vaˈjomar",
+      "korean": "바요마르",
+      "letters": "וַ(va) + יֹּ(yo) + אמַר(mar)",
+      "root": "א-מ-ר (amar)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"mouth_vayomer\"><stop offset=\"0%\" stop-color=\"#EF4444\" /><stop offset=\"100%\" stop-color=\"#DC2626\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"20\" ry=\"16\" fill=\"#FEE2E2\" stroke=\"url(#mouth_vayomer)\" stroke-width=\"2\" /><ellipse cx=\"32\" cy=\"32\" rx=\"16\" ry=\"10\" fill=\"url(#mouth_vayomer)\" opacity=\"0.3\" /><path d=\"M 20 32 Q 32 38 44 32\" stroke=\"url(#mouth_vayomer)\" stroke-width=\"2\" fill=\"none\" /><circle cx=\"28\" cy=\"28\" r=\"1.5\" fill=\"#DC2626\" /><circle cx=\"36\" cy=\"28\" r=\"1.5\" fill=\"#DC2626\" /><circle cx=\"32\" cy=\"30\" r=\"1.5\" fill=\"#DC2626\" /></svg>",
+      "relatedWords": [
+        "אָמַר (아마르 - 말하다)",
+        "מַאֲמָר (마아마르 - 말씀, 기사)"
+      ]
+    },
+    {
+      "hebrew": "בָּרוּךְ",
+      "meaning": "복 받을지어다",
+      "ipa": "baˈruχ",
+      "korean": "바루크",
+      "letters": "בָּ(ba) + רוּ(ru) + ךְ(kh)",
+      "root": "ב-ר-ךְ (barakh)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"star_barukh\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FDE047\" /><stop offset=\"100%\" stop-color=\"#FBBF24\" /></radialGradient><radialGradient id=\"glow_barukh\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FBBF24\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_barukh)\" /><path d=\"M 32 8 L 36 26 L 54 28 L 40 40 L 44 58 L 32 48 L 20 58 L 24 40 L 10 28 L 28 26 Z\" fill=\"url(#star_barukh)\" filter=\"drop-shadow(0 0 8px rgba(251, 191, 36, 0.8))\" stroke=\"#F59E0B\" stroke-width=\"2\" /></svg>",
+      "relatedWords": [
+        "בְּרָכָה (브라카 - 축복)",
+        "מְבֹרָךְ (메보라크 - 축복받은)"
+      ]
+    },
+    {
+      "hebrew": "אַבְרָם",
+      "meaning": "아브람",
+      "ipa": "avˈram",
+      "korean": "아브람",
+      "letters": "אַ(av) + בְ(b) + רָ(ra) + ם(m)",
+      "root": "אָב + רָם (아브 + 람)",
+      "grammar": "고유명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"tent_avram\"><stop offset=\"0%\" stop-color=\"#D4A574\" /><stop offset=\"100%\" stop-color=\"#A67C52\" /></linearGradient><linearGradient id=\"person_avram\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient></defs><path d=\"M 12 52 L 32 20 L 52 52 Z\" fill=\"url(#tent_avram)\" stroke=\"#8B7355\" stroke-width=\"2\" /><rect x=\"28\" y=\"38\" width=\"8\" height=\"14\" fill=\"#654321\" /><circle cx=\"32\" cy=\"30\" r=\"4\" fill=\"#D4A574\" /><ellipse cx=\"32\" cy=\"38\" rx=\"6\" ry=\"8\" fill=\"url(#person_avram)\" /></svg>",
+      "relatedWords": [
+        "אָב (아브 - 아버지)",
+        "אַבְרָהָם (아브라함 - 많은 민족의 아버지)"
+      ]
+    },
+    {
+      "hebrew": "לְאֵל",
+      "meaning": "하나님께",
+      "ipa": "ləˈʔel",
+      "korean": "레엘",
+      "letters": "לְ(le) + אֵל(el)",
+      "root": "אֵל (엘)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"divine_leel\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FDE047\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#divine_leel)\" /><circle cx=\"32\" cy=\"32\" r=\"16\" fill=\"#FDE047\" filter=\"drop-shadow(0 0 12px rgba(253, 224, 71, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"#FBBF24\" /><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"#F59E0B\" /></svg>",
+      "relatedWords": [
+        "אֱלֹהִים (엘로힘 - 하나님)",
+        "אֵל שַׁדַּי (엘 샤다이 - 전능하신 하나님)"
+      ]
+    },
+    {
+      "hebrew": "עֶלְיוֹן",
+      "meaning": "지극히 높으신",
+      "ipa": "ɛlˈjon",
+      "korean": "엘욘",
+      "letters": "עֶ(el) + לְ(y) + יוֹן(on)",
+      "root": "ע-ל-ה (alah)",
+      "grammar": "형용사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"peak_elyon\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#6B7280\" /><stop offset=\"60%\" stop-color=\"#9CA3AF\" /><stop offset=\"100%\" stop-color=\"#F3F4F6\" /></linearGradient></defs><path d=\"M 4 56 L 32 12 L 60 56 Z\" fill=\"url(#peak_elyon)\" stroke=\"#4B5563\" stroke-width=\"2\" /><path d=\"M 20 56 L 32 20 L 44 56\" stroke=\"#FFFFFF\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 8px rgba(255, 255, 255, 0.9))\" /><path d=\"M 28 18 L 32 12 L 36 18 L 32 16 Z\" fill=\"#E5E7EB\" /></svg>",
+      "relatedWords": [
+        "עָלָה (알라 - 올라가다)",
+        "עַל (알 - 위에)"
+      ]
+    },
+    {
+      "hebrew": "קֹנֵה",
+      "meaning": "소유자, 창조자",
+      "ipa": "qoˈneh",
+      "korean": "코네",
+      "letters": "קֹ(qo) + נֵ(ne) + ה(h)",
+      "root": "ק-נ-ה (qanah)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"create_qoneh\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#7C3AED\" /></radialGradient><linearGradient id=\"hands_qoneh\"><stop offset=\"0%\" stop-color=\"#DDD6FE\" /><stop offset=\"100%\" stop-color=\"#C4B5FD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#create_qoneh)\" opacity=\"0.3\" /><path d=\"M 16 40 Q 20 32 26 30 Q 32 28 38 30 Q 44 32 48 40\" stroke=\"url(#hands_qoneh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 16 40 Q 20 36 24 36\" stroke=\"url(#hands_qoneh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><path d=\"M 48 40 Q 44 36 40 36\" stroke=\"url(#hands_qoneh)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"24\" r=\"8\" fill=\"url(#create_qoneh)\" filter=\"drop-shadow(0 0 6px rgba(124, 58, 237, 0.6))\" /><circle cx=\"26\" cy=\"28\" r=\"3\" fill=\"#DDD6FE\" opacity=\"0.6\" /><circle cx=\"32\" cy=\"30\" r=\"3\" fill=\"#DDD6FE\" opacity=\"0.6\" /><circle cx=\"38\" cy=\"28\" r=\"3\" fill=\"#DDD6FE\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "קָנָה (카나 - 사다, 얻다, 창조하다)",
+        "מִקְנֶה (미크네 - 가축, 소유물)"
+      ]
+    },
+    {
+      "hebrew": "שָׁמַיִם",
+      "meaning": "하늘",
+      "ipa": "ʃaˈmajim",
+      "korean": "샤마임",
+      "letters": "שָׁ(sha) + מַ(ma) + יִם(yim)",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky_shamayim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#3B82F6\" /><stop offset=\"50%\" stop-color=\"#60A5FA\" /><stop offset=\"100%\" stop-color=\"#93C5FD\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky_shamayim)\" rx=\"8\" /><circle cx=\"16\" cy=\"12\" r=\"2\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.9))\" /><circle cx=\"48\" cy=\"16\" r=\"2.5\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.9))\" /><circle cx=\"28\" cy=\"20\" r=\"1.5\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.8))\" /><circle cx=\"52\" cy=\"32\" r=\"1.8\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.9))\" /><circle cx=\"12\" cy=\"40\" r=\"2\" fill=\"#FFFFFF\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.9))\" /><ellipse cx=\"36\" cy=\"48\" rx=\"10\" ry=\"6\" fill=\"#FFFFFF\" opacity=\"0.4\" /><ellipse cx=\"24\" cy=\"52\" rx=\"8\" ry=\"5\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "רָקִיעַ (라키아 - 궁창)",
+        "גָּבוֹהַּ (가보아 - 높은)"
+      ]
+    },
+    {
+      "hebrew": "וָאָרֶץ",
+      "meaning": "그리고 땅",
+      "ipa": "vaˈʔarɛts",
+      "korean": "바아레츠",
+      "letters": "וָ(va) + אָ(a) + רֶץ(rets)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_vaaretz\"><stop offset=\"0%\" stop-color=\"#86EFAC\" /><stop offset=\"60%\" stop-color=\"#22C55E\" /><stop offset=\"100%\" stop-color=\"#15803D\" /></radialGradient></defs><circle cx=\"32\" cy=\"40\" r=\"22\" fill=\"url(#earth_vaaretz)\" /><ellipse cx=\"24\" cy=\"36\" rx=\"8\" ry=\"6\" fill=\"#16A34A\" opacity=\"0.6\" /><ellipse cx=\"40\" cy=\"42\" rx=\"10\" ry=\"7\" fill=\"#16A34A\" opacity=\"0.6\" /><ellipse cx=\"32\" cy=\"48\" rx=\"6\" ry=\"4\" fill=\"#15803D\" opacity=\"0.7\" /><path d=\"M 18 38 Q 22 36 26 38\" stroke=\"#15803D\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /><path d=\"M 36 44 Q 40 42 44 44\" stroke=\"#15803D\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֶרֶץ (에레츠 - 땅, 나라)",
+        "אֲדָמָה (아다마 - 흙, 토지)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "멜기세덱이 아브람에게 선포한 축복의 말씀입니다. 이 축복은 하나님을 '엘 엘욘 코네 샤마임 바아레츠' - 즉 '천지를 소유하신 지극히 높으신 하나님'으로 선포하며, 아브람의 승리가 이 하나님으로부터 온 것임을 확인합니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "바라크 (בָּרַךְ) - 축복하다",
+        "description": "'바라크'는 히브리어에서 가장 중요한 단어 중 하나로, 하나님께서 사람에게, 또는 사람이 하나님을 축복(찬양)할 때 사용됩니다. 여기서는 제사장이 하나님의 이름으로 아브람을 축복합니다.",
+        "points": [
+          "제사장의 축복은 단순한 기원이 아니라 선포적 힘이 있음",
+          "축복은 하나님의 호의와 은혜를 전달하는 행위",
+          "멜기세덱의 축복은 레위 제사장보다 더 높은 권위를 나타냄"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "엘 엘욘 (אֵל עֶלְיוֹן) - 지극히 높으신 하나님",
+        "description": "'엘 엘욘'은 하나님의 여러 이름 중 하나로, 그분의 절대적 주권과 초월성을 강조합니다. 모든 것 위에 계시며 다른 모든 권세를 초월하신 분이라는 의미입니다.",
+        "points": [
+          "엘 = 권능의 하나님, 엘욘 = 가장 높으신 분",
+          "가나안 신들 위에 계신 유일하신 창조주 하나님",
+          "아브람의 승리는 이 최고의 하나님으로부터 온 것"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "코네 (קֹנֵה) - 소유자이자 창조자",
+        "description": "'코네'는 '사다, 획득하다'를 의미하는 카나(קָנָה)에서 나온 말로, 여기서는 '소유자' 또는 '창조자'를 의미합니다. 하나님께서 천지를 창조하셨기에 그것의 정당한 소유자이십니다.",
+        "points": [
+          "창조를 통한 소유권 - 하나님만이 우주의 주인",
+          "이 칭호는 창세기 1:1의 창조를 상기시킴",
+          "모든 땅과 전리품의 진정한 주인은 하나님이심을 선포"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "샤마임 바아레츠 (שָׁמַיִם וָאָרֶץ) - 하늘과 땅",
+        "description": "'하늘과 땅'은 우주 전체를 가리키는 히브리어 표현입니다. 보이는 것과 보이지 않는 것, 영적 세계와 물질 세계 모두를 포함하는 총체적 표현입니다.",
+        "points": [
+          "메리즘 수사법 - 양 극단을 말하여 전체를 나타냄",
+          "하나님은 우주 전체의 창조자이자 소유자",
+          "소돔 왕이 주는 보상보다 하나님의 축복이 더 중요함"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 멜기세덱은 하나님을 '천지의 소유자'라고 불렀을까요?",
+      "answer": "멜기세덱은 아브라함에게 정말 중요한 진리를 알려주고 싶었어요. 하나님께서 하늘과 땅, 우주의 모든 것을 만드셨기 때문에 그 모든 것의 진짜 주인이시라는 거예요. 아브라함이 전쟁에서 이긴 것도, 빼앗은 물건들도 사실은 다 하나님께 속한 것이에요. 그러니까 소돔 왕이 '네가 가져가'라고 해도, 진짜 주인이신 하나님께 먼저 감사드려야 한다는 뜻이에요.",
+      "bibleReferences": [
+        "시편 24:1 - '땅과 거기에 충만한 것과 세계와 그 가운데에 사는 자들은 다 여호와의 것이로다'",
+        "신명기 10:14 - '하늘과 모든 하늘의 하늘과 땅과 그 위의 만물은 본래 네 하나님 여호와께 속한 것이로되'",
+        "고린도전서 10:26 - '땅과 거기 충만한 것이 주의 것임이라'",
+        "출애굽기 19:5 - '온 땅이 다 내게 속하였나니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "이 축복은 단순한 기원이 아니라 신학적 선포입니다. 멜기세덱은 아브람의 승리를 '엘 엘욘 코네 샤마임 바아레츠'의 역사로 해석합니다. 이는 아브람이 곧 직면할 선택 - 소돔 왕의 제안을 받을 것인가 - 에 신학적 기초를 제공합니다. 천지의 창조자이자 소유자이신 하나님께서 함께하시는데, 왜 피조물에게서 보상을 받아야 하겠습니까? 이 축복은 또한 신약의 '하늘에 속한 축복'(엡 1:3)을 예표합니다."
+    }
+  }
+}

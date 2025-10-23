@@ -1,0 +1,158 @@
+{
+  "id": "genesis_9_4",
+  "reference": "창세기 9:4",
+  "hebrew": "אַךְ-בָּשָׂר, בְּנַפְשׁוֹ דָמוֹ לֹא תֹאכֵלוּ.",
+  "ipa": "ʔaχ baˈsar bənapˈʃo daˈmo lo toχeˈlu",
+  "koreanPronunciation": "아크 바사르 베나프쇼 다모 로 토케루",
+  "modern": "그러나 고기를 그 생명 되는 피째 먹지 말라",
+  "words": [
+    {
+      "hebrew": "אַךְ",
+      "meaning": "그러나, 오직",
+      "ipa": "ʔaχ",
+      "korean": "아크",
+      "letters": "אַ(a) + ךְ(kh)",
+      "root": "אַךְ (아크)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"warning_gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient></defs><path d=\"M 32 8 L 52 52 L 12 52 Z\" fill=\"url(#warning_gradient)\" stroke=\"#FF6347\" stroke-width=\"2\" /><circle cx=\"32\" cy=\"44\" r=\"2\" fill=\"#8B0000\" /><path d=\"M 32 24 L 32 38\" stroke=\"#8B0000\" stroke-width=\"3\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אוּלָם (울람 - 그러나)",
+        "רַק (라크 - 단지)"
+      ]
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "meaning": "고기, 살",
+      "ipa": "baˈsar",
+      "korean": "바사르",
+      "letters": "בָּ(ba) + שָׂ(sa) + ר(r)",
+      "root": "ב-שׂ-ר (바사르)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"meat_gradient\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#CD5C5C\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"32\" rx=\"22\" ry=\"18\" fill=\"url(#meat_gradient)\" /><path d=\"M 20 28 Q 24 24 32 26 Q 40 28 44 24\" stroke=\"#8B0000\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /><path d=\"M 22 36 Q 28 32 36 34 Q 42 36 46 32\" stroke=\"#8B0000\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "שְׁאֵר (쉐에르 - 살, 친족)",
+        "גּוּף (구프 - 몸)"
+      ]
+    },
+    {
+      "hebrew": "נֶפֶשׁ",
+      "meaning": "생명, 영혼",
+      "ipa": "ˈnɛpɛʃ",
+      "korean": "네페쉬",
+      "letters": "נֶ(ne) + פֶ(pe) + שׁ(sh)",
+      "root": "נ-פ-שׁ (나파쉬)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"soul_glow\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></radialGradient><linearGradient id=\"breath\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E0FFFF\" opacity=\"0\" /><stop offset=\"50%\" stop-color=\"#AFEEEE\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#E0FFFF\" opacity=\"0\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#soul_glow)\" opacity=\"0.6\" /><path d=\"M 20 32 Q 26 24 32 28 Q 38 32 44 28\" stroke=\"url(#breath)\" stroke-width=\"3\" fill=\"none\" /><path d=\"M 22 38 Q 27 30 32 34 Q 37 38 42 34\" stroke=\"url(#breath)\" stroke-width=\"2.5\" fill=\"none\" opacity=\"0.7\" /></svg>",
+      "relatedWords": [
+        "נְשָׁמָה (네샤마 - 숨, 생명)",
+        "חַיִּים (하이임 - 생명)"
+      ]
+    },
+    {
+      "hebrew": "דָם",
+      "meaning": "피",
+      "ipa": "dam",
+      "korean": "담",
+      "letters": "דָ(da) + ם(m)",
+      "root": "ד-מ (담)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"blood_drop\"><stop offset=\"0%\" stop-color=\"#FF6B6B\" /><stop offset=\"50%\" stop-color=\"#DC143C\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></radialGradient></defs><path d=\"M 32 12 Q 24 20 20 28 Q 16 36 20 44 Q 24 52 32 52 Q 40 52 44 44 Q 48 36 44 28 Q 40 20 32 12 Z\" fill=\"url(#blood_drop)\" filter=\"drop-shadow(0 4px 8px rgba(139, 0, 0, 0.5))\" /><ellipse cx=\"28\" cy=\"28\" rx=\"4\" ry=\"6\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "relatedWords": [
+        "אָדֹם (아돔 - 빨간)",
+        "דָּמִים (다밈 - 피들)"
+      ]
+    },
+    {
+      "hebrew": "לֹא",
+      "meaning": "~하지 마라",
+      "ipa": "lo",
+      "korean": "로",
+      "letters": "לֹ(lo) + א()",
+      "root": "לֹא (로)",
+      "grammar": "부정사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"prohibition\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF0000\" /><stop offset=\"100%\" stop-color=\"#8B0000\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"none\" stroke=\"url(#prohibition)\" stroke-width=\"4\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"url(#prohibition)\" stroke-width=\"4\" stroke-linecap=\"round\" /></svg>",
+      "relatedWords": [
+        "אַל (알 - ~하지 마라)",
+        "אֵין (에인 - 없다)"
+      ]
+    },
+    {
+      "hebrew": "תֹאכֵלוּ",
+      "meaning": "너희는 먹지 마라",
+      "ipa": "toχeˈlu",
+      "korean": "토케루",
+      "letters": "תֹ(to) + אכֵ(khe) + לוּ(lu)",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"forbidden_eat\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6347\" /><stop offset=\"100%\" stop-color=\"#DC143C\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"#FFE4E1\" stroke=\"url(#forbidden_eat)\" stroke-width=\"3\" /><path d=\"M 24 28 Q 28 24 32 28 Q 36 32 40 28\" stroke=\"url(#forbidden_eat)\" stroke-width=\"2\" fill=\"none\" /><line x1=\"16\" y1=\"16\" x2=\"48\" y2=\"48\" stroke=\"#FF0000\" stroke-width=\"4\" opacity=\"0.8\" /></svg>",
+      "relatedWords": [
+        "אָכַל (아칼 - 먹다)",
+        "אֹכֶל (오켈 - 음식)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "하나님은 동물을 먹도록 허락하시면서도 중요한 제한을 두십니다. 바로 '피째 먹지 말라'는 명령입니다. 피는 생명을 상징하며, 생명은 하나님의 것이기 때문입니다. 이 명령은 나중에 모세 율법에서 더욱 구체화됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "אַךְ (아크) - 그러나",
+        "description": "'그러나'라는 작은 단어가 큰 의미를 담고 있습니다. 하나님은 자유를 주시면서도 경계를 세우십니다. 이는 은혜와 율법, 자유와 책임의 균형을 보여줍니다.",
+        "points": [
+          "하나님의 허락에는 항상 책임이 따릅니다",
+          "자유는 무제한이 아니라 하나님의 뜻 안에서입니다",
+          "경계는 보호를 위한 것입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בְּנַפְשׁוֹ דָמוֹ (베나프쇼 다모) - 그 생명 되는 피",
+        "description": "'네페쉬'(생명)와 '담'(피)이 동격으로 쓰였습니다. 히브리 사상에서 피는 단순한 액체가 아니라 생명 그 자체입니다. 레위기 17:11은 '육체의 생명은 피에 있음이라'고 명확히 합니다.",
+        "points": [
+          "피는 생명을 대표합니다",
+          "생명은 하나님이 주신 것이므로 하나님의 것입니다",
+          "이는 나중에 속죄 제사의 신학적 기초가 됩니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "לֹא תֹאכֵלוּ (로 토케루) - 먹지 말라",
+        "description": "이것은 단순한 권고가 아니라 명령입니다. 부정 명령형은 절대적 금지를 의미합니다. 이 명령은 노아 후손 전체, 즉 모든 인류에게 주어졌습니다.",
+        "points": [
+          "피 금지는 보편적 명령입니다",
+          "생명의 존엄성에 대한 존중입니다",
+          "하나님의 주권을 인정하는 표시입니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "속죄 신학의 기초",
+        "description": "피가 생명이라는 이 원리는 구약의 제사 제도와 신약의 그리스도 속죄론의 기초가 됩니다. '피 흘림이 없으면 사함이 없느니라'(히 9:22)는 말씀이 바로 이 원리에 근거합니다.",
+        "points": [
+          "피는 속죄의 수단입니다(레 17:11)",
+          "예수님의 피는 영원한 속죄를 이룹니다",
+          "생명의 값은 생명으로만 치를 수 있습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 고기는 먹어도 되는데 피는 먹으면 안 된다고 하셨을까요?",
+      "answer": "피는 아주 특별한 것이기 때문이에요. 피는 생명 그 자체를 나타내요. 우리 몸에서 피가 흐를 때 우리는 살아있죠. 하나님은 모든 생명을 만드신 분이에요. 그래서 생명을 상징하는 피는 하나님께 속한 거예요. 고기를 먹을 수는 있지만, 피는 하나님의 것이므로 함부로 대하면 안 돼요. 나중에 예수님께서 우리 죄를 위해 십자가에서 피를 흘리셨어요. 예수님의 피가 우리를 구원한 거예요. 그만큼 피는 소중하고 거룩한 것이랍니다.",
+      "bibleReferences": [
+        "레위기 17:11 - '육체의 생명은 피에 있음이라 내가 이 피를 너희에게 주어 제단에 뿌려 너희의 생명을 위하여 속죄하게 하였나니 생명이 피에 있으므로 피가 죄를 속하느니라'",
+        "신명기 12:23 - '오직 피는 먹지 말라 피는 그 생명인즉 네가 그 생명을 고기와 함께 먹지 못하리니'",
+        "히브리서 9:22 - '율법을 따라 거의 모든 물건이 피로써 정결하게 되나니 피흘림이 없은즉 사함이 없느니라'",
+        "베드로전서 1:18-19 - '너희가 알거니와 너희 조상이 물려 준 헛된 행실에서 대속함을 받은 것은... 오직 흠 없고 점 없는 어린 양 같은 그리스도의 보배로운 피로 된 것이니라'",
+        "요한일서 1:7 - '그가 빛 가운데 계신 것 같이 우리도 빛 가운데 행하면 우리가 서로 사귐이 있고 그 아들 예수의 피가 우리를 모든 죄에서 깨끗하게 하실 것이요'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 9:4는 생명의 신성함과 하나님의 주권을 강조합니다. 피 금지 명령은 단순한 음식 규정이 아니라, 생명에 대한 경외심을 가르치는 신학적 교훈입니다. 이 원리는 구약 제사 제도의 기초가 되어, 죄의 속죄를 위해 피(생명)를 드려야 함을 가르칩니다. 신약에서 이는 예수 그리스도의 십자가 속죄로 완성됩니다. 그리스도의 피는 '더 좋은 것을 말하는'(히 12:24) 피로서, 영원한 구속을 이루었습니다. 사도행전 15장에서 초대교회는 이방인 신자들에게도 '피 먹는 것'을 금했는데, 이는 이 명령의 보편성과 중요성을 보여줍니다."
+    }
+  }
+}

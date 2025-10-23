@@ -1,0 +1,160 @@
+{
+  "id": "genesis_4_2",
+  "reference": "창세기 4:2",
+  "hebrew": "וַתֹּסֶף לָלֶדֶת אֶת אָחִיו אֶת הֶבֶל וַיְהִי רֹעֵה צֹאן וְקַיִן הָיָה עֹבֵד אֲדָמָה",
+  "ipa": "vatoˈsef laˈledet ʔɛt ʔaˈxiv ʔɛt ˈhavel vajeˈhi ˈhevel roˈʕe ʦoʔn vəˈkajin haˈja ʕoˈved ʔadaˈma",
+  "koreanPronunciation": "바토세프 랄레데트 에트 아히브 에트 헤벨 바예히 헤벨 로에 쪼안 베카인 하야 오베드 아다마",
+  "modern": "하와가 다시 가인의 동생 아벨을 낳았습니다. 아벨은 양치는 목자가 되었고, 가인은 땅을 경작하는 농부가 되었습니다",
+  "words": [
+    {
+      "hebrew": "וַתֹּסֶף",
+      "meaning": "그리고 더하다, 계속하다",
+      "ipa": "vatoˈsef",
+      "korean": "바토세프",
+      "letters": "וַ(va) + תֹּ(to) + סֶף(sef)",
+      "root": "י-ס-ף (야사프)",
+      "grammar": "동사",
+      "emoji": "➕",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plus1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"100%\" stop-color=\"#2E7D32\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#plus1)\" opacity=\"0.2\"/><rect x=\"28\" y=\"16\" width=\"8\" height=\"32\" rx=\"2\" fill=\"url(#plus1)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/><rect x=\"16\" y=\"28\" width=\"32\" height=\"8\" rx=\"2\" fill=\"url(#plus1)\" filter=\"drop-shadow(0 2px 4px rgba(46, 125, 50, 0.4))\"/></svg>"
+    },
+    {
+      "hebrew": "לָלֶדֶת",
+      "meaning": "낳다",
+      "ipa": "laˈledet",
+      "korean": "랄레데트",
+      "letters": "לָ(la) + לֶ(le) + דֶת(det)",
+      "root": "י-ל-ד (얄라드)",
+      "grammar": "동사",
+      "emoji": "👶",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"baby3\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFE4E1\"/><stop offset=\"100%\" stop-color=\"#FFB6C1\"/></linearGradient><radialGradient id=\"halo2\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"20\" r=\"12\" fill=\"url(#halo2)\" opacity=\"0.6\"/><circle cx=\"32\" cy=\"28\" r=\"12\" fill=\"url(#baby3)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"26\" r=\"2\" fill=\"#333\"/><circle cx=\"36\" cy=\"26\" r=\"2\" fill=\"#333\"/><path d=\"M 28 32 Q 32 34 36 32\" stroke=\"#FF69B4\" stroke-width=\"2\" fill=\"none\"/><ellipse cx=\"32\" cy=\"44\" rx=\"10\" ry=\"12\" fill=\"url(#baby3)\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת אָחִיו",
+      "meaning": "그의 동생을",
+      "ipa": "ʔɛt ʔaˈxiv",
+      "korean": "에트 아히브",
+      "letters": "אֶת(et) + אָ(a) + חִיו(hiv)",
+      "root": "א-ח (아흐)",
+      "grammar": "명사",
+      "emoji": "👥",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"brothers1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4682B4\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"24\" cy=\"24\" r=\"8\" fill=\"url(#brothers1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><circle cx=\"40\" cy=\"24\" r=\"8\" fill=\"url(#brothers1)\" opacity=\"0.8\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><path d=\"M 14 38 L 24 34 L 34 38 L 34 52 L 24 48 L 14 52 Z\" fill=\"url(#brothers1)\"/><path d=\"M 30 38 L 40 34 L 50 38 L 50 52 L 40 48 L 30 52 Z\" fill=\"url(#brothers1)\" opacity=\"0.8\"/></svg>"
+    },
+    {
+      "hebrew": "אֶת הֶבֶל",
+      "meaning": "아벨을",
+      "ipa": "ʔɛt ˈhevel",
+      "korean": "에트 헤벨",
+      "letters": "אֶת(et) + הֶ(he) + בֶל(vel)",
+      "root": "ה-ב-ל (헤벨)",
+      "grammar": "명사",
+      "emoji": "🐑",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"abel1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F5F5DC\"/><stop offset=\"100%\" stop-color=\"#D3D3D3\"/></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"14\" fill=\"url(#abel1)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.2))\"/><circle cx=\"28\" cy=\"24\" r=\"8\" fill=\"url(#abel1)\"/><circle cx=\"26\" cy=\"22\" r=\"2\" fill=\"#333\"/><circle cx=\"30\" cy=\"22\" r=\"2\" fill=\"#333\"/><path d=\"M 16 40 L 18 48 L 20 40\" stroke=\"#D3D3D3\" stroke-width=\"2\" fill=\"none\"/><path d=\"M 44 40 L 46 48 L 48 40\" stroke=\"#D3D3D3\" stroke-width=\"2\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 되다",
+      "ipa": "vajeˈhi",
+      "korean": "바예히",
+      "letters": "וַ(va) + יְ(ye) + הִי(hi)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "🔄",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"become1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#6A1B9A\"/></linearGradient></defs><path d=\"M 32 16 Q 48 24 48 32 Q 48 40 32 48\" stroke=\"url(#become1)\" stroke-width=\"4\" fill=\"none\" marker-end=\"url(#arrow1)\" filter=\"drop-shadow(0 2px 4px rgba(106, 27, 154, 0.4))\"/><path d=\"M 32 48 Q 16 40 16 32 Q 16 24 32 16\" stroke=\"url(#become1)\" stroke-width=\"4\" fill=\"none\" opacity=\"0.6\"/><defs><marker id=\"arrow1\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><path d=\"M 0 0 L 0 6 L 9 3 Z\" fill=\"#6A1B9A\"/></marker></defs></svg>"
+    },
+    {
+      "hebrew": "רֹעֵה צֹאן",
+      "meaning": "양치는 목자",
+      "ipa": "roˈʕe ʦoʔn",
+      "korean": "로에 쪼안",
+      "letters": "רֹ(ro) + עֵה(eh) + צֹ(tso) + אן(n)",
+      "root": "ר-ע-ה (라아)",
+      "grammar": "명사",
+      "emoji": "🧑‍🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"shepherd1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient></defs><circle cx=\"32\" cy=\"20\" r=\"8\" fill=\"url(#shepherd1)\"/ filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\"><ellipse cx=\"32\" cy=\"36\" rx=\"10\" ry=\"12\" fill=\"url(#shepherd1)\"/><line x1=\"44\" y1=\"16\" x2=\"44\" y2=\"48\" stroke=\"url(#shepherd1)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 42 16 Q 44 12 46 16\" stroke=\"url(#shepherd1)\" stroke-width=\"2\" fill=\"none\"/></svg>"
+    },
+    {
+      "hebrew": "וְקַיִן",
+      "meaning": "그리고 가인은",
+      "ipa": "vəˈkajin",
+      "korean": "베카인",
+      "letters": "וְ(ve) + קַ(ka) + יִן(yin)",
+      "root": "ק-י-ן (카인)",
+      "grammar": "명사",
+      "emoji": "🧑‍🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cain2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#A0522D\"/></linearGradient><linearGradient id=\"tool2\"><stop offset=\"0%\" stop-color=\"#C0C0C0\"/><stop offset=\"100%\" stop-color=\"#808080\"/></linearGradient></defs><circle cx=\"32\" cy=\"24\" r=\"10\" fill=\"url(#cain2)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><ellipse cx=\"32\" cy=\"42\" rx=\"12\" ry=\"14\" fill=\"url(#cain2)\"/><path d=\"M 46 44 L 52 50 L 48 54 L 42 48 Z\" fill=\"url(#tool2)\" filter=\"drop-shadow(0 2px 4px rgba(0,0,0,0.3))\"/><rect x=\"44\" y=\"48\" width=\"2\" height=\"12\" fill=\"#8B4513\"/></svg>"
+    },
+    {
+      "hebrew": "הָיָה",
+      "meaning": "되다",
+      "ipa": "haˈja",
+      "korean": "하야",
+      "letters": "הָ(ha) + יָה(yah)",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사",
+      "emoji": "✨",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"being1\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"url(#being1)\"/><polygon points=\"32,16 34,26 44,28 34,30 32,40 30,30 20,28 30,26\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+    },
+    {
+      "hebrew": "עֹבֵד אֲדָמָה",
+      "meaning": "땅을 경작하는 자",
+      "ipa": "ʕoˈved ʔadaˈma",
+      "korean": "오베드 아다마",
+      "letters": "עֹ(o) + בֵד(ved) + אֲ(a) + דָמָה(damah)",
+      "root": "ע-ב-ד (아바드)",
+      "grammar": "명사",
+      "emoji": "🌾",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ground1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#654321\"/></linearGradient><linearGradient id=\"plant1\"><stop offset=\"0%\" stop-color=\"#9ACD32\"/><stop offset=\"100%\" stop-color=\"#6B8E23\"/></linearGradient></defs><rect x=\"12\" y=\"44\" width=\"40\" height=\"12\" fill=\"url(#ground1)\" filter=\"drop-shadow(0 2px 4px rgba(101, 67, 33, 0.4))\"/><path d=\"M 24 44 Q 24 36 20 28\" stroke=\"url(#plant1)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 32 44 Q 32 34 32 24\" stroke=\"url(#plant1)\" stroke-width=\"3\" fill=\"none\"/><path d=\"M 40 44 Q 40 36 44 28\" stroke=\"url(#plant1)\" stroke-width=\"3\" fill=\"none\"/><circle cx=\"20\" cy=\"28\" r=\"3\" fill=\"#FFD700\"/><circle cx=\"32\" cy=\"24\" r=\"3\" fill=\"#FFD700\"/><circle cx=\"44\" cy=\"28\" r=\"3\" fill=\"#FFD700\"/></svg>"
+    }
+  ],
+  "commentary": {
+    "intro": "창세기 4장 2절은 아벨의 출생과 두 형제의 직업을 소개합니다. 가인은 농부가 되었고, 아벨은 목자가 되었습니다. 이 차이는 이후 두 형제의 제사와 갈등의 배경이 됩니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "הֶבֶל (헤벨) - 헛됨, 증기",
+        "description": "'헤벨'이라는 이름은 '증기', '헛됨', '덧없음'을 의미합니다. 이는 아벨의 짧은 생애를 예표하는 예언적 이름일 수 있습니다.",
+        "points": [
+          "전도서에서 '헤벨'은 '헛되도다'로 반복 사용됨",
+          "인생의 덧없음과 연약함을 상징",
+          "아벨의 의로운 삶이 짧게 끝날 것을 암시"
+        ],
+        "color": "pink"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "רֹעֵה צֹאן (로에 쪼안) - 양치는 목자",
+        "description": "아벨이 선택한 목자의 직업은 성경에서 중요한 상징입니다. 아브라함, 이삭, 야곱, 다윗, 그리고 예수님까지 목자의 이미지로 연결됩니다.",
+        "points": [
+          "목자는 하나님의 백성을 돌보는 자의 상징 (시편 23편)",
+          "희생 제물로 드릴 양을 기르는 직업",
+          "예수님은 '선한 목자'로 오심 (요한복음 10:11)"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "עֹבֵד אֲדָמָה (오베드 아다마) - 땅을 경작하는 자",
+        "description": "가인의 직업은 아담이 에덴에서 쫓겨난 후 받은 저주와 직접 연결됩니다. '수고해야 땅이 소산을 낼 것'이라는 저주를 실행하는 삶입니다.",
+        "points": [
+          "아담의 저주를 이어받은 직업 (창 3:17-19)",
+          "땅(아다마)에서 나온 아담이 땅을 경작함",
+          "노동의 수고와 땀을 상징"
+        ],
+        "color": "orange"
+      }
+    ],
+    "whyQuestion": {
+      "question": "가인은 왜 농사를 짓고, 아벨은 왜 양을 쳤나요?",
+      "answer": "하나님께서 아담에게 '땅을 경작하라'고 하셨기 때문에, 가인은 아빠의 일을 도와 농사를 지었어요. 아벨은 양을 치기로 선택했는데, 양은 나중에 하나님께 드리는 제사에 쓰이는 동물이에요. 두 형제는 서로 다른 일을 하며 하나님께서 주신 땅에서 일했답니다.",
+      "bibleReferences": [
+        "창세기 3:23 - '여호와 하나님이 에덴 동산에서 그를 내보내어 그의 근원이 된 땅을 갈게 하시니라'",
+        "시편 23:1 - '여호와는 나의 목자시니'",
+        "요한복음 10:11 - '나는 선한 목자라'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "가인과 아벨의 직업은 단순한 생업이 아니라 신학적 의미를 담고 있습니다. 가인의 농업은 타락의 결과로 받은 노동의 수고를 상징하며, 아벨의 목축은 희생 제사와 구속의 예표를 담고 있습니다. 두 직업 모두 하나님께서 허락하신 것이지만, 이후 드리는 제사의 차이에서 하나님께 나아가는 태도의 중요성이 드러납니다."
+    }
+  }
+}
