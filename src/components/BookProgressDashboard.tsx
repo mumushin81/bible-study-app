@@ -151,7 +151,7 @@ export default function BookProgressDashboard({ darkMode, onSelectBook }: BookPr
                           {book.name}
                         </h4>
                         <p className={`text-sm ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
-                          {book.english_name}
+                          {book.englishName}
                         </p>
                       </div>
                       <div className="text-right">
