@@ -1,0 +1,1334 @@
+[
+  {
+    "hebrew": "אָבִיו",
+    "meaning": "그의 아버지",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람 (높은 아버지)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַבְרָם",
+    "meaning": "아브람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַדְמָה",
+    "meaning": "아드마 (사해 인근 도시)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲדֹנָי יֱהוִה",
+    "meaning": "주 여호와",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲדֹנָי יֱהוִה",
+    "meaning": "주 여호와",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָהֳלֹה",
+    "meaning": "그의 장막",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אוּר כַּשְׂדִּים",
+    "meaning": "갈대아의 우르",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָז יֹשֵׁב בָּאָרֶץ",
+    "meaning": "그때 그 땅에 거주하고 있었다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲחִי אֶשְׁכֹּל וַאֲחִי עָנֵר",
+    "meaning": "에스골의 형제, 아넬의 형제",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָחִיו",
+    "meaning": "그의 형제, 조카",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחַר",
+    "meaning": "~후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחַר הַמַּבּוּל",
+    "meaning": "홍수 후",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחַר הַמַּבּוּל",
+    "meaning": "홍수 후에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחַר הַמַּבּוּל",
+    "meaning": "홍수 이후에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי",
+    "meaning": "~후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי",
+    "meaning": "~한 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי",
+    "meaning": "~한 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַֽחֲרֵי הוֹלִידוֹ",
+    "meaning": "낳은 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי הוֹלִידוֹ",
+    "meaning": "그가 낳은 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי הוֹלִידוֹ",
+    "meaning": "그가 낳은 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי הוֹלִידוֹ אֶת נֹחַ",
+    "meaning": "노아를 낳은 후에",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי הִפָּרֶד לוֹט",
+    "meaning": "롯이 떠난 후에",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַחֲרֵי שׁוּבוֹ",
+    "meaning": "그가 돌아온 후에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲחֹתִי",
+    "meaning": "내 누이",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲחֹתִי אָתְּ",
+    "meaning": "당신은 내 누이입니다",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִיֵּי הַגּוֹיִם",
+    "meaning": "여러 나라의 섬들, 해안 지역들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַיִל מְשֻׁלָּשׁ",
+    "meaning": "삼 년 된 숫양",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵימָה חֲשֵׁכָה גְדֹלָה",
+    "meaning": "큰 어둠의 두려움",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵין לָהּ וָלָד",
+    "meaning": "그에게는 자녀가 없었다",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵינֶנָּה",
+    "meaning": "그것이 아니다",
+    "grammar": "부정사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ",
+    "meaning": "남자, 수컷",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ אֶל־רֵעֵהוּ",
+    "meaning": "서로에게",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ מֵעַל אָחִיו",
+    "meaning": "사람이 그의 형제로부터",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ צַדִּיק",
+    "meaning": "의로운 사람",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ שְׂפַת רֵעֵהוּ",
+    "meaning": "각 사람이 그 이웃의 언어를",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִישׁ-בִּתְרוֹ לִקְרַאת רֵעֵהוּ",
+    "meaning": "각 부분을 서로 마주 보게",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַךְ",
+    "meaning": "오직, 단지",
+    "grammar": "부사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל לִבּוֹ",
+    "meaning": "그의 마음에, 마음속으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַל נָא תְהִי מְרִיבָה",
+    "meaning": "제발 다툼이 없게 하자",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵל עֶלְיוֹן",
+    "meaning": "가장 높으신 하나님",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַל תִּירָא",
+    "meaning": "두려워하지 말라",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-אֲבֹתֶיךָ",
+    "meaning": "네 조상들에게로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-הָאָרֶץ",
+    "meaning": "그 땅으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-הַתֵּבָה",
+    "meaning": "방주로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-הַתֵּבָה",
+    "meaning": "방주로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-הַתֵּבָה",
+    "meaning": "방주로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל-נֹחַ",
+    "meaning": "노아에게로",
+    "grammar": "전치사구",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶל־מְקוֹם",
+    "meaning": "~의 장소로",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵלֶּה",
+    "meaning": "이것은",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֱלֹהִים",
+    "meaning": "하나님",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֱלֹהִים",
+    "meaning": "하나님",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֱלֹהִים",
+    "meaning": "하나님",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֱלֹהִים",
+    "meaning": "하나님",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵלוֹן מוֹרֶה",
+    "meaning": "모레 상수리나무",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵלָיו",
+    "meaning": "그에게",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִם הַשְּׂמֹאל וְאֵימִנָה",
+    "meaning": "만약 왼쪽이라면 나는 오른쪽으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִם תּוּכַל לִסְפֹּר",
+    "meaning": "셀 수 있다면",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִם תֵּיטִיב",
+    "meaning": "만약 네가 선을 행하면",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַמָּה",
+    "meaning": "규빗 (팔꿈치에서 손끝까지 길이, 약 45cm)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָמַר אֶל אַבְרָם",
+    "meaning": "아브람에게 말씀하시다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִמְרִי נָא",
+    "meaning": "제발 말해 주십시오",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַמְרָפֶל",
+    "meaning": "아므라벨 (시날 왕)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָמַרְתָּ",
+    "meaning": "당신이 말했다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲנִי יְהוָה",
+    "meaning": "나는 여호와",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָנֹכִי",
+    "meaning": "나는",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָנֹכִי",
+    "meaning": "나, 내가",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אָנֹכִי מַמְטִיר",
+    "meaning": "내가 비를 내리리라",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲנָשִׁים",
+    "meaning": "사람들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבַּע וּשְׁלֹשִׁים",
+    "meaning": "삼십사",
+    "grammar": "수사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבַּע מֵאוֹת",
+    "meaning": "400",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבַּע מֵאוֹת שָׁנָה",
+    "meaning": "400년",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבָּעִים",
+    "meaning": "사십",
+    "grammar": "수사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבָּעִים",
+    "meaning": "사십",
+    "grammar": "수사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְבָּעִים יוֹם וְאַרְבָּעִים לַיְלָה",
+    "meaning": "사십 주야",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְפַּכְשָׁד",
+    "meaning": "아르박삿",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַרְצָה כְּנַעַן",
+    "meaning": "가나안 땅으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר",
+    "meaning": "~인 것",
+    "grammar": "관계대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר",
+    "meaning": "~인 것",
+    "grammar": "관계대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר",
+    "meaning": "~인 것",
+    "grammar": "관계대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר אָכְלוּ הַנְּעָרִים",
+    "meaning": "젊은이들이 먹은 것",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר אִם יוּכַל אִישׁ לִמְנוֹת",
+    "meaning": "만약 사람이 셀 수 있다면",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר אַרְאֶךָּ",
+    "meaning": "내가 네게 보여줄",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר אֵרְרָהּ יְהוָה",
+    "meaning": "여호와께서 저주하신",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר אַתָּה רֹאֶה",
+    "meaning": "네가 보는",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר בְּחֶבְרוֹן",
+    "meaning": "헤브론에 있는",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר בָּנוּ",
+    "meaning": "그들이 건설한",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר הוֹצֵאתִיךָ",
+    "meaning": "내가 너를 이끌어 낸",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר הָיָה שָׁם אָהֳלוֹ",
+    "meaning": "그의 장막이 거기 있었던",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר יֵצֵא מִמֵּעֶיךָ",
+    "meaning": "네 몸에서 나올 자",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר לֹא יִשְׁמְעוּ",
+    "meaning": "그들이 듣지 못하도록",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר עָשָׂה שָׁם",
+    "meaning": "그가 거기서 만들었던",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲשֶׁר-בּוֹ",
+    "meaning": "그 안에 있는",
+    "grammar": "관계대명사구",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֵשֶׁת",
+    "meaning": "아내",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִשְׁתּוֹ",
+    "meaning": "그의 아내",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִשְׁתּוֹ זֹאת",
+    "meaning": "이것은 그의 아내다",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִשְׁתְּךָ",
+    "meaning": "당신의 아내",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִשְׁתְּךָ",
+    "meaning": "당신의 아내",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת הָאֱלֹהִים",
+    "meaning": "하나님과 함께",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת הָאָרֶץ הַזֹּאת",
+    "meaning": "이 땅을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת הָעִיר",
+    "meaning": "그 성읍을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת חָם",
+    "meaning": "함을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת כָּל הָאָרֶץ",
+    "meaning": "모든 땅을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת כָּל רְכֻשׁ",
+    "meaning": "모든 재산을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת נֹחַ",
+    "meaning": "노아를",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת עֵינָיו",
+    "meaning": "그의 눈들을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת שֵׁם",
+    "meaning": "셈을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת שְׁמוֹ",
+    "meaning": "그의 이름을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת-הַתֵּבָה",
+    "meaning": "방주를",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת-נֹחַ",
+    "meaning": "노아를",
+    "grammar": "전치사구",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת-עֵבֶר",
+    "meaning": "에베르를 (대격 표지 + 이름)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת-פֶּלֶג",
+    "meaning": "벨렉을 (대격 표지 + 이름)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת־אַבְרָם",
+    "meaning": "아브람을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֶת־הָאִשָּׁה",
+    "meaning": "그 여인을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַתָּה",
+    "meaning": "너",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אַתָּה וְכָל בֵּיתְךָ",
+    "meaning": "너와 네 온 집안",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִתּוֹ",
+    "meaning": "그와 함께",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִתּוֹ",
+    "meaning": "그와 함께",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתוֹ",
+    "meaning": "그를",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתוֹ",
+    "meaning": "그를",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתִי",
+    "meaning": "나를",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתְךָ",
+    "meaning": "너를",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אִתָּם",
+    "meaning": "그들과 함께",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתָם",
+    "meaning": "그들을",
+    "grammar": "대명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֹתָם הָאָרֶץ",
+    "meaning": "그 땅이 그들을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "אֲתֹנֹת",
+    "meaning": "암나귀들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּא",
+    "meaning": "들어갔다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֹּא",
+    "meaning": "들어가라",
+    "grammar": "동사 명령형",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֹּא",
+    "meaning": "들어가라",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּאוּ",
+    "meaning": "그들이 왔다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּאוּ",
+    "meaning": "그들이 왔다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּאֵלֹנֵי מַמְרֵא",
+    "meaning": "마므레의 상수리나무들에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּאַפָּיו",
+    "meaning": "그의 코에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּאָרֶץ",
+    "meaning": "땅을",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּאָרֶץ",
+    "meaning": "땅에서, 세상에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּאֶרֶץ כְּנַעַן",
+    "meaning": "가나안 땅에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּאֶרֶץ שִׁנְעָר",
+    "meaning": "시날 땅에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּאֱרֹת בֶּאֱרֹת חֵמָר",
+    "meaning": "역청 구덩이들, 구덩이들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּבֶל",
+    "meaning": "바벨 (혼잡, 혼돈)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּבֶל",
+    "meaning": "바벨 (혼잡)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּגוֹיֵהֶם",
+    "meaning": "그들의 나라들에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּגוֹיֵהֶם",
+    "meaning": "그들의 나라에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּדּוֹר",
+    "meaning": "세대에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּדּוֹר הַזֶּה",
+    "meaning": "이 세대에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּדֹרֹתָיו",
+    "meaning": "그의 세대에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בּוֹ",
+    "meaning": "그것을",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּחֹדֶשׁ",
+    "meaning": "월에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּחָרָבָה",
+    "meaning": "마른 땅에, 뭍에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּחָרוּ",
+    "meaning": "선택하다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּחָרָן",
+    "meaning": "하란에서",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּיהוָה",
+    "meaning": "여호와를",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִּימֵי",
+    "meaning": "~의 날들에, ~의 시대에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְיָמָיו",
+    "meaning": "그의 시대에, 그의 날들에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּין בֵּית אֵל וּבֵין הָעָי",
+    "meaning": "베델과 아이 사이",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּין רֹעֵי מִקְנֵה",
+    "meaning": "가축 치는 자들 사이에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּינִי וּבֵינֶיךָ",
+    "meaning": "나와 너 사이에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּית",
+    "meaning": "집, 궁전",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּית-אֵל",
+    "meaning": "벧엘 (하나님의 집)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֵּיתוֹ",
+    "meaning": "그의 집",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּכֶּסֶף",
+    "meaning": "은으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִּלְעָדַי",
+    "meaning": "나를 제외하고는, 나 외에는",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּמָּה אֵדַע",
+    "meaning": "무엇으로 알 수 있겠습니까",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּמַּחֲזֶה",
+    "meaning": "환상 중에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּמִּקְנֶה",
+    "meaning": "가축으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּן",
+    "meaning": "아들, ~세",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּן אֲחִי אַבְרָם",
+    "meaning": "아브람의 형제의 아들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶן בֵּיתִי",
+    "meaning": "내 집의 아들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּן חֲמֵשׁ מֵאוֹת שָׁנָה",
+    "meaning": "500세 아들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּן מְאַת שָׁנָה",
+    "meaning": "백 세",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶן מֶשֶׁק בֵּיתִי",
+    "meaning": "내 집의 상속자",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בֶּן-חָמֵשׁ שָׁנִים וְשִׁבְעִים שָׁנָה",
+    "meaning": "75세",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנוֹת הָאָדָם",
+    "meaning": "사람의 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנֵי",
+    "meaning": "아들들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנֵי הָאָדָם",
+    "meaning": "사람들 (아담의 자손들)",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְנֵי הָאֱלֹהִים",
+    "meaning": "하나님의 아들들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנֵי-נֹחַ",
+    "meaning": "노아의 아들들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנֵי-נֹחַ",
+    "meaning": "노아의 자손들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּנִים וּבָנוֹת",
+    "meaning": "아들들과 딸들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּנָסְעָם",
+    "meaning": "그들이 이동할 때",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּעֲבוּרָהּ",
+    "meaning": "그녀 때문에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַעֲבוּרֵךְ",
+    "meaning": "당신 덕분에",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּעֲדוֹ",
+    "meaning": "그를 위하여",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּעוֹף",
+    "meaning": "새에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּעֵינֵי יְהוָה",
+    "meaning": "여호와의 눈앞에서",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּעֲלֵי בְרִית אַבְרָם",
+    "meaning": "아브람의 동맹자들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּעֶצֶם",
+    "meaning": "바로 그, 정확히",
+    "grammar": "명사구",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּעָרֵי הַכִּכָּר",
+    "meaning": "평야의 성읍들에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִקְעָה",
+    "meaning": "평지, 평야",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּקָר",
+    "meaning": "소 떼",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בָּרִאשֹׁנָה",
+    "meaning": "처음에, 먼저",
+    "grammar": "형용사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִּרְכֻשׁ גָּדוֹל",
+    "meaning": "큰 재산으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּשִׁבְעָה עָשָׂר יוֹם",
+    "meaning": "십칠일",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּשִׁבְעָה-עָשָׂר",
+    "meaning": "십칠일에",
+    "grammar": "수사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּשֵׂיבָה טוֹבָה",
+    "meaning": "좋은 노년에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּשָׁלוֹם",
+    "meaning": "평안히",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בְּשֵׁם יְהוָה",
+    "meaning": "여호와의 이름으로",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִּשְׁנַת",
+    "meaning": "~년에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בִּשְׁנַת שֵׁשׁ מֵאוֹת",
+    "meaning": "육백 년",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּת",
+    "meaning": "딸",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּתֵּבָה",
+    "meaning": "방주 안에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּתָּוֶךְ",
+    "meaning": "중간으로, 반으로",
+    "grammar": "전치사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "בַּתְּחִלָּה",
+    "meaning": "처음에",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גִּבֹּר",
+    "meaning": "권력자, 용사, 강한 자",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גִבֹּר-צַיִד",
+    "meaning": "용맹한 사냥꾼",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גָּבְרוּ",
+    "meaning": "강해졌다, 세어졌다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גָּבְרוּ",
+    "meaning": "강해졌다, 높아졌다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גְּדֹלִים",
+    "meaning": "큰",
+    "grammar": "형용사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גּוֹיִם",
+    "meaning": "민족들, 이방 나라들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גַּם",
+    "meaning": "또한, ~도",
+    "grammar": "부사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גַּם זַרְעֲךָ יִמָּנֶה",
+    "meaning": "네 후손도 셀 수 있을 것이다",
+    "grammar": "동사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גְּמַלִּים",
+    "meaning": "낙타들",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "גֵר",
+    "meaning": "나그네",
+    "grammar": "명사",
+    "icon_svg": null
+  },
+  {
+    "hebrew": "דְבַר יְהוָה",
+    "meaning": "여호와의 말씀",
+    "grammar": "명사",
+    "icon_svg": null
+  }
+]
