@@ -1,7 +1,7 @@
 import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
-import FlashCardV2 from './shared/FlashCardV2';
+import FlashCard from './shared/FlashCard';
 import HebrewIcon from './shared/HebrewIcon';
 import BookProgressDashboard from './BookProgressDashboard';
 import RootFlashcardDeck from './RootFlashcardDeck';
@@ -771,7 +771,7 @@ export default function VocabularyTab({
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {filteredWords.map((word, index) => (
-                  <FlashCardV2
+                  <FlashCard
                     key={word.hebrew}
                     word={word}
                     darkMode={darkMode}
