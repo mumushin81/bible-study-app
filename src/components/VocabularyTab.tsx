@@ -1,7 +1,7 @@
 import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
-import FlashCard from './shared/FlashCard';
+import FlashCardV2 from './shared/FlashCardV2';
 import HebrewIcon from './shared/HebrewIcon';
 import BookProgressDashboard from './BookProgressDashboard';
 import RootFlashcardDeck from './RootFlashcardDeck';
@@ -605,26 +605,26 @@ export default function VocabularyTab({
 
             {/* 모달 */}
             <motion.div
-              initial={{ opacity: 0, scale: 0.9, y: 20 }}
+              initial={{ opacity: 0, scale: 0.95, y: 20 }}
               animate={{ opacity: 1, scale: 1, y: 0 }}
-              exit={{ opacity: 0, scale: 0.9, y: 20 }}
-              className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-50 w-[90%] max-w-md"
+              exit={{ opacity: 0, scale: 0.95, y: 20 }}
+              className="fixed top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 z-50 w-[95%] sm:w-[85%] md:w-[70%] lg:w-[50%] max-w-lg"
             >
-              <div className={`rounded-3xl p-6 shadow-2xl ${
+              <div className={`rounded-3xl p-5 sm:p-6 shadow-2xl ${
                 darkMode
                   ? 'bg-gradient-to-br from-slate-900 to-indigo-900 border border-cyan-400/20'
                   : 'bg-gradient-to-br from-white via-purple-50 to-pink-50 border border-purple-200'
               }`}>
-                <h3 className={`text-xl font-bold mb-6 text-center ${darkMode ? 'text-white' : 'text-gray-900'}`}>
+                <h3 className={`text-lg sm:text-xl font-bold mb-4 sm:mb-6 text-center ${darkMode ? 'text-white' : 'text-gray-900'}`}>
                   📊 필터 선택
                 </h3>
 
                 {/* 필터 옵션 */}
-                <div className="space-y-3 mb-6">
+                <div className="space-y-2 sm:space-y-3 mb-4 sm:mb-6">
                   {/* 전체 */}
                   <button
                     onClick={() => setActiveSubTab('all')}
-                    className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 ${
+                    className={`w-full p-3 sm:p-4 rounded-xl sm:rounded-2xl transition-all flex items-center gap-3 sm:gap-4 ${
                       activeSubTab === 'all'
                         ? darkMode
                           ? 'bg-purple-600 text-white shadow-lg shadow-purple-500/30'
@@ -634,11 +634,11 @@ export default function VocabularyTab({
                           : 'bg-purple-100 text-purple-700 hover:bg-purple-200'
                     }`}
                   >
-                    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0 sm:w-7 sm:h-7">
                       <path d="M19 3H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2V5c0-1.1-.9-2-2-2zm-5 14H7v-2h7v2zm3-4H7v-2h10v2zm0-4H7V7h10v2z"/>
                     </svg>
                     <div className="text-left flex-1">
-                      <div className="font-bold text-base">전체</div>
+                      <div className="font-bold text-sm sm:text-base">전체</div>
                       <div className={`text-xs opacity-80 ${activeSubTab === 'all' ? 'text-white' : ''}`}>
                         모든 단어 보기
                       </div>
@@ -648,7 +648,7 @@ export default function VocabularyTab({
                   {/* 북마크 */}
                   <button
                     onClick={() => setActiveSubTab('bookmarked')}
-                    className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 ${
+                    className={`w-full p-3 sm:p-4 rounded-xl sm:rounded-2xl transition-all flex items-center gap-3 sm:gap-4 ${
                       activeSubTab === 'bookmarked'
                         ? darkMode
                           ? 'bg-yellow-600 text-white shadow-lg shadow-yellow-500/30'
@@ -658,11 +658,11 @@ export default function VocabularyTab({
                           : 'bg-yellow-100 text-yellow-700 hover:bg-yellow-200'
                     }`}
                   >
-                    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0 sm:w-7 sm:h-7">
                       <path d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"/>
                     </svg>
                     <div className="text-left flex-1">
-                      <div className="font-bold text-base">북마크</div>
+                      <div className="font-bold text-sm sm:text-base">북마크</div>
                       <div className={`text-xs opacity-80 ${activeSubTab === 'bookmarked' ? 'text-white' : ''}`}>
                         즐겨찾기한 단어
                       </div>
@@ -672,7 +672,7 @@ export default function VocabularyTab({
                   {/* 새 단어 */}
                   <button
                     onClick={() => setActiveSubTab('new')}
-                    className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 ${
+                    className={`w-full p-3 sm:p-4 rounded-xl sm:rounded-2xl transition-all flex items-center gap-3 sm:gap-4 ${
                       activeSubTab === 'new'
                         ? darkMode
                           ? 'bg-green-600 text-white shadow-lg shadow-green-500/30'
@@ -682,11 +682,11 @@ export default function VocabularyTab({
                           : 'bg-green-100 text-green-700 hover:bg-green-200'
                     }`}
                   >
-                    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0 sm:w-7 sm:h-7">
                       <path d="M12 2L2 7v10c0 5.55 3.84 10.74 9 12 5.16-1.26 9-6.45 9-12V7l-10-5zm0 10.99h7c-.53 4.12-3.28 7.79-7 8.94V12H5V9.99h14V8.99L12 4.19 5 8.99v.01z"/>
                     </svg>
                     <div className="text-left flex-1">
-                      <div className="font-bold text-base">새 단어</div>
+                      <div className="font-bold text-sm sm:text-base">새 단어</div>
                       <div className={`text-xs opacity-80 ${activeSubTab === 'new' ? 'text-white' : ''}`}>
                         처음 보는 단어
                       </div>
@@ -696,7 +696,7 @@ export default function VocabularyTab({
                   {/* 복습 대기 */}
                   <button
                     onClick={() => setActiveSubTab('review')}
-                    className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 ${
+                    className={`w-full p-3 sm:p-4 rounded-xl sm:rounded-2xl transition-all flex items-center gap-3 sm:gap-4 ${
                       activeSubTab === 'review'
                         ? darkMode
                           ? 'bg-orange-600 text-white shadow-lg shadow-orange-500/30'
@@ -706,11 +706,11 @@ export default function VocabularyTab({
                           : 'bg-orange-100 text-orange-700 hover:bg-orange-200'
                     }`}
                   >
-                    <svg width="28" height="28" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="flex-shrink-0 sm:w-7 sm:h-7">
                       <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm4.2 14.2L11 13V7h1.5v5.2l4.5 2.7-.8 1.3z"/>
                     </svg>
                     <div className="text-left flex-1">
-                      <div className="font-bold text-base">복습 대기</div>
+                      <div className="font-bold text-sm sm:text-base">복습 대기</div>
                       <div className={`text-xs opacity-80 ${activeSubTab === 'review' ? 'text-white' : ''}`}>
                         복습이 필요한 단어
                       </div>
@@ -719,10 +719,10 @@ export default function VocabularyTab({
                 </div>
 
                 {/* 버튼 */}
-                <div className="flex gap-3">
+                <div className="flex gap-2 sm:gap-3">
                   <button
                     onClick={() => setIsFilterModalOpen(false)}
-                    className={`flex-1 py-3 px-4 rounded-xl font-medium transition-all ${
+                    className={`flex-1 py-2.5 sm:py-3 px-3 sm:px-4 rounded-lg sm:rounded-xl font-medium text-sm sm:text-base transition-all ${
                       darkMode
                         ? 'bg-gray-700 hover:bg-gray-600 text-gray-200'
                         : 'bg-gray-200 hover:bg-gray-300 text-gray-700'
@@ -732,7 +732,7 @@ export default function VocabularyTab({
                   </button>
                   <button
                     onClick={() => setIsFilterModalOpen(false)}
-                    className="flex-1 py-3 px-4 rounded-xl font-medium bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white transition-all shadow-lg"
+                    className="flex-1 py-2.5 sm:py-3 px-3 sm:px-4 rounded-lg sm:rounded-xl font-medium text-sm sm:text-base bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-700 hover:to-pink-700 text-white transition-all shadow-lg"
                   >
                     확인
                   </button>
@@ -760,7 +760,7 @@ export default function VocabularyTab({
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {filteredWords.map((word, index) => (
-                  <FlashCard
+                  <FlashCardV2
                     key={word.hebrew}
                     word={word}
                     darkMode={darkMode}
