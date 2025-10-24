@@ -1,5 +1,6 @@
 import { motion } from 'framer-motion';
 import { Star, Volume2 } from 'lucide-react';
+import { useRef } from 'react';
 import { Word } from '../../types';
 import { WordWithContext } from '../../hooks/useWords';
 import HebrewIcon from './HebrewIcon';
@@ -33,6 +34,22 @@ export default function FlashCard({
 }: FlashCardProps) {
   const colors = getWordColor(word, darkMode);
   const grammarColors = word.grammar ? getGrammarColors(word.grammar) : null;
+  const lastTapRef = useRef<number>(0);
+
+  // 더블 탭 핸들러
+  const handleDoubleTap = () => {
+    const now = Date.now();
+    const timeSinceLastTap = now - lastTapRef.current;
+
+    if (timeSinceLastTap < 300 && timeSinceLastTap > 0) {
+      // 더블 탭 감지 (300ms 이내)
+      onFlip();
+      lastTapRef.current = 0; // 리셋
+    } else {
+      // 첫 번째 탭
+      lastTapRef.current = now;
+    }
+  };
 
   return (
     <motion.div
@@ -41,7 +58,7 @@ export default function FlashCard({
       transition={{ duration: 0.3, delay: index * 0.05 }}
       className="relative cursor-pointer min-h-[240px] sm:min-h-[280px] md:min-h-[320px]"
       style={{ perspective: '1000px' }}
-      onClick={onFlip}
+      onClick={handleDoubleTap}
     >
       <motion.div
         className="relative rounded-2xl min-h-[240px] sm:min-h-[280px] md:min-h-[320px]"
@@ -53,7 +70,7 @@ export default function FlashCard({
       >
         {/* 앞면 - 히브리어 + 의미 간략히 */}
         <div
-          className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl ${
+          className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl overflow-hidden ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
@@ -88,9 +105,9 @@ export default function FlashCard({
             </div>
           )}
 
-          <div className="text-center w-full flex flex-col items-center justify-center gap-2 sm:gap-3 md:gap-4">
+          <div className="text-center w-full flex flex-col items-center justify-center gap-2 sm:gap-3 md:gap-4 overflow-hidden px-2">
             {/* 1. SVG 아이콘 - 반응형 크기 */}
-            <div className="flex justify-center w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24">
+            <div className="flex justify-center w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 flex-shrink-0">
               <HebrewIcon
                 word={word.hebrew}
                 iconSvg={word.iconSvg}
@@ -102,7 +119,7 @@ export default function FlashCard({
 
             {/* 2. 원문 단어 - 반응형 폰트 */}
             <div
-              className={`text-3xl sm:text-4xl md:text-5xl font-bold ${
+              className={`text-3xl sm:text-4xl md:text-5xl font-bold max-w-full truncate px-2 ${
                 darkMode ? 'text-white' : 'text-gray-900'
               }`}
               dir="rtl"
@@ -114,7 +131,7 @@ export default function FlashCard({
             {/* 3. 알파벳 읽기 - 반응형 폰트 */}
             {word.letters && (
               <div
-                className={`text-sm sm:text-base md:text-lg font-medium ${
+                className={`text-sm sm:text-base md:text-lg font-medium max-w-full truncate px-2 ${
                   darkMode ? 'text-emerald-300' : 'text-emerald-700'
                 }`}
                 dir="rtl"
@@ -124,10 +141,10 @@ export default function FlashCard({
             )}
 
             {/* 4. 한국어 발음 + 발음 듣기 버튼 - 반응형 */}
-            <div className="flex items-center justify-center gap-2 sm:gap-3">
+            <div className="flex items-center justify-center gap-2 sm:gap-3 max-w-full">
               {word.korean && (
                 <div
-                  className={`px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-sm sm:text-base font-medium ${
+                  className={`px-3 py-1.5 sm:px-4 sm:py-2 rounded-lg text-sm sm:text-base font-medium max-w-full truncate ${
                     darkMode
                       ? 'bg-gray-700 text-gray-200'
                       : 'bg-gray-100 text-gray-800'
@@ -160,14 +177,14 @@ export default function FlashCard({
                   : 'bg-gray-100 text-gray-600'
               }`}
             >
-              탭하여 뜻 보기
+              더블 탭하여 뜻 보기
             </div>
           </div>
         </div>
 
         {/* 뒷면 - SVG, 원문, 뜻, 어근, 품사 */}
         <div
-          className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl ${
+          className={`absolute inset-0 p-4 sm:p-6 md:p-8 rounded-2xl overflow-hidden ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
@@ -180,9 +197,9 @@ export default function FlashCard({
             transform: 'rotateY(180deg)',
           }}
         >
-          <div className="h-full flex flex-col items-center justify-center gap-3 sm:gap-4 md:gap-6 text-center">
+          <div className="h-full flex flex-col items-center justify-center gap-3 sm:gap-4 md:gap-6 text-center overflow-hidden px-2">
             {/* 1. SVG 아이콘 - 반응형 */}
-            <div className="flex justify-center w-14 h-14 sm:w-16 sm:h-16 md:w-20 md:h-20">
+            <div className="flex justify-center w-14 h-14 sm:w-16 sm:h-16 md:w-20 md:h-20 flex-shrink-0">
               <HebrewIcon
                 word={word.hebrew}
                 iconSvg={word.iconSvg}
@@ -194,7 +211,7 @@ export default function FlashCard({
 
             {/* 2. 뜻 - 반응형 폰트 */}
             <div
-              className={`text-xl sm:text-2xl md:text-3xl font-bold ${
+              className={`text-xl sm:text-2xl md:text-3xl font-bold max-w-full break-words line-clamp-3 px-2 ${
                 darkMode ? 'text-white' : 'text-gray-900'
               }`}
             >
@@ -203,7 +220,7 @@ export default function FlashCard({
 
             {/* 3. 어근 - 반응형 */}
             {word.root && (
-              <div className="space-y-1 sm:space-y-2">
+              <div className="space-y-1 sm:space-y-2 max-w-full overflow-hidden">
                 <div
                   className={`text-xs sm:text-sm font-semibold ${
                     darkMode ? 'text-amber-400' : 'text-amber-700'
@@ -212,7 +229,7 @@ export default function FlashCard({
                   어근
                 </div>
                 <div
-                  className={`text-base sm:text-lg md:text-xl font-medium ${
+                  className={`text-base sm:text-lg md:text-xl font-medium max-w-full truncate px-2 ${
                     darkMode ? 'text-amber-200' : 'text-amber-900'
                   }`}
                   dir="rtl"

@@ -29,7 +29,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
     const initialBox = await flashCard.boundingBox();
     console.log('Initial card position:', initialBox);
 
-    // 카드 클릭하여 뒤집기
+    // 카드 더블 클릭하여 뒤집기 (300ms 이내 두 번 클릭)
+    await flashCard.click();
+    await page.waitForTimeout(100);
     await flashCard.click();
     await page.waitForTimeout(700); // 애니메이션 완료 대기 (0.6s + 여유)
 
@@ -55,6 +57,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
 
   test('플래시 카드 뒷면 레이아웃 overflow 테스트', async ({ page }) => {
     const flashCard = page.locator('.cursor-pointer').first();
+    // 더블 클릭
+    await flashCard.click();
+    await page.waitForTimeout(100);
     await flashCard.click();
     await page.waitForTimeout(700);
 
@@ -92,6 +97,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
     // 뒤집기 전 뷰포트 상단으로부터의 거리 측정
     const initialBox = await flashCard.boundingBox();
 
+    // 더블 클릭
+    await flashCard.click();
+    await page.waitForTimeout(100);
     await flashCard.click();
     await page.waitForTimeout(700);
 
@@ -111,6 +119,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
 
   test('플래시 카드 뒷면 콘텐츠 모두 표시되는지 확인', async ({ page }) => {
     const flashCard = page.locator('.cursor-pointer').first();
+    // 더블 클릭
+    await flashCard.click();
+    await page.waitForTimeout(100);
     await flashCard.click();
     await page.waitForTimeout(700);
 
@@ -155,7 +166,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
       // 앞면 위치 저장
       const frontBox = await card.boundingBox();
 
-      // 뒤집기
+      // 더블 클릭으로 뒤집기
+      await card.click();
+      await page.waitForTimeout(100);
       await card.click();
       await page.waitForTimeout(700);
 
@@ -169,7 +182,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
         expect(Math.abs(backBox.y - frontBox.y)).toBeLessThan(30);
       }
 
-      // 다시 뒤집어서 앞면으로
+      // 더블 클릭으로 다시 뒤집어서 앞면으로
+      await card.click();
+      await page.waitForTimeout(100);
       await card.click();
       await page.waitForTimeout(700);
     }
@@ -183,6 +198,9 @@ test.describe('FlashCard Layout and Animation Tests', () => {
     const frontStyle = await frontInner.getAttribute('style');
     console.log('Front style:', frontStyle);
 
+    // 더블 클릭
+    await flashCard.click();
+    await page.waitForTimeout(100);
     await flashCard.click();
     await page.waitForTimeout(700);
 
@@ -205,5 +223,61 @@ test.describe('FlashCard Layout and Animation Tests', () => {
     });
 
     console.log('Back computed position:', backPosition);
+  });
+
+  test('플래시 카드 콘텐츠 오버플로우 방지 테스트', async ({ page }) => {
+    const flashCard = page.locator('.cursor-pointer').first();
+    await expect(flashCard).toBeVisible();
+
+    // 앞면에서 오버플로우 확인
+    const frontContent = flashCard.locator('> div > div').first();
+    const frontClasses = await frontContent.getAttribute('class');
+    console.log('Front classes:', frontClasses);
+    expect(frontClasses).toContain('overflow-hidden');
+
+    // 더블 클릭으로 뒤집기
+    await flashCard.click();
+    await page.waitForTimeout(100);
+    await flashCard.click();
+    await page.waitForTimeout(700);
+
+    // 뒷면에서 오버플로우 확인
+    const backContent = flashCard.locator('> div > div').nth(1);
+    const backClasses = await backContent.getAttribute('class');
+    console.log('Back classes:', backClasses);
+    expect(backClasses).toContain('overflow-hidden');
+
+    // 뒷면 텍스트 요소들이 truncate나 line-clamp를 사용하는지 확인
+    const meaningElement = page.locator('text=/^[가-힣]+$/').first();
+    if (await meaningElement.isVisible()) {
+      const meaningClasses = await meaningElement.getAttribute('class');
+      console.log('Meaning classes:', meaningClasses);
+      // line-clamp-3이나 truncate가 포함되어 있는지 확인
+      expect(meaningClasses).toMatch(/(?:line-clamp|truncate|break-words)/);
+    }
+  });
+
+  test('단일 클릭으로는 카드가 뒤집히지 않는지 테스트', async ({ page }) => {
+    const flashCard = page.locator('.cursor-pointer').first();
+
+    // 초기 상태 확인 (앞면)
+    const frontText = page.locator('text=더블 탭하여 뜻 보기');
+    await expect(frontText).toBeVisible();
+
+    // 단일 클릭 (300ms 이후)
+    await flashCard.click();
+    await page.waitForTimeout(400);
+
+    // 앞면이 여전히 보이는지 확인 (뒤집히지 않음)
+    await expect(frontText).toBeVisible();
+
+    // 더블 클릭으로 뒤집기
+    await flashCard.click();
+    await page.waitForTimeout(100);
+    await flashCard.click();
+    await page.waitForTimeout(700);
+
+    // 뒷면이 보이는지 확인 (앞면 안내 텍스트가 사라짐)
+    await expect(frontText).not.toBeVisible();
   });
 });
