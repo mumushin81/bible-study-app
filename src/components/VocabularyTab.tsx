@@ -138,7 +138,6 @@ export default function VocabularyTab({
 
   // Helper functions for study mode (암기 모드에서만 사용)
   const getWordEmoji = (word: WordWithContext) => {
-    if (word.emoji) return word.emoji;
     const meaning = word.meaning.toLowerCase();
 
     if (meaning.includes('하나님') || meaning.includes('엘로힘')) return '👑';

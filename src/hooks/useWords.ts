@@ -10,10 +10,7 @@ export interface WordWithContext {
   letters?: string
   root: string
   grammar: string
-  structure?: string
-  emoji?: string
   iconSvg?: string
-  relatedWords?: string[]
   category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle'
   verseReference: string
   verseId: string
@@ -52,8 +49,6 @@ export function useWords(options?: UseWordsOptions) {
             letters,
             root,
             grammar,
-            structure,
-            emoji,
             icon_svg,
             category,
             position,
@@ -101,7 +96,7 @@ export function useWords(options?: UseWordsOptions) {
 
           if (!wordMap.has(item.hebrew)) {
             const hasIconSvg = !!item.icon_svg;
-            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}, emoji=${item.emoji || 'NULL'}`);
+            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}`);
 
             wordMap.set(item.hebrew, {
               id: item.id,
@@ -112,8 +107,6 @@ export function useWords(options?: UseWordsOptions) {
               letters: item.letters || undefined,
               root: item.root,
               grammar: item.grammar,
-              structure: item.structure || undefined,
-              emoji: item.emoji || undefined,
               iconSvg: item.icon_svg || undefined,
               category: item.category as any || undefined,
               verseReference: verse.reference,

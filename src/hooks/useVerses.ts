@@ -22,8 +22,6 @@ interface VerseWithWords {
     korean: string
     root: string
     grammar: string
-    structure: string | null
-    emoji: string | null
     icon_svg: string | null
     letters: string | null
     category: string | null
@@ -83,8 +81,6 @@ export function useVerses(options?: UseVersesOptions) {
               korean,
               root,
               grammar,
-              structure,
-              emoji,
               icon_svg,
               letters,
               category,
@@ -157,11 +153,6 @@ export function useVerses(options?: UseVersesOptions) {
           const words: Word[] = (verse.words || [])
             .sort((a, b) => a.position - b.position)
             .map((w) => {
-              // Emoji 누락 감지 및 경고
-              if (!w.emoji) {
-                console.warn(`⚠️  Emoji 누락: ${verse.reference} - ${w.hebrew} (${w.meaning})`)
-              }
-
               return {
                 hebrew: w.hebrew,
                 meaning: w.meaning,
@@ -170,9 +161,7 @@ export function useVerses(options?: UseVersesOptions) {
                 letters: w.letters || undefined,
                 root: w.root,
                 grammar: w.grammar,
-                emoji: w.emoji || '❓', // ❓ = emoji 누락 (DB에 추가 필요)
                 iconSvg: w.icon_svg || undefined,
-                structure: w.structure || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
               }
             })
