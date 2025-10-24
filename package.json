@@ -38,7 +38,12 @@
     "types:generate": "echo 'ℹ️  Please generate types manually from Supabase Dashboard → Project Settings → API → Generate Types'",
     "roots:generate": "tsx scripts/roots/generateHebrewRoots.ts",
     "roots:map": "tsx scripts/roots/mapWordDerivations.ts",
-    "metadata:generate": "tsx scripts/generateWordMetadata.ts"
+    "metadata:generate": "tsx scripts/generateWordMetadata.ts",
+    "duplicates:remove": "tsx scripts/final/finalDuplicateRemoval.ts",
+    "duplicates:verify": "tsx scripts/final/verifyNoDuplicates.ts",
+    "duplicates:monitor": "tsx scripts/final/monitorDuplicates.ts",
+    "duplicates:add-constraint": "tsx scripts/final/addUniqueConstraint.ts",
+    "duplicates:fix-scripts": "tsx scripts/final/fixDataGenerationProcess.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.67.0",
