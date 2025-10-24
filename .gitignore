@@ -44,3 +44,9 @@ Thumbs.db
 
 # Claude Code
 .claude.json
+
+# Supabase credentials (sensitive)
+SUPABASE_CREDENTIALS.md
+
+# Vite cache
+.vite/

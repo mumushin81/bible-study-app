@@ -124,6 +124,26 @@
 - 플래시카드 뒷면: 스크롤 → 반응형 폰트로 변경
 - 현대어역 카드: 가로 스크롤 → 멀티라인 + word-break로 변경
 
+**예외: 카드형 컴포넌트 (2025-10-24 추가)**
+
+플래시카드처럼 **고정된 크기가 필수**인 카드형 컴포넌트는 예외:
+```typescript
+// ✅ 카드형 컴포넌트: 고정 높이 + 스크롤
+<div className="h-[360px] sm:h-[400px] md:h-[480px] overflow-y-auto">
+  {/* 컨텐츠 */}
+</div>
+```
+
+**카드형 컴포넌트 조건:**
+- 일관된 크기가 UX에 중요한 경우 (예: 플래시카드 그리드)
+- 내용이 가변적이어서 반응형만으로 해결 불가
+- 스크롤이 자연스러운 경우 (세로 스크롤)
+
+**주의사항:**
+- 반드시 `overflow-y-auto` 사용 (컨텐츠 넘칠 때만 스크롤바)
+- `justify-center` 대신 `justify-start` 사용
+- 모든 텍스트에 `truncate` 또는 `line-clamp` 적용
+
 ### 2. 레이아웃 우선순위
 **우선순위**:
 1. 반응형 크기 조절 (clamp, vw, vh)
@@ -468,17 +488,112 @@ await page.waitForLoadState('networkidle');
 어떤 방법을 선호하시나요?
 ```
 
-### 문제 3: 플래시카드 오버플로우
-**발생 횟수**: 3회
+### 문제 3: 플래시카드 오버플로우 (근본 원인 분석 완료)
+**발생 횟수**: 4회 이상 반복
+**최종 분석일**: 2025-10-24
+**분석 방법**: 10개 병렬 에이전트를 통한 전방위 근본 원인 조사
 
 **시도한 방법들**:
 1. 스크롤 추가 → 사용자가 스크롤 원하지 않음
 2. 폰트 크기만 축소 → 여전히 오버플로우
-3. 최종: 스크롤 제거 + 전체적 반응형 폰트 ✅
+3. 반응형 폰트 추가 → 일시적 해결, 재발생
+4. **최종 (2025-10-24)**: 근본 원인 5가지 식별 및 모두 해결 ✅
+
+#### 🔴 5가지 근본 원인
+
+**1. min-h만 설정, max-h 없음**
+```typescript
+// ❌ 문제: 컨텐츠가 무한정 늘어날 수 있음
+className="min-h-[240px] sm:min-h-[280px] md:min-h-[320px]"
+
+// ✅ 해결: 고정 높이 + 스크롤
+className="h-[360px] sm:h-[400px] md:h-[480px]"
+```
+- 모바일: 필요 290-396px vs 설정 240px (-156px)
+- 데스크톱: 필요 401-578px vs 설정 320px (-258px)
+
+**2. justify-center + overflow-hidden 중첩**
+```typescript
+// ❌ 문제: gap 공간이 계산에서 제외되어 상하로 넘침
+className="justify-center overflow-hidden"
+
+// ✅ 해결: justify-start + overflow-y-auto
+className="justify-start pt-4 sm:pt-6 md:pt-8 overflow-y-auto"
+```
+
+**3. 반응형 성장률 불균형**
+- 카드 높이: +33% (240→320px)
+- 패딩: +100%, 폰트: +50%, Gap: +67%
+```typescript
+// ❌ 문제: gap이 카드보다 빠르게 증가
+gap-3 sm:gap-4 md:gap-5  // 67% 증가
+
+// ✅ 해결: gap 성장률 제한
+gap-2 sm:gap-3 md:gap-4  // 50% 증가
+```
+
+**4. Git 이력에서 truncate 클래스 누락 발견**
+- 커밋 31866bc에서 추가 → 박스 스타일 추가 중 삭제됨
+```typescript
+// ✅ truncate 복원 필수
+className="text-lg sm:text-xl md:text-2xl max-w-full truncate px-4 py-2"
+```
+
+**5. absolute 위치 요소가 레이아웃 계산 제외**
+```typescript
+// ❌ 문제: 구절 출처 ~50px가 flex 계산에서 제외
+<div className="absolute bottom-4">📖 {reference}</div>
+
+// ✅ 해결: flex 기반 위치
+<div className="mt-auto">📖 {reference}</div>
+```
+
+#### ✅ 적용된 해결책 (FlashCard.tsx)
+
+| 우선순위 | 해결책 | 코드 위치 | 효과 |
+|---------|--------|----------|------|
+| 🔴 Critical | 고정 높이 + 스크롤 | Line 59, 64, 73, 178 | 무한 성장 차단 |
+| 🟠 High | justify-start | Line 79, 191 | 오버플로우 방지 |
+| 🔴 Critical | truncate 복원 | Line 123 | 긴 텍스트 줄임 |
+| 🟡 Medium | Gap 최적화 | Line 108, 191 | 공간 확보 |
+| 🟡 Medium | Flex 위치 | Line 241 | 정확한 계산 |
+
+#### 🚨 절대 금지 사항 (재발 방지)
+
+❌ **다시는 하지 말아야 할 것:**
+1. `min-h`만 사용하고 `max-h`나 고정 `h` 없이 구현
+2. `justify-center` + `overflow-hidden` 동시 사용
+3. `truncate` 클래스 삭제 (항상 포함 필수)
+4. Gap 값이 카드 높이 성장률보다 크게 증가
+5. 카드 내부에서 `absolute` 위치 사용
+
+✅ **반드시 지켜야 할 패턴:**
+```typescript
+// 필수 구현 패턴
+<motion.div className="h-[360px] sm:h-[400px] md:h-[480px]">
+  <div className="absolute inset-0 p-4 sm:p-6 md:p-8 overflow-y-auto
+                  flex flex-col items-center justify-start pt-4">
+    <div className="flex flex-col gap-2 sm:gap-3 md:gap-4">
+      <div className="text-lg max-w-full truncate">텍스트</div>
+      <div className="mt-auto">하단 요소</div>
+    </div>
+  </div>
+</motion.div>
+```
+
+#### 📊 성능 검증 기준
+수정 후 반드시 확인:
+- [ ] 모바일 (360px): 카드 경계 내부에 수납
+- [ ] 태블릿 (768px): 카드 경계 내부에 수납
+- [ ] 데스크톱 (1024px+): 카드 경계 내부에 수납
+- [ ] 긴 텍스트: truncate 또는 스크롤 자동 활성화
+- [ ] 다크모드: 스크롤바가 배경과 조화
 
 **교훈**:
-- 처음부터 반응형 디자인 고려했다면 1회에 해결 가능
-- 모든 요소(이모지, 의미, 발음, 어근, 문법, 구조)의 크기를 함께 고려
+- 임시방편이 아닌 **근본 원인**을 찾아야 재발 방지
+- 10개 에이전트 병렬 조사로 **5가지 원인** 모두 식별
+- 각 원인에 대한 **구체적 해결책** 적용
+- MD 지침에 **절대 금지 사항** 명시로 재발 차단
 
 ---
 
@@ -590,6 +705,12 @@ word-break: break-all;
 ---
 
 ## 🔄 버전 히스토리
+- v1.2 (2025-10-24): 플래시카드 오버플로우 근본 원인 분석 완료
+  - 10개 병렬 에이전트를 통한 전방위 근본 원인 조사
+  - 5가지 근본 원인 식별 및 해결책 적용
+  - "절대 금지 사항" 및 "필수 구현 패턴" 추가
+  - 성능 검증 기준 체크리스트 추가
+  - 재발 방지를 위한 구체적 가이드라인 명시
 - v1.1 (2025-10-18): 테스트 가이드 추가
   - Playwright MCP를 이용한 테스트 필수화
   - 테스트 범위, 작성 가이드, 체크리스트 추가
