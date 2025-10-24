@@ -90,17 +90,44 @@ function printSection(title: string) {
 async function analyzeCurrentState(): Promise<{ words: any[], stats: RemovalStats }> {
   printSection('📊 PHASE 1: Analyzing Current State');
 
-  log('Fetching all words from database...', 'INFO');
-  // CRITICAL: Do NOT use .order() here - it causes Supabase to return different result sets!
-  // See: scripts/debug/directDuplicateQuery.ts for proof
-  const { data: words, error } = await supabase
-    .from('words')
-    .select('id, hebrew, verse_id, position, created_at');
+  log('Fetching all words from database with pagination...', 'INFO');
+  // CRITICAL: Supabase has a hard 1000-record limit, so we must paginate!
+  // See: scripts/debug/whyMissedDuplicates.ts for proof
 
-  if (error) {
-    log(`Failed to fetch words: ${error.message}`, 'ERROR');
-    throw error;
+  let allWords: any[] = [];
+  let page = 0;
+  const pageSize = 1000;
+
+  while (true) {
+    const start = page * pageSize;
+    const end = start + pageSize - 1;
+
+    const { data: pageData, error } = await supabase
+      .from('words')
+      .select('id, hebrew, verse_id, position, created_at')
+      .range(start, end);
+
+    if (error) {
+      log(`Failed to fetch words (page ${page + 1}): ${error.message}`, 'ERROR');
+      throw error;
+    }
+
+    if (!pageData || pageData.length === 0) {
+      break;
+    }
+
+    allWords = allWords.concat(pageData);
+    log(`Fetched page ${page + 1}: ${pageData.length} records (total: ${allWords.length})`, 'INFO');
+
+    if (pageData.length < pageSize) {
+      // Last page
+      break;
+    }
+
+    page++;
   }
+
+  const words = allWords;
 
   if (!words || words.length === 0) {
     log('No words found in database', 'WARN');
@@ -318,16 +345,41 @@ async function deleteDuplicates(
 async function verifyCleanState(): Promise<boolean> {
   printSection('✅ PHASE 4: Verification');
 
-  log('Verifying database state...', 'INFO');
+  log('Verifying database state with pagination...', 'INFO');
 
-  const { data: words, error } = await supabase
-    .from('words')
-    .select('id, hebrew, verse_id');
+  // Fetch all words with pagination
+  let allWords: any[] = [];
+  let page = 0;
+  const pageSize = 1000;
 
-  if (error) {
-    log(`Verification failed: ${error.message}`, 'ERROR');
-    return false;
+  while (true) {
+    const start = page * pageSize;
+    const end = start + pageSize - 1;
+
+    const { data: pageData, error } = await supabase
+      .from('words')
+      .select('id, hebrew, verse_id')
+      .range(start, end);
+
+    if (error) {
+      log(`Verification failed (page ${page + 1}): ${error.message}`, 'ERROR');
+      return false;
+    }
+
+    if (!pageData || pageData.length === 0) {
+      break;
+    }
+
+    allWords = allWords.concat(pageData);
+
+    if (pageData.length < pageSize) {
+      break;
+    }
+
+    page++;
   }
+
+  const words = allWords;
 
   const groupMap = new Map<string, number>();
   words?.forEach((word) => {
