@@ -10,7 +10,8 @@ export interface WordWithContext {
   letters?: string
   root: string
   grammar: string
-  iconSvg?: string
+  iconUrl?: string  // ✨ JPG 아이콘 URL (우선순위 1)
+  iconSvg?: string  // 레거시 SVG 아이콘 코드 (fallback)
   category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle'
   verseReference: string
   verseId: string
