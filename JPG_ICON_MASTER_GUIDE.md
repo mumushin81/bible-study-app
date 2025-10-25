@@ -1,8 +1,8 @@
 # 🎨 JPG 아이콘 마스터 가이드
 
-**최종 업데이트**: 2025-10-25
+**최종 업데이트**: 2025-10-26
 **상태**: ✅ 운영 중
-**방식**: Canvas API 직접 생성
+**방식**: Canvas API 직접 생성 + AI 생성 (FLUX Schnell)
 
 ---
 
@@ -14,7 +14,8 @@
 4. [워크플로우](#4-워크플로우)
 5. [문제 해결](#5-문제-해결)
 6. [품질 관리](#6-품질-관리)
-7. [참고 문서](#7-참고-문서)
+7. [AI 이미지 생성 (NEW)](#7-ai-이미지-생성-new)
+8. [참고 문서](#8-참고-문서)
 
 ---
 
@@ -437,9 +438,259 @@ async function validateJpg(filepath: string) {
 
 ---
 
-## 7. 참고 문서
+## 7. AI 이미지 생성 (NEW)
 
-### 7.1 공식 가이드라인
+### 7.1 개요
+
+**최신 방식 (2025-10-26 추가)**:
+- 🤖 FLUX Schnell AI 모델 사용 (Replicate API)
+- 🎨 박물관급 동화책 스타일 워터컬러 이미지
+- 🌈 다채로운 밝은 파스텔 색상
+- 💰 초저비용 ($0.003/image)
+
+### 7.2 FLUX Schnell vs Canvas 비교
+
+| 특징 | Canvas API | FLUX Schnell AI |
+|------|-----------|-----------------|
+| **비용** | 무료 | $0.003/image |
+| **속도** | 즉시 | 1-2초/image |
+| **품질** | 프로그래밍 제약 | 박물관급 예술성 |
+| **유연성** | 코드로 완전 제어 | 프롬프트 기반 |
+| **일관성** | 매번 동일 | 약간의 변동 |
+| **예술성** | 제한적 | 매우 높음 |
+| **용도** | 단순한 아이콘 | 복잡한 예술작품 |
+
+### 7.3 빠른 시작
+
+#### 설치
+
+```bash
+# Replicate SDK 설치
+npm install replicate
+
+# 이미지 압축 도구 (sharp)
+npm install sharp
+```
+
+#### 환경 변수 설정
+
+`.env.local`:
+```bash
+REPLICATE_API_TOKEN=r8_your_token_here
+```
+
+#### 이미지 생성
+
+```bash
+# 창세기 1:1 단어 이미지 생성
+npx tsx scripts/images/generateGenesis1_1.ts
+
+# 결과 확인
+ls -lh public/images/words/
+```
+
+### 7.4 생성된 이미지 예시
+
+**창세기 1:1 (5개 단어)**:
+
+```
+public/images/words/
+├── בראשית.jpg    # 62 KB - 시작 (무지개 광선 폭발)
+├── ברא.jpg        # 69 KB - 창조 (다이나믹 폭발)
+├── אלהים.jpg      # 23 KB - 하나님 (황금 태양 구체)
+├── השמים.jpg      # 37 KB - 하늘 (몽환적 구름)
+└── הארץ.jpg       # 22 KB - 땅 (부드러운 언덕)
+```
+
+### 7.5 핵심 기술 스택
+
+#### 이미지 생성
+- **`scripts/images/generateImage.ts`**
+  - FLUX Schnell API 통합
+  - 9:16 aspect ratio, JPG format
+  - Quality 90, mozjpeg compression
+
+#### 프롬프트 엔지니어링
+- **`scripts/images/generateImagePrompt.ts`**
+  - 박물관급 동화책 스타일
+  - 다채로운 파스텔 색상 강조
+  - 어린이 친화적 + 예술적 세련미
+  - 히브리어 단어 의미별 맞춤 프롬프트
+
+#### 배치 생성
+- **`scripts/images/generateGenesis1_1.ts`**
+  - 창세기 1:1 5개 단어 자동 생성
+  - 진행 상황 실시간 출력
+
+#### 이미지 관리
+- **`scripts/images/compressWordImages.ts`**
+  - Sharp로 JPEG 압축 (quality 75)
+  - 50-70% 파일 크기 감소
+
+- **`scripts/images/uploadWordImages.ts`**
+  - Supabase Storage 자동 업로드
+  - words 테이블 icon_url 업데이트
+
+### 7.6 프롬프트 디자인 원칙
+
+#### 스타일
+```typescript
+Art style: CHILDREN'S STORYBOOK ILLUSTRATION meets FINE ART
+          Museum-quality spiritual illustration with playful wonder
+          Like beloved children's Bible storybooks - magical and inviting
+```
+
+#### 색상
+```typescript
+Colors: RICH DIVERSE BRIGHT PASTEL PALETTE - USE MANY COLORS
+       baby pink, sky blue, sunny yellow, mint green, soft lavender,
+       peach, cream, warm coral, light turquoise, rose, aqua,
+       butter yellow, powder blue, lilac, apricot, seafoam, blush
+```
+
+#### 기법
+```typescript
+Technique: SOPHISTICATED MINIMALISM with PLAYFUL WARMTH
+          Masterful watercolor: wet-on-wet, gradients, soft edges
+          Advanced color harmony creating joyful emotional connection
+```
+
+#### 금지 사항
+```typescript
+CRITICAL: Pure visual art - shapes and colors only
+         NO text, NO letters, NO Hebrew characters, NO words
+```
+
+### 7.7 단어별 맞춤 프롬프트
+
+**하나님 (God)**:
+```
+Sophisticated centered luminous orb
+DIVERSE WARM COLORS: golden yellow, peachy cream, soft apricot,
+butter yellow, warm coral, gentle rose, light amber
+Masterful multi-color gradients creating depth and warmth
+```
+
+**시작 (Beginning)**:
+```
+Sophisticated radial composition - luminous energy emanating from center
+DIVERSE COLORS - baby pink, sunny yellow, mint green, soft lavender,
+coral, aqua, peach, powder blue, rose bursting outward
+Rainbow movement with rich chromatic variety
+```
+
+**하늘 (Heaven)**:
+```
+Sophisticated atmospheric composition - ethereal cloud forms
+DIVERSE SOFT COLORS - peachy-pink, cream, soft lavender,
+powder blue, gentle aqua, blush, lilac
+Dreamy multi-colored quality with color diversity
+```
+
+### 7.8 데이터베이스 통합
+
+#### 업로드 프로세스
+
+1. **이미지 생성** → `public/images/words/`
+2. **압축** → 50-70% 크기 감소
+3. **Supabase Storage 업로드** → `hebrew-icons/icons/word_*.jpg`
+4. **DB 업데이트** → `words.icon_url`
+
+#### 업로드 결과 (창세기 1:1)
+
+```
+✅ בראשית.jpg → "태초에, 처음에" (1개 레코드, 62 KB)
+✅ ברא.jpg → "창조하셨다" (2개 레코드, 69 KB)
+✅ אלהים.jpg → "하나님" (44개 레코드, 23 KB)
+✅ השמים.jpg → "하늘들" (5개 레코드, 37 KB)
+✅ הארץ.jpg → "땅" (10개 레코드, 22 KB)
+
+총 63개 레코드 업데이트
+```
+
+#### Public URL
+```
+https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/hebrew-icons/icons/word_*.jpg
+```
+
+### 7.9 비용 분석
+
+| 항목 | 수량 | 단가 | 총액 |
+|------|------|------|------|
+| 이미지 생성 | 5개 | $0.003 | $0.015 |
+| 압축 | 5개 | 무료 | $0 |
+| 업로드 | 5개 | 무료 | $0 |
+| **합계** | - | - | **$0.015** |
+
+약 20원으로 박물관급 이미지 5개 생성!
+
+### 7.10 품질 평가
+
+**색상**: ⭐⭐⭐⭐⭐
+- 다채롭고 풍부한 파스텔 팔레트
+- 각 이미지마다 5-8가지 색상 사용
+
+**예술성**: ⭐⭐⭐⭐⭐
+- 박물관급 워터컬러 품질
+- 동화책 스타일의 따뜻한 매력
+- 정교한 그라데이션과 블렌딩
+
+**일관성**: ⭐⭐⭐⭐
+- 모든 이미지가 동화책 스타일 유지
+- 밝은 파스텔 색감 일관성
+- 약간의 자연스러운 변동
+
+**텍스트 제거**: ⭐⭐⭐⭐⭐
+- 5개 모두 완벽하게 텍스트 없음
+- 순수 시각적 예술
+
+### 7.11 워크플로우
+
+```mermaid
+graph TD
+    A[단어 데이터 준비] --> B[프롬프트 생성]
+    B --> C[FLUX Schnell API 호출]
+    C --> D[이미지 다운로드]
+    D --> E[Sharp 압축]
+    E --> F[Supabase Storage 업로드]
+    F --> G[DB icon_url 업데이트]
+    G --> H[완료]
+```
+
+### 7.12 제한 사항 및 주의점
+
+**FLUX 모델 특성**:
+- ✅ 뛰어난 텍스트 렌더링 능력 (문제가 될 수 있음)
+- ⚠️ "NO text" 같은 부정 프롬프트는 오히려 텍스트 생성 유발
+- ✅ 해결: 긍정적 설명만 사용, 텍스트 관련 단어 완전 제거
+
+**파일명**:
+- ⚠️ 히브리어 파일명은 업로드 시 영어로 변환 필요
+- ✅ 해결: `word_beginning.jpg`, `word_god.jpg` 등
+
+**비용 최적화**:
+- 이미지를 너무 자주 재생성하지 않기
+- 프롬프트 테스트는 소수 단어로만
+- 압축으로 Storage 비용 절감
+
+### 7.13 다음 단계
+
+**Phase 2.5: AI 생성 확장** (계획 중)
+- [ ] 창세기 1장 전체 단어 이미지 생성
+- [ ] 자동 프롬프트 최적화
+- [ ] 배치 생성 스크립트 개선
+- [ ] 품질 자동 검증 시스템
+
+**Phase 3: 하이브리드 접근**
+- [ ] 단순 아이콘: Canvas API (무료)
+- [ ] 복잡한 예술: FLUX Schnell (유료)
+- [ ] 자동 선택 알고리즘
+
+---
+
+## 8. 참고 문서
+
+### 8.1 공식 가이드라인
 
 1. **`docs/JPG_ICON_GUIDELINES.md`** ⭐⭐⭐⭐⭐
    - 색상 팔레트
@@ -479,37 +730,58 @@ async function validateJpg(filepath: string) {
 
 ## 📊 통계 (현재 상태)
 
+### Canvas API 방식
 | 지표 | 수치 | 상태 |
 |------|------|------|
 | 총 생성 단어 | 7개 | ✅ |
 | 평균 파일 크기 | 29 KB | ✅ 최적 |
-| 평균 생성 시간 | <1초/개 | ✅ 빠름 |
-| 품질 등급 | ⭐⭐⭐⭐⭐ 우수 | ✅ |
+| 평균 생성 시간 | <1초/개 | ✅ 즉시 |
+| 품질 등급 | ⭐⭐⭐⭐ 양호 | ✅ |
 | API 비용 | $0 | ✅ 무료 |
+
+### AI 생성 방식 (NEW)
+| 지표 | 수치 | 상태 |
+|------|------|------|
+| 총 생성 단어 | 5개 (창세기 1:1) | ✅ |
+| 평균 파일 크기 | 43 KB (압축 후) | ✅ 최적 |
+| 평균 생성 시간 | 1-2초/개 | ✅ 빠름 |
+| 품질 등급 | ⭐⭐⭐⭐⭐ 최우수 | ✅ 박물관급 |
+| API 비용 | $0.003/개 | ✅ 초저비용 |
+| DB 업데이트 | 63개 레코드 | ✅ |
 
 ---
 
 ## 🎯 로드맵
 
-### Phase 1: 기본 구현 ✅
+### Phase 1: Canvas 기본 구현 ✅
 - [x] Canvas 설치
 - [x] 기본 렌더러 7개
 - [x] 테스트 생성
 
-### Phase 2: 확장 (진행 중)
+### Phase 2: Canvas 확장
 - [ ] 창세기 1장 전체 단어 렌더러 작성
 - [ ] 자동 색상 선택 알고리즘
 - [ ] 품질 자동 검증
 
-### Phase 3: 최적화
-- [ ] 렌더링 성능 개선
-- [ ] 파일 크기 최적화
-- [ ] 일괄 생성 병렬화
+### Phase 2.5: AI 생성 구현 ✅ (2025-10-26)
+- [x] FLUX Schnell API 통합
+- [x] 프롬프트 엔지니어링 시스템
+- [x] 창세기 1:1 이미지 생성 (5개)
+- [x] 이미지 압축 파이프라인
+- [x] Supabase Storage 통합
+- [x] DB 자동 업데이트 (63 레코드)
+
+### Phase 3: 하이브리드 최적화
+- [ ] 단순 아이콘: Canvas (무료)
+- [ ] 복잡한 예술: FLUX (유료)
+- [ ] 자동 선택 알고리즘
+- [ ] 비용 최적화
 
 ### Phase 4: 고급 기능
-- [ ] 애니메이션 효과
-- [ ] 동적 스타일 변경
-- [ ] AI 기반 디자인 제안
+- [ ] 배치 생성 병렬화
+- [ ] 품질 자동 검증 AI
+- [ ] 다양한 스타일 프리셋
+- [ ] 사용자 커스터마이징
 
 ---
 
@@ -568,7 +840,14 @@ const WORD_RENDERERS: Record<string, (canvas: Canvas) => void> = {
 
 ---
 
-**최종 업데이트**: 2025-10-25
+**최종 업데이트**: 2025-10-26
 **작성자**: Claude Code
-**버전**: 1.0 (JPG 직접 생성)
+**버전**: 2.0 (Canvas + AI 하이브리드)
 **상태**: ✅ 운영 중
+
+**주요 변경사항 (v2.0)**:
+- ✨ FLUX Schnell AI 이미지 생성 추가
+- 🎨 박물관급 동화책 스타일 구현
+- 💾 Supabase Storage 통합
+- 📊 63개 DB 레코드 업데이트
+- 💰 초저비용 ($0.003/image)
