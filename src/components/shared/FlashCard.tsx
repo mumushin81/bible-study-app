@@ -124,6 +124,20 @@ export default function FlashCard({
           <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${
             darkMode ? 'bg-gray-900/80' : 'bg-white/80'
           } backdrop-blur-sm`}>
+            {/* 알파벳 읽기 */}
+            {word.letters && (
+              <div
+                className={`text-base font-semibold mb-1 px-3 py-1 rounded-lg ${
+                  darkMode
+                    ? 'bg-emerald-900/30 text-emerald-200 border border-emerald-700/50'
+                    : 'bg-emerald-50 text-emerald-800 border border-emerald-200'
+                }`}
+                dir="rtl"
+              >
+                {word.letters}
+              </div>
+            )}
+
             {/* 발음 */}
             {word.korean && (
               <div className="flex items-center gap-2 mb-1">

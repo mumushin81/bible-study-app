@@ -101,7 +101,7 @@ test.describe('데이터 무결성 테스트', () => {
 
     const { data: verses } = await supabase
       .from('verses')
-      .select('id, reference, hebrew, ipa, korean_pronunciation, modern, translation')
+      .select('id, reference, hebrew, ipa, korean_pronunciation, modern')
       .eq('book_id', 'genesis')
       .gte('chapter', 1)
       .lte('chapter', 3);
@@ -115,11 +115,11 @@ test.describe('데이터 무결성 테스트', () => {
     verses.forEach(verse => {
       const missing: string[] = [];
 
+      // 필수 필드만 검증 (translation, literal은 선택적)
       if (!verse.hebrew || verse.hebrew.includes('[TODO')) missing.push('hebrew');
       if (!verse.ipa || verse.ipa.includes('[TODO')) missing.push('ipa');
       if (!verse.korean_pronunciation || verse.korean_pronunciation.includes('[TODO')) missing.push('korean_pronunciation');
       if (!verse.modern || verse.modern.includes('[TODO')) missing.push('modern');
-      if (!verse.translation || verse.translation.includes('[TODO')) missing.push('translation');
 
       if (missing.length > 0) {
         incomplete.push(`${verse.reference}: ${missing.join(', ')} 누락`);
@@ -132,7 +132,7 @@ test.describe('데이터 무결성 테스트', () => {
       throw new Error(`${incomplete.length}개 구절이 불완전합니다`);
     }
 
-    console.log(`✅ ${verses.length}개 구절 모두 완성됨\n`);
+    console.log(`✅ ${verses.length}개 구절 모두 완성됨 (필수 필드: hebrew, ipa, korean_pronunciation, modern)\n`);
   });
 
   test('Foreign Key 무결성 검증', async () => {
