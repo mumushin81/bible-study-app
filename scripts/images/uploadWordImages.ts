@@ -28,7 +28,9 @@ const hebrewToMeaning: Record<string, WordMapping> = {
   'בראשית.jpg': { meaning: '태초에, 처음에', english: 'beginning' },
   'ברא.jpg': { meaning: '창조하셨다', english: 'create' },
   'אלהים.jpg': { meaning: '하나님', english: 'god' },
+  'את.jpg': { meaning: '~을/를 (목적격 표지)', english: 'particle_et' },
   'השמים.jpg': { meaning: '하늘들', english: 'heaven' },
+  'ואת.jpg': { meaning: '그리고 ~을/를', english: 'conjunction_veet' },
   'הארץ.jpg': { meaning: '땅', english: 'earth' }
 }
 

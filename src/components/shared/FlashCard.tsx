@@ -120,28 +120,30 @@ export default function FlashCard({
             />
           </div>
 
-          {/* 하단 컨텐츠 영역 (20% 높이) - 품사 색상 독립 */}
-          <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${
-            darkMode ? 'bg-gray-900' : 'bg-white'
-          }`}>
+          {/* 하단 컨텐츠 영역 (20% 높이) - 투명 + 반투명 오버레이 */}
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-black/10 backdrop-blur-sm">
+            {/* 히브리어 원문 */}
+            <div
+              className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
+              dir="rtl"
+            >
+              {word.hebrew}
+            </div>
+
             {/* 알파벳 읽기 - 동적 폰트 크기, 멀티라인 */}
             {word.letters && (
               <div
                 className={`${
-                  word.letters.length <= 15 ? 'text-base' :
-                  word.letters.length <= 25 ? 'text-sm' :
-                  word.letters.length <= 40 ? 'text-xs' : 'text-[11px]'
-                } font-semibold mb-1 px-2 py-0.5 rounded-md w-full text-center leading-tight ${
-                  darkMode
-                    ? 'text-emerald-300'
-                    : 'text-emerald-700'
-                }`}
+                  word.letters.length <= 15 ? 'text-xs' :
+                  word.letters.length <= 25 ? 'text-[11px]' :
+                  word.letters.length <= 40 ? 'text-[10px]' : 'text-[9px]'
+                } font-medium mb-1 px-2 py-0.5 rounded-md w-full text-center leading-tight text-emerald-200 drop-shadow`}
                 dir="rtl"
                 style={{
                   wordBreak: 'break-word',
                   overflowWrap: 'break-word',
                   whiteSpace: 'normal',
-                  maxHeight: '2.5rem',
+                  maxHeight: '1.5rem',
                   overflow: 'visible'
                 }}
               >
@@ -152,11 +154,7 @@ export default function FlashCard({
             {/* 발음 */}
             {word.korean && (
               <div className="flex items-center gap-2 mb-1">
-                <div
-                  className={`text-sm font-bold ${
-                    darkMode ? 'text-purple-300' : 'text-purple-700'
-                  }`}
-                >
+                <div className="text-sm font-bold text-purple-200 drop-shadow">
                   [{word.korean}]
                 </div>
                 <button
@@ -164,11 +162,7 @@ export default function FlashCard({
                     e.stopPropagation();
                     speakHebrew(word.hebrew);
                   }}
-                  className={`p-1.5 rounded-lg ${
-                    darkMode
-                      ? 'bg-purple-600 hover:bg-purple-700'
-                      : 'bg-purple-500 hover:bg-purple-600'
-                  } text-white transition-all`}
+                  className="p-1.5 rounded-lg bg-purple-600/80 hover:bg-purple-700 text-white transition-all backdrop-blur-sm"
                   aria-label="발음 듣기"
                 >
                   <Volume2 className="w-4 h-4" />
@@ -177,11 +171,7 @@ export default function FlashCard({
             )}
 
             {/* 탭 안내 */}
-            <div
-              className={`text-xs ${
-                darkMode ? 'text-gray-400' : 'text-gray-600'
-              }`}
-            >
+            <div className="text-xs text-white/70 drop-shadow">
               더블 탭하여 뜻 보기
             </div>
           </div>
@@ -214,25 +204,25 @@ export default function FlashCard({
             />
           </div>
 
-          {/* 하단 뜻 영역 (30% 높이) - 품사 색상 독립 */}
-          <div className={`relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 ${
-            darkMode ? 'bg-gray-900' : 'bg-white'
-          }`}>
-            {/* 한국어 뜻 */}
+          {/* 하단 뜻 영역 (30% 높이) - 투명 + 반투명 오버레이 */}
+          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 bg-black/10 backdrop-blur-sm">
+            {/* 히브리어 원문 */}
             <div
-              className={`text-2xl sm:text-3xl font-bold mb-2 text-center ${
-                darkMode ? 'text-blue-100' : 'text-blue-900'
-              }`}
+              className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
+              dir="rtl"
             >
+              {word.hebrew}
+            </div>
+
+            {/* 한국어 뜻 */}
+            <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white drop-shadow-lg">
               {word.meaning}
             </div>
 
             {/* 어근 */}
             {word.root && (
               <div
-                className={`text-sm ${
-                  darkMode ? 'text-amber-300' : 'text-amber-700'
-                }`}
+                className="text-sm text-amber-200 drop-shadow"
                 dir="rtl"
               >
                 🌱 {word.root}
@@ -240,11 +230,7 @@ export default function FlashCard({
             )}
 
             {/* 구절 참조 */}
-            <div
-              className={`text-xs mt-2 ${
-                darkMode ? 'text-gray-400' : 'text-gray-600'
-              }`}
-            >
+            <div className="text-xs mt-2 text-white/70 drop-shadow">
               📖 {reference}
             </div>
           </div>

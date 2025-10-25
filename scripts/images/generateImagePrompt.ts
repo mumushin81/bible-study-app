@@ -244,6 +244,32 @@ Refined abstract symbolism of divine expression
 Gallery-quality metaphysical artistry`
   }
 
+  // 목적격 조사 (אֵת)
+  if (meaningLower.includes('목적격') || meaningLower.includes('조사') || meaning === '~을/를 (목적격 표지)') {
+    return `Sophisticated flowing arrow composition - directional movement
+Professional watercolor: DIVERSE GENTLE COLORS - soft blue, mint, lavender,
+peach, cream flowing from left to right
+Masterful curved arrow or ribbon shape suggesting direction and flow
+Elegant movement lines with soft gradients
+Advanced color transitions creating sense of purposeful direction
+Poetic visual metaphor for grammatical connection
+Refined abstract representation of linking and directing
+Museum-quality minimalist artistry with chromatic flow`
+  }
+
+  // 접속사 (וְאֵת - 그리고)
+  if (meaningLower.includes('접속사') || meaningLower.includes('그리고') || meaning.includes('그리고')) {
+    return `Sophisticated connection composition - two elements joining
+Professional watercolor: DIVERSE BRIGHT COLORS - baby pink, sky blue,
+sunny yellow, mint green connecting and intertwining
+Masterful flowing ribbons or curves meeting and merging
+Elegant bridge-like forms with harmonious color blending
+Advanced layering showing unity and addition
+Poetic visual metaphor for connection and continuation
+Refined abstract representation of joining forces
+Gallery-quality artistry celebrating union through diverse colors`
+  }
+
   // 기본 설명 (특정 키워드 매칭 안될 경우)
   return `Sophisticated minimalist composition representing ${meaning}
 Professional watercolor: refined essential forms
