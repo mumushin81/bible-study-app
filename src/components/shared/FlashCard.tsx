@@ -124,10 +124,14 @@ export default function FlashCard({
           <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${
             darkMode ? 'bg-gray-900/80' : 'bg-white/80'
           } backdrop-blur-sm`}>
-            {/* 알파벳 읽기 */}
+            {/* 알파벳 읽기 - 동적 폰트 크기 */}
             {word.letters && (
               <div
-                className={`text-base font-semibold mb-1 px-3 py-1 rounded-lg ${
+                className={`${
+                  word.letters.length <= 15 ? 'text-base' :
+                  word.letters.length <= 25 ? 'text-sm' :
+                  word.letters.length <= 35 ? 'text-xs' : 'text-[10px]'
+                } font-semibold mb-1 px-3 py-1 rounded-lg max-w-full break-words text-center ${
                   darkMode
                     ? 'bg-emerald-900/30 text-emerald-200 border border-emerald-700/50'
                     : 'bg-emerald-50 text-emerald-800 border border-emerald-200'
