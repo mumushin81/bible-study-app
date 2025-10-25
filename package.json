@@ -29,6 +29,9 @@
     "icon:batch": "tsx scripts/icons/generateIcon.ts --batch",
     "icon:validate": "node scripts/validate-svg-icons.cjs",
     "icon:analyze": "node scripts/analyze-svg-consistency.cjs",
+    "image:generate": "tsx scripts/images/generateImage.ts",
+    "image:test": "tsx scripts/images/generateImage.ts --test",
+    "image:batch": "tsx scripts/images/generateImage.ts --batch",
     "migrate:vocabulary": "tsx scripts/migrations/runVocabularyMigrationSimple.ts",
     "migrate:unify": "tsx scripts/migrations/unifyDataFormat.ts",
     "migrate:normalize": "tsx scripts/migrations/normalizeSchema.ts",
@@ -62,6 +65,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-swipeable": "^7.0.2",
+    "replicate": "^1.3.1",
     "uuid": "^13.0.0",
     "xml2js": "^0.6.2",
     "zustand": "^4.5.0"
