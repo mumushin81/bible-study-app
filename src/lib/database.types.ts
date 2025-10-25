@@ -496,6 +496,7 @@ export type Database = {
           grammar: string
           hebrew: string
           icon_svg: string | null
+          icon_url: string | null  // ✨ 추가
           id: string
           ipa: string
           korean: string
@@ -513,6 +514,7 @@ export type Database = {
           grammar: string
           hebrew: string
           icon_svg?: string | null
+          icon_url?: string | null  // ✨ 추가
           id?: string
           ipa: string
           korean: string
@@ -530,6 +532,7 @@ export type Database = {
           grammar?: string
           hebrew?: string
           icon_svg?: string | null
+          icon_url?: string | null  // ✨ 추가
           id?: string
           ipa?: string
           korean?: string

@@ -110,6 +110,7 @@ export default function FlashCard({
             <div className="flex justify-center w-20 h-20 sm:w-24 sm:h-24 md:w-28 md:h-28 flex-shrink-0">
               <HebrewIcon
                 word={word.hebrew}
+                iconUrl={word.iconUrl}  // ✨ 추가
                 iconSvg={word.iconSvg}
                 size={112}
                 color={darkMode ? '#ffffff' : '#1f2937'}
@@ -193,6 +194,7 @@ export default function FlashCard({
             <div className="flex justify-center w-16 h-16 sm:w-20 sm:h-20 md:w-24 md:h-24 flex-shrink-0">
               <HebrewIcon
                 word={word.hebrew}
+                iconUrl={word.iconUrl}  // ✨ 추가
                 iconSvg={word.iconSvg}
                 size={96}
                 color={darkMode ? '#ffffff' : '#1f2937'}

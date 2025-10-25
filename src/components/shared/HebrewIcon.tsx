@@ -4,16 +4,41 @@ import { FileText } from 'lucide-react';
 
 interface HebrewIconProps extends IconProps {
   word: string;
-  iconSvg?: string; // 커스텀 SVG 코드
+  iconSvg?: string; // 레거시 SVG 코드 (fallback)
+  iconUrl?: string; // ✨ JPG 이미지 URL (우선순위 1)
 }
 
 const HebrewIcon: React.FC<HebrewIconProps> = ({
   word,
   iconSvg,
+  iconUrl,  // ✨ 새 prop 추가
   size = 32,
   className = '',
   color = 'currentColor'
 }) => {
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // 우선순위 1: JPG 이미지 (iconUrl)
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  if (iconUrl) {
+    return (
+      <img
+        src={iconUrl}
+        alt={word}
+        className={className}
+        style={{
+          width: `${size}px`,
+          height: `${size}px`,
+          objectFit: 'cover',
+          borderRadius: '8px'  // 부드러운 모서리
+        }}
+        loading="lazy"  // 성능 최적화
+      />
+    );
+  }
+
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // 우선순위 2: SVG (레거시 fallback)
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // React 18 useId: SSR/Hydration safe, deterministic
   const reactId = useId();
 

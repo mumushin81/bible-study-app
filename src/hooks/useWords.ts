@@ -49,6 +49,7 @@ export function useWords(options?: UseWordsOptions) {
             letters,
             root,
             grammar,
+            icon_url,
             icon_svg,
             category,
             position,
@@ -107,6 +108,7 @@ export function useWords(options?: UseWordsOptions) {
               letters: item.letters || undefined,
               root: item.root,
               grammar: item.grammar,
+              iconUrl: item.icon_url || undefined,  // ✨ 추가
               iconSvg: item.icon_svg || undefined,
               category: item.category as any || undefined,
               verseReference: verse.reference,
