@@ -70,7 +70,7 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute inset-0 flex items-center justify-center z-0 pointer-events-none"
+          className="absolute inset-0 flex items-center justify-center z-0 pointer-events-none rounded-2xl overflow-hidden"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
@@ -128,11 +128,11 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (80% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
-          <div className="relative w-full h-[80%] flex-shrink-0" />
+          {/* 이미지 영역 (70% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[70%] flex-shrink-0" />
 
-          {/* 하단 컨텐츠 영역 (20% 높이) - 반투명 오버레이 (blur 제거) */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-black/30 pointer-events-auto z-10">
+          {/* 하단 컨텐츠 영역 (30% 높이) - 반투명 오버레이 (blur 제거) */}
+          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-4 py-2 bg-black/30 pointer-events-auto z-10">
             {/* 히브리어 원문 */}
             <div
               className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
