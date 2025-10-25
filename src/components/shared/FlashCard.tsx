@@ -68,7 +68,25 @@ export default function FlashCard({
           transform: isFlipped ? 'rotateY(180deg)' : 'rotateY(0deg)',
         }}
       >
-        {/* 앞면 - 이미지 위주 */}
+        {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
+        <div
+          className="absolute inset-0 flex items-center justify-center z-10 pointer-events-none"
+          style={{
+            isolation: 'isolate',
+            willChange: 'contents',
+          }}
+        >
+          <HebrewIcon
+            word={word.hebrew}
+            iconUrl={word.iconUrl}
+            iconSvg={word.iconSvg}
+            size={512}
+            color={darkMode ? '#ffffff' : '#1f2937'}
+            className="w-[85%] h-[85%] object-contain"
+          />
+        </div>
+
+        {/* 앞면 - 텍스트 및 버튼만 */}
         <div
           className={`absolute inset-0 rounded-2xl overflow-hidden ${
             word.grammar
@@ -80,10 +98,12 @@ export default function FlashCard({
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
+            isolation: 'isolate',
+            transform: 'translateZ(0)',
           }}
         >
           {/* 상단 버튼들 */}
-          <div className="absolute top-0 left-0 right-0 z-20 flex items-center justify-between p-3">
+          <div className="absolute top-0 left-0 right-0 z-20 flex items-center justify-between p-3 pointer-events-auto">
             {/* 품사 표시 */}
             {word.grammar && grammarColors && (
               <div className={`px-3 py-1 rounded-full text-xs font-semibold backdrop-blur-sm ${
@@ -108,20 +128,11 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (80% 높이) */}
-          <div className="relative w-full h-[80%] flex-shrink-0">
-            <HebrewIcon
-              word={word.hebrew}
-              iconUrl={word.iconUrl}
-              iconSvg={word.iconSvg}
-              size={512}
-              color={darkMode ? '#ffffff' : '#1f2937'}
-              className="w-full h-full object-cover"
-            />
-          </div>
+          {/* 이미지 영역 (80% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[80%] flex-shrink-0" />
 
           {/* 하단 컨텐츠 영역 (20% 높이) - 투명 + 반투명 오버레이 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-black/10 backdrop-blur-sm">
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-black/10 backdrop-blur-sm pointer-events-auto">
             {/* 히브리어 원문 */}
             <div
               className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
@@ -177,43 +188,27 @@ export default function FlashCard({
           </div>
         </div>
 
-        {/* 뒷면 - 이미지 + 뜻 */}
+        {/* 뒷면 - 뜻 표시 (배경색 약간 다르게) */}
         <div
           className={`absolute inset-0 rounded-2xl overflow-hidden ${
             word.grammar
-              ? getGrammarCardBackground(word.grammar, darkMode)
+              ? getGrammarCardBackground(word.grammar, darkMode).replace('from-', 'from-opacity-90 from-')
               : darkMode
-                ? 'bg-gradient-to-br from-gray-800 to-gray-900 border-gray-700'
-                : 'bg-gradient-to-br from-white to-gray-50 border-gray-200'
+                ? 'bg-gradient-to-br from-gray-900 to-black border-gray-600'
+                : 'bg-gradient-to-br from-gray-50 to-white border-gray-300'
           } border-2 shadow-lg flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
-            transform: 'rotateY(180deg)',
+            transform: 'rotateY(180deg) translateZ(0)',
+            isolation: 'isolate',
           }}
         >
-          {/* 이미지 영역 (70% 높이) */}
-          <div className="relative w-full h-[70%] flex-shrink-0">
-            <HebrewIcon
-              word={word.hebrew}
-              iconUrl={word.iconUrl}
-              iconSvg={word.iconSvg}
-              size={512}
-              color={darkMode ? '#ffffff' : '#1f2937'}
-              className="w-full h-full object-cover"
-            />
-          </div>
+          {/* 이미지 영역 (70% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[70%] flex-shrink-0" />
 
           {/* 하단 뜻 영역 (30% 높이) - 투명 + 반투명 오버레이 */}
-          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 bg-black/10 backdrop-blur-sm">
-            {/* 히브리어 원문 */}
-            <div
-              className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
-              dir="rtl"
-            >
-              {word.hebrew}
-            </div>
-
+          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 bg-black/20 backdrop-blur-sm pointer-events-auto">
             {/* 한국어 뜻 */}
             <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white drop-shadow-lg">
               {word.meaning}
@@ -222,7 +217,7 @@ export default function FlashCard({
             {/* 어근 */}
             {word.root && (
               <div
-                className="text-sm text-amber-200 drop-shadow"
+                className="text-sm text-amber-200 drop-shadow mb-1"
                 dir="rtl"
               >
                 🌱 {word.root}
@@ -230,7 +225,7 @@ export default function FlashCard({
             )}
 
             {/* 구절 참조 */}
-            <div className="text-xs mt-2 text-white/70 drop-shadow">
+            <div className="text-xs mt-1 text-white/70 drop-shadow">
               📖 {reference}
             </div>
           </div>
