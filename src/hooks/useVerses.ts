@@ -22,6 +22,7 @@ interface VerseWithWords {
     korean: string
     root: string
     grammar: string
+    icon_url: string | null
     icon_svg: string | null
     letters: string | null
     category: string | null
@@ -81,6 +82,7 @@ export function useVerses(options?: UseVersesOptions) {
               korean,
               root,
               grammar,
+              icon_url,
               icon_svg,
               letters,
               category,
@@ -161,6 +163,7 @@ export function useVerses(options?: UseVersesOptions) {
                 letters: w.letters || undefined,
                 root: w.root,
                 grammar: w.grammar,
+                iconUrl: w.icon_url || undefined,
                 iconSvg: w.icon_svg || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
               }
