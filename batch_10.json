@@ -1,0 +1,128 @@
+[
+  {
+    "id": "eb4af59e-a5e9-4afc-b451-bf389c99b7ed",
+    "hebrew": "וְהָיוּ",
+    "meaning": "그리고 있을 것이다, 될 것이다",
+    "korean": "베하유",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "ef230cf2-a5af-4cfc-9b4e-430bd2631410",
+    "hebrew": "יִקָּווּ",
+    "meaning": "모이라, 모여라",
+    "korean": "이카부",
+    "grammar": "동사",
+    "root": "ק-ו-ה (카바)",
+    "verse_reference": "창세기 1:9"
+  },
+  {
+    "id": "ef9967f1-bcbd-41f8-813a-3eec6eed4d8b",
+    "hebrew": "עַל",
+    "meaning": "~위에, ~에",
+    "korean": "알",
+    "grammar": "전치사",
+    "root": "עַל (알)",
+    "verse_reference": "창세기 1:15"
+  },
+  {
+    "id": "efa2e362-885a-496d-8357-55ccbd1d5a32",
+    "hebrew": "לָכֶם",
+    "meaning": "너희에게",
+    "korean": "라켐",
+    "grammar": "전치사",
+    "root": "לְ (레)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "f03257a9-2ebb-47df-ac96-ae4c9677a1fe",
+    "hebrew": "בַּיַּמִּים",
+    "meaning": "바다들에서",
+    "korean": "바야밈",
+    "grammar": "명사",
+    "root": "יָם (얌)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "f16ffb84-f489-4a15-8b3a-d9505ec1b9d0",
+    "hebrew": "וּרְבוּ",
+    "meaning": "그리고 번성하라",
+    "korean": "우르부",
+    "grammar": "동사",
+    "root": "ר-ב-ה (라바)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "f22cefca-37f4-451f-a746-340a4b4cbf38",
+    "hebrew": "הַיַּבָּשָׁה",
+    "meaning": "마른 땅",
+    "korean": "하야바샤",
+    "grammar": "명사",
+    "root": "יָבֵשׁ (야베쉬)",
+    "verse_reference": "창세기 1:9"
+  },
+  {
+    "id": "f23c95de-0941-4de5-b7fb-a88e2462b992",
+    "hebrew": "שֶׁרֶץ",
+    "meaning": "떼를 지어 움직이는 것, 군집 생물",
+    "korean": "쉐레츠",
+    "grammar": "명사",
+    "root": "שׁ-ר-צ (샤라츠)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "f2d4d7ff-f087-4497-ae50-fa87747fb994",
+    "hebrew": "וּבֵין הַלָּיְלָה",
+    "meaning": "그리고 밤 사이에",
+    "korean": "우벤 할라일라",
+    "grammar": "명사",
+    "root": "לַיְלָה (라일라)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "f470f34c-0c7b-4f38-95b9-9e0d4b2d483d",
+    "hebrew": "עֵשֶׂב",
+    "meaning": "채소, 풀",
+    "korean": "에세브",
+    "grammar": "명사",
+    "root": "עֵשֶׂב (에세브)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "f5598b08-1943-462d-a549-03034477115f",
+    "hebrew": "וְאֵת",
+    "meaning": "그리고 ~을/를",
+    "korean": "베에트",
+    "grammar": "접속사",
+    "root": "וְ + אֵת (베 + 에트)",
+    "verse_reference": "창세기 1:1"
+  },
+  {
+    "id": "fc838ab4-01e8-4796-a6d5-de0ebd2d0056",
+    "hebrew": "רָקִיעַ",
+    "meaning": "창공, 궁창",
+    "korean": "라키아",
+    "grammar": "명사",
+    "root": "ר-ק-ע (라카)",
+    "verse_reference": "창세기 1:6"
+  },
+  {
+    "id": "fe616100-28b2-4733-a1d7-cec098540e92",
+    "hebrew": "לְמֶמְשֶׁלֶת הַיּוֹם",
+    "meaning": "낮을 주관하기 위하여",
+    "korean": "레멤쉘레트 하욤",
+    "grammar": "명사",
+    "root": "מ-שׁ-ל (마샬 - 다스리다)",
+    "verse_reference": "창세기 1:16"
+  },
+  {
+    "id": "fee519ca-3132-43ab-98db-cf30a60e4ede",
+    "hebrew": "וּלְיָמִים",
+    "meaning": "그리고 날들을 위하여",
+    "korean": "울야밈",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "창세기 1:14"
+  }
+]

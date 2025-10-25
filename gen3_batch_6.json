@@ -1,0 +1,186 @@
+{
+  "batch": 6,
+  "count": 20,
+  "words": [
+    {
+      "id": "d25c2184-d9e2-4d19-90c7-64ed9349071f",
+      "hebrew": "וִהְיִיתֶם כֵּאלֹהִים",
+      "meaning": "하나님과 같이 될 것이다",
+      "korean": "비흐이템 케엘로힘",
+      "grammar": "동사",
+      "root": "ה-י-ה (하야) + כְּ (케) + אֱלֹהִים (엘로힘)",
+      "verse_reference": "genesis_3_5"
+    },
+    {
+      "id": "179634c9-5d6c-440f-9833-483f720c8d82",
+      "hebrew": "נֶחְמָד לְהַשְׂכִּיל",
+      "meaning": "지혜롭게 할 만큼 탐스러워",
+      "korean": "네흐마드 레하스킬",
+      "grammar": "형용사",
+      "root": "ח-מ-ד (하마드), שׂ-כ-ל (사칼)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "35941256-81ad-43d9-8d33-c14f2f043970",
+      "hebrew": "עֵירֹם",
+      "meaning": "벗었다는 것",
+      "korean": "에롬",
+      "grammar": "형용사",
+      "root": "ע-ר-ם (아람)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "856783fe-299d-490d-90a5-0046ef2c53e8",
+      "hebrew": "עֵירֻמִּם",
+      "meaning": "벗은, 나체의",
+      "korean": "에이루밈",
+      "grammar": "형용사",
+      "root": "ע-ר-ם (아람)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "94e0d0a6-1109-43a9-b8eb-d8ce9751dcc6",
+      "hebrew": "וַיִּתְפְּרוּ",
+      "meaning": "그리고 엮었다, 꿰매었다",
+      "korean": "바이트페루",
+      "grammar": "동사",
+      "root": "ת-פ-ר (타파르)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "ab0fe6f6-3b50-44a1-9c5d-d0cbf0cd0551",
+      "hebrew": "אָתָּה",
+      "meaning": "네가",
+      "korean": "아타",
+      "grammar": "대명사",
+      "root": "אַתָּה (아타)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "ddac716b-950b-44dc-b31e-cd6223d77a47",
+      "hebrew": "נָתְנָה-לִּי",
+      "meaning": "내게 주었다",
+      "korean": "나트나 리",
+      "grammar": "동사",
+      "root": "נ-ת-ן (나탄)",
+      "verse_reference": "genesis_3_12"
+    },
+    {
+      "id": "528375d9-4848-4ec2-a4d5-6be1189d9b4c",
+      "hebrew": "וְאַתָּה תְּשׁוּפֶנּוּ עָקֵב",
+      "meaning": "너는 그의 발꿈치를 상하게 할 것이니라",
+      "korean": "베아타 테슈페누 아케브",
+      "grammar": "동사",
+      "root": "אַתָּה (아타) + שׁ-ו-ף (슈프) + עָקֵב (아케브)",
+      "verse_reference": "genesis_3_15"
+    },
+    {
+      "id": "b42976fa-2241-40b9-b80c-b94feee143f0",
+      "hebrew": "כִּי-עָפָר אַתָּה",
+      "meaning": "너는 흙이기 때문이다",
+      "korean": "키 아파르 아타",
+      "grammar": "명사",
+      "root": "כִּי (키) + עָפָר (아파르) + אַתָּה (아타)",
+      "verse_reference": "genesis_3_19"
+    },
+    {
+      "id": "b93b14bb-06ab-4d03-b0fb-6e6a46867a7e",
+      "hebrew": "אֲשֶׁר צִוִּיתִיךָ",
+      "meaning": "내가 네게 명령한",
+      "korean": "아쉐르 치비티카",
+      "grammar": "동사",
+      "root": "אֲשֶׁר (아쉐르) + צ-ו-ה (차바)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "496c4dc0-d91a-466f-8d68-496af493102f",
+      "hebrew": "כִּי-עֵירֹם אָנֹכִי",
+      "meaning": "내가 벗었기 때문에",
+      "korean": "키 에이롬 아노키",
+      "grammar": "형용사",
+      "root": "כִּי (키) + עֵירֹם (에이롬) + אָנֹכִי (아노키)",
+      "verse_reference": "genesis_3_10"
+    },
+    {
+      "id": "4e879027-d0db-4c4c-b227-74a05c6737ac",
+      "hebrew": "יֹדְעֵי טוֹב וָרָע",
+      "meaning": "선악을 아는 자",
+      "korean": "요데에 토브 바라",
+      "grammar": "명사",
+      "root": "י-ד-ע (야다) + טוֹב (토브) + רַע (라)",
+      "verse_reference": "genesis_3_5"
+    },
+    {
+      "id": "0e2ef166-0d45-4765-a637-b4f35421c38a",
+      "hebrew": "וַתִּקַּח",
+      "meaning": "그리고 따서",
+      "korean": "바티카흐",
+      "grammar": "동사",
+      "root": "ל-ק-ח (라카흐)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "e9ec88ab-9b2b-4624-a8d2-4e856eb90e5d",
+      "hebrew": "וְאֵת לַהַט הַחֶרֶב הַמִּתְהַפֶּכֶת",
+      "meaning": "그리고 회전하는 불칼을",
+      "korean": "베에트 라하트 하헤레브 하미트하페켓",
+      "grammar": "명사",
+      "root": "לַהַט (라하트) + חֶרֶב (헤레브) + ה-פ-ךְ (하파크)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "d3046b77-246c-4142-a58a-f763b8eff8d2",
+      "hebrew": "אֶת-עֵשֶׂב הַשָּׂדֶה",
+      "meaning": "들의 채소를",
+      "korean": "에트 에세브 하사데",
+      "grammar": "명사",
+      "root": "עֵשֶׂב (에세브) + שָׂדֶה (사데)",
+      "verse_reference": "genesis_3_18"
+    },
+    {
+      "id": "7562529d-4e72-4f3e-bac3-69bf47a0d81c",
+      "hebrew": "הִשִּׁיאַנִי",
+      "meaning": "나를 속였다, 꾀었다",
+      "korean": "히쉬아니",
+      "grammar": "동사",
+      "root": "נ-שׁ-א (나샤)",
+      "verse_reference": "genesis_3_13"
+    },
+    {
+      "id": "febd7f63-6638-4cf6-aa3d-2cd01c7367f6",
+      "hebrew": "נֹאכֵל",
+      "meaning": "우리가 먹는다",
+      "korean": "노켈",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_2"
+    },
+    {
+      "id": "0ae08f63-74ad-4dc5-be43-06fc0e1943b5",
+      "hebrew": "עַל-גְּחֹנְךָ תֵלֵךְ",
+      "meaning": "너는 배로 다닐 것이다",
+      "korean": "알 게호네하 텔레크",
+      "grammar": "동사",
+      "root": "עַל (알) + גָּחוֹן (가혼) + ה-ל-ךְ (할라크)",
+      "verse_reference": "genesis_3_14"
+    },
+    {
+      "id": "3fa0ce8c-7ebd-4a92-a3e8-4648baf8ecb6",
+      "hebrew": "כִּי",
+      "meaning": "왜냐하면, ~때문에",
+      "korean": "키",
+      "grammar": "접속사",
+      "root": "כִּי (키)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "757e48c1-7b35-4cae-ad80-d20d36a676b7",
+      "hebrew": "פֶּן-יִשְׁלַח יָדוֹ",
+      "meaning": "그가 손을 내밀까 하여",
+      "korean": "펜 이슐라흐 야도",
+      "grammar": "동사",
+      "root": "פֶּן (펜) + שׁ-ל-ח (샬라흐) + יָד (야드)",
+      "verse_reference": "genesis_3_22"
+    }
+  ]
+}

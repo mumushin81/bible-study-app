@@ -1,0 +1,146 @@
+[
+  {
+    "id": "33f0a2c4-8dcb-4e6f-bbe7-dc63c1c933cf",
+    "hebrew": "הָרְבִיעִי",
+    "meaning": "넷째",
+    "korean": "하레비이",
+    "grammar": "형용사",
+    "root": "אַרְבַּע (arba)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "51012142-71cc-421e-9c65-7a3a0c6a258f",
+    "hebrew": "נֶפֶשׁ חַיָּה",
+    "meaning": "생물, 살아있는 존재",
+    "korean": "네페쉬 하야",
+    "grammar": "명사",
+    "root": "נפש (네페쉬) + חיה (하야)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "e7986d2a-a92c-4b1d-bdb2-8dfc736cfbb7",
+    "hebrew": "אֲשֶׁר בָּרָא",
+    "meaning": "창조하신",
+    "korean": "아셰르 바라",
+    "grammar": "동사",
+    "root": "ב-ר-א (바라)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "0ce894b4-ea6a-41fe-b405-40f045b72cf0",
+    "hebrew": "תַּחְתֶּנָּה",
+    "meaning": "그것 대신에",
+    "korean": "타흐테나",
+    "grammar": "전치사",
+    "root": "תַּחַת (타하트)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "c6220af5-6b71-4be8-8a7c-92389df62cde",
+    "hebrew": "לַעֲשׂוֹת",
+    "meaning": "만들기 위하여",
+    "korean": "라아소트",
+    "grammar": "동사",
+    "root": "ע-שׂ-ה (아사)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "a884d181-fc2f-43ac-bd85-a86f39c937ae",
+    "hebrew": "פְרָת",
+    "meaning": "유프라테스 강",
+    "korean": "프라트",
+    "grammar": "명사",
+    "root": "פְרָת (perat)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "a91e3027-2fb4-4d51-9c8e-07bd426ac8d9",
+    "hebrew": "שְׁמוֹ",
+    "meaning": "그의 이름",
+    "korean": "쉐모",
+    "grammar": "명사",
+    "root": "שֵׁם (셈)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "dd1bc010-adc3-4138-a8ea-ad4577e50c1e",
+    "hebrew": "עַל־הָאָרֶץ",
+    "meaning": "땅 위에",
+    "korean": "알 하아레츠",
+    "grammar": "전치사",
+    "root": "עַל (알)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "29195749-fcf8-4a65-b36a-3654e0c67d9c",
+    "hebrew": "עֵץ הַדַּעַת",
+    "meaning": "지식의 나무, 선악을 알게 하는 나무",
+    "korean": "에츠 하다아트",
+    "grammar": "명사",
+    "root": "עֵץ (에츠) + י-ד-ע (야다)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "84ae8974-014e-4594-ba45-56546c7a112a",
+    "hebrew": "וַיְהִי",
+    "meaning": "되었다",
+    "korean": "바예히",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "c85759b2-f186-4518-a54c-e93c7b0a5a0e",
+    "hebrew": "לְנֶפֶשׁ",
+    "meaning": "존재로, 영혼으로",
+    "korean": "레네페쉬",
+    "grammar": "명사",
+    "root": "נֶפֶשׁ (네페쉬)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "15a0bac7-f62a-49ba-9ce3-2245e7c0a002",
+    "hebrew": "וְאָדָם אַיִן",
+    "meaning": "그리고 사람이 없었다",
+    "korean": "베아담 아인",
+    "grammar": "명사",
+    "root": "אָדָם (아담) + אַיִן (아인)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "ec245237-e32d-41f0-b250-8b450b3cacda",
+    "hebrew": "חַיָּה",
+    "meaning": "살아있는",
+    "korean": "하야",
+    "grammar": "형용사",
+    "root": "ח-י-ה (하야)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "429a5938-4f98-42b9-adcb-10c07ae864bf",
+    "hebrew": "טוֹב וָרָע",
+    "meaning": "선과 악",
+    "korean": "토브 바라",
+    "grammar": "명사",
+    "root": "ט-ו-ב (토브) + ר-ע-ע (라아)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "8f48e8f0-7d73-490c-a1ae-1ee3583015df",
+    "hebrew": "לַעֲבֹד",
+    "meaning": "경작하다, 섬기다",
+    "korean": "라아보드",
+    "grammar": "동사",
+    "root": "ע-ב-ד (아바드)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "4a97a9f2-a2cd-4717-88fa-a7ef3d7a57d6",
+    "hebrew": "אֶת־הָאֲדָמָה",
+    "meaning": "땅을, 흙을",
+    "korean": "에트 하아다마",
+    "grammar": "명사",
+    "root": "אֲדָמָה (아다마)",
+    "verse_reference": "genesis_2_5"
+  }
+]

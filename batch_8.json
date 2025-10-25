@@ -1,0 +1,146 @@
+[
+  {
+    "id": "c7921a99-5db1-4254-8512-c2f35e446513",
+    "hebrew": "לְאֹתֹת",
+    "meaning": "징조들을 위하여",
+    "korean": "레오토트",
+    "grammar": "명사",
+    "root": "א-ו-ת (오트)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "c8215e34-9e68-4517-888f-9c9301450774",
+    "hebrew": "וּרְדוּ",
+    "meaning": "그리고 다스리라",
+    "korean": "우르두",
+    "grammar": "동사",
+    "root": "ר-ד-ה (라다)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "c9e3b42b-272d-4616-952d-16366aa32139",
+    "hebrew": "רוּחַ אֱלֹהִים",
+    "meaning": "하나님의 영",
+    "korean": "루아흐 엘로힘",
+    "grammar": "명사",
+    "root": "רוּחַ (루아흐) + אֱלֹהִים (엘로힘)",
+    "verse_reference": "창세기 1:2"
+  },
+  {
+    "id": "cc84c10a-680e-4e98-afba-a5e731117965",
+    "hebrew": "וְעֵץ עֹשֶׂה-פְּרִי",
+    "meaning": "열매 맺는 나무",
+    "korean": "베에츠 오세 페리",
+    "grammar": "명사",
+    "root": "עֵץ (에츠)",
+    "verse_reference": "창세기 1:12"
+  },
+  {
+    "id": "cd519d07-3749-4b30-b298-f5425a1259db",
+    "hebrew": "י֥וֹם",
+    "meaning": "날, 하루",
+    "korean": "욤",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "창세기 1:13"
+  },
+  {
+    "id": "cf0031d4-26a7-4b7e-8f59-97abee054ec9",
+    "hebrew": "יוֹם שֵׁנִי",
+    "meaning": "둘째 날",
+    "korean": "욤 쉐니",
+    "grammar": "명사",
+    "root": "יוֹם (욤) + שְׁנַיִם (슈나임)",
+    "verse_reference": "창세기 1:8"
+  },
+  {
+    "id": "d07b3b8b-b2b9-4499-9000-82de262e5c7b",
+    "hebrew": "לְאָכְלָה",
+    "meaning": "먹이로, 음식으로",
+    "korean": "레오클라",
+    "grammar": "명사",
+    "root": "א-כ-ל (아칼)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "d0c393be-afe7-44ea-9af2-8b04aba6aef0",
+    "hebrew": "הַמָּאוֹר הַקָּטֹן",
+    "meaning": "작은 광명체",
+    "korean": "함아오르 하카톤",
+    "grammar": "명사",
+    "root": "אוֹר (오르 - 빛)",
+    "verse_reference": "창세기 1:16"
+  },
+  {
+    "id": "d5a2dfd4-75ec-4958-98da-a4740aff397e",
+    "hebrew": "כָל-הָאָרֶץ",
+    "meaning": "온 땅",
+    "korean": "콜 하아레츠",
+    "grammar": "명사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "d63fd64f-e5a6-4710-9a38-8929fed66c98",
+    "hebrew": "עֹשֶׂה פְּרִי",
+    "meaning": "열매 맺는",
+    "korean": "오세 페리",
+    "grammar": "동사",
+    "root": "ע-שׂ-ה (아사)",
+    "verse_reference": "창세기 1:11"
+  },
+  {
+    "id": "d6b3b76b-eed8-48d5-bfec-3208295b1f9e",
+    "hebrew": "וְיִרְדּוּ",
+    "meaning": "그리고 다스리게 하자",
+    "korean": "베이르두",
+    "grammar": "동사",
+    "root": "ר-ד-ה (라다)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "d6f33eb4-487e-4090-8d0b-0a5691c653d6",
+    "hebrew": "לָרָקִיעַ",
+    "meaning": "궁창에, 창공에",
+    "korean": "라라키아",
+    "grammar": "명사",
+    "root": "ר-ק-ע (라카)",
+    "verse_reference": "창세기 1:8"
+  },
+  {
+    "id": "d7f9ab2f-3f94-458c-b0f8-0db6bd3fa6bf",
+    "hebrew": "בְּתוֹךְ",
+    "meaning": "한가운데, 가운데",
+    "korean": "베토크",
+    "grammar": "전치사",
+    "root": "ת-ו-ך (타바크)",
+    "verse_reference": "창세기 1:6"
+  },
+  {
+    "id": "d82eda2e-675f-454f-9233-5f5c56513244",
+    "hebrew": "אֶת-כָּל-יֶרֶק עֵשֶׂב",
+    "meaning": "모든 푸른 풀을",
+    "korean": "에트 콜 예레크 에세브",
+    "grammar": "형용사",
+    "root": "יָרֹק (야로크)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "d8621df8-3cb9-4140-a6f5-a4820c0d6185",
+    "hebrew": "עֵץ פְּרִי",
+    "meaning": "열매 나무",
+    "korean": "에츠 페리",
+    "grammar": "명사",
+    "root": "עֵץ (에츠)",
+    "verse_reference": "창세기 1:11"
+  },
+  {
+    "id": "d92cda96-90f5-4eea-b474-ad4898654692",
+    "hebrew": "וְחֹשֶׁךְ",
+    "meaning": "그리고 어둠",
+    "korean": "베호쉐크",
+    "grammar": "명사",
+    "root": "חֹשֶׁךְ (호쉐크)",
+    "verse_reference": "창세기 1:2"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "id": "b00f67c4-1a35-4f42-8336-81f80c01e40d",
+    "hebrew": "וּבְעוֹף הַשָּׁמַיִם",
+    "meaning": "그리고 하늘의 새",
+    "korean": "우베오프 하샤마임",
+    "grammar": "명사",
+    "root": "עוֹף (오프) + שָׁמַיִם (샤마임)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "b23f0aea-7599-4105-bbe9-45fb220feab7",
+    "hebrew": "וַיְבָרֶךְ",
+    "meaning": "그리고 복을 주셨다",
+    "korean": "바예바레크",
+    "grammar": "동사",
+    "root": "ב-ר-ך (바라크)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "b27f0dfa-99e4-415f-bfc3-9a5e6d838c0b",
+    "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
+    "meaning": "하늘의 궁창에",
+    "korean": "비르키아 하샤마임",
+    "grammar": "명사",
+    "root": "רָקִיעַ (라키아) + שָׁמַיִם (샤마임)",
+    "verse_reference": "창세기 1:17"
+  },
+  {
+    "id": "b3d93092-c49f-4276-bdae-8310c9f0a55d",
+    "hebrew": "וּלְכָל-עוֹף הַשָּׁמַיִם",
+    "meaning": "그리고 하늘의 모든 새에게",
+    "korean": "울콜 오프 하샤마임",
+    "grammar": "명사",
+    "root": "עוֹף (오프)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "b3f39812-a5fc-4930-95f5-c59553a4a37c",
+    "hebrew": "בָּרָא אֹתָם",
+    "meaning": "그들을 창조하셨다",
+    "korean": "바라 오탐",
+    "grammar": "동사",
+    "root": "ב-ר-א (bara)",
+    "verse_reference": "창세기 1:27"
+  },
+  {
+    "id": "b6f06fa4-2fe9-4cb2-a15e-25851dc4420f",
+    "hebrew": "וַיְהִי-כֵן",
+    "meaning": "그리고 그대로 되었다",
+    "korean": "바예히 켄",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야) / כֵּן (켄)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "b77b5eec-89ba-4184-af1f-70a2c954c004",
+    "hebrew": "אֵת",
+    "meaning": "~을/를 (목적격 표지)",
+    "korean": "에트",
+    "grammar": "전치사",
+    "root": "אֵת (에트)",
+    "verse_reference": "창세기 1:1"
+  },
+  {
+    "id": "bba9e368-bc16-4494-b114-244d14e32806",
+    "hebrew": "כִּדְמוּתֵנוּ",
+    "meaning": "우리의 모양대로",
+    "korean": "키드무테누",
+    "grammar": "명사",
+    "root": "דְּמוּת (드무트)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "bce3470d-5ca4-4316-9005-236209017708",
+    "hebrew": "הָעֵץ",
+    "meaning": "나무",
+    "korean": "하에츠",
+    "grammar": "명사",
+    "root": "עֵץ (에츠)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "c03a72e5-7078-4501-aa17-3849aaa203af",
+    "hebrew": "וּבְכָל־חַיָּה",
+    "meaning": "그리고 모든 생물",
+    "korean": "우베콜 하야",
+    "grammar": "명사",
+    "root": "כֹּל (콜) + חַי (하이)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "c251945d-4377-482a-86ea-436a345d09c0",
+    "hebrew": "אֶת־הָאָרֶץ",
+    "meaning": "땅을",
+    "korean": "에트 하아레츠",
+    "grammar": "명사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "c3607234-8406-4dae-aeda-a16c78e0afd2",
+    "hebrew": "לְהַבְדִּיל",
+    "meaning": "나누기 위하여, 구별하기 위하여",
+    "korean": "레하브딜",
+    "grammar": "동사",
+    "root": "ב-ד-ל (바달)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "c361cda7-85a6-4266-8b64-af42a6d83113",
+    "hebrew": "לְהָאִיר",
+    "meaning": "비추기 위하여",
+    "korean": "레하이르",
+    "grammar": "동사",
+    "root": "א-ו-ר (아우르)",
+    "verse_reference": "창세기 1:15"
+  },
+  {
+    "id": "c520f823-3202-4219-ab60-184b2b7a8430",
+    "hebrew": "אֶת-הַתַּנִּינִם",
+    "meaning": "바다 괴물들을",
+    "korean": "에트 하타니님",
+    "grammar": "명사",
+    "root": "תַּנִּין (타닌)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "c6f3ee0c-11df-47b0-8759-23e654f09b0d",
+    "hebrew": "בְּרֵאשִׁית",
+    "meaning": "태초에, 처음에",
+    "korean": "베레쉬트",
+    "grammar": "명사",
+    "root": "רֵאשִׁית (레쉬트)",
+    "verse_reference": "창세기 1:1"
+  },
+  {
+    "id": "c7561a25-bc20-46d7-b85a-489b22569ba8",
+    "hebrew": "אֶת-הָאוֹר",
+    "meaning": "그 빛을",
+    "korean": "에트 하오르",
+    "grammar": "명사",
+    "root": "אוֹר (오르)",
+    "verse_reference": "창세기 1:4"
+  }
+]

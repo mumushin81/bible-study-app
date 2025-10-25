@@ -1,0 +1,191 @@
+[
+  {
+    "id": "d7b03ddf-c169-4093-babf-cd431c8130d5",
+    "hebrew": "טֶרֶם",
+    "meaning": "아직 ~하지 않았다",
+    "korean": "테렘",
+    "grammar": "부사",
+    "root": "טֶרֶם (테렘)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "286bb5f0-bea2-4b7f-8e20-1540eaf09e21",
+    "hebrew": "מִן-הָאֲדָמָה",
+    "meaning": "흙으로부터",
+    "korean": "민 하아다마",
+    "grammar": "전치사",
+    "root": "א-ד-ם (아담)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "ee0482f3-e6ce-48df-9bfe-f7be326827c3",
+    "hebrew": "וַיִּישָׁן",
+    "meaning": "그가 잠들었다",
+    "korean": "바이샨",
+    "grammar": "동사",
+    "root": "י-ש-ן (야샨)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "022a6e43-8e1e-494b-a566-1dff551b4e86",
+    "hebrew": "לֵאמֹר",
+    "meaning": "말씀하시기를",
+    "korean": "레모르",
+    "grammar": "동사",
+    "root": "א-מ-ר (아마르)",
+    "verse_reference": "genesis_2_16"
+  },
+  {
+    "id": "8922740e-b8ac-4a4d-89d8-ade066555818",
+    "hebrew": "לְכָל-הַבְּהֵמָה",
+    "meaning": "모든 가축에게",
+    "korean": "레콜 하베헤마",
+    "grammar": "명사",
+    "root": "בהם (베헴)",
+    "verse_reference": "genesis_2_20"
+  },
+  {
+    "id": "4d01b5e7-a489-41fd-8d68-ef6ca021e26d",
+    "hebrew": "מְלַאכְתּוֹ",
+    "meaning": "그의 일, 그의 사역",
+    "korean": "믈라흐토",
+    "grammar": "명사",
+    "root": "מ-ל-א-כ-ה (믈라카)",
+    "verse_reference": "genesis_2_2"
+  },
+  {
+    "id": "a30a0ce0-ac57-4fc7-a13d-71d50179d1a3",
+    "hebrew": "חִדֶּקֶל",
+    "meaning": "티그리스 강",
+    "korean": "힛데켈",
+    "grammar": "명사",
+    "root": "חִדֶּקֶל (chiddekel)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "2f3dbde2-093c-40b3-bb68-520180b37194",
+    "hebrew": "עֶצֶם מֵעֲצָמַי",
+    "meaning": "내 뼈에서 나온 뼈",
+    "korean": "에쳄 메아차마이",
+    "grammar": "명사",
+    "root": "ע-צ-ם (아참)",
+    "verse_reference": "genesis_2_23"
+  },
+  {
+    "id": "25425c61-46c5-4aa4-b6ca-67718484ba9d",
+    "hebrew": "וְהִשְׁקָה",
+    "meaning": "그리고 적시다, 물을 주다",
+    "korean": "베히쉬카",
+    "grammar": "동사",
+    "root": "ש-ק-ה (샤카)",
+    "verse_reference": "genesis_2_6"
+  },
+  {
+    "id": "209b600f-8355-44dc-b261-99453862596f",
+    "hebrew": "וָרָע",
+    "meaning": "그리고 악한",
+    "korean": "바라",
+    "grammar": "형용사",
+    "root": "רַע (라)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "69aa0acf-984f-4473-80b8-3c47d22ba970",
+    "hebrew": "וַיַּנִּחֵהוּ",
+    "meaning": "그리고 그를 두셨다, 안식하게 하셨다",
+    "korean": "바야니헤후",
+    "grammar": "동사",
+    "root": "נ-ו-ח (누아흐)",
+    "verse_reference": "genesis_2_15"
+  },
+  {
+    "id": "fbdd3aff-f129-44a8-be80-63937c2241a3",
+    "hebrew": "בְּהִבָּרְאָם",
+    "meaning": "그것들이 창조될 때",
+    "korean": "베히바레암",
+    "grammar": "동사",
+    "root": "ב-ר-א (바라)",
+    "verse_reference": "genesis_2_4"
+  },
+  {
+    "id": "fc2b3dc9-32b5-4510-b825-abc1ac815d7f",
+    "hebrew": "הַצֵּלָע",
+    "meaning": "갈비뼈",
+    "korean": "하첼라",
+    "grammar": "명사",
+    "root": "צֵלָע (첼라)",
+    "verse_reference": "genesis_2_22"
+  },
+  {
+    "id": "4ef2cda1-a98c-49cf-9268-b8a4b86fead3",
+    "hebrew": "וַיְקַדֵּשׁ",
+    "meaning": "거룩하게 하셨다, 구별하셨다",
+    "korean": "바예카데쉬",
+    "grammar": "동사",
+    "root": "ק-ד-שׁ (카다쉬)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "e6461c66-544d-44a9-96ac-8e1a3ded540d",
+    "hebrew": "הוּא",
+    "meaning": "그것은",
+    "korean": "후",
+    "grammar": "대명사",
+    "root": "ה-ו-א (후)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "b922628c-4f61-49ff-ad36-67d71228e026",
+    "hebrew": "כָּל-חַיַּת הַשָּׂדֶה",
+    "meaning": "모든 들짐승",
+    "korean": "콜 하야트 하사데",
+    "grammar": "명사",
+    "root": "ח-י-ה (하야) + שדה (사데)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "b2d059e8-e9e2-40ca-acc6-52a73a26fcfd",
+    "hebrew": "בְּעֵדֶן",
+    "meaning": "에덴에",
+    "korean": "베에덴",
+    "grammar": "명사",
+    "root": "עֵדֶן (에덴)",
+    "verse_reference": "genesis_2_8"
+  },
+  {
+    "id": "4b0d4961-8f73-4283-8371-e3f43e41bdf8",
+    "hebrew": "טוֹב",
+    "meaning": "좋은",
+    "korean": "토브",
+    "grammar": "형용사",
+    "root": "טוֹב (토브)",
+    "verse_reference": "genesis_2_12"
+  },
+  {
+    "id": "4cf475e9-bde0-4ae8-bac3-21073b1a9f43",
+    "hebrew": "לֹא-טוֹב",
+    "meaning": "좋지 않다",
+    "korean": "로 토브",
+    "grammar": "형용사",
+    "root": "טוֹב (토브)",
+    "verse_reference": "genesis_2_18"
+  },
+  {
+    "id": "b71f8cc2-88f8-4da0-8667-92a98f519b2b",
+    "hebrew": "כָּל-עֵץ",
+    "meaning": "모든 나무",
+    "korean": "콜 에츠",
+    "grammar": "명사",
+    "root": "כֹּל (콜) + עֵץ (에츠)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "0582078d-1f2f-495f-88f5-66e52e7cfbaf",
+    "hebrew": "יִהְיֶה",
+    "meaning": "있다, 존재하다",
+    "korean": "이흐예",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "genesis_2_5"
+  }
+]

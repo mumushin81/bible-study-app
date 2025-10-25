@@ -1,0 +1,191 @@
+[
+  {
+    "id": "caba56bf-757a-4478-8ceb-e68138f42593",
+    "hebrew": "מִן-הָאָדָם",
+    "meaning": "사람으로부터",
+    "korean": "민 하아담",
+    "grammar": "전치사",
+    "root": "א-ד-ם (아담)",
+    "verse_reference": "genesis_2_22"
+  },
+  {
+    "id": "37dc7ed9-1bf6-4df0-9d68-292096e317fb",
+    "hebrew": "וּלְכֹל חַיַּת הַשָּׂדֶה",
+    "meaning": "그리고 모든 들짐승에게",
+    "korean": "울콜 하야트 하사데",
+    "grammar": "명사",
+    "root": "ח-י-ה (하야) + שדה (사데)",
+    "verse_reference": "genesis_2_20"
+  },
+  {
+    "id": "2e7a44a4-dabe-4841-b2b3-3620736b5c75",
+    "hebrew": "מִמֶּנּוּ",
+    "meaning": "그것으로부터",
+    "korean": "미멘누",
+    "grammar": "전치사",
+    "root": "מִן (민)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "e604fea0-4387-4c3e-8007-d1c1e378136d",
+    "hebrew": "וְלֹא",
+    "meaning": "그리고 ~않았다",
+    "korean": "베로",
+    "grammar": "접속사",
+    "root": "לֹא (로)",
+    "verse_reference": "genesis_2_25"
+  },
+  {
+    "id": "9bde7663-dcf9-4299-aff8-27cb6cbfbcd2",
+    "hebrew": "אַחַת",
+    "meaning": "하나",
+    "korean": "아하트",
+    "grammar": "명사",
+    "root": "אֶחָד (에하드)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "2f2a9da2-038c-43ec-9f18-b0a155b37a51",
+    "hebrew": "עֵשֶׂב הַשָּׂדֶה",
+    "meaning": "밭의 채소",
+    "korean": "에세브 하사데",
+    "grammar": "명사",
+    "root": "עֵשֶׂב (에세브)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "6a47e5f7-8dba-4635-8fcf-9b5ce7cf5974",
+    "hebrew": "וּלְשָׁמְרָהּ",
+    "meaning": "그리고 그것을 지키기 위해",
+    "korean": "울쇼므라",
+    "grammar": "동사",
+    "root": "ש-מ-ר (샤마르)",
+    "verse_reference": "genesis_2_15"
+  },
+  {
+    "id": "8acf2b40-8f6f-4f0c-a78a-992c50524cee",
+    "hebrew": "לְאִשָּׁה",
+    "meaning": "여자로",
+    "korean": "레이샤",
+    "grammar": "명사",
+    "root": "אִשָּׁה (이샤)",
+    "verse_reference": "genesis_2_22"
+  },
+  {
+    "id": "1e923aad-91b0-4afd-8535-05c7224f7dff",
+    "hebrew": "לִרְאוֹת",
+    "meaning": "보기 위하여",
+    "korean": "리르오트",
+    "grammar": "동사",
+    "root": "ר-א-ה (라아)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "6b4f6b51-92c2-4894-bc71-d86152241e4c",
+    "hebrew": "קִדְמַת",
+    "meaning": "동쪽",
+    "korean": "킷마트",
+    "grammar": "명사",
+    "root": "ק-ד-ם (kedem)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "9c013ddf-c081-4b7d-a682-44c3cdf55526",
+    "hebrew": "יִתְבֹּשָׁשׁוּ",
+    "meaning": "부끄러워하다",
+    "korean": "이트보샤슈",
+    "grammar": "동사",
+    "root": "ב-ו-שׁ (부쉬)",
+    "verse_reference": "genesis_2_25"
+  },
+  {
+    "id": "d9b1e063-5856-438a-9b40-3eec9cf3e410",
+    "hebrew": "אָכֹל תֹּאכֵל",
+    "meaning": "먹어도 되느니라, 반드시 먹으라",
+    "korean": "아콜 토켈",
+    "grammar": "동사",
+    "root": "א-כ-ל (아칼)",
+    "verse_reference": "genesis_2_16"
+  },
+  {
+    "id": "2a386444-03e8-4e82-b107-0629d2ae30a5",
+    "hebrew": "בוֹ",
+    "meaning": "그것 안에",
+    "korean": "보",
+    "grammar": "전치사",
+    "root": "בְּ (베 - ~안에)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "fa914867-d0ba-4cf7-b406-b0a99a9b6402",
+    "hebrew": "לְבַדּוֹ",
+    "meaning": "홀로, 혼자",
+    "korean": "르바도",
+    "grammar": "부사",
+    "root": "בַּד (바드)",
+    "verse_reference": "genesis_2_18"
+  },
+  {
+    "id": "f07b1da4-9f6c-4713-8160-343ac8e2a9e5",
+    "hebrew": "וַיִּפַּח",
+    "meaning": "불어넣으셨다",
+    "korean": "바입파흐",
+    "grammar": "동사",
+    "root": "נ-פ-ח (나파흐)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "516f9397-8c2b-403f-af70-6bb9d1fc7e81",
+    "hebrew": "וְאֶבֶן",
+    "meaning": "그리고 돌",
+    "korean": "베에벤",
+    "grammar": "명사",
+    "root": "אֶבֶן (에벤)",
+    "verse_reference": "genesis_2_12"
+  },
+  {
+    "id": "7e5c48e0-606f-49db-9b38-46ea144c5450",
+    "hebrew": "וְטוֹב",
+    "meaning": "그리고 좋은",
+    "korean": "베토브",
+    "grammar": "형용사",
+    "root": "ט-ו-ב (토브)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "39e629b3-880c-4eb0-b4f1-e6cf1956ab00",
+    "hebrew": "וּמִשָּׁם",
+    "meaning": "그리고 거기서부터",
+    "korean": "우미솸",
+    "grammar": "부사",
+    "root": "שָׁם (샴)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "168286ab-3cca-4ef4-a2db-6e5f23e4e6df",
+    "hebrew": "אֶרֶץ",
+    "meaning": "땅",
+    "korean": "에레츠",
+    "grammar": "명사",
+    "root": "א-ר-ץ (에레츠)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "d68c8929-e7a1-4130-b792-cd73823ee7ca",
+    "hebrew": "יִפָּרֵד",
+    "meaning": "나뉘어지다, 갈라지다",
+    "korean": "이파레드",
+    "grammar": "동사",
+    "root": "פ-ר-ד (파라드)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "6a39c79a-96e4-4bd2-b051-bee74ed2ecec",
+    "hebrew": "שָׁם",
+    "meaning": "그곳에",
+    "korean": "샴",
+    "grammar": "부사",
+    "root": "שָׁם (샴)",
+    "verse_reference": "genesis_2_8"
+  }
+]

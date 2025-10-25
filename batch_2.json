@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1eb1638c-b324-4fe6-83ee-83966c3fe591",
+    "hebrew": "זֹרֵעַ זֶרַע",
+    "meaning": "씨 맺는",
+    "korean": "조레아 제라",
+    "grammar": "동사",
+    "root": "ז-ר-ע (자라)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "1f57829c-a45c-4122-9226-e607bfb9c549",
+    "hebrew": "לְמִינָהּ",
+    "meaning": "그 종류대로",
+    "korean": "레미나",
+    "grammar": "명사",
+    "root": "מִין (민 - 종류)",
+    "verse_reference": "창세기 1:25"
+  },
+  {
+    "id": "203febae-eaf7-4db3-928f-d5a5dd5da15f",
+    "hebrew": "וְתֵרָאֶה",
+    "meaning": "그리고 드러나라",
+    "korean": "베테라에",
+    "grammar": "동사",
+    "root": "ר-א-ה (라아)",
+    "verse_reference": "창세기 1:9"
+  },
+  {
+    "id": "24b4517b-a787-4dfa-b80e-2d0b1cac42db",
+    "hebrew": "וַיַּרְא אֱלֹהִים",
+    "meaning": "하나님께서 보셨다",
+    "korean": "바야르 엘로힘",
+    "grammar": "동사",
+    "root": "ר-א-ה (라아)",
+    "verse_reference": "창세기 1:12"
+  },
+  {
+    "id": "24d2e165-d9a3-4435-a124-8306ce76cec5",
+    "hebrew": "שָׁרְצוּ",
+    "meaning": "번성하다, 우글거리다",
+    "korean": "샤르쭈",
+    "grammar": "동사",
+    "root": "שׁ-ר-ץ (샤라츠)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "24dee57f-10b5-470d-a233-f68d3116ec86",
+    "hebrew": "כָּל-נֶפֶשׁ הַחַיָּה",
+    "meaning": "모든 살아있는 생물",
+    "korean": "콜 네페쉬 하하야",
+    "grammar": "명사",
+    "root": "נֶפֶשׁ (네페쉬)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "28db070d-42fb-40e2-b818-927eecd81102",
+    "hebrew": "הַמָּיִם",
+    "meaning": "물들, 물",
+    "korean": "하마임",
+    "grammar": "명사",
+    "root": "מַיִם (마임)",
+    "verse_reference": "창세기 1:6"
+  },
+  {
+    "id": "291323f4-f1cb-4ed8-8afd-f89a75f675aa",
+    "hebrew": "לָאוֹר",
+    "meaning": "빛에게",
+    "korean": "라오르",
+    "grammar": "명사",
+    "root": "אוֹר (오르)",
+    "verse_reference": "창세기 1:5"
+  },
+  {
+    "id": "2d98f242-9abb-44e9-a702-f3160bfca17e",
+    "hebrew": "וַֽיְהִי",
+    "meaning": "그리고 ~이 되었다",
+    "korean": "바예히",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:19"
+  },
+  {
+    "id": "2ecab80e-d01f-4abd-96e7-03eb21e1d792",
+    "hebrew": "וּבֵין הַמַּיִם",
+    "meaning": "그리고 물들 사이를",
+    "korean": "우벤 하마임",
+    "grammar": "전치사",
+    "root": "בֵּין (벤) / מַיִם (마임)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "35890c27-32c4-4942-90af-ba481ed44912",
+    "hebrew": "עַל-פְּנֵי רְקִיעַ",
+    "meaning": "궁창의 표면 위에",
+    "korean": "알 페네 레키아",
+    "grammar": "전치사",
+    "root": "עַל (알), פָּנִים (파님), ר-ק-ע (라카)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "35b224bd-167b-46ec-b945-92578921209f",
+    "hebrew": "יִשְׁרְצוּ",
+    "meaning": "번성하게 하라, 떼를 지어 움직이게 하라",
+    "korean": "이쉬레추",
+    "grammar": "동사",
+    "root": "שׁ-ר-צ (샤라츠)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "361e26d5-5826-43d5-8251-2752ee659ab8",
+    "hebrew": "וַיְהִי-כֵן",
+    "meaning": "그대로 되었다",
+    "korean": "바예히 켄",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야) + כֵּן (켄)",
+    "verse_reference": "창세기 1:24"
+  },
+  {
+    "id": "411d69ad-8615-4251-a68a-78c2153174db",
+    "hebrew": "וְהִנֵּה",
+    "meaning": "그리고 보라",
+    "korean": "베힌네",
+    "grammar": "감탄사",
+    "root": "הִנֵּה (힌네)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "426bb208-0caa-410a-9a86-5bcaaaec94d8",
+    "hebrew": "קָרָא",
+    "meaning": "부르셨다",
+    "korean": "카라",
+    "grammar": "동사",
+    "root": "ק-ר-א (카라)",
+    "verse_reference": "창세기 1:5"
+  },
+  {
+    "id": "42a3202c-cad6-46f9-a7bb-56fd3a2d5084",
+    "hebrew": "וַֽיְהִי",
+    "meaning": "그리고 있었다, 되었다",
+    "korean": "바예히",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:13"
+  }
+]

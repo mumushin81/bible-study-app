@@ -1,0 +1,186 @@
+{
+  "batch": 1,
+  "count": 20,
+  "words": [
+    {
+      "id": "d91ec735-2258-4bc0-99a6-11d9ba2f1932",
+      "hebrew": "כִּי יֹדֵעַ אֱלֹהִים",
+      "meaning": "하나님이 아시기 때문에",
+      "korean": "키 요데아 엘로힘",
+      "grammar": "동사",
+      "root": "כִּי (키) + י-ד-ע (야다) + אֱלֹהִים (엘로힘)",
+      "verse_reference": "genesis_3_5"
+    },
+    {
+      "id": "60246976-92c1-4266-9b75-f29f7eb20e20",
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말했다",
+      "korean": "바요메르",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르)",
+      "verse_reference": "genesis_3_4"
+    },
+    {
+      "id": "f2b9d5f4-d5d1-41b6-af5b-2904db02000f",
+      "hebrew": "וַיֹּאמֶר יְהוָה אֱלֹהִים",
+      "meaning": "여호와 하나님께서 말씀하셨다",
+      "korean": "바요메르 아도나이 엘로힘",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르) + יְהוָה (여호와) + אֱלֹהִים (엘로힘)",
+      "verse_reference": "genesis_3_13"
+    },
+    {
+      "id": "06ebf022-6002-478e-8cc5-97a065740069",
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 그가 불렀다",
+      "korean": "바이크라",
+      "grammar": "동사",
+      "root": "ק-ר-א (카라)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "eaab5a1a-fc79-4edb-9dbf-cb31718428f2",
+      "hebrew": "וְאֵיבָה",
+      "meaning": "그리고 원수 됨, 적대감",
+      "korean": "베에이바",
+      "grammar": "명사",
+      "root": "א-י-ב (에예브)",
+      "verse_reference": "genesis_3_15"
+    },
+    {
+      "id": "5d207e69-93a2-4e77-9c2c-950e4803853f",
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 그가 말했다",
+      "korean": "바요메르",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르)",
+      "verse_reference": "genesis_3_10"
+    },
+    {
+      "id": "167afe0d-7d62-43cb-8659-310811eed561",
+      "hebrew": "וְהַנָּחָשׁ",
+      "meaning": "그리고 뱀은",
+      "korean": "베하나하쉬",
+      "grammar": "명사",
+      "root": "נָחָשׁ (나하쉬)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "93b2086b-ee04-40be-9132-2e1fa50460a2",
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "korean": "바요메르",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "46689ebb-8251-4772-b2b9-fc69711a3385",
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "korean": "바야아스",
+      "grammar": "동사",
+      "root": "ע-שׂ-ה (아사)",
+      "verse_reference": "genesis_3_21"
+    },
+    {
+      "id": "5c0fad63-72b5-4da8-bcb6-096652414b95",
+      "hebrew": "בְּזֵעַת אַפֶּיךָ",
+      "meaning": "네 얼굴의 땀으로",
+      "korean": "베제아트 아페이카",
+      "grammar": "명사",
+      "root": "זֵעָה (제아) + אַף (아프)",
+      "verse_reference": "genesis_3_19"
+    },
+    {
+      "id": "96042bd9-4369-49b8-9155-92bdae2594ad",
+      "hebrew": "וַיְגָרֶשׁ",
+      "meaning": "그리고 쫓아내셨다",
+      "korean": "바예가레쉬",
+      "grammar": "동사",
+      "root": "ג-ר-שׁ (가라쉬)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "33479084-f222-454b-bff4-3a12cda31fca",
+      "hebrew": "וַיְשַׁלְּחֵהוּ",
+      "meaning": "그를 내보내셨다",
+      "korean": "바예샬레헤후",
+      "grammar": "동사",
+      "root": "ש-ל-ח (샬라흐)",
+      "verse_reference": "genesis_3_23"
+    },
+    {
+      "id": "988d457e-774a-4625-bc80-8913083f1f54",
+      "hebrew": "וַיִּשְׁמְעוּ",
+      "meaning": "그리고 그들이 듣다",
+      "korean": "바이쉬므우",
+      "grammar": "동사",
+      "root": "ש-מ-ע (샤마)",
+      "verse_reference": "genesis_3_8"
+    },
+    {
+      "id": "8422858a-a3f3-4c90-92ae-4c01d008adaf",
+      "hebrew": "וּמִפְּרִי",
+      "meaning": "그리고 ~의 열매로부터",
+      "korean": "우미프리",
+      "grammar": "명사",
+      "root": "פְּרִי (페리)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "a9fa194a-394b-4d4b-a37f-1f3230232624",
+      "hebrew": "וּלְאָדָם",
+      "meaning": "그리고 아담에게",
+      "korean": "울아담",
+      "grammar": "전치사",
+      "root": "אָדָם (아담)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "cc3a8a3d-974e-449f-94f8-68281b1c3521",
+      "hebrew": "וְקוֹץ",
+      "meaning": "그리고 가시",
+      "korean": "베코츠",
+      "grammar": "명사",
+      "root": "קוֹץ (코츠)",
+      "verse_reference": "genesis_3_18"
+    },
+    {
+      "id": "8a34dea0-4582-4100-a66f-817ebc2e7b31",
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 부르셨다",
+      "korean": "바이크라",
+      "grammar": "동사",
+      "root": "ק-ר-א (카라)",
+      "verse_reference": "genesis_3_9"
+    },
+    {
+      "id": "bc73ab9a-8dde-428d-9f24-62fcb19f67db",
+      "hebrew": "אֶֽל הָאִשָּׁה",
+      "meaning": "여자에게",
+      "korean": "엘 하이샤",
+      "grammar": "전치사",
+      "root": "אֶל (엘) + אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_16"
+    },
+    {
+      "id": "57761992-a6c8-4db6-ae38-dfce762b0eb5",
+      "hebrew": "וַתִּפָּקַחְנָה",
+      "meaning": "그리고 열렸다, 밝아졌다",
+      "korean": "바팁파카흐나",
+      "grammar": "동사",
+      "root": "פ-ק-ח (파카흐)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "b4f87813-7a88-4af9-85ca-9aacf43711e5",
+      "hebrew": "וַתֵּרֶא",
+      "meaning": "그리고 보았다",
+      "korean": "바테레",
+      "grammar": "동사",
+      "root": "ר-א-ה (라아)",
+      "verse_reference": "genesis_3_6"
+    }
+  ]
+}

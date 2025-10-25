@@ -1,0 +1,186 @@
+{
+  "batch": 5,
+  "count": 20,
+  "words": [
+    {
+      "id": "e7fa40d9-24f4-4904-b1ca-5e78c7c9b8c2",
+      "hebrew": "לְקוֹל אִשְׁתֶּךָ",
+      "meaning": "네 아내의 말을",
+      "korean": "레콜 이쉬테카",
+      "grammar": "명사",
+      "root": "קוֹל (콜) + אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "7ece1c7f-159f-40a3-ab37-4288ed19133d",
+      "hebrew": "אֲשֶׁר נָתַתָּה עִמָּדִי",
+      "meaning": "당신이 나와 함께 있게 하신",
+      "korean": "아쉐르 나타타 이마디",
+      "grammar": "동사",
+      "root": "אֲשֶׁר (아쉐르) + נ-ת-ן (나탄) + עִם (임)",
+      "verse_reference": "genesis_3_12"
+    },
+    {
+      "id": "7cd0deeb-1e52-4d4d-b5af-bc4574712dd3",
+      "hebrew": "וְאָכַלְתָּ",
+      "meaning": "그리고 너는 먹을 것이다",
+      "korean": "베아할타",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_18"
+    },
+    {
+      "id": "e64e7bf6-3ed1-46cf-a1ec-bc3ed8040350",
+      "hebrew": "כִּי מִמֶּנָּה לֻקָּחְתָּ",
+      "meaning": "너는 그것에서 취해졌기 때문이다",
+      "korean": "키 미멘나 루카흐타",
+      "grammar": "동사",
+      "root": "כִּי (키) + מִן (민) + ל-ק-ח (라카흐)",
+      "verse_reference": "genesis_3_19"
+    },
+    {
+      "id": "c5332402-b768-4ea4-8cdb-4be995c58f77",
+      "hebrew": "הִוא",
+      "meaning": "그녀가",
+      "korean": "히",
+      "grammar": "대명사",
+      "root": "הוּא (후)",
+      "verse_reference": "genesis_3_12"
+    },
+    {
+      "id": "a4718d71-4301-4279-8f41-51e025c68c28",
+      "hebrew": "תְּמֻתוּן",
+      "meaning": "너희가 죽을 것이다",
+      "korean": "테무툰",
+      "grammar": "동사",
+      "root": "מ-ו-ת (무트)",
+      "verse_reference": "genesis_3_4"
+    },
+    {
+      "id": "05ce5662-353b-4970-bce0-3b56335acdcb",
+      "hebrew": "הַנָּחָשׁ",
+      "meaning": "뱀이",
+      "korean": "하나하쉬",
+      "grammar": "명사",
+      "root": "נָחָשׁ (나하쉬)",
+      "verse_reference": "genesis_3_13"
+    },
+    {
+      "id": "744f8da1-5fc7-46c1-8bdf-efaa9a2f7385",
+      "hebrew": "וְעַתָּה",
+      "meaning": "그리고 이제",
+      "korean": "베아타",
+      "grammar": "부사",
+      "root": "עַתָּה (아타)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "cdb2444d-3910-4c70-9956-ecbe9829e92d",
+      "hebrew": "אֲשֶׁר עָשָׂה יְהוָה אֱלֹהִים",
+      "meaning": "여호와 하나님이 지으신",
+      "korean": "아쉐르 아사 아도나이 엘로힘",
+      "grammar": "동사",
+      "root": "אֲשֶׁר (아쉐르) + ע-שׂ-ה (아사) + יְהוָה (여호와) + אֱלֹהִים (엘로힘)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "16b1f0a1-d899-4306-8375-36b734dc25eb",
+      "hebrew": "וָאִירָא",
+      "meaning": "그리고 나는 두려워했다",
+      "korean": "바이라",
+      "grammar": "동사",
+      "root": "י-ר-א (야레)",
+      "verse_reference": "genesis_3_10"
+    },
+    {
+      "id": "eabf358d-c22a-4ba2-bac4-9e93115409f0",
+      "hebrew": "וַתֹּאכַל מִן-הָעֵץ",
+      "meaning": "그리고 나무에서 먹었으니",
+      "korean": "바토칼 민 하에츠",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼) + עֵץ (에츠)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "989ff77f-03bd-43e6-93ac-e5431656bd49",
+      "hebrew": "עֵץ-הַגָּן",
+      "meaning": "동산의 나무",
+      "korean": "에츠 하간",
+      "grammar": "명사",
+      "root": "עֵץ (에츠) + גָּן (간)",
+      "verse_reference": "genesis_3_2"
+    },
+    {
+      "id": "4e1fc058-3155-49e2-9817-0bd0b1a22d8e",
+      "hebrew": "חַוָּה",
+      "meaning": "하와(이브)",
+      "korean": "하바",
+      "grammar": "명사",
+      "root": "ח-י-ה (하야)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "78feddf6-b2e2-4808-83d1-d7392ae222b1",
+      "hebrew": "בְּעֶצֶב תֵּֽלְדִי בָנִים",
+      "meaning": "수고하며 자식을 낳을 것이다",
+      "korean": "베에체브 텔디 바님",
+      "grammar": "동사",
+      "root": "ע-צ-ב (아차브) + י-ל-ד (얄라드) + בֵּן (벤)",
+      "verse_reference": "genesis_3_16"
+    },
+    {
+      "id": "9ae6a6d6-ed12-4906-940d-8dfb8ea71cf4",
+      "hebrew": "וּלְאִשְׁתּוֹ",
+      "meaning": "그리고 그의 아내에게",
+      "korean": "울이쉬토",
+      "grammar": "명사",
+      "root": "אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_21"
+    },
+    {
+      "id": "e15389c0-0dd0-45be-9730-069e19d81f07",
+      "hebrew": "אֶת-הָאֲדָמָה",
+      "meaning": "그 땅을",
+      "korean": "에트 하아다마",
+      "grammar": "명사",
+      "root": "אֲדָמָה (아다마)",
+      "verse_reference": "genesis_3_23"
+    },
+    {
+      "id": "9ac1122e-2b8c-4cf6-a4ad-de125ac6d763",
+      "hebrew": "הוּא יְשׁוּפְךָ רֹאשׁ",
+      "meaning": "그가 네 머리를 상하게 할 것이요",
+      "korean": "후 예슈페카 로쉬",
+      "grammar": "동사",
+      "root": "הוּא (후) + שׁ-ו-ף (슈프) + רֹאשׁ (로쉬)",
+      "verse_reference": "genesis_3_15"
+    },
+    {
+      "id": "4557bb44-9d3f-4e8d-8ae9-3eabe29bc1ca",
+      "hebrew": "אֶת הַכְּרֻבִים",
+      "meaning": "그룹들을",
+      "korean": "에트 하케루빔",
+      "grammar": "명사",
+      "root": "כְּרוּב (케루브)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "9c81efb3-f24d-4d32-9c82-44576a92057f",
+      "hebrew": "מִכָּל-הַבְּהֵמָה וּמִכֹּל חַיַּת הַשָּׂדֶה",
+      "meaning": "모든 가축과 들짐승보다",
+      "korean": "미칼 하베헤마 우미콜 하야트 하사데",
+      "grammar": "명사",
+      "root": "כֹּל (콜) + בְּהֵמָה (베헤마) + חַיָּה (하야) + שָׂדֶה (사데)",
+      "verse_reference": "genesis_3_14"
+    },
+    {
+      "id": "39afe0c5-f556-4b57-b67c-ed0c9f18b2de",
+      "hebrew": "הַגָּן",
+      "meaning": "동산",
+      "korean": "하간",
+      "grammar": "명사",
+      "root": "גַּן (간)",
+      "verse_reference": "genesis_3_3"
+    }
+  ]
+}

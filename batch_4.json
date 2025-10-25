@@ -1,0 +1,146 @@
+[
+  {
+    "id": "64551508-1fa7-4b5e-8a98-faf74809189d",
+    "hebrew": "מִתַּחַת הַשָּׁמַיִם",
+    "meaning": "하늘 아래에서",
+    "korean": "미타하트 하샤마임",
+    "grammar": "전치사",
+    "root": "תַּחַת (타하트) + שָׁמַיִם (샤마임)",
+    "verse_reference": "창세기 1:9"
+  },
+  {
+    "id": "67648d1a-b6a4-4eb2-a8bd-0a9e83094b66",
+    "hebrew": "פְרִי",
+    "meaning": "열매",
+    "korean": "페리",
+    "grammar": "명사",
+    "root": "פְּרִי (페리)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "686b40e4-6298-45b7-862a-f9c519619452",
+    "hebrew": "הַמַּיִם",
+    "meaning": "물",
+    "korean": "하마임",
+    "grammar": "명사",
+    "root": "מַיִם (마임)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "68f6ee7a-efe2-4e1a-aae6-c2d108527829",
+    "hebrew": "וְעוֹף",
+    "meaning": "그리고 새",
+    "korean": "베오프",
+    "grammar": "명사",
+    "root": "ע-ו-ף (우프)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "6b604970-17fc-4899-ae6a-a03cd2f54cd3",
+    "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
+    "meaning": "온 땅 위에",
+    "korean": "알 페네 콜 하아레츠",
+    "grammar": "전치사",
+    "root": "עַל (알) + פָּנִים (파님) + אֶרֶץ (에레츠)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "6bd0cfde-9574-47ea-b636-abaed3a09e62",
+    "hebrew": "הַמַּיִם",
+    "meaning": "물, 바다",
+    "korean": "하마임",
+    "grammar": "명사",
+    "root": "מַיִם (마임)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "6c101624-899c-49aa-8a54-ef71741653ae",
+    "hebrew": "י֥וֹם",
+    "meaning": "날",
+    "korean": "욤",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "창세기 1:19"
+  },
+  {
+    "id": "75d38932-03c9-42ab-b93f-d5fff0e882fb",
+    "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+    "meaning": "두 개의 큰 광명체들",
+    "korean": "쉐네이 함어로트 하그돌림",
+    "grammar": "명사",
+    "root": "אוֹר (오르 - 빛)",
+    "verse_reference": "창세기 1:16"
+  },
+  {
+    "id": "781f8d54-a70f-4d95-be63-e1a7086faa0b",
+    "hebrew": "וּלְכֹל רוֹמֵשׂ עַל-הָאָרֶץ",
+    "meaning": "그리고 땅 위를 기어다니는 모든 것에게",
+    "korean": "울콜 로메스 알 하아레츠",
+    "grammar": "동사",
+    "root": "ר-מ-שׂ (라마스)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "793fbab2-0046-4b0d-ae01-d5e70146fc27",
+    "hebrew": "בֵּין הָאוֹר",
+    "meaning": "빛 사이",
+    "korean": "벤 하오르",
+    "grammar": "명사",
+    "root": "אוֹר (오르)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "7c5196b7-5171-4cec-ae52-57ed13fa29aa",
+    "hebrew": "וַיְהִי",
+    "meaning": "그리고 있었다",
+    "korean": "바예히",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:3"
+  },
+  {
+    "id": "7c8ede15-db03-4311-8c83-eba1b82319f3",
+    "hebrew": "וְשָׁנִים",
+    "meaning": "그리고 해들을 위하여",
+    "korean": "베샤님",
+    "grammar": "명사",
+    "root": "שָׁנָה (샤나)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "7ea66936-dd77-467e-ba9e-bdfe2d2e2a80",
+    "hebrew": "דְגַת הַיָּם",
+    "meaning": "바다의 물고기",
+    "korean": "드갓 하얌",
+    "grammar": "명사",
+    "root": "דָּג (다그)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "7ebb2fbb-c42e-4d61-b391-ae3337b97bf0",
+    "hebrew": "עוֹף כָּנָף",
+    "meaning": "날개 달린 새",
+    "korean": "오프 카나프",
+    "grammar": "명사",
+    "root": "עוֹף (오프)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "80cd9d5c-54c1-4224-bb33-2f3a1ea93ba0",
+    "hebrew": "תְהוֹם",
+    "meaning": "깊은 물, 심연",
+    "korean": "테홈",
+    "grammar": "명사",
+    "root": "תְּהוֹם (테홈)",
+    "verse_reference": "창세기 1:2"
+  },
+  {
+    "id": "80dbe848-4c36-43af-bf99-8cb7c139b025",
+    "hebrew": "נֶפֶשׁ חַיָּה",
+    "meaning": "살아있는 생명체",
+    "korean": "네페쉬 하야",
+    "grammar": "명사",
+    "root": "נֶפֶשׁ (네페쉬), ח-י-ה (하야)",
+    "verse_reference": "창세기 1:20"
+  }
+]

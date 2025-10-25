@@ -1,0 +1,146 @@
+[
+  {
+    "id": "827aa807-d1f2-4282-9703-95aa0d5706ca",
+    "hebrew": "אֶל־מָקוֹם אֶחָד",
+    "meaning": "한 곳으로",
+    "korean": "엘 마콤 에하드",
+    "grammar": "전치사",
+    "root": "מָקוֹם (마콤) + אֶחָד (에하드)",
+    "verse_reference": "창세기 1:9"
+  },
+  {
+    "id": "827cda1b-d835-4cd1-b7cb-0dbd4de8118e",
+    "hebrew": "וּלְמוֹעֲדִים",
+    "meaning": "그리고 절기들을 위하여",
+    "korean": "울모아딤",
+    "grammar": "명사",
+    "root": "מ-ו-ע-ד (모에드)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "88b91f76-e8cd-411c-9537-97cfa901ac23",
+    "hebrew": "וַיַּבְדֵּל",
+    "meaning": "나누셨다",
+    "korean": "바야브델",
+    "grammar": "동사",
+    "root": "ב-ד-ל (바달)",
+    "verse_reference": "창세기 1:4"
+  },
+  {
+    "id": "8b5692f4-5849-4680-94b5-ef6b836cd399",
+    "hebrew": "הַמָּאוֹר הַגָּדֹל",
+    "meaning": "큰 광명체",
+    "korean": "함아오르 하가돌",
+    "grammar": "명사",
+    "root": "אוֹר (오르 - 빛)",
+    "verse_reference": "창세기 1:16"
+  },
+  {
+    "id": "8d9069a4-18bf-44fb-b712-60ee7d8dc468",
+    "hebrew": "לֵאמֹר",
+    "meaning": "말씀하시기를",
+    "korean": "레모르",
+    "grammar": "동사",
+    "root": "א-מ-ר (아마르)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "8ec90582-12b3-47c8-89a9-dd21500e73d4",
+    "hebrew": "יְעוֹפֵף",
+    "meaning": "날아다니게 하라",
+    "korean": "예오페프",
+    "grammar": "동사",
+    "root": "ע-ו-ף (우프)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "90dfed58-b2c3-4092-ad07-707b1eceae9e",
+    "hebrew": "הָרֹמֶשֶׂת",
+    "meaning": "기어다니는",
+    "korean": "하로메세트",
+    "grammar": "동사",
+    "root": "ר-מ-שׂ (라마스)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "9236757c-3e4b-40bb-aeb9-020a2ff15cb2",
+    "hebrew": "אֶת כָּל",
+    "meaning": "모든 것을",
+    "korean": "에트 콜",
+    "grammar": "전치사",
+    "root": "כֹּל (콜)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "92be25c9-9a5b-46bb-838a-20c1a5b78b93",
+    "hebrew": "וּלְמִקְוֵה",
+    "meaning": "그리고 모임에",
+    "korean": "울미크베",
+    "grammar": "명사",
+    "root": "ק-ו-ה (카바)",
+    "verse_reference": "창세기 1:10"
+  },
+  {
+    "id": "9408412b-2c29-465d-afe1-d9494dc378d9",
+    "hebrew": "וְלִמְשֹׁל",
+    "meaning": "다스리게 하다",
+    "korean": "베림쇼르",
+    "grammar": "동사",
+    "root": "מ-ש-ל (마샬)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "953752a1-0553-41a3-8352-2fddb2b0a960",
+    "hebrew": "אֲשֶׁר עָשָׂה",
+    "meaning": "그가 만드신",
+    "korean": "아쉐르 아사",
+    "grammar": "동사",
+    "root": "ע-ש-ה (아사)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "96de41d2-2642-4b11-af3c-f3bdb1573ddd",
+    "hebrew": "וַיַּרְא",
+    "meaning": "보셨다",
+    "korean": "바야르",
+    "grammar": "동사",
+    "root": "ר-א-ה (라아)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "9b2ff34c-c5ed-455f-8415-99f589577ea9",
+    "hebrew": "יוֹם הַשִּׁשִּׁי",
+    "meaning": "여섯째 날",
+    "korean": "욤 하쉬쉬",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "9de41668-c1cd-4ec1-a07f-3f1805010921",
+    "hebrew": "וַתּוֹצֵא הָאָרֶץ",
+    "meaning": "땅이 내었다",
+    "korean": "바토체 하아레츠",
+    "grammar": "동사",
+    "root": "י-צ-א (야차)",
+    "verse_reference": "창세기 1:12"
+  },
+  {
+    "id": "a042803e-d207-49be-a31c-23c1a3fcd2bc",
+    "hebrew": "בָּאָרֶץ",
+    "meaning": "땅에서",
+    "korean": "바아레츠",
+    "grammar": "명사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "a0504b96-8bf3-4954-a2cd-90fbf2bc3e78",
+    "hebrew": "וְהָאָרֶץ",
+    "meaning": "그리고 땅은",
+    "korean": "베하아레츠",
+    "grammar": "명사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "창세기 1:2"
+  }
+]

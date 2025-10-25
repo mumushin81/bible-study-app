@@ -1,0 +1,146 @@
+[
+  {
+    "id": "434ee4da-0dc5-44f3-abc4-2222b884a4eb",
+    "hebrew": "עוֹף הַשָּׁמַיִם",
+    "meaning": "하늘의 새",
+    "korean": "오프 하샤마임",
+    "grammar": "명사",
+    "root": "עוֹף (오프)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "45fe8783-b2a3-4706-b2f2-12ec1f1fffac",
+    "hebrew": "וּלְהַבְדִּיל",
+    "meaning": "나누게 하다",
+    "korean": "울하브딜",
+    "grammar": "동사",
+    "root": "ב-ד-ל (바달)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "4aef63a4-35e7-400d-8295-3b628e434fc2",
+    "hebrew": "וְהָעוֹף",
+    "meaning": "그리고 새들은",
+    "korean": "베하오프",
+    "grammar": "명사",
+    "root": "עוֹף (오프)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "4c531d3b-59af-4b2a-aa15-301c3d8149bd",
+    "hebrew": "לְמֶמְשֶׁלֶת הַלַּיְלָה",
+    "meaning": "밤을 주관하기 위하여",
+    "korean": "레멤쉘레트 할라일라",
+    "grammar": "명사",
+    "root": "מ-שׁ-ל (마샬 - 다스리다)",
+    "verse_reference": "창세기 1:16"
+  },
+  {
+    "id": "512d8f98-4e92-4063-8ff8-9126d2074d4d",
+    "hebrew": "וַיַּבְדֵּל",
+    "meaning": "그리고 나누셨다",
+    "korean": "바야브델",
+    "grammar": "동사",
+    "root": "ב-ד-ל (바달)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "513e30ce-ad33-4677-80d9-ecb3a627cc03",
+    "hebrew": "חַיַּת הָאָרֶץ",
+    "meaning": "땅의 짐승",
+    "korean": "하야트 하아레츠",
+    "grammar": "명사",
+    "root": "חַי (하이 - 살아있는)",
+    "verse_reference": "창세기 1:25"
+  },
+  {
+    "id": "51ef758c-78c6-4328-8c46-29695227203c",
+    "hebrew": "וַיַּעַשׂ",
+    "meaning": "그리고 만드셨다",
+    "korean": "바야아스",
+    "grammar": "동사",
+    "root": "ע-שׂ-ה (아사)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "52a0b18c-b8b4-47b0-9330-a7d7401f1e3b",
+    "hebrew": "וַיְהִי עֶרֶב",
+    "meaning": "그리고 저녁이 되었다",
+    "korean": "바예히 에레브",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야) + ע-ר-ב (아라브)",
+    "verse_reference": "창세기 1:8"
+  },
+  {
+    "id": "55aadf23-c726-463d-a532-d9539d95003d",
+    "hebrew": "אֲשֶׁר-בּוֹ נֶפֶשׁ חַיָּה",
+    "meaning": "그 안에 생명이 있는",
+    "korean": "아쉐르 보 네페쉬 하야",
+    "grammar": "명사",
+    "root": "נֶפֶשׁ (네페쉬)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "565e3148-73d3-42df-bcde-5d5f4e30374e",
+    "hebrew": "וּבַלַּיְלָה",
+    "meaning": "그리고 밤에",
+    "korean": "우발라일라",
+    "grammar": "명사",
+    "root": "לַיְלָה (라일라)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "56864f34-252d-498e-837e-44b7275eb75a",
+    "hebrew": "אֹתוֹ",
+    "meaning": "그를",
+    "korean": "오토",
+    "grammar": "대명사",
+    "root": "אֵת (에트)",
+    "verse_reference": "창세기 1:27"
+  },
+  {
+    "id": "5fbcadc5-2886-4dca-8010-a1ec68c10bfe",
+    "hebrew": "כִּי-טוֹב",
+    "meaning": "좋았다",
+    "korean": "키 토브",
+    "grammar": "형용사",
+    "root": "טוֹב (토브)",
+    "verse_reference": "창세기 1:12"
+  },
+  {
+    "id": "60343456-2dc1-4c6f-a71f-b55e07d78184",
+    "hebrew": "וָרֶמֶשׂ",
+    "meaning": "그리고 기는 것",
+    "korean": "바레메스",
+    "grammar": "명사",
+    "root": "ר-מ-שׂ (라마스)",
+    "verse_reference": "창세기 1:24"
+  },
+  {
+    "id": "6218d0a1-acc8-40f0-a52e-c4aff2a2006e",
+    "hebrew": "וַיִּתֵּן",
+    "meaning": "그리고 두셨다, 두시다",
+    "korean": "바이텐",
+    "grammar": "동사",
+    "root": "נ-ת-ן (나탄)",
+    "verse_reference": "창세기 1:17"
+  },
+  {
+    "id": "634171ea-5e4a-490d-ba4c-2e0a688e98bf",
+    "hebrew": "וּמִלְאוּ",
+    "meaning": "그리고 충만하게 하라",
+    "korean": "우밀우",
+    "grammar": "동사",
+    "root": "מ-ל-א (말라)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "642c3c71-03f9-4b36-a505-5b909e8bb32f",
+    "hebrew": "וְכִבְשֻׁהָ",
+    "meaning": "그리고 정복하라",
+    "korean": "베킵슈하",
+    "grammar": "동사",
+    "root": "כ-ב-ש (카바쉬)",
+    "verse_reference": "창세기 1:28"
+  }
+]

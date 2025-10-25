@@ -26,10 +26,9 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         alt={word}
         className={className}
         style={{
-          width: `${size}px`,
-          height: `${size}px`,
-          objectFit: 'cover',
-          borderRadius: '8px'  // 부드러운 모서리
+          width: '100%',
+          height: '100%',
+          objectFit: 'cover',  // 9:16 비율 유지하면서 채움
         }}
         loading="lazy"  // 성능 최적화
       />

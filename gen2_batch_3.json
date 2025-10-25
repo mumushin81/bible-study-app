@@ -1,0 +1,191 @@
+[
+  {
+    "id": "cd959802-e767-41de-8173-47e8ac104932",
+    "hebrew": "טוֹב",
+    "meaning": "선한, 좋은",
+    "korean": "토브",
+    "grammar": "형용사",
+    "root": "טוֹב (토브)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "5061ec74-d6b6-4d7c-8446-24479b5a2fd1",
+    "hebrew": "עֲרוּמִּים",
+    "meaning": "벗은, 나체의",
+    "korean": "아루밈",
+    "grammar": "형용사",
+    "root": "ע-ר-ם (아람)",
+    "verse_reference": "genesis_2_25"
+  },
+  {
+    "id": "531842d9-8038-4939-9fb2-3ed5609a3eb6",
+    "hebrew": "בַּיּוֹם הַשְּׁבִיעִי",
+    "meaning": "일곱째 날에",
+    "korean": "바욤 하쉐비이",
+    "grammar": "명사",
+    "root": "שֶׁבַע (쉐바 - 일곱)",
+    "verse_reference": "genesis_2_2"
+  },
+  {
+    "id": "7bd9a705-0289-4442-9d9b-9b56e12eafff",
+    "hebrew": "אִישׁ",
+    "meaning": "남자, 사람",
+    "korean": "이쉬",
+    "grammar": "명사",
+    "root": "אִישׁ (이쉬)",
+    "verse_reference": "genesis_2_24"
+  },
+  {
+    "id": "0ff14cc2-2b7c-4858-828f-4bccd2b43c63",
+    "hebrew": "זֹאת הַפַּעַם",
+    "meaning": "이번에는, 이제야",
+    "korean": "조트 하파암",
+    "grammar": "명사",
+    "root": "פ-ע-ם (파암)",
+    "verse_reference": "genesis_2_23"
+  },
+  {
+    "id": "5e65ef65-03b2-4b65-8488-58037c72db3e",
+    "hebrew": "עַל-הָאָדָם",
+    "meaning": "사람 위에",
+    "korean": "알 하아담",
+    "grammar": "전치사",
+    "root": "עַל (알) + אָדָם (아담)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "f2729032-7d48-40cc-9b95-88e420b8c312",
+    "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ",
+    "meaning": "하늘과 땅",
+    "korean": "하샤마임 베하아레츠",
+    "grammar": "명사",
+    "root": "שָׁמַיִם (샤마임) + אֶרֶץ (에레츠)",
+    "verse_reference": "genesis_2_4"
+  },
+  {
+    "id": "c503c230-06c9-4644-985d-c59706256b25",
+    "hebrew": "גַּן",
+    "meaning": "동산",
+    "korean": "간",
+    "grammar": "명사",
+    "root": "גַּן (간)",
+    "verse_reference": "genesis_2_8"
+  },
+  {
+    "id": "c92f0de0-2542-4447-85b0-8a028427a5bf",
+    "hebrew": "הַהִוא",
+    "meaning": "그것",
+    "korean": "하히",
+    "grammar": "대명사",
+    "root": "הוּא (후)",
+    "verse_reference": "genesis_2_12"
+  },
+  {
+    "id": "bef23d66-97b5-4851-85bf-04f2dede2487",
+    "hebrew": "וְהָאָרֶץ",
+    "meaning": "그리고 땅",
+    "korean": "베하아레츠",
+    "grammar": "명사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "genesis_2_1"
+  },
+  {
+    "id": "fc353397-8c68-4de3-b84b-2512a1242c3e",
+    "hebrew": "מֵעֵדֶן",
+    "meaning": "에덴으로부터",
+    "korean": "메에덴",
+    "grammar": "전치사",
+    "root": "עדן (에덴)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "01d0fd2e-9f6c-4ce6-8012-ac8e84460afa",
+    "hebrew": "פִּישׁוֹן",
+    "meaning": "비손 (강 이름)",
+    "korean": "피숀",
+    "grammar": "명사",
+    "root": "פ-ו-ש (푸쉬)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "3fc45e6f-11b2-4149-b8af-b9b6e41022b8",
+    "hebrew": "הָאָדָם",
+    "meaning": "그 사람, 아담",
+    "korean": "하아담",
+    "grammar": "명사",
+    "root": "א-ד-ם (아담)",
+    "verse_reference": "genesis_2_23"
+  },
+  {
+    "id": "1fa00be2-69fd-448d-8b30-84bca8cc7537",
+    "hebrew": "גִּיחוֹן",
+    "meaning": "기혼",
+    "korean": "기혼",
+    "grammar": "명사",
+    "root": "גִּיחַ (기아흐)",
+    "verse_reference": "genesis_2_13"
+  },
+  {
+    "id": "a20325a4-1447-4723-9023-2cbc0c432d58",
+    "hebrew": "מִן-הָאֲדָמָה",
+    "meaning": "땅에서, 흙에서",
+    "korean": "민 하아다마",
+    "grammar": "전치사",
+    "root": "א-ד-מ (아담)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "95c26633-149f-449e-9c8d-5f41f00afde7",
+    "hebrew": "מִן-הָאָרֶץ",
+    "meaning": "땅으로부터",
+    "korean": "민 하아레츠",
+    "grammar": "전치사",
+    "root": "א-ר-ץ (에레츠)",
+    "verse_reference": "genesis_2_6"
+  },
+  {
+    "id": "a0f8c5e9-d77a-4ca2-89db-39c84f4f33f9",
+    "hebrew": "הַשְּׁלִישִׁי",
+    "meaning": "셋째",
+    "korean": "하쉬리쉬",
+    "grammar": "형용사",
+    "root": "שָׁלֹשׁ (shalosh)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "b8e9772d-7811-49dc-a1dc-bc50d880d475",
+    "hebrew": "אֶת-הָאָדָם",
+    "meaning": "그 사람을",
+    "korean": "에트 하아담",
+    "grammar": "명사",
+    "root": "אָדָם (아담)",
+    "verse_reference": "genesis_2_15"
+  },
+  {
+    "id": "f019de1e-0440-417a-8be1-0bf0c17cd683",
+    "hebrew": "שֵׁמוֹת",
+    "meaning": "이름들",
+    "korean": "쉐모트",
+    "grammar": "명사",
+    "root": "שֵׁם (셈)",
+    "verse_reference": "genesis_2_20"
+  },
+  {
+    "id": "7e587b17-85bc-44cc-8949-aea8a70f3581",
+    "hebrew": "אֶת יוֹם הַשְּׁבִיעִי",
+    "meaning": "일곱째 날을",
+    "korean": "에트 욤 하쉬비이",
+    "grammar": "명사",
+    "root": "שֶׁבַע (셰바 - 일곱)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "f04eacea-9026-4c79-90d1-1bdb33741736",
+    "hebrew": "עַל-הָאָדָם",
+    "meaning": "아담에게",
+    "korean": "알 하아담",
+    "grammar": "전치사",
+    "root": "עַל + א-ד-ם (알 + 아담)",
+    "verse_reference": "genesis_2_16"
+  }
+]

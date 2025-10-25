@@ -1,0 +1,186 @@
+{
+  "batch": 8,
+  "count": 20,
+  "words": [
+    {
+      "id": "e06176c7-6553-4004-82d6-e9f74940be1c",
+      "hebrew": "הָיְתָה",
+      "meaning": "있었다, 되었다",
+      "korean": "하이타",
+      "grammar": "동사",
+      "root": "ה-י-ה (하야)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "fd8083e4-3bd8-4cc8-ac82-3d57440ff289",
+      "hebrew": "תְאֵנָה",
+      "meaning": "무화과나무",
+      "korean": "테에나",
+      "grammar": "명사",
+      "root": "תְּאֵנָה (테에나)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "334213f3-1840-46e8-abdb-734fbfb2bec0",
+      "hebrew": "לֹא תֹאכַל",
+      "meaning": "먹지 말라",
+      "korean": "로 토칼",
+      "grammar": "동사",
+      "root": "לֹא (로) + א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "fcf54dbd-6297-4d26-a425-317dcf0909da",
+      "hebrew": "לֹא",
+      "meaning": "~하지 말라",
+      "korean": "로",
+      "grammar": "부사",
+      "root": "לֹא (로)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "3eed1b5b-0c6f-4aed-973d-ebcd8509f192",
+      "hebrew": "וְלָקַח גַּם מֵעֵץ הַחַיִּים",
+      "meaning": "생명나무 열매도 따먹고",
+      "korean": "벨라카흐 감 메에츠 하하임",
+      "grammar": "동사",
+      "root": "ל-ק-ח (라카흐) + גַּם (감) + עֵץ (에츠) + חַיִּים (하임)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "e30e73c5-be61-4efb-8838-03c56c7ab9dd",
+      "hebrew": "אֶת דֶּרֶךְ עֵץ הַחַיִּים",
+      "meaning": "생명나무로 가는 길을",
+      "korean": "에트 데레크 에츠 하하임",
+      "grammar": "명사",
+      "root": "דֶּרֶךְ (데레크) + עֵץ (에츠) + חַיִּים (하임)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "189c680b-6039-4890-81b2-03088d4ebe4d",
+      "hebrew": "כָּל-יְמֵי חַיֶּיךָ",
+      "meaning": "네 평생 동안",
+      "korean": "콜 예메 하예하",
+      "grammar": "명사",
+      "root": "כֹּל (콜) + יוֹם (욤) + חַיִּים (하임)",
+      "verse_reference": "genesis_3_14"
+    },
+    {
+      "id": "bd549092-eaba-41ec-b3e4-e7d90aac6fa8",
+      "hebrew": "אַף כִּי-אָמַר אֱלֹהִים",
+      "meaning": "정말로 하나님이 말씀하셨느냐",
+      "korean": "아프 키 아마르 엘로힘",
+      "grammar": "접속사",
+      "root": "אַף (아프) + כִּי (키) + א-מ-ר (아마르) + אֱלֹהִים (엘로힘)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "044eced3-bf23-4458-b693-a53d28e8444c",
+      "hebrew": "לִשְׁמֹר",
+      "meaning": "지키기 위해",
+      "korean": "리쉬모르",
+      "grammar": "동사",
+      "root": "שׁ-מ-ר (샤마르)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "921329a8-58e6-43d5-9664-70bb21042704",
+      "hebrew": "וַיַּלְבִּשֵׁם",
+      "meaning": "그리고 그들에게 입히셨다",
+      "korean": "바얄비쉠",
+      "grammar": "동사",
+      "root": "ל-ב-שׁ (라바쉬)",
+      "verse_reference": "genesis_3_21"
+    },
+    {
+      "id": "2d47a82b-d700-44fd-806f-dbbfb5e9790f",
+      "hebrew": "אֲרוּרָה הָאֲדָמָה",
+      "meaning": "저주받은 땅",
+      "korean": "아루라 하아다마",
+      "grammar": "형용사",
+      "root": "א-ר-ר (아라르) + אֲדָמָה (아다마)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "1b73514d-8e32-43b9-ae7b-a68cf1695b39",
+      "hebrew": "וָאֹכֵל",
+      "meaning": "그리고 내가 먹었다",
+      "korean": "바오켈",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_12"
+    },
+    {
+      "id": "7e08c60d-977a-4276-991d-0b340a0511ac",
+      "hebrew": "בַּעֲבוּרֶךָ",
+      "meaning": "너로 말미암아",
+      "korean": "바아부레카",
+      "grammar": "전치사",
+      "root": "בַּעֲבוּר (바아부르)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "3a591ced-772e-4a64-bb2b-35f9373ba0c7",
+      "hebrew": "וְאָכַל",
+      "meaning": "그리고 먹고",
+      "korean": "베아칼",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "28aabc65-d772-43fb-a6fc-357f264536ba",
+      "hebrew": "וָחַי לְעֹלָם",
+      "meaning": "영원히 살게 될까",
+      "korean": "바하이 레올람",
+      "grammar": "동사",
+      "root": "ח-י-ה (하야) + עוֹלָם (올람)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "32b1fa0d-054a-4db0-8c90-25f05a0b3c39",
+      "hebrew": "וַיַּעֲשׂוּ",
+      "meaning": "그리고 만들었다",
+      "korean": "바야아수",
+      "grammar": "동사",
+      "root": "ע-שׂ-ה (아사)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "5a492222-c4dc-43e1-b320-ae37b4ba526f",
+      "hebrew": "וַתִּתֵּן גַּם-לְאִישָׁהּ",
+      "meaning": "그리고 남편에게도 주니",
+      "korean": "바티텐 감 레이샤",
+      "grammar": "동사",
+      "root": "נ-ת-ן (나탄), אִישׁ (이쉬)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "fcee477d-c9d3-46a9-a9af-8efbce2e63d4",
+      "hebrew": "אֵם",
+      "meaning": "어머니",
+      "korean": "엠",
+      "grammar": "명사",
+      "root": "אֵם (엠)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "95c2bcb0-d58b-4059-a346-7ac36d2b1943",
+      "hebrew": "מִפְּנֵי",
+      "meaning": "~의 낯을 피하여, ~앞에서",
+      "korean": "미프네",
+      "grammar": "전치사",
+      "root": "פָּנִים (파님)",
+      "verse_reference": "genesis_3_8"
+    },
+    {
+      "id": "f67960e4-53f6-45b3-a0d1-b4d25639a907",
+      "hebrew": "בְּעִצָּבוֹן",
+      "meaning": "수고하며, 고통 가운데",
+      "korean": "베이차본",
+      "grammar": "명사",
+      "root": "ע-צ-ב (아차브)",
+      "verse_reference": "genesis_3_17"
+    }
+  ]
+}

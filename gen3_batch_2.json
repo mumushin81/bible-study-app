@@ -1,0 +1,186 @@
+{
+  "batch": 2,
+  "count": 20,
+  "words": [
+    {
+      "id": "8dec111e-39a6-4441-9f2b-56b9a077c525",
+      "hebrew": "עֵינֵי",
+      "meaning": "눈들",
+      "korean": "에네",
+      "grammar": "명사",
+      "root": "עַיִן (아인)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "f3718c67-99af-46ca-a63f-8c944b85289a",
+      "hebrew": "הָאָדָם",
+      "meaning": "사람, 아담",
+      "korean": "하아담",
+      "grammar": "명사",
+      "root": "אָדָם (아담)",
+      "verse_reference": "genesis_3_12"
+    },
+    {
+      "id": "98570552-d258-40fd-a4c6-a15157a9cbaf",
+      "hebrew": "הָאִשָּׁה",
+      "meaning": "여자",
+      "korean": "하이솨",
+      "grammar": "명사",
+      "root": "אִשָּׁה (이솨)",
+      "verse_reference": "genesis_3_2"
+    },
+    {
+      "id": "7666d0d4-3d4f-4604-a90b-c0941ed2e0c0",
+      "hebrew": "אֶת-קוֹל",
+      "meaning": "~의 음성을",
+      "korean": "에트 콜",
+      "grammar": "명사",
+      "root": "קוֹל (콜)",
+      "verse_reference": "genesis_3_8"
+    },
+    {
+      "id": "b89a743d-3f5d-4a42-8f80-f6d852f4de69",
+      "hebrew": "אֶל-הַנָּחָשׁ",
+      "meaning": "뱀에게",
+      "korean": "엘 하나하쉬",
+      "grammar": "전치사",
+      "root": "אֶל (엘) + נָחָשׁ (나하쉬)",
+      "verse_reference": "genesis_3_14"
+    },
+    {
+      "id": "e70048e2-937a-45a9-8d00-256202c5ed45",
+      "hebrew": "כִּי בְּיוֹם",
+      "meaning": "그 날에",
+      "korean": "키 베욤",
+      "grammar": "명사",
+      "root": "כִּי (키) + בְּ (베) + יוֹם (욤)",
+      "verse_reference": "genesis_3_5"
+    },
+    {
+      "id": "97adc24f-0493-44a4-8af1-1ca95e08a0cd",
+      "hebrew": "אָמַר",
+      "meaning": "말씀하셨다",
+      "korean": "아마르",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "d49620f2-e117-473f-8b95-de3f3fb0cea9",
+      "hebrew": "תֹּאכַל",
+      "meaning": "너는 먹을 것이다",
+      "korean": "토칼",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_19"
+    },
+    {
+      "id": "a393b1f2-9bfc-467f-8146-f5ba16d04811",
+      "hebrew": "יְהוָה אֱלֹהִים",
+      "meaning": "여호와 하나님",
+      "korean": "여호와 엘로힘",
+      "grammar": "명사",
+      "root": "יהוה (여호와) + אֱלֹהַּ (엘로아)",
+      "verse_reference": "genesis_3_23"
+    },
+    {
+      "id": "265e7a47-5f24-49fb-8984-e9c2d49c9443",
+      "hebrew": "הָאִשָּׁה",
+      "meaning": "여자가",
+      "korean": "하이샤",
+      "grammar": "명사",
+      "root": "אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "12122e8a-b190-416f-a20b-aad6458ee2d2",
+      "hebrew": "מִי",
+      "meaning": "누가",
+      "korean": "미",
+      "grammar": "대명사",
+      "root": "מִי (미)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "c25947bf-007a-4293-badf-2a16863ba7f5",
+      "hebrew": "אֶת-קֹלְךָ",
+      "meaning": "당신의 음성을",
+      "korean": "에트 콜레카",
+      "grammar": "명사",
+      "root": "קוֹל (콜)",
+      "verse_reference": "genesis_3_10"
+    },
+    {
+      "id": "48d35306-b198-45e0-b00d-baaa08da3343",
+      "hebrew": "הָעֵץ",
+      "meaning": "나무",
+      "korean": "하에츠",
+      "grammar": "명사",
+      "root": "עֵץ (에츠)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "a0f75a2d-3843-4ecd-8c1b-08e6c29038bf",
+      "hebrew": "הַנָּחָשׁ",
+      "meaning": "뱀",
+      "korean": "하나하쉬",
+      "grammar": "명사",
+      "root": "נָּחָשׁ (나하쉬)",
+      "verse_reference": "genesis_3_4"
+    },
+    {
+      "id": "3e9bd5ee-c949-40f1-afe9-bc3b75c3e0ed",
+      "hebrew": "אָשִׁית",
+      "meaning": "내가 두리라, 놓으리라",
+      "korean": "아쉬트",
+      "grammar": "동사",
+      "root": "שׁ-י-ת (쉬트)",
+      "verse_reference": "genesis_3_15"
+    },
+    {
+      "id": "dacde024-9680-44a9-bea2-be89c9f1bd1f",
+      "hebrew": "יְהוָה",
+      "meaning": "여호와",
+      "korean": "아도나이",
+      "grammar": "명사",
+      "root": "ה-י-ה (하야)",
+      "verse_reference": "genesis_3_21"
+    },
+    {
+      "id": "b158f7a1-b353-455f-a784-839f98edf782",
+      "hebrew": "הָיָה",
+      "meaning": "~였다",
+      "korean": "하야",
+      "grammar": "동사",
+      "root": "ה-י-ה (하야)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "e801bc24-ecd3-41ed-90ae-99761a4581e5",
+      "hebrew": "אֶת הָאָדָם",
+      "meaning": "그 사람을",
+      "korean": "에트 하아담",
+      "grammar": "명사",
+      "root": "אָדָם (아담)",
+      "verse_reference": "genesis_3_24"
+    },
+    {
+      "id": "f7d56a9d-7b1d-4d69-8cc9-c3b1bb576208",
+      "hebrew": "הֵן הָאָדָם",
+      "meaning": "보라, 사람이",
+      "korean": "헨 하아담",
+      "grammar": "명사",
+      "root": "הֵן (헨) + אָדָם (아담)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "ac2f764c-8fa5-4815-a679-11bea0c99bfd",
+      "hebrew": "אֲכָלְכֶם מִמֶּנּוּ",
+      "meaning": "너희가 그것을 먹을 때",
+      "korean": "아칼켐 미멘누",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼) + מִן (민)",
+      "verse_reference": "genesis_3_5"
+    }
+  ]
+}

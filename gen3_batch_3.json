@@ -1,0 +1,186 @@
+{
+  "batch": 3,
+  "count": 20,
+  "words": [
+    {
+      "id": "5b2f67d1-6663-4b84-b2f1-efa557d0f530",
+      "hebrew": "הַרְבָּה אַרְבֶּה",
+      "meaning": "내가 크게 더하리니",
+      "korean": "하르바 아르베",
+      "grammar": "동사",
+      "root": "ר-ב-ה (라바)",
+      "verse_reference": "genesis_3_16"
+    },
+    {
+      "id": "deb55067-b6ad-4470-b61b-5efcdad468fd",
+      "hebrew": "כִּי טוֹב הָעֵץ לְמַאֲכָל",
+      "meaning": "나무가 먹기에 좋고",
+      "korean": "키 토브 하에츠 레마아칼",
+      "grammar": "형용사",
+      "root": "ט-ו-ב (토브), עֵץ (에츠), א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "91c0b1c8-fc0c-41cc-a6c6-99b48fc782fa",
+      "hebrew": "שְׁנֵיהֶם",
+      "meaning": "그들 둘",
+      "korean": "쉐네헴",
+      "grammar": "명사",
+      "root": "שְׁנַיִם (쉐나임)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "f1d15d0f-a159-4d51-b805-054eec9b5372",
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "korean": "엘로힘",
+      "grammar": "명사",
+      "root": "אֱלֹהַּ (엘로아)",
+      "verse_reference": "genesis_3_21"
+    },
+    {
+      "id": "6060e6bf-befe-4d7c-aab9-06f13cef04ff",
+      "hebrew": "תַּצְמִיחַ",
+      "meaning": "낼 것이다, 자라게 할 것이다",
+      "korean": "타츠미아흐",
+      "grammar": "동사",
+      "root": "צ-מ-ח (차마흐)",
+      "verse_reference": "genesis_3_18"
+    },
+    {
+      "id": "b25b24fe-8120-4a06-ad14-f3798795789b",
+      "hebrew": "לֶחֶם",
+      "meaning": "빵, 음식",
+      "korean": "레헴",
+      "grammar": "명사",
+      "root": "לֶחֶם (레헴)",
+      "verse_reference": "genesis_3_19"
+    },
+    {
+      "id": "b7486b1a-4d58-4e98-9b0e-a5c2ab31620a",
+      "hebrew": "בֵּינְךָ וּבֵין הָאִשָּׁה",
+      "meaning": "너와 여자 사이에",
+      "korean": "베이네카 우베인 하이샤",
+      "grammar": "전치사",
+      "root": "בֵּין (베인) + אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_15"
+    },
+    {
+      "id": "0adafe89-f294-4008-a3b7-7e78029b1980",
+      "hebrew": "מַה-זֹּאת עָשִׂית",
+      "meaning": "네가 무엇을 행했느냐",
+      "korean": "마 조트 아시트",
+      "grammar": "동사",
+      "root": "מָה (마) + זֹאת (조트) + ע-שׂ-ה (아사)",
+      "verse_reference": "genesis_3_13"
+    },
+    {
+      "id": "5432a4fa-2e8d-4f0c-a72b-33ebf6296115",
+      "hebrew": "כִּי עָשִׂיתָ זֹּאת",
+      "meaning": "네가 이것을 했으니",
+      "korean": "키 아시타 조트",
+      "grammar": "접속사",
+      "root": "כִּי (키) + ע-שׂ-ה (아사) + זֹאת (조트)",
+      "verse_reference": "genesis_3_14"
+    },
+    {
+      "id": "a39188e2-e95b-49dd-af47-da184d124960",
+      "hebrew": "עָרוּם",
+      "meaning": "간교한, 교활한",
+      "korean": "아룸",
+      "grammar": "형용사",
+      "root": "ע-ר-ם (아람)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "3a243454-4451-42b5-bec7-f22b0ea50e7a",
+      "hebrew": "שָׁמַעְתִּי",
+      "meaning": "내가 들었다",
+      "korean": "샤마티",
+      "grammar": "동사",
+      "root": "ש-מ-ע (샤마)",
+      "verse_reference": "genesis_3_10"
+    },
+    {
+      "id": "535052c6-5fcb-405f-ae84-d1746bb03a19",
+      "hebrew": "כִּי-שָׁמַעְתָּ",
+      "meaning": "네가 들었기 때문에",
+      "korean": "키 샤마타",
+      "grammar": "접속사",
+      "root": "כִּי (키) + שׁ-מ-ע (샤마)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "f6110e56-4b47-45f0-85d9-6951b5038fcc",
+      "hebrew": "הָיָה כְּאַחַד מִמֶּנּוּ",
+      "meaning": "우리 중 하나같이 되었다",
+      "korean": "하야 케아하드 미메누",
+      "grammar": "동사",
+      "root": "ה-י-ה (하야) + אֶחָד (에하드) + מִן (민)",
+      "verse_reference": "genesis_3_22"
+    },
+    {
+      "id": "3abf9269-4267-4540-9620-c8af63ceb729",
+      "hebrew": "שֵׁם",
+      "meaning": "이름",
+      "korean": "쉠",
+      "grammar": "명사",
+      "root": "שֵׁם (쉠)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "4fb81e22-1a7b-413a-b3e8-125e7576e343",
+      "hebrew": "מִגַּן-עֵדֶן",
+      "meaning": "에덴 동산에서",
+      "korean": "미간 에덴",
+      "grammar": "명사",
+      "root": "גַּן (간) + עֵדֶן (에덴)",
+      "verse_reference": "genesis_3_23"
+    },
+    {
+      "id": "203b0185-f7cb-48b9-bd32-3c5638d88eb0",
+      "hebrew": "אֲשֶׁר",
+      "meaning": "~인 것",
+      "korean": "아쉐르",
+      "grammar": "대명사",
+      "root": "אֲשֶׁר (아쉐르)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "38abd5bf-519f-431d-a91b-a5aaaf234eac",
+      "hebrew": "וְדַרְדַּר",
+      "meaning": "그리고 엉겅퀴",
+      "korean": "베다르다르",
+      "grammar": "명사",
+      "root": "דַּרְדַּר (다르다르)",
+      "verse_reference": "genesis_3_18"
+    },
+    {
+      "id": "ff050916-0da6-4f6b-a6ea-af301f32ace7",
+      "hebrew": "הִגִּיד",
+      "meaning": "알려주었느냐",
+      "korean": "히기드",
+      "grammar": "동사",
+      "root": "נ-ג-ד (나가드)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "901faf50-b2fe-4021-beff-29a3beed6ca2",
+      "hebrew": "וַתֹּאמֶר הָאִשָּׁה",
+      "meaning": "여자가 말했다",
+      "korean": "바토메르 하이샤",
+      "grammar": "동사",
+      "root": "א-מ-ר (아마르) + אִשָּׁה (이샤)",
+      "verse_reference": "genesis_3_13"
+    },
+    {
+      "id": "c1fe8a5c-71b0-4d2b-b5ba-13cde0ac1b5d",
+      "hebrew": "תַאֲוָה לָעֵינַיִם",
+      "meaning": "눈에 탐스럽고",
+      "korean": "타아바 라에나임",
+      "grammar": "명사",
+      "root": "א-ו-ה (아와), עַיִן (아인)",
+      "verse_reference": "genesis_3_6"
+    }
+  ]
+}

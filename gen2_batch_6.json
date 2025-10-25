@@ -1,0 +1,191 @@
+[
+  {
+    "id": "3be768e7-b4a0-4c6b-ae18-82a1eeace8a9",
+    "hebrew": "אֹתוֹ",
+    "meaning": "그것을",
+    "korean": "오토",
+    "grammar": "대명사",
+    "root": "אֵת (에트 - 직접 목적어 표지)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "a181cf35-1f31-40fe-a0bd-e42a6efae6b5",
+    "hebrew": "בְּיוֹם",
+    "meaning": "날에, 그 날에",
+    "korean": "베욤",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "genesis_2_4"
+  },
+  {
+    "id": "07018d7e-1da1-4e7f-be56-dca033717c3f",
+    "hebrew": "אֶת-כָּל-פְּנֵי",
+    "meaning": "모든 표면을",
+    "korean": "에트 콜 페네이",
+    "grammar": "명사",
+    "root": "פָּנִים (파님)",
+    "verse_reference": "genesis_2_6"
+  },
+  {
+    "id": "8b5fbc6a-9056-4477-bff8-4d7c7002468f",
+    "hebrew": "עָפָר",
+    "meaning": "흙, 티끌",
+    "korean": "아파르",
+    "grammar": "명사",
+    "root": "עָפָר (아파르)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "381b461f-e9a1-4252-a245-c5a81c0daa39",
+    "hebrew": "לְהַשְׁקוֹת",
+    "meaning": "적시기 위하여, 물을 주기 위하여",
+    "korean": "레하슈코트",
+    "grammar": "동사",
+    "root": "ש-ק-ה (샤카)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "5e7b72dc-41a9-4663-ac7f-402b2f7cb3ab",
+    "hebrew": "אֶת-אָבִיו",
+    "meaning": "그의 아버지를",
+    "korean": "에트 아비브",
+    "grammar": "명사",
+    "root": "אָב (아브)",
+    "verse_reference": "genesis_2_24"
+  },
+  {
+    "id": "9267a510-4f57-4f23-9959-956cd5dc5085",
+    "hebrew": "עֵץ-הַגָּן",
+    "meaning": "동산의 나무",
+    "korean": "에츠 하간",
+    "grammar": "명사",
+    "root": "עֵץ + גַּן (에츠 + 간)",
+    "verse_reference": "genesis_2_16"
+  },
+  {
+    "id": "4a110309-9a9c-4381-91c2-e67dc07b6fd6",
+    "hebrew": "הָאֲדָמָה",
+    "meaning": "땅, 지면, 토양",
+    "korean": "하아다마",
+    "grammar": "명사",
+    "root": "א-ד-ם (아담)",
+    "verse_reference": "genesis_2_6"
+  },
+  {
+    "id": "d4ad9c88-15b5-4f0b-baa7-73307fee36fa",
+    "hebrew": "לְעָבְדָהּ",
+    "meaning": "그것을 경작하기 위해, 섬기기 위해",
+    "korean": "레아브다",
+    "grammar": "동사",
+    "root": "ע-ב-ד (아바드)",
+    "verse_reference": "genesis_2_15"
+  },
+  {
+    "id": "c3fe08de-9869-4c1b-8984-9215b65bb57d",
+    "hebrew": "כִּי",
+    "meaning": "왜냐하면, ~때문에",
+    "korean": "키",
+    "grammar": "접속사",
+    "root": "כִּי (키)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "a4d7aea0-49af-40dd-90c4-10aa6ad0a0e6",
+    "hebrew": "וַיִּשְׁבֹּת",
+    "meaning": "그리고 쉬셨다",
+    "korean": "바이쉬보트",
+    "grammar": "동사",
+    "root": "שׁ-ב-ת (샤바트)",
+    "verse_reference": "genesis_2_2"
+  },
+  {
+    "id": "bb52404c-de60-46bb-9269-54d567168387",
+    "hebrew": "הַהֹלֵךְ",
+    "meaning": "흐르는",
+    "korean": "하홀레크",
+    "grammar": "동사",
+    "root": "ה-ל-ך (halakh)",
+    "verse_reference": "genesis_2_14"
+  },
+  {
+    "id": "fcd9b00d-a65b-4ba7-9b2e-4fdec1d2908c",
+    "hebrew": "עֲשׂוֹת",
+    "meaning": "만드실 때, 행하실 때",
+    "korean": "아소트",
+    "grammar": "동사",
+    "root": "ע-שׂ-ה (아사)",
+    "verse_reference": "genesis_2_4"
+  },
+  {
+    "id": "8b7cd3e6-ef35-4e46-8ae2-074a13998acd",
+    "hebrew": "אִשָּׁה",
+    "meaning": "여자",
+    "korean": "이샤",
+    "grammar": "명사",
+    "root": "א-נ-ש (아나쉬)",
+    "verse_reference": "genesis_2_23"
+  },
+  {
+    "id": "83c6249a-a569-44d2-8af7-044490b426ea",
+    "hebrew": "וַיָּשֶׂם",
+    "meaning": "그리고 두셨다",
+    "korean": "바야셈",
+    "grammar": "동사",
+    "root": "שׂ-ו-ם (숨)",
+    "verse_reference": "genesis_2_8"
+  },
+  {
+    "id": "aae65904-ae03-4aff-9797-d1036304be5f",
+    "hebrew": "וַיָּבֵא אֶל-הָאָדָם",
+    "meaning": "그리고 아담에게 이끌어 오셨다",
+    "korean": "바야베 엘 하아담",
+    "grammar": "동사",
+    "root": "ב-ו-א (보)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "c824559d-c975-4424-b6a9-6fec0ff2b73d",
+    "hebrew": "לְמַרְאֶה",
+    "meaning": "보기에, 외모로",
+    "korean": "레마르에",
+    "grammar": "명사",
+    "root": "ר-א-ה (라아)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "878cb56f-0ec5-4e90-937b-cc4aeb860548",
+    "hebrew": "וְדָבַק",
+    "meaning": "결합할 것이다, 붙을 것이다",
+    "korean": "베다바크",
+    "grammar": "동사",
+    "root": "ד-ב-ק (다바크)",
+    "verse_reference": "genesis_2_24"
+  },
+  {
+    "id": "574fbbfc-01f2-4f5c-a840-e21b2828d292",
+    "hebrew": "אֵת כָּל",
+    "meaning": "모든 ~을",
+    "korean": "에트 콜",
+    "grammar": "전치사",
+    "root": "כֹּל (콜)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "478c0265-9716-4d24-aa24-8f6949315968",
+    "hebrew": "הַבְּדֹלַח",
+    "meaning": "베델리움",
+    "korean": "하베돌라흐",
+    "grammar": "명사",
+    "root": "בְּדֹלַח (베돌라흐)",
+    "verse_reference": "genesis_2_12"
+  },
+  {
+    "id": "40a6a039-e411-4f24-9e79-21f7f32edb50",
+    "hebrew": "כּוּשׁ",
+    "meaning": "구스",
+    "korean": "쿠쉬",
+    "grammar": "명사",
+    "root": "כּוּשׁ (쿠쉬)",
+    "verse_reference": "genesis_2_13"
+  }
+]

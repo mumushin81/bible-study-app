@@ -1,0 +1,141 @@
+{
+  "batch": 9,
+  "count": 15,
+  "words": [
+    {
+      "id": "a59a9188-c32f-4cbf-b972-c5fa12fd2865",
+      "hebrew": "חֲגֹרֹת",
+      "meaning": "치마, 허리띠",
+      "korean": "하고로트",
+      "grammar": "명사",
+      "root": "חָגַר (하가르)",
+      "verse_reference": "genesis_3_7"
+    },
+    {
+      "id": "681e1501-0e05-4af3-89be-c539fbcb7a36",
+      "hebrew": "מִכֹּל עֵץ הַגָּן",
+      "meaning": "동산 모든 나무의 열매를",
+      "korean": "미콜 에츠 하간",
+      "grammar": "명사",
+      "root": "כֹּל (콜) + עֵץ (에츠) + גַּן (간)",
+      "verse_reference": "genesis_3_1"
+    },
+    {
+      "id": "f625350c-2d23-4f31-bad4-69d7fdf39c29",
+      "hebrew": "אֲכָל",
+      "meaning": "먹다",
+      "korean": "아콜",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "44584471-c22c-4127-b024-aeb9f659dfec",
+      "hebrew": "עִמָּהּ",
+      "meaning": "그녀와 함께",
+      "korean": "이마",
+      "grammar": "전치사",
+      "root": "עִם (임)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "9678807d-9f8b-4584-92c2-81ab16c6f74f",
+      "hebrew": "כָּל-חָי",
+      "meaning": "모든 산 자",
+      "korean": "콜 하이",
+      "grammar": "명사",
+      "root": "כֹּל (콜) + חַי (하이)",
+      "verse_reference": "genesis_3_20"
+    },
+    {
+      "id": "e4b17408-0feb-4d39-9e4f-86b9428be2d9",
+      "hebrew": "בְּתוֹךְ עֵץ הַגָּן",
+      "meaning": "동산 나무 사이에",
+      "korean": "베토크 에츠 하간",
+      "grammar": "명사",
+      "root": "תָּוֶךְ (타베크) + עֵץ (에츠) + גַּן (간)",
+      "verse_reference": "genesis_3_8"
+    },
+    {
+      "id": "b63f052b-e993-4b94-abc4-430a38e73b43",
+      "hebrew": "מִמֶּנּוּ",
+      "meaning": "그것으로부터",
+      "korean": "미멘누",
+      "grammar": "전치사",
+      "root": "מִן (민)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "986c4fbe-d01e-48fb-b57e-9397ac4bed69",
+      "hebrew": "וַיֹּאכַל",
+      "meaning": "그리고 그도 먹었다",
+      "korean": "바요칼",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_6"
+    },
+    {
+      "id": "4a2d1a79-a4b2-412b-b9a8-621e5fd31b33",
+      "hebrew": "תֹּאכְלֶנָּה",
+      "meaning": "먹을 것이다",
+      "korean": "토켈레나",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "5fa8b122-a452-4735-b509-4746d7219176",
+      "hebrew": "וְלֹא",
+      "meaning": "그리고 ~하지 말라",
+      "korean": "베로",
+      "grammar": "접속사",
+      "root": "לֹא (로)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "f5509e09-5e40-4e49-aaf1-a497310f3478",
+      "hebrew": "אָכָלְתָּ",
+      "meaning": "네가 먹었느냐",
+      "korean": "아칼타",
+      "grammar": "동사",
+      "root": "א-כ-ל (아칼)",
+      "verse_reference": "genesis_3_11"
+    },
+    {
+      "id": "81ee2b58-b4b0-4200-b542-8447d817b234",
+      "hebrew": "תִגְּעוּ",
+      "meaning": "만지지 말라",
+      "korean": "티그우",
+      "grammar": "동사",
+      "root": "נ-ג-ע (나가)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "e3b94643-36f0-4ede-be5b-6d3bc9e3fb98",
+      "hebrew": "כֹּל יְמֵי חַיֶּיךָ",
+      "meaning": "평생 동안",
+      "korean": "콜 예메 하예이카",
+      "grammar": "명사",
+      "root": "כֹּל (콜) + יוֹם (욤) + חַי (하이)",
+      "verse_reference": "genesis_3_17"
+    },
+    {
+      "id": "08edfc08-1f0b-4419-9ffb-3d60d6feb963",
+      "hebrew": "בּוֹ",
+      "meaning": "그것에",
+      "korean": "보",
+      "grammar": "전치사",
+      "root": "בְּ (베)",
+      "verse_reference": "genesis_3_3"
+    },
+    {
+      "id": "0013a249-d0fb-4cb6-bf61-c1a1aded1a47",
+      "hebrew": "פֶּן",
+      "meaning": "~하지 않도록",
+      "korean": "펜",
+      "grammar": "접속사",
+      "root": "פֶּן (펜)",
+      "verse_reference": "genesis_3_3"
+    }
+  ]
+}

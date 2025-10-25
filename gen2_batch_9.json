@@ -1,0 +1,191 @@
+[
+  {
+    "id": "298f7ed3-0197-4d41-be7b-9562ba68c294",
+    "hebrew": "מִכָּל מְלַאכְתּוֹ",
+    "meaning": "그의 모든 일로부터",
+    "korean": "미콜 멜락토",
+    "grammar": "명사",
+    "root": "מְלָאכָה (멜라카 - 일, 사역)",
+    "verse_reference": "genesis_2_3"
+  },
+  {
+    "id": "3c594d8f-f5ac-4230-a043-0cccdfab5e53",
+    "hebrew": "לֹא הִמְטִיר",
+    "meaning": "비를 내리지 않았다",
+    "korean": "로 힘티르",
+    "grammar": "동사",
+    "root": "מ-ט-ר (마타르)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "6e7a7d54-cf85-490f-bc8d-3bea87aa94a6",
+    "hebrew": "בָּשָׂר",
+    "meaning": "살",
+    "korean": "바사르",
+    "grammar": "명사",
+    "root": "בָּשָׂר (바사르)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "347db64f-6d3b-4ac3-858b-7a88c9683a18",
+    "hebrew": "עֵזֶר",
+    "meaning": "돕는 자, 조력자",
+    "korean": "에제르",
+    "grammar": "명사",
+    "root": "ע-ז-ר (아자르)",
+    "verse_reference": "genesis_2_18"
+  },
+  {
+    "id": "5095213a-a403-426a-9925-d3b776e9b0c1",
+    "hebrew": "אֶל-הָאָדָם",
+    "meaning": "사람에게로",
+    "korean": "엘 하아담",
+    "grammar": "전치사",
+    "root": "א-ד-ם (아담)",
+    "verse_reference": "genesis_2_22"
+  },
+  {
+    "id": "4225ff0f-b108-47db-aef8-dc15e79991d5",
+    "hebrew": "עֵזֶר כְּנֶגְדּוֹ",
+    "meaning": "그에게 적합한 돕는 자",
+    "korean": "에제르 케네그도",
+    "grammar": "명사",
+    "root": "עזר (아자르) + נגד (네게드)",
+    "verse_reference": "genesis_2_20"
+  },
+  {
+    "id": "81e76643-f2ab-4a9f-ae96-3b1895fa3862",
+    "hebrew": "לְבָשָׂר",
+    "meaning": "살로, 몸으로",
+    "korean": "레바사르",
+    "grammar": "명사",
+    "root": "בָּשָׂר (바사르)",
+    "verse_reference": "genesis_2_24"
+  },
+  {
+    "id": "a40731b8-c2c6-4362-8a10-a59f994659e0",
+    "hebrew": "אֲשֶׁר יָצָר",
+    "meaning": "그가 지으신",
+    "korean": "아쉐르 야차르",
+    "grammar": "동사",
+    "root": "י-צ-ר (야차르)",
+    "verse_reference": "genesis_2_8"
+  },
+  {
+    "id": "1deca7cd-460b-44cb-b11c-8a3b93f38b4a",
+    "hebrew": "נִשְׁמַת",
+    "meaning": "숨, 생기",
+    "korean": "니쉬마트",
+    "grammar": "명사",
+    "root": "נ-ש-ם (나솀)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "7c150059-44d5-4e63-9b62-33a90e277d1b",
+    "hebrew": "עֵץ הַחַיִּים",
+    "meaning": "생명나무",
+    "korean": "에츠 하하이임",
+    "grammar": "명사",
+    "root": "עֵץ (에츠) + ח-י-ה (하야)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "dedc2dd6-c9d4-4e26-ad3e-85ec1d046837",
+    "hebrew": "אֲכָלְךָ",
+    "meaning": "네가 먹는",
+    "korean": "아콜카",
+    "grammar": "동사",
+    "root": "א-כ-ל (아칼)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "56d657c8-85ee-42c8-9736-c57ce92fbfb4",
+    "hebrew": "לְאַרְבָּעָה",
+    "meaning": "넷으로, 네 개로",
+    "korean": "레아르바아",
+    "grammar": "명사",
+    "root": "אַרְבַּע (아르바)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "40ed62f5-6c3a-4cdf-9dc6-3723f34b066b",
+    "hebrew": "בְּאַפָּיו",
+    "meaning": "그의 코에",
+    "korean": "베아파브",
+    "grammar": "명사",
+    "root": "אַף (아프)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "17aa9ac6-bf47-4b3d-921f-ca26ffcae6b3",
+    "hebrew": "חַיִּים",
+    "meaning": "생명",
+    "korean": "하임",
+    "grammar": "명사",
+    "root": "ח-י-ה (하야)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "fad1d1bb-0829-4c5b-9dcb-0ac78ef45e67",
+    "hebrew": "מוֹת תָּמוּת",
+    "meaning": "반드시 죽을 것이다",
+    "korean": "모트 타무트",
+    "grammar": "동사",
+    "root": "מ-ו-ת (무트)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "2180d6e8-9504-4259-8b71-30ef14ddea7f",
+    "hebrew": "כְּנֶגְדּוֹ",
+    "meaning": "그에게 적합한, 그에게 상응하는",
+    "korean": "케네그도",
+    "grammar": "전치사",
+    "root": "נֶגֶד (네게드)",
+    "verse_reference": "genesis_2_18"
+  },
+  {
+    "id": "54bf362a-12fb-420c-8500-d08f72b3dfbc",
+    "hebrew": "בְּתוֹךְ הַגָּן",
+    "meaning": "동산 한가운데",
+    "korean": "베토크 하간",
+    "grammar": "전치사",
+    "root": "ת-ו-ךְ (타베크) + ג-נ-ן (간)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "3962f32b-56fe-4749-ac70-05a872945b8a",
+    "hebrew": "הַזָּהָב",
+    "meaning": "금",
+    "korean": "하자하브",
+    "grammar": "명사",
+    "root": "ז-ה-ב (자하브)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "2ef6168a-8c9f-4c4d-815b-23147e0073f8",
+    "hebrew": "אֲשֶׁר",
+    "meaning": "~인 곳",
+    "korean": "아쉐르",
+    "grammar": "접속사",
+    "root": "א-ש-ר (아쉐르)",
+    "verse_reference": "genesis_2_11"
+  },
+  {
+    "id": "a5bd2a6a-adbc-4e0f-8513-5fca371aa7a9",
+    "hebrew": "אֶחָד",
+    "meaning": "하나의, 한",
+    "korean": "에하드",
+    "grammar": "형용사",
+    "root": "אֶחָד (에하드)",
+    "verse_reference": "genesis_2_24"
+  },
+  {
+    "id": "745e855b-863d-4cd3-bfdb-888737e01b19",
+    "hebrew": "רָאשִׁים",
+    "meaning": "머리들, 줄기들, 갈래들",
+    "korean": "라쉼",
+    "grammar": "명사",
+    "root": "רֹאשׁ (로쉬)",
+    "verse_reference": "genesis_2_10"
+  }
+]

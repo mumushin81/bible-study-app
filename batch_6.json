@@ -1,0 +1,146 @@
+[
+  {
+    "id": "a0d9e2e0-c353-4885-a784-eb97b500077a",
+    "hebrew": "וַיִּבְרָא",
+    "meaning": "그리고 창조하셨다",
+    "korean": "바이브라",
+    "grammar": "동사",
+    "root": "ב-ר-א (bara)",
+    "verse_reference": "창세기 1:27"
+  },
+  {
+    "id": "a0dfac1f-9bdc-48e2-891f-9ed10a58637d",
+    "hebrew": "תּוֹצֵא",
+    "meaning": "내라, 산출하라",
+    "korean": "토체",
+    "grammar": "동사",
+    "root": "י-צ-א (야차)",
+    "verse_reference": "창세기 1:24"
+  },
+  {
+    "id": "a18b1128-d334-46db-ba1c-576d9ac44c8e",
+    "hebrew": "בֵּין הַיּוֹם",
+    "meaning": "낮 사이에",
+    "korean": "벤 하욤",
+    "grammar": "명사",
+    "root": "יוֹם (욤)",
+    "verse_reference": "창세기 1:14"
+  },
+  {
+    "id": "a333bea7-20cc-4005-8bf6-fd5e5275381f",
+    "hebrew": "הִנֵּה",
+    "meaning": "보라",
+    "korean": "힌네",
+    "grammar": "감탄사",
+    "root": "הִנֵּה (힌네)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "a4e11afe-dee7-4d9f-8bb0-fac1fb5cbd93",
+    "hebrew": "אֹתָם",
+    "meaning": "그들을",
+    "korean": "오탐",
+    "grammar": "전치사",
+    "root": "אֵת (에트)",
+    "verse_reference": "창세기 1:28"
+  },
+  {
+    "id": "a4f75e09-ea4e-4813-bca7-91831e026194",
+    "hebrew": "יַמִּים",
+    "meaning": "바다들",
+    "korean": "야밈",
+    "grammar": "명사",
+    "root": "יָם (얌)",
+    "verse_reference": "창세기 1:10"
+  },
+  {
+    "id": "a4f78306-fa3f-4447-bd66-f7f8107d0067",
+    "hebrew": "לַיַּבָּשָׁה",
+    "meaning": "마른 땅에",
+    "korean": "라야바샤",
+    "grammar": "명사",
+    "root": "י-ב-שׁ (야베쉬)",
+    "verse_reference": "창세기 1:10"
+  },
+  {
+    "id": "a6488a1d-e0ce-4bcc-b769-fa53cc7ca185",
+    "hebrew": "טוֹב מְאֹד",
+    "meaning": "심히 좋았다",
+    "korean": "토브 메오드",
+    "grammar": "형용사",
+    "root": "טוֹב (토브)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "a7457ecf-eecd-4874-a7c3-b392b0f055a4",
+    "hebrew": "הָרֶמֶשׂ",
+    "meaning": "기는 것",
+    "korean": "하레메스",
+    "grammar": "명사",
+    "root": "ר-מ-שׂ (라마스)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "a93c1ca2-b73d-4287-9776-27eeb8ea7771",
+    "hebrew": "הָרֹמֶשֶׂת",
+    "meaning": "기어다니는, 번식하는",
+    "korean": "하로메세트",
+    "grammar": "동사",
+    "root": "ר-מ-שׂ (라마스)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "a995bfba-c63d-4593-84a8-66e0cda17e71",
+    "hebrew": "נַעֲשֶׂה",
+    "meaning": "우리가 만들자",
+    "korean": "나아세",
+    "grammar": "동사",
+    "root": "ע-ש-ה (아사)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "a9f611bb-eec2-46f7-a4c5-d24bebfcf6fd",
+    "hebrew": "בְּצַלְמֵנוּ",
+    "meaning": "우리의 형상으로",
+    "korean": "베짤메누",
+    "grammar": "명사",
+    "root": "צֶלֶם (첼렘)",
+    "verse_reference": "창세기 1:26"
+  },
+  {
+    "id": "aaa99484-7444-4b96-b585-908eaf75d1b2",
+    "hebrew": "אֲשֶׁר מֵעַל",
+    "meaning": "위에 있는",
+    "korean": "아쉐르 메알",
+    "grammar": "대명사",
+    "root": "אֲשֶׁר (아쉐르) / עַל (알)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "ab9cef4f-61d3-4e58-9e4a-7c995b7608a7",
+    "hebrew": "מְרַחֶפֶת",
+    "meaning": "운행하다, 맴돌다",
+    "korean": "메라헤페트",
+    "grammar": "동사",
+    "root": "ר-ח-פ (라하프)",
+    "verse_reference": "창세기 1:2"
+  },
+  {
+    "id": "ac94c721-0eef-4a68-8aab-02f9037ba262",
+    "hebrew": "יִרֶב",
+    "meaning": "번성할지어다",
+    "korean": "이레브",
+    "grammar": "동사",
+    "root": "ר-ב-ה (라바)",
+    "verse_reference": "창세기 1:22"
+  },
+  {
+    "id": "acc60222-8bce-492e-8b7f-3aaa8b58d8a3",
+    "hebrew": "תַּדְשֵׁא הָאָרֶץ",
+    "meaning": "땅이 돋아나게 하라",
+    "korean": "타드쉐 하아레츠",
+    "grammar": "동사",
+    "root": "ד-ש-א (다샤)",
+    "verse_reference": "창세기 1:11"
+  }
+]

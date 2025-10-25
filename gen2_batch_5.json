@@ -1,0 +1,191 @@
+[
+  {
+    "id": "f615dd8c-ef57-423a-9930-8e19c807e101",
+    "hebrew": "הָאָדָם",
+    "meaning": "사람",
+    "korean": "하아담",
+    "grammar": "명사",
+    "root": "א-د-ם (아담)",
+    "verse_reference": "genesis_2_7"
+  },
+  {
+    "id": "7da0f248-6ec2-47d9-b3cd-64b2da273699",
+    "hebrew": "הַסּוֹבֵב",
+    "meaning": "둘러 흐르는",
+    "korean": "하소베브",
+    "grammar": "동사",
+    "root": "ס-ב-ב (사바브)",
+    "verse_reference": "genesis_2_13"
+  },
+  {
+    "id": "7bb74def-0727-4512-929a-f56eaeb44a68",
+    "hebrew": "וְאִשְׁתּוֹ",
+    "meaning": "그의 아내",
+    "korean": "베이쉬토",
+    "grammar": "명사",
+    "root": "אִשָּׁה (이샤)",
+    "verse_reference": "genesis_2_25"
+  },
+  {
+    "id": "b42819a4-d91a-4371-a5b6-5217a1543e0b",
+    "hebrew": "הֱיוֹת",
+    "meaning": "있음, 존재하다",
+    "korean": "헤요트",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "genesis_2_18"
+  },
+  {
+    "id": "a3df5075-2b82-46cd-a963-163e6e854ba0",
+    "hebrew": "וְאֵת כָּל-עוֹף הַשָּׁמַיִם",
+    "meaning": "그리고 모든 공중의 새",
+    "korean": "베에트 콜 오프 하샤마임",
+    "grammar": "명사",
+    "root": "עוף (오프) + שמים (샤마임)",
+    "verse_reference": "genesis_2_19"
+  },
+  {
+    "id": "223b50a7-42cb-4d61-bfe0-b9c320169b22",
+    "hebrew": "וּלְעוֹף הַשָּׁמַיִם",
+    "meaning": "그리고 공중의 새에게",
+    "korean": "울오프 하샤마임",
+    "grammar": "명사",
+    "root": "עוף (오프) + שמים (샤마임)",
+    "verse_reference": "genesis_2_20"
+  },
+  {
+    "id": "1a9c1e2c-bc75-4399-9750-5a1f0b85b084",
+    "hebrew": "וַיִּקַּח",
+    "meaning": "취하셨다",
+    "korean": "바이카흐",
+    "grammar": "동사",
+    "root": "ל-ק-ח (라카흐)",
+    "verse_reference": "genesis_2_21"
+  },
+  {
+    "id": "f5533280-bbf1-4d8c-9963-857a056532b0",
+    "hebrew": "בָאָרֶץ",
+    "meaning": "땅에",
+    "korean": "바아레츠",
+    "grammar": "전치사",
+    "root": "אֶרֶץ (에레츠)",
+    "verse_reference": "genesis_2_5"
+  },
+  {
+    "id": "99d3712c-3403-4542-b276-2f8b885defed",
+    "hebrew": "מִקֶּדֶם",
+    "meaning": "동쪽에",
+    "korean": "미케뎀",
+    "grammar": "전치사",
+    "root": "קֶדֶם (케뎀)",
+    "verse_reference": "genesis_2_8"
+  },
+  {
+    "id": "b3bfaffc-27d8-4aec-9ba4-5d444629f90d",
+    "hebrew": "נֶחְמָד",
+    "meaning": "아름다운, 보기 좋은",
+    "korean": "네흐마드",
+    "grammar": "형용사",
+    "root": "ח-מ-ד (하마드)",
+    "verse_reference": "genesis_2_9"
+  },
+  {
+    "id": "f8a7cc5a-66c4-44d3-ac80-f3015eca9d01",
+    "hebrew": "צְבָאָם",
+    "meaning": "그것들의 만물, 군대",
+    "korean": "체바암",
+    "grammar": "명사",
+    "root": "צָבָא (차바)",
+    "verse_reference": "genesis_2_1"
+  },
+  {
+    "id": "f87a002c-8e5e-4d17-8765-8884c46c8141",
+    "hebrew": "אֶת־הַגָּן",
+    "meaning": "동산을",
+    "korean": "에트 하간",
+    "grammar": "명사",
+    "root": "גן (간)",
+    "verse_reference": "genesis_2_10"
+  },
+  {
+    "id": "212da5b9-d54d-41fc-9d6f-d55e0d61a87c",
+    "hebrew": "שָׁם",
+    "meaning": "거기에",
+    "korean": "샴",
+    "grammar": "부사",
+    "root": "שָׁם (샴)",
+    "verse_reference": "genesis_2_12"
+  },
+  {
+    "id": "b59e4aa3-fb1c-4b5f-a51b-1e8b032c4814",
+    "hebrew": "אֵת כָּל-אֶרֶץ",
+    "meaning": "온 땅을",
+    "korean": "에트 콜 에레츠",
+    "grammar": "명사",
+    "root": "כֹּל (콜) + אֶרֶץ (에레츠)",
+    "verse_reference": "genesis_2_13"
+  },
+  {
+    "id": "c2281926-2ed1-42b8-a166-0317decbe049",
+    "hebrew": "בְגַן-עֵדֶן",
+    "meaning": "에덴 동산에",
+    "korean": "베간 에덴",
+    "grammar": "명사",
+    "root": "גַּן (간) + עֵדֶן (에덴)",
+    "verse_reference": "genesis_2_15"
+  },
+  {
+    "id": "1a1c7cb2-adb7-4ce9-b159-f62a2d7ee808",
+    "hebrew": "מִכֹּל",
+    "meaning": "모든 것으로부터, 모든",
+    "korean": "미콜",
+    "grammar": "전치사",
+    "root": "מִן + כֹּל (민 + 콜)",
+    "verse_reference": "genesis_2_16"
+  },
+  {
+    "id": "5fc123eb-8d2b-4b9d-8824-f001b5801c6d",
+    "hebrew": "לֹא תֹאכַל",
+    "meaning": "먹지 말라",
+    "korean": "로 토칼",
+    "grammar": "동사",
+    "root": "א-כ-ל (아칼)",
+    "verse_reference": "genesis_2_17"
+  },
+  {
+    "id": "f9e81b18-5010-4abd-8416-ae5432f2c106",
+    "hebrew": "אֲשֶׁר עָשָׂה",
+    "meaning": "그가 만드신",
+    "korean": "아쉐르 아사",
+    "grammar": "동사",
+    "root": "ע-שׂ-ה (아사)",
+    "verse_reference": "genesis_2_2"
+  },
+  {
+    "id": "5ef17cd2-5163-4ce9-adb5-cd91e0f133e6",
+    "hebrew": "אֲשֶׁר-לָקַח",
+    "meaning": "취하신 것",
+    "korean": "아쉐르 라카흐",
+    "grammar": "동사",
+    "root": "ל-ק-ח (라카흐)",
+    "verse_reference": "genesis_2_22"
+  },
+  {
+    "id": "248eb3e0-e80f-42ac-9257-ee4f5bff665e",
+    "hebrew": "וּבָשָׂר מִבְּשָׂרִי",
+    "meaning": "내 살에서 나온 살",
+    "korean": "우바사르 미브사리",
+    "grammar": "명사",
+    "root": "ב-ש-ר (바사르)",
+    "verse_reference": "genesis_2_23"
+  },
+  {
+    "id": "daa2b22e-e678-43b2-bd08-cda50ac74158",
+    "hebrew": "וְאֶת-אִמּוֹ",
+    "meaning": "그리고 그의 어머니를",
+    "korean": "베에트 이모",
+    "grammar": "명사",
+    "root": "אֵם (엠)",
+    "verse_reference": "genesis_2_24"
+  }
+]

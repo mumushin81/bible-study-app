@@ -23,7 +23,11 @@ const supabase = createClient(
   process.env.VITE_SUPABASE_ANON_KEY!
 )
 
-const OUTPUT_DIR = join(process.cwd(), 'output', 'genesis1_artistic_jpgs')
+const OUTPUT_DIR = join(process.cwd(), 'output', 'genesis1_artistic_jpgs_9x16')
+
+// 9:16 비율 (모바일 최적화)
+const IMAGE_WIDTH = 576
+const IMAGE_HEIGHT = 1024
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 파스텔 색상 팔레트 (가이드라인)
@@ -527,8 +531,8 @@ async function generateGenesis1Jpgs() {
         const filename = `word_${word.id.replace(/-/g, '_')}.jpg`
         const filepath = join(OUTPUT_DIR, filename)
 
-        // Canvas 생성
-        const canvas = createCanvas(512, 512)
+        // Canvas 생성 (9:16 비율)
+        const canvas = createCanvas(IMAGE_WIDTH, IMAGE_HEIGHT)
 
         // 카테고리별 렌더링
         const renderer = getCategoryRenderer(word.grammar, word.meaning, word.hebrew)

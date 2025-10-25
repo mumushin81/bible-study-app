@@ -1,0 +1,146 @@
+[
+  {
+    "id": "0399ffa1-1b49-41b9-ad1f-1a67f45defb1",
+    "hebrew": "וּלְכָל-חַיַּת הָאָרֶץ",
+    "meaning": "그리고 땅의 모든 짐승에게",
+    "korean": "울콜 하야트 하아레츠",
+    "grammar": "명사",
+    "root": "חַיָּה (하야)",
+    "verse_reference": "창세기 1:30"
+  },
+  {
+    "id": "0a28240b-5408-41ae-bc85-ac548a5ea124",
+    "hebrew": "אֲשֶׁר זַרְעוֹ-בוֹ",
+    "meaning": "그 씨가 그 안에 있는",
+    "korean": "아쉐르 자르오 보",
+    "grammar": "명사",
+    "root": "ז-ר-ע (자라)",
+    "verse_reference": "창세기 1:12"
+  },
+  {
+    "id": "0c78b462-f829-4818-8b70-2e331ae5d19a",
+    "hebrew": "אֲשֶׁר מִתַּחַת",
+    "meaning": "아래에 있는",
+    "korean": "아쉐르 미타하트",
+    "grammar": "대명사",
+    "root": "אֲשֶׁר (아쉐르) / תַּחַת (타하트)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "0d0d1392-e327-41f5-8bc1-34aa87837a2c",
+    "hebrew": "לְמִינֵהֶם",
+    "meaning": "그들의 종류대로",
+    "korean": "레미네헴",
+    "grammar": "명사",
+    "root": "מִין (민)",
+    "verse_reference": "창세기 1:21"
+  },
+  {
+    "id": "0eb5747c-8736-443d-a969-beed619197b4",
+    "hebrew": "עַל-הָאָרֶץ",
+    "meaning": "땅 위에",
+    "korean": "알 하아레츠",
+    "grammar": "전치사",
+    "root": "עַל (알), א-ר-ץ (에레츠)",
+    "verse_reference": "창세기 1:20"
+  },
+  {
+    "id": "0f3c8cf6-f88a-44a5-bfee-9e90f17a4c75",
+    "hebrew": "וּבֵין הַחֹשֶׁךְ",
+    "meaning": "그리고 어둠 사이",
+    "korean": "우벤 하호쉐크",
+    "grammar": "명사",
+    "root": "חֹשֶׁךְ (호쉐크)",
+    "verse_reference": "창세기 1:18"
+  },
+  {
+    "id": "10274540-1633-43f7-99b7-92225b43dd1e",
+    "hebrew": "וַיְהִי בֹקֶר",
+    "meaning": "그리고 아침이 되니",
+    "korean": "바예히 보케르",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:31"
+  },
+  {
+    "id": "128f7f4d-f796-4925-b6b1-371b2336b4b1",
+    "hebrew": "וְלַחֹשֶׁךְ",
+    "meaning": "그리고 어둠에게",
+    "korean": "베라호쉐크",
+    "grammar": "명사",
+    "root": "חֹשֶׁךְ (호쉐크)",
+    "verse_reference": "창세기 1:5"
+  },
+  {
+    "id": "14e02c27-d175-4b23-a0bf-6a5c3e08c704",
+    "hebrew": "לָרָקִיעַ",
+    "meaning": "궁창에",
+    "korean": "라라키아",
+    "grammar": "명사",
+    "root": "ר-ק-ע (라카)",
+    "verse_reference": "창세기 1:7"
+  },
+  {
+    "id": "15831a8c-7592-49f5-81c5-1f55420e230c",
+    "hebrew": "הַשָּׁמַיִם",
+    "meaning": "하늘들",
+    "korean": "하샤마임",
+    "grammar": "명사",
+    "root": "שָׁמַיִם (샤마임)",
+    "verse_reference": "창세기 1:1"
+  },
+  {
+    "id": "15e29858-fb44-497e-b735-349cb5791971",
+    "hebrew": "וִיהִי",
+    "meaning": "그리고 되게 하라",
+    "korean": "비히",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:6"
+  },
+  {
+    "id": "16817491-1eba-4fd6-84d4-5b6925eb8d4c",
+    "hebrew": "יוֹם אֶחָד",
+    "meaning": "첫째 날, 하나의 날",
+    "korean": "욤 에하드",
+    "grammar": "명사",
+    "root": "יוֹם (욤) + אֶחָד (에하드)",
+    "verse_reference": "창세기 1:5"
+  },
+  {
+    "id": "194b1466-83f0-4c4e-ad2d-80b0bf2a76f4",
+    "hebrew": "וַיְהִי בֹקֶר",
+    "meaning": "그리고 아침이 되었다",
+    "korean": "바예히 보케르",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야) + בֹּקֶר (보케르)",
+    "verse_reference": "창세기 1:5"
+  },
+  {
+    "id": "19bfc905-38c4-44b3-a396-73d27d3f823b",
+    "hebrew": "וְהָיוּ",
+    "meaning": "그리고 그것들이 되다",
+    "korean": "베하유",
+    "grammar": "동사",
+    "root": "ה-י-ה (하야)",
+    "verse_reference": "창세기 1:15"
+  },
+  {
+    "id": "1b777c41-f195-4f5b-968f-fb7384882447",
+    "hebrew": "נָתַתִּי",
+    "meaning": "내가 주었다",
+    "korean": "나타티",
+    "grammar": "동사",
+    "root": "נ-ת-ן (나탄)",
+    "verse_reference": "창세기 1:29"
+  },
+  {
+    "id": "1d77c43e-2ffe-4d8e-8239-9e599ea78f16",
+    "hebrew": "אֶת־הַמַּיִם",
+    "meaning": "물을",
+    "korean": "에트 하마임",
+    "grammar": "명사",
+    "root": "מַיִם (마임)",
+    "verse_reference": "창세기 1:22"
+  }
+]
