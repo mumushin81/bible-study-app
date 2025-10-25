@@ -16,7 +16,7 @@ const supabase = createClient(
   process.env.SUPABASE_SERVICE_ROLE_KEY!  // Admin 권한 필요
 )
 
-const JPG_DIR = join(process.cwd(), 'output', 'genesis1_jpgs')
+const JPG_DIR = join(process.cwd(), 'output', 'genesis1_artistic_jpgs')
 
 async function uploadAndUpdateUrls() {
   console.log('📤 창세기 1장 JPG 업로드 및 URL 업데이트 시작\n')
