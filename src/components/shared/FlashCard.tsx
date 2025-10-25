@@ -70,20 +70,22 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute inset-0 flex items-center justify-center z-0 pointer-events-none rounded-2xl overflow-hidden"
+          className="absolute top-0 left-0 right-0 h-[70%] flex items-center justify-center z-0 pointer-events-none rounded-t-2xl overflow-hidden"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
           }}
         >
-          <HebrewIcon
-            word={word.hebrew}
-            iconUrl={word.iconUrl}
-            iconSvg={word.iconSvg}
-            size={512}
-            color={darkMode ? '#ffffff' : '#1f2937'}
-            className="w-full h-full"
-          />
+          <div className="w-full aspect-square flex items-center justify-center">
+            <HebrewIcon
+              word={word.hebrew}
+              iconUrl={word.iconUrl}
+              iconSvg={word.iconSvg}
+              size={512}
+              color={darkMode ? '#ffffff' : '#1f2937'}
+              className="w-full h-full"
+            />
+          </div>
         </div>
 
         {/* 앞면 - 텍스트 및 버튼만 */}
