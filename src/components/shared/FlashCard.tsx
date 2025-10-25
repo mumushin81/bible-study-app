@@ -120,23 +120,30 @@ export default function FlashCard({
             />
           </div>
 
-          {/* 하단 컨텐츠 영역 (20% 높이) */}
+          {/* 하단 컨텐츠 영역 (20% 높이) - 품사 색상 독립 */}
           <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${
-            darkMode ? 'bg-gray-900/80' : 'bg-white/80'
-          } backdrop-blur-sm`}>
-            {/* 알파벳 읽기 - 동적 폰트 크기 */}
+            darkMode ? 'bg-gray-900' : 'bg-white'
+          }`}>
+            {/* 알파벳 읽기 - 동적 폰트 크기, 멀티라인 */}
             {word.letters && (
               <div
                 className={`${
                   word.letters.length <= 15 ? 'text-base' :
                   word.letters.length <= 25 ? 'text-sm' :
-                  word.letters.length <= 35 ? 'text-xs' : 'text-[10px]'
-                } font-semibold mb-1 px-3 py-1 rounded-lg max-w-full break-words text-center ${
+                  word.letters.length <= 40 ? 'text-xs' : 'text-[11px]'
+                } font-semibold mb-1 px-2 py-0.5 rounded-md w-full text-center leading-tight ${
                   darkMode
-                    ? 'bg-emerald-900/30 text-emerald-200 border border-emerald-700/50'
-                    : 'bg-emerald-50 text-emerald-800 border border-emerald-200'
+                    ? 'text-emerald-300'
+                    : 'text-emerald-700'
                 }`}
                 dir="rtl"
+                style={{
+                  wordBreak: 'break-word',
+                  overflowWrap: 'break-word',
+                  whiteSpace: 'normal',
+                  maxHeight: '2.5rem',
+                  overflow: 'visible'
+                }}
               >
                 {word.letters}
               </div>
@@ -207,10 +214,10 @@ export default function FlashCard({
             />
           </div>
 
-          {/* 하단 뜻 영역 (30% 높이) */}
+          {/* 하단 뜻 영역 (30% 높이) - 품사 색상 독립 */}
           <div className={`relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 ${
-            darkMode ? 'bg-gray-900/90' : 'bg-white/90'
-          } backdrop-blur-sm`}>
+            darkMode ? 'bg-gray-900' : 'bg-white'
+          }`}>
             {/* 한국어 뜻 */}
             <div
               className={`text-2xl sm:text-3xl font-bold mb-2 text-center ${
