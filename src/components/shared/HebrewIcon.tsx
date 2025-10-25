@@ -70,6 +70,9 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
           width: `${size}px`,
           height: `${size}px`,
           display: 'inline-block',
+          imageRendering: '-webkit-optimize-contrast',
+          shapeRendering: 'geometricPrecision',
+          textRendering: 'geometricPrecision',
         }}
         dangerouslySetInnerHTML={{ __html: uniqueSvg }}
       />
