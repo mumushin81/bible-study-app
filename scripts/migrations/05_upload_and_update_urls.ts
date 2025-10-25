@@ -16,7 +16,7 @@ const supabase = createClient(
   process.env.SUPABASE_SERVICE_ROLE_KEY!  // Admin 권한 필요
 )
 
-const JPG_DIR = join(process.cwd(), 'output', 'all_words_jpg')
+const JPG_DIR = join(process.cwd(), 'output', 'all_words_jpg_v2')
 
 async function uploadAndUpdateUrls() {
   console.log('📤 JPG 업로드 및 URL 업데이트 시작\n')
