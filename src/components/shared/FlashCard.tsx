@@ -70,7 +70,7 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute top-4 left-4 right-4 h-[calc(80%-2rem)] flex items-center justify-center z-20 pointer-events-none"
+          className="absolute top-0 left-0 right-0 h-[80%] flex items-center justify-center z-20 pointer-events-none rounded-t-2xl overflow-hidden"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
@@ -131,8 +131,8 @@ export default function FlashCard({
           {/* 이미지 영역 (80% 높이) - 투명 배경으로 SVG 노출 */}
           <div className="relative w-full h-[80%] flex-shrink-0 bg-transparent" />
 
-          {/* 하단 컨텐츠 영역 (20% 높이) - 완전 불투명 배경 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-gray-900 pointer-events-auto z-10">
+          {/* 하단 컨텐츠 영역 (20% 높이) - 80% 투명도 배경 */}
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-gray-900/80 pointer-events-auto z-10">
             {/* 히브리어 원문 */}
             <div
               className="text-xl sm:text-2xl font-bold mb-1 text-white"
@@ -196,8 +196,8 @@ export default function FlashCard({
           {/* 이미지 영역 (80% 높이) - 투명 배경으로 SVG 노출 */}
           <div className="relative w-full h-[80%] flex-shrink-0 bg-transparent" />
 
-          {/* 하단 뜻 영역 (20% 높이) - 완전 불투명 배경 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 bg-black pointer-events-auto z-10">
+          {/* 하단 뜻 영역 (20% 높이) - 70% 투명도 배경 */}
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 bg-black/70 pointer-events-auto z-10">
             {/* 한국어 뜻 */}
             <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white">
               {word.meaning}
