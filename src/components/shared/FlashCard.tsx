@@ -82,9 +82,6 @@ export default function FlashCard({
           <HebrewIcon
             word={word.hebrew}
             iconUrl={word.iconUrl}
-            iconSvg={word.iconSvg}
-            size={512}
-            color={darkMode ? '#ffffff' : '#1f2937'}
             className="w-full h-full object-contain"
           />
         </div>

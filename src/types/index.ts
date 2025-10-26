@@ -6,8 +6,7 @@ export interface Word {
   letters?: string;  // 글자별 분해 (예: "ש(sh) + ל(l) + ו(o) + ם(m)")
   root: string;
   grammar: string;  // 간단한 품사 (명사/동사/형용사/전치사/접속사/부사/대명사)
-  iconUrl?: string;  // ✨ JPG 아이콘 URL (우선순위 1)
-  iconSvg?: string;  // 레거시 SVG 아이콘 코드 (fallback)
+  iconUrl?: string;  // DB에서 로드한 이미지 URL
 }
 
 export interface CommentarySection {

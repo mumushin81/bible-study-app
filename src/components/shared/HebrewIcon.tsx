@@ -1,11 +1,10 @@
-import React, { useId, useMemo, useState } from 'react';
-import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWord, type IconProps } from '../icons';
-import { FileText } from 'lucide-react';
+import React, { useState } from 'react';
 
-interface HebrewIconProps extends IconProps {
+interface HebrewIconProps {
   word: string;
-  iconSvg?: string; // 레거시 SVG 코드 (fallback)
-  iconUrl?: string; // ✨ JPG 이미지 URL (우선순위 1)
+  iconUrl?: string; // DB에서 로드한 이미지 URL
+  size?: number;
+  className?: string;
 }
 
 /**
@@ -23,16 +22,11 @@ function isValidFluxImage(url: string): boolean {
 
 const HebrewIcon: React.FC<HebrewIconProps> = ({
   word,
-  iconSvg,
-  iconUrl,  // ✨ 새 prop 추가
-  size = 32,
+  iconUrl,
   className = '',
-  color = 'currentColor'
 }) => {
-  // ⚠️ Hooks는 항상 최상단에서 호출해야 함 (조건문 밖에서)
   const [imageError, setImageError] = useState(false);
   const [isInvalidFormat, setIsInvalidFormat] = useState(false);
-  const reactId = useId();
 
   // FLUX 이미지 형식 검증
   React.useEffect(() => {
@@ -43,26 +37,6 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
       setIsInvalidFormat(false);
     }
   }, [iconUrl]);
-
-  // Generate unique SVG with namespaced IDs to prevent gradient collisions
-  const uniqueSvg = useMemo(() => {
-    if (!iconSvg || iconSvg.trim().length === 0) {
-      console.log(`[HebrewIcon] No SVG for word: ${word}, iconSvg:`, iconSvg);
-      return null;
-    }
-
-    // Generate unique prefix based on word + React stable ID (not Math.random()!)
-    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${reactId.replace(/:/g, '-')}`;
-
-    // Replace all id="..." with id="uniqueId-..."
-    let processedSvg = iconSvg.replace(/id="([^"]+)"/g, `id="${uniqueId}-$1"`);
-
-    // Replace all url(#...) with url(#uniqueId-...)
-    processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
-
-    console.log(`[HebrewIcon] ✅ SVG generated for word: ${word}, length: ${processedSvg.length}`);
-    return processedSvg;
-  }, [iconSvg, word, reactId]);
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 검증: FLUX 이미지 형식만 허용
@@ -102,10 +76,8 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   }
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 우선순위 1: JPG 이미지 (iconUrl)
+  // 이미지 표시: DB의 icon_url만 사용
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  console.log(`[HebrewIcon] ${word}: iconUrl=${iconUrl ? 'EXISTS' : 'NULL'}, imageError=${imageError}`);
-
   if (iconUrl && !imageError) {
     console.log(`[HebrewIcon] 🎨 Rendering JPG for ${word}: ${iconUrl}`);
     return (
@@ -121,7 +93,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         }}
         loading="lazy"
         onError={() => {
-          console.warn(`[HebrewIcon] ❌ Image load failed for ${word}, using SVG fallback`);
+          console.warn(`[HebrewIcon] ❌ Image load failed for ${word}`);
           setImageError(true);
         }}
       />
@@ -129,123 +101,33 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   }
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 에러 표시: JPG 로딩 실패
+  // 에러 또는 이미지 없음: 빈 상태 표시
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  if (iconUrl && imageError) {
-    return (
-      <div
-        className={className}
-        style={{
-          width: '100%',
-          height: '100%',
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          justifyContent: 'center',
-          backgroundColor: '#fee',
-          border: '2px solid #f88',
-          borderRadius: '8px',
-          padding: '16px',
-          color: '#c00',
-          fontSize: '14px',
-          textAlign: 'center',
-        }}
-      >
-        <div style={{ fontWeight: 'bold', marginBottom: '8px' }}>
-          ❌ 이미지 로딩 실패
-        </div>
-        <div style={{ fontSize: '12px', wordBreak: 'break-all' }}>
-          {word}
-        </div>
-        <div style={{ fontSize: '10px', marginTop: '8px', opacity: 0.7 }}>
-          URL: {iconUrl.substring(0, 50)}...
-        </div>
-      </div>
-    );
-  }
-
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 우선순위 2: SVG (레거시 fallback)
-  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  if (uniqueSvg) {
-    return (
-      <div
-        className={className}
-        style={{
-          width: `${size}px`,
-          height: `${size}px`,
-          display: 'inline-block',
-          imageRendering: '-webkit-optimize-contrast',
-          shapeRendering: 'geometricPrecision',
-          textRendering: 'geometricPrecision',
-        }}
-        dangerouslySetInnerHTML={{ __html: uniqueSvg }}
-      />
-    );
-  }
-
-  // 2. 커스텀 아이콘이 있는지 확인 (레거시 지원)
-  const hasCustomIcon = word in HebrewIcons;
-
-  if (hasCustomIcon) {
-    const iconName = HebrewIcons[word as HebrewWord];
-    
-    // 동적으로 컴포넌트 렌더링
-    switch (iconName) {
-      case 'BereshitIcon':
-        return (
-          <BereshitIcon 
-            size={size} 
-            className={className} 
-            color={color} 
-          />
-        );
-      case 'ElohimIcon':
-        return (
-          <ElohimIcon 
-            size={size} 
-            className={className} 
-            color={color} 
-          />
-        );
-      case 'BaraIcon':
-        return (
-          <BaraIcon 
-            size={size} 
-            className={className} 
-            color={color} 
-          />
-        );
-      case 'OrIcon':
-        return (
-          <OrIcon 
-            size={size} 
-            className={className} 
-            color={color} 
-          />
-        );
-      default:
-        break;
-    }
-  }
-
-  // 기본 SVG 아이콘 사용 (이모지 대신)
   return (
     <div
       className={className}
       style={{
-        width: `${size}px`,
-        height: `${size}px`,
-        display: 'inline-flex',
+        width: '100%',
+        height: '100%',
+        display: 'flex',
+        flexDirection: 'column',
         alignItems: 'center',
         justifyContent: 'center',
+        backgroundColor: '#f5f5f5',
+        border: '2px dashed #ccc',
+        borderRadius: '8px',
+        padding: '16px',
+        color: '#666',
+        fontSize: '14px',
+        textAlign: 'center',
       }}
     >
-      <FileText
-        size={size * 0.8}
-        color={color}
-        strokeWidth={1.5}
-      />
+      <div style={{ fontSize: '32px', marginBottom: '8px' }}>
+        {word}
+      </div>
+      <div style={{ fontSize: '10px', opacity: 0.6 }}>
+        {imageError ? '이미지 로딩 실패' : '이미지 없음'}
+      </div>
     </div>
   );
 };
