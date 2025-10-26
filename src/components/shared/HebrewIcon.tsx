@@ -17,7 +17,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   color = 'currentColor'
 }) => {
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 우선순위 1: JPG 이미지 (iconUrl) - 원본 크기 꽉 차게
+  // 우선순위 1: JPG 이미지 (iconUrl)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   if (iconUrl) {
     return (
@@ -28,7 +28,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         style={{
           width: '100%',
           height: '100%',
-          objectFit: 'cover',
+          objectFit: 'contain',
         }}
         loading="lazy"
       />
