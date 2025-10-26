@@ -17,7 +17,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   color = 'currentColor'
 }) => {
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 우선순위 1: JPG 이미지 (iconUrl)
+  // 우선순위 1: JPG 이미지 (iconUrl) - 아웃라인 스타일
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   if (iconUrl) {
     return (
@@ -28,9 +28,11 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         style={{
           width: '100%',
           height: '100%',
-          objectFit: 'cover',  // 9:16 비율 유지하면서 채움
+          objectFit: 'contain',
+          filter: 'brightness(0) invert(1) opacity(0.15)',  // 아웃라인 느낌
+          mixBlendMode: 'overlay',
         }}
-        loading="lazy"  // 성능 최적화
+        loading="lazy"
       />
     );
   }
