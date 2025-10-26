@@ -1,4 +1,4 @@
-import React, { useId, useMemo } from 'react';
+import React, { useId, useMemo, useState } from 'react';
 import { BereshitIcon, ElohimIcon, BaraIcon, OrIcon, HebrewIcons, type HebrewWord, type IconProps } from '../icons';
 import { FileText } from 'lucide-react';
 
@@ -16,10 +16,11 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   className = '',
   color = 'currentColor'
 }) => {
+  const [imageError, setImageError] = useState(false);
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 우선순위 1: JPG 이미지 (iconUrl)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  if (iconUrl) {
+  if (iconUrl && !imageError) {
     return (
       <img
         src={iconUrl}
@@ -31,6 +32,10 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
           objectFit: 'contain',
         }}
         loading="lazy"
+        onError={() => {
+          console.warn(`[HebrewIcon] Image load failed for ${word}, using SVG fallback`);
+          setImageError(true);
+        }}
       />
     );
   }
