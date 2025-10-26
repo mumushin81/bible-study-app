@@ -53,16 +53,16 @@ export function getGrammarColors(grammar: string): GrammarColors {
 }
 
 /**
- * Get grammar-based border color with transparency
+ * Get grammar-based border color with transparency (darker)
  */
 export function getGrammarBorderColor(grammar: string, darkMode: boolean): string {
   const config = getGrammarColorConfig(grammar);
   const { color, lightShade, darkShade } = config;
 
   if (darkMode) {
-    return `border-${color}-${darkShade}/60`;
+    return `border-${color}-${darkShade}/80`;
   } else {
-    return `border-${color}-${lightShade}/70`;
+    return `border-${color}-${lightShade}/90`;
   }
 }
 
@@ -94,13 +94,13 @@ export function getGrammarCardBackground(grammar: string, darkMode: boolean): st
 }
 
 /**
- * Get grammar-based bottom content background (70% opacity)
+ * Get grammar-based bottom content background (50% opacity)
  */
 export function getGrammarBottomBackground(grammar: string | undefined, darkMode: boolean): string {
   if (!grammar) {
-    return darkMode ? 'bg-gray-900/80' : 'bg-white/80';
+    return darkMode ? 'bg-gray-900/50' : 'bg-white/50';
   }
-  return getGrammarBackground(grammar, darkMode, 70);
+  return getGrammarBackground(grammar, darkMode, 50);
 }
 
 /**
@@ -111,4 +111,14 @@ export function getGrammarTopBackground(grammar: string | undefined, darkMode: b
     return darkMode ? 'bg-gray-800/70' : 'bg-gray-50/70';
   }
   return getGrammarBackground(grammar, darkMode, 70);
+}
+
+/**
+ * Get grammar-based top area border (for image area outline)
+ */
+export function getGrammarTopBorder(grammar: string | undefined, darkMode: boolean): string {
+  if (!grammar) {
+    return darkMode ? 'border-b-4 border-gray-700/80' : 'border-b-4 border-gray-200/90';
+  }
+  return `border-b-4 ${getGrammarBorderColor(grammar, darkMode)}`;
 }

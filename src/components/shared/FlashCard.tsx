@@ -13,7 +13,8 @@ import {
   getGrammarColors,
   getGrammarCardBackground,
   getGrammarBottomBackground,
-  getGrammarTopBackground
+  getGrammarTopBackground,
+  getGrammarTopBorder
 } from '../../utils/grammarColors';
 
 interface FlashCardProps {
@@ -133,8 +134,8 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 */}
-          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)}`} />
+          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 + 하단 아웃라인 */}
+          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)} ${getGrammarTopBorder(word.grammar, darkMode)}`} />
 
           {/* 하단 컨텐츠 영역 (20% 높이) - 품사별 색상 70% 투명도 */}
           <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${getGrammarBottomBackground(word.grammar, darkMode)} pointer-events-auto z-10`}>
@@ -198,8 +199,8 @@ export default function FlashCard({
             isolation: 'isolate',
           }}
         >
-          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 */}
-          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)}`} />
+          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 + 하단 아웃라인 */}
+          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)} ${getGrammarTopBorder(word.grammar, darkMode)}`} />
 
           {/* 하단 뜻 영역 (20% 높이) - 품사별 색상 70% 투명도 */}
           <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 ${getGrammarBottomBackground(word.grammar, darkMode)} pointer-events-auto z-10`}>
