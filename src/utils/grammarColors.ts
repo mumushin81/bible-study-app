@@ -96,34 +96,34 @@ export function getGrammarColors(grammar: string): GrammarColors {
 }
 
 /**
- * Get grammar-based colors for flashcard box backgrounds
+ * Get grammar-based colors for flashcard box backgrounds (outline only)
  */
 export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
   const g = grammar.toLowerCase();
 
   if (darkMode) {
-    // Dark mode - subtle colored gradients
-    if (g.includes('명사')) return 'bg-gradient-to-br from-blue-900/20 to-blue-800/10 border-blue-700/50';
-    if (g.includes('동사')) return 'bg-gradient-to-br from-green-900/20 to-green-800/10 border-green-700/50';
-    if (g.includes('형용사')) return 'bg-gradient-to-br from-amber-900/20 to-amber-800/10 border-amber-700/50';
-    if (g.includes('부사')) return 'bg-gradient-to-br from-orange-900/20 to-orange-800/10 border-orange-700/50';
-    if (g.includes('전치사')) return 'bg-gradient-to-br from-cyan-900/20 to-cyan-800/10 border-cyan-700/50';
-    if (g.includes('접속사')) return 'bg-gradient-to-br from-pink-900/20 to-pink-800/10 border-pink-700/50';
-    if (g.includes('대명사')) return 'bg-gradient-to-br from-indigo-900/20 to-indigo-800/10 border-indigo-700/50';
-    if (g.includes('관사')) return 'bg-gradient-to-br from-teal-900/20 to-teal-800/10 border-teal-700/50';
-    if (g.includes('감탄사')) return 'bg-gradient-to-br from-rose-900/20 to-rose-800/10 border-rose-700/50';
+    // Dark mode - solid background with colored border only
+    if (g.includes('명사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-blue-500';
+    if (g.includes('동사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-green-500';
+    if (g.includes('형용사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-amber-500';
+    if (g.includes('부사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-orange-500';
+    if (g.includes('전치사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-cyan-500';
+    if (g.includes('접속사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-pink-500';
+    if (g.includes('대명사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-indigo-500';
+    if (g.includes('관사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-teal-500';
+    if (g.includes('감탄사')) return 'bg-gradient-to-br from-gray-800 to-gray-900 border-rose-500';
     return 'bg-gradient-to-br from-gray-800 to-gray-900 border-gray-700';
   } else {
-    // Light mode - soft colored gradients
-    if (g.includes('명사')) return 'bg-gradient-to-br from-blue-50 to-blue-100/50 border-blue-200';
-    if (g.includes('동사')) return 'bg-gradient-to-br from-green-50 to-green-100/50 border-green-200';
-    if (g.includes('형용사')) return 'bg-gradient-to-br from-amber-50 to-amber-100/50 border-amber-200';
-    if (g.includes('부사')) return 'bg-gradient-to-br from-orange-50 to-orange-100/50 border-orange-200';
-    if (g.includes('전치사')) return 'bg-gradient-to-br from-cyan-50 to-cyan-100/50 border-cyan-200';
-    if (g.includes('접속사')) return 'bg-gradient-to-br from-pink-50 to-pink-100/50 border-pink-200';
-    if (g.includes('대명사')) return 'bg-gradient-to-br from-indigo-50 to-indigo-100/50 border-indigo-200';
-    if (g.includes('관사')) return 'bg-gradient-to-br from-teal-50 to-teal-100/50 border-teal-200';
-    if (g.includes('감탄사')) return 'bg-gradient-to-br from-rose-50 to-rose-100/50 border-rose-200';
+    // Light mode - white background with colored border only
+    if (g.includes('명사')) return 'bg-gradient-to-br from-white to-gray-50 border-blue-400';
+    if (g.includes('동사')) return 'bg-gradient-to-br from-white to-gray-50 border-green-400';
+    if (g.includes('형용사')) return 'bg-gradient-to-br from-white to-gray-50 border-amber-400';
+    if (g.includes('부사')) return 'bg-gradient-to-br from-white to-gray-50 border-orange-400';
+    if (g.includes('전치사')) return 'bg-gradient-to-br from-white to-gray-50 border-cyan-400';
+    if (g.includes('접속사')) return 'bg-gradient-to-br from-white to-gray-50 border-pink-400';
+    if (g.includes('대명사')) return 'bg-gradient-to-br from-white to-gray-50 border-indigo-400';
+    if (g.includes('관사')) return 'bg-gradient-to-br from-white to-gray-50 border-teal-400';
+    if (g.includes('감탄사')) return 'bg-gradient-to-br from-white to-gray-50 border-rose-400';
     return 'bg-gradient-to-br from-white to-gray-50 border-gray-200';
   }
 }

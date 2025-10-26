@@ -70,22 +70,20 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute top-0 left-0 right-0 h-[90%] flex items-center justify-center z-0 pointer-events-none rounded-t-2xl overflow-hidden"
+          className="absolute top-0 left-0 right-0 h-[80%] flex items-center justify-center z-0 pointer-events-none rounded-t-2xl overflow-hidden"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
           }}
         >
-          <div className="w-full aspect-square flex items-center justify-center">
-            <HebrewIcon
-              word={word.hebrew}
-              iconUrl={word.iconUrl}
-              iconSvg={word.iconSvg}
-              size={512}
-              color={darkMode ? '#ffffff' : '#1f2937'}
-              className="w-full h-full"
-            />
-          </div>
+          <HebrewIcon
+            word={word.hebrew}
+            iconUrl={word.iconUrl}
+            iconSvg={word.iconSvg}
+            size={512}
+            color={darkMode ? '#ffffff' : '#1f2937'}
+            className="w-full h-full object-contain"
+          />
         </div>
 
         {/* 앞면 - 텍스트 및 버튼만 */}
@@ -130,41 +128,50 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (90% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
-          <div className="relative w-full h-[90%] flex-shrink-0" />
+          {/* 이미지 영역 (80% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[80%] flex-shrink-0" />
 
-          {/* 하단 컨텐츠 영역 (10% 높이) - 완전 불투명 배경 */}
-          <div className="relative w-full h-[10%] flex items-center justify-between px-4 bg-gray-900 pointer-events-auto z-10">
+          {/* 하단 컨텐츠 영역 (20% 높이) - 완전 불투명 배경 */}
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-3 bg-gray-900 pointer-events-auto z-10">
             {/* 히브리어 원문 */}
             <div
-              className="text-lg sm:text-xl font-bold text-white"
+              className="text-xl sm:text-2xl font-bold mb-1 text-white"
               dir="rtl"
             >
               {word.hebrew}
             </div>
 
-            {/* 발음 버튼 */}
+            {/* 발음 */}
             {word.korean && (
-              <button
-                onClick={(e) => {
-                  e.stopPropagation();
-                  speakHebrew(word.hebrew);
-                }}
-                className="p-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white transition-all flex items-center gap-1"
-                aria-label="발음 듣기"
-              >
-                <Volume2 className="w-4 h-4" />
-                <span className="text-sm">[{word.korean}]</span>
-              </button>
+              <div className="flex items-center gap-2">
+                <div className="text-sm font-bold text-purple-200">
+                  [{word.korean}]
+                </div>
+                <button
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    speakHebrew(word.hebrew);
+                  }}
+                  className="p-1.5 rounded-lg bg-purple-600 hover:bg-purple-700 text-white transition-all"
+                  aria-label="발음 듣기"
+                >
+                  <Volume2 className="w-4 h-4" />
+                </button>
+              </div>
             )}
+
+            {/* 탭 안내 */}
+            <div className="text-xs text-white/70 mt-1">
+              더블 탭하여 뜻 보기
+            </div>
           </div>
         </div>
 
-        {/* 뒷면 - 뜻 표시 (배경색 약간 다르게) */}
+        {/* 뒷면 - 뜻 표시 */}
         <div
           className={`absolute inset-0 rounded-2xl overflow-hidden ${
             word.grammar
-              ? getGrammarCardBackground(word.grammar, darkMode).replace('from-', 'from-opacity-90 from-')
+              ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
                 ? 'bg-gradient-to-br from-gray-900 to-black border-gray-600'
                 : 'bg-gradient-to-br from-gray-50 to-white border-gray-300'
@@ -176,14 +183,19 @@ export default function FlashCard({
             isolation: 'isolate',
           }}
         >
-          {/* 이미지 영역 (90% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
-          <div className="relative w-full h-[90%] flex-shrink-0" />
+          {/* 이미지 영역 (80% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[80%] flex-shrink-0" />
 
-          {/* 하단 뜻 영역 (10% 높이) - 완전 불투명 배경 */}
-          <div className="relative w-full h-[10%] flex items-center justify-center px-6 bg-black pointer-events-auto z-10">
+          {/* 하단 뜻 영역 (20% 높이) - 완전 불투명 배경 */}
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 bg-black pointer-events-auto z-10">
             {/* 한국어 뜻 */}
-            <div className="text-xl sm:text-2xl font-bold text-center text-white">
+            <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white">
               {word.meaning}
+            </div>
+
+            {/* 구절 참조 */}
+            <div className="text-xs text-white/70">
+              📖 {reference}
             </div>
           </div>
         </div>
