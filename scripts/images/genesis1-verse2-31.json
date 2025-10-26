@@ -1,0 +1,1485 @@
+{
+  "total": 185,
+  "wordsToGenerate": [
+    {
+      "hebrew": "אֶת־הַמַּיִם",
+      "meaning": "물을",
+      "korean": "에트 하마임",
+      "ipa": "ʔɛt haˈmajim",
+      "root": "מַיִם (마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֲשֶׁר מִתַּחַת",
+      "meaning": "아래에 있는",
+      "korean": "아쉐르 미타하트",
+      "ipa": "ʔaˈʃɛr mitˈtaχat",
+      "root": "אֲשֶׁר (아쉐르) / תַּחַת (타하트)",
+      "grammar": "대명사"
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅",
+      "korean": "하아레츠",
+      "ipa": "haˈʔarɛts",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּלְמוֹעֲדִים",
+      "meaning": "그리고 절기들을 위하여",
+      "korean": "울모아딤",
+      "ipa": "ulmoʕaˈdim",
+      "root": "מ-ו-ע-ד (모에드)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "물들",
+      "korean": "하마임",
+      "ipa": "hamˈmajim",
+      "root": "מַיִם (마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶל־מָקוֹם אֶחָד",
+      "meaning": "한 곳으로",
+      "korean": "엘 마콤 에하드",
+      "ipa": "ʔɛl maˈkom ʔɛˈħad",
+      "root": "מָקוֹם (마콤) + אֶחָד (에하드)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "וּרְבוּ",
+      "meaning": "그리고 번성하라",
+      "korean": "우르부",
+      "ipa": "urˈvu",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וִיהִי",
+      "meaning": "그리고 되게 하라",
+      "korean": "비히",
+      "ipa": "viˈhi",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בְּהֵמָה",
+      "meaning": "가축",
+      "korean": "베헤마",
+      "ipa": "bəheˈma",
+      "root": "בְּהֵמָה (베헤마)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וָרֶמֶשׂ",
+      "meaning": "그리고 기는 것",
+      "korean": "바레메스",
+      "ipa": "vaˈrɛmɛs",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "물, 바다",
+      "korean": "하마임",
+      "ipa": "hammˈajim",
+      "root": "מַיִם (마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "רָקִיעַ",
+      "meaning": "창공, 궁창",
+      "korean": "라키아",
+      "ipa": "raˈkiʕa",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "meaning": "그대로 되었다",
+      "korean": "바예히 켄",
+      "ipa": "vajəˈhi xen",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
+      "meaning": "씨 맺는 채소",
+      "korean": "에세브 마즈리아 제라",
+      "ipa": "ˈʕesɛv mazˈrijaʕ ˈzɛraʕ",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי עֶרֶב",
+      "meaning": "그리고 저녁이 되고",
+      "korean": "바예히 에레브",
+      "ipa": "vajəˈhi ˈʕɛrɛv",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְעוֹף",
+      "meaning": "그리고 새",
+      "korean": "베오프",
+      "ipa": "vəˈof",
+      "root": "ע-ו-ף (우프)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "פְּרוּ",
+      "meaning": "생육하라",
+      "korean": "페루",
+      "ipa": "pəˈru",
+      "root": "פ-ר-ה (파라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בֵּין הַיּוֹם",
+      "meaning": "낮 사이에",
+      "korean": "벤 하욤",
+      "ipa": "ben hajˈjom",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הָרֹמֶשֶׂת",
+      "meaning": "기어다니는, 번식하는",
+      "korean": "하로메세트",
+      "ipa": "haroˈmɛsɛt",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "meaning": "나무",
+      "korean": "하에츠",
+      "ipa": "haˈʔets",
+      "root": "עֵץ (에츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "יוֹם אֶחָד",
+      "meaning": "첫째 날, 하나의 날",
+      "korean": "욤 에하드",
+      "ipa": "ˈjom ʔɛˈχad",
+      "root": "יוֹם (욤) + אֶחָד (에하드)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "meaning": "내가 주었다",
+      "korean": "나타티",
+      "ipa": "naˈtatti",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ",
+      "meaning": "궁창에",
+      "korean": "비르키아",
+      "ipa": "birˈkiaʔ",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "יִשְׁרְצוּ",
+      "meaning": "번성하게 하라, 떼를 지어 움직이게 하라",
+      "korean": "이쉬레추",
+      "ipa": "jɪʃrəˈtsu",
+      "root": "שׁ-ר-צ (샤라츠)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְהָעוֹף",
+      "meaning": "그리고 새들은",
+      "korean": "베하오프",
+      "ipa": "vəhaˈʕof",
+      "root": "עוֹף (오프)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "meaning": "채소, 풀",
+      "korean": "에세브",
+      "ipa": "ˈʔɛsɛv",
+      "root": "עֵשֶׂב (에세브)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַיַּבָּשָׁה",
+      "meaning": "마른 땅",
+      "korean": "하야바샤",
+      "ipa": "hajabːaˈʃa",
+      "root": "יָבֵשׁ (야베쉬)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בָּרָא",
+      "meaning": "창조하셨다",
+      "korean": "바라",
+      "ipa": "baˈra",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "זֹרֵעַ זֶרַע",
+      "meaning": "씨 맺는",
+      "korean": "조레아 제라",
+      "ipa": "zoˈreaʕ ˈzɛraʕ",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "meaning": "그리고 보라",
+      "korean": "베힌네",
+      "ipa": "vəhinˈne",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַלַּיְלָה",
+      "meaning": "밤을 주관하기 위하여",
+      "korean": "레멤쉘레트 할라일라",
+      "ipa": "ləmɛmˈʃɛlɛt halˈlajla",
+      "root": "מ-שׁ-ל (마샬 - 다스리다)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיַּבְדֵּל",
+      "meaning": "나누셨다",
+      "korean": "바야브델",
+      "ipa": "vajjavˈdel",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "meaning": "그리고 말씀하셨다",
+      "korean": "바요메르",
+      "ipa": "vajˈjomɛr",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "יוֹם הַשִּׁשִּׁי",
+      "meaning": "여섯째 날",
+      "korean": "욤 하쉬쉬",
+      "ipa": "jom haʃiˈʃi",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּבְעוֹף הַשָּׁמַיִם",
+      "meaning": "그리고 하늘의 새",
+      "korean": "우베오프 하샤마임",
+      "ipa": "uvəˈʔof haʃaˈmajim",
+      "root": "עוֹף (오프) + שָׁמַיִם (샤마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בֹ֖קֶר",
+      "meaning": "아침",
+      "korean": "보케르",
+      "ipa": "ˈboqɛr",
+      "root": "בֹּקֶר (보케르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַשָּׁמָיִם",
+      "meaning": "하늘들",
+      "korean": "하샤마임",
+      "ipa": "haʃaˈmajɪm",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֲשֶׁר זַרְעוֹ-בוֹ",
+      "meaning": "그 씨가 그 안에 있는",
+      "korean": "아쉐르 자르오 보",
+      "ipa": "ʔaˈʃɛr zarˈʕo vo",
+      "root": "ז-ר-ע (자라)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עוֹף הַשָּׁמַיִם",
+      "meaning": "하늘의 새",
+      "korean": "오프 하샤마임",
+      "ipa": "ˈʔof haʃaˈmajim",
+      "root": "עוֹף (오프)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "קָרָא",
+      "meaning": "부르셨다",
+      "korean": "카라",
+      "ipa": "qaˈra",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְיִרְדּוּ",
+      "meaning": "그리고 다스리게 하자",
+      "korean": "베이르두",
+      "ipa": "vəjirˈdu",
+      "root": "ר-ד-ה (라다)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְתֵרָאֶה",
+      "meaning": "그리고 드러나라",
+      "korean": "베테라에",
+      "ipa": "vətɛraˈʔɛh",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "הַגְּדֹלִים",
+      "meaning": "큰, 거대한",
+      "korean": "하그돌림",
+      "ipa": "haggəðoˈlim",
+      "root": "גָּדוֹל (가돌)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "טוֹב מְאֹד",
+      "meaning": "심히 좋았다",
+      "korean": "토브 메오드",
+      "ipa": "tov məˈʔod",
+      "root": "טוֹב (토브)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "בַּיַּמִּים",
+      "meaning": "바다들에서",
+      "korean": "바야밈",
+      "ipa": "bajamˈmim",
+      "root": "יָם (얌)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "meaning": "그리고 만드셨다",
+      "korean": "바야아스",
+      "ipa": "vajˈjaʕaʂ",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַיַּבְדֵּל",
+      "meaning": "그리고 나누셨다",
+      "korean": "바야브델",
+      "ipa": "vajjavˈdel",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַיְהִי עֶרֶב",
+      "meaning": "그리고 저녁이 되었다",
+      "korean": "바예히 에레브",
+      "ipa": "vajəˈhi ˈʕɛrɛv",
+      "root": "ה-י-ה (하야) + עֶרֶב (에레브)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְכִבְשֻׁהָ",
+      "meaning": "그리고 정복하라",
+      "korean": "베킵슈하",
+      "ipa": "vəχivˈʃuha",
+      "root": "כ-ב-ש (카바쉬)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "meaning": "좋았다",
+      "korean": "키 토브",
+      "ipa": "ki ˈtov",
+      "root": "טוֹב (토브 - 좋은)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "כָּל-נֶפֶשׁ הַחַיָּה",
+      "meaning": "모든 살아있는 생물",
+      "korean": "콜 네페쉬 하하야",
+      "ipa": "kol nɛˈfɛʃ haχajˈja",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "korean": "엘로힘",
+      "ipa": "ʔɛloˈhim",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
+      "meaning": "온 땅 위에",
+      "korean": "알 페네 콜 하아레츠",
+      "ipa": "ʕal pəˈne χol haˈʔarɛts",
+      "root": "עַל (알) + פָּנִים (파님) + אֶרֶץ (에레츠)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "meaning": "날",
+      "korean": "욤",
+      "ipa": "jom",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "דְגַת הַיָּם",
+      "meaning": "바다의 물고기",
+      "korean": "드갓 하얌",
+      "ipa": "dəˈgat hajˈjam",
+      "root": "דָּג (다그)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "meaning": "살아있는 생명체",
+      "korean": "네페쉬 하야",
+      "ipa": "ˈnɛfɛʃ xajˈja",
+      "root": "נֶפֶשׁ (네페쉬), ח-י-ה (하야)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "לְאֹתֹת",
+      "meaning": "징조들을 위하여",
+      "korean": "레오토트",
+      "ipa": "ləʔoˈtot",
+      "root": "א-ו-ת (오트)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "מִתַּחַת הַשָּׁמַיִם",
+      "meaning": "하늘 아래에서",
+      "korean": "미타하트 하샤마임",
+      "ipa": "mitˈtaħat haʃaˈmajim",
+      "root": "תַּחַת (타하트) + שָׁמַיִם (샤마임)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "meaning": "물",
+      "korean": "하마임",
+      "ipa": "haˈmajɪm",
+      "root": "מַיִם (마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "meaning": "말씀하시기를",
+      "korean": "레모르",
+      "ipa": "leˈmor",
+      "root": "א-מ-ר (아마르)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְחַיְתוֹ-אֶרֶץ",
+      "meaning": "그리고 땅의 짐승",
+      "korean": "베하예토 에레츠",
+      "ipa": "vəχajəˈto ˈʔɛrɛts",
+      "root": "חַיָּה (하야) + אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי־כֵן",
+      "meaning": "그리고 그대로 되었다",
+      "korean": "바예히 켄",
+      "ipa": "vajəˈhi xen",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "לְהַבְדִּיל",
+      "meaning": "나누기 위하여, 구별하기 위하여",
+      "korean": "레하브딜",
+      "ipa": "ləhavˈdil",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אֶת-הַתַּנִּינִם",
+      "meaning": "바다 괴물들을",
+      "korean": "에트 하타니님",
+      "ipa": "ʔɛt hattanniˈnim",
+      "root": "תַּנִּין (타닌)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶת-הָאוֹר",
+      "meaning": "그 빛을",
+      "korean": "에트 하오르",
+      "ipa": "ʔɛt haˈʔor",
+      "root": "אוֹר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "כָל-הָאָרֶץ",
+      "meaning": "온 땅",
+      "korean": "콜 하아레츠",
+      "ipa": "kol haˈʔarɛts",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עֹשֶׂה פְּרִי",
+      "meaning": "열매 맺는",
+      "korean": "오세 페리",
+      "ipa": "ˈʕoseh pəˈri",
+      "root": "ע-שׂ-ה (아사)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "יִקָּווּ",
+      "meaning": "모이라, 모여라",
+      "korean": "이카부",
+      "ipa": "jikˈkavu",
+      "root": "ק-ו-ה (카바)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "לָכֶם",
+      "meaning": "너희에게",
+      "korean": "라켐",
+      "ipa": "laˈχɛm",
+      "root": "לְ (레)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "שֶׁרֶץ",
+      "meaning": "떼를 지어 움직이는 것, 군집 생물",
+      "korean": "쉐레츠",
+      "ipa": "ˈʃɛrɛts",
+      "root": "שׁ-ר-צ (샤라츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "לַיַּבָּשָׁה",
+      "meaning": "마른 땅에",
+      "korean": "라야바샤",
+      "ipa": "lajjabːaˈʃa",
+      "root": "י-ב-שׁ (야베쉬)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיִּתֵּן",
+      "meaning": "그리고 두셨다, 두시다",
+      "korean": "바이텐",
+      "ipa": "vajitˈten",
+      "root": "נ-ת-ן (나탄)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וּמִלְאוּ",
+      "meaning": "그리고 충만하라",
+      "korean": "우밀우",
+      "ipa": "umiləˈʔu",
+      "root": "מ-ל-א (말라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וּלְיָמִים",
+      "meaning": "그리고 날들을 위하여",
+      "korean": "울야밈",
+      "ipa": "uləjaˈmim",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְחֹשֶׁךְ",
+      "meaning": "그리고 어둠",
+      "korean": "베호쉐크",
+      "ipa": "vəˈχoʃɛχ",
+      "root": "חֹשֶׁךְ (호쉐크)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶת־הָאָרֶץ",
+      "meaning": "땅을",
+      "korean": "에트 하아레츠",
+      "ipa": "ʔɛt haˈʔarɛts",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַגָּדֹל",
+      "meaning": "큰 광명체",
+      "korean": "함아오르 하가돌",
+      "ipa": "hamːaˈʔor hagːaˈðol",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּבֵין הַחֹשֶׁךְ",
+      "meaning": "그리고 어둠 사이",
+      "korean": "우벤 하호쉐크",
+      "ipa": "uven haˈχoʃɛχ",
+      "root": "חֹשֶׁךְ (호쉐크)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "יְעוֹפֵף",
+      "meaning": "날아다니게 하라",
+      "korean": "예오페프",
+      "ipa": "jəoˈfef",
+      "root": "ע-ו-ף (우프)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אֶת-הָרָקִיעַ",
+      "meaning": "궁창을",
+      "korean": "에트 하라키아",
+      "ipa": "ʔɛt haraˈkiaʕ",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "שָׁרְצוּ",
+      "meaning": "번성하다, 우글거리다",
+      "korean": "샤르쭈",
+      "ipa": "ʃarˈtsu",
+      "root": "שׁ-ר-ץ (샤라츠)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "לְמִינָהּ",
+      "meaning": "그 종류대로",
+      "korean": "레미나",
+      "ipa": "ləmiˈnah",
+      "root": "מִין (민)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּבֵין הַמַּיִם",
+      "meaning": "그리고 물들 사이를",
+      "korean": "우벤 하마임",
+      "ipa": "uven hamˈmajim",
+      "root": "בֵּין (벤) / מַיִם (마임)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 ~이 되었다",
+      "korean": "바예히",
+      "ipa": "vaˈjəhi",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "הַמָּיִם",
+      "meaning": "물들, 물",
+      "korean": "하마임",
+      "ipa": "hamaˈjim",
+      "root": "מַיִם (마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עַל-פְּנֵי רְקִיעַ",
+      "meaning": "궁창의 표면 위에",
+      "korean": "알 페네 레키아",
+      "ipa": "al pəˈne rəˈkia",
+      "root": "עַל (알), פָּנִים (파님), ר-ק-ע (라카)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַקָּטֹן",
+      "meaning": "작은 광명체",
+      "korean": "함아오르 하카톤",
+      "ipa": "hamːaˈʔor hakːaˈton",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "보셨다",
+      "korean": "바야르",
+      "ipa": "vajˈjar",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַֽיְהִי",
+      "meaning": "그리고 있었다, 되었다",
+      "korean": "바예히",
+      "ipa": "vajəˈhi",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַיִּבְרָא",
+      "meaning": "그리고 창조하셨다",
+      "korean": "바이브라",
+      "ipa": "vajjivˈra",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "עַל",
+      "meaning": "~위에, ~에",
+      "korean": "알",
+      "ipa": "ʔal",
+      "root": "עַל (알)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "meaning": "먹을거리로",
+      "korean": "레오클라",
+      "ipa": "ləʔoχˈla",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ",
+      "meaning": "빛과 어둠 사이를",
+      "korean": "벤 하오르 우벤 하호쉐크",
+      "ipa": "ben haˈʔor uven haˈħoʃɛk",
+      "root": "חֹשֶׁךְ (호쉐크)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַיּוֹם",
+      "meaning": "낮을 주관하기 위하여",
+      "korean": "레멤쉘레트 하욤",
+      "ipa": "ləmɛmˈʃɛlɛt hajˈjom",
+      "root": "מ-שׁ-ל (마샬 - 다스리다)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "תְהוֹם",
+      "meaning": "깊은 물, 심연",
+      "korean": "테홈",
+      "ipa": "təˈhom",
+      "root": "תְּהוֹם (테홈)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּלְמִקְוֵה",
+      "meaning": "그리고 모임에",
+      "korean": "울미크베",
+      "ipa": "uləmiqˈveh",
+      "root": "ק-ו-ה (카바)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "meaning": "그리고 부르셨다",
+      "korean": "바이크라",
+      "ipa": "vajiχˈra",
+      "root": "ק-ר-א (카라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "יַמִּים",
+      "meaning": "바다들",
+      "korean": "야밈",
+      "ipa": "jamːˈim",
+      "root": "יָם (얌)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "meaning": "그리고 보셨다",
+      "korean": "바야르",
+      "ipa": "vajːarˈʔ",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אֲשֶׁר עָשָׂה",
+      "meaning": "그가 만드신",
+      "korean": "아쉐르 아사",
+      "ipa": "ʔaˈʃɛr ʕaˈsa",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "לָאוֹר",
+      "meaning": "빛에게",
+      "korean": "라오르",
+      "ipa": "laˈʔor",
+      "root": "אוֹר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְעֵץ עֹשֶׂה-פְּרִי",
+      "meaning": "열매 맺는 나무",
+      "korean": "베에츠 오세 페리",
+      "ipa": "vəˈʕets ˈʕoseh pəˈri",
+      "root": "עֵץ (에츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עַל-הָאָרֶץ",
+      "meaning": "땅 위에",
+      "korean": "알 하아레츠",
+      "ipa": "ʕal haˈʔarɛts",
+      "root": "עַל (알)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "עֵץ פְּרִי",
+      "meaning": "열매 나무",
+      "korean": "에츠 페리",
+      "ipa": "ʕets pəˈri",
+      "root": "עֵץ (에츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי בֹקֶר",
+      "meaning": "그리고 아침이 되니",
+      "korean": "바예히 보케르",
+      "ipa": "vajəˈhi ˈvoqɛr",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "meaning": "그를",
+      "korean": "오토",
+      "ipa": "ˈʔoto",
+      "root": "אֵת (에트)",
+      "grammar": "대명사"
+    },
+    {
+      "hebrew": "בְּתוֹךְ",
+      "meaning": "한가운데, 가운데",
+      "korean": "베토크",
+      "ipa": "bəˈtox",
+      "root": "ת-ו-ך (타바크)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "בָּרָא אֹתָם",
+      "meaning": "그들을 창조하셨다",
+      "korean": "바라 오탐",
+      "ipa": "baˈra ʔoˈtam",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בֵּין הַמַּיִם",
+      "meaning": "물들 사이를",
+      "korean": "벤 하마임",
+      "ipa": "ben hamˈmajim",
+      "root": "בֵּין (벤) / מַיִם (마임)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "וַיַּרְא אֱלֹהִים",
+      "meaning": "하나님께서 보셨다",
+      "korean": "바야르 엘로힘",
+      "ipa": "vajˈjarʔ ʔɛloˈhim",
+      "root": "ר-א-ה (라아)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וְשָׁנִים",
+      "meaning": "그리고 해들을 위하여",
+      "korean": "베샤님",
+      "ipa": "vəʃaˈnim",
+      "root": "שָׁנָה (샤나)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "meaning": "그리고 그것들이 되다",
+      "korean": "베하유",
+      "ipa": "vəhaju",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "רְבִיעִֽי",
+      "meaning": "넷째",
+      "korean": "레비이",
+      "ipa": "rəviˈʔi",
+      "root": "אַרְבַּע (아르바)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "יוֹם",
+      "meaning": "낮, 날",
+      "korean": "욤",
+      "ipa": "ˈjom",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "זָכָר",
+      "meaning": "남자",
+      "korean": "자카르",
+      "ipa": "zaˈxar",
+      "root": "זָכָר (자카르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְלַחֹשֶׁךְ",
+      "meaning": "그리고 어둠에게",
+      "korean": "베라호쉐크",
+      "ipa": "vəlaˈχoʃɛχ",
+      "root": "חֹשֶׁךְ (호쉐크)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "מְרַחֶפֶת",
+      "meaning": "운행하다, 맴돌다",
+      "korean": "메라헤페트",
+      "ipa": "məraˈχɛfɛt",
+      "root": "ר-ח-פ (라하프)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "רוּחַ אֱלֹהִים",
+      "meaning": "하나님의 영",
+      "korean": "루아흐 엘로힘",
+      "ipa": "ˈruaχ ʔɛloˈhim",
+      "root": "רוּחַ (루아흐) + אֱלֹהִים (엘로힘)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "לָיְלָה",
+      "meaning": "밤",
+      "korean": "라일라",
+      "ipa": "ˈlajla",
+      "root": "לַיִל (라일)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי",
+      "meaning": "그리고 있었다",
+      "korean": "바예히",
+      "ipa": "vajəˈhi",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "יְהִי",
+      "meaning": "있으라, 되라",
+      "korean": "예히",
+      "ipa": "jəˈhi",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אוֹר",
+      "meaning": "빛",
+      "korean": "오르",
+      "ipa": "ˈʔor",
+      "root": "אוֹר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וַיְהִי בֹקֶר",
+      "meaning": "그리고 아침이 되었다",
+      "korean": "바예히 보케르",
+      "ipa": "vajəˈhi ˈvoχɛr",
+      "root": "ה-י-ה (하야) + בֹּקֶר (보케르)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "אֲשֶׁר מֵעַל",
+      "meaning": "위에 있는",
+      "korean": "아쉐르 메알",
+      "ipa": "ʔaˈʃɛr meˈʕal",
+      "root": "אֲשֶׁר (아쉐르) / עַל (알)",
+      "grammar": "대명사"
+    },
+    {
+      "hebrew": "מַבְדִּיל",
+      "meaning": "나누는 것, 구분하는 것",
+      "korean": "마브딜",
+      "ipa": "mavˈdil",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בֵּין מַיִם לָמָיִם",
+      "meaning": "물과 물 사이",
+      "korean": "벤 마임 라마임",
+      "ipa": "ben ˈmajim laˈmajim",
+      "root": "בֵּין (벤), מַיִם (마임)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "לָרָקִיעַ",
+      "meaning": "궁창에, 창공에",
+      "korean": "라라키아",
+      "ipa": "laraˈqijaʕ",
+      "root": "ר-ק-ע (라카)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "יוֹם שֵׁנִי",
+      "meaning": "둘째 날",
+      "korean": "욤 쉐니",
+      "ipa": "ˈjom ʃeˈni",
+      "root": "יוֹם (욤) + שְׁנַיִם (슈나임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "שָׁמָיִם",
+      "meaning": "하늘",
+      "korean": "샤마임",
+      "ipa": "ʃaˈmajim",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "תַּדְשֵׁא הָאָרֶץ",
+      "meaning": "땅이 돋아나게 하라",
+      "korean": "타드쉐 하아레츠",
+      "ipa": "tadˈʃeʔ haˈʔarɛts",
+      "root": "ד-ש-א (다샤)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "לְהָאִיר",
+      "meaning": "비추기 위하여",
+      "korean": "레하이르",
+      "ipa": "ləhaˈʔir",
+      "root": "א-ו-ר (아우르)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "דֶּשֶׁא",
+      "meaning": "풀, 푸른 식물",
+      "korean": "데쉐",
+      "ipa": "ˈdɛʃɛʔ",
+      "root": "ד-ש-א (다샤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "meaning": "저녁",
+      "korean": "에레브",
+      "ipa": "ˈɛrɛv",
+      "root": "עֶרֶב (에레브)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "meaning": "날, 하루",
+      "korean": "욤",
+      "ipa": "jom",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "שְׁלִישִֽׁי",
+      "meaning": "셋째",
+      "korean": "쉴리쉬",
+      "ipa": "ʃəliˈʃi",
+      "root": "שָׁלֹשׁ (샬로쉬)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "לִמְאוֹרֹת",
+      "meaning": "광명들로, 빛을 내는 것들로",
+      "korean": "림오로트",
+      "ipa": "limʔorot",
+      "root": "אוֹר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "מְאֹרֹת",
+      "meaning": "광명체들, 빛을 내는 것들",
+      "korean": "므오로트",
+      "ipa": "məʔoˈrot",
+      "root": "א-ו-ר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "meaning": "그리고 있을 것이다, 될 것이다",
+      "korean": "베하유",
+      "ipa": "vəhaˈju",
+      "root": "ה-י-ה (하야)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וּבֵין הַלָּיְלָה",
+      "meaning": "그리고 밤 사이에",
+      "korean": "우벤 할라일라",
+      "ipa": "uven halˈlajla",
+      "root": "לַיְלָה (라일라)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+      "meaning": "두 개의 큰 광명체들",
+      "korean": "쉐네이 함어로트 하그돌림",
+      "ipa": "ʃəˈne hamːəʔoˈrot hagːəðoˈlim",
+      "root": "אוֹר (오르 - 빛)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הַכּוֹכָבִים",
+      "meaning": "별들",
+      "korean": "하코카빔",
+      "ipa": "hakːoχaˈvim",
+      "root": "כּוֹכָב (코카브)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
+      "meaning": "하늘의 궁창에",
+      "korean": "비르키아 하샤마임",
+      "ipa": "birˈkiaʕ haʃaˈmajim",
+      "root": "רָקִיעַ (라키아) + שָׁמַיִם (샤마임)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֹתָם",
+      "meaning": "그것들을",
+      "korean": "오탐",
+      "ipa": "ʔoˈtam",
+      "root": "אֵת (에트)",
+      "grammar": "대명사"
+    },
+    {
+      "hebrew": "בַּיּוֹם",
+      "meaning": "낮에",
+      "korean": "바욤",
+      "ipa": "bajˈjom",
+      "root": "יוֹם (욤)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּבַלַּיְלָה",
+      "meaning": "그리고 밤에",
+      "korean": "우발라일라",
+      "ipa": "uvalˈlajla",
+      "root": "לַיְלָה (라일라)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר",
+      "meaning": "빛 사이",
+      "korean": "벤 하오르",
+      "ipa": "ben haˈʔor",
+      "root": "אוֹר (오르)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּלְהַבְדִּיל",
+      "meaning": "나누게 하다",
+      "korean": "울하브딜",
+      "ipa": "ulhavˈdil",
+      "root": "ב-ד-ל (바달)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "עוֹף כָּנָף",
+      "meaning": "날개 달린 새",
+      "korean": "오프 카나프",
+      "ipa": "ʕof kaˈnaf",
+      "root": "עוֹף (오프)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֹתָם",
+      "meaning": "그들을",
+      "korean": "오탐",
+      "ipa": "ʔoˈtam",
+      "root": "אֹת (오트)",
+      "grammar": "대명사"
+    },
+    {
+      "hebrew": "לְמִינֵהֶם",
+      "meaning": "그들의 종류대로",
+      "korean": "레미네헴",
+      "ipa": "ləmineˈhɛm",
+      "root": "מִין (민)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "meaning": "좋았다, 선하다",
+      "korean": "키 토브",
+      "ipa": "ki tov",
+      "root": "טוֹב (토브)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "meaning": "땅에서",
+      "korean": "바아레츠",
+      "ipa": "baˈʔarɛts",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "יִרֶב",
+      "meaning": "번성할지어다",
+      "korean": "이레브",
+      "ipa": "jirˈɛv",
+      "root": "ר-ב-ה (라바)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "תּוֹצֵא",
+      "meaning": "내라, 산출하라",
+      "korean": "토체",
+      "ipa": "toˈtse",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "חֲמִישִֽׁי",
+      "meaning": "다섯째",
+      "korean": "하미쉬",
+      "ipa": "χamiˈʃi",
+      "root": "ח-מ-שׁ (하메쉬)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "meaning": "살아있는 생물",
+      "korean": "네페쉬 하야",
+      "ipa": "ˈnɛfɛʃ χajˈja",
+      "root": "נֶפֶשׁ (네페쉬) + חַי (하이)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "חַיַּת הָאָרֶץ",
+      "meaning": "땅의 짐승",
+      "korean": "하야트 하아레츠",
+      "ipa": "ħajˈjat haˈʔarɛts",
+      "root": "חַי (하이 - 살아있는)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "רֶמֶשׂ הָאֲדָמָה",
+      "meaning": "땅에 기는 것",
+      "korean": "레메스 하아다마",
+      "ipa": "ˈrɛmɛś haʔadaˈmah",
+      "root": "ר-מ-שׂ (라마스 - 기다)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "נַעֲשֶׂה",
+      "meaning": "우리가 만들자",
+      "korean": "나아세",
+      "ipa": "naʔaˈsɛ",
+      "root": "ע-ש-ה (아사)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "בְּצַלְמֵנוּ",
+      "meaning": "우리의 형상으로",
+      "korean": "베짤메누",
+      "ipa": "bətsalˈmenu",
+      "root": "צֶלֶם (첼렘)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "כִּדְמוּתֵנוּ",
+      "meaning": "우리의 모양대로",
+      "korean": "키드무테누",
+      "ipa": "kidmuˈtenu",
+      "root": "דְּמוּת (드무트)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אָדָם",
+      "meaning": "사람, 인간",
+      "korean": "아담",
+      "ipa": "ʔaˈdam",
+      "root": "אָדָם (아담)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "הָרֶמֶשׂ",
+      "meaning": "기는 것",
+      "korean": "하레메스",
+      "ipa": "haˈrɛmɛs",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בְּצַלְמוֹ",
+      "meaning": "그의 형상대로",
+      "korean": "베찰모",
+      "ipa": "bətsalˈmo",
+      "root": "צֶלֶם (첼렘)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶת-הָאָדָם",
+      "meaning": "사람을",
+      "korean": "에트 하아담",
+      "ipa": "ʔɛt haʔaˈdam",
+      "root": "אָדָם (아담)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "בְּצֶלֶם אֱלֹהִים",
+      "meaning": "하나님의 형상대로",
+      "korean": "베첼렘 엘로힘",
+      "ipa": "bəˈtsɛlɛm ʔɛloˈhim",
+      "root": "צֶלֶם (첼렘)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "meaning": "그리고 여자",
+      "korean": "우네케바",
+      "ipa": "unəqeˈva",
+      "root": "נְקֵבָה (네케바)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּמִלְאוּ",
+      "meaning": "그리고 충만하게 하라",
+      "korean": "우밀우",
+      "ipa": "umilˈʔu",
+      "root": "מ-ל-א (말라)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וּרְדוּ",
+      "meaning": "그리고 다스리라",
+      "korean": "우르두",
+      "ipa": "urˈdu",
+      "root": "ר-ד-ה (라다)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "הָרֹמֶשֶׂת",
+      "meaning": "기어다니는",
+      "korean": "하로메세트",
+      "ipa": "haroˈmɛsɛt",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "meaning": "보라",
+      "korean": "힌네",
+      "ipa": "hinˈne",
+      "root": "הִנֵּה (힌네)",
+      "grammar": "감탄사"
+    },
+    {
+      "hebrew": "וּבְכָל־חַיָּה",
+      "meaning": "그리고 모든 생물",
+      "korean": "우베콜 하야",
+      "ipa": "uvəχol ˈχajja",
+      "root": "כֹּל (콜) + חַי (하이)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֲשֶׁר-בּוֹ נֶפֶשׁ חַיָּה",
+      "meaning": "그 안에 생명이 있는",
+      "korean": "아쉐르 보 네페쉬 하야",
+      "ipa": "ʔaˈʃɛr bo ˈnɛfɛʃ χajˈja",
+      "root": "נֶפֶשׁ (네페쉬)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "פְרִי",
+      "meaning": "열매",
+      "korean": "페리",
+      "ipa": "pəri",
+      "root": "פְּרִי (페리)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּלְכֹל רוֹמֵשׂ עַל-הָאָרֶץ",
+      "meaning": "그리고 땅 위를 기어다니는 모든 것에게",
+      "korean": "울콜 로메스 알 하아레츠",
+      "ipa": "uləχol romes ʕal haˈʔarɛts",
+      "root": "ר-מ-שׂ (라마스)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וּלְכָל-עוֹף הַשָּׁמַיִם",
+      "meaning": "그리고 하늘의 모든 새에게",
+      "korean": "울콜 오프 하샤마임",
+      "ipa": "uləχol ʕof haʃaˈmajim",
+      "root": "עוֹף (오프)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶת כָּל",
+      "meaning": "모든 것을",
+      "korean": "에트 콜",
+      "ipa": "ʔet kol",
+      "root": "כֹּל (콜)",
+      "grammar": "전치사"
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "meaning": "먹이로, 음식으로",
+      "korean": "레오클라",
+      "ipa": "ləʔoχˈla",
+      "root": "א-כ-ל (아칼)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "אֶת-כָּל-יֶרֶק עֵשֶׂב",
+      "meaning": "모든 푸른 풀을",
+      "korean": "에트 콜 예레크 에세브",
+      "ipa": "ʔɛt kol ˈjɛrɛq ˈɛsɛv",
+      "root": "יָרֹק (야로크)",
+      "grammar": "형용사"
+    },
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "meaning": "그리고 복을 주셨다",
+      "korean": "바예바레크",
+      "ipa": "vajəˈvarɛχ",
+      "root": "ב-ר-ך (바라크)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "תֹהוּ וָבֹהוּ",
+      "meaning": "혼돈과 공허",
+      "korean": "토후 바보후",
+      "ipa": "ˈtohu vaˈvohu",
+      "root": "תֹּהוּ (토후) + בֹּהוּ (보후)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "meaning": "그리고 땅은",
+      "korean": "베하아레츠",
+      "ipa": "vəhaˈʔarɛts",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וּלְכָל-חַיַּת הָאָרֶץ",
+      "meaning": "그리고 땅의 모든 짐승에게",
+      "korean": "울콜 하야트 하아레츠",
+      "ipa": "uləχol χajat haˈʔarɛts",
+      "root": "חַיָּה (하야)",
+      "grammar": "명사"
+    },
+    {
+      "hebrew": "וְלִמְשֹׁל",
+      "meaning": "다스리게 하다",
+      "korean": "베림쇼르",
+      "ipa": "vəlimˈʃol",
+      "root": "מ-ש-ל (마샬)",
+      "grammar": "동사"
+    },
+    {
+      "hebrew": "וַתּוֹצֵא הָאָרֶץ",
+      "meaning": "땅이 내었다",
+      "korean": "바토체 하아레츠",
+      "ipa": "vattoˈtseʔ haˈʔarɛts",
+      "root": "י-צ-א (야차)",
+      "grammar": "동사"
+    }
+  ]
+}
