@@ -92,7 +92,7 @@ export default function FlashCard({
 
         {/* 앞면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 backdrop-blur-sm ${
+          className={`absolute inset-0 ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
@@ -190,7 +190,7 @@ export default function FlashCard({
 
         {/* 뒷면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 backdrop-blur-sm ${
+          className={`absolute inset-0 ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
