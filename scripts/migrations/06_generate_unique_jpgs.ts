@@ -444,7 +444,7 @@ function drawCloud(ctx: CanvasRenderingContext2D, x: number, y: number, r: numbe
 }
 
 function hebrewToFilename(id: string): string {
-  return `word_${id.replace(/-/g, '_')}`
+  return `word_${createHash('md5').update(id).digest('hex')}`
 }
 
 /**
