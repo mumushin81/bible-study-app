@@ -92,12 +92,12 @@ export default function FlashCard({
 
         {/* 앞면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 rounded-2xl overflow-hidden ${
+          className={`absolute inset-0 rounded-2xl backdrop-blur-sm ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800'
-                : 'bg-gray-50'
+                ? 'bg-gray-800/90'
+                : 'bg-gray-50/90'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
@@ -111,6 +111,13 @@ export default function FlashCard({
                 : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
+          {/* 광택 효과 그라데이션 오버레이 */}
+          <div
+            className="absolute inset-0 rounded-2xl pointer-events-none"
+            style={{
+              background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
+            }}
+          />
           {/* 상단 버튼들 */}
           <div className="absolute top-0 left-0 right-0 z-20 flex items-center justify-between p-3 pointer-events-auto">
             {/* 품사 표시 */}
@@ -188,12 +195,12 @@ export default function FlashCard({
 
         {/* 뒷면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 rounded-2xl overflow-hidden ${
+          className={`absolute inset-0 rounded-2xl backdrop-blur-sm ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800'
-                : 'bg-gray-50'
+                ? 'bg-gray-800/90'
+                : 'bg-gray-50/90'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
@@ -207,6 +214,13 @@ export default function FlashCard({
                 : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
+          {/* 광택 효과 그라데이션 오버레이 */}
+          <div
+            className="absolute inset-0 rounded-2xl pointer-events-none"
+            style={{
+              background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
+            }}
+          />
           {/* 이미지 영역 (80% 높이) */}
           <div className="relative w-full h-[80%] flex-shrink-0" />
 
