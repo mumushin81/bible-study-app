@@ -53,31 +53,15 @@ export function getGrammarColors(grammar: string): GrammarColors {
 }
 
 /**
- * Get grammar-based border color with transparency
- */
-export function getGrammarBorderColor(grammar: string, darkMode: boolean): string {
-  const config = getGrammarColorConfig(grammar);
-  const { color, lightShade, darkShade } = config;
-
-  if (darkMode) {
-    return `border-${color}-${darkShade}/80`;
-  } else {
-    return `border-${color}-${lightShade}/90`;
-  }
-}
-
-/**
- * Get grammar-based card background (full card)
+ * Get grammar-based card background (full card, solid color)
  */
 export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
   const config = getGrammarColorConfig(grammar);
   const { color, lightShade, darkShade } = config;
 
-  const borderColor = getGrammarBorderColor(grammar, darkMode);
-
   if (darkMode) {
-    return `bg-${color}-${darkShade}/30 ${borderColor}`;
+    return `bg-${color}-${darkShade}`;
   } else {
-    return `bg-${color}-${lightShade}/30 ${borderColor}`;
+    return `bg-${color}-${lightShade}`;
   }
 }
