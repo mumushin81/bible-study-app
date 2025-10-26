@@ -94,7 +94,7 @@ export default function FlashCard({
               : darkMode
                 ? 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-gray-700/60'
                 : 'bg-gradient-to-br from-white/20 to-gray-50/20 border-gray-200/70'
-          } border-4 shadow-2xl shadow-current/20 flex flex-col`}
+          } border-4 shadow-2xl shadow-current/30 ring-1 ring-white/10 backdrop-blur-sm flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
@@ -132,7 +132,7 @@ export default function FlashCard({
           <div className="relative w-full h-[80%] flex-shrink-0 bg-transparent" />
 
           {/* 하단 컨텐츠 영역 (20% 높이) - 완전 불투명 배경 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-3 bg-gray-900 pointer-events-auto z-10">
+          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-gray-900 pointer-events-auto z-10">
             {/* 히브리어 원문 */}
             <div
               className="text-xl sm:text-2xl font-bold mb-1 text-white"
@@ -140,6 +140,16 @@ export default function FlashCard({
             >
               {word.hebrew}
             </div>
+
+            {/* 알파벳 읽기 */}
+            {word.letters && (
+              <div
+                className="text-xs font-medium mb-1 text-emerald-200"
+                dir="rtl"
+              >
+                {word.letters}
+              </div>
+            )}
 
             {/* 발음 */}
             {word.korean && (
@@ -161,7 +171,7 @@ export default function FlashCard({
             )}
 
             {/* 탭 안내 */}
-            <div className="text-xs text-white/70 mt-1">
+            <div className="text-xs text-white/70 mt-0.5">
               더블 탭하여 뜻 보기
             </div>
           </div>
@@ -175,7 +185,7 @@ export default function FlashCard({
               : darkMode
                 ? 'bg-gradient-to-br from-gray-900/20 to-black/20 border-gray-600/60'
                 : 'bg-gradient-to-br from-gray-50/20 to-white/20 border-gray-300/70'
-          } border-4 shadow-2xl shadow-current/20 flex flex-col`}
+          } border-4 shadow-2xl shadow-current/30 ring-1 ring-white/10 backdrop-blur-sm flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
