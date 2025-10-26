@@ -1,5 +1,5 @@
 /**
- * Get grammar-based colors for flashcard badges
+ * Grammar-based colors unified configuration
  */
 
 export interface GrammarColors {
@@ -13,117 +13,102 @@ export interface GrammarColors {
   };
 }
 
-export function getGrammarColors(grammar: string): GrammarColors {
+// Unified grammar color configuration
+const GRAMMAR_COLOR_MAP: Record<string, { color: string; lightShade: string; darkShade: string }> = {
+  '명사': { color: 'blue', lightShade: '400', darkShade: '500' },
+  '동사': { color: 'green', lightShade: '400', darkShade: '500' },
+  '형용사': { color: 'amber', lightShade: '400', darkShade: '500' },
+  '부사': { color: 'orange', lightShade: '400', darkShade: '500' },
+  '전치사': { color: 'cyan', lightShade: '400', darkShade: '500' },
+  '접속사': { color: 'pink', lightShade: '400', darkShade: '500' },
+  '대명사': { color: 'indigo', lightShade: '400', darkShade: '500' },
+  '관사': { color: 'teal', lightShade: '400', darkShade: '500' },
+  '감탄사': { color: 'rose', lightShade: '400', darkShade: '500' },
+};
+
+const DEFAULT_COLOR = { color: 'gray', lightShade: '200', darkShade: '700' };
+
+/**
+ * Get grammar color configuration
+ */
+function getGrammarColorConfig(grammar: string) {
   const g = grammar.toLowerCase();
-
-  // 명사 - Blue
-  if (g.includes('명사')) {
-    return {
-      light: { bg: 'bg-blue-100', text: 'text-blue-700' },
-      dark: { bg: 'bg-blue-900/30', text: 'text-blue-300' }
-    };
+  for (const [key, value] of Object.entries(GRAMMAR_COLOR_MAP)) {
+    if (g.includes(key)) return value;
   }
+  return DEFAULT_COLOR;
+}
 
-  // 동사 - Green
-  if (g.includes('동사')) {
-    return {
-      light: { bg: 'bg-green-100', text: 'text-green-700' },
-      dark: { bg: 'bg-green-900/30', text: 'text-green-300' }
-    };
-  }
+/**
+ * Get grammar-based colors for flashcard badges
+ */
+export function getGrammarColors(grammar: string): GrammarColors {
+  const config = getGrammarColorConfig(grammar);
+  const { color } = config;
 
-  // 형용사 - Yellow/Amber
-  if (g.includes('형용사')) {
-    return {
-      light: { bg: 'bg-amber-100', text: 'text-amber-700' },
-      dark: { bg: 'bg-amber-900/30', text: 'text-amber-300' }
-    };
-  }
-
-  // 부사 - Orange
-  if (g.includes('부사')) {
-    return {
-      light: { bg: 'bg-orange-100', text: 'text-orange-700' },
-      dark: { bg: 'bg-orange-900/30', text: 'text-orange-300' }
-    };
-  }
-
-  // 전치사 - Cyan
-  if (g.includes('전치사')) {
-    return {
-      light: { bg: 'bg-cyan-100', text: 'text-cyan-700' },
-      dark: { bg: 'bg-cyan-900/30', text: 'text-cyan-300' }
-    };
-  }
-
-  // 접속사 - Pink
-  if (g.includes('접속사')) {
-    return {
-      light: { bg: 'bg-pink-100', text: 'text-pink-700' },
-      dark: { bg: 'bg-pink-900/30', text: 'text-pink-300' }
-    };
-  }
-
-  // 대명사 - Indigo
-  if (g.includes('대명사')) {
-    return {
-      light: { bg: 'bg-indigo-100', text: 'text-indigo-700' },
-      dark: { bg: 'bg-indigo-900/30', text: 'text-indigo-300' }
-    };
-  }
-
-  // 관사 - Teal
-  if (g.includes('관사')) {
-    return {
-      light: { bg: 'bg-teal-100', text: 'text-teal-700' },
-      dark: { bg: 'bg-teal-900/30', text: 'text-teal-300' }
-    };
-  }
-
-  // 감탄사 - Rose
-  if (g.includes('감탄사')) {
-    return {
-      light: { bg: 'bg-rose-100', text: 'text-rose-700' },
-      dark: { bg: 'bg-rose-900/30', text: 'text-rose-300' }
-    };
-  }
-
-  // Default - Purple
   return {
-    light: { bg: 'bg-purple-100', text: 'text-purple-700' },
-    dark: { bg: 'bg-purple-900/30', text: 'text-purple-300' }
+    light: { bg: `bg-${color}-100`, text: `text-${color}-700` },
+    dark: { bg: `bg-${color}-900/30`, text: `text-${color}-300` }
   };
 }
 
 /**
- * Get grammar-based colors for flashcard box backgrounds (20% transparent with glossy borders)
+ * Get grammar-based border color with transparency
  */
-export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
-  const g = grammar.toLowerCase();
+export function getGrammarBorderColor(grammar: string, darkMode: boolean): string {
+  const config = getGrammarColorConfig(grammar);
+  const { color, lightShade, darkShade } = config;
 
   if (darkMode) {
-    // Dark mode - 20% transparent background with semi-transparent glossy colored border
-    if (g.includes('명사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-blue-500/60';
-    if (g.includes('동사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-green-500/60';
-    if (g.includes('형용사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-amber-500/60';
-    if (g.includes('부사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-orange-500/60';
-    if (g.includes('전치사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-cyan-500/60';
-    if (g.includes('접속사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-pink-500/60';
-    if (g.includes('대명사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-indigo-500/60';
-    if (g.includes('관사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-teal-500/60';
-    if (g.includes('감탄사')) return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-rose-500/60';
-    return 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-gray-700/60';
+    return `border-${color}-${darkShade}/60`;
   } else {
-    // Light mode - 20% transparent background with semi-transparent glossy colored border
-    if (g.includes('명사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-blue-400/70';
-    if (g.includes('동사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-green-400/70';
-    if (g.includes('형용사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-amber-400/70';
-    if (g.includes('부사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-orange-400/70';
-    if (g.includes('전치사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-cyan-400/70';
-    if (g.includes('접속사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-pink-400/70';
-    if (g.includes('대명사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-indigo-400/70';
-    if (g.includes('관사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-teal-400/70';
-    if (g.includes('감탄사')) return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-rose-400/70';
-    return 'bg-gradient-to-br from-white/20 to-gray-50/20 border-gray-200/70';
+    return `border-${color}-${lightShade}/70`;
   }
+}
+
+/**
+ * Get grammar-based background color with specified opacity
+ */
+export function getGrammarBackground(grammar: string, darkMode: boolean, opacity: number = 70): string {
+  const config = getGrammarColorConfig(grammar);
+  const { color, lightShade, darkShade } = config;
+
+  if (darkMode) {
+    return `bg-${color}-${darkShade}/${opacity}`;
+  } else {
+    return `bg-${color}-${lightShade}/${opacity}`;
+  }
+}
+
+/**
+ * Get grammar-based colors for flashcard box backgrounds
+ */
+export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
+  const baseBackground = darkMode
+    ? 'bg-gradient-to-br from-gray-800/20 to-gray-900/20'
+    : 'bg-gradient-to-br from-white/20 to-gray-50/20';
+
+  const borderColor = getGrammarBorderColor(grammar, darkMode);
+
+  return `${baseBackground} ${borderColor}`;
+}
+
+/**
+ * Get grammar-based bottom content background (70% opacity)
+ */
+export function getGrammarBottomBackground(grammar: string | undefined, darkMode: boolean): string {
+  if (!grammar) {
+    return darkMode ? 'bg-gray-900/80' : 'bg-white/80';
+  }
+  return getGrammarBackground(grammar, darkMode, 70);
+}
+
+/**
+ * Get grammar-based top content background (70% opacity)
+ */
+export function getGrammarTopBackground(grammar: string | undefined, darkMode: boolean): string {
+  if (!grammar) {
+    return darkMode ? 'bg-gray-800/70' : 'bg-gray-50/70';
+  }
+  return getGrammarBackground(grammar, darkMode, 70);
 }

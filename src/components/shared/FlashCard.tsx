@@ -9,7 +9,12 @@ import {
   getSimpleGrammar,
   speakHebrew,
 } from '../../utils/wordHelpers';
-import { getGrammarColors, getGrammarCardBackground } from '../../utils/grammarColors';
+import {
+  getGrammarColors,
+  getGrammarCardBackground,
+  getGrammarBottomBackground,
+  getGrammarTopBackground
+} from '../../utils/grammarColors';
 
 interface FlashCardProps {
   word: Word | WordWithContext;
@@ -128,11 +133,11 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (80% 높이) - 투명 배경으로 SVG 노출 */}
-          <div className="relative w-full h-[80%] flex-shrink-0 bg-transparent" />
+          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 */}
+          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)}`} />
 
-          {/* 하단 컨텐츠 영역 (20% 높이) - 80% 투명도 배경 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 bg-gray-900/80 pointer-events-auto z-10">
+          {/* 하단 컨텐츠 영역 (20% 높이) - 품사별 색상 70% 투명도 */}
+          <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-4 py-2 ${getGrammarBottomBackground(word.grammar, darkMode)} pointer-events-auto z-10`}>
             {/* 히브리어 원문 */}
             <div
               className="text-xl sm:text-2xl font-bold mb-1 text-white"
@@ -193,11 +198,11 @@ export default function FlashCard({
             isolation: 'isolate',
           }}
         >
-          {/* 이미지 영역 (80% 높이) - 투명 배경으로 SVG 노출 */}
-          <div className="relative w-full h-[80%] flex-shrink-0 bg-transparent" />
+          {/* 이미지 영역 (80% 높이) - 품사별 색상 70% 투명도 */}
+          <div className={`relative w-full h-[80%] flex-shrink-0 ${getGrammarTopBackground(word.grammar, darkMode)}`} />
 
-          {/* 하단 뜻 영역 (20% 높이) - 70% 투명도 배경 */}
-          <div className="relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 bg-black/70 pointer-events-auto z-10">
+          {/* 하단 뜻 영역 (20% 높이) - 품사별 색상 70% 투명도 */}
+          <div className={`relative w-full h-[20%] flex flex-col items-center justify-center px-6 py-3 ${getGrammarBottomBackground(word.grammar, darkMode)} pointer-events-auto z-10`}>
             {/* 한국어 뜻 */}
             <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white">
               {word.meaning}
