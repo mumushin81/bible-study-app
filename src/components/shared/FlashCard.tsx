@@ -70,7 +70,7 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute top-0 left-0 right-0 h-[80%] flex items-center justify-center z-20 pointer-events-none rounded-t-2xl overflow-hidden"
+          className="absolute top-4 left-4 right-4 h-[calc(80%-2rem)] flex items-center justify-center z-20 pointer-events-none"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
@@ -92,9 +92,9 @@ export default function FlashCard({
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-gray-700'
-                : 'bg-gradient-to-br from-white/20 to-gray-50/20 border-gray-200'
-          } border-2 shadow-lg flex flex-col`}
+                ? 'bg-gradient-to-br from-gray-800/20 to-gray-900/20 border-gray-700/60'
+                : 'bg-gradient-to-br from-white/20 to-gray-50/20 border-gray-200/70'
+          } border-4 shadow-2xl shadow-current/20 flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
@@ -173,9 +173,9 @@ export default function FlashCard({
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gradient-to-br from-gray-900/20 to-black/20 border-gray-600'
-                : 'bg-gradient-to-br from-gray-50/20 to-white/20 border-gray-300'
-          } border-2 shadow-lg flex flex-col`}
+                ? 'bg-gradient-to-br from-gray-900/20 to-black/20 border-gray-600/60'
+                : 'bg-gradient-to-br from-gray-50/20 to-white/20 border-gray-300/70'
+          } border-4 shadow-2xl shadow-current/20 flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
