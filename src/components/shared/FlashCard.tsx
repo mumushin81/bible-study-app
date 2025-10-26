@@ -74,7 +74,7 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute top-0 left-0 right-0 h-[80%] flex items-center justify-center z-20 pointer-events-none"
+          className="absolute top-2 left-2 right-2 h-[calc(80%-0.5rem)] flex items-center justify-center z-20 pointer-events-none"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
