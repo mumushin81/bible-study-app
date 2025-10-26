@@ -17,21 +17,32 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   color = 'currentColor'
 }) => {
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // 우선순위 1: JPG 이미지 (iconUrl)
+  // 우선순위 1: JPG 이미지 (iconUrl) - 얇은 실선 윤곽만 표시
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   if (iconUrl) {
     return (
-      <img
-        src={iconUrl}
-        alt={word}
+      <div
         className={className}
         style={{
           width: '100%',
           height: '100%',
-          objectFit: 'contain',
+          position: 'relative',
+          overflow: 'hidden',
         }}
-        loading="lazy"
-      />
+      >
+        <img
+          src={iconUrl}
+          alt={word}
+          style={{
+            width: '100%',
+            height: '100%',
+            objectFit: 'contain',
+            filter: 'grayscale(1) contrast(10) brightness(10) invert(1)',
+            opacity: 0.25,
+          }}
+          loading="lazy"
+        />
+      </div>
     );
   }
 
