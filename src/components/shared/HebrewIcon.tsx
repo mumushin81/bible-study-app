@@ -43,7 +43,10 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 우선순위 1: JPG 이미지 (iconUrl)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  console.log(`[HebrewIcon] ${word}: iconUrl=${iconUrl ? 'EXISTS' : 'NULL'}, imageError=${imageError}`);
+
   if (iconUrl && !imageError) {
+    console.log(`[HebrewIcon] 🎨 Rendering JPG for ${word}: ${iconUrl}`);
     return (
       <img
         src={iconUrl}
@@ -56,7 +59,7 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         }}
         loading="lazy"
         onError={() => {
-          console.warn(`[HebrewIcon] Image load failed for ${word}, using SVG fallback`);
+          console.warn(`[HebrewIcon] ❌ Image load failed for ${word}, using SVG fallback`);
           setImageError(true);
         }}
       />

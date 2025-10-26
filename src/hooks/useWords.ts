@@ -98,7 +98,11 @@ export function useWords(options?: UseWordsOptions) {
 
           if (!wordMap.has(item.hebrew)) {
             const hasIconSvg = !!item.icon_svg;
-            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}`);
+            const hasIconUrl = !!item.icon_url;
+            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_url=${hasIconUrl ? 'EXISTS' : 'NULL'}, icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}`);
+            if (hasIconUrl) {
+              console.log(`  → iconUrl: ${item.icon_url}`);
+            }
 
             wordMap.set(item.hebrew, {
               id: item.id,
