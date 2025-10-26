@@ -53,7 +53,7 @@ export function getGrammarColors(grammar: string): GrammarColors {
 }
 
 /**
- * Get grammar-based border color with transparency (darker)
+ * Get grammar-based border color with transparency
  */
 export function getGrammarBorderColor(grammar: string, darkMode: boolean): string {
   const config = getGrammarColorConfig(grammar);
@@ -67,58 +67,17 @@ export function getGrammarBorderColor(grammar: string, darkMode: boolean): strin
 }
 
 /**
- * Get grammar-based background color with specified opacity
+ * Get grammar-based card background (full card)
  */
-export function getGrammarBackground(grammar: string, darkMode: boolean, opacity: number = 70): string {
+export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
   const config = getGrammarColorConfig(grammar);
   const { color, lightShade, darkShade } = config;
 
-  if (darkMode) {
-    return `bg-${color}-${darkShade}/${opacity}`;
-  } else {
-    return `bg-${color}-${lightShade}/${opacity}`;
-  }
-}
-
-/**
- * Get grammar-based colors for flashcard box backgrounds
- */
-export function getGrammarCardBackground(grammar: string, darkMode: boolean): string {
-  const baseBackground = darkMode
-    ? 'bg-gradient-to-br from-gray-800/20 to-gray-900/20'
-    : 'bg-gradient-to-br from-white/20 to-gray-50/20';
-
   const borderColor = getGrammarBorderColor(grammar, darkMode);
 
-  return `${baseBackground} ${borderColor}`;
-}
-
-/**
- * Get grammar-based bottom content background (50% opacity)
- */
-export function getGrammarBottomBackground(grammar: string | undefined, darkMode: boolean): string {
-  if (!grammar) {
-    return darkMode ? 'bg-gray-900/50' : 'bg-white/50';
+  if (darkMode) {
+    return `bg-${color}-${darkShade}/30 ${borderColor}`;
+  } else {
+    return `bg-${color}-${lightShade}/30 ${borderColor}`;
   }
-  return getGrammarBackground(grammar, darkMode, 50);
-}
-
-/**
- * Get grammar-based top content background (70% opacity)
- */
-export function getGrammarTopBackground(grammar: string | undefined, darkMode: boolean): string {
-  if (!grammar) {
-    return darkMode ? 'bg-gray-800/70' : 'bg-gray-50/70';
-  }
-  return getGrammarBackground(grammar, darkMode, 70);
-}
-
-/**
- * Get grammar-based top area border (for image area outline)
- */
-export function getGrammarTopBorder(grammar: string | undefined, darkMode: boolean): string {
-  if (!grammar) {
-    return darkMode ? 'border-b-4 border-gray-700/80' : 'border-b-4 border-gray-200/90';
-  }
-  return `border-b-4 ${getGrammarBorderColor(grammar, darkMode)}`;
 }
