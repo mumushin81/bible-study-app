@@ -76,7 +76,6 @@ export default function FlashCard({
         <div
           className="absolute top-2 left-2 right-2 h-[calc(80%-0.5rem)] flex items-center justify-center z-20 pointer-events-none"
           style={{
-            isolation: 'isolate',
             willChange: 'contents',
           }}
         >
