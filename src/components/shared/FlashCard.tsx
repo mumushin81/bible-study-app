@@ -96,19 +96,14 @@ export default function FlashCard({
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800/90'
-                : 'bg-gray-50/90'
+                ? 'bg-gray-800/90 border-4 border-gray-800'
+                : 'bg-gray-50/90 border-4 border-gray-400'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
             isolation: 'isolate',
             transform: 'translateZ(0)',
-            boxShadow: word.grammar
-              ? getGrammarGlowEffect(word.grammar, darkMode)
-              : darkMode
-                ? '0 0 0 1px rgb(229, 231, 235), 0 0 8px rgba(229, 231, 235, 0.5)'
-                : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
           {/* 광택 효과 그라데이션 오버레이 */}
@@ -199,19 +194,14 @@ export default function FlashCard({
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800/90'
-                : 'bg-gray-50/90'
+                ? 'bg-gray-800/90 border-4 border-gray-800'
+                : 'bg-gray-50/90 border-4 border-gray-400'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
             WebkitBackfaceVisibility: 'hidden',
             transform: 'rotateY(180deg) translateZ(0)',
             isolation: 'isolate',
-            boxShadow: word.grammar
-              ? getGrammarGlowEffect(word.grammar, darkMode)
-              : darkMode
-                ? '0 0 0 1px rgb(229, 231, 235), 0 0 8px rgba(229, 231, 235, 0.5)'
-                : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
           {/* 광택 효과 그라데이션 오버레이 */}
