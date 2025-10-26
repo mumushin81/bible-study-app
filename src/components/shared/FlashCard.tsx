@@ -70,7 +70,7 @@ export default function FlashCard({
       >
         {/* 공통 SVG 레이어 - 카드 회전과 독립적으로 배치 (잔상 방지) */}
         <div
-          className="absolute top-0 left-0 right-0 h-[70%] flex items-center justify-center z-0 pointer-events-none rounded-t-2xl overflow-hidden"
+          className="absolute top-0 left-0 right-0 h-[90%] flex items-center justify-center z-0 pointer-events-none rounded-t-2xl overflow-hidden"
           style={{
             isolation: 'isolate',
             willChange: 'contents',
@@ -130,63 +130,33 @@ export default function FlashCard({
             </button>
           </div>
 
-          {/* 이미지 영역 (70% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
-          <div className="relative w-full h-[70%] flex-shrink-0" />
+          {/* 이미지 영역 (90% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[90%] flex-shrink-0" />
 
-          {/* 하단 컨텐츠 영역 (30% 높이) - 반투명 오버레이 (blur 제거) */}
-          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-4 py-2 bg-black/30 pointer-events-auto z-10">
+          {/* 하단 컨텐츠 영역 (10% 높이) - 완전 불투명 배경 */}
+          <div className="relative w-full h-[10%] flex items-center justify-between px-4 bg-gray-900 pointer-events-auto z-10">
             {/* 히브리어 원문 */}
             <div
-              className="text-xl sm:text-2xl font-bold mb-1 text-white drop-shadow-lg"
+              className="text-lg sm:text-xl font-bold text-white"
               dir="rtl"
             >
               {word.hebrew}
             </div>
 
-            {/* 알파벳 읽기 - 동적 폰트 크기, 멀티라인 */}
-            {word.letters && (
-              <div
-                className={`${
-                  word.letters.length <= 15 ? 'text-xs' :
-                  word.letters.length <= 25 ? 'text-[11px]' :
-                  word.letters.length <= 40 ? 'text-[10px]' : 'text-[9px]'
-                } font-medium mb-1 px-2 py-0.5 rounded-md w-full text-center leading-tight text-emerald-200 drop-shadow`}
-                dir="rtl"
-                style={{
-                  wordBreak: 'break-word',
-                  overflowWrap: 'break-word',
-                  whiteSpace: 'normal',
-                  maxHeight: '1.5rem',
-                  overflow: 'visible'
-                }}
-              >
-                {word.letters}
-              </div>
-            )}
-
-            {/* 발음 */}
+            {/* 발음 버튼 */}
             {word.korean && (
-              <div className="flex items-center gap-2 mb-1">
-                <div className="text-sm font-bold text-purple-200 drop-shadow">
-                  [{word.korean}]
-                </div>
-                <button
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    speakHebrew(word.hebrew);
-                  }}
-                  className="p-1.5 rounded-lg bg-purple-600/80 hover:bg-purple-700 text-white transition-all backdrop-blur-sm"
-                  aria-label="발음 듣기"
-                >
-                  <Volume2 className="w-4 h-4" />
-                </button>
-              </div>
+              <button
+                onClick={(e) => {
+                  e.stopPropagation();
+                  speakHebrew(word.hebrew);
+                }}
+                className="p-2 rounded-lg bg-purple-600 hover:bg-purple-700 text-white transition-all flex items-center gap-1"
+                aria-label="발음 듣기"
+              >
+                <Volume2 className="w-4 h-4" />
+                <span className="text-sm">[{word.korean}]</span>
+              </button>
             )}
-
-            {/* 탭 안내 */}
-            <div className="text-xs text-white/70 drop-shadow">
-              더블 탭하여 뜻 보기
-            </div>
           </div>
         </div>
 
@@ -206,29 +176,14 @@ export default function FlashCard({
             isolation: 'isolate',
           }}
         >
-          {/* 이미지 영역 (70% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
-          <div className="relative w-full h-[70%] flex-shrink-0" />
+          {/* 이미지 영역 (90% 높이) - 공통 SVG 레이어가 차지하므로 투명 */}
+          <div className="relative w-full h-[90%] flex-shrink-0" />
 
-          {/* 하단 뜻 영역 (30% 높이) - 반투명 오버레이 (blur 제거) */}
-          <div className="relative w-full h-[30%] flex flex-col items-center justify-center px-6 py-4 bg-black/40 pointer-events-auto z-10">
+          {/* 하단 뜻 영역 (10% 높이) - 완전 불투명 배경 */}
+          <div className="relative w-full h-[10%] flex items-center justify-center px-6 bg-black pointer-events-auto z-10">
             {/* 한국어 뜻 */}
-            <div className="text-2xl sm:text-3xl font-bold mb-2 text-center text-white drop-shadow-lg">
+            <div className="text-xl sm:text-2xl font-bold text-center text-white">
               {word.meaning}
-            </div>
-
-            {/* 어근 */}
-            {word.root && (
-              <div
-                className="text-sm text-amber-200 drop-shadow mb-1"
-                dir="rtl"
-              >
-                🌱 {word.root}
-              </div>
-            )}
-
-            {/* 구절 참조 */}
-            <div className="text-xs mt-1 text-white/70 drop-shadow">
-              📖 {reference}
             </div>
           </div>
         </div>
