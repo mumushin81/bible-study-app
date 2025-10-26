@@ -10,7 +10,7 @@ import {
   speakHebrew,
 } from '../../utils/wordHelpers';
 import {
-  getGrammarColors,
+  getGrammarColorValues,
   getGrammarCardBackground,
   getGrammarGlowEffect
 } from '../../utils/grammarColors';
@@ -37,7 +37,7 @@ export default function FlashCard({
   index = 0,
 }: FlashCardProps) {
   const colors = getWordColor(word, darkMode);
-  const grammarColors = word.grammar ? getGrammarColors(word.grammar) : null;
+  const grammarColors = word.grammar ? getGrammarColorValues(word.grammar) : null;
   const lastTapRef = useRef<number>(0);
 
   // 더블 탭 핸들러

@@ -13,6 +13,12 @@ export interface GrammarColors {
   };
 }
 
+export interface GrammarColorValues {
+  bg: string;
+  text: string;
+  border: string;
+}
+
 // Unified grammar color configuration
 const GRAMMAR_COLOR_MAP: Record<string, { color: string; lightShade: string; darkShade: string }> = {
   '명사': { color: 'blue', lightShade: '400', darkShade: '500' },
@@ -117,4 +123,68 @@ export function getGrammarGlowEffect(grammar: string, darkMode: boolean): string
     if (g.includes('감탄사')) return '0 0 0 1px rgb(225, 29, 72), 0 0 8px rgba(225, 29, 72, 0.3)';
     return '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)';
   }
+}
+
+/**
+ * Get grammar-based color values for inline styles
+ * Returns actual hex color values instead of Tailwind classes
+ */
+export function getGrammarColorValues(grammar: string): GrammarColorValues {
+  const g = grammar.toLowerCase();
+
+  // Background colors (pastel shades)
+  const bgColors: Record<string, string> = {
+    '명사': '#DBEAFE',     // blue-100
+    '동사': '#D1FAE5',     // green-100
+    '형용사': '#FEF3C7',   // amber-100
+    '부사': '#FFEDD5',     // orange-100
+    '전치사': '#CFFAFE',   // cyan-100
+    '접속사': '#FCE7F3',   // pink-100
+    '대명사': '#E0E7FF',   // indigo-100
+    '관사': '#CCFBF1',     // teal-100
+    '감탄사': '#FFE4E6',   // rose-100
+  };
+
+  // Text colors (darker shades)
+  const textColors: Record<string, string> = {
+    '명사': '#1D4ED8',     // blue-700
+    '동사': '#15803D',     // green-700
+    '형용사': '#B45309',   // amber-700
+    '부사': '#C2410C',     // orange-700
+    '전치사': '#0E7490',   // cyan-700
+    '접속사': '#BE185D',   // pink-700
+    '대명사': '#4338CA',   // indigo-700
+    '관사': '#0F766E',     // teal-700
+    '감탄사': '#BE123C',   // rose-700
+  };
+
+  // Border colors (medium shades)
+  const borderColors: Record<string, string> = {
+    '명사': '#60A5FA',     // blue-400
+    '동사': '#4ADE80',     // green-400
+    '형용사': '#FBBF24',   // amber-400
+    '부사': '#FB923C',     // orange-400
+    '전치사': '#22D3EE',   // cyan-400
+    '접속사': '#F472B6',   // pink-400
+    '대명사': '#818CF8',   // indigo-400
+    '관사': '#2DD4BF',     // teal-400
+    '감탄사': '#FB7185',   // rose-400
+  };
+
+  for (const key of Object.keys(bgColors)) {
+    if (g.includes(key)) {
+      return {
+        bg: bgColors[key],
+        text: textColors[key],
+        border: borderColors[key],
+      };
+    }
+  }
+
+  // Default gray colors
+  return {
+    bg: '#F3F4F6',     // gray-100
+    text: '#374151',   // gray-700
+    border: '#9CA3AF', // gray-400
+  };
 }
