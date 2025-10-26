@@ -65,7 +65,7 @@ export default function FlashCard({
       onClick={handleDoubleTap}
     >
       <motion.div
-        className="relative rounded-2xl w-full h-full"
+        className="relative w-full h-full"
         style={{
           transformStyle: 'preserve-3d',
           transition: 'transform 0.6s',
@@ -92,12 +92,12 @@ export default function FlashCard({
 
         {/* 앞면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 rounded-2xl backdrop-blur-sm ${
+          className={`absolute inset-0 backdrop-blur-sm ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800/90 border-4 border-gray-800'
-                : 'bg-gray-50/90 border-4 border-gray-400'
+                ? 'bg-gray-800/90 border border-gray-800'
+                : 'bg-gray-50/90 border border-gray-400'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
@@ -108,7 +108,7 @@ export default function FlashCard({
         >
           {/* 광택 효과 그라데이션 오버레이 */}
           <div
-            className="absolute inset-0 rounded-2xl pointer-events-none"
+            className="absolute inset-0 pointer-events-none"
             style={{
               background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
             }}
@@ -190,12 +190,12 @@ export default function FlashCard({
 
         {/* 뒷면 - 품사별 배경색 */}
         <div
-          className={`absolute inset-0 rounded-2xl backdrop-blur-sm ${
+          className={`absolute inset-0 backdrop-blur-sm ${
             word.grammar
               ? getGrammarCardBackground(word.grammar, darkMode)
               : darkMode
-                ? 'bg-gray-800/90 border-4 border-gray-800'
-                : 'bg-gray-50/90 border-4 border-gray-400'
+                ? 'bg-gray-800/90 border border-gray-800'
+                : 'bg-gray-50/90 border border-gray-400'
           } flex flex-col`}
           style={{
             backfaceVisibility: 'hidden',
@@ -206,7 +206,7 @@ export default function FlashCard({
         >
           {/* 광택 효과 그라데이션 오버레이 */}
           <div
-            className="absolute inset-0 rounded-2xl pointer-events-none"
+            className="absolute inset-0 pointer-events-none"
             style={{
               background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
             }}
