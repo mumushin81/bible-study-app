@@ -16,7 +16,30 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   className = '',
   color = 'currentColor'
 }) => {
+  // ⚠️ Hooks는 항상 최상단에서 호출해야 함 (조건문 밖에서)
   const [imageError, setImageError] = useState(false);
+  const reactId = useId();
+
+  // Generate unique SVG with namespaced IDs to prevent gradient collisions
+  const uniqueSvg = useMemo(() => {
+    if (!iconSvg || iconSvg.trim().length === 0) {
+      console.log(`[HebrewIcon] No SVG for word: ${word}, iconSvg:`, iconSvg);
+      return null;
+    }
+
+    // Generate unique prefix based on word + React stable ID (not Math.random()!)
+    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${reactId.replace(/:/g, '-')}`;
+
+    // Replace all id="..." with id="uniqueId-..."
+    let processedSvg = iconSvg.replace(/id="([^"]+)"/g, `id="${uniqueId}-$1"`);
+
+    // Replace all url(#...) with url(#uniqueId-...)
+    processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
+
+    console.log(`[HebrewIcon] ✅ SVG generated for word: ${word}, length: ${processedSvg.length}`);
+    return processedSvg;
+  }, [iconSvg, word, reactId]);
+
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 우선순위 1: JPG 이미지 (iconUrl)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -43,30 +66,6 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 우선순위 2: SVG (레거시 fallback)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  // React 18 useId: SSR/Hydration safe, deterministic
-  const reactId = useId();
-
-  // Generate unique SVG with namespaced IDs to prevent gradient collisions
-  const uniqueSvg = useMemo(() => {
-    if (!iconSvg || iconSvg.trim().length === 0) {
-      console.log(`[HebrewIcon] No SVG for word: ${word}, iconSvg:`, iconSvg);
-      return null;
-    }
-
-    // Generate unique prefix based on word + React stable ID (not Math.random()!)
-    const uniqueId = `${word.replace(/[^a-zA-Z0-9]/g, '')}-${reactId.replace(/:/g, '-')}`;
-
-    // Replace all id="..." with id="uniqueId-..."
-    let processedSvg = iconSvg.replace(/id="([^"]+)"/g, `id="${uniqueId}-$1"`);
-
-    // Replace all url(#...) with url(#uniqueId-...)
-    processedSvg = processedSvg.replace(/url\(#([^)]+)\)/g, `url(#${uniqueId}-$1)`);
-
-    console.log(`[HebrewIcon] ✅ SVG generated for word: ${word}, length: ${processedSvg.length}`);
-    return processedSvg;
-  }, [iconSvg, word, reactId]);
-
-  // 1. iconSvg가 있으면 SVG 렌더링 (최우선)
   if (uniqueSvg) {
     return (
       <div
