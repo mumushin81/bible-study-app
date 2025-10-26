@@ -11,7 +11,8 @@ import {
 } from '../../utils/wordHelpers';
 import {
   getGrammarColors,
-  getGrammarCardBackground
+  getGrammarCardBackground,
+  getGrammarGlowEffect
 } from '../../utils/grammarColors';
 
 interface FlashCardProps {
@@ -103,6 +104,11 @@ export default function FlashCard({
             WebkitBackfaceVisibility: 'hidden',
             isolation: 'isolate',
             transform: 'translateZ(0)',
+            boxShadow: word.grammar
+              ? getGrammarGlowEffect(word.grammar, darkMode)
+              : darkMode
+                ? '0 0 0 1px rgb(229, 231, 235), 0 0 8px rgba(229, 231, 235, 0.5)'
+                : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
           {/* 상단 버튼들 */}
@@ -194,6 +200,11 @@ export default function FlashCard({
             WebkitBackfaceVisibility: 'hidden',
             transform: 'rotateY(180deg) translateZ(0)',
             isolation: 'isolate',
+            boxShadow: word.grammar
+              ? getGrammarGlowEffect(word.grammar, darkMode)
+              : darkMode
+                ? '0 0 0 1px rgb(229, 231, 235), 0 0 8px rgba(229, 231, 235, 0.5)'
+                : '0 0 0 1px rgb(156, 163, 175), 0 0 8px rgba(156, 163, 175, 0.3)',
           }}
         >
           {/* 이미지 영역 (80% 높이) */}
