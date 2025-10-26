@@ -29,8 +29,8 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
           width: '100%',
           height: '100%',
           objectFit: 'contain',
-          filter: 'brightness(0) invert(1) opacity(0.15)',  // 아웃라인 느낌
-          mixBlendMode: 'overlay',
+          filter: 'grayscale(1) contrast(3) brightness(1.2) opacity(0.4)',
+          mixBlendMode: 'luminosity',
         }}
         loading="lazy"
       />
