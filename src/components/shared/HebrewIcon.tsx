@@ -67,6 +67,42 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
   }
 
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  // 에러 표시: JPG 로딩 실패
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  if (iconUrl && imageError) {
+    return (
+      <div
+        className={className}
+        style={{
+          width: '100%',
+          height: '100%',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          backgroundColor: '#fee',
+          border: '2px solid #f88',
+          borderRadius: '8px',
+          padding: '16px',
+          color: '#c00',
+          fontSize: '14px',
+          textAlign: 'center',
+        }}
+      >
+        <div style={{ fontWeight: 'bold', marginBottom: '8px' }}>
+          ❌ 이미지 로딩 실패
+        </div>
+        <div style={{ fontSize: '12px', wordBreak: 'break-all' }}>
+          {word}
+        </div>
+        <div style={{ fontSize: '10px', marginTop: '8px', opacity: 0.7 }}>
+          URL: {iconUrl.substring(0, 50)}...
+        </div>
+      </div>
+    );
+  }
+
+  // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   // 우선순위 2: SVG (레거시 fallback)
   // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
   if (uniqueSvg) {
