@@ -61,27 +61,27 @@ export function getGrammarCardBackground(grammar: string, darkMode: boolean): st
 
   if (darkMode) {
     // Dark mode: -500 shade
-    if (g.includes('명사')) return 'bg-blue-500';
-    if (g.includes('동사')) return 'bg-green-500';
-    if (g.includes('형용사')) return 'bg-amber-500';
-    if (g.includes('부사')) return 'bg-orange-500';
-    if (g.includes('전치사')) return 'bg-cyan-500';
-    if (g.includes('접속사')) return 'bg-pink-500';
-    if (g.includes('대명사')) return 'bg-indigo-500';
-    if (g.includes('관사')) return 'bg-teal-500';
-    if (g.includes('감탄사')) return 'bg-rose-500';
-    return 'bg-gray-700';
+    if (g.includes('명사')) return 'bg-blue-500 border-4 border-blue-600';
+    if (g.includes('동사')) return 'bg-green-500 border-4 border-green-600';
+    if (g.includes('형용사')) return 'bg-amber-500 border-4 border-amber-600';
+    if (g.includes('부사')) return 'bg-orange-500 border-4 border-orange-600';
+    if (g.includes('전치사')) return 'bg-cyan-500 border-4 border-cyan-600';
+    if (g.includes('접속사')) return 'bg-pink-500 border-4 border-pink-600';
+    if (g.includes('대명사')) return 'bg-indigo-500 border-4 border-indigo-600';
+    if (g.includes('관사')) return 'bg-teal-500 border-4 border-teal-600';
+    if (g.includes('감탄사')) return 'bg-rose-500 border-4 border-rose-600';
+    return 'bg-gray-700 border-4 border-gray-800';
   } else {
-    // Light mode: -400 shade
-    if (g.includes('명사')) return 'bg-blue-400';
-    if (g.includes('동사')) return 'bg-green-400';
-    if (g.includes('형용사')) return 'bg-amber-400';
-    if (g.includes('부사')) return 'bg-orange-400';
-    if (g.includes('전치사')) return 'bg-cyan-400';
-    if (g.includes('접속사')) return 'bg-pink-400';
-    if (g.includes('대명사')) return 'bg-indigo-400';
-    if (g.includes('관사')) return 'bg-teal-400';
-    if (g.includes('감탄사')) return 'bg-rose-400';
-    return 'bg-gray-200';
+    // Light mode: -400 shade background, -600 shade border
+    if (g.includes('명사')) return 'bg-blue-400 border-4 border-blue-600';
+    if (g.includes('동사')) return 'bg-green-400 border-4 border-green-600';
+    if (g.includes('형용사')) return 'bg-amber-400 border-4 border-amber-600';
+    if (g.includes('부사')) return 'bg-orange-400 border-4 border-orange-600';
+    if (g.includes('전치사')) return 'bg-cyan-400 border-4 border-cyan-600';
+    if (g.includes('접속사')) return 'bg-pink-400 border-4 border-pink-600';
+    if (g.includes('대명사')) return 'bg-indigo-400 border-4 border-indigo-600';
+    if (g.includes('관사')) return 'bg-teal-400 border-4 border-teal-600';
+    if (g.includes('감탄사')) return 'bg-rose-400 border-4 border-rose-600';
+    return 'bg-gray-200 border-4 border-gray-400';
   }
 }
