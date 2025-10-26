@@ -107,7 +107,7 @@ export default function FlashCard({
         >
           {/* 광택 효과 그라데이션 오버레이 */}
           <div
-            className="absolute inset-0 pointer-events-none"
+            className="absolute inset-0 pointer-events-none z-0"
             style={{
               background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
             }}
@@ -205,7 +205,7 @@ export default function FlashCard({
         >
           {/* 광택 효과 그라데이션 오버레이 */}
           <div
-            className="absolute inset-0 pointer-events-none"
+            className="absolute inset-0 pointer-events-none z-0"
             style={{
               background: 'linear-gradient(135deg, rgba(255,255,255,0.15) 0%, rgba(255,255,255,0) 60%)',
             }}
