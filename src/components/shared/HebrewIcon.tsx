@@ -54,7 +54,8 @@ const HebrewIcon: React.FC<HebrewIconProps> = ({
         className={className}
         style={{
           width: '100%',
-          height: '100%',
+          height: 'auto',
+          aspectRatio: '16/9',
           objectFit: 'contain',
         }}
         loading="lazy"
