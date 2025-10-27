@@ -73,7 +73,7 @@ export function useVerses(options?: UseVersesOptions) {
         // 1️⃣ 먼저 모든 어근 데이터 가져오기 (한 번만)
         const { data: rootsData, error: rootsError } = await supabase
           .from('hebrew_roots')
-          .select('root, root_hebrew, story, etymology_simple, emoji, core_meaning, core_meaning_korean, derivatives')
+          .select('root, root_hebrew, story, emoji, core_meaning, core_meaning_korean')
 
         if (rootsError) {
           console.warn('⚠️ 어근 데이터 로딩 실패:', rootsError.message);

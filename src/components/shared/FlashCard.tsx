@@ -366,36 +366,12 @@ export default function FlashCard({
                   </div>
                   <div className="text-sm text-amber-800 dark:text-amber-200 leading-relaxed text-center whitespace-pre-wrap">
                     {'rootEtymology' in word && word.rootEtymology ? (
-                      // etymology_simple 우선 사용, 없으면 story 사용
-                      word.rootEtymology.etymology_simple || word.rootEtymology.story
+                      word.rootEtymology.story
                     ) : (
                       '히브리어의 대부분의 단어는 3개의 자음으로 이루어진 어근에서 파생됩니다. 이 어근을 이해하면 관련된 다른 단어들의 의미도 쉽게 유추할 수 있습니다.'
                     )}
                   </div>
                 </div>
-
-                {/* 어근 활용 예시 - 파생어 표시 */}
-                {'rootEtymology' in word && word.rootEtymology?.derivatives && word.rootEtymology.derivatives.length > 0 && (
-                  <div className="border-t border-amber-300/50 dark:border-amber-600/50 pt-3 mt-3">
-                    <div className="text-xs font-semibold text-amber-700 dark:text-amber-300 mb-2 text-center">
-                      📖 어근 활용 예시
-                    </div>
-                    <div className="space-y-2">
-                      {word.rootEtymology.derivatives.slice(0, 5).map((derivative, idx) => (
-                        <div key={`${derivative.hebrew}-${idx}`} className="text-sm text-amber-800 dark:text-amber-200">
-                          <div className="flex items-start gap-2">
-                            <span className="text-amber-600 dark:text-amber-400 font-bold min-w-[20px]">{idx + 1}.</span>
-                            <div className="flex-1">
-                              <span className="font-bold text-base" dir="rtl">{derivative.hebrew}</span>
-                              <span className="mx-2">({derivative.korean})</span>
-                              <div className="text-xs mt-0.5">→ {derivative.meaning}</div>
-                            </div>
-                          </div>
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                )}
 
               </div>
             )}
