@@ -66,6 +66,26 @@
   .animate-fadeIn {
     animation: fadeIn 0.3s ease-out;
   }
+
+  /* 플래시카드 그리드 */
+  .flashcards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 2rem;
+    padding: 1rem 0;
+  }
+
+  @media (min-width: 640px) {
+    .flashcards {
+      gap: 2.5rem;
+    }
+  }
+
+  @media (min-width: 1024px) {
+    .flashcards {
+      gap: 3rem;
+    }
+  }
 }
 
 /* 다크모드 전환 애니메이션 */

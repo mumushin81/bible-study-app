@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
-import { Verse, Word, Commentary, CommentarySection } from '../types'
+import { Verse, Word, Commentary, CommentarySection, RootEtymology } from '../types'
 
 // Supabase 쿼리 결과 타입 (일부 필드는 쿼리에 따라 누락될 수 있음)
 interface VerseWithWords {
@@ -70,7 +70,23 @@ export function useVerses(options?: UseVersesOptions) {
         setLoading(true)
         setError(null)
 
-        // 1️⃣ Verses + Words 가져오기
+        // 1️⃣ 먼저 모든 어근 데이터 가져오기 (한 번만)
+        const { data: rootsData, error: rootsError } = await supabase
+          .from('hebrew_roots')
+          .select('root, root_hebrew, story, etymology_simple, emoji, core_meaning, core_meaning_korean, derivatives')
+
+        if (rootsError) {
+          console.warn('⚠️ 어근 데이터 로딩 실패:', rootsError.message);
+          // 어근 정보 없이 계속 진행 (치명적 에러 아님)
+        }
+
+        const rootsMap = new Map<string, RootEtymology>()
+        rootsData?.forEach(r => {
+          rootsMap.set(r.root_hebrew, r as RootEtymology)
+          rootsMap.set(r.root, r as RootEtymology)
+        })
+
+        // 2️⃣ Verses + Words 가져오기
         let versesQuery = supabase
           .from('verses')
           .select(`
@@ -111,10 +127,10 @@ export function useVerses(options?: UseVersesOptions) {
           return
         }
 
-        // 2️⃣ Verse IDs 추출
+        // 3️⃣ Verse IDs 추출
         const verseIds = versesData.map((v: VerseWithWords) => v.id)
 
-        // 3️⃣ Commentaries + 중첩 테이블 별도 조회
+        // 4️⃣ Commentaries + 중첩 테이블 별도 조회
         const { data: commentariesData } = await supabase
           .from('commentaries')
           .select(`
@@ -141,7 +157,7 @@ export function useVerses(options?: UseVersesOptions) {
           `)
           .in('verse_id', verseIds)
 
-        // 4️⃣ Commentary를 verse_id로 매핑
+        // 5️⃣ Commentary를 verse_id로 매핑
         const commentariesMap = new Map<string, CommentaryWithRelations>()
         commentariesData?.forEach((c: CommentaryWithRelations) => {
           if (c.verse_id) {
@@ -149,12 +165,24 @@ export function useVerses(options?: UseVersesOptions) {
           }
         })
 
-        // 5️⃣ 데이터 병합 및 변환
+        // 6️⃣ 데이터 병합 및 변환
         const versesWithDetails: Verse[] = versesData.map((verse: VerseWithWords) => {
           // Word 타입으로 변환 (position으로 정렬)
           const words: Word[] = (verse.words || [])
             .sort((a, b) => a.position - b.position)
             .map((w) => {
+              // 어근 히브리어 추출 (word.root 필드에서)
+              // 1. 하이픈 패턴 찾기 (ㅁ-ㅁ-ㅁ)
+              const hyphenMatch = w.root.match(/([א-ת]-[א-ת]-[א-ת])/);
+              let rootHebrew = hyphenMatch ? hyphenMatch[0] : '';
+
+              // 2. 하이픈 패턴이 없으면 괄호 앞의 히브리어 사용
+              if (!rootHebrew) {
+                rootHebrew = w.root.split('(')[0].trim();
+              }
+
+              const rootEtymology = rootsMap.get(rootHebrew);
+
               return {
                 hebrew: w.hebrew,
                 meaning: w.meaning,
@@ -166,6 +194,7 @@ export function useVerses(options?: UseVersesOptions) {
                 iconUrl: w.icon_url || undefined,
                 iconSvg: w.icon_svg || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
+                rootEtymology,  // ✨ 어근 어원 정보
               }
             })
 

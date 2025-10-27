@@ -476,182 +476,61 @@ export default function App() {
                 </motion.div>
               )}
 
-              {/* Verse Card */}
+              {/* Verse Navigation */}
               {!versesLoading && !versesError && verseData && (
                 <motion.div
-                  key={`verse-${currentVerseIndex}`}
+                  key={`verse-nav-${currentVerseIndex}`}
                   initial={{ opacity: 0, y: 20 }}
                   animate={{ opacity: 1, y: 0 }}
-                  transition={{ duration: 0.5, ease: 'easeOut' }}
-                  className={`rounded-3xl shadow-xl p-6 mb-4 transition-transform hover:-translate-y-1 ${
-                  darkMode
-                    ? 'bg-gradient-to-br from-slate-900/60 via-indigo-900/40 to-violet-900/50 border border-cyan-400/20'
-                    : 'bg-white/90 border border-amber-200'
-                }`}>
-                {/* Verse Reference with Navigation */}
-                <div className="flex items-center justify-between mb-4 gap-2">
-                  <motion.button
-                    onClick={goToPrevVerse}
-                    disabled={currentVerseIndex === 0}
-                    whileHover={{ scale: 1.1 }}
-                    whileTap={{ scale: 0.95 }}
-                    className={`flex items-center gap-1 px-2 sm:px-3 py-2 rounded-full transition-all disabled:opacity-30 disabled:cursor-not-allowed ${
-                      darkMode
-                        ? 'hover:bg-cyan-500/20 text-cyan-300'
-                        : 'hover:bg-purple-100 text-purple-600'
-                    }`}
-                    aria-label="이전 구절"
-                  >
-                    <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
-                    <span className="hidden sm:inline text-sm font-medium">이전</span>
-                  </motion.button>
-
-                  <h2 className={`text-xl font-bold flex-1 text-center ${darkMode ? 'text-white' : 'text-gray-900'}`}>
-                    {verseData.reference}
-                  </h2>
-
-                  <motion.button
-                    onClick={goToNextVerse}
-                    disabled={currentVerseIndex === chapterVerses.length - 1}
-                    whileHover={{ scale: 1.1 }}
-                    whileTap={{ scale: 0.95 }}
-                    className={`flex items-center gap-1 px-2 sm:px-3 py-2 rounded-full transition-all disabled:opacity-30 disabled:cursor-not-allowed ${
-                      darkMode
-                        ? 'hover:bg-cyan-500/20 text-cyan-300'
-                        : 'hover:bg-purple-100 text-purple-600'
-                    }`}
-                    aria-label="다음 구절"
-                  >
-                    <span className="hidden sm:inline text-sm font-medium">다음</span>
-                    <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
-                  </motion.button>
-                </div>
-
-                {/* Hebrew Text */}
-                <div className={`p-6 rounded-2xl mb-4 ${
-                  darkMode
-                    ? 'bg-gradient-to-br from-slate-800/50 to-indigo-900/50 border border-cyan-400/20'
-                    : 'bg-purple-50 border border-purple-200'
-                }`}>
-                  {showHebrewHint && (
-                    <motion.div
-                      initial={{ opacity: 0, y: -10 }}
-                      animate={{ opacity: 1, y: 0 }}
-                      exit={{ opacity: 0, y: -10 }}
-                      className={`flex items-center justify-center gap-2 mb-3 px-4 py-2 rounded-full ${
-                        darkMode
-                          ? 'bg-cyan-500/20 text-cyan-200'
-                          : 'bg-purple-200/70 text-purple-900'
-                      }`}
-                    >
-                      <span className="text-xs font-medium">← 이 방향으로 읽기</span>
-                      <button
-                        onClick={handleCloseHint}
-                        className={`ml-2 text-xs underline ${
-                          darkMode ? 'hover:text-purple-100' : 'hover:text-purple-700'
-                        }`}
-                      >
-                        알겠어요
-                      </button>
-                    </motion.div>
-                  )}
-                  <div className="flex justify-center mb-3">
+                  transition={{ duration: 0.3 }}
+                  className="mb-4"
+                >
+                  {/* Verse Reference with Navigation */}
+                  <div className="flex items-center justify-between mb-3 gap-2">
                     <motion.button
-                      onClick={() => playPronunciation(verseData.hebrew)}
-                      whileHover={{ scale: 1.05 }}
+                      onClick={goToPrevVerse}
+                      disabled={currentVerseIndex === 0}
+                      whileHover={{ scale: 1.1 }}
                       whileTap={{ scale: 0.95 }}
-                      className={`flex items-center gap-2 px-4 py-2 rounded-full transition-all ${
+                      className={`flex items-center gap-1 px-3 py-2 rounded-full transition-all disabled:opacity-30 disabled:cursor-not-allowed ${
                         darkMode
-                          ? 'bg-gradient-to-r from-cyan-500 to-violet-500 hover:from-cyan-600 hover:to-violet-600'
-                          : 'bg-purple-600 hover:bg-purple-700'
-                      } text-white`}
+                          ? 'hover:bg-cyan-500/20 text-cyan-300'
+                          : 'hover:bg-purple-100 text-purple-600'
+                      }`}
+                      aria-label="이전 구절"
                     >
-                      <Volume2 className={`w-4 h-4 ${isPlaying ? 'animate-pulse' : ''}`} />
-                      <span className="text-sm">발음 듣기</span>
+                      <ChevronLeft className="w-5 h-5 sm:w-6 sm:h-6" />
+                      <span className="hidden sm:inline text-sm font-medium">이전</span>
+                    </motion.button>
+
+                    <h2 className={`text-xl font-bold flex-1 text-center ${darkMode ? 'text-white' : 'text-gray-900'}`}>
+                      {verseData.reference}
+                    </h2>
+
+                    <motion.button
+                      onClick={goToNextVerse}
+                      disabled={currentVerseIndex === chapterVerses.length - 1}
+                      whileHover={{ scale: 1.1 }}
+                      whileTap={{ scale: 0.95 }}
+                      className={`flex items-center gap-1 px-3 py-2 rounded-full transition-all disabled:opacity-30 disabled:cursor-not-allowed ${
+                        darkMode
+                          ? 'hover:bg-cyan-500/20 text-cyan-300'
+                          : 'hover:bg-purple-100 text-purple-600'
+                      }`}
+                      aria-label="다음 구절"
+                    >
+                      <span className="hidden sm:inline text-sm font-medium">다음</span>
+                      <ChevronRight className="w-5 h-5 sm:w-6 sm:h-6" />
                     </motion.button>
                   </div>
-                  <p
-                    data-testid="hebrew-text"
-                    className={`text-center font-serif whitespace-nowrap overflow-hidden ${
-                      darkMode ? 'text-white' : 'text-gray-900'
-                    }`}
-                    style={{
-                      fontSize: 'clamp(1rem, 3vw, 1.5rem)',
-                    }}
-                    dir="rtl"
-                  >
-                    {verseData.hebrew}
-                  </p>
-                </div>
 
-                {/* Translations */}
-                <div className="space-y-3">
-                  <div className={`p-4 rounded-xl ${darkMode ? 'bg-gradient-to-r from-cyan-900/30 to-blue-900/30 border border-cyan-400/20' : 'bg-blue-50'}`}>
-                    <div className={`text-xs font-semibold mb-2 text-center ${
-                      darkMode ? 'text-cyan-300' : 'text-blue-700'
-                    }`}>
-                      📢 IPA 발음
-                    </div>
-                    <p
-                      className={`font-mono text-center leading-relaxed ${darkMode ? 'text-blue-100' : 'text-gray-900'}`}
-                      style={{
-                        fontSize: 'clamp(0.7rem, 1.6vw, 0.85rem)',
-                        wordBreak: 'break-all',
-                        lineHeight: '1.8'
-                      }}
-                      dir="rtl"
-                    >
-                      {verseData.ipa}
-                    </p>
-                  </div>
-
-                  <div className={`p-4 rounded-xl ${darkMode ? 'bg-gradient-to-r from-fuchsia-900/30 to-pink-900/30 border border-fuchsia-400/20' : 'bg-pink-50'}`}>
-                    <div className={`text-xs font-semibold mb-2 text-center ${
-                      darkMode ? 'text-fuchsia-300' : 'text-pink-700'
-                    }`}>
-                      🔊 한글 발음
-                    </div>
-                    <p
-                      className={`text-center leading-relaxed ${darkMode ? 'text-pink-100' : 'text-gray-900'}`}
-                      style={{
-                        fontSize: 'clamp(0.8rem, 1.8vw, 0.95rem)',
-                        wordBreak: 'keep-all',
-                        wordWrap: 'break-word',
-                        lineHeight: '1.8'
-                      }}
-                    >
-                      {verseData.koreanPronunciation}
-                    </p>
-                  </div>
-
-                  <div className={`p-5 rounded-xl ${
-                    darkMode ? 'bg-gradient-to-br from-violet-900/40 to-fuchsia-900/40 border border-violet-400/20' : 'bg-gradient-to-br from-amber-50 to-orange-50 border border-amber-200'
-                  }`}>
-                    <div className={`text-xs font-semibold mb-2 text-center ${
-                      darkMode ? 'text-violet-300' : 'text-amber-700'
-                    }`}>
-                      ✨ 현대어 의역
-                    </div>
-                    <p
-                      className={`text-center leading-relaxed font-medium ${darkMode ? 'text-amber-100' : 'text-gray-900'}`}
-                      style={{
-                        fontSize: 'clamp(0.95rem, 2.2vw, 1.1rem)',
-                        wordBreak: 'keep-all',
-                        overflowWrap: 'break-word'
-                      }}
-                    >
-                      {verseData.modern}
-                    </p>
-                  </div>
-                </div>
-
-                {/* Verse Indicator */}
-                <VerseIndicator
-                  currentIndex={currentVerseIndex}
-                  total={chapterVerses.length}
-                  darkMode={darkMode}
-                />
-              </motion.div>
+                  {/* Verse Indicator */}
+                  <VerseIndicator
+                    currentIndex={currentVerseIndex}
+                    total={chapterVerses.length}
+                    darkMode={darkMode}
+                  />
+                </motion.div>
               )}
 
               {/* StudyTab - only show if verseData exists */}

@@ -1,3 +1,22 @@
+export interface DerivativeWord {
+  hebrew: string
+  ipa: string
+  korean: string
+  meaning: string
+  grammar: string
+}
+
+export interface RootEtymology {
+  root: string
+  root_hebrew: string
+  story: string  // 어원 설명 (긴 버전 - 상세 페이지용)
+  etymology_simple?: string  // 간단한 어원 설명 (플래시카드용)
+  emoji: string
+  core_meaning: string
+  core_meaning_korean: string
+  derivatives?: DerivativeWord[]  // 파생어 3-5개
+}
+
 export interface Word {
   hebrew: string;
   meaning: string;
@@ -7,6 +26,9 @@ export interface Word {
   root: string;
   grammar: string;  // 간단한 품사 (명사/동사/형용사/전치사/접속사/부사/대명사)
   iconUrl?: string;  // DB에서 로드한 이미지 URL
+  isCombinedForm?: boolean;  // 결합형 여부 (접두사 포함)
+  rootIpa?: string;  // 어근의 IPA 발음 (hebrew_roots 테이블에서)
+  rootEtymology?: RootEtymology;  // ✨ 어근 어원 정보
 }
 
 export interface CommentarySection {
