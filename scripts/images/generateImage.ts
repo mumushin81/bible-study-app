@@ -1,8 +1,8 @@
 #!/usr/bin/env tsx
 
 /**
- * FLUX Schnell을 사용한 히브리어 단어 이미지 자동 생성 스크립트
- * Replicate API를 사용하여 플래시카드용 깊이있는 단어 이미지를 생성합니다
+ * FLUX 1.1 Pro를 사용한 히브리어 단어 이미지 자동 생성 스크립트
+ * Replicate API를 사용하여 플래시카드용 추상적 파스텔 이미지를 생성합니다
  */
 
 import 'dotenv/config'
@@ -49,7 +49,7 @@ export async function generateWordImage(
     outputDir = join(process.cwd(), 'public/images/words'),
     aspectRatio = '9:16', // 플래시카드 모바일 비율
     outputFormat = 'jpg', // JPG 기본
-    outputQuality = 90,
+    outputQuality = 100, // 최고 품질
     goFast = true,
     numOutputs = 1,
     seed,
@@ -70,25 +70,26 @@ export async function generateWordImage(
   console.log(`${prompt.substring(0, 200)}...\n`)
 
   // Replicate API 호출
-  console.log('🚀 FLUX Schnell API 호출 중...')
+  console.log('🚀 FLUX 1.1 Pro API 호출 중...')
   console.log(`⚙️  설정: ${aspectRatio}, ${outputFormat}, 품질 ${outputQuality}`)
 
   const startTime = Date.now()
 
   const output = await replicate.run(
-    'black-forest-labs/flux-schnell',
+    'black-forest-labs/flux-1.1-pro',
     {
       input: {
         prompt,
         aspect_ratio: aspectRatio,
-        num_outputs: numOutputs,
         output_format: outputFormat,
         output_quality: outputQuality,
-        go_fast: goFast,
         ...(seed && { seed }),
       }
     }
-  ) as string[]
+  )
+
+  // FLUX 1.1 Pro는 단일 URL을 직접 반환
+  const imageUrl = typeof output === 'string' ? output : output
 
   const duration = ((Date.now() - startTime) / 1000).toFixed(2)
   console.log(`⏱️  생성 시간: ${duration}초`)
@@ -121,9 +122,8 @@ export async function generateWordImage(
     savedPaths.push(filepath)
   }
 
-  // 비용 계산 (FLUX Schnell: ~$0.003/이미지)
-  const estimatedCost = (numOutputs * 0.003).toFixed(4)
-  console.log(`\n💰 예상 비용: $${estimatedCost} (${numOutputs}장)`)
+  // 비용 계산 (FLUX 1.1 Pro: 가격 변동 가능)
+  console.log(`\n💰 이미지 생성 완료 (${numOutputs}장)`)
 
   return savedPaths
 }
@@ -140,7 +140,7 @@ export async function generateSimpleImage(
     outputDir = join(process.cwd(), 'public/images/test'),
     aspectRatio = '1:1',
     outputFormat = 'jpg',
-    outputQuality = 90,
+    outputQuality = 100,
     goFast = true,
   } = options
 
@@ -151,12 +151,12 @@ export async function generateSimpleImage(
 
   const prompt = generateSimplePrompt(description)
 
-  console.log('🚀 FLUX Schnell API 호출 중...')
+  console.log('🚀 FLUX 1.1 Pro API 호출 중...')
 
   const startTime = Date.now()
 
   const output = await replicate.run(
-    'black-forest-labs/flux-schnell',
+    'black-forest-labs/flux-1.1-pro',
     {
       input: {
         prompt,
@@ -164,7 +164,6 @@ export async function generateSimpleImage(
         num_outputs: 1,
         output_format: outputFormat,
         output_quality: outputQuality,
-        go_fast: goFast,
       }
     }
   ) as string[]
@@ -184,7 +183,6 @@ export async function generateSimpleImage(
 
   console.log(`✅ 저장 완료: ${filepath}`)
   console.log(`📊 크기: ${(buffer.byteLength / 1024).toFixed(2)} KB`)
-  console.log(`💰 예상 비용: $0.003`)
 
   return filepath
 }
@@ -227,8 +225,7 @@ export async function generateWordImagesBatch(
   console.log(`❌ 실패: ${words.length - successCount}/${words.length}`)
 
   const totalImages = results.reduce((sum, r) => sum + r.length, 0)
-  const totalCost = (totalImages * 0.003).toFixed(4)
-  console.log(`💰 총 비용: $${totalCost} (${totalImages}장)`)
+  console.log(`📊 총 생성: ${totalImages}장`)
   console.log(`━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━\n`)
 
   return results
@@ -247,7 +244,7 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 
   if (args.length === 0) {
     console.log(`
-🎨 FLUX Schnell 히브리어 단어 이미지 자동 생성 도구
+🎨 FLUX 1.1 Pro 히브리어 단어 이미지 자동 생성 도구
    (플래시카드용 9:16 JPG 형식)
 
 사용법:
@@ -273,14 +270,15 @@ if (import.meta.url === `file://${process.argv[1]}`) {
   (https://replicate.com/account/api-tokens)
 
 출력:
+  - 모델: FLUX 1.1 Pro
   - 형식: JPG (플래시카드용)
   - 비율: 9:16 (모바일 세로)
   - 위치: public/images/words/
-  - 비용: ~$0.003/이미지 (약 333장/$1)
+  - 스타일: 추상적 파스텔 색상
 
 특징:
-  ✨ 단어의 깊이있는 의미를 시각적으로 표현
-  🎨 문화적/신학적 맥락 반영
+  ✨ 추상적 파스텔 색상으로 단어 의미 표현
+  🎨 밝고 다양한 색상 사용
   📱 플래시카드 형식에 최적화
     `)
     process.exit(1)
@@ -291,8 +289,8 @@ if (import.meta.url === `file://${process.argv[1]}`) {
     console.log('\n🧪 테스트 이미지 생성 중...\n')
 
     generateSimpleImage(
-      'A beautiful golden sunset over peaceful mountains, with divine rays of light breaking through clouds',
-      'test_sunset',
+      'Abstract pastel colors, peaceful and joyful',
+      'test_pastel',
       {
         aspectRatio: '9:16',
         outputFormat: 'jpg',

@@ -84,7 +84,7 @@ export async function generateIcon(
   console.log('🤖 Claude API 호출 중...')
 
   const response = await anthropic.messages.create({
-    model: 'claude-sonnet-4-20250514',
+    model: 'claude-haiku-4-5',
     max_tokens: 4096,
     messages: [
       {

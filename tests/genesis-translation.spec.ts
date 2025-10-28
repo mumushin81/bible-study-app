@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const LOCAL_URL = 'http://localhost:5177/';
+const LOCAL_URL = '/';
 
 test.describe('Genesis 1-3장 번역 테스트', () => {
   test('Genesis 1장: 히브리어, IPA, 한글 발음, 현대어 의역 표시 확인', async ({ page }) => {

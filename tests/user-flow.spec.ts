@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const LOCAL_URL = 'http://localhost:5177/';
+const LOCAL_URL = '/';
 
 test.describe('사용자 기능 플로우 테스트', () => {
   // 고유한 테스트 사용자 생성

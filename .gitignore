@@ -50,3 +50,30 @@ SUPABASE_CREDENTIALS.md
 
 # Vite cache
 .vite/
+
+# Generated reports and analysis files
+*_REPORT*.md
+*_REPORT*.txt
+*_SUMMARY.md
+*_STATUS*.md
+*_ANALYSIS*.md
+*_COMPARISON*.md
+AGENT*.md
+CODE_IMPROVEMENTS.md
+ETYMOLOGY_CHANGES_ANALYSIS.md
+IMAGE_GENERATION_GUIDELINES.md
+PROMPT_VARIATIONS.md
+
+# Analysis and check scripts
+check_*.ts
+analyze_*.ts
+agent*.ts
+final_*.ts
+fix_*.ts
+match_*.ts
+
+# Generated images
+output/
+*.jpg
+*.png
+!tests/screenshots/*.png

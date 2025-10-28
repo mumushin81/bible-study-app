@@ -702,7 +702,14 @@ graph TD
    - 코드 예제
    - 패턴 라이브러리
 
-3. **이 문서 (JPG_ICON_MASTER_GUIDE.md)** ⭐⭐⭐⭐⭐
+3. **`docs/FLASHCARD_IMAGE_GENERATION_POLICY.md`** ⭐⭐⭐⭐⭐ **[NEW]**
+   - 플래시카드 이미지 생성 규정
+   - 중요/비중요 단어 분류 기준
+   - GIF vs JPG 전략
+   - 프롬프트 작성 가이드
+   - Storage 구조 및 파일명 규칙
+
+4. **이 문서 (JPG_ICON_MASTER_GUIDE.md)** ⭐⭐⭐⭐⭐
    - 전체 개요
    - 워크플로우
    - 문제 해결

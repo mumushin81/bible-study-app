@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-const LOCAL_URL = 'http://localhost:5177/';
+const LOCAL_URL = '/';
 
 test.describe('로컬 DB 연결 테스트', () => {
   test('DB에서 데이터 로드 확인', async ({ page }) => {
