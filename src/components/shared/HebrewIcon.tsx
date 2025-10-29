@@ -17,15 +17,18 @@ interface HebrewIconProps {
 function isValidImage(url: string): boolean {
   if (!url) return false;
 
-  // JPG 패턴 1: UUID 파일명 (hebrew-icons/icons/)
+  // JPG 패턴 1: UUID 또는 MD5 파일명 (hebrew-icons/icons/)
   // UUID format: word_{8hex}_{4hex}_{4hex}_{4hex}_{12hex}.jpg
-  const jpgPattern1 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/icons\/word_[a-f0-9]{8}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{12}\.jpg$/;
+  // MD5 format: word_{32hex}.jpg (FLUX 이미지)
+  const jpgPattern1 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/icons\/word_[a-f0-9_]{32,}\.jpg$/;
 
   // JPG 패턴 2: 일반 파일명 (hebrew-icons/word_icons/)
   const jpgPattern2 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/word_icons\/[a-zA-Z_]+\.jpg$/;
 
   // GIF 패턴 (animated-icons/gifs/)
-  const gifPattern = /supabase\.co\/storage\/v1\/object\/public\/animated-icons\/gifs\/word_[a-f0-9]{8}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{12}\.gif$/;
+  // UUID format: word_{8hex}_{4hex}_{4hex}_{4hex}_{12hex}.gif
+  // MD5 format: word_{32hex}.gif
+  const gifPattern = /supabase\.co\/storage\/v1\/object\/public\/animated-icons\/gifs\/word_[a-f0-9_]{32,}\.gif$/;
 
   return jpgPattern1.test(url) || jpgPattern2.test(url) || gifPattern.test(url);
 }
