@@ -1,14 +1,7 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
-
-export interface RootEtymology {
-  root: string
-  root_hebrew: string
-  story: string  // 어원 설명
-  emoji: string
-  core_meaning: string
-  core_meaning_korean: string
-}
+import { RootEtymology } from '../types'
+import { useHebrewRoots } from '../contexts/HebrewRootsContext'
 
 export interface WordWithContext {
   id: string
@@ -44,29 +37,19 @@ export function useWords(options?: UseWordsOptions) {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<Error | null>(null)
 
+  // ✨ Use cached Hebrew roots from context
+  const { rootsMap, loading: rootsLoading } = useHebrewRoots()
+
   useEffect(() => {
+    // Wait for roots to load before fetching words
+    if (rootsLoading) return
+
     async function fetchWords() {
       try {
         setLoading(true)
         setError(null)
 
-        // 1. 먼저 모든 어근 데이터 가져오기 (한 번만)
-        const { data: rootsData, error: rootsError } = await supabase
-          .from('hebrew_roots')
-          .select('root, root_hebrew, story, emoji, core_meaning, core_meaning_korean')
-
-        if (rootsError) {
-          console.warn('⚠️ 어근 데이터 로딩 실패:', rootsError.message);
-          // 어근 정보 없이 계속 진행 (치명적 에러 아님)
-        }
-
-        const rootsMap = new Map<string, RootEtymology>()
-        rootsData?.forEach(r => {
-          rootsMap.set(r.root_hebrew, r as RootEtymology)
-          rootsMap.set(r.root, r as RootEtymology)
-        })
-
-        // 2. words와 verses를 JOIN해서 가져오기
+        // 1. words와 verses를 JOIN해서 가져오기 (roots는 이미 context에서 로드됨)
         let query = supabase
           .from('words')
           .select(`
@@ -196,7 +179,7 @@ export function useWords(options?: UseWordsOptions) {
     }
 
     fetchWords()
-  }, [options?.bookId, options?.chapter, options?.searchQuery, options?.limit])
+  }, [options?.bookId, options?.chapter, options?.searchQuery, options?.limit, rootsLoading, rootsMap])
 
   return { words, loading, error }
 }

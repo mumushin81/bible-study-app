@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { motion } from 'framer-motion';
 import { RotateCcw, ChevronDown, ChevronUp } from 'lucide-react';
 import { Word } from '../../types';
@@ -64,8 +64,8 @@ export default function WordCard({ words, darkMode, verseReference }: WordCardPr
     setFlippedCards(newFlipped);
   };
 
-  // 중복 단어 제거 (히브리어 기준)
-  const getUniqueWords = () => {
+  // ✨ Memoize unique words computation to avoid recreating on every render
+  const uniqueWords = useMemo(() => {
     const seen = new Set<string>();
     return words.filter(word => {
       if (seen.has(word.hebrew)) {
@@ -74,9 +74,7 @@ export default function WordCard({ words, darkMode, verseReference }: WordCardPr
       seen.add(word.hebrew);
       return true;
     });
-  };
-
-  const uniqueWords = getUniqueWords();
+  }, [words]);
 
   return (
     <motion.div

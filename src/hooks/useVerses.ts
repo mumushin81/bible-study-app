@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
 import { Verse, Word, Commentary, CommentarySection, RootEtymology } from '../types'
+import { useHebrewRoots } from '../contexts/HebrewRootsContext'
 
 // Supabase 쿼리 결과 타입 (일부 필드는 쿼리에 따라 누락될 수 있음)
 interface VerseWithWords {
@@ -64,29 +65,19 @@ export function useVerses(options?: UseVersesOptions) {
   const [error, setError] = useState<Error | null>(null)
   const [isUsingStatic, setIsUsingStatic] = useState(false)
 
+  // ✨ Use cached Hebrew roots from context
+  const { rootsMap, loading: rootsLoading } = useHebrewRoots()
+
   useEffect(() => {
+    // Wait for roots to load before fetching verses
+    if (rootsLoading) return
+
     async function fetchVerses() {
       try {
         setLoading(true)
         setError(null)
 
-        // 1️⃣ 먼저 모든 어근 데이터 가져오기 (한 번만)
-        const { data: rootsData, error: rootsError } = await supabase
-          .from('hebrew_roots')
-          .select('root, root_hebrew, story, emoji, core_meaning, core_meaning_korean')
-
-        if (rootsError) {
-          console.warn('⚠️ 어근 데이터 로딩 실패:', rootsError.message);
-          // 어근 정보 없이 계속 진행 (치명적 에러 아님)
-        }
-
-        const rootsMap = new Map<string, RootEtymology>()
-        rootsData?.forEach(r => {
-          rootsMap.set(r.root_hebrew, r as RootEtymology)
-          rootsMap.set(r.root, r as RootEtymology)
-        })
-
-        // 2️⃣ Verses + Words 가져오기
+        // 1️⃣ Verses + Words 가져오기 (roots는 이미 context에서 로드됨)
         let versesQuery = supabase
           .from('verses')
           .select(`
@@ -127,10 +118,10 @@ export function useVerses(options?: UseVersesOptions) {
           return
         }
 
-        // 3️⃣ Verse IDs 추출
+        // 2️⃣ Verse IDs 추출
         const verseIds = versesData.map((v: VerseWithWords) => v.id)
 
-        // 4️⃣ Commentaries + 중첩 테이블 별도 조회
+        // 3️⃣ Commentaries + 중첩 테이블 별도 조회
         const { data: commentariesData } = await supabase
           .from('commentaries')
           .select(`
@@ -157,7 +148,7 @@ export function useVerses(options?: UseVersesOptions) {
           `)
           .in('verse_id', verseIds)
 
-        // 5️⃣ Commentary를 verse_id로 매핑
+        // 4️⃣ Commentary를 verse_id로 매핑
         const commentariesMap = new Map<string, CommentaryWithRelations>()
         commentariesData?.forEach((c: CommentaryWithRelations) => {
           if (c.verse_id) {
@@ -165,7 +156,7 @@ export function useVerses(options?: UseVersesOptions) {
           }
         })
 
-        // 6️⃣ 데이터 병합 및 변환
+        // 5️⃣ 데이터 병합 및 변환 (rootsMap은 context에서 가져옴)
         const versesWithDetails: Verse[] = versesData.map((verse: VerseWithWords) => {
           // Word 타입으로 변환 (position으로 정렬)
           const words: Word[] = (verse.words || [])
@@ -260,7 +251,7 @@ export function useVerses(options?: UseVersesOptions) {
     }
 
     fetchVerses()
-  }, [options?.bookId, options?.chapter])
+  }, [options?.bookId, options?.chapter, rootsLoading, rootsMap])
 
   return { verses, loading, error, isUsingStatic }
 }
