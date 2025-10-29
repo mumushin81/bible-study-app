@@ -10,21 +10,22 @@ interface HebrewIconProps {
 /**
  * 이미지 검증 함수
  * - Supabase Storage의 이미지만 허용
- * - JPG: word_{32-char-md5-hash}.jpg (hebrew-icons/icons/)
+ * - JPG: word_{uuid-with-underscores}.jpg (hebrew-icons/icons/)
  * - JPG: {filename}.jpg (hebrew-icons/word_icons/) - 창세기 1:1 등
- * - GIF: word_{32-char-md5-hash}.gif (animated-icons/gifs/)
+ * - GIF: word_{uuid-with-underscores}.gif (animated-icons/gifs/)
  */
 function isValidImage(url: string): boolean {
   if (!url) return false;
 
-  // JPG 패턴 1: MD5 해시 파일명 (hebrew-icons/icons/)
-  const jpgPattern1 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/icons\/word_[a-f0-9]{32}\.jpg$/;
+  // JPG 패턴 1: UUID 파일명 (hebrew-icons/icons/)
+  // UUID format: word_{8hex}_{4hex}_{4hex}_{4hex}_{12hex}.jpg
+  const jpgPattern1 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/icons\/word_[a-f0-9]{8}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{12}\.jpg$/;
 
   // JPG 패턴 2: 일반 파일명 (hebrew-icons/word_icons/)
   const jpgPattern2 = /supabase\.co\/storage\/v1\/object\/public\/hebrew-icons\/word_icons\/[a-zA-Z_]+\.jpg$/;
 
   // GIF 패턴 (animated-icons/gifs/)
-  const gifPattern = /supabase\.co\/storage\/v1\/object\/public\/animated-icons\/gifs\/word_[a-f0-9]{32}\.gif$/;
+  const gifPattern = /supabase\.co\/storage\/v1\/object\/public\/animated-icons\/gifs\/word_[a-f0-9]{8}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{4}_[a-f0-9]{12}\.gif$/;
 
   return jpgPattern1.test(url) || jpgPattern2.test(url) || gifPattern.test(url);
 }
