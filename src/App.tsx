@@ -171,7 +171,7 @@ export default function App() {
           <motion.div
             className={`h-0.5 ${darkMode ? 'bg-purple-400' : 'bg-purple-600'}`}
             initial={{ width: '0%' }}
-            animate={{ width: `${((currentVerseIndex + 1) / chapterVerses.length) * 100}%` }}
+            animate={{ width: `${Math.min(Math.max((chapterVerses.length > 0 ? ((currentVerseIndex + 1) / chapterVerses.length) * 100 : 0), 0), 100)}%` }}
             transition={{ duration: 0.3 }}
           />
         )}

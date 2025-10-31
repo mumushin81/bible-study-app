@@ -122,11 +122,11 @@ export default function WordCard({ words, darkMode, verseReference }: WordCardPr
       {/* 카드 본문 */}
       {isOpen && (
         <motion.div
-          initial={{ opacity: 0, height: 0 }}
-          animate={{ opacity: 1, height: 'auto' }}
-          exit={{ opacity: 0, height: 0 }}
+          initial={{ opacity: 0, y: -10 }}
+          animate={{ opacity: 1, y: 0 }}
+          exit={{ opacity: 0, y: -10 }}
           transition={{ duration: 0.3 }}
-          className="mt-6 space-y-4"
+          className="mt-6 space-y-4 overflow-hidden"
         >
           {/* 모두 뒤집기 버튼 */}
           <div className="flex justify-end gap-2">

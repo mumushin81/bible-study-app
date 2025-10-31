@@ -181,7 +181,7 @@ export default function BookProgressDashboard({ darkMode, onSelectBook }: BookPr
                             : 'bg-gradient-to-r from-orange-500 to-pink-500'
                         }`}
                         initial={{ width: 0 }}
-                        animate={{ width: `${progress.progress_percentage || 0}%` }}
+                        animate={{ width: `${Math.min(Math.max(progress.progress_percentage || 0, 0), 100)}%` }}
                         transition={{ duration: 0.8, ease: 'easeOut' }}
                       />
                     </div>

@@ -1,8 +1,10 @@
-import { useState, useEffect } from 'react';
+import { memo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Volume2, X } from 'lucide-react';
 import { Verse } from '../../types';
 import { speakHebrew } from '../../utils/wordHelpers';
+import { BaseCard } from '../shared/BaseCard';
+import { useLocalStorage } from '../../hooks/useLocalStorage';
 
 interface VerseCardProps {
   verse: Verse;
@@ -10,64 +12,41 @@ interface VerseCardProps {
 }
 
 /**
- * 📜 구절카드
+ * 📜 구절카드 (리팩토링)
  * 성경 구절의 본문을 표시하는 카드
  * - 히브리어 원문
  * - IPA 발음
  * - 한글 발음
  * - 현대어 번역
  */
-export default function VerseCard({ verse, darkMode }: VerseCardProps) {
-  const [showHebrewHint, setShowHebrewHint] = useState(true);
+export default memo(function VerseCard({ verse, darkMode }: VerseCardProps) {
+  const [showHebrewHint, setShowHebrewHint] = useLocalStorage(
+    'hideHebrewReadingHint',
+    true
+  );
 
-  // localStorage에서 힌트 표시 여부 확인
-  useEffect(() => {
-    try {
-      const hideHint = localStorage.getItem('hideHebrewReadingHint');
-      if (hideHint === 'true') {
-        setShowHebrewHint(false);
-      }
-    } catch (error) {
-      console.error('Failed to load hint preference:', error);
-    }
-  }, []);
-
-  // 힌트 닫기
-  const handleCloseHint = () => {
+  // 힌트 닫기 (useCallback으로 최적화)
+  const handleCloseHint = useCallback(() => {
     setShowHebrewHint(false);
-    try {
-      localStorage.setItem('hideHebrewReadingHint', 'true');
-    } catch (error) {
-      console.error('Failed to save hint preference:', error);
-    }
-  };
+  }, [setShowHebrewHint]);
+
+  // 발음 듣기 (useCallback으로 최적화)
+  const handleSpeak = useCallback(() => {
+    speakHebrew(verse.hebrew);
+  }, [verse.hebrew]);
 
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 20 }}
-      animate={{ opacity: 1, y: 0 }}
-      transition={{ duration: 0.5 }}
-      className={`rounded-3xl shadow-2xl p-8 mb-6 transition-all duration-300 hover:-translate-y-2 hover:shadow-3xl ${
-        darkMode
-          ? 'bg-gradient-to-br from-blue-900/50 to-cyan-900/30 border-2 border-blue-400/30'
-          : 'bg-gradient-to-br from-blue-50 via-cyan-50 to-white border-2 border-blue-300'
-      }`}
-      data-testid="verse-card"
-    >
+    <BaseCard colorScheme="blue" testId="verse-card">
       {/* 카드 헤더 */}
       <div className="flex items-center gap-4 mb-8 pb-6 border-b-2 border-blue-300/30 dark:border-blue-500/30">
-        <div className={`p-3 rounded-2xl ${
-          darkMode
-            ? 'bg-gradient-to-br from-blue-600/30 to-cyan-600/30'
-            : 'bg-gradient-to-br from-blue-200 to-cyan-200'
-        }`}>
+        <div className="p-3 rounded-2xl bg-gradient-to-br from-blue-200 to-cyan-200 dark:from-blue-600/30 dark:to-cyan-600/30">
           <span className="text-4xl">📜</span>
         </div>
         <div className="flex-1">
-          <h3 className={`text-2xl font-bold ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
+          <h3 className="text-2xl font-bold text-blue-700 dark:text-blue-300">
             구절카드
           </h3>
-          <p className={`text-sm font-medium ${darkMode ? 'text-cyan-400' : 'text-cyan-700'}`}>
+          <p className="text-sm font-medium text-cyan-700 dark:text-cyan-400">
             {verse.reference}
           </p>
         </div>
@@ -83,20 +62,12 @@ export default function VerseCard({ verse, darkMode }: VerseCardProps) {
               animate={{ opacity: 1, y: 0 }}
               exit={{ opacity: 0, y: -10 }}
               transition={{ duration: 0.3 }}
-              className={`flex items-center justify-center gap-2 mb-4 px-4 py-2 rounded-full ${
-                darkMode
-                  ? 'bg-cyan-500/20 text-cyan-200 border border-cyan-400/30'
-                  : 'bg-blue-200/70 text-blue-900 border border-blue-300'
-              }`}
+              className="flex items-center justify-center gap-2 mb-4 px-4 py-2 rounded-full bg-blue-200/70 text-blue-900 border border-blue-300 dark:bg-cyan-500/20 dark:text-cyan-200 dark:border-cyan-400/30"
             >
               <span className="text-sm font-medium">← 이 방향으로 읽기</span>
               <button
                 onClick={handleCloseHint}
-                className={`ml-2 p-1 rounded-full transition-all ${
-                  darkMode
-                    ? 'hover:bg-cyan-400/30 text-cyan-300'
-                    : 'hover:bg-blue-300 text-blue-800'
-                }`}
+                className="ml-2 p-1 rounded-full transition-all hover:bg-blue-300 text-blue-800 dark:hover:bg-cyan-400/30 dark:text-cyan-300"
                 aria-label="힌트 닫기"
               >
                 <X className="w-3.5 h-3.5" />
@@ -106,9 +77,7 @@ export default function VerseCard({ verse, darkMode }: VerseCardProps) {
         </AnimatePresence>
 
         <p
-          className={`text-2xl md:text-3xl lg:text-4xl font-hebrew text-right leading-relaxed mb-4 ${
-            darkMode ? 'text-white' : 'text-gray-900'
-          }`}
+          className="text-2xl md:text-3xl lg:text-4xl font-hebrew text-right leading-relaxed mb-4 text-gray-900 dark:text-white"
           dir="rtl"
           lang="he"
         >
@@ -118,12 +87,8 @@ export default function VerseCard({ verse, darkMode }: VerseCardProps) {
         {/* 음성 버튼 */}
         <div className="flex justify-center">
           <button
-            onClick={() => speakHebrew(verse.hebrew)}
-            className={`flex items-center gap-2 px-4 py-2 rounded-full transition-all ${
-              darkMode
-                ? 'bg-blue-600/30 hover:bg-blue-600/50 text-blue-200 border border-blue-400/30'
-                : 'bg-blue-100 hover:bg-blue-200 text-blue-700 border border-blue-300'
-            }`}
+            onClick={handleSpeak}
+            className="flex items-center gap-2 px-4 py-2 rounded-full transition-all bg-blue-100 hover:bg-blue-200 text-blue-700 border border-blue-300 dark:bg-blue-600/30 dark:hover:bg-blue-600/50 dark:text-blue-200 dark:border-blue-400/30"
             aria-label="발음 듣기"
           >
             <Volume2 className="w-4 h-4" />
@@ -134,36 +99,30 @@ export default function VerseCard({ verse, darkMode }: VerseCardProps) {
 
       {/* IPA 발음 */}
       <div className="mb-4">
-        <p className={`text-xs font-semibold mb-1 ${darkMode ? 'text-cyan-400' : 'text-cyan-700'}`}>
+        <p className="text-xs font-semibold mb-1 text-cyan-700 dark:text-cyan-400">
           IPA 발음
         </p>
-        <p className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-700'}`}>
+        <p className="text-sm text-gray-700 dark:text-gray-300">
           {verse.ipa}
         </p>
       </div>
 
       {/* 한글 발음 */}
       <div className="mb-4">
-        <p className={`text-xs font-semibold mb-1 ${darkMode ? 'text-cyan-400' : 'text-cyan-700'}`}>
+        <p className="text-xs font-semibold mb-1 text-cyan-700 dark:text-cyan-400">
           한글 발음
         </p>
-        <p className={`text-sm ${darkMode ? 'text-gray-300' : 'text-gray-700'}`}>
+        <p className="text-sm text-gray-700 dark:text-gray-300">
           {verse.koreanPronunciation}
         </p>
       </div>
 
       {/* 현대어 번역 */}
-      <div
-        className={`p-4 rounded-xl ${
-          darkMode
-            ? 'bg-blue-900/30 border border-blue-500/30'
-            : 'bg-blue-50 border border-blue-200'
-        }`}
-      >
-        <p className={`text-xs font-semibold mb-2 ${darkMode ? 'text-blue-300' : 'text-blue-700'}`}>
+      <div className="p-4 rounded-xl bg-blue-50 border border-blue-200 dark:bg-blue-900/30 dark:border-blue-500/30">
+        <p className="text-xs font-semibold mb-2 text-blue-700 dark:text-blue-300">
           현대어 번역
         </p>
-        <p className={`text-base leading-relaxed ${darkMode ? 'text-white' : 'text-gray-900'}`}>
+        <p className="text-base leading-relaxed text-gray-900 dark:text-white">
           {verse.modern}
         </p>
       </div>
@@ -171,14 +130,14 @@ export default function VerseCard({ verse, darkMode }: VerseCardProps) {
       {/* 직역 (있는 경우) */}
       {verse.literal && (
         <div className="mt-4">
-          <p className={`text-xs font-semibold mb-1 ${darkMode ? 'text-gray-500' : 'text-gray-500'}`}>
+          <p className="text-xs font-semibold mb-1 text-gray-500">
             직역
           </p>
-          <p className={`text-sm italic ${darkMode ? 'text-gray-400' : 'text-gray-600'}`}>
+          <p className="text-sm italic text-gray-600 dark:text-gray-400">
             {verse.literal}
           </p>
         </div>
       )}
-    </motion.div>
+    </BaseCard>
   );
-}
+});

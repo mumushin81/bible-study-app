@@ -513,7 +513,7 @@ export default function VocabularyTab({
                 <motion.div
                   className="h-full bg-gradient-to-r from-purple-500 to-pink-500 rounded-full"
                   initial={{ width: 0 }}
-                  animate={{ width: `${bookProgress.progress_percentage || 0}%` }}
+                  animate={{ width: `${Math.min(Math.max(bookProgress.progress_percentage || 0, 0), 100)}%` }}
                   transition={{ duration: 0.5 }}
                 />
               </div>
