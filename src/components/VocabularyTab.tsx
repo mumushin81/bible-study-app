@@ -1,4 +1,4 @@
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo, useCallback, useEffect } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, TrendingUp, Volume2, BookOpen, BarChart3, List, Sparkles } from 'lucide-react';
 import FlashCard from './shared/FlashCard';
@@ -28,6 +28,7 @@ interface VocabularyTabProps {
   onViewModeChange?: (mode: 'words' | 'roots' | 'dashboard') => void;
   selectedBook?: string;
   onBookSelectClick?: () => void;
+  currentVerseIndex?: number;
 }
 
 type SubTab = 'all' | 'bookmarked' | 'new' | 'review';
@@ -38,7 +39,8 @@ export default function VocabularyTab({
   viewMode: externalViewMode,
   onViewModeChange,
   selectedBook: externalSelectedBook,
-  onBookSelectClick
+  onBookSelectClick,
+  currentVerseIndex
 }: VocabularyTabProps) {
   // UI 상태 - external prop이 있으면 사용, 없으면 internal state 사용
   const [internalViewMode, setInternalViewMode] = useState<ViewMode>('words');
@@ -90,6 +92,11 @@ export default function VocabularyTab({
     }
     setFlippedCards(newFlipped);
   }, [flippedCards]); // ← flippedCards 변경 시에만 새로운 함수 생성
+
+  // 구절 변경 시 플립 상태 자동 리셋
+  useEffect(() => {
+    setFlippedCards(new Set());
+  }, [currentVerseIndex]);
 
   // 검색 및 필터링된 단어
   const filteredWords = useMemo(() => {
@@ -785,8 +792,9 @@ export default function VocabularyTab({
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
                 {filteredWords.map((word, index) => {
-                  // 각 카드마다 고유한 키: hebrew + verseReference 조합
-                  const cardKey = `${word.hebrew}-${word.verseReference}`;
+                  // 각 카드마다 고유한 키: verseReference + hebrew + index 조합
+                  // (같은 구절에서 같은 단어가 여러 번 나타나도 고유하도록 index 포함)
+                  const cardKey = `${word.verseReference}-${word.hebrew}-${index}`;
 
                   return (
                     <FlashCard

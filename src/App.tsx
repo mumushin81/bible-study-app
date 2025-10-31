@@ -554,6 +554,7 @@ export default function App() {
               onViewModeChange={setVocabularyViewMode}
               selectedBook={vocabularyBookId}
               onBookSelectClick={() => setShowBookSheet(true)}
+              currentVerseIndex={currentVerseIndex}
             />
           )}
 
