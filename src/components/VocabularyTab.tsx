@@ -93,11 +93,12 @@ export default function VocabularyTab({
     setFlippedCards(newFlipped);
   }, [flippedCards]); // ← flippedCards 변경 시에만 새로운 함수 생성
 
-  // 구절 변경 시 플립 상태 자동 리셋
-  // 또는 단어장 탭을 재진입할 때도 리셋 (탭 전환 시 감지하기 위해 activeSubTab도 포함)
+  // 표시되는 단어 목록이 변경될 때 플립 상태 자동 리셋
+  // filteredWords는 activeSubTab, searchQuery, 북마크 상태 등 모든 필터 조건을 반영함
+  // currentVerseIndex는 filteredWords 계산에 포함되지 않으므로 별도로 추가
   useEffect(() => {
     setFlippedCards(new Set());
-  }, [currentVerseIndex, activeSubTab]);
+  }, [filteredWords, currentVerseIndex]);
 
   // 검색 및 필터링된 단어
   const filteredWords = useMemo(() => {
