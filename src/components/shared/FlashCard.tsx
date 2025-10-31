@@ -27,8 +27,13 @@ interface FlashCardProps {
 /**
  * 플래시카드 - 앞뒷면 플립 가능
  * 복잡한 로직을 분리하여 유지보수성 향상
+ *
+ * memo 커스텀 비교:
+ * - isFlipped 변경 시 항상 리렌더링
+ * - word 객체 변경 시 항상 리렌더링
+ * - 다른 props 변경 시에만 리렌더링
  */
-export default memo(function FlashCard({
+function FlashCardComponent({
   word,
   darkMode,
   isFlipped,
@@ -105,4 +110,33 @@ export default memo(function FlashCard({
       </motion.div>
     </motion.div>
   );
+}
+
+// memo 커스텀 비교 함수: isFlipped나 word 변경 시 리렌더링
+export default memo(FlashCardComponent, (prevProps, nextProps) => {
+  // false를 반환하면 리렌더링 실행 (프로퍼티가 다를 때)
+  // true를 반환하면 리렌더링 건너뜀 (프로퍼티가 같을 때)
+
+  // isFlipped가 다르면 → false (리렌더링)
+  if (prevProps.isFlipped !== nextProps.isFlipped) {
+    return false;
+  }
+
+  // word가 다르면 → false (리렌더링)
+  // 참조 비교로 충분함 (새 객체면 다름)
+  if (prevProps.word !== nextProps.word) {
+    return false;
+  }
+
+  // 다른 props도 비교
+  if (prevProps.darkMode !== nextProps.darkMode) return false;
+  if (prevProps.isBookmarked !== nextProps.isBookmarked) return false;
+  if (prevProps.reference !== nextProps.reference) return false;
+  if (prevProps.index !== nextProps.index) return false;
+
+  // 함수들(onFlip, onBookmark)은 비교하지 않음
+  // → useCallback으로 캐시되었으므로 참조 변경 거의 없음
+
+  // 모든 주요 props가 같으면 → true (리렌더링 건너뜀)
+  return true;
 });

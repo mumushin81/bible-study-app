@@ -80,8 +80,8 @@ export default function VocabularyTab({
     setDisplayedRootsCount(prev => Math.min(prev + 15, roots.length));
   }, [roots.length]);
 
-  // 플래시카드 뒤집기 토글
-  const toggleFlip = (hebrew: string) => {
+  // 플래시카드 뒤집기 토글 (useCallback으로 함수 참조 유지)
+  const toggleFlip = useCallback((hebrew: string) => {
     const newFlipped = new Set(flippedCards);
     if (newFlipped.has(hebrew)) {
       newFlipped.delete(hebrew);
@@ -89,7 +89,7 @@ export default function VocabularyTab({
       newFlipped.add(hebrew);
     }
     setFlippedCards(newFlipped);
-  };
+  }, [flippedCards]); // ← flippedCards 변경 시에만 새로운 함수 생성
 
   // 검색 및 필터링된 단어
   const filteredWords = useMemo(() => {
@@ -579,7 +579,10 @@ export default function VocabularyTab({
             type="text"
             placeholder="단어 검색..."
             value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
+            onChange={(e) => {
+              setSearchQuery(e.target.value);
+              setFlippedCards(new Set()); // 검색어 변경 시 flip 상태 리셋
+            }}
             className={`w-full pl-10 pr-4 py-2 rounded-lg ${
               darkMode
                 ? 'bg-gray-700 text-white placeholder-gray-400'
@@ -633,7 +636,10 @@ export default function VocabularyTab({
                 <div className="space-y-3 mb-4">
                   {/* 전체 */}
                   <button
-                    onClick={() => setActiveSubTab('all')}
+                    onClick={() => {
+                      setActiveSubTab('all');
+                      setFlippedCards(new Set()); // Flip 상태 리셋
+                    }}
                     className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 hover:scale-105 active:scale-95 ${
                       activeSubTab === 'all'
                         ? darkMode
@@ -657,7 +663,10 @@ export default function VocabularyTab({
 
                   {/* 북마크 */}
                   <button
-                    onClick={() => setActiveSubTab('bookmarked')}
+                    onClick={() => {
+                      setActiveSubTab('bookmarked');
+                      setFlippedCards(new Set()); // Flip 상태 리셋
+                    }}
                     className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 hover:scale-105 active:scale-95 ${
                       activeSubTab === 'bookmarked'
                         ? darkMode
@@ -681,7 +690,10 @@ export default function VocabularyTab({
 
                   {/* 새 단어 */}
                   <button
-                    onClick={() => setActiveSubTab('new')}
+                    onClick={() => {
+                      setActiveSubTab('new');
+                      setFlippedCards(new Set()); // Flip 상태 리셋
+                    }}
                     className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 hover:scale-105 active:scale-95 ${
                       activeSubTab === 'new'
                         ? darkMode
@@ -705,7 +717,10 @@ export default function VocabularyTab({
 
                   {/* 복습 대기 */}
                   <button
-                    onClick={() => setActiveSubTab('review')}
+                    onClick={() => {
+                      setActiveSubTab('review');
+                      setFlippedCards(new Set()); // Flip 상태 리셋
+                    }}
                     className={`w-full p-4 rounded-2xl transition-all flex items-center gap-4 hover:scale-105 active:scale-95 ${
                       activeSubTab === 'review'
                         ? darkMode
@@ -769,19 +784,24 @@ export default function VocabularyTab({
               </div>
             ) : (
               <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-                {filteredWords.map((word, index) => (
-                  <FlashCard
-                    key={word.hebrew}
-                    word={word}
-                    darkMode={darkMode}
-                    isFlipped={flippedCards.has(word.hebrew)}
-                    onFlip={() => toggleFlip(word.hebrew)}
-                    isBookmarked={bookmarkedWords.has(word.hebrew)}
-                    onBookmark={() => toggleBookmark(word.hebrew)}
-                    reference={word.verseReference}
-                    index={index}
-                  />
-                ))}
+                {filteredWords.map((word, index) => {
+                  // 각 카드마다 고유한 키: hebrew + verseReference 조합
+                  const cardKey = `${word.hebrew}-${word.verseReference}`;
+
+                  return (
+                    <FlashCard
+                      key={cardKey}
+                      word={word}
+                      darkMode={darkMode}
+                      isFlipped={flippedCards.has(cardKey)}
+                      onFlip={() => toggleFlip(cardKey)}
+                      isBookmarked={bookmarkedWords.has(word.hebrew)}
+                      onBookmark={() => toggleBookmark(word.hebrew)}
+                      reference={word.verseReference}
+                      index={index}
+                    />
+                  );
+                })}
               </div>
             )}
           </motion.div>

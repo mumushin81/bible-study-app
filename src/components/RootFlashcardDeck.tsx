@@ -1,4 +1,4 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useCallback } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { ChevronLeft, ChevronRight, BookOpen, Sparkles } from 'lucide-react';
 import { useRootDerivations } from '../hooks/useHebrewRoots';
@@ -24,6 +24,7 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
   const nextCard = () => {
     if (currentIndex < derivations.length - 1) {
       setCurrentIndex(prev => prev + 1);
+      setFlippedCards(new Set()); // 카드 변경 시 flip 상태 리셋
     }
   };
 
@@ -31,11 +32,12 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
   const prevCard = () => {
     if (currentIndex > 0) {
       setCurrentIndex(prev => prev - 1);
+      setFlippedCards(new Set()); // 카드 변경 시 flip 상태 리셋
     }
   };
 
-  // 플래시카드 뒤집기
-  const toggleFlip = (hebrew: string) => {
+  // 플래시카드 뒤집기 (useCallback으로 함수 참조 유지)
+  const toggleFlip = useCallback((hebrew: string) => {
     const newFlipped = new Set(flippedCards);
     if (newFlipped.has(hebrew)) {
       newFlipped.delete(hebrew);
@@ -43,10 +45,10 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
       newFlipped.add(hebrew);
     }
     setFlippedCards(newFlipped);
-  };
+  }, [flippedCards]); // ← flippedCards 변경 시에만 새로운 함수 생성
 
-  // 북마크 토글
-  const toggleBookmark = (hebrew: string) => {
+  // 북마크 토글 (useCallback으로 함수 참조 유지)
+  const toggleBookmark = useCallback((hebrew: string) => {
     const newBookmarked = new Set(bookmarkedWords);
     if (newBookmarked.has(hebrew)) {
       newBookmarked.delete(hebrew);
@@ -54,7 +56,7 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
       newBookmarked.add(hebrew);
     }
     setBookmarkedWords(newBookmarked);
-  };
+  }, [bookmarkedWords]); // ← bookmarkedWords 변경 시에만 새로운 함수 생성
 
   if (loading) {
     return (
@@ -181,21 +183,29 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
             exit={{ opacity: 0, scale: 0.95 }}
             className="mb-6"
           >
-            <FlashCard
-              word={{
-                ...currentCard.word,
-                iconUrl: currentCard.word.icon_url,
-                iconSvg: currentCard.word.icon_svg,
-                relatedWords: [],
-              }}
-              darkMode={darkMode}
-              isFlipped={flippedCards.has(currentCard.word.hebrew)}
-              onFlip={() => toggleFlip(currentCard.word.hebrew)}
-              isBookmarked={bookmarkedWords.has(currentCard.word.hebrew)}
-              onBookmark={() => toggleBookmark(currentCard.word.hebrew)}
-              reference={`${root.root} (${root.root_hebrew}) 어근에서 파생`}
-              index={0}
-            />
+            {(() => {
+              // 각 카드마다 고유한 키: hebrew + currentIndex (카드 위치) 조합
+              const cardKey = `${currentCard.word.hebrew}-${currentIndex}`;
+
+              return (
+                <FlashCard
+                  key={cardKey}
+                  word={{
+                    ...currentCard.word,
+                    iconUrl: currentCard.word.icon_url,
+                    iconSvg: currentCard.word.icon_svg,
+                    relatedWords: [],
+                  }}
+                  darkMode={darkMode}
+                  isFlipped={flippedCards.has(cardKey)}
+                  onFlip={() => toggleFlip(cardKey)}
+                  isBookmarked={bookmarkedWords.has(currentCard.word.hebrew)}
+                  onBookmark={() => toggleBookmark(currentCard.word.hebrew)}
+                  reference={`${root.root} (${root.root_hebrew}) 어근에서 파생`}
+                  index={0}
+                />
+              );
+            })()}
 
             {/* 어근 파생 정보 추가 */}
             {currentCard.derivation_note && (
