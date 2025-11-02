@@ -1,7 +1,7 @@
 # 성경 학습 애플리케이션
 
 ## 배포 정보
-- **GitHub Pages**: [https://jinxin.github.io/bible-study-app/](https://jinxin.github.io/bible-study-app/)
+- **GitHub Pages**: [https://mumushin81.github.io/bible-study-app/](https://mumushin81.github.io/bible-study-app/)
 
 ## 시작하기
 
