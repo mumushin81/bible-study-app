@@ -46,7 +46,10 @@
     "duplicates:verify": "tsx scripts/final/verifyNoDuplicates.ts",
     "duplicates:monitor": "tsx scripts/final/monitorDuplicates.ts",
     "duplicates:add-constraint": "tsx scripts/final/addUniqueConstraint.ts",
-    "duplicates:fix-scripts": "tsx scripts/final/fixDataGenerationProcess.ts"
+    "duplicates:fix-scripts": "tsx scripts/final/fixDataGenerationProcess.ts",
+    "test:image-gen": "tsx scripts/debug/testImageGeneration.ts",
+    "icons:upload": "tsx scripts/upload_hebrew_icons.ts",
+    "icons:test": "tsx scripts/test_icon_upload.ts"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.67.0",
@@ -57,7 +60,6 @@
     "@types/xml2js": "^0.4.14",
     "canvas": "^3.2.0",
     "dexie": "^4.2.1",
-    "dotenv": "^17.2.3",
     "emoji-mart": "^5.6.0",
     "fluentui-emoji": "^1.3.0",
     "framer-motion": "^12.23.24",
@@ -80,6 +82,7 @@
     "autoprefixer": "^10.4.17",
     "axios": "^1.12.2",
     "cheerio": "^1.0.0",
+    "dotenv": "^17.2.3",
     "husky": "^9.1.7",
     "postcss": "^8.4.35",
     "sharp": "^0.34.4",
