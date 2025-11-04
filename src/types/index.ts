@@ -17,6 +17,11 @@ export interface RootEtymology {
   derivatives?: DerivativeWord[]  // 파생어 3-5개
 }
 
+export interface RootLetterAnalysis {
+  letter: string;        // 히브리어 자음 (예: "ב")
+  pronunciation: string; // 로마자 음가 (예: "b")
+}
+
 export interface Word {
   hebrew: string;
   meaning: string;
@@ -25,10 +30,11 @@ export interface Word {
   letters?: string;  // 글자별 분해 (예: "ש(sh) + ל(l) + ו(o) + ם(m)")
   root: string;
   grammar: string;  // 간단한 품사 (명사/동사/형용사/전치사/접속사/부사/대명사)
-  iconUrl?: string;  // DB에서 로드한 이미지 URL
+  flashcardImgUrl?: string | null;  // AI 생성 플래시카드 이미지 URL (옵셔널, null 허용)
   isCombinedForm?: boolean;  // 결합형 여부 (접두사 포함)
   rootIpa?: string;  // 어근의 IPA 발음 (hebrew_roots 테이블에서)
   rootEtymology?: RootEtymology;  // ✨ 어근 어원 정보
+  rootAnalysis?: RootLetterAnalysis[];  // ✨ 어근 글자별 발음 분석 (Gemini 권장)
 }
 
 export interface CommentarySection {

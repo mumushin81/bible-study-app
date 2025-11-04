@@ -18,7 +18,8 @@
       "relatedWords": [
         "אָמַר (아마르 - 말하다)",
         "דָּבָר (다바르 - 말씀, 사건)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "יְהוָה",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֱלֹהִים (엘로힘 - 하나님)",
         "אֲדֹנָי (아도나이 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yehoba.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "אֵל (엘 - 신)",
         "אֱלוֹהַּ (엘로아 - 하나님 단수형)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elrohim.jpg"
     },
     {
       "hebrew": "לֹא-טוֹב",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "טוֹב (토브 - 좋은)",
         "רַע (라 - 나쁜)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rotobeu.jpg"
     },
     {
       "hebrew": "הֱיוֹת",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "הָיָה (하야 - 되다, 있다)",
         "יֵשׁ (예쉬 - 있다, 존재하다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/heyoteu.jpg"
     },
     {
       "hebrew": "הָאָדָם",
@@ -88,7 +93,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 땅, 흙)",
         "אָדֹם (아돔 - 붉은)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haadam.jpg"
     },
     {
       "hebrew": "לְבַדּוֹ",
@@ -102,7 +108,8 @@
       "relatedWords": [
         "יָחִיד (야히드 - 유일한, 홀로)",
         "בּוֹדֵד (보데드 - 고립된)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reubado.jpg"
     },
     {
       "hebrew": "אֶעֱשֶׂה-לּוֹ",
@@ -116,7 +123,8 @@
       "relatedWords": [
         "עָשָׂה (아사 - 만들다)",
         "מַעֲשֶׂה (마아세 - 작품, 행위)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eesero.jpg"
     },
     {
       "hebrew": "עֵזֶר",
@@ -130,7 +138,8 @@
       "relatedWords": [
         "עָזַר (아자르 - 돕다)",
         "עֶזְרָה (에즈라 - 도움)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ejereu.jpg"
     },
     {
       "hebrew": "כְּנֶגְדּוֹ",
@@ -144,7 +153,8 @@
       "relatedWords": [
         "נֶגֶד (네게드 - 앞에, 대면하여)",
         "נָכֹחַ (나코하 - 맞은편, 대등한)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kenegeudo.jpg"
     }
   ],
   "commentary": {

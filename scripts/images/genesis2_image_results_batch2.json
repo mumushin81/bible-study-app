@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 2,
+  "startIndex": 21,
+  "endIndex": 40,
+  "totalWords": 20,
+  "generated": 20,
+  "existing": 0,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "אֲשֶׁר בָּרָא",
+      "korean": "아셰르 바라",
+      "meaning": "창조하신",
+      "romanized": "asyereubara",
+      "imageUrl": "https://replicate.delivery/xezq/s4Bux5iLbWYmFZGwyuTuxf9kpzI93jJ0ptAW6euvB7v71nlVA/tmp8m37r7qw.jpg",
+      "localPath": "asyereubara.jpg"
+    },
+    {
+      "hebrew": "לַעֲשׂוֹת",
+      "korean": "라아소트",
+      "meaning": "만들기 위하여",
+      "romanized": "raasoteu",
+      "imageUrl": "https://replicate.delivery/xezq/QH5W4S0fVyT1MafxmjDKexp0teVZ4n9hC5Uic51y0juJYfssC/tmpqrt455n9.jpg",
+      "localPath": "raasoteu.jpg"
+    },
+    {
+      "hebrew": "אֵלֶּה",
+      "korean": "엘레",
+      "meaning": "이것이, 이들이",
+      "romanized": "elre",
+      "imageUrl": "https://replicate.delivery/xezq/VCXIZ4wj3j4gLNfwIrnI6EZEP3edAAeFTc9g1rRgvU9RsPLrA/tmpy_un0f7c.jpg",
+      "localPath": "elre.jpg"
+    },
+    {
+      "hebrew": "תוֹלְדוֹת",
+      "korean": "톨도트",
+      "meaning": "역사, 세대, 출생",
+      "romanized": "toldoteu",
+      "imageUrl": "https://replicate.delivery/xezq/XiIeOdCbbnQeOEJDae0YWeUylnMVmCAeOpinirTFAxM1xeZZF/tmp2aitcq4s.jpg",
+      "localPath": "toldoteu.jpg"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ",
+      "korean": "하샤마임 베하아레츠",
+      "meaning": "하늘과 땅",
+      "romanized": "hasyamaimbehaarecheu",
+      "imageUrl": "https://replicate.delivery/xezq/fzPktZ2R6bQ9ESf9vRUaTZaAiSZ2jhlxsWuRfZGGpW7msPLrA/tmpr0z86gpq.jpg",
+      "localPath": "hasyamaimbehaarecheu.jpg"
+    },
+    {
+      "hebrew": "בְּהִבָּרְאָם",
+      "korean": "베히바레암",
+      "meaning": "그것들이 창조될 때",
+      "romanized": "behibaream",
+      "imageUrl": "https://replicate.delivery/xezq/3GZhPeBxaE0KVyVHdT2hEvFFWKVu3A6ThC4Dl0Pv0UfZ2nlVA/tmpac4dn_a8.jpg",
+      "localPath": "behibaream.jpg"
+    },
+    {
+      "hebrew": "בְּיוֹם",
+      "korean": "베욤",
+      "meaning": "날에, 그 날에",
+      "romanized": "beyom",
+      "imageUrl": "https://replicate.delivery/xezq/bY7PfUrj4LSoHazgvtFumFuwGfFDpD0jt8l1auAd5s7i2nlVA/tmpkd4zrn_x.jpg",
+      "localPath": "beyom.jpg"
+    },
+    {
+      "hebrew": "עֲשׂוֹת",
+      "korean": "아소트",
+      "meaning": "만드실 때, 행하실 때",
+      "romanized": "asoteu",
+      "imageUrl": "https://replicate.delivery/xezq/lBf1Z7cekLrYJkEOfAF9hzdF7NkNULAICfpHeDMhuX3Y1eZZF/tmpbwgioo6a.jpg",
+      "localPath": "asoteu.jpg"
+    },
+    {
+      "hebrew": "יְהוָה אֱלֹהִים",
+      "korean": "아도나이 엘로힘",
+      "meaning": "여호와 하나님",
+      "romanized": "adonaielrohim",
+      "imageUrl": "https://replicate.delivery/xezq/bMGEzyATSe1oKqYSbWjLnGqc0cH720Vzf5AU9wxffRnZbfssC/tmpeij903m8.jpg",
+      "localPath": "adonaielrohim.jpg"
+    },
+    {
+      "hebrew": "אֶרֶץ וְשָׁמָיִם",
+      "korean": "에레츠 베샤마임",
+      "meaning": "땅과 하늘",
+      "romanized": "erecheubesyamaim",
+      "imageUrl": "https://replicate.delivery/xezq/paN8c6XZ22ZqO1sheDaZYUTLt2e9bDTRT8xOzvDOodbetPLrA/tmpp805qnsf.jpg",
+      "localPath": "erecheubesyamaim.jpg"
+    },
+    {
+      "hebrew": "שִׂיחַ הַשָּׂדֶה",
+      "korean": "시아흐 하사데",
+      "meaning": "들의 초목",
+      "romanized": "siaheuhasade",
+      "imageUrl": "https://replicate.delivery/xezq/4dAMffzvALvKepJ3xGY8H74tCcuebvEVricCiCu1WPSScfssC/tmplp0ksnqz.jpg",
+      "localPath": "siaheuhasade.jpg"
+    },
+    {
+      "hebrew": "טֶרֶם",
+      "korean": "테렘",
+      "meaning": "아직 ~하지 않았다",
+      "romanized": "terem",
+      "imageUrl": "https://replicate.delivery/xezq/ewgeGyrfAeecFiaN5PBKnQNLLQe5cq9fqGYraTLNHUcqk7zyKA/tmpxpndr6bd.jpg",
+      "localPath": "terem.jpg"
+    },
+    {
+      "hebrew": "יִהְיֶה",
+      "korean": "이흐예",
+      "meaning": "있다, 존재하다",
+      "romanized": "iheuye",
+      "imageUrl": "https://replicate.delivery/xezq/fX1eKHud5AiLV0WeF7kFeWWBXKPcVYdU8cAFf5kxFNwC6eZZF/tmp7lnaeltq.jpg",
+      "localPath": "iheuye.jpg"
+    },
+    {
+      "hebrew": "בָאָרֶץ",
+      "korean": "바아레츠",
+      "meaning": "땅에",
+      "romanized": "baarecheu",
+      "imageUrl": "https://replicate.delivery/xezq/ZpiSfF0iIzTEbCpXtRyLYvjw4n8YUMgCnzASgGVGjfQV3nlVA/tmp1pir2zso.jpg",
+      "localPath": "baarecheu.jpg"
+    },
+    {
+      "hebrew": "עֵשֶׂב הַשָּׂדֶה",
+      "korean": "에세브 하사데",
+      "meaning": "밭의 채소",
+      "romanized": "esebeuhasade",
+      "imageUrl": "https://replicate.delivery/xezq/igVPETuT0sJ1DVDB15qzbUEi9ALvwYOYCJgP7t3j7RJ39ZZF/tmpg1g1wrc1.jpg",
+      "localPath": "esebeuhasade.jpg"
+    },
+    {
+      "hebrew": "יִצְמָח",
+      "korean": "이츠마흐",
+      "meaning": "싹트다, 자라다",
+      "romanized": "icheumaheu",
+      "imageUrl": "https://replicate.delivery/xezq/LDUjoklhV8oUDllvtSOYptOX2iRvmK1dBxtEhEykLp849ZZF/tmp91fklpi1.jpg",
+      "localPath": "icheumaheu.jpg"
+    },
+    {
+      "hebrew": "לֹא הִמְטִיר",
+      "korean": "로 힘티르",
+      "meaning": "비를 내리지 않았다",
+      "romanized": "rohimtireu",
+      "imageUrl": "https://replicate.delivery/xezq/iTkdpjBnRkpMHJ6FMRCEu9jG63PPr6B122slwdebxX107zyKA/tmpglq8etxt.jpg",
+      "localPath": "rohimtireu.jpg"
+    },
+    {
+      "hebrew": "עַל־הָאָרֶץ",
+      "korean": "알 하아레츠",
+      "meaning": "땅 위에",
+      "romanized": "alhaarecheu",
+      "imageUrl": "https://replicate.delivery/xezq/dQd8vFoZ2z6eGSebB5TyidHzPErbirREDCXAjeShxfFFfeZZF/tmp4aeybitm.jpg",
+      "localPath": "alhaarecheu.jpg"
+    },
+    {
+      "hebrew": "וְאָדָם אַיִן",
+      "korean": "베아담 아인",
+      "meaning": "그리고 사람이 없었다",
+      "romanized": "beadamain",
+      "imageUrl": "https://replicate.delivery/xezq/jKtfCHJ3HL3NWiCEERNfMhXCSahuUb6fL57eLt4v0o8rfeZZF/tmp918u1hk9.jpg",
+      "localPath": "beadamain.jpg"
+    },
+    {
+      "hebrew": "לַעֲבֹד",
+      "korean": "라아보드",
+      "meaning": "경작하다, 섬기다",
+      "romanized": "raabodeu",
+      "imageUrl": "https://replicate.delivery/xezq/oF9jz45Dzc4IGppkFwi63gzg6tlGP9cXJRnuOjEeb5tf3nlVA/tmplndhnywl.jpg",
+      "localPath": "raabodeu.jpg"
+    }
+  ]
+}

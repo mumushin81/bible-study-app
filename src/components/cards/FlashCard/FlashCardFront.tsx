@@ -1,7 +1,8 @@
 import { memo, useCallback } from 'react';
 import { Volume2 } from 'lucide-react';
-import { Word, WordWithContext } from '../../../hooks/useWords';
-import HebrewIcon from '../../shared/HebrewIcon';
+import { Word } from '../../../types';
+import type { WordWithContext } from '../../../hooks/useWords';
+import FlashcardImg from '../../shared/HebrewIcon';
 import { speakHebrew } from '../../../utils/wordHelpers';
 import { FlashCardHeader } from './FlashCardHeader';
 
@@ -54,9 +55,9 @@ export const FlashCardFront = memo(function FlashCardFront({
     >
       {/* 배경 이미지 (전체 9:16) */}
       <div className="absolute inset-0 z-0">
-        <HebrewIcon
+        <FlashcardImg
           word={word.hebrew}
-          iconUrl={word.iconUrl}
+          flashcardImgUrl={word.flashcardImgUrl}
           className="w-full h-full object-cover"
         />
       </div>

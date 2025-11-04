@@ -18,7 +18,8 @@
       "relatedWords": [
         "אָמַר (아마르 - 말하다)",
         "דָּבָר (다바르 - 말씀)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "תַּדְשֵׁא הָאָרֶץ",
@@ -42,7 +44,8 @@
       "letters": "תַּ(ta) + דְ(d) + שֵׁא(she) + הָ(ha) + אָ(a) + רֶץ(rets)",
       "root": "ד-ש-א (다샤)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"sprout3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient><radialGradient id=\"glow3\"><stop offset=\"0%\" stop-color=\"#90EE90\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#32CD32\" stop-opacity=\"0\" /></radialGradient></defs><rect x=\"8\" y=\"44\" width=\"48\" height=\"16\" fill=\"url(#earth3)\" rx=\"4\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"24\" rx=\"12\" ry=\"8\" fill=\"url(#glow3)\" /><path d=\"M 32 44 Q 28 36 28 28 Q 28 20 32 16 Q 36 20 36 28 Q 36 36 32 44 Z\" fill=\"url(#sprout3)\" filter=\"drop-shadow(0 2px 6px rgba(34, 139, 34, 0.6))\" /><ellipse cx=\"26\" cy=\"28\" rx=\"6\" ry=\"10\" fill=\"url(#sprout3)\" opacity=\"0.8\" /><ellipse cx=\"38\" cy=\"28\" rx=\"6\" ry=\"10\" fill=\"url(#sprout3)\" opacity=\"0.8\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"earth3\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\" /><stop offset=\"100%\" stop-color=\"#654321\" /></linearGradient><linearGradient id=\"sprout3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#228B22\" /><stop offset=\"50%\" stop-color=\"#32CD32\" /><stop offset=\"100%\" stop-color=\"#90EE90\" /></linearGradient><radialGradient id=\"glow3\"><stop offset=\"0%\" stop-color=\"#90EE90\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#32CD32\" stop-opacity=\"0\" /></radialGradient></defs><rect x=\"8\" y=\"44\" width=\"48\" height=\"16\" fill=\"url(#earth3)\" rx=\"4\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><ellipse cx=\"32\" cy=\"24\" rx=\"12\" ry=\"8\" fill=\"url(#glow3)\" /><path d=\"M 32 44 Q 28 36 28 28 Q 28 20 32 16 Q 36 20 36 28 Q 36 36 32 44 Z\" fill=\"url(#sprout3)\" filter=\"drop-shadow(0 2px 6px rgba(34, 139, 34, 0.6))\" /><ellipse cx=\"26\" cy=\"28\" rx=\"6\" ry=\"10\" fill=\"url(#sprout3)\" opacity=\"0.8\" /><ellipse cx=\"38\" cy=\"28\" rx=\"6\" ry=\"10\" fill=\"url(#sprout3)\" opacity=\"0.8\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tadeuswehaarecheu.jpg"
     },
     {
       "hebrew": "דֶּשֶׁא",
@@ -56,7 +59,8 @@
       "relatedWords": [
         "עֵשֶׂב (에세브 - 채소, 풀)",
         "יֶרֶק (예레크 - 푸른 것)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/deswe.jpg"
     },
     {
       "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
@@ -70,7 +74,8 @@
       "relatedWords": [
         "זֶרַע (제라 - 씨앗)",
         "זָרַע (자라 - 심다, 뿌리다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/esebeumajeuriajera.jpg"
     },
     {
       "hebrew": "עֵץ פְּרִי",
@@ -84,7 +89,8 @@
       "relatedWords": [
         "עֵץ חַיִּים (에츠 하임 - 생명나무)",
         "פְּרִי (페리 - 열매)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/echeuperi.jpg"
     },
     {
       "hebrew": "עֹשֶׂה פְּרִי",
@@ -98,7 +104,8 @@
       "relatedWords": [
         "עָשָׂה (아사 - 만들다, 행하다)",
         "מַעֲשֶׂה (마아세 - 행위, 작품)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oseperi.jpg"
     },
     {
       "hebrew": "לְמִינוֹ",
@@ -122,7 +129,8 @@
       "letters": "אֲ(a) + שֶׁר(sher) + זַ(za) + רְעוֹ(ro) + בוֹ(vo)",
       "root": "ז-ר-ע (자라)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shell9\"><stop offset=\"0%\" stop-color=\"#D4A574\" /><stop offset=\"60%\" stop-color=\"#A67C52\" /><stop offset=\"100%\" stop-color=\"#8B6914\" /></radialGradient><radialGradient id=\"inside9\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><radialGradient id=\"core9\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"34\" rx=\"20\" ry=\"24\" fill=\"url(#shell9)\" filter=\"drop-shadow(0 6px 10px rgba(139, 105, 20, 0.5))\" /><ellipse cx=\"32\" cy=\"34\" rx=\"16\" ry=\"20\" fill=\"url(#inside9)\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#core9)\" filter=\"drop-shadow(0 2px 4px rgba(244, 164, 96, 0.6))\" /><ellipse cx=\"28\" cy=\"28\" rx=\"3\" ry=\"4\" fill=\"#FFFFFF\" opacity=\"0.5\" /><path d=\"M 32 10 L 36 14 L 32 18\" stroke=\"#8B6914\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shell9\"><stop offset=\"0%\" stop-color=\"#D4A574\" /><stop offset=\"60%\" stop-color=\"#A67C52\" /><stop offset=\"100%\" stop-color=\"#8B6914\" /></radialGradient><radialGradient id=\"inside9\"><stop offset=\"0%\" stop-color=\"#F5DEB3\" /><stop offset=\"100%\" stop-color=\"#DEB887\" /></radialGradient><radialGradient id=\"core9\"><stop offset=\"0%\" stop-color=\"#FFE4B5\" /><stop offset=\"100%\" stop-color=\"#F4A460\" /></radialGradient></defs><ellipse cx=\"32\" cy=\"34\" rx=\"20\" ry=\"24\" fill=\"url(#shell9)\" filter=\"drop-shadow(0 6px 10px rgba(139, 105, 20, 0.5))\" /><ellipse cx=\"32\" cy=\"34\" rx=\"16\" ry=\"20\" fill=\"url(#inside9)\" opacity=\"0.9\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#core9)\" filter=\"drop-shadow(0 2px 4px rgba(244, 164, 96, 0.6))\" /><ellipse cx=\"28\" cy=\"28\" rx=\"3\" ry=\"4\" fill=\"#FFFFFF\" opacity=\"0.5\" /><path d=\"M 32 10 L 36 14 L 32 18\" stroke=\"#8B6914\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereujareuobo.jpg"
     },
     {
       "hebrew": "עַל-הָאָרֶץ",
@@ -136,7 +144,8 @@
       "relatedWords": [
         "אֶרֶץ (에레츠 - 땅, 지구)",
         "אֲדָמָה (아다마 - 흙, 토지)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alhaarecheu.jpg"
     },
     {
       "hebrew": "וַיְהִי-כֵן",
@@ -150,7 +159,8 @@
       "relatedWords": [
         "הָיָה (하야 - 되다, 있다)",
         "כֵּן (켄 - 그렇게, 옳다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehiken.jpg"
     }
   ],
   "commentary": {

@@ -14,7 +14,8 @@
       "letters": "עַל(al) + כֵּן(ken)",
       "root": "עַל (알) + כֵּן (켄)",
       "grammar": "접속사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"therefore1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4169E1\" />\n      <stop offset=\"50%\" stop-color=\"#6495ED\" />\n      <stop offset=\"100%\" stop-color=\"#87CEEB\" />\n    </linearGradient>\n    <radialGradient id=\"glow_therefore1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(65, 105, 225, 0.1)\" />\n  <path d=\"M 12 32 L 42 32\" stroke=\"url(#therefore1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.5))\" />\n  <path d=\"M 32 22 L 42 32 L 32 42\" stroke=\"url(#therefore1)\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.5))\" />\n  <circle cx=\"16\" cy=\"32\" r=\"3\" fill=\"#4169E1\" opacity=\"0.7\" />\n  <circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#6495ED\" opacity=\"0.6\" />\n  <circle cx=\"42\" cy=\"32\" r=\"5\" fill=\"url(#glow_therefore1)\" opacity=\"0.5\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" />\n  <path d=\"M 48 28 L 52 32 L 48 36\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" />\n</svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"therefore1\" x1=\"0%\" x2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#4169E1\" />\n      <stop offset=\"50%\" stop-color=\"#6495ED\" />\n      <stop offset=\"100%\" stop-color=\"#87CEEB\" />\n    </linearGradient>\n    <radialGradient id=\"glow_therefore1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"rgba(255, 215, 0, 0)\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(65, 105, 225, 0.1)\" />\n  <path d=\"M 12 32 L 42 32\" stroke=\"url(#therefore1)\" stroke-width=\"6\" stroke-linecap=\"round\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.5))\" />\n  <path d=\"M 32 22 L 42 32 L 32 42\" stroke=\"url(#therefore1)\" stroke-width=\"6\" stroke-linecap=\"round\" stroke-linejoin=\"round\" fill=\"none\" filter=\"drop-shadow(0 2px 4px rgba(65, 105, 225, 0.5))\" />\n  <circle cx=\"16\" cy=\"32\" r=\"3\" fill=\"#4169E1\" opacity=\"0.7\" />\n  <circle cx=\"24\" cy=\"32\" r=\"2.5\" fill=\"#6495ED\" opacity=\"0.6\" />\n  <circle cx=\"42\" cy=\"32\" r=\"5\" fill=\"url(#glow_therefore1)\" opacity=\"0.5\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.7))\" />\n  <path d=\"M 48 28 L 52 32 L 48 36\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\" />\n</svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alken.jpg"
     },
     {
       "hebrew": "יַעֲזָב",
@@ -28,7 +29,8 @@
       "relatedWords": [
         "עָזַב (아자브 - 버리다, 떠나다)",
         "עֲזוּבָה (아주바 - 버려짐, 외로움)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yaajobeu.jpg"
     },
     {
       "hebrew": "אִישׁ",
@@ -42,7 +44,8 @@
       "relatedWords": [
         "אִשָּׁה (이솨 - 여자, 아내)",
         "אֱנוֹשׁ (에노쉬 - 사람, 인간)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/iswi.jpg"
     },
     {
       "hebrew": "אֶת-אָבִיו",
@@ -56,7 +59,8 @@
       "relatedWords": [
         "אָב (아브 - 아버지)",
         "אֲבוֹת (아보트 - 조상들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuabibeu.jpg"
     },
     {
       "hebrew": "וְאֶת-אִמּוֹ",
@@ -70,7 +74,8 @@
       "relatedWords": [
         "אֵם (엠 - 어머니)",
         "אִמָּהוֹת (이마호트 - 어머니들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beeteuimo.jpg"
     },
     {
       "hebrew": "וְדָבַק",
@@ -84,7 +89,8 @@
       "relatedWords": [
         "דָּבַק (다바크 - 붙다, 결합하다)",
         "דֶּבֶק (데베크 - 접착제, 결합)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bedabakeu.jpg"
     },
     {
       "hebrew": "בְּאִשְׁתּוֹ",
@@ -98,7 +104,8 @@
       "relatedWords": [
         "אִשָּׁה (이솨 - 여자, 아내)",
         "אִישׁ (이쉬 - 남자, 남편)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beiswito.jpg"
     },
     {
       "hebrew": "וְהָיוּ",
@@ -108,7 +115,8 @@
       "letters": "וְ(ve) + הָ(ha) + יוּ(yu)",
       "root": "ה-י-ה (하야)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"become2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#9370DB\" />\n      <stop offset=\"50%\" stop-color=\"#BA55D3\" />\n      <stop offset=\"100%\" stop-color=\"#DA70D6\" />\n    </linearGradient>\n    <radialGradient id=\"transform1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(147, 112, 219, 0.1)\" />\n  <path d=\"M 32 8 Q 48 16 52 32 Q 48 48 32 56 Q 16 48 12 32 Q 16 16 32 8\" stroke=\"url(#become2)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(0 2px 6px rgba(147, 112, 219, 0.5))\" />\n  <path d=\"M 48 20 L 52 16 L 56 20\" stroke=\"url(#become2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n  <path d=\"M 16 44 L 12 48 L 8 44\" stroke=\"url(#become2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n  <circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#transform1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" />\n  <circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#9370DB\" opacity=\"0.7\" />\n  <circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#BA55D3\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"#DA70D6\" opacity=\"0.7\" />\n  <circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#9370DB\" opacity=\"0.7\" />\n  <path d=\"M 28 28 L 32 32 L 36 28\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" />\n</svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\">\n  <defs>\n    <linearGradient id=\"become2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\">\n      <stop offset=\"0%\" stop-color=\"#9370DB\" />\n      <stop offset=\"50%\" stop-color=\"#BA55D3\" />\n      <stop offset=\"100%\" stop-color=\"#DA70D6\" />\n    </linearGradient>\n    <radialGradient id=\"transform1\">\n      <stop offset=\"0%\" stop-color=\"#FFD700\" />\n      <stop offset=\"100%\" stop-color=\"#FFA500\" />\n    </radialGradient>\n  </defs>\n  <circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(147, 112, 219, 0.1)\" />\n  <path d=\"M 32 8 Q 48 16 52 32 Q 48 48 32 56 Q 16 48 12 32 Q 16 16 32 8\" stroke=\"url(#become2)\" stroke-width=\"4\" fill=\"none\" filter=\"drop-shadow(0 2px 6px rgba(147, 112, 219, 0.5))\" />\n  <path d=\"M 48 20 L 52 16 L 56 20\" stroke=\"url(#become2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n  <path d=\"M 16 44 L 12 48 L 8 44\" stroke=\"url(#become2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\" stroke-linejoin=\"round\" />\n  <circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#transform1)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.7))\" />\n  <circle cx=\"32\" cy=\"12\" r=\"4\" fill=\"#9370DB\" opacity=\"0.7\" />\n  <circle cx=\"52\" cy=\"32\" r=\"4\" fill=\"#BA55D3\" opacity=\"0.7\" />\n  <circle cx=\"32\" cy=\"52\" r=\"4\" fill=\"#DA70D6\" opacity=\"0.7\" />\n  <circle cx=\"12\" cy=\"32\" r=\"4\" fill=\"#9370DB\" opacity=\"0.7\" />\n  <path d=\"M 28 28 L 32 32 L 36 28\" stroke=\"#FFD700\" stroke-width=\"2\" fill=\"none\" />\n</svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayu.jpg"
     },
     {
       "hebrew": "לְבָשָׂר",
@@ -122,7 +130,8 @@
       "relatedWords": [
         "בָּשָׂר (바사르 - 살, 육체)",
         "כָּל-בָּשָׂר (콜 바사르 - 모든 육체)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rebasareu.jpg"
     },
     {
       "hebrew": "אֶחָד",
@@ -136,7 +145,8 @@
       "relatedWords": [
         "אֶחָד (에하드 - 하나)",
         "אַחַד (아하드 - 하나, 단일)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ehadeu.jpg"
     }
   ],
   "commentary": {

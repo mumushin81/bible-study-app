@@ -96,6 +96,7 @@ export function useRootDerivations(rootId: string | null) {
             grammar,
             letters,
             root,
+            root_analysis,
             icon_svg,
             verse_id,
             position,

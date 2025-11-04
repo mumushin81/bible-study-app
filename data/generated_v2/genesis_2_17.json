@@ -18,7 +18,8 @@
       "relatedWords": [
         "עֵץ הַחַיִּים (에츠 하하임 - 생명나무)",
         "פְּרִי עֵץ (페리 에츠 - 나무 열매)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/umeecheu.jpg"
     },
     {
       "hebrew": "הַדַּעַת",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "יָדַע (야다 - 알다, 인식하다)",
         "חָכְמָה (호크마 - 지혜)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hadaateu.jpg"
     },
     {
       "hebrew": "טוֹב",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "כִּי טוֹב (키 토브 - 좋았더라)",
         "טוּב וָיָשָׁר (투브 바야샤르 - 선하고 정직함)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tobeu.jpg"
     },
     {
       "hebrew": "וָרָע",
@@ -56,7 +59,8 @@
       "letters": "וָ(va) + רָ(ra) + ע(a)",
       "root": "רַע (라)",
       "grammar": "형용사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"evil_gen217_d\"><stop offset=\"0%\" stop-color=\"#616161\" /><stop offset=\"40%\" stop-color=\"#424242\" /><stop offset=\"70%\" stop-color=\"#212121\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"dark_gen217_d\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D32F2F\" /><stop offset=\"50%\" stop-color=\"#B71C1C\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient><radialGradient id=\"shadow_gen217_d\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"fire_gen217_d\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6F00\" /><stop offset=\"50%\" stop-color=\"#FF1744\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"31\" fill=\"url(#shadow_gen217_d)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#evil_gen217_d)\" filter=\"drop-shadow(0 0 16px rgba(183, 28, 28, 0.9))\" /><path d=\"M 20 28 L 16 22 L 20 18 L 24 22 Z\" fill=\"#000000\" opacity=\"0.9\" /><path d=\"M 44 28 L 40 22 L 44 18 L 48 22 Z\" fill=\"#000000\" opacity=\"0.9\" /><ellipse cx=\"20\" cy=\"23\" rx=\"4\" ry=\"6\" fill=\"#C41E3A\" opacity=\"0.7\" /><ellipse cx=\"44\" cy=\"23\" rx=\"4\" ry=\"6\" fill=\"#C41E3A\" opacity=\"0.7\" /><path d=\"M 16 42 Q 24 46 32 46 Q 40 46 48 42\" stroke=\"#000000\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.8\" /><path d=\"M 18 42 Q 24 44 32 44 Q 40 44 46 42\" stroke=\"url(#dark_gen217_d)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#dark_gen217_d)\" stroke-width=\"2\" opacity=\"0.6\" /><g opacity=\"0.7\"><line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"18\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"38\" y1=\"14\" x2=\"38\" y2=\"18\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"18\" y1=\"22\" x2=\"22\" y2=\"22\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"42\" y1=\"22\" x2=\"46\" y2=\"22\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /></g><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"#D32F2F\" filter=\"drop-shadow(0 0 6px rgba(211, 47, 47, 0.8))\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"evil_gen217_d\"><stop offset=\"0%\" stop-color=\"#616161\" /><stop offset=\"40%\" stop-color=\"#424242\" /><stop offset=\"70%\" stop-color=\"#212121\" /><stop offset=\"100%\" stop-color=\"#000000\" /></radialGradient><linearGradient id=\"dark_gen217_d\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D32F2F\" /><stop offset=\"50%\" stop-color=\"#B71C1C\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient><radialGradient id=\"shadow_gen217_d\"><stop offset=\"0%\" stop-color=\"#000000\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#000000\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"fire_gen217_d\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FF6F00\" /><stop offset=\"50%\" stop-color=\"#FF1744\" /><stop offset=\"100%\" stop-color=\"#880E4F\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"31\" fill=\"url(#shadow_gen217_d)\" /><circle cx=\"32\" cy=\"32\" r=\"22\" fill=\"url(#evil_gen217_d)\" filter=\"drop-shadow(0 0 16px rgba(183, 28, 28, 0.9))\" /><path d=\"M 20 28 L 16 22 L 20 18 L 24 22 Z\" fill=\"#000000\" opacity=\"0.9\" /><path d=\"M 44 28 L 40 22 L 44 18 L 48 22 Z\" fill=\"#000000\" opacity=\"0.9\" /><ellipse cx=\"20\" cy=\"23\" rx=\"4\" ry=\"6\" fill=\"#C41E3A\" opacity=\"0.7\" /><ellipse cx=\"44\" cy=\"23\" rx=\"4\" ry=\"6\" fill=\"#C41E3A\" opacity=\"0.7\" /><path d=\"M 16 42 Q 24 46 32 46 Q 40 46 48 42\" stroke=\"#000000\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" opacity=\"0.8\" /><path d=\"M 18 42 Q 24 44 32 44 Q 40 44 46 42\" stroke=\"url(#dark_gen217_d)\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#dark_gen217_d)\" stroke-width=\"2\" opacity=\"0.6\" /><g opacity=\"0.7\"><line x1=\"26\" y1=\"14\" x2=\"26\" y2=\"18\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"38\" y1=\"14\" x2=\"38\" y2=\"18\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"18\" y1=\"22\" x2=\"22\" y2=\"22\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /><line x1=\"42\" y1=\"22\" x2=\"46\" y2=\"22\" stroke=\"url(#fire_gen217_d)\" stroke-width=\"2.5\" /></g><circle cx=\"32\" cy=\"10\" r=\"3\" fill=\"#D32F2F\" filter=\"drop-shadow(0 0 6px rgba(211, 47, 47, 0.8))\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bara.jpg"
     },
     {
       "hebrew": "לֹא תֹאכַל",
@@ -70,7 +74,8 @@
       "relatedWords": [
         "אָכַל (아칼 - 먹다)",
         "מַאֲכָל (마아칼 - 음식)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rotokal.jpg"
     },
     {
       "hebrew": "מִמֶּנּוּ",
@@ -80,7 +85,8 @@
       "letters": "מִ(mi) + מֶּ(me) + נּוּ(nu)",
       "root": "מִן (민)",
       "grammar": "전치사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"from_gen217_f\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9575CD\" /><stop offset=\"50%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#5E35B1\" /></linearGradient><radialGradient id=\"point_gen217_f\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#B39DDB\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#7E57C2\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"glow_gen217_f\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#CE93D8\" /><stop offset=\"100%\" stop-color=\"#9575CD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#point_gen217_f)\" /><path d=\"M 54 32 L 24 32 L 30 24 M 24 32 L 30 40\" stroke=\"url(#from_gen217_f)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 4px 8px rgba(126, 87, 194, 0.7))\" /><circle cx=\"14\" cy=\"32\" r=\"7\" fill=\"url(#from_gen217_f)\" filter=\"drop-shadow(0 4px 10px rgba(126, 87, 194, 0.9))\" /><circle cx=\"14\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.7\" /><g opacity=\"0.7\"><line x1=\"48\" y1=\"24\" x2=\"42\" y2=\"24\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"40\" x2=\"42\" y2=\"40\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g><circle cx=\"14\" cy=\"32\" r=\"2\" fill=\"#7E57C2\" filter=\"drop-shadow(0 0 4px rgba(126, 87, 194, 1))\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"from_gen217_f\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9575CD\" /><stop offset=\"50%\" stop-color=\"#7E57C2\" /><stop offset=\"100%\" stop-color=\"#5E35B1\" /></linearGradient><radialGradient id=\"point_gen217_f\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"50%\" stop-color=\"#B39DDB\" stop-opacity=\"0.5\" /><stop offset=\"100%\" stop-color=\"#7E57C2\" stop-opacity=\"0\" /></radialGradient><linearGradient id=\"glow_gen217_f\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#CE93D8\" /><stop offset=\"100%\" stop-color=\"#9575CD\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#point_gen217_f)\" /><path d=\"M 54 32 L 24 32 L 30 24 M 24 32 L 30 40\" stroke=\"url(#from_gen217_f)\" stroke-width=\"6\" stroke-linecap=\"round\" fill=\"none\" filter=\"drop-shadow(0 4px 8px rgba(126, 87, 194, 0.7))\" /><circle cx=\"14\" cy=\"32\" r=\"7\" fill=\"url(#from_gen217_f)\" filter=\"drop-shadow(0 4px 10px rgba(126, 87, 194, 0.9))\" /><circle cx=\"14\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.7\" /><g opacity=\"0.7\"><line x1=\"48\" y1=\"24\" x2=\"42\" y2=\"24\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"32\" x2=\"42\" y2=\"32\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"40\" x2=\"42\" y2=\"40\" stroke=\"url(#glow_gen217_f)\" stroke-width=\"2.5\" stroke-linecap=\"round\" /></g><circle cx=\"14\" cy=\"32\" r=\"2\" fill=\"#7E57C2\" filter=\"drop-shadow(0 0 4px rgba(126, 87, 194, 1))\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mimennu.jpg"
     },
     {
       "hebrew": "כִּי",
@@ -90,7 +96,8 @@
       "letters": "כִּ(ki) + י(i)",
       "root": "כִּי (키)",
       "grammar": "접속사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bubble_gen217_g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"30%\" stop-color=\"#BBDEFB\" /><stop offset=\"70%\" stop-color=\"#90CAF9\" /><stop offset=\"100%\" stop-color=\"#42A5F5\" /></linearGradient><radialGradient id=\"shine_gen217_g\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#90CAF9\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"text_gen217_g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1976D2\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"30\" ry=\"7\" fill=\"#000000\" opacity=\"0.12\" /><path d=\"M 10 28 Q 10 10 28 10 L 46 10 Q 54 10 54 18 L 54 34 Q 54 42 46 42 L 22 42 L 14 50 L 16 42 Q 10 42 10 34 Z\" fill=\"url(#bubble_gen217_g)\" stroke=\"#1976D2\" stroke-width=\"2.5\" filter=\"drop-shadow(0 6px 12px rgba(66, 165, 245, 0.5))\" /><ellipse cx=\"26\" cy=\"18\" rx=\"14\" ry=\"12\" fill=\"url(#shine_gen217_g)\" /><circle cx=\"22\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><circle cx=\"32\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><circle cx=\"42\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"3\" fill=\"#64B5F6\" opacity=\"0.5\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bubble_gen217_g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"30%\" stop-color=\"#BBDEFB\" /><stop offset=\"70%\" stop-color=\"#90CAF9\" /><stop offset=\"100%\" stop-color=\"#42A5F5\" /></linearGradient><radialGradient id=\"shine_gen217_g\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\" /><stop offset=\"100%\" stop-color=\"#90CAF9\" stop-opacity=\"0.2\" /></radialGradient><linearGradient id=\"text_gen217_g\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#1976D2\" /><stop offset=\"100%\" stop-color=\"#0D47A1\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"30\" ry=\"7\" fill=\"#000000\" opacity=\"0.12\" /><path d=\"M 10 28 Q 10 10 28 10 L 46 10 Q 54 10 54 18 L 54 34 Q 54 42 46 42 L 22 42 L 14 50 L 16 42 Q 10 42 10 34 Z\" fill=\"url(#bubble_gen217_g)\" stroke=\"#1976D2\" stroke-width=\"2.5\" filter=\"drop-shadow(0 6px 12px rgba(66, 165, 245, 0.5))\" /><ellipse cx=\"26\" cy=\"18\" rx=\"14\" ry=\"12\" fill=\"url(#shine_gen217_g)\" /><circle cx=\"22\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><circle cx=\"32\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><circle cx=\"42\" cy=\"26\" r=\"3.5\" fill=\"url(#text_gen217_g)\" filter=\"drop-shadow(0 2px 4px rgba(13, 71, 161, 0.4))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"3\" fill=\"#64B5F6\" opacity=\"0.5\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ki.jpg"
     },
     {
       "hebrew": "בְּיוֹם",
@@ -104,7 +111,8 @@
       "relatedWords": [
         "יוֹם (욤 - 날, 하루)",
         "הַיּוֹם (하욤 - 오늘)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beyom.jpg"
     },
     {
       "hebrew": "אֲכָלְךָ",
@@ -118,7 +126,8 @@
       "relatedWords": [
         "אָכַל (아칼 - 먹다)",
         "מַאֲכָל (마아칼 - 음식)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/akolka.jpg"
     },
     {
       "hebrew": "מוֹת תָּמוּת",
@@ -132,7 +141,8 @@
       "relatedWords": [
         "מָוֶת (마베트 - 죽음)",
         "מֵת (메트 - 죽은)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/moteutamuteu.jpg"
     }
   ],
   "commentary": {

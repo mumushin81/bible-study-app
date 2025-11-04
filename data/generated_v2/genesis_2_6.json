@@ -18,7 +18,8 @@
       "relatedWords": [
         "עֲנָן (아난 - 구름)",
         "קִיטוֹר (키토르 - 증기)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beedeu.jpg"
     },
     {
       "hebrew": "יַעֲלֶה",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "עָלָה (알라 - 올리다)",
         "עֹלָה (올라 - 번제)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yaalre.jpg"
     },
     {
       "hebrew": "מִן-הָאָרֶץ",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "אֶרֶץ (에레츠 - 땅, 나라)",
         "אֲדָמָה (아다마 - 흙, 토양)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/minhaarecheu.jpg"
     },
     {
       "hebrew": "וְהִשְׁקָה",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "מַשְׁקֶה (마쉬케 - 음료)",
         "שָׁקָה (샤카 - 마시게 하다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behiswika.jpg"
     },
     {
       "hebrew": "אֶת-כָּל-פְּנֵי",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "פָּנִים (파님 - 얼굴, 표면)",
         "כֹּל (콜 - 모든, 전체)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteukolpenei.jpg"
     },
     {
       "hebrew": "הָאֲדָמָה",
@@ -88,7 +93,8 @@
       "relatedWords": [
         "אָדָם (아담 - 사람, 인간)",
         "אֲדָמְדָּם (아담담 - 붉은색)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haadama.jpg"
     }
   ],
   "commentary": {

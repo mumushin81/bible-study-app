@@ -1,0 +1,124 @@
+{
+  "chapter": 2,
+  "batchNumber": 10,
+  "startIndex": 181,
+  "endIndex": 194,
+  "totalWords": 14,
+  "generated": 13,
+  "existing": 1,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "יַעֲזָב",
+      "korean": "야아조브",
+      "meaning": "떠날 것이다",
+      "romanized": "yaajobeu",
+      "imageUrl": "https://replicate.delivery/xezq/8CKwBTxxe0Rmaq6s3D979PPH9DXMNvIsc2RSn3AaiilCD0yKA/tmpmt6q3qb6.jpg",
+      "localPath": "yaajobeu.jpg"
+    },
+    {
+      "hebrew": "אֶת-אָבִיו",
+      "korean": "에트 아비브",
+      "meaning": "그의 아버지를",
+      "romanized": "eteuabibeu",
+      "imageUrl": "https://replicate.delivery/xezq/JLTDAkKCQq5RJF5q15E9OxNjWK9Za7XFEfKTPNGM0RfMGolVA/tmpdctm99mq.jpg",
+      "localPath": "eteuabibeu.jpg"
+    },
+    {
+      "hebrew": "וְאֶת-אִמּוֹ",
+      "korean": "베에트 이모",
+      "meaning": "그리고 그의 어머니를",
+      "romanized": "beeteuimo",
+      "imageUrl": "https://replicate.delivery/xezq/ywz49OB89i52MFAhUFZqScDu6oElpuToEe21lcUhym5JD0yKA/tmpnf28st9p.jpg",
+      "localPath": "beeteuimo.jpg"
+    },
+    {
+      "hebrew": "וְדָבַק",
+      "korean": "베다바크",
+      "meaning": "결합할 것이다, 붙을 것이다",
+      "romanized": "bedabakeu",
+      "imageUrl": "https://replicate.delivery/xezq/VvPdFXfwp8U1Dy7o9V5VsaeYX93jq4DjLXZFpf5Xxns3MQLrA/tmp5821yqhs.jpg",
+      "localPath": "bedabakeu.jpg"
+    },
+    {
+      "hebrew": "בְּאִשְׁתּוֹ",
+      "korean": "베이쉬토",
+      "meaning": "그의 아내와",
+      "romanized": "beiswito",
+      "imageUrl": "https://replicate.delivery/xezq/dX1X964tGvJXNhL1KlcYqf9D1UOWw9OylVUprCQ77wqQD0yKA/tmpt36yzfks.jpg",
+      "localPath": "beiswito.jpg"
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "korean": "베하유",
+      "meaning": "될 것이다, 있을 것이다",
+      "romanized": "behayu",
+      "imageUrl": "https://replicate.delivery/xezq/ZSorexwY98VtWCw22hgLurdP9GKBFdSd82H0MWnZocDTD0yKA/tmpsdt1biwl.jpg",
+      "localPath": "behayu.jpg"
+    },
+    {
+      "hebrew": "לְבָשָׂר",
+      "korean": "레바사르",
+      "meaning": "살로, 몸으로",
+      "romanized": "rebasareu",
+      "imageUrl": "https://replicate.delivery/xezq/SkTeXjNBxaTjHiGKPAL1MebeiSkjffsw46AH7B03xnEz1AtsC/tmpo6cax5q_.jpg",
+      "localPath": "rebasareu.jpg"
+    },
+    {
+      "hebrew": "אֶחָד",
+      "korean": "에하드",
+      "meaning": "하나의, 한",
+      "romanized": "ehadeu",
+      "imageUrl": "https://replicate.delivery/xezq/mc9SQnHfeGnofIdHeM3EIETRJzMAeomxIhW3zkefyXY9ZD0yKA/tmp1mtvr0lk.jpg",
+      "localPath": "ehadeu.jpg"
+    },
+    {
+      "hebrew": "וַיִּהְיוּ",
+      "korean": "바이흐유",
+      "meaning": "그들이 되었다",
+      "romanized": "baiheuyu",
+      "imageUrl": "https://replicate.delivery/xezq/PmAnAgfbWdxUIaY7OumdF213kaB5o6qQAEflKCCci925GolVA/tmpditfwix3.jpg",
+      "localPath": "baiheuyu.jpg"
+    },
+    {
+      "hebrew": "שְׁנֵיהֶם",
+      "korean": "쉐네헴",
+      "meaning": "그들 둘 다",
+      "romanized": "swenehem",
+      "imageUrl": "https://replicate.delivery/xezq/6czWCB1Ws5ajLdzj8kZBtAJWpVLpXw6oz9GUbDho2zVwBaZF/tmpza8yh1lz.jpg",
+      "localPath": "swenehem.jpg"
+    },
+    {
+      "hebrew": "עֲרוּמִּים",
+      "korean": "아루밈",
+      "meaning": "벗은, 나체의",
+      "romanized": "arumim",
+      "imageUrl": "https://replicate.delivery/xezq/R132o1I6h15nJx83aiJdaL5tZ6OZgKDdb3QkdRZC5eZjD0yKA/tmpdoyqk0b_.jpg",
+      "localPath": "arumim.jpg"
+    },
+    {
+      "hebrew": "וְאִשְׁתּוֹ",
+      "korean": "베이쉬토",
+      "meaning": "그의 아내",
+      "romanized": "beiswito",
+      "imageUrl": "existing",
+      "localPath": "beiswito.jpg"
+    },
+    {
+      "hebrew": "וְלֹא",
+      "korean": "베로",
+      "meaning": "그리고 ~않았다",
+      "romanized": "bero",
+      "imageUrl": "https://replicate.delivery/xezq/ga6h1v1lQM6WLx9NiOTeVePjfj2iYprnmHKBUwxodTNdOQLrA/tmpxhjpbpr3.jpg",
+      "localPath": "bero.jpg"
+    },
+    {
+      "hebrew": "יִתְבֹּשָׁשׁוּ",
+      "korean": "이트보샤슈",
+      "meaning": "부끄러워하다",
+      "romanized": "iteubosyasyu",
+      "imageUrl": "https://replicate.delivery/xezq/Xy0lQyDI065eRSCkIHguopYCSEo79xhPh3N4igL7T58pD0yKA/tmpyx74skvu.jpg",
+      "localPath": "iteubosyasyu.jpg"
+    }
+  ]
+}

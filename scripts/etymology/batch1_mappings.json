@@ -1,0 +1,97 @@
+{
+  "batch_name": "Batch 1 - High Priority Roots",
+  "batch_number": 1,
+  "total_roots": 10,
+  "roots": [
+    {
+      "root": "י-ד-ע",
+      "root_hebrew": "ידע",
+      "strong_number": "H3045",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h3045/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/3045.htm",
+      "meaning": "to know",
+      "primary_form": "יָדַע"
+    },
+    {
+      "root": "מ-ל-ך",
+      "root_hebrew": "מלך",
+      "strong_number": "H4427",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h4427/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/4427.htm",
+      "meaning": "to reign, rule",
+      "primary_form": "מָלַךְ"
+    },
+    {
+      "root": "י-ר-א",
+      "root_hebrew": "ירא",
+      "strong_number": "H3372",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h3372/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/3372.htm",
+      "meaning": "to fear, revere",
+      "primary_form": "יָרֵא"
+    },
+    {
+      "root": "ע-ש-ה",
+      "root_hebrew": "עשה",
+      "strong_number": "H6213",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h6213/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/6213.htm",
+      "meaning": "to make, do",
+      "primary_form": "עָשָׂה"
+    },
+    {
+      "root": "ש-ב-ת",
+      "root_hebrew": "שבת",
+      "strong_number": "H7673",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h7673/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/7673.htm",
+      "meaning": "to rest, cease",
+      "primary_form": "שָׁבַת"
+    },
+    {
+      "root": "ד-ב-ר",
+      "root_hebrew": "דבר",
+      "strong_number": "H1696",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h1696/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/1696.htm",
+      "meaning": "to speak, word",
+      "primary_form": "דָּבַר"
+    },
+    {
+      "root": "א-מ-ן",
+      "root_hebrew": "אמן",
+      "strong_number": "H539",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h539/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/539.htm",
+      "meaning": "to believe, trust, be firm",
+      "primary_form": "אָמַן"
+    },
+    {
+      "root": "ב-ר-ך",
+      "root_hebrew": "ברך",
+      "strong_number": "H1288",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h1288/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/1288.htm",
+      "meaning": "to bless, kneel",
+      "primary_form": "בָּרַךְ"
+    },
+    {
+      "root": "ש-מ-ר",
+      "root_hebrew": "שמר",
+      "strong_number": "H8104",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h8104/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/8104.htm",
+      "meaning": "to keep, guard, watch",
+      "primary_form": "שָׁמַר"
+    },
+    {
+      "root": "ש-מ-ע",
+      "root_hebrew": "שמע",
+      "strong_number": "H8085",
+      "strong_url": "https://www.blueletterbible.org/lexicon/h8085/kjv/wlc/0-1/",
+      "biblehub_url": "https://biblehub.com/hebrew/8085.htm",
+      "meaning": "to hear, listen, obey",
+      "primary_form": "שָׁמַע"
+    }
+  ]
+}

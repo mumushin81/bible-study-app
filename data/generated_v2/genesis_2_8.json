@@ -18,7 +18,8 @@
       "relatedWords": [
         "נֶטַע (네타 - 식물, 묘목)",
         "מַטָּע (마타 - 농장)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baita.jpg"
     },
     {
       "hebrew": "יְהוָה אֱלֹהִים",
@@ -46,7 +47,8 @@
       "relatedWords": [
         "גַּנָּה (간나 - 정원)",
         "פַּרְדֵּס (파르데스 - 낙원)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/gan.jpg"
     },
     {
       "hebrew": "בְּעֵדֶן",
@@ -60,7 +62,8 @@
       "relatedWords": [
         "עֹנֶג (오네그 - 기쁨, 즐거움)",
         "עָדָן (아단 - 화려하게 하다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beeden.jpg"
     },
     {
       "hebrew": "מִקֶּדֶם",
@@ -74,7 +77,8 @@
       "relatedWords": [
         "קַדְמוֹן (카드몬 - 고대의, 옛)",
         "קָדִים (카딤 - 동풍)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mikedem.jpg"
     },
     {
       "hebrew": "וַיָּשֶׂם",
@@ -88,7 +92,8 @@
       "relatedWords": [
         "שִׂים (심 - 놓다, 두다)",
         "מָקוֹם (마콤 - 장소)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayasem.jpg"
     },
     {
       "hebrew": "שָׁם",
@@ -102,7 +107,8 @@
       "relatedWords": [
         "שֵׁם (쉠 - 이름)",
         "שָׁמָּה (샴마 - 거기로)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/syam.jpg"
     },
     {
       "hebrew": "אֶת־הָאָדָם",
@@ -116,7 +122,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 땅, 흙)",
         "אָדֹם (아돔 - 붉은)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhaadam.jpg"
     },
     {
       "hebrew": "אֲשֶׁר יָצָר",
@@ -130,7 +137,8 @@
       "relatedWords": [
         "יוֹצֵר (요체르 - 도공, 창조주)",
         "יֵצֶר (예체르 - 형상, 충동)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereuyachareu.jpg"
     }
   ],
   "commentary": {

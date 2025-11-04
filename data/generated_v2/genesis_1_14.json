@@ -14,7 +14,8 @@
       "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
       "root": "א-מ-ר (아마르)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><radialGradient id=\"speech_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.25\" /></radialGradient><linearGradient id=\"speech_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speech_g114b)\" opacity=\"0.35\" /><path d=\"M 16 38 Q 16 20 32 20 Q 48 20 48 32 Q 48 44 32 44 L 26 52 L 28 44 Q 16 44 16 38 Z\" fill=\"url(#speech_g114a)\" filter=\"drop-shadow(0 4px 10px rgba(102, 126, 234, 0.45))\" /><circle cx=\"24\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"40\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><path d=\"M 20 26 Q 22 24 24 26\" stroke=\"url(#speech_g114c)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speech_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><radialGradient id=\"speech_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#667EEA\" stop-opacity=\"0.25\" /></radialGradient><linearGradient id=\"speech_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speech_g114b)\" opacity=\"0.35\" /><path d=\"M 16 38 Q 16 20 32 20 Q 48 20 48 32 Q 48 44 32 44 L 26 52 L 28 44 Q 16 44 16 38 Z\" fill=\"url(#speech_g114a)\" filter=\"drop-shadow(0 4px 10px rgba(102, 126, 234, 0.45))\" /><circle cx=\"24\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"32\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><circle cx=\"40\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.92\" /><path d=\"M 20 26 Q 22 24 24 26\" stroke=\"url(#speech_g114c)\" stroke-width=\"1.5\" fill=\"none\" opacity=\"0.6\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -28,7 +29,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "יְהִי",
@@ -38,7 +40,8 @@
       "letters": "יְ(ye) + הִ(hi) + י()",
       "root": "ה-י-ה (하야)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yehi_g114a\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FEF3C7\" /><stop offset=\"70%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"yehi_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"50%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#FB923C\" /></linearGradient><linearGradient id=\"yehi_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FDE047\" /><stop offset=\"100%\" stop-color=\"#FACC15\" /></linearGradient><radialGradient id=\"yehi_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#yehi_g114d)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#yehi_g114a)\" filter=\"drop-shadow(0 0 14px rgba(255, 215, 0, 0.95))\" /><path d=\"M 32 8 L 34 24 L 32 24 L 30 24 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 32 56 L 34 40 L 32 40 L 30 40 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 8 32 L 24 34 L 24 32 L 24 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 56 32 L 40 34 L 40 32 L 40 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 15 15 L 26 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 49 L 38 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 15 L 38 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 15 49 L 26 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"yehi_g114a\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FEF3C7\" /><stop offset=\"70%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"yehi_g114b\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FBBF24\" /><stop offset=\"50%\" stop-color=\"#F59E0B\" /><stop offset=\"100%\" stop-color=\"#FB923C\" /></linearGradient><linearGradient id=\"yehi_g114c\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FDE047\" /><stop offset=\"100%\" stop-color=\"#FACC15\" /></linearGradient><radialGradient id=\"yehi_g114d\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0.1\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#yehi_g114d)\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#yehi_g114a)\" filter=\"drop-shadow(0 0 14px rgba(255, 215, 0, 0.95))\" /><path d=\"M 32 8 L 34 24 L 32 24 L 30 24 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 32 56 L 34 40 L 32 40 L 30 40 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 8 32 L 24 34 L 24 32 L 24 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 56 32 L 40 34 L 40 32 L 40 30 Z\" fill=\"url(#yehi_g114b)\" opacity=\"0.85\" /><path d=\"M 15 15 L 26 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 49 L 38 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 49 15 L 38 26\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /><path d=\"M 15 49 L 26 38\" stroke=\"url(#yehi_g114c)\" stroke-width=\"2.5\" opacity=\"0.75\" stroke-linecap=\"round\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yehi.jpg"
     },
     {
       "hebrew": "מְאֹרֹת",
@@ -52,7 +55,8 @@
       "relatedWords": [
         "אוֹר (오르 - 빛)",
         "מָאוֹר (마오르 - 빛, 광명)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/meuoroteu.jpg"
     },
     {
       "hebrew": "בִּרְקִיעַ",
@@ -62,7 +66,8 @@
       "letters": "בִּ(bi) + רְ(r) + קִי(qi) + עַ(a)",
       "root": "ר-ק-ע (라카)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"raqia_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#0C4A6E\" /><stop offset=\"30%\" stop-color=\"#1E3A8A\" /><stop offset=\"60%\" stop-color=\"#3B82F6\" /><stop offset=\"100%\" stop-color=\"#60A5FA\" /></linearGradient><radialGradient id=\"raqia_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#E0F2FE\" stop-opacity=\"0.4\" /></radialGradient><linearGradient id=\"raqia_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"100%\" stop-color=\"#7DD3FC\" /></linearGradient><radialGradient id=\"raqia_g114d\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"url(#raqia_g114a)\" /><ellipse cx=\"20\" cy=\"20\" rx=\"9\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"26\" cy=\"22\" rx=\"7\" ry=\"5\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"44\" cy=\"44\" rx=\"11\" ry=\"7\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"50\" cy=\"46\" rx=\"8\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"10\" r=\"1.2\" fill=\"url(#raqia_g114d)\" opacity=\"0.95\" /><circle cx=\"52\" cy=\"14\" r=\"1.6\" fill=\"#FFFFFF\" opacity=\"0.95\" /><circle cx=\"18\" cy=\"52\" r=\"1.1\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"56\" cy=\"56\" r=\"1.4\" fill=\"url(#raqia_g114d)\" opacity=\"0.9\" /><path d=\"M 8 36 Q 12 32 18 32 Q 24 32 28 36\" stroke=\"url(#raqia_g114c)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"raqia_g114a\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#0C4A6E\" /><stop offset=\"30%\" stop-color=\"#1E3A8A\" /><stop offset=\"60%\" stop-color=\"#3B82F6\" /><stop offset=\"100%\" stop-color=\"#60A5FA\" /></linearGradient><radialGradient id=\"raqia_g114b\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.95\" /><stop offset=\"100%\" stop-color=\"#E0F2FE\" stop-opacity=\"0.4\" /></radialGradient><linearGradient id=\"raqia_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"100%\" stop-color=\"#7DD3FC\" /></linearGradient><radialGradient id=\"raqia_g114d\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect width=\"64\" height=\"64\" rx=\"8\" fill=\"url(#raqia_g114a)\" /><ellipse cx=\"20\" cy=\"20\" rx=\"9\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"26\" cy=\"22\" rx=\"7\" ry=\"5\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"44\" cy=\"44\" rx=\"11\" ry=\"7\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><ellipse cx=\"50\" cy=\"46\" rx=\"8\" ry=\"6\" fill=\"url(#raqia_g114b)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"10\" r=\"1.2\" fill=\"url(#raqia_g114d)\" opacity=\"0.95\" /><circle cx=\"52\" cy=\"14\" r=\"1.6\" fill=\"#FFFFFF\" opacity=\"0.95\" /><circle cx=\"18\" cy=\"52\" r=\"1.1\" fill=\"#FFFFFF\" opacity=\"0.85\" /><circle cx=\"56\" cy=\"56\" r=\"1.4\" fill=\"url(#raqia_g114d)\" opacity=\"0.9\" /><path d=\"M 8 36 Q 12 32 18 32 Q 24 32 28 36\" stroke=\"url(#raqia_g114c)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.4\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bireukia.jpg"
     },
     {
       "hebrew": "הַשָּׁמַיִם",
@@ -76,7 +81,8 @@
       "relatedWords": [
         "שָׁמַיִם (샤마임 - 하늘)",
         "רָקִיעַ (라키아 - 궁창)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/hashamayim.jpg"
     },
     {
       "hebrew": "לְהַבְדִּיל",
@@ -90,7 +96,8 @@
       "relatedWords": [
         "בָּדַל (바달 - 나누다, 구별하다)",
         "הַבְדָּלָה (하브달라 - 구별, 분리)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rehabeudil.jpg"
     },
     {
       "hebrew": "בֵּין הַיּוֹם",
@@ -104,7 +111,8 @@
       "relatedWords": [
         "יוֹם (욤 - 날, 하루)",
         "יוֹמָם (요맘 - 낮에)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhayom.jpg"
     },
     {
       "hebrew": "וּבֵין הַלָּיְלָה",
@@ -118,7 +126,8 @@
       "relatedWords": [
         "לַיְלָה (라일라 - 밤)",
         "לֵיל (레일 - 밤)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubenhalrailra.jpg"
     },
     {
       "hebrew": "וְהָיוּ",
@@ -128,7 +137,8 @@
       "letters": "וְ(ve) + הָ(ha) + יוּ(yu)",
       "root": "ה-י-ה (하야)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"vehayu_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#06B6D4\" /><stop offset=\"33%\" stop-color=\"#3B82F6\" /><stop offset=\"66%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#EC4899\" /></linearGradient><linearGradient id=\"vehayu_g114b\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"50%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient><radialGradient id=\"vehayu_g114c\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#8B5CF6\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"vehayu_g114d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#7DD3FC\" /><stop offset=\"100%\" stop-color=\"#F0ABFC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#vehayu_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.45\" /><path d=\"M 32 8 Q 50 8 56 24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 56 24 L 60 18 L 52 18 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 56 40 Q 50 56 32 56\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 32 56 L 38 60 L 38 52 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"8\" r=\"3.5\" fill=\"#06B6D4\" /><circle cx=\"56\" cy=\"32\" r=\"3.5\" fill=\"#8B5CF6\" /><circle cx=\"32\" cy=\"56\" r=\"3.5\" fill=\"#EC4899\" /><path d=\"M 12 20 Q 16 16 20 20\" stroke=\"url(#vehayu_g114d)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"vehayu_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#06B6D4\" /><stop offset=\"33%\" stop-color=\"#3B82F6\" /><stop offset=\"66%\" stop-color=\"#8B5CF6\" /><stop offset=\"100%\" stop-color=\"#EC4899\" /></linearGradient><linearGradient id=\"vehayu_g114b\"><stop offset=\"0%\" stop-color=\"#BAE6FD\" /><stop offset=\"50%\" stop-color=\"#A78BFA\" /><stop offset=\"100%\" stop-color=\"#C084FC\" /></linearGradient><radialGradient id=\"vehayu_g114c\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#8B5CF6\" stop-opacity=\"0.1\" /></radialGradient><linearGradient id=\"vehayu_g114d\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#7DD3FC\" /><stop offset=\"100%\" stop-color=\"#F0ABFC\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"26\" fill=\"url(#vehayu_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"6\" fill=\"none\" opacity=\"0.45\" /><path d=\"M 32 8 Q 50 8 56 24\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 56 24 L 60 18 L 52 18 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 56 40 Q 50 56 32 56\" stroke=\"url(#vehayu_g114a)\" stroke-width=\"5.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(0 0 8px rgba(139, 92, 246, 0.7))\" /><path d=\"M 32 56 L 38 60 L 38 52 Z\" fill=\"url(#vehayu_g114b)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"8\" r=\"3.5\" fill=\"#06B6D4\" /><circle cx=\"56\" cy=\"32\" r=\"3.5\" fill=\"#8B5CF6\" /><circle cx=\"32\" cy=\"56\" r=\"3.5\" fill=\"#EC4899\" /><path d=\"M 12 20 Q 16 16 20 20\" stroke=\"url(#vehayu_g114d)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.5\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayu.jpg"
     },
     {
       "hebrew": "לְאֹתֹת",
@@ -142,7 +152,8 @@
       "relatedWords": [
         "אוֹת (오트 - 표시, 징조)",
         "אוֹתוֹת (오토트 - 표시들, 징조들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reototeu.jpg"
     },
     {
       "hebrew": "וּלְמוֹעֲדִים",
@@ -156,7 +167,8 @@
       "relatedWords": [
         "מוֹעֵד (모에드 - 절기, 정한 때)",
         "יָעַד (야아드 - 약속하다, 정하다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulmoadim.jpg"
     },
     {
       "hebrew": "וּלְיָמִים",
@@ -166,7 +178,8 @@
       "letters": "וּ(u) + לְ(le) + יָ(ya) + מִים(mim)",
       "root": "יוֹם (욤)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"yamim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"20%\" stop-color=\"#FCD34D\" /><stop offset=\"40%\" stop-color=\"#F59E0B\" /><stop offset=\"60%\" stop-color=\"#EF4444\" /><stop offset=\"80%\" stop-color=\"#A855F7\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient><radialGradient id=\"yamim_g114b\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"60%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E7FF\" /></radialGradient><linearGradient id=\"yamim_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#BFDBFE\" /></linearGradient><radialGradient id=\"yamim_g114d\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect x=\"4\" y=\"16\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.55\" /><rect x=\"4\" y=\"28\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.65\" /><rect x=\"4\" y=\"40\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"24\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"36\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"48\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"18\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114d)\" /><circle cx=\"46\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"12\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"28\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"52\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"yamim_g114a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FEF3C7\" /><stop offset=\"20%\" stop-color=\"#FCD34D\" /><stop offset=\"40%\" stop-color=\"#F59E0B\" /><stop offset=\"60%\" stop-color=\"#EF4444\" /><stop offset=\"80%\" stop-color=\"#A855F7\" /><stop offset=\"100%\" stop-color=\"#3B82F6\" /></linearGradient><radialGradient id=\"yamim_g114b\"><stop offset=\"0%\" stop-color=\"#FEFCE8\" /><stop offset=\"60%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#E0E7FF\" /></radialGradient><linearGradient id=\"yamim_g114c\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#DBEAFE\" /><stop offset=\"100%\" stop-color=\"#BFDBFE\" /></linearGradient><radialGradient id=\"yamim_g114d\"><stop offset=\"0%\" stop-color=\"#FEF9C3\" /><stop offset=\"100%\" stop-color=\"#FDE047\" /></radialGradient></defs><rect x=\"4\" y=\"16\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.55\" /><rect x=\"4\" y=\"28\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.65\" /><rect x=\"4\" y=\"40\" width=\"56\" height=\"8\" rx=\"4\" fill=\"url(#yamim_g114a)\" opacity=\"0.75\" /><circle cx=\"12\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"24\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"36\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"48\" cy=\"20\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"18\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"32\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114d)\" /><circle cx=\"46\" cy=\"32\" r=\"2.8\" fill=\"url(#yamim_g114c)\" /><circle cx=\"12\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"28\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /><circle cx=\"52\" cy=\"44\" r=\"2.8\" fill=\"url(#yamim_g114b)\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulyamim.jpg"
     },
     {
       "hebrew": "וְשָׁנִים",
@@ -180,7 +193,8 @@
       "relatedWords": [
         "שָׁנָה (샤나 - 해, 년)",
         "שָׁנִים (샤님 - 해들, 년들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/besyanim.jpg"
     }
   ],
   "commentary": {

@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 1,
+  "startIndex": 1,
+  "endIndex": 20,
+  "totalWords": 20,
+  "generated": 20,
+  "existing": 0,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "וַיְכֻלּוּ",
+      "korean": "바예쿨루",
+      "meaning": "그리고 완성되었다",
+      "romanized": "bayekulru",
+      "imageUrl": "https://replicate.delivery/xezq/oLNshcmZ0jqeKCMsMmBEgqdHUknuUF7LcTnocJSeKTEqznlVA/tmp0n3qfwtk.jpg",
+      "localPath": "bayekulru.jpg"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "korean": "하샤마임",
+      "meaning": "하늘들",
+      "romanized": "hasyamaim",
+      "imageUrl": "https://replicate.delivery/xezq/46wTvegwfOrZhUHggVm3VFvefsdINeCk5hL9MKeSDZhr88ZZF/tmp1dzcbt1y.jpg",
+      "localPath": "hasyamaim.jpg"
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "korean": "베하아레츠",
+      "meaning": "그리고 땅",
+      "romanized": "behaarecheu",
+      "imageUrl": "https://replicate.delivery/xezq/9b6fTZhfLilALUL7p2AuZEQmQYCHSc0EONXFHtx5pNT5znlVA/tmpilml2u6a.jpg",
+      "localPath": "behaarecheu.jpg"
+    },
+    {
+      "hebrew": "וְכָל",
+      "korean": "베콜",
+      "meaning": "그리고 모든",
+      "romanized": "bekol",
+      "imageUrl": "https://replicate.delivery/xezq/OM9z3qPN1y6BCps1im51PTTbwCFxsqt1clehQs4WZnfA0nlVA/tmpy2enb76t.jpg",
+      "localPath": "bekol.jpg"
+    },
+    {
+      "hebrew": "צְבָאָם",
+      "korean": "체바암",
+      "meaning": "그것들의 만물, 군대",
+      "romanized": "chebaam",
+      "imageUrl": "https://replicate.delivery/xezq/t9xeVo5ofjolepeymwKeqXX5uCaMEogd6TDtfth8IinuC9ZZF/tmp1jpobahj.jpg",
+      "localPath": "chebaam.jpg"
+    },
+    {
+      "hebrew": "וַיְכַל",
+      "korean": "바예칼",
+      "meaning": "그리고 마치셨다, 완성하셨다",
+      "romanized": "bayekal",
+      "imageUrl": "https://replicate.delivery/xezq/a8eZSdzOKN1TMqIE9OOXvgJd39Y87gUw2cgveqn8HfqqoPLrA/tmp6_sfvsv3.jpg",
+      "localPath": "bayekal.jpg"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "korean": "엘로힘",
+      "meaning": "하나님",
+      "romanized": "elrohim",
+      "imageUrl": "https://replicate.delivery/xezq/2vk7Bgkros5tC9wVKtWVqGAUpr8HVxmmj0qlFfcqwcLN6zyKA/tmppyc605sj.jpg",
+      "localPath": "elrohim.jpg"
+    },
+    {
+      "hebrew": "בַּיּוֹם הַשְּׁבִיעִי",
+      "korean": "바욤 하쉐비이",
+      "meaning": "일곱째 날에",
+      "romanized": "bayomhaswebii",
+      "imageUrl": "https://replicate.delivery/xezq/N0dvkCHSe4zeTUvh7zYjfZ2Ojeel82mYZoFSngQl56HeH9ZZF/tmpnbf3w0m3.jpg",
+      "localPath": "bayomhaswebii.jpg"
+    },
+    {
+      "hebrew": "מְלַאכְתּוֹ",
+      "korean": "믈라흐토",
+      "meaning": "그의 일, 그의 사역",
+      "romanized": "meulraheuto",
+      "imageUrl": "https://replicate.delivery/xezq/ZB7FW4GECzpSMZjxffNAXJ2f2va4Gd9CZFvSIIKHJ82KpPLrA/tmpk1hmg86r.jpg",
+      "localPath": "meulraheuto.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר עָשָׂה",
+      "korean": "아쉐르 아사",
+      "meaning": "그가 만드신",
+      "romanized": "aswereuasa",
+      "imageUrl": "https://replicate.delivery/xezq/0szZF0f8j0xDB6xYQ7GJixHtsAmtYPpa56jF8mMiX9zV6zyKA/tmpo_d2o7h_.jpg",
+      "localPath": "aswereuasa.jpg"
+    },
+    {
+      "hebrew": "וַיִּשְׁבֹּת",
+      "korean": "바이쉬보트",
+      "meaning": "그리고 쉬셨다",
+      "romanized": "baiswiboteu",
+      "imageUrl": "https://replicate.delivery/xezq/kjkobnI2zGYAJ9tasiwSedI6ZfEIUGp2mDtTzQfJzQ5jpPLrA/tmpro0ub0d1.jpg",
+      "localPath": "baiswiboteu.jpg"
+    },
+    {
+      "hebrew": "מִכָּל",
+      "korean": "미콜",
+      "meaning": "모든 ~으로부터",
+      "romanized": "mikol",
+      "imageUrl": "https://replicate.delivery/xezq/Ih88HuMbUh64GNza2YMTBzWGJA9eWo86sf3o71LNRfEvpPLrA/tmpk340dqy1.jpg",
+      "localPath": "mikol.jpg"
+    },
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "korean": "바예바렉",
+      "meaning": "복 주셨다, 축복하셨다",
+      "romanized": "bayebarek",
+      "imageUrl": "https://replicate.delivery/xezq/P2AMeI4UIBR9ciXqGDZbSZFbWtz7ytnPwcpCQvecoTi80nlVA/tmpg0___2fl.jpg",
+      "localPath": "bayebarek.jpg"
+    },
+    {
+      "hebrew": "אֶת יוֹם הַשְּׁבִיעִי",
+      "korean": "에트 욤 하쉬비이",
+      "meaning": "일곱째 날을",
+      "romanized": "eteuyomhaswibii",
+      "imageUrl": "https://replicate.delivery/xezq/4IKo1ipN5TZmFhaF8ZZJz5oPUBK2UzC2uuqOQEpKdzbQ9ZZF/tmpw90tucx5.jpg",
+      "localPath": "eteuyomhaswibii.jpg"
+    },
+    {
+      "hebrew": "וַיְקַדֵּשׁ",
+      "korean": "바예카데쉬",
+      "meaning": "거룩하게 하셨다, 구별하셨다",
+      "romanized": "bayekadeswi",
+      "imageUrl": "https://replicate.delivery/xezq/4uHlCdyvdGp6IxoK266CPc9bg1EDg7t52UYZO4lHONsR9ZZF/tmpxzc2wepu.jpg",
+      "localPath": "bayekadeswi.jpg"
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "korean": "오토",
+      "meaning": "그것을",
+      "romanized": "oto",
+      "imageUrl": "https://replicate.delivery/xezq/sQsfsXVMzevUTkabpQYxjglTJIILIqLXjDfjeuX5096sUfssC/tmp06efrc3y.jpg",
+      "localPath": "oto.jpg"
+    },
+    {
+      "hebrew": "כִּי",
+      "korean": "키",
+      "meaning": "왜냐하면, ~때문에",
+      "romanized": "ki",
+      "imageUrl": "https://replicate.delivery/xezq/kfsxCxGKFQVsEKtCuOfFNEMtUrgekh1vcelT1EcT7eqPqeZZF/tmpx7vb79z_.jpg",
+      "localPath": "ki.jpg"
+    },
+    {
+      "hebrew": "בוֹ",
+      "korean": "보",
+      "meaning": "그것 안에",
+      "romanized": "bo",
+      "imageUrl": "https://replicate.delivery/xezq/RggJ2rXpNMrlK5BVbxY83W0iS0zvNNYWDvBma1twrsOW9ZZF/tmpuk578_1x.jpg",
+      "localPath": "bo.jpg"
+    },
+    {
+      "hebrew": "שָׁבַת",
+      "korean": "샤바트",
+      "meaning": "쉬셨다, 안식하셨다",
+      "romanized": "syabateu",
+      "imageUrl": "https://replicate.delivery/xezq/NLndrtPkwWJTM9q8BXrUhGceenItLDmAEMMqtwVBIZleqPLrA/tmpt3msub4j.jpg",
+      "localPath": "syabateu.jpg"
+    },
+    {
+      "hebrew": "מִכָּל מְלַאכְתּוֹ",
+      "korean": "미콜 멜락토",
+      "meaning": "그의 모든 일로부터",
+      "romanized": "mikolmelrakto",
+      "imageUrl": "https://replicate.delivery/xezq/BREudY0fu3xRUyckkn0acdVbSFEZnd3OyYw7caqgvTux6zyKA/tmpk7p3auif.jpg",
+      "localPath": "mikolmelrakto.jpg"
+    }
+  ]
+}

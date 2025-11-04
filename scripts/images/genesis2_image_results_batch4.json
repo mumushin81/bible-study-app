@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 4,
+  "startIndex": 61,
+  "endIndex": 80,
+  "totalWords": 20,
+  "generated": 20,
+  "existing": 0,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "גַּן",
+      "korean": "간",
+      "meaning": "동산",
+      "romanized": "gan",
+      "imageUrl": "https://replicate.delivery/xezq/J9ewXqKy0OQPTS7AGAPd6S8yaEn2t8iKOGep4SzeylaR0PLrA/tmpjmafztgm.jpg",
+      "localPath": "gan.jpg"
+    },
+    {
+      "hebrew": "בְּעֵדֶן",
+      "korean": "베에덴",
+      "meaning": "에덴에",
+      "romanized": "beeden",
+      "imageUrl": "https://replicate.delivery/xezq/ghzCXNVpxlbCGhWjTuvcqbmgDxH81NoXymJbdK5fSvRH9zyKA/tmpo8uef_bs.jpg",
+      "localPath": "beeden.jpg"
+    },
+    {
+      "hebrew": "מִקֶּדֶם",
+      "korean": "미케뎀",
+      "meaning": "동쪽에",
+      "romanized": "mikedem",
+      "imageUrl": "https://replicate.delivery/xezq/8pidUGhmvu5wJxXgn8kKgCdV3PyfyAdfrf0xMm4i1rIn0PLrA/tmp64f5c3x4.jpg",
+      "localPath": "mikedem.jpg"
+    },
+    {
+      "hebrew": "וַיָּשֶׂם",
+      "korean": "바야셈",
+      "meaning": "그리고 두셨다",
+      "romanized": "bayasem",
+      "imageUrl": "https://replicate.delivery/xezq/n9INGJt67jbKP9kn6C1OiEfGp4uBK1hk5BeV3I2txc8Y6nlVA/tmpvkyt61jf.jpg",
+      "localPath": "bayasem.jpg"
+    },
+    {
+      "hebrew": "שָׁם",
+      "korean": "샴",
+      "meaning": "그곳에",
+      "romanized": "syam",
+      "imageUrl": "https://replicate.delivery/xezq/vSxnQsbdE94vOZxVfJhiHDeW5V0hEQrCtceO3uPx2y060PLrA/tmp43oe_4j8.jpg",
+      "localPath": "syam.jpg"
+    },
+    {
+      "hebrew": "אֶת־הָאָדָם",
+      "korean": "에트 하아담",
+      "meaning": "그 사람을",
+      "romanized": "eteuhaadam",
+      "imageUrl": "https://replicate.delivery/xezq/oPG8ZOUmX3oaJVfneI23BgT4Y16tLEhCHc84tQXefiPhqfssC/tmp_2b8dy78.jpg",
+      "localPath": "eteuhaadam.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר יָצָר",
+      "korean": "아쉐르 야차르",
+      "meaning": "그가 지으신",
+      "romanized": "aswereuyachareu",
+      "imageUrl": "https://replicate.delivery/xezq/AuGffLzx04suOEM2ieTEYyFSOqZ43PnIlKo43eu7M4gfVfZZF/tmp0kqvb_a2.jpg",
+      "localPath": "aswereuyachareu.jpg"
+    },
+    {
+      "hebrew": "וַיַּצְמַח",
+      "korean": "바얏츠마흐",
+      "meaning": "자라게 하시다, 돋아나게 하시다",
+      "romanized": "bayascheumaheu",
+      "imageUrl": "https://replicate.delivery/xezq/vfCUi9fZpZkxhEPHtUT6i5g4tE3dNsfdeevY3zRt4mnKXfZZF/tmp4tz1oe47.jpg",
+      "localPath": "bayascheumaheu.jpg"
+    },
+    {
+      "hebrew": "כָּל-עֵץ",
+      "korean": "콜 에츠",
+      "meaning": "모든 나무",
+      "romanized": "kolecheu",
+      "imageUrl": "https://replicate.delivery/xezq/nvP8fNr7pwx4C6Zw21FcDf6OFOHWEu7t5WnBB4PrydCA7nlVA/tmpcokpa99m.jpg",
+      "localPath": "kolecheu.jpg"
+    },
+    {
+      "hebrew": "נֶחְמָד",
+      "korean": "네흐마드",
+      "meaning": "아름다운, 보기 좋은",
+      "romanized": "neheumadeu",
+      "imageUrl": "https://replicate.delivery/xezq/Dw7QXLand4KGFpmR91AW6FtGzqNOFCaDP9Z7FfShkBXk9zyKA/tmp4ghu5_61.jpg",
+      "localPath": "neheumadeu.jpg"
+    },
+    {
+      "hebrew": "לְמַרְאֶה",
+      "korean": "레마르에",
+      "meaning": "보기에, 외모로",
+      "romanized": "remareue",
+      "imageUrl": "https://replicate.delivery/xezq/QUYpOH2Ho04IBpNM06pVfgsGsE1nt87wwKmY1lJ2TejN7nlVA/tmptgi2iwv8.jpg",
+      "localPath": "remareue.jpg"
+    },
+    {
+      "hebrew": "וְטוֹב",
+      "korean": "베토브",
+      "meaning": "그리고 좋은",
+      "romanized": "betobeu",
+      "imageUrl": "https://replicate.delivery/xezq/FdamfsMshg0lLSrqTd54cSPwemnMELXiphMPUJ2In7dT7nlVA/tmpszhaaty7.jpg",
+      "localPath": "betobeu.jpg"
+    },
+    {
+      "hebrew": "לְמַאֲכָל",
+      "korean": "레마아칼",
+      "meaning": "먹기에, 음식으로",
+      "romanized": "remaakal",
+      "imageUrl": "https://replicate.delivery/xezq/ucmy0bXA0XJyKN5deoyo7O9hNFsURt4g7HNMggxCjeLa7nlVA/tmpwje7ilvd.jpg",
+      "localPath": "remaakal.jpg"
+    },
+    {
+      "hebrew": "עֵץ הַחַיִּים",
+      "korean": "에츠 하하이임",
+      "meaning": "생명나무",
+      "romanized": "echeuhahaiim",
+      "imageUrl": "https://replicate.delivery/xezq/0yX1pzfxY6VvRySS5hiP5f233CwwRwd3tIXahpzWArdf2PLrA/tmpwdx6yvat.jpg",
+      "localPath": "echeuhahaiim.jpg"
+    },
+    {
+      "hebrew": "בְּתוֹךְ הַגָּן",
+      "korean": "베토크 하간",
+      "meaning": "동산 한가운데",
+      "romanized": "betokeuhagan",
+      "imageUrl": "https://replicate.delivery/xezq/FY2x4DLt0Xb4DJsB6AHfnTAlzq8FHOskZzF8BrSoMaa09zyKA/tmpgwpsr3k8.jpg",
+      "localPath": "betokeuhagan.jpg"
+    },
+    {
+      "hebrew": "עֵץ הַדַּעַת",
+      "korean": "에츠 하다아트",
+      "meaning": "지식의 나무, 선악을 알게 하는 나무",
+      "romanized": "echeuhadaateu",
+      "imageUrl": "https://replicate.delivery/xezq/Nys5RF6pQLoEM1IzFMoD7cd9DCkVumXXrd7emDc0g9Z49zyKA/tmp0n4xzfc6.jpg",
+      "localPath": "echeuhadaateu.jpg"
+    },
+    {
+      "hebrew": "טוֹב וָרָע",
+      "korean": "토브 바라",
+      "meaning": "선과 악",
+      "romanized": "tobeubara",
+      "imageUrl": "https://replicate.delivery/xezq/qR3vy6B41hb5LBTMBYy3OtzmCernaXeclmZegTz8H74q3PLrA/tmpr5gybodu.jpg",
+      "localPath": "tobeubara.jpg"
+    },
+    {
+      "hebrew": "וְנָהָר",
+      "korean": "베나하르",
+      "meaning": "그리고 강",
+      "romanized": "benahareu",
+      "imageUrl": "https://replicate.delivery/xezq/Mk8CBizm1NJ3DVpqNK4R1DgKQo3EpGTY36holG26bhfe7nlVA/tmpk2pk_6bz.jpg",
+      "localPath": "benahareu.jpg"
+    },
+    {
+      "hebrew": "יֹצֵא",
+      "korean": "요체",
+      "meaning": "나가는, 흘러나오는",
+      "romanized": "yoche",
+      "imageUrl": "https://replicate.delivery/xezq/wlU7oMlUbz6AGtMUnNy1ZrKZIf1y8VxaU87TlHM2tyaBenlVA/tmpr6vh5cjh.jpg",
+      "localPath": "yoche.jpg"
+    },
+    {
+      "hebrew": "מֵעֵדֶן",
+      "korean": "메에덴",
+      "meaning": "에덴으로부터",
+      "romanized": "meeden",
+      "imageUrl": "https://replicate.delivery/xezq/kwEhquSr98JSPVibvOPoiqPXTn60Ct0nubgHZiqvZILCfzyKA/tmpo7qc6nu0.jpg",
+      "localPath": "meeden.jpg"
+    }
+  ]
+}

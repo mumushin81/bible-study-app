@@ -36,6 +36,12 @@ export default function WordCard({ words, darkMode, verseReference }: WordCardPr
     }
   }, []);
 
+  // 구절 변경 시 플래시카드 상태 리셋
+  // words 배열 자체를 의존성으로 사용하여 실제 데이터 변경 감지
+  useEffect(() => {
+    setFlippedCards(new Set());
+  }, [verseReference, words]);
+
   // 북마크 토글
   const toggleBookmark = (wordHebrew: string) => {
     const newBookmarks = new Set(bookmarkedWords);

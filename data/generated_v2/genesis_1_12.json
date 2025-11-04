@@ -18,7 +18,8 @@
       "relatedWords": [
         "יָצָא (야차 - 나가다, 나오다)",
         "תּוֹצֵאָה (토체아 - 결과, 산물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/batochehaarecheu.jpg"
     },
     {
       "hebrew": "דֶּשֶׁא",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "עֵשֶׂב (에세브 - 채소, 풀)",
         "יֶרֶק (예레크 - 푸른 것, 채소)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/deswe.jpg"
     },
     {
       "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "זֶרַע (제라 - 씨앗, 후손)",
         "זָרַע (자라 - 심다, 뿌리다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/esebeumajeuriajera.jpg"
     },
     {
       "hebrew": "לְמִינֵהוּ",
@@ -74,7 +77,8 @@
       "relatedWords": [
         "עֵץ חַיִּים (에츠 하임 - 생명나무)",
         "פְּרִי (페리 - 열매, 결실)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beecheuoseperi.jpg"
     },
     {
       "hebrew": "אֲשֶׁר זַרְעוֹ-בוֹ",
@@ -84,7 +88,8 @@
       "letters": "אֲ(a) + שֶׁר(sher) + זַ(za) + רְעוֹ(ro) + בוֹ(vo)",
       "root": "ז-ר-ע (자라)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shell_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#BCAAA4\" /><stop offset=\"50%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></radialGradient><radialGradient id=\"inner_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"60%\" stop-color=\"#FFCC80\" /><stop offset=\"100%\" stop-color=\"#FFB74D\" /></radialGradient><radialGradient id=\"core_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFF59D\" /><stop offset=\"100%\" stop-color=\"#FFEE58\" /></radialGradient><linearGradient id=\"shine_gen1_12_6a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /></linearGradient><linearGradient id=\"texture_gen1_12_6a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#795548\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#4E342E\" stop-opacity=\"0.1\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"22\" ry=\"26\" fill=\"url(#shell_gen1_12_6a)\" filter=\"drop-shadow(0 6px 12px rgba(93, 64, 55, 0.6))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"22\" fill=\"url(#inner_gen1_12_6a)\" opacity=\"0.95\" /><circle cx=\"32\" cy=\"34\" r=\"10\" fill=\"url(#core_gen1_12_6a)\" filter=\"drop-shadow(0 3px 6px rgba(255, 238, 88, 0.5))\" /><ellipse cx=\"28\" cy=\"30\" rx=\"4\" ry=\"5\" fill=\"url(#shine_gen1_12_6a)\" /><circle cx=\"30\" cy=\"34\" r=\"2.5\" fill=\"#8D6E63\" opacity=\"0.4\" /><circle cx=\"34\" cy=\"36\" r=\"2\" fill=\"#8D6E63\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"38\" r=\"2.5\" fill=\"#8D6E63\" opacity=\"0.4\" /><path d=\"M 32 10 L 36 14 L 34 18\" stroke=\"#6D4C41\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(78, 52, 46, 0.5))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"24\" fill=\"url(#texture_gen1_12_6a)\" opacity=\"0.3\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"shell_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#BCAAA4\" /><stop offset=\"50%\" stop-color=\"#8D6E63\" /><stop offset=\"100%\" stop-color=\"#5D4037\" /></radialGradient><radialGradient id=\"inner_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#FFE0B2\" /><stop offset=\"60%\" stop-color=\"#FFCC80\" /><stop offset=\"100%\" stop-color=\"#FFB74D\" /></radialGradient><radialGradient id=\"core_gen1_12_6a\"><stop offset=\"0%\" stop-color=\"#FFF9C4\" /><stop offset=\"50%\" stop-color=\"#FFF59D\" /><stop offset=\"100%\" stop-color=\"#FFEE58\" /></radialGradient><linearGradient id=\"shine_gen1_12_6a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFFFFF\" stop-opacity=\"0\" /></linearGradient><linearGradient id=\"texture_gen1_12_6a\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#795548\" stop-opacity=\"0.3\" /><stop offset=\"100%\" stop-color=\"#4E342E\" stop-opacity=\"0.1\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"36\" rx=\"22\" ry=\"26\" fill=\"url(#shell_gen1_12_6a)\" filter=\"drop-shadow(0 6px 12px rgba(93, 64, 55, 0.6))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"18\" ry=\"22\" fill=\"url(#inner_gen1_12_6a)\" opacity=\"0.95\" /><circle cx=\"32\" cy=\"34\" r=\"10\" fill=\"url(#core_gen1_12_6a)\" filter=\"drop-shadow(0 3px 6px rgba(255, 238, 88, 0.5))\" /><ellipse cx=\"28\" cy=\"30\" rx=\"4\" ry=\"5\" fill=\"url(#shine_gen1_12_6a)\" /><circle cx=\"30\" cy=\"34\" r=\"2.5\" fill=\"#8D6E63\" opacity=\"0.4\" /><circle cx=\"34\" cy=\"36\" r=\"2\" fill=\"#8D6E63\" opacity=\"0.4\" /><circle cx=\"32\" cy=\"38\" r=\"2.5\" fill=\"#8D6E63\" opacity=\"0.4\" /><path d=\"M 32 10 L 36 14 L 34 18\" stroke=\"#6D4C41\" stroke-width=\"2.5\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(1px 1px 2px rgba(78, 52, 46, 0.5))\" /><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"24\" fill=\"url(#texture_gen1_12_6a)\" opacity=\"0.3\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereujareuobo.jpg"
     },
     {
       "hebrew": "וַיַּרְא אֱלֹהִים",
@@ -98,7 +103,8 @@
       "relatedWords": [
         "רָאָה (라아 - 보다, 깨닫다)",
         "רְאִיָּה (레이야 - 시각, 환상)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayareuelrohim.jpg"
     },
     {
       "hebrew": "כִּי-טוֹב",
@@ -112,7 +118,8 @@
       "relatedWords": [
         "טוֹב (토브 - 좋은, 선한)",
         "טוּב (투브 - 선함, 아름다움)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kitobeu.jpg"
     }
   ],
   "commentary": {

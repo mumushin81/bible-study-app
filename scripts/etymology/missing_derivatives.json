@@ -1,0 +1,216 @@
+{
+  "description": "Manual derivatives for 6 roots without automatic matches",
+  "created_at": "2025-10-28",
+  "roots": [
+    {
+      "root": "א-ה-ב",
+      "root_hebrew": "אהב",
+      "strong_number": "H157",
+      "derivatives": [
+        {
+          "hebrew": "אָהַב",
+          "ipa": "aˈhav",
+          "korean": "아하브",
+          "meaning": "그가 사랑했다",
+          "grammar": "Qal Perfect 3ms"
+        },
+        {
+          "hebrew": "אֹהֵב",
+          "ipa": "oˈhev",
+          "korean": "오헤브",
+          "meaning": "사랑하는 자",
+          "grammar": "Qal Participle ms"
+        },
+        {
+          "hebrew": "אַהֲבָה",
+          "ipa": "ahaˈva",
+          "korean": "아하바",
+          "meaning": "사랑 (명사)",
+          "grammar": "명사 여성"
+        },
+        {
+          "hebrew": "יֶאֱהַב",
+          "ipa": "yeʔeˈhav",
+          "korean": "예에하브",
+          "meaning": "그가 사랑할 것이다",
+          "grammar": "Qal Imperfect 3ms"
+        }
+      ]
+    },
+    {
+      "root": "ב-ק-ש",
+      "root_hebrew": "בקש",
+      "strong_number": "H1245",
+      "derivatives": [
+        {
+          "hebrew": "בִּקֵּשׁ",
+          "ipa": "biqˈqeʃ",
+          "korean": "비케쉬",
+          "meaning": "그가 찾았다",
+          "grammar": "Piel Perfect 3ms"
+        },
+        {
+          "hebrew": "מְבַקֵּשׁ",
+          "ipa": "məvaqˈqeʃ",
+          "korean": "메바케쉬",
+          "meaning": "찾는 자, 구하는 자",
+          "grammar": "Piel Participle ms"
+        },
+        {
+          "hebrew": "יְבַקֵּשׁ",
+          "ipa": "yəvaqˈqeʃ",
+          "korean": "예바케쉬",
+          "meaning": "그가 찾을 것이다",
+          "grammar": "Piel Imperfect 3ms"
+        },
+        {
+          "hebrew": "בַּקָּשָׁה",
+          "ipa": "baqqaˈʃa",
+          "korean": "바카샤",
+          "meaning": "간구, 청원",
+          "grammar": "명사 여성"
+        }
+      ]
+    },
+    {
+      "root": "מ-א-ס",
+      "root_hebrew": "מאס",
+      "strong_number": "H3988",
+      "derivatives": [
+        {
+          "hebrew": "מָאַס",
+          "ipa": "maˈʔas",
+          "korean": "마아스",
+          "meaning": "그가 거절했다",
+          "grammar": "Qal Perfect 3ms"
+        },
+        {
+          "hebrew": "מֹאֵס",
+          "ipa": "moˈʔes",
+          "korean": "모에스",
+          "meaning": "거절하는 자",
+          "grammar": "Qal Participle ms"
+        },
+        {
+          "hebrew": "יִמְאַס",
+          "ipa": "yimˈʔas",
+          "korean": "임아스",
+          "meaning": "그가 거절할 것이다",
+          "grammar": "Qal Imperfect 3ms"
+        },
+        {
+          "hebrew": "מָאוֹס",
+          "ipa": "maˈʔos",
+          "korean": "마오스",
+          "meaning": "거절, 경멸",
+          "grammar": "명사 남성"
+        }
+      ]
+    },
+    {
+      "root": "ש-כ-ח",
+      "root_hebrew": "שכח",
+      "strong_number": "H7911",
+      "derivatives": [
+        {
+          "hebrew": "שָׁכַח",
+          "ipa": "ʃaˈχaχ",
+          "korean": "샤카흐",
+          "meaning": "그가 잊었다",
+          "grammar": "Qal Perfect 3ms"
+        },
+        {
+          "hebrew": "שֹׁכֵחַ",
+          "ipa": "ʃoˈχeaχ",
+          "korean": "쇼케아흐",
+          "meaning": "잊는 자",
+          "grammar": "Qal Participle ms"
+        },
+        {
+          "hebrew": "יִשְׁכַּח",
+          "ipa": "yiʃˈkaχ",
+          "korean": "이쉬카흐",
+          "meaning": "그가 잊을 것이다",
+          "grammar": "Qal Imperfect 3ms"
+        },
+        {
+          "hebrew": "שִׁכְחָה",
+          "ipa": "ʃiχˈχa",
+          "korean": "쉬크하",
+          "meaning": "망각, 잊혀진 것",
+          "grammar": "명사 여성"
+        }
+      ]
+    },
+    {
+      "root": "ש-נ-א",
+      "root_hebrew": "שנא",
+      "strong_number": "H8130",
+      "derivatives": [
+        {
+          "hebrew": "שָׂנֵא",
+          "ipa": "saˈneʔ",
+          "korean": "사네",
+          "meaning": "그가 미워했다",
+          "grammar": "Qal Perfect 3ms"
+        },
+        {
+          "hebrew": "שׂוֹנֵא",
+          "ipa": "soˈneʔ",
+          "korean": "소네",
+          "meaning": "미워하는 자, 원수",
+          "grammar": "Qal Participle ms"
+        },
+        {
+          "hebrew": "יִשְׂנָא",
+          "ipa": "yiśˈnaʔ",
+          "korean": "이스나",
+          "meaning": "그가 미워할 것이다",
+          "grammar": "Qal Imperfect 3ms"
+        },
+        {
+          "hebrew": "שִׂנְאָה",
+          "ipa": "śinˈʔa",
+          "korean": "신아",
+          "meaning": "미움, 증오",
+          "grammar": "명사 여성"
+        }
+      ]
+    },
+    {
+      "root": "ש-ת-ה",
+      "root_hebrew": "שתה",
+      "strong_number": "H8354",
+      "derivatives": [
+        {
+          "hebrew": "שָׁתָה",
+          "ipa": "ʃaˈta",
+          "korean": "샤타",
+          "meaning": "그가 마셨다",
+          "grammar": "Qal Perfect 3ms"
+        },
+        {
+          "hebrew": "שֹׁתֶה",
+          "ipa": "ʃoˈte",
+          "korean": "쇼테",
+          "meaning": "마시는 자",
+          "grammar": "Qal Participle ms"
+        },
+        {
+          "hebrew": "יִשְׁתֶּה",
+          "ipa": "yiʃˈte",
+          "korean": "이쉬테",
+          "meaning": "그가 마실 것이다",
+          "grammar": "Qal Imperfect 3ms"
+        },
+        {
+          "hebrew": "מִשְׁתֶּה",
+          "ipa": "miʃˈte",
+          "korean": "미쉬테",
+          "meaning": "잔치, 향연 (마시는 자리)",
+          "grammar": "명사 남성"
+        }
+      ]
+    }
+  ]
+}

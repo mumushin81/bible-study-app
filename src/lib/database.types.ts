@@ -7,10 +7,30 @@ export type Json =
   | Json[]
 
 export type Database = {
-  // Allows to automatically instantiate createClient with right options
-  // instead of createClient<Database, { PostgrestVersion: 'XX' }>(URL, KEY)
-  __InternalSupabase: {
-    PostgrestVersion: "13.0.5"
+  graphql_public: {
+    Tables: {
+      [_ in never]: never
+    }
+    Views: {
+      [_ in never]: never
+    }
+    Functions: {
+      graphql: {
+        Args: {
+          extensions?: Json
+          operationName?: string
+          query?: string
+          variables?: Json
+        }
+        Returns: Json
+      }
+    }
+    Enums: {
+      [_ in never]: never
+    }
+    CompositeTypes: {
+      [_ in never]: never
+    }
   }
   public: {
     Tables: {
@@ -155,6 +175,39 @@ export type Database = {
           },
         ]
       }
+      hebrew_roots: {
+        Row: {
+          core_meaning: string | null
+          core_meaning_korean: string | null
+          emoji: string | null
+          etymology_simple: string | null
+          pronunciation: string | null
+          root: string
+          root_hebrew: string | null
+          story: string | null
+        }
+        Insert: {
+          core_meaning?: string | null
+          core_meaning_korean?: string | null
+          emoji?: string | null
+          etymology_simple?: string | null
+          pronunciation?: string | null
+          root: string
+          root_hebrew?: string | null
+          story?: string | null
+        }
+        Update: {
+          core_meaning?: string | null
+          core_meaning_korean?: string | null
+          emoji?: string | null
+          etymology_simple?: string | null
+          pronunciation?: string | null
+          root?: string
+          root_hebrew?: string | null
+          story?: string | null
+        }
+        Relationships: []
+      }
       quiz_results: {
         Row: {
           answered_at: string | null
@@ -239,6 +292,54 @@ export type Database = {
         }
         Relationships: []
       }
+      user_preferences: {
+        Row: {
+          audio_speed: number | null
+          auto_play: boolean | null
+          created_at: string | null
+          daily_goal_verses: number | null
+          dark_mode: boolean | null
+          device_id: string | null
+          font_size: number | null
+          last_synced_at: string | null
+          show_hebrew_hint: boolean | null
+          show_pronunciation: boolean | null
+          show_translation: boolean | null
+          updated_at: string | null
+          user_id: string
+        }
+        Insert: {
+          audio_speed?: number | null
+          auto_play?: boolean | null
+          created_at?: string | null
+          daily_goal_verses?: number | null
+          dark_mode?: boolean | null
+          device_id?: string | null
+          font_size?: number | null
+          last_synced_at?: string | null
+          show_hebrew_hint?: boolean | null
+          show_pronunciation?: boolean | null
+          show_translation?: boolean | null
+          updated_at?: string | null
+          user_id: string
+        }
+        Update: {
+          audio_speed?: number | null
+          auto_play?: boolean | null
+          created_at?: string | null
+          daily_goal_verses?: number | null
+          dark_mode?: boolean | null
+          device_id?: string | null
+          font_size?: number | null
+          last_synced_at?: string | null
+          show_hebrew_hint?: boolean | null
+          show_pronunciation?: boolean | null
+          show_translation?: boolean | null
+          updated_at?: string | null
+          user_id?: string
+        }
+        Relationships: []
+      }
       user_profiles: {
         Row: {
           avatar_url: string | null
@@ -313,58 +414,58 @@ export type Database = {
       }
       user_word_bookmarks: {
         Row: {
+          created_at: string | null
           id: string
           user_id: string
           word_hebrew: string
-          created_at: string | null
         }
         Insert: {
+          created_at?: string | null
           id?: string
           user_id: string
           word_hebrew: string
-          created_at?: string | null
         }
         Update: {
+          created_at?: string | null
           id?: string
           user_id?: string
           word_hebrew?: string
-          created_at?: string | null
         }
         Relationships: []
       }
       user_word_progress: {
         Row: {
+          created_at: string | null
+          ease_factor: number
           id: string
+          interval_days: number
+          next_review: string
+          review_count: number
+          updated_at: string | null
           user_id: string
           word_hebrew: string
-          next_review: string
-          interval_days: number
-          ease_factor: number
-          review_count: number
-          created_at: string | null
-          updated_at: string | null
         }
         Insert: {
+          created_at?: string | null
+          ease_factor?: number
           id?: string
+          interval_days?: number
+          next_review?: string
+          review_count?: number
+          updated_at?: string | null
           user_id: string
           word_hebrew: string
-          next_review?: string
-          interval_days?: number
-          ease_factor?: number
-          review_count?: number
-          created_at?: string | null
-          updated_at?: string | null
         }
         Update: {
+          created_at?: string | null
+          ease_factor?: number
           id?: string
+          interval_days?: number
+          next_review?: string
+          review_count?: number
+          updated_at?: string | null
           user_id?: string
           word_hebrew?: string
-          next_review?: string
-          interval_days?: number
-          ease_factor?: number
-          review_count?: number
-          created_at?: string | null
-          updated_at?: string | null
         }
         Relationships: []
       }
@@ -493,14 +594,12 @@ export type Database = {
           category: string | null
           created_at: string | null
           emoji: string | null
+          flashcard_img_url: string | null
           grammar: string
           hebrew: string
-          icon_svg: string | null
-          icon_url: string | null  // ✨ 추가
           id: string
           ipa: string
           korean: string
-          letters: string | null
           meaning: string
           position: number
           root: string
@@ -511,14 +610,12 @@ export type Database = {
           category?: string | null
           created_at?: string | null
           emoji?: string | null
+          flashcard_img_url?: string | null
           grammar: string
           hebrew: string
-          icon_svg?: string | null
-          icon_url?: string | null  // ✨ 추가
           id?: string
           ipa: string
           korean: string
-          letters?: string | null
           meaning: string
           position: number
           root: string
@@ -529,14 +626,12 @@ export type Database = {
           category?: string | null
           created_at?: string | null
           emoji?: string | null
+          flashcard_img_url?: string | null
           grammar?: string
           hebrew?: string
-          icon_svg?: string | null
-          icon_url?: string | null  // ✨ 추가
           id?: string
           ipa?: string
           korean?: string
-          letters?: string | null
           meaning?: string
           position?: number
           root?: string
@@ -553,295 +648,11 @@ export type Database = {
           },
         ]
       }
-      hebrew_roots: {
-        Row: {
-          id: string
-          root: string
-          root_hebrew: string
-          core_meaning: string
-          core_meaning_korean: string
-          semantic_field: string | null
-          frequency: number | null
-          importance: number | null
-          mnemonic: string | null
-          pronunciation: string | null
-          story: string | null
-          emoji: string | null
-          created_at: string | null
-          updated_at: string | null
-        }
-        Insert: {
-          id?: string
-          root: string
-          root_hebrew: string
-          core_meaning: string
-          core_meaning_korean: string
-          semantic_field?: string | null
-          frequency?: number | null
-          importance?: number | null
-          mnemonic?: string | null
-          pronunciation?: string | null
-          story?: string | null
-          emoji?: string | null
-          created_at?: string | null
-          updated_at?: string | null
-        }
-        Update: {
-          id?: string
-          root?: string
-          root_hebrew?: string
-          core_meaning?: string
-          core_meaning_korean?: string
-          semantic_field?: string | null
-          frequency?: number | null
-          importance?: number | null
-          mnemonic?: string | null
-          pronunciation?: string | null
-          story?: string | null
-          emoji?: string | null
-          created_at?: string | null
-          updated_at?: string | null
-        }
-        Relationships: []
-      }
-      user_book_progress: {
-        Row: {
-          id: string
-          user_id: string
-          book_id: string
-          total_words: number | null
-          learned_words: number | null
-          mastered_words: number | null
-          progress_percentage: number | null
-          daily_goal: number | null
-          current_streak: number | null
-          longest_streak: number | null
-          started_at: string | null
-          last_studied_at: string | null
-          updated_at: string | null
-        }
-        Insert: {
-          id?: string
-          user_id: string
-          book_id: string
-          total_words?: number | null
-          learned_words?: number | null
-          mastered_words?: number | null
-          progress_percentage?: number | null
-          daily_goal?: number | null
-          current_streak?: number | null
-          longest_streak?: number | null
-          started_at?: string | null
-          last_studied_at?: string | null
-          updated_at?: string | null
-        }
-        Update: {
-          id?: string
-          user_id?: string
-          book_id?: string
-          total_words?: number | null
-          learned_words?: number | null
-          mastered_words?: number | null
-          progress_percentage?: number | null
-          daily_goal?: number | null
-          current_streak?: number | null
-          longest_streak?: number | null
-          started_at?: string | null
-          last_studied_at?: string | null
-          updated_at?: string | null
-        }
-        Relationships: []
-      }
-      user_word_progress_v2: {
-        Row: {
-          id: string
-          user_id: string
-          word_hebrew: string
-          next_review: string
-          interval_days: number
-          ease_factor: number
-          review_count: number
-          difficulty_level: number | null
-          initial_difficulty: number | null
-          correct_count: number | null
-          incorrect_count: number | null
-          accuracy_rate: number | null
-          last_study_context: string | null
-          study_methods: Json | null
-          total_study_time_seconds: number | null
-          average_response_time_seconds: number | null
-          mastery_level: number | null
-          last_level_up_at: string | null
-          created_at: string | null
-          updated_at: string | null
-          first_studied_at: string | null
-          last_reviewed_at: string | null
-        }
-        Insert: {
-          id?: string
-          user_id: string
-          word_hebrew: string
-          next_review: string
-          interval_days?: number
-          ease_factor?: number
-          review_count?: number
-          difficulty_level?: number | null
-          initial_difficulty?: number | null
-          correct_count?: number | null
-          incorrect_count?: number | null
-          accuracy_rate?: number | null
-          last_study_context?: string | null
-          study_methods?: Json | null
-          total_study_time_seconds?: number | null
-          average_response_time_seconds?: number | null
-          mastery_level?: number | null
-          last_level_up_at?: string | null
-          created_at?: string | null
-          updated_at?: string | null
-          first_studied_at?: string | null
-          last_reviewed_at?: string | null
-        }
-        Update: {
-          id?: string
-          user_id?: string
-          word_hebrew?: string
-          next_review?: string
-          interval_days?: number
-          ease_factor?: number
-          review_count?: number
-          difficulty_level?: number | null
-          initial_difficulty?: number | null
-          correct_count?: number | null
-          incorrect_count?: number | null
-          accuracy_rate?: number | null
-          last_study_context?: string | null
-          study_methods?: Json | null
-          total_study_time_seconds?: number | null
-          average_response_time_seconds?: number | null
-          mastery_level?: number | null
-          last_level_up_at?: string | null
-          created_at?: string | null
-          updated_at?: string | null
-          first_studied_at?: string | null
-          last_reviewed_at?: string | null
-        }
-        Relationships: []
-      }
-      word_derivations: {
-        Row: {
-          id: string
-          root_id: string | null
-          word_id: string | null
-          binyan: string | null
-          pattern: string | null
-          derivation_note: string | null
-          created_at: string | null
-        }
-        Insert: {
-          id?: string
-          root_id?: string | null
-          word_id?: string | null
-          binyan?: string | null
-          pattern?: string | null
-          derivation_note?: string | null
-          created_at?: string | null
-        }
-        Update: {
-          id?: string
-          root_id?: string | null
-          word_id?: string | null
-          binyan?: string | null
-          pattern?: string | null
-          derivation_note?: string | null
-          created_at?: string | null
-        }
-        Relationships: [
-          {
-            foreignKeyName: "word_derivations_root_id_fkey"
-            columns: ["root_id"]
-            isOneToOne: false
-            referencedRelation: "hebrew_roots"
-            referencedColumns: ["id"]
-          },
-          {
-            foreignKeyName: "word_derivations_word_id_fkey"
-            columns: ["word_id"]
-            isOneToOne: false
-            referencedRelation: "words"
-            referencedColumns: ["id"]
-          },
-        ]
-      }
-      word_metadata: {
-        Row: {
-          id: string
-          word_hebrew: string
-          bible_frequency: number | null
-          genesis_frequency: number | null
-          frequency_rank: number | null
-          objective_difficulty: number | null
-          difficulty_factors: Json | null
-          theological_importance: number | null
-          pedagogical_priority: number | null
-          is_proper_noun: boolean | null
-          is_theological_term: boolean | null
-          is_common_word: boolean | null
-          recommended_review_count: number | null
-          min_exposures: number | null
-          created_at: string | null
-          updated_at: string | null
-        }
-        Insert: {
-          id?: string
-          word_hebrew: string
-          bible_frequency?: number | null
-          genesis_frequency?: number | null
-          frequency_rank?: number | null
-          objective_difficulty?: number | null
-          difficulty_factors?: Json | null
-          theological_importance?: number | null
-          pedagogical_priority?: number | null
-          is_proper_noun?: boolean | null
-          is_theological_term?: boolean | null
-          is_common_word?: boolean | null
-          recommended_review_count?: number | null
-          min_exposures?: number | null
-          created_at?: string | null
-          updated_at?: string | null
-        }
-        Update: {
-          id?: string
-          word_hebrew?: string
-          bible_frequency?: number | null
-          genesis_frequency?: number | null
-          frequency_rank?: number | null
-          objective_difficulty?: number | null
-          difficulty_factors?: Json | null
-          theological_importance?: number | null
-          pedagogical_priority?: number | null
-          is_proper_noun?: boolean | null
-          is_theological_term?: boolean | null
-          is_common_word?: boolean | null
-          recommended_review_count?: number | null
-          min_exposures?: number | null
-          created_at?: string | null
-          updated_at?: string | null
-        }
-        Relationships: []
-      }
     }
     Views: {
       [_ in never]: never
     }
     Functions: {
-      calculate_book_progress_percentage: {
-        Args: { p_user_id: string; p_book_id: string }
-        Returns: number
-      }
-      get_derived_word_count: {
-        Args: { p_root_id: string }
-        Returns: number
-      }
       get_user_stats: {
         Args: { user_uuid: string }
         Returns: Json
@@ -974,7 +785,11 @@ export type CompositeTypes<
     : never
 
 export const Constants = {
+  graphql_public: {
+    Enums: {},
+  },
   public: {
     Enums: {},
   },
 } as const
+

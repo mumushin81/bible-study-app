@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 8,
+  "startIndex": 141,
+  "endIndex": 160,
+  "totalWords": 20,
+  "generated": 19,
+  "existing": 1,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "עֵזֶר",
+      "korean": "에제르",
+      "meaning": "돕는 자, 조력자",
+      "romanized": "ejereu",
+      "imageUrl": "https://replicate.delivery/xezq/ShlmIdGCxS5GF1HXDcF8mu9ayPRggd0WR5KnwGjOMtVjAaZF/tmpmvc0x23e.jpg",
+      "localPath": "ejereu.jpg"
+    },
+    {
+      "hebrew": "כְּנֶגְדּוֹ",
+      "korean": "케네그도",
+      "meaning": "그에게 적합한, 그에게 상응하는",
+      "romanized": "kenegeudo",
+      "imageUrl": "https://replicate.delivery/xezq/DpkFqsARmdqHN941lFBlOZvTDUh1x9YrCMfTwYmhysBKB0yKA/tmpe21_4u9w.jpg",
+      "localPath": "kenegeudo.jpg"
+    },
+    {
+      "hebrew": "וַיִּצֶר",
+      "korean": "바이체르",
+      "meaning": "그리고 지으셨다, 형성하셨다",
+      "romanized": "baichereu",
+      "imageUrl": "existing",
+      "localPath": "baichereu.jpg"
+    },
+    {
+      "hebrew": "כָּל-חַיַּת הַשָּׂדֶה",
+      "korean": "콜 하야트 하사데",
+      "meaning": "모든 들짐승",
+      "romanized": "kolhayateuhasade",
+      "imageUrl": "https://replicate.delivery/xezq/MfdhsEElYMyYPSPPn6J0kHY4K7Lhj2lJOa1vo20xElpMB0yKA/tmpipr412zc.jpg",
+      "localPath": "kolhayateuhasade.jpg"
+    },
+    {
+      "hebrew": "וְאֵת כָּל-עוֹף הַשָּׁמַיִם",
+      "korean": "베에트 콜 오프 하샤마임",
+      "meaning": "그리고 모든 공중의 새",
+      "romanized": "beeteukolopeuhasyamaim",
+      "imageUrl": "https://replicate.delivery/xezq/mjEXTgevM6wJHCJgpP0NfbeYcsxVvx49GkfVBgQPKZOFKgWWB/tmp934qzhhf.jpg",
+      "localPath": "beeteukolopeuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "וַיָּבֵא אֶל-הָאָדָם",
+      "korean": "바야베 엘 하아담",
+      "meaning": "그리고 아담에게 이끌어 오셨다",
+      "romanized": "bayabeelhaadam",
+      "imageUrl": "https://replicate.delivery/xezq/lCMTAgSjxkKgNdXCuEtJkqN9TLZmwHJVbuHmImCq52KqAaZF/tmpkha_u2oc.jpg",
+      "localPath": "bayabeelhaadam.jpg"
+    },
+    {
+      "hebrew": "לִרְאוֹת",
+      "korean": "리르오트",
+      "meaning": "보기 위하여",
+      "romanized": "rireuoteu",
+      "imageUrl": "https://replicate.delivery/xezq/hc2LM0XdqEIGMhQ6lCqrHNPwW2OilmFebREG67aaIvNYB0yKA/tmp61lr_oah.jpg",
+      "localPath": "rireuoteu.jpg"
+    },
+    {
+      "hebrew": "מַה-יִּקְרָא-לוֹ",
+      "korean": "마 이크라 로",
+      "meaning": "무엇이라 그가 부를지",
+      "romanized": "maikeuraro",
+      "imageUrl": "https://replicate.delivery/xezq/yKvDNJfCy6VoXi0vrqp2OTCrvMBcDZxrkqgICkSCgaWcB0yKA/tmp2kcz7v_0.jpg",
+      "localPath": "maikeuraro.jpg"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "korean": "네페쉬 하야",
+      "meaning": "생물, 살아있는 존재",
+      "romanized": "nepeswihaya",
+      "imageUrl": "https://replicate.delivery/xezq/4qXQJRI8kFbbP5f0vR14zgBv5tRlQ1vLTsVom0Xnh9XgB0yKA/tmp0ai5z6ez.jpg",
+      "localPath": "nepeswihaya.jpg"
+    },
+    {
+      "hebrew": "שְׁמוֹ",
+      "korean": "쉐모",
+      "meaning": "그의 이름",
+      "romanized": "swemo",
+      "imageUrl": "https://replicate.delivery/xezq/Afxj4PFu0WVCUqrfrw3ugLtmeeeifhjxcyQRYJNXKb6ejB0yKA/tmp3uvnitzs.jpg",
+      "localPath": "swemo.jpg"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "korean": "바이크라",
+      "meaning": "그리고 그가 불렀다, 이름 지었다",
+      "romanized": "baikeura",
+      "imageUrl": "https://replicate.delivery/xezq/UuJHeZbdY7Q1QKdWozLBJGTBavUiiByu3tpqJskSopbmB0yKA/tmp84hxih_2.jpg",
+      "localPath": "baikeura.jpg"
+    },
+    {
+      "hebrew": "שֵׁמוֹת",
+      "korean": "쉐모트",
+      "meaning": "이름들",
+      "romanized": "swemoteu",
+      "imageUrl": "https://replicate.delivery/xezq/hY3CRLOPWcqgCxVN5S0xnyw7C6h9ZEBqeC6UbcpjUfdSDolVA/tmpg_bzkh8z.jpg",
+      "localPath": "swemoteu.jpg"
+    },
+    {
+      "hebrew": "לְכָל-הַבְּהֵמָה",
+      "korean": "레콜 하베헤마",
+      "meaning": "모든 가축에게",
+      "romanized": "rekolhabehema",
+      "imageUrl": "https://replicate.delivery/xezq/05zqRMCXSu6OAtAfWrOHqDicukW7yYfP15fgfFI6dYtdNgWWB/tmpilc6a1ml.jpg",
+      "localPath": "rekolhabehema.jpg"
+    },
+    {
+      "hebrew": "וּלְעוֹף הַשָּׁמַיִם",
+      "korean": "울오프 하샤마임",
+      "meaning": "그리고 공중의 새에게",
+      "romanized": "ulopeuhasyamaim",
+      "imageUrl": "https://replicate.delivery/xezq/f4WEg2sfaipc7E17T8nwJz3o5wZ53HjeLqRM5Xa1Tv05GQLrA/tmpyyfhwz9q.jpg",
+      "localPath": "ulopeuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "וּלְכֹל חַיַּת הַשָּׂדֶה",
+      "korean": "울콜 하야트 하사데",
+      "meaning": "그리고 모든 들짐승에게",
+      "romanized": "ulkolhayateuhasade",
+      "imageUrl": "https://replicate.delivery/xezq/4Rfj5x9N1kXFR6Xjiaopc8PGfq0l9ezSaiuyVFY5mI1FHQLrA/tmpguzsatwi.jpg",
+      "localPath": "ulkolhayateuhasade.jpg"
+    },
+    {
+      "hebrew": "וּלְאָדָם",
+      "korean": "울아담",
+      "meaning": "그러나 아담에게는",
+      "romanized": "uladam",
+      "imageUrl": "https://replicate.delivery/xezq/xqXLPSuLwUZ1I9eWuhFA37ZFGixGGTBkWeB4Ff6IwdjXHQLrA/tmpt3ytusdd.jpg",
+      "localPath": "uladam.jpg"
+    },
+    {
+      "hebrew": "לֹא-מָצָא",
+      "korean": "로 마차",
+      "meaning": "찾지 못했다",
+      "romanized": "romacha",
+      "imageUrl": "https://replicate.delivery/xezq/XKOHCWcCh24mHth8lUY8Q2SyfYpseJqUMGVba3pRTlhxDolVA/tmphbl3hgdr.jpg",
+      "localPath": "romacha.jpg"
+    },
+    {
+      "hebrew": "עֵזֶר כְּנֶגְדּוֹ",
+      "korean": "에제르 케네그도",
+      "meaning": "그에게 적합한 돕는 자",
+      "romanized": "ejereukenegeudo",
+      "imageUrl": "https://replicate.delivery/xezq/B6vnfdQj30ySJSVijE1S0oLpnExtXVVrfsiwFDM1Vbl2DolVA/tmp6fp38260.jpg",
+      "localPath": "ejereukenegeudo.jpg"
+    },
+    {
+      "hebrew": "וַיַּפֵּל",
+      "korean": "바야펠",
+      "meaning": "떨어뜨리셨다, 임하게 하셨다",
+      "romanized": "bayapel",
+      "imageUrl": "https://replicate.delivery/xezq/rCjylDqKYY7HNNfIguyfxoyVCAPcm63IRyfco7Sj4Uf0PgWWB/tmph74sh1pt.jpg",
+      "localPath": "bayapel.jpg"
+    },
+    {
+      "hebrew": "תַּרְדֵּמָה",
+      "korean": "타르데마",
+      "meaning": "깊은 잠",
+      "romanized": "tareudema",
+      "imageUrl": "https://replicate.delivery/xezq/uXxcesCngaU3BKTfQYqvSOGG2KRxTiaUX5h75jfhteHMQgWWB/tmp6wywh_a3.jpg",
+      "localPath": "tareudema.jpg"
+    }
+  ]
+}

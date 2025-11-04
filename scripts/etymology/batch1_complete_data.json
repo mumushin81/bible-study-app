@@ -1,0 +1,311 @@
+{
+  "collected_at": "2025-10-27",
+  "batch": 1,
+  "roots_count": 10,
+  "roots": [
+    {
+      "root": "י-ד-ע",
+      "root_hebrew": "ידע",
+      "strong_number": "H3045",
+      "etymology_simple": "원시 셈어에서 '경험하다, 직접 알다'를 의미했습니다. 아랍어 وَدَعَ(wada'a)와 아람어 יְדַע에서 같은 어근을 공유합니다. 단순한 정보 습득이 아니라 '경험을 통한 깊은 앎'을 강조하며, 성경 전체에서 956번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "וַיֵּדַע",
+          "ipa": "vaˈjeda",
+          "korean": "바예다",
+          "meaning": "그리고 알았다, 동침하다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּדְעוּ",
+          "ipa": "vajjeˈdəʕu",
+          "korean": "바예드우",
+          "meaning": "그리고 알았다, 깨달았다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "יָדֹעַ תֵּדַע",
+          "ipa": "teˈdaʕ jaˈdoaʕ",
+          "korean": "테다 야도아",
+          "meaning": "반드시 알아야 한다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "הַדַּעַת",
+          "ipa": "haddaˈʔat",
+          "korean": "하다아트",
+          "meaning": "지식의, 아는 것의",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "לָדַעַת טוֹב וָרָע",
+          "ipa": "ladaˈʕat tov vaˈraʕ",
+          "korean": "라다아트 토브 바라",
+          "meaning": "선악을 아는 것",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "מ-ל-ך",
+      "root_hebrew": "מלך",
+      "strong_number": "H4427",
+      "etymology_simple": "원시 셈어에서 '조언하다, 의논하다'를 의미했을 가능성이 있습니다. 아랍어 مَلَكَ(malaka, 소유하다), 아람어 מְלַךְ와 연결됩니다. '왕으로 다스리다'의 의미로 발전했으며, 왕권과 통치를 나타내는 핵심 동사입니다.",
+      "derivatives": [
+        {
+          "hebrew": "מַמְלַכְתּוֹ",
+          "ipa": "mamlaxtˈo",
+          "korean": "맘라크토",
+          "meaning": "그의 왕국",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "מֶלֶךְ",
+          "ipa": "ˈmɛlɛχ",
+          "korean": "멜레크",
+          "meaning": "왕",
+          "grammar": "명사"
+        }
+      ]
+    },
+    {
+      "root": "י-ר-א",
+      "root_hebrew": "ירא",
+      "strong_number": "H3372",
+      "etymology_simple": "원시 셈어에서 '두려워하다, 경외하다'를 의미했습니다. 아랍어에서는 يَرَى(yara, 보다)와 연결되어 '보고 두려워하다'의 개념을 포함합니다. 단순한 공포가 아니라 '경외심을 가지고 존중하다'의 의미를 가지며, 특히 '여호와를 경외하다'는 표현으로 자주 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "וָאִירָא",
+          "ipa": "vaʔiˈra",
+          "korean": "바이라",
+          "meaning": "그리고 나는 두려워했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אַל תִּירָא",
+          "ipa": "ʔal tiˈra",
+          "korean": "알 티라",
+          "meaning": "두려워하지 말라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וּמוֹרַאֲכֶם",
+          "ipa": "umoraʔaˈχɛm",
+          "korean": "우모라아켐",
+          "meaning": "너희에 대한 두려움",
+          "grammar": "명사"
+        }
+      ]
+    },
+    {
+      "root": "ע-ש-ה",
+      "root_hebrew": "עשה",
+      "strong_number": "H6213",
+      "etymology_simple": "원시 셈어에서 '만들다, 행하다'를 의미했습니다. 아랍어 عَمِلَ('amila, 일하다)와 유사한 의미를 가집니다. ברא(창조하다)와 달리 기존 재료로 '만들거나 행하는' 일반적인 행위를 나타내며, 성경에서 가장 많이 사용되는 동사 중 하나입니다(2,600회+).",
+      "derivatives": [
+        {
+          "hebrew": "וְנַעֲשֶׂה לָּנוּ שֵׁם",
+          "ipa": "vənaʕaˈśɛ laˈnu ʃɛm",
+          "korean": "베나아세 라누 쉠",
+          "meaning": "그리고 우리를 위해 이름을 만들자",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אֲשֶׁר עָשָׂה",
+          "ipa": "ʔaˈʃɛr ʕaˈsa",
+          "korean": "아쉐르 아사",
+          "meaning": "그가 만드신",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "עֲשֵׂה",
+          "ipa": "ʔaˈse",
+          "korean": "아세",
+          "meaning": "만들어라",
+          "grammar": "동사 - 명령형"
+        },
+        {
+          "hebrew": "נַעֲשֶׂה",
+          "ipa": "naʔaˈsɛ",
+          "korean": "나아세",
+          "meaning": "우리가 만들자",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "עָשָׂה",
+          "ipa": "ʔaˈsa",
+          "korean": "아사",
+          "meaning": "만들다, 행하다",
+          "grammar": "동사 - 완료형"
+        }
+      ]
+    },
+    {
+      "root": "ש-ב-ת",
+      "root_hebrew": "שבת",
+      "strong_number": "H7673",
+      "etymology_simple": "원시 셈어에서 '멈추다, 쉬다'를 의미했습니다. 아랍어 سَبَتَ(sabata, 휴식하다)와 같은 어원을 공유합니다. '일을 멈추고 쉬다'의 의미로, 안식일(שַׁבָּת, shabbat)의 어원이기도 합니다. 창조 이야기에서 하나님이 7일째 되시던 날에 쉬신 것을 표현하는 핵심 단어입니다.",
+      "derivatives": [
+        {
+          "hebrew": "לֹא יִשְׁבֹּתוּ",
+          "ipa": "lo jišːoˈtu",
+          "korean": "로 이쇼투",
+          "meaning": "쉬지 않을 것이다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ד-ב-ר",
+      "root_hebrew": "דבר",
+      "strong_number": "H1696",
+      "etymology_simple": "원시 셈어에서 '정렬하다, 배열하다'를 의미했을 가능성이 있습니다. 아람어 דְּבַר와 아랍어 دَبَّرَ(dabbara, 계획하다)에서 유사한 의미를 볼 수 있습니다. '생각을 정렬하여 말하다'에서 '말하다'로 발전했으며, אמר(말하다)보다 더 공식적이고 중요한 발언을 나타냅니다.",
+      "derivatives": [
+        {
+          "hebrew": "דְבַר יְהוָה",
+          "ipa": "dəvar jəhoˈva",
+          "korean": "드바르 예호와",
+          "meaning": "여호와의 말씀",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "דִּבֶּר",
+          "ipa": "dibˈbɛr",
+          "korean": "디베르",
+          "meaning": "말씀하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְהִנֵּה דְבַר יְהוָה",
+          "ipa": "vəhiˈne dəvar jəhoˈva",
+          "korean": "베히네 드바르 예호와",
+          "meaning": "그리고 보라 여호와의 말씀이",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "וַיְדַבֵּר",
+          "ipa": "vajədaˈber",
+          "korean": "바예다베르",
+          "meaning": "그리고 말씀하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "הַדְּבָרִים הָאֵלֶּה",
+          "ipa": "hadəvaˈrim haˈʔele",
+          "korean": "하드바림 하엘레",
+          "meaning": "이 일들",
+          "grammar": "명사"
+        }
+      ]
+    },
+    {
+      "root": "א-מ-ן",
+      "root_hebrew": "אמן",
+      "strong_number": "H539",
+      "etymology_simple": "원시 셈어에서 '견고하다, 확고하다'를 의미했습니다. 아랍어 آمَنَ('āmana, 믿다), 아람어 אַמֵּן(amen)과 같은 어원을 공유합니다. '견고한 것 위에 서다'는 개념에서 '신뢰하다, 믿다'로 발전했으며, '아멘(אָמֵן)'이 이 어근에서 파생되었습니다.",
+      "derivatives": [
+        {
+          "hebrew": "וְהֶאֱמִן",
+          "ipa": "vəheʔɛˈmin",
+          "korean": "베헤에민",
+          "meaning": "그리고 그가 믿었다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ב-ר-ך",
+      "root_hebrew": "ברך",
+      "strong_number": "H1288",
+      "etymology_simple": "원시 셈어에서 '무릎 꿇다'를 의미했습니다. 아랍어 بَرَكَ(baraka, 축복하다)와 아람어 בְּרַךְ에서 같은 어근을 공유합니다. '무릎 꿇고 존경하다'에서 '축복하다'로 의미가 발전했으며, 성경에서 하나님의 축복과 인간의 축복을 모두 표현하는 핵심 동사입니다(330회 사용).",
+      "derivatives": [
+        {
+          "hebrew": "וַאֲבָרְכָה",
+          "ipa": "vaʔavaˈrəxa",
+          "korean": "바아바르카",
+          "meaning": "그리고 내가 축복하겠다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְנִבְרְכוּ בְךָ",
+          "ipa": "vənivrəˈχu vəˈχa",
+          "korean": "베니브레쿠 베카",
+          "meaning": "그리고 너로 말미암아 복을 받을 것이다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַאֲבָרֶכְךָ",
+          "ipa": "vaʔavaˈrɛxəxa",
+          "korean": "바아바렉카",
+          "meaning": "그리고 내가 너를 축복할 것이다",
+          "grammar": "동사 + 접미사"
+        },
+        {
+          "hebrew": "וְנִבְרְכוּ",
+          "ipa": "vənivˈrəxu",
+          "korean": "베니브르쿠",
+          "meaning": "그리고 축복받을 것이다",
+          "grammar": "동사 (수동태)"
+        },
+        {
+          "hebrew": "וַיְבָרֶךְ",
+          "ipa": "vajeˈvarex",
+          "korean": "바예바렉",
+          "meaning": "축복하셨다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ש-מ-ר",
+      "root_hebrew": "שמר",
+      "strong_number": "H8104",
+      "etymology_simple": "원시 셈어에서 '지키다, 보호하다'를 의미했습니다. 아랍어 سَمَرَ(samara, 밤새다)와 연결되어 '밤새 지키다'의 의미를 포함합니다. '경계하며 보호하다, 명령을 준수하다'의 의미로, 특히 하나님의 계명을 지키는 것을 표현할 때 자주 사용됩니다(468회).",
+      "derivatives": [
+        {
+          "hebrew": "הֲשֹׁמֵר אָחִי אָנֹכִי",
+          "ipa": "hašoˈmer ʔaˈxi ʔaˈnoxi",
+          "korean": "하쇼메르 아히 아노키",
+          "meaning": "제가 내 동생을 지키는 자입니까?",
+          "grammar": "동사구"
+        },
+        {
+          "hebrew": "וּלְשָׁמְרָהּ",
+          "ipa": "ulʃomˈrah",
+          "korean": "울쇼므라",
+          "meaning": "그리고 그것을 지키기 위해",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ש-מ-ע",
+      "root_hebrew": "שמע",
+      "strong_number": "H8085",
+      "etymology_simple": "원시 셈어에서 '듣다'를 의미했습니다. 아랍어 سَمِعَ(sami'a, 듣다)와 아람어 שְׁמַע에서 같은 어근을 공유합니다. 단순히 소리를 듣는 것이 아니라 '듣고 순종하다, 주의를 기울이다'의 의미를 포함하며, 이스라엘의 신앙고백 '쉐마(שְׁמַע, Shema)'가 이 동사로 시작됩니다(1,165회 사용).",
+      "derivatives": [
+        {
+          "hebrew": "שְׁמַעַן",
+          "ipa": "ʃəˈmaʕn",
+          "korean": "쉐마안",
+          "meaning": "들으라 (여성 복수)",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "שָׁמַעְתִּי",
+          "ipa": "ʃaˈmaʕti",
+          "korean": "샤마티",
+          "meaning": "내가 들었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּשְׁמְעוּ",
+          "ipa": "vajjišməˈʕu",
+          "korean": "바이쉬므우",
+          "meaning": "그리고 그들이 듣다",
+          "grammar": "동사"
+        }
+      ]
+    }
+  ]
+}

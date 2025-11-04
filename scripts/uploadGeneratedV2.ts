@@ -114,8 +114,9 @@ async function uploadVerseContent(supabase: any, filePath: string) {
         letters: word.letters || null,
         root: word.root || '',
         grammar: word.grammar || '',
-        emoji: word.emoji || null,
+        flashcard_img_url: word.flashcardImgUrl || null,  // 플래시카드 이미지 URL 업로드
         icon_svg: word.iconSvg || null,
+        root_analysis: word.rootAnalysis || null,
         position: index,
       }));
 

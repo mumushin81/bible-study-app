@@ -18,7 +18,8 @@
       "relatedWords": [
         "מֶמְשָׁלָה (멤샬라 - 통치)",
         "מוֹשֵׁל (모셸 - 통치자)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/berimsyoreu.jpg"
     },
     {
       "hebrew": "בַּיּוֹם",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "יוֹמָם (요맘 - 낮동안)",
         "הַיּוֹם (하욤 - 오늘)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayom.jpg"
     },
     {
       "hebrew": "וּבַלַּיְלָה",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "לֵיל (레일 - 밤)",
         "לַיְלוֹת (레일로트 - 밤들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubalrailra.jpg"
     },
     {
       "hebrew": "וּלְהַבְדִּיל",
@@ -56,7 +59,8 @@
       "letters": "וּ(u) + לְ(le) + הַ(ha) + בְ(v) + דִּ(di) + יל(l)",
       "root": "ב-ד-ל (바달)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sep_badal_g1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"50%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#673AB7\"/></linearGradient><linearGradient id=\"sep_badal_g2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\"/><stop offset=\"100%\" stop-color=\"#0097A7\"/></linearGradient><radialGradient id=\"sep_badal_g3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#E1F5FE\"/></radialGradient><linearGradient id=\"sep_badal_g4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\"/><stop offset=\"100%\" stop-color=\"#FFA726\"/></linearGradient></defs><rect x=\"4\" y=\"4\" width=\"24\" height=\"56\" fill=\"url(#sep_badal_g1)\" rx=\"4\" filter=\"drop-shadow(-2px 2px 6px rgba(233, 30, 99, 0.4))\"/><rect x=\"36\" y=\"4\" width=\"24\" height=\"56\" fill=\"url(#sep_badal_g2)\" rx=\"4\" filter=\"drop-shadow(2px 2px 6px rgba(0, 188, 212, 0.4))\"/><rect x=\"30\" y=\"8\" width=\"4\" height=\"48\" fill=\"url(#sep_badal_g4)\" filter=\"drop-shadow(0 0 8px rgba(255, 213, 79, 0.6))\"/><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/><circle cx=\"32\" cy=\"44\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sep_badal_g1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E91E63\"/><stop offset=\"50%\" stop-color=\"#9C27B0\"/><stop offset=\"100%\" stop-color=\"#673AB7\"/></linearGradient><linearGradient id=\"sep_badal_g2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00BCD4\"/><stop offset=\"100%\" stop-color=\"#0097A7\"/></linearGradient><radialGradient id=\"sep_badal_g3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#E1F5FE\"/></radialGradient><linearGradient id=\"sep_badal_g4\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD54F\"/><stop offset=\"100%\" stop-color=\"#FFA726\"/></linearGradient></defs><rect x=\"4\" y=\"4\" width=\"24\" height=\"56\" fill=\"url(#sep_badal_g1)\" rx=\"4\" filter=\"drop-shadow(-2px 2px 6px rgba(233, 30, 99, 0.4))\"/><rect x=\"36\" y=\"4\" width=\"24\" height=\"56\" fill=\"url(#sep_badal_g2)\" rx=\"4\" filter=\"drop-shadow(2px 2px 6px rgba(0, 188, 212, 0.4))\"/><rect x=\"30\" y=\"8\" width=\"4\" height=\"48\" fill=\"url(#sep_badal_g4)\" filter=\"drop-shadow(0 0 8px rgba(255, 213, 79, 0.6))\"/><circle cx=\"32\" cy=\"20\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/><circle cx=\"32\" cy=\"32\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/><circle cx=\"32\" cy=\"44\" r=\"4\" fill=\"url(#sep_badal_g3)\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.8))\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulhabeudil.jpg"
     },
     {
       "hebrew": "בֵּין הָאוֹר",
@@ -70,7 +74,8 @@
       "relatedWords": [
         "אוֹרָה (오라 - 빛)",
         "מָאוֹר (마오르 - 광체)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhaoreu.jpg"
     },
     {
       "hebrew": "וּבֵין הַחֹשֶׁךְ",
@@ -84,7 +89,8 @@
       "relatedWords": [
         "חָשַׁךְ (하샤크 - 어둡게 하다)",
         "מַחְשָׁךְ (마흐샤크 - 어두운 곳)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubenhahoswekeu.jpg"
     },
     {
       "hebrew": "וַיַּרְא",
@@ -98,7 +104,8 @@
       "relatedWords": [
         "רָאָה (라아 - 보다)",
         "מַרְאֶה (마레 - 모습, 광경)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayareu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -112,7 +119,8 @@
       "relatedWords": [
         "אֵל (엘 - 신)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "כִּי-טוֹב",
@@ -126,7 +134,8 @@
       "relatedWords": [
         "טוּב (투브 - 선, 좋음)",
         "לְטוֹבָה (레토바 - 유익을 위해)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kitobeu.jpg"
     }
   ],
   "commentary": {

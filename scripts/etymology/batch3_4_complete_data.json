@@ -1,0 +1,597 @@
+{
+  "collected_at": "2025-10-27",
+  "batches": "3-4",
+  "roots_count": 19,
+  "total_derivatives": 63,
+  "roots": [
+    {
+      "root": "ר-ע-ע",
+      "root_hebrew": "רעע",
+      "strong_number": "H7489",
+      "etymology_simple": "원시 셈어에서 '나쁘다, 해치다'를 의미했습니다. 아랍어 رَعَّ(ra''a, 나쁘다)와 관련이 있습니다. 도덕적, 물리적 '악함'을 모두 포괄하며, טוב(좋다)의 반대 개념으로 창세기 선악과 이야기에서 핵심적으로 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "רָעַת הָאָדָם",
+          "ipa": "raˈʕat haʔaˈdam",
+          "korean": "라아트 하아담",
+          "meaning": "사람의 악, 죄악",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "רַע",
+          "ipa": "raˈʔ",
+          "korean": "라",
+          "meaning": "악한",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "רָעַת",
+          "ipa": "raˈʔat",
+          "korean": "라아트",
+          "meaning": "악, 죄악",
+          "grammar": "명사 - 연계형"
+        },
+        {
+          "hebrew": "רָעִים",
+          "ipa": "raˈʕim",
+          "korean": "라임",
+          "meaning": "악한",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "רַק רַע",
+          "ipa": "rak raʕ",
+          "korean": "라크 라",
+          "meaning": "오직 악할 뿐",
+          "grammar": "부사"
+        }
+      ]
+    },
+    {
+      "root": "מ-צ-א",
+      "root_hebrew": "מצא",
+      "strong_number": "H4672",
+      "etymology_simple": "원시 셈어에서 '발견하다, 도달하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 우연히 발견하는 것부터 열심히 찾아서 얻는 것까지 포괄하며, 성경 전체에서 457번 사용되는 중요한 동사입니다.",
+      "derivatives": [
+        {
+          "hebrew": "כָל מֹצְאִי",
+          "ipa": "kol moʦəˈʔi",
+          "korean": "콜 모체이",
+          "meaning": "나를 만나는 모든 자",
+          "grammar": "명사구"
+        },
+        {
+          "hebrew": "לֹא-מָצָא",
+          "ipa": "lo maˈtsa",
+          "korean": "로 마차",
+          "meaning": "찾지 못했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "כָל מֹצְאוֹ",
+          "ipa": "kol moʦəˈʔo",
+          "korean": "콜 모체오",
+          "meaning": "그를 만나는 모든 자",
+          "grammar": "명사구"
+        },
+        {
+          "hebrew": "וַֽיִּמְצְאוּ",
+          "ipa": "vajimtsəˈʔu",
+          "korean": "바임체우",
+          "meaning": "그리고 그들이 발견했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "מָצָא",
+          "ipa": "maˈtsa",
+          "korean": "마차",
+          "meaning": "발견하다, 얻다",
+          "grammar": "동사 - 완료형"
+        }
+      ]
+    },
+    {
+      "root": "פ-ר-ה",
+      "root_hebrew": "פרה",
+      "strong_number": "H6509",
+      "etymology_simple": "원시 셈어에서 '열매 맺다, 번성하다'를 의미했습니다. 아랍어 فَرَى(farā, 창조하다)와 연결됩니다. 창세기 1:28에서 하나님이 인간에게 주신 첫 번째 축복 '생육하고 번성하라(פְּרוּ וּרְבוּ)'의 핵심 단어입니다.",
+      "derivatives": [
+        {
+          "hebrew": "פְּרוּ",
+          "ipa": "pəˈru",
+          "korean": "페루",
+          "meaning": "생육하라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "מִפְּרִי הָאֲדָמָה",
+          "ipa": "mipˈri haʔadaˈma",
+          "korean": "미프리 하아다마",
+          "meaning": "땅의 소산으로부터",
+          "grammar": "명사구"
+        },
+        {
+          "hebrew": "וּפָרוּ",
+          "ipa": "ufaˈru",
+          "korean": "우파루",
+          "meaning": "그리고 생육하라",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ר-ד-ה",
+      "root_hebrew": "רדה",
+      "strong_number": "H7287",
+      "etymology_simple": "원시 셈어에서 '다스리다, 지배하다'를 의미했습니다. 창세기 1:26, 28에서 인간이 피조물을 다스리는 권한을 나타내는 단어로, '책임있는 통치'의 개념을 포함합니다. 성경에서 25번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "וְיִרְדּוּ",
+          "ipa": "vəjirˈdu",
+          "korean": "베이르두",
+          "meaning": "그리고 다스리게 하자",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וּרְדוּ",
+          "ipa": "urˈdu",
+          "korean": "우르두",
+          "meaning": "그리고 다스리라",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ע-ל-ה",
+      "root_hebrew": "עלה",
+      "strong_number": "H5927",
+      "etymology_simple": "원시 셈어에서 '올라가다, 상승하다'를 의미했습니다. 아랍어 عَلَا('alā)와 아람어 עְלָא에서 같은 어근을 공유합니다. 물리적 상승부터 영적 상승(예: 예배를 위해 성전에 올라가다)까지 포괄하며, 894번 사용되는 매우 빈번한 동사입니다.",
+      "derivatives": [
+        {
+          "hebrew": "עֹלֹת",
+          "ipa": "ʕoˈlot",
+          "korean": "올로트",
+          "meaning": "번제들",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "יַעֲלֶה",
+          "ipa": "jaʔaˈleh",
+          "korean": "야알레",
+          "meaning": "올라오다, 상승하다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיַּעַל",
+          "ipa": "vajjaʕal",
+          "korean": "바야알",
+          "meaning": "그리고 올라갔다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ב-ו-א",
+      "root_hebrew": "בוא",
+      "strong_number": "H935",
+      "etymology_simple": "원시 셈어에서 '오다, 들어가다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 단순한 이동부터 '도래하다, 성취되다'의 의미까지 포괄하며, 성경에서 가장 많이 사용되는 동사 중 하나입니다(2,592회).",
+      "derivatives": [
+        {
+          "hebrew": "יָבֹאוּ",
+          "ipa": "javoˈu",
+          "korean": "야보우",
+          "meaning": "그들이 올 것이다",
+          "grammar": "동사 - 미완료형 3인칭 복수"
+        },
+        {
+          "hebrew": "וַיָּבֵא אֶל-הָאָדָם",
+          "ipa": "vajˈjavɛʔ ʔɛl haʔaˈdam",
+          "korean": "바야베 엘 하아담",
+          "meaning": "그리고 아담에게 이끌어 오셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיְבִאֶהָ",
+          "ipa": "vajəviˈʔɛha",
+          "korean": "바예비에하",
+          "meaning": "그녀를 데려오셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "בָּא",
+          "ipa": "ba",
+          "korean": "바",
+          "meaning": "왔다, 도달했다",
+          "grammar": "동사 - 완료형"
+        },
+        {
+          "hebrew": "וַיָּבֵא",
+          "ipa": "vajaˈve",
+          "korean": "바야베",
+          "meaning": "그리고 가져오다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "י-צ-א",
+      "root_hebrew": "יצא",
+      "strong_number": "H3318",
+      "etymology_simple": "원시 셈어에서 '나가다, 나오다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 공유합니다. 물리적 이동부터 '출발하다, 기원하다, 발생하다'의 의미까지 포괄하며, בוא(오다)의 반대 개념으로 1,076번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "הוֹצֵא",
+          "ipa": "ˈhotse",
+          "korean": "호체",
+          "meaning": "내보내라",
+          "grammar": "동사 명령형"
+        },
+        {
+          "hebrew": "וַיֵּצֵא",
+          "ipa": "vajˈetse",
+          "korean": "바예체",
+          "meaning": "그리고 나왔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "יֹצְאֵי",
+          "ipa": "yotsʔe",
+          "korean": "요체에",
+          "meaning": "나온 자들",
+          "grammar": "분사"
+        },
+        {
+          "hebrew": "אֲשֶׁר הוֹצֵאתִיךָ",
+          "ipa": "ʔaˈʃer hoˈʦetiχa",
+          "korean": "아셰르 호체티카",
+          "meaning": "내가 너를 이끌어 낸",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּצְאוּ",
+          "ipa": "vajˈjetsuʔu",
+          "korean": "바예추우",
+          "meaning": "그리고 그들이 나갔다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "מ-ו-ת",
+      "root_hebrew": "מות",
+      "strong_number": "H4191",
+      "etymology_simple": "원시 셈어에서 '죽다'를 의미했습니다. 아랍어 مَاتَ(māta)와 아람어 מִית에서 동일한 형태를 공유합니다. 육체적 죽음뿐만 아니라 영적 죽음도 나타내며, חיה(살다)의 반대 개념으로 성경에서 854번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "וַיָּמֹת",
+          "ipa": "vajjaˈmot",
+          "korean": "바야못",
+          "meaning": "그리고 죽었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "תְּמֻתוּן",
+          "ipa": "təmuˈtun",
+          "korean": "테무툰",
+          "meaning": "너희가 죽을 것이다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיָּמָת",
+          "ipa": "vajˈjamat",
+          "korean": "바야마트",
+          "meaning": "죽었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיָּמֹֽת",
+          "ipa": "vajjaˈmot",
+          "korean": "바야모트",
+          "meaning": "그리고 죽었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "מוֹת תָּמוּת",
+          "ipa": "mot taˈmut",
+          "korean": "모트 타무트",
+          "meaning": "반드시 죽을 것이다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ק-ר-א",
+      "root_hebrew": "קרא",
+      "strong_number": "H7121",
+      "etymology_simple": "원시 셈어에서 '부르다, 외치다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. '이름을 부르다, 선포하다, 낭독하다, 초대하다'의 의미를 포괄하며, 하나님이 인간을 부르시는 행위를 나타낼 때도 사용됩니다(736번).",
+      "derivatives": [
+        {
+          "hebrew": "לִקְרֹא",
+          "ipa": "likˈro",
+          "korean": "리크로",
+          "meaning": "부르다, 찬양하다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּקְרָא",
+          "ipa": "vajikˈra",
+          "korean": "바이크라",
+          "meaning": "그리고 부르다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "מַה-יִּקְרָא-לוֹ",
+          "ipa": "mah jiqˈraʔ lo",
+          "korean": "마 이크라 로",
+          "meaning": "무엇이라 그가 부를지",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "קָרָא",
+          "ipa": "qaˈra",
+          "korean": "카라",
+          "meaning": "부르셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַתִּקְרָא",
+          "ipa": "vatikˈra",
+          "korean": "바티크라",
+          "meaning": "그리고 부르다, 이름짓다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ז-כ-ר",
+      "root_hebrew": "זכר",
+      "strong_number": "H2142",
+      "etymology_simple": "원시 셈어에서 '기억하다, 상기하다'를 의미했습니다. 아랍어 ذَكَرَ(dhakara)와 아람어 דְּכַר에서 같은 어근을 공유합니다. 단순히 기억하는 것이 아니라 '기억하고 행동하다'의 의미를 포함하며, 하나님이 언약을 기억하시는 것을 표현할 때 중요하게 사용됩니다(235번).",
+      "derivatives": [
+        {
+          "hebrew": "זָכָר",
+          "ipa": "zaˈχar",
+          "korean": "자카르",
+          "meaning": "수컷",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "וַיִּזְכֹּר",
+          "ipa": "vajizˈkor",
+          "korean": "바이즈코르",
+          "meaning": "그리고 기억하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְזָכַרְתִּי",
+          "ipa": "vəzaχarˈti",
+          "korean": "베자카르티",
+          "meaning": "그리고 내가 기억할 것이다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "י-ש-ב",
+      "root_hebrew": "ישב",
+      "strong_number": "H3427",
+      "etymology_simple": "원시 셈어에서 '앉다, 거주하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 단순히 앉는 것부터 '정착하다, 살다, 통치하다'의 의미까지 포괄하며, 성경에서 가장 많이 사용되는 동사 중 하나입니다(1,088회).",
+      "derivatives": [
+        {
+          "hebrew": "וַיֵּשְׁבוּ שָׁם",
+          "ipa": "vajjeʃəˈvu ʃam",
+          "korean": "바예쉐부 샴",
+          "meaning": "그리고 거기 거주했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "יֹשֵׁב אֹהֶל",
+          "ipa": "joˈʃev ˈʔohel",
+          "korean": "요쉐브 오헬",
+          "meaning": "장막에 거주하는 자",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "וְהוּא יֹשֵׁב בִּסְדֹם",
+          "ipa": "vəˈhu joˈʃɛv bisəˈdom",
+          "korean": "베후 요쉐브 비스돔",
+          "meaning": "그리고 그는 소돔에 거주하고 있었다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ל-ק-ח",
+      "root_hebrew": "לקח",
+      "strong_number": "H3947",
+      "etymology_simple": "원시 셈어에서 '가져가다, 취하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 공유합니다. '받다, 붙잡다, 결혼하다, 배우다'의 광범위한 의미를 가지며, נתן(주다)의 반대 개념으로 967번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "וַיִּקְחוּ",
+          "ipa": "vajjikˈħu",
+          "korean": "바이크후",
+          "meaning": "그리고 그들이 취했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּקַּח",
+          "ipa": "vajˈjiqqax",
+          "korean": "바이카흐",
+          "meaning": "그리고 그가 데리고 갔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּקְחוּ אֶת לוֹט",
+          "ipa": "vajjikˈħu ʔɛt lot",
+          "korean": "바이크후 에트 로트",
+          "meaning": "그리고 롯을 사로잡았다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וָאֶקַּח",
+          "ipa": "vaʔɛˈqax",
+          "korean": "바에카흐",
+          "meaning": "그래서 내가 취했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "הֵם יִקְחוּ חֶלְקָם",
+          "ipa": "hem jikˈχu χɛlˈkam",
+          "korean": "헴 이크후 헬캄",
+          "meaning": "그들이 자기 몫을 가지게 하라",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ה-ל-ך",
+      "root_hebrew": "הלך",
+      "strong_number": "H1980",
+      "etymology_simple": "원시 셈어에서 '걷다, 가다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 물리적 이동부터 '행위하다, 삶을 살다, 따르다'의 의미까지 포괄하며, 성경에서 가장 많이 사용되는 동사입니다(1,554회).",
+      "derivatives": [
+        {
+          "hebrew": "לֶךְ־לְךָ",
+          "ipa": "lɛx ləˈxa",
+          "korean": "레크 레카",
+          "meaning": "가라, 너 자신을 위해 가라",
+          "grammar": "명령형 동사 + 전치사"
+        },
+        {
+          "hebrew": "לֶךְ-לְךָ",
+          "ipa": "lɛχ-ləˈχa",
+          "korean": "레크 레카",
+          "meaning": "가라, 네 자신을 위해 가라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּלֶךְ",
+          "ipa": "vajˈjelɛx",
+          "korean": "바옐레크",
+          "meaning": "그리고 그가 갔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּלֵכוּ",
+          "ipa": "vajjeˈlɛxu",
+          "korean": "바예레쿠",
+          "meaning": "그리고 떠나갔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּלֶךְ אַבְרָם",
+          "ipa": "vajˈjelɛχ ʔavˈram",
+          "korean": "바옐레크 아브람",
+          "meaning": "그리고 아브람이 갔다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "מ-א-ס",
+      "root_hebrew": "מאס",
+      "strong_number": "H3988",
+      "etymology_simple": "원시 셈어에서 '거절하다, 멸시하다'를 의미했습니다. 아랍어와 관련이 있습니다. 단순한 거절이 아니라 '경멸하며 버리다'의 강한 의미를 가지며, 특히 하나님의 말씀이나 계명을 거부하는 것을 나타낼 때 사용됩니다(76번).",
+      "derivatives": []
+    },
+    {
+      "root": "ש-נ-א",
+      "root_hebrew": "שנא",
+      "strong_number": "H8130",
+      "etymology_simple": "원시 셈어에서 '미워하다, 혐오하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 단순한 싫어함부터 '적대하다'의 강한 감정까지 포괄하며, אהב(사랑하다)의 반대 개념으로 148번 사용됩니다.",
+      "derivatives": []
+    },
+    {
+      "root": "י-ר-ד",
+      "root_hebrew": "ירד",
+      "strong_number": "H3381",
+      "etymology_simple": "원시 셈어에서 '내려가다, 하강하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 공유합니다. 물리적 하강부터 '쇠퇴하다, 침입하다'의 의미까지 포괄하며, עלה(올라가다)의 반대 개념으로 382번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "נֵרְדָה",
+          "ipa": "nˈerda",
+          "korean": "네르다",
+          "meaning": "우리가 내려가자",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּרֶד",
+          "ipa": "vajˈjerɛd",
+          "korean": "바예레드",
+          "meaning": "그리고 그가 내려갔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּרֶד מִצְרַיְמָה",
+          "ipa": "vajˈjerɛd mitsˈrajma",
+          "korean": "바예레드 미츠라이마",
+          "meaning": "그리고 이집트로 내려갔다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיֵּרֶד יְהוָה",
+          "ipa": "vajˈjerɛd jəhoˈva",
+          "korean": "바예레드 여호와",
+          "meaning": "그리고 여호와께서 내려오셨다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ש-כ-ח",
+      "root_hebrew": "שכח",
+      "strong_number": "H7911",
+      "etymology_simple": "원시 셈어에서 '잊다, 망각하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 단순히 기억하지 못하는 것부터 '무시하다, 소홀히 하다'의 의미까지 포괄하며, זכר(기억하다)의 반대 개념으로 102번 사용됩니다.",
+      "derivatives": []
+    },
+    {
+      "root": "ש-ת-ה",
+      "root_hebrew": "שתה",
+      "strong_number": "H8354",
+      "etymology_simple": "원시 셈어에서 '마시다'를 의미했습니다. 아랍어와 아람어에서 동일한 형태를 공유합니다. 문자 그대로 액체를 마시는 것뿐만 아니라 '흡수하다, 경험하다'의 비유적 의미도 포함하며, אכל(먹다)과 자주 함께 사용됩니다(217번).",
+      "derivatives": []
+    },
+    {
+      "root": "א-ר-ר",
+      "root_hebrew": "ארר",
+      "strong_number": "H779",
+      "etymology_simple": "원시 셈어에서 '저주하다, 저주를 선언하다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. 축복(ברך)의 정반대 개념으로, 하나님의 심판이나 부정적 선언을 나타낼 때 사용됩니다(63번).",
+      "derivatives": [
+        {
+          "hebrew": "אֲשֶׁר אֵרְרָהּ יְהוָה",
+          "ipa": "ʔaˈʃɛr ʔereˈrah ʔadonˈaj",
+          "korean": "아쉐르 에레라 아도나이",
+          "meaning": "여호와께서 저주하신",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אֲרוּרָה הָאֲדָמָה",
+          "ipa": "'arura ha'adama",
+          "korean": "아루라 하아다마",
+          "meaning": "저주받은 땅",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "אָרוּר אַתָּה",
+          "ipa": "ʔaˈrur ʔaˈta",
+          "korean": "아루르 아타",
+          "meaning": "너는 저주받았다",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "אָרוּר",
+          "ipa": "ʔaˈrur",
+          "korean": "아루르",
+          "meaning": "저주받은",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "אָאֹר",
+          "ipa": "ʔaˈʔor",
+          "korean": "아오르",
+          "meaning": "내가 저주하겠다",
+          "grammar": "동사"
+        }
+      ]
+    }
+  ]
+}

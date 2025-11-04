@@ -18,7 +18,8 @@
       "relatedWords": [
         "קְרִיאָה (크리아 - 부름, 낭독)",
         "מִקְרָא (미크라 - 성경)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baikeura.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "לַיַּבָּשָׁה",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "יָבֵשׁ (야베쉬 - 마르다)",
         "חָרָבָה (하라바 - 광야, 황무지)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rayabasya.jpg"
     },
     {
       "hebrew": "אֶרֶץ",
@@ -74,7 +77,8 @@
       "relatedWords": [
         "מִקְוָאוֹת (미크바오트 - 물 웅덩이들)",
         "קִבּוּץ (키부츠 - 모임)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulmikeube.jpg"
     },
     {
       "hebrew": "הַמַּיִם",
@@ -88,7 +92,8 @@
       "relatedWords": [
         "מַבּוּל (마불 - 홍수)",
         "יָם (얌 - 바다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamaim.jpg"
     },
     {
       "hebrew": "קָרָא",
@@ -102,7 +107,8 @@
       "relatedWords": [
         "שֵׁם (쉠 - 이름)",
         "קוֹל (콜 - 소리, 목소리)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kara.jpg"
     },
     {
       "hebrew": "יַמִּים",
@@ -116,7 +122,8 @@
       "relatedWords": [
         "יָם (얌 - 바다)",
         "תְּהוֹם (테홈 - 깊은 바다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yamim.jpg"
     },
     {
       "hebrew": "וַיַּרְא",
@@ -130,7 +137,8 @@
       "relatedWords": [
         "רָאָה (라아 - 보다)",
         "מַרְאֶה (마르에 - 모습, 광경)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayareu.jpg"
     },
     {
       "hebrew": "כִּי-טוֹב",
@@ -144,7 +152,8 @@
       "relatedWords": [
         "טוֹב (토브 - 좋은)",
         "יָפֶה (야페 - 아름다운)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kitobeu.jpg"
     }
   ],
   "commentary": {

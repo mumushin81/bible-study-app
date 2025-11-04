@@ -15,12 +15,12 @@ const supabase = createClient(
 )
 
 async function createStorageBucket() {
-  console.log('📦 hebrew-icons bucket 생성 중...\n')
+  console.log('📦 flashcardimg bucket 생성 중...\n')
 
-  const { data, error } = await supabase.storage.createBucket('hebrew-icons', {
+  const { data, error } = await supabase.storage.createBucket('flashcardimg', {
     public: true,
-    fileSizeLimit: 102400, // 100KB
-    allowedMimeTypes: ['image/jpeg', 'image/jpg']
+    fileSizeLimit: 10 * 1024 * 1024, // 10MB
+    allowedMimeTypes: ['image/jpeg', 'image/jpg', 'image/png']
   })
 
   if (error) {
@@ -32,10 +32,10 @@ async function createStorageBucket() {
     return
   }
 
-  console.log('✅ hebrew-icons bucket 생성 완료!')
+  console.log('✅ flashcardimg bucket 생성 완료!')
   console.log('   - Public: true')
-  console.log('   - Max size: 100KB')
-  console.log('   - MIME types: image/jpeg, image/jpg')
+  console.log('   - Max size: 10MB')
+  console.log('   - MIME types: image/jpeg, image/jpg, image/png')
 }
 
 createStorageBucket()

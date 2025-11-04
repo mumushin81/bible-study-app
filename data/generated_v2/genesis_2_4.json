@@ -18,7 +18,8 @@
       "relatedWords": [
         "אֵל (엘 - 이쪽으로)",
         "זֶה (제 - 이것)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elre.jpg"
     },
     {
       "hebrew": "תוֹלְדוֹת",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "יָלַד (야라드 - 낳다, 출생하다)",
         "דּוֹר (도르 - 세대)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/toldoteu.jpg"
     },
     {
       "hebrew": "הַשָּׁמַיִם וְהָאָרֶץ",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "שָׁמַיִם (샤마임 - 하늘들)",
         "אֶרֶץ (에레츠 - 땅, 대지)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hasyamaimbehaarecheu.jpg"
     },
     {
       "hebrew": "בְּהִבָּרְאָם",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "בָּרָא (바라 - 창조하다)",
         "בְּרִיאָה (브리아 - 창조물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behibaream.jpg"
     },
     {
       "hebrew": "בְּיוֹם",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "יוֹם (욤 - 날, 하루)",
         "הַיּוֹם (하욤 - 오늘)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beyom.jpg"
     },
     {
       "hebrew": "עֲשׂוֹת",
@@ -88,7 +93,8 @@
       "relatedWords": [
         "עָשָׂה (아사 - 만들다, 행하다)",
         "מַעֲשֶׂה (마아세 - 일, 행위)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/asoteu.jpg"
     },
     {
       "hebrew": "יְהוָה אֱלֹהִים",
@@ -102,7 +108,8 @@
       "relatedWords": [
         "יהוה (여호와 - 주님, 스스로 있는 자)",
         "אֱלֹהִים (엘로힘 - 하나님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/adonaielrohim.jpg"
     },
     {
       "hebrew": "אֶרֶץ וְשָׁמָיִם",
@@ -112,7 +119,8 @@
       "letters": "אֶ(ʔɛ) + רֶץ(rets) + וְ(və) + שָׁ(sha) + מָ(ma) + יִם(yim)",
       "root": "אֶרֶץ (에레츠) + שָׁמַיִם (샤마임)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth3\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"60%\" stop-color=\"#43A047\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient><linearGradient id=\"sky3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#64B5F6\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"26\" ry=\"14\" fill=\"url(#earth3)\" filter=\"drop-shadow(0 6px 12px rgba(0, 0, 0, 0.5))\" /><circle cx=\"24\" cy=\"44\" r=\"5\" fill=\"#2196F3\" opacity=\"0.5\" /><circle cx=\"38\" cy=\"48\" r=\"4\" fill=\"#2196F3\" opacity=\"0.4\" /><path d=\"M 20 36 Q 22 32 26 30 Q 30 34 34 32 Q 38 30 42 32\" stroke=\"#558B2F\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><rect x=\"0\" y=\"0\" width=\"64\" height=\"24\" fill=\"url(#sky3)\" opacity=\"0.6\" /><circle cx=\"16\" cy=\"10\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"6\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"12\" r=\"3.5\" fill=\"#FFFFFF\" opacity=\"0.85\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.5))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"32\" ry=\"8\" fill=\"#FFD54F\" opacity=\"0.4\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth3\"><stop offset=\"0%\" stop-color=\"#66BB6A\" /><stop offset=\"60%\" stop-color=\"#43A047\" /><stop offset=\"100%\" stop-color=\"#2E7D32\" /></radialGradient><linearGradient id=\"sky3\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#E3F2FD\" /><stop offset=\"100%\" stop-color=\"#64B5F6\" /></linearGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"26\" ry=\"14\" fill=\"url(#earth3)\" filter=\"drop-shadow(0 6px 12px rgba(0, 0, 0, 0.5))\" /><circle cx=\"24\" cy=\"44\" r=\"5\" fill=\"#2196F3\" opacity=\"0.5\" /><circle cx=\"38\" cy=\"48\" r=\"4\" fill=\"#2196F3\" opacity=\"0.4\" /><path d=\"M 20 36 Q 22 32 26 30 Q 30 34 34 32 Q 38 30 42 32\" stroke=\"#558B2F\" stroke-width=\"3\" fill=\"none\" opacity=\"0.7\" /><rect x=\"0\" y=\"0\" width=\"64\" height=\"24\" fill=\"url(#sky3)\" opacity=\"0.6\" /><circle cx=\"16\" cy=\"10\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.9\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.6))\" /><circle cx=\"32\" cy=\"6\" r=\"2.5\" fill=\"#FFFFFF\" opacity=\"0.8\" /><circle cx=\"48\" cy=\"12\" r=\"3.5\" fill=\"#FFFFFF\" opacity=\"0.85\" filter=\"drop-shadow(0 0 4px rgba(255, 255, 255, 0.5))\" /><ellipse cx=\"32\" cy=\"32\" rx=\"32\" ry=\"8\" fill=\"#FFD54F\" opacity=\"0.4\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/erecheubesyamaim.jpg"
     }
   ],
   "commentary": {

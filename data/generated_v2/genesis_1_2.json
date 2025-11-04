@@ -18,7 +18,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 흙)",
         "עָפָר (아파르 - 먼지)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behaarecheu.jpg"
     },
     {
       "hebrew": "תֹהוּ וָבֹהוּ",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "שְׁאוֹל (쉐올 - 스올, 깊은 곳)",
         "מִדְבָּר (미드바르 - 광야)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tohubabohu.jpg"
     },
     {
       "hebrew": "וְחֹשֶׁךְ",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "לַיְלָה (라일라 - 밤)",
         "אֹפֶל (오펠 - 암흑)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behoswekeu.jpg"
     },
     {
       "hebrew": "תְהוֹם",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "יָם (얌 - 바다)",
         "נָהָר (나하르 - 강)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tehom.jpg"
     },
     {
       "hebrew": "רוּחַ אֱלֹהִים",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "נְשָׁמָה (네샤마 - 숨, 생명)",
         "רוּחַ הַקֹּדֶשׁ (루아흐 하코데쉬 - 성령)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ruaheuelrohim.jpg"
     },
     {
       "hebrew": "מְרַחֶפֶת",
@@ -88,7 +93,8 @@
       "relatedWords": [
         "עוּף (우프 - 날다)",
         "נָשָׂא (나사 - 올리다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/merahepeteu.jpg"
     },
     {
       "hebrew": "הַמָּיִם",
@@ -102,7 +108,8 @@
       "relatedWords": [
         "מַעְיָן (마얀 - 샘)",
         "נָחַל (나할 - 시내)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamaim.jpg"
     }
   ],
   "commentary": {

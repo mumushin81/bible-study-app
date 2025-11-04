@@ -1,7 +1,8 @@
 import { memo, useCallback } from 'react';
 import { Volume2 } from 'lucide-react';
-import { Word, WordWithContext } from '../../../hooks/useWords';
-import HebrewIcon from '../../shared/HebrewIcon';
+import { Word } from '../../../types';
+import type { WordWithContext } from '../../../hooks/useWords';
+import FlashcardImg from '../../shared/HebrewIcon';
 import { speakHebrew } from '../../../utils/wordHelpers';
 import { FlashCardHeader } from './FlashCardHeader';
 import type { WordAnalysisResult } from '../../../hooks/useWordAnalysis';
@@ -55,9 +56,9 @@ export const FlashCardBack = memo(function FlashCardBack({
     >
       {/* 배경 이미지 */}
       <div className="absolute inset-0 z-0">
-        <HebrewIcon
+        <FlashcardImg
           word={word.hebrew}
-          iconUrl={word.iconUrl}
+          flashcardImgUrl={word.flashcardImgUrl}
           className="w-full h-full object-cover"
         />
       </div>
@@ -149,46 +150,7 @@ export const FlashCardBack = memo(function FlashCardBack({
         )}
 
         {/* 어근 분석 */}
-        {word.root && analysis.rootLetters.length > 0 && (
-          <div className="w-full max-w-sm px-4 py-4 bg-amber-50/90 dark:bg-amber-900/30 border-2 border-amber-200/80 dark:border-amber-700/50 rounded-xl backdrop-blur-sm">
-            <div className="text-center mb-3">
-              <div className="text-sm font-bold text-amber-700 dark:text-amber-300 mb-3">
-                🌱 어근 분석
-              </div>
-
-              {/* 어근 히브리어 읽기 시각화 */}
-              <div className="flex justify-center gap-2 sm:gap-3">
-                {analysis.letterPronunciations.map((item, idx) => (
-                  <div key={`root-${idx}`} className="flex flex-col items-center">
-                    <div
-                      className="text-2xl sm:text-3xl font-bold text-amber-900 dark:text-amber-100 mb-1"
-                      dir="rtl"
-                    >
-                      {item.letter}
-                    </div>
-                    <div className="w-px h-4 bg-amber-400 dark:bg-amber-600"></div>
-                    {item.pronunciation && (
-                      <div className="text-sm sm:text-base font-medium text-amber-700 dark:text-amber-300 mt-1">
-                        {item.pronunciation}
-                      </div>
-                    )}
-                  </div>
-                ))}
-              </div>
-            </div>
-
-            <div className="border-t border-amber-300/50 dark:border-amber-600/50 pt-3 mt-3">
-              <div className="text-xs font-semibold text-amber-700 dark:text-amber-300 mb-2 text-center">
-                💡 어근의 핵심 의미
-              </div>
-              <div className="text-sm text-amber-800 dark:text-amber-200 leading-relaxed text-center whitespace-pre-wrap">
-                {'rootEtymology' in word && word.rootEtymology
-                  ? word.rootEtymology.story
-                  : '히브리어의 대부분의 단어는 3개의 자음으로 이루어진 어근에서 파생됩니다. 이 어근을 이해하면 관련된 다른 단어들의 의미도 쉽게 유추할 수 있습니다.'}
-              </div>
-            </div>
-          </div>
-        )}
+        {/* 어근 분석 섹션 제거됨 */}
 
         {/* 구절 출처 (하단) */}
         <div className="mt-auto px-4 py-2 text-sm text-gray-700 dark:text-gray-300 text-center font-medium">

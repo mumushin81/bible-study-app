@@ -1,7 +1,7 @@
 import { memo, useRef, useCallback } from 'react';
 import { motion } from 'framer-motion';
 import { Word } from '../../types';
-import { WordWithContext } from '../../hooks/useWords';
+import type { WordWithContext } from '../../hooks/useWords';
 import {
   getWordColor,
   getSimpleGrammar,

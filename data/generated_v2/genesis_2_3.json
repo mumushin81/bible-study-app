@@ -18,7 +18,8 @@
       "relatedWords": [
         "בְּרָכָה (브라카 - 축복)",
         "בָּרוּךְ (바루크 - 복 받은)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayebarek.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elrohim.jpg"
     },
     {
       "hebrew": "אֶת יוֹם הַשְּׁבִיעִי",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "שַׁבָּת (샤바트 - 안식일)",
         "שָׁבוּעַ (샤부아 - 주간)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuyomhaswibii.jpg"
     },
     {
       "hebrew": "וַיְקַדֵּשׁ",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "קָדוֹשׁ (카도쉬 - 거룩한)",
         "קֹדֶשׁ (코데쉬 - 성소)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayekadeswi.jpg"
     },
     {
       "hebrew": "אֹתוֹ",
@@ -71,7 +75,8 @@
       "root": "אֵת (에트 - 직접 목적어 표지)",
       "grammar": "대명사",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"it1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#87CEEB\" /><stop offset=\"100%\" stop-color=\"#4169E1\" /></linearGradient><radialGradient id=\"it2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#87CEEB\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#it2)\" opacity=\"0.3\" /><path d=\"M 12 32 L 44 32\" stroke=\"url(#it1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 44 32 L 36 26\" stroke=\"url(#it1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 44 32 L 36 38\" stroke=\"url(#it1)\" stroke-width=\"4\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"50\" cy=\"32\" r=\"6\" fill=\"url(#it1)\" filter=\"drop-shadow(0 0 8px rgba(65, 105, 225, 0.7))\" /><circle cx=\"50\" cy=\"32\" r=\"3\" fill=\"#FFFFFF\" opacity=\"0.8\" /></svg>",
-      "relatedWords": []
+      "relatedWords": [],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oto.jpg"
     },
     {
       "hebrew": "כִּי",
@@ -82,7 +87,8 @@
       "root": "כִּי (키)",
       "grammar": "접속사",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"because1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"100%\" stop-color=\"#C41E3A\" /></linearGradient><radialGradient id=\"because2\"><stop offset=\"0%\" stop-color=\"#FFB6C1\" /><stop offset=\"100%\" stop-color=\"#FF69B4\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#because2)\" opacity=\"0.2\" /><path d=\"M 16 20 Q 24 32 16 44\" stroke=\"url(#because1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 30 20 Q 38 32 30 44\" stroke=\"url(#because1)\" stroke-width=\"4\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"48\" cy=\"32\" r=\"8\" fill=\"url(#because1)\" filter=\"drop-shadow(0 0 10px rgba(196, 30, 58, 0.7))\" /><circle cx=\"48\" cy=\"32\" r=\"4\" fill=\"#FFFFFF\" opacity=\"0.6\" /></svg>",
-      "relatedWords": []
+      "relatedWords": [],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ki.jpg"
     },
     {
       "hebrew": "בוֹ",
@@ -93,7 +99,8 @@
       "root": "בְּ (베 - ~안에)",
       "grammar": "전치사",
       "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"in1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFB347\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"in2\"><stop offset=\"0%\" stop-color=\"#FFA500\" stop-opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" stop-opacity=\"0.2\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#in2)\" /><rect x=\"14\" y=\"14\" width=\"36\" height=\"36\" rx=\"4\" fill=\"none\" stroke=\"url(#in1)\" stroke-width=\"4\" filter=\"drop-shadow(2px 2px 6px rgba(0, 0, 0, 0.3))\" /><circle cx=\"32\" cy=\"32\" r=\"10\" fill=\"url(#in1)\" filter=\"drop-shadow(0 0 8px rgba(255, 140, 0, 0.8))\" /><circle cx=\"32\" cy=\"32\" r=\"5\" fill=\"#FFD700\" opacity=\"0.8\" /></svg>",
-      "relatedWords": []
+      "relatedWords": [],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bo.jpg"
     },
     {
       "hebrew": "שָׁבַת",
@@ -107,7 +114,8 @@
       "relatedWords": [
         "שַׁבָּת (샤바트 - 안식일)",
         "שְׁבִיתָה (쉬비타 - 휴식)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/syabateu.jpg"
     },
     {
       "hebrew": "מִכָּל מְלַאכְתּוֹ",
@@ -121,7 +129,8 @@
       "relatedWords": [
         "מַעֲשֶׂה (마아세 - 행위, 작품)",
         "עֲבוֹדָה (아보다 - 일, 섬김)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mikolmelrakto.jpg"
     },
     {
       "hebrew": "אֲשֶׁר בָּרָא",
@@ -135,7 +144,8 @@
       "relatedWords": [
         "בְּרִיאָה (브리아 - 창조)",
         "בּוֹרֵא (보레 - 창조주)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/asyereubara.jpg"
     },
     {
       "hebrew": "לַעֲשׂוֹת",
@@ -149,7 +159,8 @@
       "relatedWords": [
         "מַעֲשֶׂה (마아세 - 행위)",
         "עוֹשֶׂה (오세 - 행하는 자)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/raasoteu.jpg"
     }
   ],
   "commentary": {

@@ -27,17 +27,20 @@ export function useLocalStorage<T>(
   const setValue = useCallback(
     (value: T | ((prev: T) => T)) => {
       try {
-        const valueToStore = value instanceof Function ? value(storedValue) : value;
-        setStoredValue(valueToStore);
+        setStoredValue(prev => {
+          const next = value instanceof Function ? value(prev) : value;
 
-        if (typeof window !== 'undefined') {
-          window.localStorage.setItem(key, JSON.stringify(valueToStore));
-        }
+          if (typeof window !== 'undefined') {
+            window.localStorage.setItem(key, JSON.stringify(next));
+          }
+
+          return next;
+        });
       } catch (error) {
         console.error(`Failed to save localStorage key "${key}":`, error);
       }
     },
-    [key, storedValue]
+    [key]
   );
 
   // 다른 탭/창에서 변경을 감지

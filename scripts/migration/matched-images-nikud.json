@@ -1,0 +1,1701 @@
+{
+  "matched": [
+    {
+      "hebrew": "אָדָם",
+      "filename": "אדם.jpg",
+      "korean": "아담",
+      "ipa": "ʔaˈdam",
+      "meaning": "사람, 인간",
+      "verseId": "genesis_1_26",
+      "romanized": "adam",
+      "supabaseFilename": "adam.jpg"
+    },
+    {
+      "hebrew": "אוֹר",
+      "filename": "אור.jpg",
+      "korean": "오르",
+      "ipa": "ˈʔor",
+      "meaning": "빛",
+      "verseId": "genesis_1_3",
+      "romanized": "oreu",
+      "supabaseFilename": "oreu.jpg"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "filename": "אלהים.jpg",
+      "korean": "엘로힘",
+      "ipa": "ʔɛloˈhim",
+      "meaning": "하나님",
+      "verseId": "genesis_1_1",
+      "romanized": "elrohim",
+      "supabaseFilename": "elrohim.jpg"
+    },
+    {
+      "hebrew": "אֶל־מָקוֹם אֶחָד",
+      "filename": "אלמקום_אחד.jpg",
+      "korean": "엘 마콤 에하드",
+      "ipa": "ʔɛl maˈkom ʔɛˈħad",
+      "meaning": "한 곳으로",
+      "verseId": "genesis_1_9",
+      "romanized": "elmakomehadeu",
+      "supabaseFilename": "elmakomehadeu.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר-בּוֹ נֶפֶשׁ חַיָּה",
+      "filename": "אשר-בו_נפש_חיה.jpg",
+      "korean": "아쉐르 보 네페쉬 하야",
+      "ipa": "ʔaˈʃɛr bo ˈnɛfɛʃ χajˈja",
+      "meaning": "그 안에 생명이 있는",
+      "verseId": "genesis_1_30",
+      "romanized": "aswereubonepeswihaya",
+      "supabaseFilename": "aswereubonepeswihaya.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר זַרְעוֹ-בוֹ",
+      "filename": "אשר_זרעו-בו.jpg",
+      "korean": "아쉐르 자르오 보",
+      "ipa": "ʔaˈʃɛr zarˈʕo vo",
+      "meaning": "그 씨가 그 안에 있는",
+      "verseId": "genesis_1_11",
+      "romanized": "aswereujareuobo",
+      "supabaseFilename": "aswereujareuobo.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר מֵעַל",
+      "filename": "אשר_מעל.jpg",
+      "korean": "아쉐르 메알",
+      "ipa": "ʔaˈʃɛr meˈʕal",
+      "meaning": "위에 있는",
+      "verseId": "genesis_1_7",
+      "romanized": "aswereumeal",
+      "supabaseFilename": "aswereumeal.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר מִתַּחַת",
+      "filename": "אשר_מתחת.jpg",
+      "korean": "아쉐르 미타하트",
+      "ipa": "ʔaˈʃɛr mitˈtaχat",
+      "meaning": "아래에 있는",
+      "verseId": "genesis_1_7",
+      "romanized": "aswereumitahateu",
+      "supabaseFilename": "aswereumitahateu.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר עָשָׂה",
+      "filename": "אשר_עשה.jpg",
+      "korean": "아쉐르 아사",
+      "ipa": "ʔaˈʃɛr ʕaˈsa",
+      "meaning": "그가 만드신",
+      "verseId": "genesis_1_31",
+      "romanized": "aswereuasa",
+      "supabaseFilename": "aswereuasa.jpg"
+    },
+    {
+      "hebrew": "אֶת-הָאָדָם",
+      "filename": "את-האדם.jpg",
+      "korean": "에트 하아담",
+      "ipa": "ʔɛt haʔaˈdam",
+      "meaning": "사람을",
+      "verseId": "genesis_1_27",
+      "romanized": "eteuhaadam",
+      "supabaseFilename": "eteuhaadam.jpg"
+    },
+    {
+      "hebrew": "אֶת-הָאוֹר",
+      "filename": "את-האור.jpg",
+      "korean": "에트 하오르",
+      "ipa": "ʔɛt haˈʔor",
+      "meaning": "그 빛을",
+      "verseId": "genesis_1_4",
+      "romanized": "eteuhaoreu",
+      "supabaseFilename": "eteuhaoreu.jpg"
+    },
+    {
+      "hebrew": "אֶת-הָרָקִיעַ",
+      "filename": "את-הרקיע.jpg",
+      "korean": "에트 하라키아",
+      "ipa": "ʔɛt haraˈkiaʕ",
+      "meaning": "궁창을",
+      "verseId": "genesis_1_7",
+      "romanized": "eteuharakia",
+      "supabaseFilename": "eteuharakia.jpg"
+    },
+    {
+      "hebrew": "אֶת-הַתַּנִּינִם",
+      "filename": "את-התנינם.jpg",
+      "korean": "에트 하타니님",
+      "ipa": "ʔɛt hattanniˈnim",
+      "meaning": "바다 괴물들을",
+      "verseId": "genesis_1_21",
+      "romanized": "eteuhataninim",
+      "supabaseFilename": "eteuhataninim.jpg"
+    },
+    {
+      "hebrew": "אֶת-כָּל-יֶרֶק עֵשֶׂב",
+      "filename": "את-כל-ירק_עשב.jpg",
+      "korean": "에트 콜 예레크 에세브",
+      "ipa": "ʔɛt kol ˈjɛrɛq ˈɛsɛv",
+      "meaning": "모든 푸른 풀을",
+      "verseId": "genesis_1_30",
+      "romanized": "eteukolyerekeuesebeu",
+      "supabaseFilename": "eteukolyerekeuesebeu.jpg"
+    },
+    {
+      "hebrew": "אֵת",
+      "filename": "את.jpg",
+      "korean": "에트",
+      "ipa": "ʔet",
+      "meaning": "~을/를 (목적격 표지)",
+      "verseId": "genesis_1_1",
+      "romanized": "eteu",
+      "supabaseFilename": "eteu.jpg"
+    },
+    {
+      "hebrew": "אֶת כָּל",
+      "filename": "את_כל.jpg",
+      "korean": "에트 콜",
+      "ipa": "ʔet kol",
+      "meaning": "모든 것을",
+      "verseId": "genesis_1_31",
+      "romanized": "eteukol",
+      "supabaseFilename": "eteukol.jpg"
+    },
+    {
+      "hebrew": "אֶת־הָאָרֶץ",
+      "filename": "אתהארץ.jpg",
+      "korean": "에트 하아레츠",
+      "ipa": "ʔɛt haˈʔarɛts",
+      "meaning": "땅을",
+      "verseId": "genesis_1_28",
+      "romanized": "eteuhaarecheu",
+      "supabaseFilename": "eteuhaarecheu.jpg"
+    },
+    {
+      "hebrew": "אֶת־הַמַּיִם",
+      "filename": "אתהמים.jpg",
+      "korean": "에트 하마임",
+      "ipa": "ʔɛt haˈmajim",
+      "meaning": "물을",
+      "verseId": "genesis_1_22",
+      "romanized": "eteuhamaim",
+      "supabaseFilename": "eteuhamaim.jpg"
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "filename": "אתו.jpg",
+      "korean": "오토",
+      "ipa": "ˈʔoto",
+      "meaning": "그를",
+      "verseId": "genesis_1_27",
+      "romanized": "oto",
+      "supabaseFilename": "oto.jpg"
+    },
+    {
+      "hebrew": "אֹתָם",
+      "filename": "אתם.jpg",
+      "korean": "오탐",
+      "ipa": "ʔoˈtam",
+      "meaning": "그것들을",
+      "verseId": "genesis_1_17",
+      "romanized": "otam",
+      "supabaseFilename": "otam.jpg"
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "filename": "בארץ.jpg",
+      "korean": "바아레츠",
+      "ipa": "baˈʔarɛts",
+      "meaning": "땅에서",
+      "verseId": "genesis_1_22",
+      "romanized": "baarecheu",
+      "supabaseFilename": "baarecheu.jpg"
+    },
+    {
+      "hebrew": "בְּהֵמָה",
+      "filename": "בהמה.jpg",
+      "korean": "베헤마",
+      "ipa": "bəheˈma",
+      "meaning": "가축",
+      "verseId": "genesis_1_24",
+      "romanized": "behema",
+      "supabaseFilename": "behema.jpg"
+    },
+    {
+      "hebrew": "בַּיּוֹם",
+      "filename": "ביום.jpg",
+      "korean": "바욤",
+      "ipa": "bajˈjom",
+      "meaning": "낮에",
+      "verseId": "genesis_1_18",
+      "romanized": "bayom",
+      "supabaseFilename": "bayom.jpg"
+    },
+    {
+      "hebrew": "בַּיַּמִּים",
+      "filename": "בימים.jpg",
+      "korean": "바야밈",
+      "ipa": "bajamˈmim",
+      "meaning": "바다들에서",
+      "verseId": "genesis_1_22",
+      "romanized": "bayamim",
+      "supabaseFilename": "bayamim.jpg"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר",
+      "filename": "בין_האור.jpg",
+      "korean": "벤 하오르",
+      "ipa": "ben haˈʔor",
+      "meaning": "빛 사이",
+      "verseId": "genesis_1_18",
+      "romanized": "benhaoreu",
+      "supabaseFilename": "benhaoreu.jpg"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ",
+      "filename": "בין_האור_ובין_החשך.jpg",
+      "korean": "벤 하오르 우벤 하호쉐크",
+      "ipa": "ben haˈʔor uven haˈħoʃɛk",
+      "meaning": "빛과 어둠 사이를",
+      "verseId": "genesis_1_4",
+      "romanized": "benhaoreuubenhahoswekeu",
+      "supabaseFilename": "benhaoreuubenhahoswekeu.jpg"
+    },
+    {
+      "hebrew": "בֵּין הַיּוֹם",
+      "filename": "בין_היום.jpg",
+      "korean": "벤 하욤",
+      "ipa": "ben hajˈjom",
+      "meaning": "낮 사이에",
+      "verseId": "genesis_1_14",
+      "romanized": "benhayom",
+      "supabaseFilename": "benhayom.jpg"
+    },
+    {
+      "hebrew": "בֵּין הַמַּיִם",
+      "filename": "בין_המים.jpg",
+      "korean": "벤 하마임",
+      "ipa": "ben hamˈmajim",
+      "meaning": "물들 사이를",
+      "verseId": "genesis_1_7",
+      "romanized": "benhamaim",
+      "supabaseFilename": "benhamaim.jpg"
+    },
+    {
+      "hebrew": "בֵּין מַיִם לָמָיִם",
+      "filename": "בין_מים_למים.jpg",
+      "korean": "벤 마임 라마임",
+      "ipa": "ben ˈmajim laˈmajim",
+      "meaning": "물과 물 사이",
+      "verseId": "genesis_1_6",
+      "romanized": "benmaimramaim",
+      "supabaseFilename": "benmaimramaim.jpg"
+    },
+    {
+      "hebrew": "בְּצֶלֶם אֱלֹהִים",
+      "filename": "בצלם_אלהים.jpg",
+      "korean": "베첼렘 엘로힘",
+      "ipa": "bəˈtsɛlɛm ʔɛloˈhim",
+      "meaning": "하나님의 형상대로",
+      "verseId": "genesis_1_27",
+      "romanized": "bechelremelrohim",
+      "supabaseFilename": "bechelremelrohim.jpg"
+    },
+    {
+      "hebrew": "בְּצַלְמוֹ",
+      "filename": "בצלמו.jpg",
+      "korean": "베찰모",
+      "ipa": "bətsalˈmo",
+      "meaning": "그의 형상대로",
+      "verseId": "genesis_1_27",
+      "romanized": "bechalmo",
+      "supabaseFilename": "bechalmo.jpg"
+    },
+    {
+      "hebrew": "בְּצַלְמֵנוּ",
+      "filename": "בצלמנו.jpg",
+      "korean": "베짤메누",
+      "ipa": "bətsalˈmenu",
+      "meaning": "우리의 형상으로",
+      "verseId": "genesis_1_26",
+      "romanized": "bejjalmenu",
+      "supabaseFilename": "bejjalmenu.jpg"
+    },
+    {
+      "hebrew": "בֹ֖קֶר",
+      "filename": "בקר.jpg",
+      "korean": "보케르",
+      "ipa": "ˈboqɛr",
+      "meaning": "아침",
+      "verseId": "genesis_1_13",
+      "romanized": "bokereu",
+      "supabaseFilename": "bokereu.jpg"
+    },
+    {
+      "hebrew": "בָּרָא",
+      "filename": "ברא.jpg",
+      "korean": "바라",
+      "ipa": "baˈra",
+      "meaning": "창조하셨다",
+      "verseId": "genesis_1_1",
+      "romanized": "bara",
+      "supabaseFilename": "bara.jpg"
+    },
+    {
+      "hebrew": "בָּרָא אֹתָם",
+      "filename": "ברא_אתם.jpg",
+      "korean": "바라 오탐",
+      "ipa": "baˈra ʔoˈtam",
+      "meaning": "그들을 창조하셨다",
+      "verseId": "genesis_1_27",
+      "romanized": "baraotam",
+      "supabaseFilename": "baraotam.jpg"
+    },
+    {
+      "hebrew": "בְּרֵאשִׁית",
+      "filename": "בראשית.jpg",
+      "korean": "베레쉬트",
+      "ipa": "bəreʃit",
+      "meaning": "태초에, 처음에",
+      "verseId": "genesis_1_1",
+      "romanized": "bereswiteu",
+      "supabaseFilename": "bereswiteu.jpg"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ",
+      "filename": "ברקיע.jpg",
+      "korean": "비르키아",
+      "ipa": "birˈqiaʕ",
+      "meaning": "궁창에",
+      "verseId": "genesis_1_14",
+      "romanized": "bireukia",
+      "supabaseFilename": "bireukia.jpg"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
+      "filename": "ברקיע_השמים.jpg",
+      "korean": "비르키아 하샤마임",
+      "ipa": "birˈkiaʕ haʃaˈmajim",
+      "meaning": "하늘의 궁창에",
+      "verseId": "genesis_1_17",
+      "romanized": "bireukiahasyamaim",
+      "supabaseFilename": "bireukiahasyamaim.jpg"
+    },
+    {
+      "hebrew": "בְּתוֹךְ",
+      "filename": "בתוך.jpg",
+      "korean": "베토크",
+      "ipa": "bəˈtox",
+      "meaning": "한가운데, 가운데",
+      "verseId": "genesis_1_6",
+      "romanized": "betokeu",
+      "supabaseFilename": "betokeu.jpg"
+    },
+    {
+      "hebrew": "דְגַת הַיָּם",
+      "filename": "דגת_הים.jpg",
+      "korean": "드갓 하얌",
+      "ipa": "dəˈgat hajˈjam",
+      "meaning": "바다의 물고기",
+      "verseId": "genesis_1_26",
+      "romanized": "deugashayam",
+      "supabaseFilename": "deugashayam.jpg"
+    },
+    {
+      "hebrew": "דֶּשֶׁא",
+      "filename": "דשא.jpg",
+      "korean": "데쉐",
+      "ipa": "ˈdɛʃɛʔ",
+      "meaning": "풀, 푸른 식물",
+      "verseId": "genesis_1_11",
+      "romanized": "deswe",
+      "supabaseFilename": "deswe.jpg"
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "filename": "הארץ.jpg",
+      "korean": "하아레츠",
+      "ipa": "haˈʔarɛts",
+      "meaning": "땅",
+      "verseId": "genesis_1_1",
+      "romanized": "haarecheu",
+      "supabaseFilename": "haarecheu.jpg"
+    },
+    {
+      "hebrew": "הַגְּדֹלִים",
+      "filename": "הגדלים.jpg",
+      "korean": "하그돌림",
+      "ipa": "haggəðoˈlim",
+      "meaning": "큰, 거대한",
+      "verseId": "genesis_1_21",
+      "romanized": "hageudolrim",
+      "supabaseFilename": "hageudolrim.jpg"
+    },
+    {
+      "hebrew": "הַיַּבָּשָׁה",
+      "filename": "היבשה.jpg",
+      "korean": "하야바샤",
+      "ipa": "hajabːaˈʃa",
+      "meaning": "마른 땅",
+      "verseId": "genesis_1_9",
+      "romanized": "hayabasya",
+      "supabaseFilename": "hayabasya.jpg"
+    },
+    {
+      "hebrew": "הַכּוֹכָבִים",
+      "filename": "הכוכבים.jpg",
+      "korean": "하코카빔",
+      "ipa": "hakːoχaˈvim",
+      "meaning": "별들",
+      "verseId": "genesis_1_16",
+      "romanized": "hakokabim",
+      "supabaseFilename": "hakokabim.jpg"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַגָּדֹל",
+      "filename": "המאור_הגדל.jpg",
+      "korean": "함아오르 하가돌",
+      "ipa": "hamːaˈʔor hagːaˈðol",
+      "meaning": "큰 광명체",
+      "verseId": "genesis_1_16",
+      "romanized": "hamaoreuhagadol",
+      "supabaseFilename": "hamaoreuhagadol.jpg"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַקָּטֹן",
+      "filename": "המאור_הקטן.jpg",
+      "korean": "함아오르 하카톤",
+      "ipa": "hamːaˈʔor hakːaˈton",
+      "meaning": "작은 광명체",
+      "verseId": "genesis_1_16",
+      "romanized": "hamaoreuhakaton",
+      "supabaseFilename": "hamaoreuhakaton.jpg"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "filename": "המים.jpg",
+      "korean": "하마임",
+      "ipa": "hamːaˈjim",
+      "meaning": "물들",
+      "verseId": "genesis_1_10",
+      "romanized": "hamaim",
+      "supabaseFilename": "hamaim.jpg"
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "filename": "הנה.jpg",
+      "korean": "힌네",
+      "ipa": "hinˈne",
+      "meaning": "보라",
+      "verseId": "genesis_1_29",
+      "romanized": "hinne",
+      "supabaseFilename": "hinne.jpg"
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "filename": "העץ.jpg",
+      "korean": "하에츠",
+      "ipa": "haˈʔets",
+      "meaning": "나무",
+      "verseId": "genesis_1_29",
+      "romanized": "haecheu",
+      "supabaseFilename": "haecheu.jpg"
+    },
+    {
+      "hebrew": "הָרֶמֶשׂ",
+      "filename": "הרמש.jpg",
+      "korean": "하레메스",
+      "ipa": "haˈrɛmɛs",
+      "meaning": "기는 것",
+      "verseId": "genesis_1_26",
+      "romanized": "haremeseu",
+      "supabaseFilename": "haremeseu.jpg"
+    },
+    {
+      "hebrew": "הָרֹמֶשֶׂת",
+      "filename": "הרמשת.jpg",
+      "korean": "하로메세트",
+      "ipa": "haroˈmɛsɛt",
+      "meaning": "기어다니는, 번식하는",
+      "verseId": "genesis_1_21",
+      "romanized": "haromeseteu",
+      "supabaseFilename": "haromeseteu.jpg"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "filename": "השמים.jpg",
+      "korean": "하샤마임",
+      "ipa": "haʃaˈmajim",
+      "meaning": "하늘들",
+      "verseId": "genesis_1_1",
+      "romanized": "hasyamaim",
+      "supabaseFilename": "hasyamaim.jpg"
+    },
+    {
+      "hebrew": "וְאֵת",
+      "filename": "ואת.jpg",
+      "korean": "베에트",
+      "ipa": "vəʔet",
+      "meaning": "그리고 ~을/를",
+      "verseId": "genesis_1_1",
+      "romanized": "beeteu",
+      "supabaseFilename": "beeteu.jpg"
+    },
+    {
+      "hebrew": "וּבֵין הַחֹשֶׁךְ",
+      "filename": "ובין_החשך.jpg",
+      "korean": "우벤 하호쉐크",
+      "ipa": "uven haˈχoʃɛχ",
+      "meaning": "그리고 어둠 사이",
+      "verseId": "genesis_1_18",
+      "romanized": "ubenhahoswekeu",
+      "supabaseFilename": "ubenhahoswekeu.jpg"
+    },
+    {
+      "hebrew": "וּבֵין הַלָּיְלָה",
+      "filename": "ובין_הלילה.jpg",
+      "korean": "우벤 할라일라",
+      "ipa": "uven halˈlajla",
+      "meaning": "그리고 밤 사이에",
+      "verseId": "genesis_1_14",
+      "romanized": "ubenhalrailra",
+      "supabaseFilename": "ubenhalrailra.jpg"
+    },
+    {
+      "hebrew": "וּבֵין הַמַּיִם",
+      "filename": "ובין_המים.jpg",
+      "korean": "우벤 하마임",
+      "ipa": "uven hamˈmajim",
+      "meaning": "그리고 물들 사이를",
+      "verseId": "genesis_1_7",
+      "romanized": "ubenhamaim",
+      "supabaseFilename": "ubenhamaim.jpg"
+    },
+    {
+      "hebrew": "וּבְכָל־חַיָּה",
+      "filename": "ובכלחיה.jpg",
+      "korean": "우베콜 하야",
+      "ipa": "uvəχol ˈχajja",
+      "meaning": "그리고 모든 생물",
+      "verseId": "genesis_1_28",
+      "romanized": "ubekolhaya",
+      "supabaseFilename": "ubekolhaya.jpg"
+    },
+    {
+      "hebrew": "וּבַלַּיְלָה",
+      "filename": "ובלילה.jpg",
+      "korean": "우발라일라",
+      "ipa": "uvalˈlajla",
+      "meaning": "그리고 밤에",
+      "verseId": "genesis_1_18",
+      "romanized": "ubalrailra",
+      "supabaseFilename": "ubalrailra.jpg"
+    },
+    {
+      "hebrew": "וּבְעוֹף הַשָּׁמַיִם",
+      "filename": "ובעוף_השמים.jpg",
+      "korean": "우베오프 하샤마임",
+      "ipa": "uvəˈʔof haʃaˈmajim",
+      "meaning": "그리고 하늘의 새",
+      "verseId": "genesis_1_28",
+      "romanized": "ubeopeuhasyamaim",
+      "supabaseFilename": "ubeopeuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "filename": "והארץ.jpg",
+      "korean": "베하아레츠",
+      "ipa": "vəhaˈʔarɛts",
+      "meaning": "그리고 땅은",
+      "verseId": "genesis_1_2",
+      "romanized": "behaarecheu",
+      "supabaseFilename": "behaarecheu.jpg"
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "filename": "והיו.jpg",
+      "korean": "베하유",
+      "ipa": "vəhaˈju",
+      "meaning": "그리고 있을 것이다, 될 것이다",
+      "verseId": "genesis_1_14",
+      "romanized": "behayu",
+      "supabaseFilename": "behayu.jpg"
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "filename": "והנה.jpg",
+      "korean": "베힌네",
+      "ipa": "vəhinˈne",
+      "meaning": "그리고 보라",
+      "verseId": "genesis_1_31",
+      "romanized": "behinne",
+      "supabaseFilename": "behinne.jpg"
+    },
+    {
+      "hebrew": "וְהָעוֹף",
+      "filename": "והעוף.jpg",
+      "korean": "베하오프",
+      "ipa": "vəhaˈʕof",
+      "meaning": "그리고 새들은",
+      "verseId": "genesis_1_22",
+      "romanized": "behaopeu",
+      "supabaseFilename": "behaopeu.jpg"
+    },
+    {
+      "hebrew": "וְחַיְתוֹ-אֶרֶץ",
+      "filename": "וחיתו-ארץ.jpg",
+      "korean": "베하예토 에레츠",
+      "ipa": "vəχajəˈto ˈʔɛrɛts",
+      "meaning": "그리고 땅의 짐승",
+      "verseId": "genesis_1_24",
+      "romanized": "behayetoerecheu",
+      "supabaseFilename": "behayetoerecheu.jpg"
+    },
+    {
+      "hebrew": "וְחֹשֶׁךְ",
+      "filename": "וחשך.jpg",
+      "korean": "베호쉐크",
+      "ipa": "vəˈχoʃɛχ",
+      "meaning": "그리고 어둠",
+      "verseId": "genesis_1_2",
+      "romanized": "behoswekeu",
+      "supabaseFilename": "behoswekeu.jpg"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "filename": "ויאמר.jpg",
+      "korean": "바요메르",
+      "ipa": "vajˈjomɛr",
+      "meaning": "그리고 말씀하셨다",
+      "verseId": "genesis_1_11",
+      "romanized": "bayomereu",
+      "supabaseFilename": "bayomereu.jpg"
+    },
+    {
+      "hebrew": "וַיַּבְדֵּל",
+      "filename": "ויבדל.jpg",
+      "korean": "바야브델",
+      "ipa": "vajjavˈdel",
+      "meaning": "나누셨다",
+      "verseId": "genesis_1_4",
+      "romanized": "bayabeudel",
+      "supabaseFilename": "bayabeudel.jpg"
+    },
+    {
+      "hebrew": "וַיִּבְרָא",
+      "filename": "ויברא.jpg",
+      "korean": "바이브라",
+      "ipa": "vajjivˈra",
+      "meaning": "그리고 창조하셨다",
+      "verseId": "genesis_1_21",
+      "romanized": "baibeura",
+      "supabaseFilename": "baibeura.jpg"
+    },
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "filename": "ויברך.jpg",
+      "korean": "바예바레크",
+      "ipa": "vajəˈvarɛx",
+      "meaning": "그리고 복을 주셨다",
+      "verseId": "genesis_1_22",
+      "romanized": "bayebarekeu",
+      "supabaseFilename": "bayebarekeu.jpg"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "filename": "ויהי-כן.jpg",
+      "korean": "바예히 켄",
+      "ipa": "vajəˈhi xen",
+      "meaning": "그대로 되었다",
+      "verseId": "genesis_1_11",
+      "romanized": "bayehiken",
+      "supabaseFilename": "bayehiken.jpg"
+    },
+    {
+      "hebrew": "וַֽיְהִי",
+      "filename": "ויהי.jpg",
+      "korean": "바예히",
+      "ipa": "vajəˈhi",
+      "meaning": "그리고 있었다, 되었다",
+      "verseId": "genesis_1_13",
+      "romanized": "bayehi",
+      "supabaseFilename": "bayehi.jpg"
+    },
+    {
+      "hebrew": "וַיְהִי בֹקֶר",
+      "filename": "ויהי_בקר.jpg",
+      "korean": "바예히 보케르",
+      "ipa": "vajəˈhi ˈvoqɛr",
+      "meaning": "그리고 아침이 되니",
+      "verseId": "genesis_1_31",
+      "romanized": "bayehibokereu",
+      "supabaseFilename": "bayehibokereu.jpg"
+    },
+    {
+      "hebrew": "וַיְהִי עֶרֶב",
+      "filename": "ויהי_ערב.jpg",
+      "korean": "바예히 에레브",
+      "ipa": "vajəˈhi ˈʕɛrɛv",
+      "meaning": "그리고 저녁이 되고",
+      "verseId": "genesis_1_31",
+      "romanized": "bayehierebeu",
+      "supabaseFilename": "bayehierebeu.jpg"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "filename": "ויהיכן.jpg",
+      "korean": "바예히 켄",
+      "ipa": "vajəˈhi xen",
+      "meaning": "그대로 되었다",
+      "verseId": "genesis_1_11",
+      "romanized": "bayehiken",
+      "supabaseFilename": "bayehiken.jpg"
+    },
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "filename": "ויעש.jpg",
+      "korean": "바야아스",
+      "ipa": "vajˈjaʕaʂ",
+      "meaning": "그리고 만드셨다",
+      "verseId": "genesis_1_16",
+      "romanized": "bayaaseu",
+      "supabaseFilename": "bayaaseu.jpg"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "filename": "ויקרא.jpg",
+      "korean": "바이크라",
+      "ipa": "vajjiqˈra",
+      "meaning": "그리고 부르셨다",
+      "verseId": "genesis_1_10",
+      "romanized": "baikeura",
+      "supabaseFilename": "baikeura.jpg"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "filename": "וירא.jpg",
+      "korean": "바야르",
+      "ipa": "vajːarˈʔ",
+      "meaning": "그리고 보셨다",
+      "verseId": "genesis_1_10",
+      "romanized": "bayareu",
+      "supabaseFilename": "bayareu.jpg"
+    },
+    {
+      "hebrew": "וַיַּרְא אֱלֹהִים",
+      "filename": "וירא_אלהים.jpg",
+      "korean": "바야르 엘로힘",
+      "ipa": "vajˈjarʔ ʔɛloˈhim",
+      "meaning": "하나님께서 보셨다",
+      "verseId": "genesis_1_12",
+      "romanized": "bayareuelrohim",
+      "supabaseFilename": "bayareuelrohim.jpg"
+    },
+    {
+      "hebrew": "וְיִרְדּוּ",
+      "filename": "וירדו.jpg",
+      "korean": "베이르두",
+      "ipa": "vəjirˈdu",
+      "meaning": "그리고 다스리게 하자",
+      "verseId": "genesis_1_26",
+      "romanized": "beireudu",
+      "supabaseFilename": "beireudu.jpg"
+    },
+    {
+      "hebrew": "וַיִּתֵּן",
+      "filename": "ויתן.jpg",
+      "korean": "바이텐",
+      "ipa": "vajitˈten",
+      "meaning": "그리고 두셨다, 두시다",
+      "verseId": "genesis_1_17",
+      "romanized": "baiten",
+      "supabaseFilename": "baiten.jpg"
+    },
+    {
+      "hebrew": "וְכִבְשֻׁהָ",
+      "filename": "וכבשה.jpg",
+      "korean": "베킵슈하",
+      "ipa": "vəχivˈʃuha",
+      "meaning": "그리고 정복하라",
+      "verseId": "genesis_1_28",
+      "romanized": "bekibsyuha",
+      "supabaseFilename": "bekibsyuha.jpg"
+    },
+    {
+      "hebrew": "וּלְהַבְדִּיל",
+      "filename": "ולהבדיל.jpg",
+      "korean": "울하브딜",
+      "ipa": "ulhavˈdil",
+      "meaning": "나누게 하다",
+      "verseId": "genesis_1_18",
+      "romanized": "ulhabeudil",
+      "supabaseFilename": "ulhabeudil.jpg"
+    },
+    {
+      "hebrew": "וְלַחֹשֶׁךְ",
+      "filename": "ולחשך.jpg",
+      "korean": "베라호쉐크",
+      "ipa": "vəlaˈχoʃɛχ",
+      "meaning": "그리고 어둠에게",
+      "verseId": "genesis_1_5",
+      "romanized": "berahoswekeu",
+      "supabaseFilename": "berahoswekeu.jpg"
+    },
+    {
+      "hebrew": "וּלְיָמִים",
+      "filename": "ולימים.jpg",
+      "korean": "울야밈",
+      "ipa": "uləjaˈmim",
+      "meaning": "그리고 날들을 위하여",
+      "verseId": "genesis_1_14",
+      "romanized": "ulyamim",
+      "supabaseFilename": "ulyamim.jpg"
+    },
+    {
+      "hebrew": "וּלְכָל-חַיַּת הָאָרֶץ",
+      "filename": "ולכל-חית_הארץ.jpg",
+      "korean": "울콜 하야트 하아레츠",
+      "ipa": "uləχol χajat haˈʔarɛts",
+      "meaning": "그리고 땅의 모든 짐승에게",
+      "verseId": "genesis_1_30",
+      "romanized": "ulkolhayateuhaarecheu",
+      "supabaseFilename": "ulkolhayateuhaarecheu.jpg"
+    },
+    {
+      "hebrew": "וּלְכָל-עוֹף הַשָּׁמַיִם",
+      "filename": "ולכל-עוף_השמים.jpg",
+      "korean": "울콜 오프 하샤마임",
+      "ipa": "uləχol ʕof haʃaˈmajim",
+      "meaning": "그리고 하늘의 모든 새에게",
+      "verseId": "genesis_1_30",
+      "romanized": "ulkolopeuhasyamaim",
+      "supabaseFilename": "ulkolopeuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "וּלְכֹל רוֹמֵשׂ עַל-הָאָרֶץ",
+      "filename": "ולכל_רומש_על-הארץ.jpg",
+      "korean": "울콜 로메스 알 하아레츠",
+      "ipa": "uləχol romes ʕal haˈʔarɛts",
+      "meaning": "그리고 땅 위를 기어다니는 모든 것에게",
+      "verseId": "genesis_1_30",
+      "romanized": "ulkolromeseualhaarecheu",
+      "supabaseFilename": "ulkolromeseualhaarecheu.jpg"
+    },
+    {
+      "hebrew": "וּלְמוֹעֲדִים",
+      "filename": "ולמועדים.jpg",
+      "korean": "울모아딤",
+      "ipa": "ulmoʕaˈdim",
+      "meaning": "그리고 절기들을 위하여",
+      "verseId": "genesis_1_14",
+      "romanized": "ulmoadim",
+      "supabaseFilename": "ulmoadim.jpg"
+    },
+    {
+      "hebrew": "וּלְמִקְוֵה",
+      "filename": "ולמקוה.jpg",
+      "korean": "울미크베",
+      "ipa": "uləmiqˈveh",
+      "meaning": "그리고 모임에",
+      "verseId": "genesis_1_10",
+      "romanized": "ulmikeube",
+      "supabaseFilename": "ulmikeube.jpg"
+    },
+    {
+      "hebrew": "וְלִמְשֹׁל",
+      "filename": "ולמשל.jpg",
+      "korean": "베림쇼르",
+      "ipa": "vəlimˈʃol",
+      "meaning": "다스리게 하다",
+      "verseId": "genesis_1_18",
+      "romanized": "berimsyoreu",
+      "supabaseFilename": "berimsyoreu.jpg"
+    },
+    {
+      "hebrew": "וּמִלְאוּ",
+      "filename": "ומלאו.jpg",
+      "korean": "우밀우",
+      "ipa": "umiləˈʔu",
+      "meaning": "그리고 충만하라",
+      "verseId": "genesis_1_22",
+      "romanized": "umilu",
+      "supabaseFilename": "umilu.jpg"
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "filename": "ונקבה.jpg",
+      "korean": "우네케바",
+      "ipa": "unəqeˈva",
+      "meaning": "그리고 여자",
+      "verseId": "genesis_1_27",
+      "romanized": "unekeba",
+      "supabaseFilename": "unekeba.jpg"
+    },
+    {
+      "hebrew": "וְעוֹף",
+      "filename": "ועוף.jpg",
+      "korean": "베오프",
+      "ipa": "vəˈof",
+      "meaning": "그리고 새",
+      "verseId": "genesis_1_20",
+      "romanized": "beopeu",
+      "supabaseFilename": "beopeu.jpg"
+    },
+    {
+      "hebrew": "וְעֵץ עֹשֶׂה-פְּרִי",
+      "filename": "ועץ_עשה-פרי.jpg",
+      "korean": "베에츠 오세 페리",
+      "ipa": "vəˈʕets ˈʕoseh pəˈri",
+      "meaning": "열매 맺는 나무",
+      "verseId": "genesis_1_12",
+      "romanized": "beecheuoseperi",
+      "supabaseFilename": "beecheuoseperi.jpg"
+    },
+    {
+      "hebrew": "וּרְבוּ",
+      "filename": "ורבו.jpg",
+      "korean": "우르부",
+      "ipa": "urˈvu",
+      "meaning": "그리고 번성하라",
+      "verseId": "genesis_1_22",
+      "romanized": "ureubu",
+      "supabaseFilename": "ureubu.jpg"
+    },
+    {
+      "hebrew": "וּרְדוּ",
+      "filename": "ורדו.jpg",
+      "korean": "우르두",
+      "ipa": "urˈdu",
+      "meaning": "그리고 다스리라",
+      "verseId": "genesis_1_28",
+      "romanized": "ureudu",
+      "supabaseFilename": "ureudu.jpg"
+    },
+    {
+      "hebrew": "וָרֶמֶשׂ",
+      "filename": "ורמש.jpg",
+      "korean": "바레메스",
+      "ipa": "vaˈrɛmɛs",
+      "meaning": "그리고 기는 것",
+      "verseId": "genesis_1_24",
+      "romanized": "baremeseu",
+      "supabaseFilename": "baremeseu.jpg"
+    },
+    {
+      "hebrew": "וְשָׁנִים",
+      "filename": "ושנים.jpg",
+      "korean": "베샤님",
+      "ipa": "vəʃaˈnim",
+      "meaning": "그리고 해들을 위하여",
+      "verseId": "genesis_1_14",
+      "romanized": "besyanim",
+      "supabaseFilename": "besyanim.jpg"
+    },
+    {
+      "hebrew": "וַתּוֹצֵא הָאָרֶץ",
+      "filename": "ותוצא_הארץ.jpg",
+      "korean": "바토체 하아레츠",
+      "ipa": "vattoˈtseʔ haˈʔarɛts",
+      "meaning": "땅이 내었다",
+      "verseId": "genesis_1_12",
+      "romanized": "batochehaarecheu",
+      "supabaseFilename": "batochehaarecheu.jpg"
+    },
+    {
+      "hebrew": "וְתֵרָאֶה",
+      "filename": "ותראה.jpg",
+      "korean": "베테라에",
+      "ipa": "vətɛraˈʔɛh",
+      "meaning": "그리고 드러나라",
+      "verseId": "genesis_1_9",
+      "romanized": "beterae",
+      "supabaseFilename": "beterae.jpg"
+    },
+    {
+      "hebrew": "זָכָר",
+      "filename": "זכר.jpg",
+      "korean": "자카르",
+      "ipa": "zaˈxar",
+      "meaning": "남자",
+      "verseId": "genesis_1_27",
+      "romanized": "jakareu",
+      "supabaseFilename": "jakareu.jpg"
+    },
+    {
+      "hebrew": "זֹרֵעַ זֶרַע",
+      "filename": "זרע_זרע.jpg",
+      "korean": "조레아 제라",
+      "ipa": "zoˈreaʕ ˈzɛraʕ",
+      "meaning": "씨 맺는",
+      "verseId": "genesis_1_29",
+      "romanized": "joreajera",
+      "supabaseFilename": "joreajera.jpg"
+    },
+    {
+      "hebrew": "חַיַּת הָאָרֶץ",
+      "filename": "חית_הארץ.jpg",
+      "korean": "하야트 하아레츠",
+      "ipa": "ħajˈjat haˈʔarɛts",
+      "meaning": "땅의 짐승",
+      "verseId": "genesis_1_25",
+      "romanized": "hayateuhaarecheu",
+      "supabaseFilename": "hayateuhaarecheu.jpg"
+    },
+    {
+      "hebrew": "חֲמִישִֽׁי",
+      "filename": "חמישי.jpg",
+      "korean": "하미쉬",
+      "ipa": "χamiˈʃi",
+      "meaning": "다섯째",
+      "verseId": "genesis_1_23",
+      "romanized": "hamiswi",
+      "supabaseFilename": "hamiswi.jpg"
+    },
+    {
+      "hebrew": "טוֹב מְאֹד",
+      "filename": "טוב_מאד.jpg",
+      "korean": "토브 메오드",
+      "ipa": "tov məˈʔod",
+      "meaning": "심히 좋았다",
+      "verseId": "genesis_1_31",
+      "romanized": "tobeumeodeu",
+      "supabaseFilename": "tobeumeodeu.jpg"
+    },
+    {
+      "hebrew": "יְהִי",
+      "filename": "יהי.jpg",
+      "korean": "예히",
+      "ipa": "jəˈhi",
+      "meaning": "있으라, 되라",
+      "verseId": "genesis_1_14",
+      "romanized": "yehi",
+      "supabaseFilename": "yehi.jpg"
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "filename": "יום.jpg",
+      "korean": "욤",
+      "ipa": "jom",
+      "meaning": "날, 하루",
+      "verseId": "genesis_1_13",
+      "romanized": "yom",
+      "supabaseFilename": "yom.jpg"
+    },
+    {
+      "hebrew": "יוֹם אֶחָד",
+      "filename": "יום_אחד.jpg",
+      "korean": "욤 에하드",
+      "ipa": "ˈjom ʔɛˈχad",
+      "meaning": "첫째 날, 하나의 날",
+      "verseId": "genesis_1_5",
+      "romanized": "yomehadeu",
+      "supabaseFilename": "yomehadeu.jpg"
+    },
+    {
+      "hebrew": "יוֹם הַשִּׁשִּׁי",
+      "filename": "יום_הששי.jpg",
+      "korean": "욤 하쉬쉬",
+      "ipa": "jom haʃiˈʃi",
+      "meaning": "여섯째 날",
+      "verseId": "genesis_1_31",
+      "romanized": "yomhaswiswi",
+      "supabaseFilename": "yomhaswiswi.jpg"
+    },
+    {
+      "hebrew": "יוֹם שֵׁנִי",
+      "filename": "יום_שני.jpg",
+      "korean": "욤 쉐니",
+      "ipa": "ˈjom ʃeˈni",
+      "meaning": "둘째 날",
+      "verseId": "genesis_1_8",
+      "romanized": "yomsweni",
+      "supabaseFilename": "yomsweni.jpg"
+    },
+    {
+      "hebrew": "יַמִּים",
+      "filename": "ימים.jpg",
+      "korean": "야밈",
+      "ipa": "jamːˈim",
+      "meaning": "바다들",
+      "verseId": "genesis_1_10",
+      "romanized": "yamim",
+      "supabaseFilename": "yamim.jpg"
+    },
+    {
+      "hebrew": "יְעוֹפֵף",
+      "filename": "יעופף.jpg",
+      "korean": "예오페프",
+      "ipa": "jəoˈfef",
+      "meaning": "날아다니게 하라",
+      "verseId": "genesis_1_20",
+      "romanized": "yeopepeu",
+      "supabaseFilename": "yeopepeu.jpg"
+    },
+    {
+      "hebrew": "יִקָּווּ",
+      "filename": "יקוו.jpg",
+      "korean": "이카부",
+      "ipa": "jikˈkavu",
+      "meaning": "모이라, 모여라",
+      "verseId": "genesis_1_9",
+      "romanized": "ikabu",
+      "supabaseFilename": "ikabu.jpg"
+    },
+    {
+      "hebrew": "יִרֶב",
+      "filename": "ירב.jpg",
+      "korean": "이레브",
+      "ipa": "jirˈɛv",
+      "meaning": "번성할지어다",
+      "verseId": "genesis_1_22",
+      "romanized": "irebeu",
+      "supabaseFilename": "irebeu.jpg"
+    },
+    {
+      "hebrew": "יִשְׁרְצוּ",
+      "filename": "ישרצו.jpg",
+      "korean": "이쉬레추",
+      "ipa": "jɪʃrəˈtsu",
+      "meaning": "번성하게 하라, 떼를 지어 움직이게 하라",
+      "verseId": "genesis_1_20",
+      "romanized": "iswirechu",
+      "supabaseFilename": "iswirechu.jpg"
+    },
+    {
+      "hebrew": "כִּדְמוּתֵנוּ",
+      "filename": "כדמותנו.jpg",
+      "korean": "키드무테누",
+      "ipa": "kidmuˈtenu",
+      "meaning": "우리의 모양대로",
+      "verseId": "genesis_1_26",
+      "romanized": "kideumutenu",
+      "supabaseFilename": "kideumutenu.jpg"
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "filename": "כי-טוב.jpg",
+      "korean": "키 토브",
+      "ipa": "ki ˈtov",
+      "meaning": "좋았다",
+      "verseId": "genesis_1_10",
+      "romanized": "kitobeu",
+      "supabaseFilename": "kitobeu.jpg"
+    },
+    {
+      "hebrew": "כָל-הָאָרֶץ",
+      "filename": "כל-הארץ.jpg",
+      "korean": "콜 하아레츠",
+      "ipa": "kol haˈʔarɛts",
+      "meaning": "온 땅",
+      "verseId": "genesis_1_26",
+      "romanized": "kolhaarecheu",
+      "supabaseFilename": "kolhaarecheu.jpg"
+    },
+    {
+      "hebrew": "כָּל-נֶפֶשׁ הַחַיָּה",
+      "filename": "כל-נפש_החיה.jpg",
+      "korean": "콜 네페쉬 하하야",
+      "ipa": "kol nɛˈfɛʃ haχajˈja",
+      "meaning": "모든 살아있는 생물",
+      "verseId": "genesis_1_21",
+      "romanized": "kolnepeswihahaya",
+      "supabaseFilename": "kolnepeswihahaya.jpg"
+    },
+    {
+      "hebrew": "לָאוֹר",
+      "filename": "לאור.jpg",
+      "korean": "라오르",
+      "ipa": "laˈʔor",
+      "meaning": "빛에게",
+      "verseId": "genesis_1_5",
+      "romanized": "raoreu",
+      "supabaseFilename": "raoreu.jpg"
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "filename": "לאכלה.jpg",
+      "korean": "레오클라",
+      "ipa": "ləʔoχˈla",
+      "meaning": "먹을거리로",
+      "verseId": "genesis_1_29",
+      "romanized": "reokeulra",
+      "supabaseFilename": "reokeulra.jpg"
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "filename": "לאמר.jpg",
+      "korean": "레모르",
+      "ipa": "leˈmor",
+      "meaning": "말씀하시기를",
+      "verseId": "genesis_1_22",
+      "romanized": "remoreu",
+      "supabaseFilename": "remoreu.jpg"
+    },
+    {
+      "hebrew": "לְאֹתֹת",
+      "filename": "לאתת.jpg",
+      "korean": "레오토트",
+      "ipa": "ləʔoˈtot",
+      "meaning": "징조들을 위하여",
+      "verseId": "genesis_1_14",
+      "romanized": "reototeu",
+      "supabaseFilename": "reototeu.jpg"
+    },
+    {
+      "hebrew": "לְהָאִיר",
+      "filename": "להאיר.jpg",
+      "korean": "레하이르",
+      "ipa": "ləhaˈʔir",
+      "meaning": "비추기 위하여",
+      "verseId": "genesis_1_15",
+      "romanized": "rehaireu",
+      "supabaseFilename": "rehaireu.jpg"
+    },
+    {
+      "hebrew": "לְהַבְדִּיל",
+      "filename": "להבדיל.jpg",
+      "korean": "레하브딜",
+      "ipa": "ləhavˈdil",
+      "meaning": "나누기 위하여, 구별하기 위하여",
+      "verseId": "genesis_1_14",
+      "romanized": "rehabeudil",
+      "supabaseFilename": "rehabeudil.jpg"
+    },
+    {
+      "hebrew": "לַיַּבָּשָׁה",
+      "filename": "ליבשה.jpg",
+      "korean": "라야바샤",
+      "ipa": "lajjabːaˈʃa",
+      "meaning": "마른 땅에",
+      "verseId": "genesis_1_10",
+      "romanized": "rayabasya",
+      "supabaseFilename": "rayabasya.jpg"
+    },
+    {
+      "hebrew": "לָיְלָה",
+      "filename": "לילה.jpg",
+      "korean": "라일라",
+      "ipa": "ˈlajla",
+      "meaning": "밤",
+      "verseId": "genesis_1_5",
+      "romanized": "railra",
+      "supabaseFilename": "railra.jpg"
+    },
+    {
+      "hebrew": "לָכֶם",
+      "filename": "לכם.jpg",
+      "korean": "라켐",
+      "ipa": "laˈχɛm",
+      "meaning": "너희에게",
+      "verseId": "genesis_1_29",
+      "romanized": "rakem",
+      "supabaseFilename": "rakem.jpg"
+    },
+    {
+      "hebrew": "לִמְאוֹרֹת",
+      "filename": "למאורת.jpg",
+      "korean": "림오로트",
+      "ipa": "limʔorot",
+      "meaning": "광명들로, 빛을 내는 것들로",
+      "verseId": "genesis_1_15",
+      "romanized": "rimoroteu",
+      "supabaseFilename": "rimoroteu.jpg"
+    },
+    {
+      "hebrew": "לְמִינָהּ",
+      "filename": "למינה.jpg",
+      "korean": "레미나",
+      "ipa": "ləmiˈnah",
+      "meaning": "그 종류대로",
+      "verseId": "genesis_1_24",
+      "romanized": "remina",
+      "supabaseFilename": "remina.jpg"
+    },
+    {
+      "hebrew": "לְמִינֵהֶם",
+      "filename": "למינהם.jpg",
+      "korean": "레미네헴",
+      "ipa": "ləmineˈhɛm",
+      "meaning": "그들의 종류대로",
+      "verseId": "genesis_1_21",
+      "romanized": "reminehem",
+      "supabaseFilename": "reminehem.jpg"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַיּוֹם",
+      "filename": "לממשלת_היום.jpg",
+      "korean": "레멤쉘레트 하욤",
+      "ipa": "ləmɛmˈʃɛlɛt hajˈjom",
+      "meaning": "낮을 주관하기 위하여",
+      "verseId": "genesis_1_16",
+      "romanized": "rememswelreteuhayom",
+      "supabaseFilename": "rememswelreteuhayom.jpg"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַלַּיְלָה",
+      "filename": "לממשלת_הלילה.jpg",
+      "korean": "레멤쉘레트 할라일라",
+      "ipa": "ləmɛmˈʃɛlɛt halˈlajla",
+      "meaning": "밤을 주관하기 위하여",
+      "verseId": "genesis_1_16",
+      "romanized": "rememswelreteuhalrailra",
+      "supabaseFilename": "rememswelreteuhalrailra.jpg"
+    },
+    {
+      "hebrew": "לָרָקִיעַ",
+      "filename": "לרקיע.jpg",
+      "korean": "라라키아",
+      "ipa": "laraˈkiaʕ",
+      "meaning": "궁창에",
+      "verseId": "genesis_1_7",
+      "romanized": "rarakia",
+      "supabaseFilename": "rarakia.jpg"
+    },
+    {
+      "hebrew": "מְאֹרֹת",
+      "filename": "מארת.jpg",
+      "korean": "므오로트",
+      "ipa": "məʔoˈrot",
+      "meaning": "광명체들, 빛을 내는 것들",
+      "verseId": "genesis_1_14",
+      "romanized": "meuoroteu",
+      "supabaseFilename": "meuoroteu.jpg"
+    },
+    {
+      "hebrew": "מַבְדִּיל",
+      "filename": "מבדיל.jpg",
+      "korean": "마브딜",
+      "ipa": "mavˈdil",
+      "meaning": "나누는 것, 구분하는 것",
+      "verseId": "genesis_1_6",
+      "romanized": "mabeudil",
+      "supabaseFilename": "mabeudil.jpg"
+    },
+    {
+      "hebrew": "מְרַחֶפֶת",
+      "filename": "מרחפת.jpg",
+      "korean": "메라헤페트",
+      "ipa": "məraˈχɛfɛt",
+      "meaning": "운행하다, 맴돌다",
+      "verseId": "genesis_1_2",
+      "romanized": "merahepeteu",
+      "supabaseFilename": "merahepeteu.jpg"
+    },
+    {
+      "hebrew": "מִתַּחַת הַשָּׁמַיִם",
+      "filename": "מתחת_השמים.jpg",
+      "korean": "미타하트 하샤마임",
+      "ipa": "mitˈtaħat haʃaˈmajim",
+      "meaning": "하늘 아래에서",
+      "verseId": "genesis_1_9",
+      "romanized": "mitahateuhasyamaim",
+      "supabaseFilename": "mitahateuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "נַעֲשֶׂה",
+      "filename": "נעשה.jpg",
+      "korean": "나아세",
+      "ipa": "naʔaˈsɛ",
+      "meaning": "우리가 만들자",
+      "verseId": "genesis_1_26",
+      "romanized": "naase",
+      "supabaseFilename": "naase.jpg"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "filename": "נפש_חיה.jpg",
+      "korean": "네페쉬 하야",
+      "ipa": "ˈnɛfɛʃ xajˈja",
+      "meaning": "살아있는 생명체",
+      "verseId": "genesis_1_20",
+      "romanized": "nepeswihaya",
+      "supabaseFilename": "nepeswihaya.jpg"
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "filename": "נתתי.jpg",
+      "korean": "나타티",
+      "ipa": "naˈtatti",
+      "meaning": "내가 주었다",
+      "verseId": "genesis_1_29",
+      "romanized": "natati",
+      "supabaseFilename": "natati.jpg"
+    },
+    {
+      "hebrew": "עוֹף הַשָּׁמַיִם",
+      "filename": "עוף_השמים.jpg",
+      "korean": "오프 하샤마임",
+      "ipa": "ˈʔof haʃaˈmajim",
+      "meaning": "하늘의 새",
+      "verseId": "genesis_1_26",
+      "romanized": "opeuhasyamaim",
+      "supabaseFilename": "opeuhasyamaim.jpg"
+    },
+    {
+      "hebrew": "עוֹף כָּנָף",
+      "filename": "עוף_כנף.jpg",
+      "korean": "오프 카나프",
+      "ipa": "ʕof kaˈnaf",
+      "meaning": "날개 달린 새",
+      "verseId": "genesis_1_21",
+      "romanized": "opeukanapeu",
+      "supabaseFilename": "opeukanapeu.jpg"
+    },
+    {
+      "hebrew": "עַל-הָאָרֶץ",
+      "filename": "על-הארץ.jpg",
+      "korean": "알 하아레츠",
+      "ipa": "ʕal haˈʔarɛts",
+      "meaning": "땅 위에",
+      "verseId": "genesis_1_11",
+      "romanized": "alhaarecheu",
+      "supabaseFilename": "alhaarecheu.jpg"
+    },
+    {
+      "hebrew": "עַל-פְּנֵי רְקִיעַ",
+      "filename": "על-פני_רקיע.jpg",
+      "korean": "알 페네 레키아",
+      "ipa": "al pəˈne rəˈkia",
+      "meaning": "궁창의 표면 위에",
+      "verseId": "genesis_1_20",
+      "romanized": "alpenerekia",
+      "supabaseFilename": "alpenerekia.jpg"
+    },
+    {
+      "hebrew": "עַל",
+      "filename": "על.jpg",
+      "korean": "알",
+      "ipa": "ʔal",
+      "meaning": "~위에, ~에",
+      "verseId": "genesis_1_15",
+      "romanized": "al",
+      "supabaseFilename": "al.jpg"
+    },
+    {
+      "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
+      "filename": "עלפני_כלהארץ.jpg",
+      "korean": "알 페네 콜 하아레츠",
+      "ipa": "ʕal pəˈne χol haˈʔarɛts",
+      "meaning": "온 땅 위에",
+      "verseId": "genesis_1_29",
+      "romanized": "alpenekolhaarecheu",
+      "supabaseFilename": "alpenekolhaarecheu.jpg"
+    },
+    {
+      "hebrew": "עֵץ פְּרִי",
+      "filename": "עץ_פרי.jpg",
+      "korean": "에츠 페리",
+      "ipa": "ʕets pəˈri",
+      "meaning": "열매 나무",
+      "verseId": "genesis_1_11",
+      "romanized": "echeuperi",
+      "supabaseFilename": "echeuperi.jpg"
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "filename": "ערב.jpg",
+      "korean": "에레브",
+      "ipa": "ˈɛrɛv",
+      "meaning": "저녁",
+      "verseId": "genesis_1_13",
+      "romanized": "erebeu",
+      "supabaseFilename": "erebeu.jpg"
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "filename": "עשב.jpg",
+      "korean": "에세브",
+      "ipa": "ˈʔɛsɛv",
+      "meaning": "채소, 풀",
+      "verseId": "genesis_1_29",
+      "romanized": "esebeu",
+      "supabaseFilename": "esebeu.jpg"
+    },
+    {
+      "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
+      "filename": "עשב_מזריע_זרע.jpg",
+      "korean": "에세브 마즈리아 제라",
+      "ipa": "ˈʕesɛv mazˈrijaʕ ˈzɛraʕ",
+      "meaning": "씨 맺는 채소",
+      "verseId": "genesis_1_11",
+      "romanized": "esebeumajeuriajera",
+      "supabaseFilename": "esebeumajeuriajera.jpg"
+    },
+    {
+      "hebrew": "עֹשֶׂה פְּרִי",
+      "filename": "עשה_פרי.jpg",
+      "korean": "오세 페리",
+      "ipa": "ˈʕoseh pəˈri",
+      "meaning": "열매 맺는",
+      "verseId": "genesis_1_11",
+      "romanized": "oseperi",
+      "supabaseFilename": "oseperi.jpg"
+    },
+    {
+      "hebrew": "פְּרוּ",
+      "filename": "פרו.jpg",
+      "korean": "페루",
+      "ipa": "pəˈru",
+      "meaning": "생육하라",
+      "verseId": "genesis_1_22",
+      "romanized": "peru",
+      "supabaseFilename": "peru.jpg"
+    },
+    {
+      "hebrew": "פְרִי",
+      "filename": "פרי.jpg",
+      "korean": "페리",
+      "ipa": "pəri",
+      "meaning": "열매",
+      "verseId": "genesis_1_29",
+      "romanized": "peri",
+      "supabaseFilename": "peri.jpg"
+    },
+    {
+      "hebrew": "קָרָא",
+      "filename": "קרא.jpg",
+      "korean": "카라",
+      "ipa": "qaˈra",
+      "meaning": "부르셨다",
+      "verseId": "genesis_1_10",
+      "romanized": "kara",
+      "supabaseFilename": "kara.jpg"
+    },
+    {
+      "hebrew": "רְבִיעִֽי",
+      "filename": "רביעי.jpg",
+      "korean": "레비이",
+      "ipa": "rəviˈʔi",
+      "meaning": "넷째",
+      "verseId": "genesis_1_19",
+      "romanized": "rebii",
+      "supabaseFilename": "rebii.jpg"
+    },
+    {
+      "hebrew": "רוּחַ אֱלֹהִים",
+      "filename": "רוח_אלהים.jpg",
+      "korean": "루아흐 엘로힘",
+      "ipa": "ˈruaχ ʔɛloˈhim",
+      "meaning": "하나님의 영",
+      "verseId": "genesis_1_2",
+      "romanized": "ruaheuelrohim",
+      "supabaseFilename": "ruaheuelrohim.jpg"
+    },
+    {
+      "hebrew": "רֶמֶשׂ הָאֲדָמָה",
+      "filename": "רמש_האדמה.jpg",
+      "korean": "레메스 하아다마",
+      "ipa": "ˈrɛmɛś haʔadaˈmah",
+      "meaning": "땅에 기는 것",
+      "verseId": "genesis_1_25",
+      "romanized": "remeseuhaadama",
+      "supabaseFilename": "remeseuhaadama.jpg"
+    },
+    {
+      "hebrew": "רָקִיעַ",
+      "filename": "רקיע.jpg",
+      "korean": "라키아",
+      "ipa": "raˈkiʕa",
+      "meaning": "창공, 궁창",
+      "verseId": "genesis_1_6",
+      "romanized": "rakia",
+      "supabaseFilename": "rakia.jpg"
+    },
+    {
+      "hebrew": "שְׁלִישִֽׁי",
+      "filename": "שלישי.jpg",
+      "korean": "쉴리쉬",
+      "ipa": "ʃəliˈʃi",
+      "meaning": "셋째",
+      "verseId": "genesis_1_13",
+      "romanized": "swilriswi",
+      "supabaseFilename": "swilriswi.jpg"
+    },
+    {
+      "hebrew": "שָׁמָיִם",
+      "filename": "שמים.jpg",
+      "korean": "샤마임",
+      "ipa": "ʃaˈmajim",
+      "meaning": "하늘",
+      "verseId": "genesis_1_8",
+      "romanized": "syamaim",
+      "supabaseFilename": "syamaim.jpg"
+    },
+    {
+      "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+      "filename": "שני_המארת_הגדלים.jpg",
+      "korean": "쉐네이 함어로트 하그돌림",
+      "ipa": "ʃəˈne hamːəʔoˈrot hagːəðoˈlim",
+      "meaning": "두 개의 큰 광명체들",
+      "verseId": "genesis_1_16",
+      "romanized": "sweneihameoroteuhageudolrim",
+      "supabaseFilename": "sweneihameoroteuhageudolrim.jpg"
+    },
+    {
+      "hebrew": "שֶׁרֶץ",
+      "filename": "שרץ.jpg",
+      "korean": "쉐레츠",
+      "ipa": "ˈʃɛrɛts",
+      "meaning": "떼를 지어 움직이는 것, 군집 생물",
+      "verseId": "genesis_1_20",
+      "romanized": "swerecheu",
+      "supabaseFilename": "swerecheu.jpg"
+    },
+    {
+      "hebrew": "שָׁרְצוּ",
+      "filename": "שרצו.jpg",
+      "korean": "샤르쭈",
+      "ipa": "ʃarˈtsu",
+      "meaning": "번성하다, 우글거리다",
+      "verseId": "genesis_1_21",
+      "romanized": "syareujju",
+      "supabaseFilename": "syareujju.jpg"
+    },
+    {
+      "hebrew": "תַּדְשֵׁא הָאָרֶץ",
+      "filename": "תדשא_הארץ.jpg",
+      "korean": "타드쉐 하아레츠",
+      "ipa": "tadˈʃeʔ haˈʔarɛts",
+      "meaning": "땅이 돋아나게 하라",
+      "verseId": "genesis_1_11",
+      "romanized": "tadeuswehaarecheu",
+      "supabaseFilename": "tadeuswehaarecheu.jpg"
+    },
+    {
+      "hebrew": "תֹהוּ וָבֹהוּ",
+      "filename": "תהו_ובהו.jpg",
+      "korean": "토후 바보후",
+      "ipa": "ˈtohu vaˈvohu",
+      "meaning": "혼돈과 공허",
+      "verseId": "genesis_1_2",
+      "romanized": "tohubabohu",
+      "supabaseFilename": "tohubabohu.jpg"
+    },
+    {
+      "hebrew": "תְהוֹם",
+      "filename": "תהום.jpg",
+      "korean": "테홈",
+      "ipa": "təˈhom",
+      "meaning": "깊은 물, 심연",
+      "verseId": "genesis_1_2",
+      "romanized": "tehom",
+      "supabaseFilename": "tehom.jpg"
+    },
+    {
+      "hebrew": "תּוֹצֵא",
+      "filename": "תוצא.jpg",
+      "korean": "토체",
+      "ipa": "toˈtse",
+      "meaning": "내라, 산출하라",
+      "verseId": "genesis_1_24",
+      "romanized": "toche",
+      "supabaseFilename": "toche.jpg"
+    }
+  ],
+  "unmatchedImages": [],
+  "summary": {
+    "totalImages": 169,
+    "matched": 169,
+    "unmatched": 0,
+    "matchRate": "100.0%"
+  }
+}

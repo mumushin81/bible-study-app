@@ -1,0 +1,47 @@
+[dotenv@17.2.3] injecting env (4) from .env.local -- tip: 🛠️  run anywhere with `dotenvx run -- yourcommand`
+📦 Starting JPG upload to Supabase Storage
+
+📊 Found 2000 JPG files to upload
+
+❌ [32/2000] word_0370a4c7c6983f0613534b05b01662db.jpg: StorageApiError: "gateway error: Error: Network connection lost."
+✅ [50/2000] word_05dabc05_a39d_4452_ad26_162fa07826a0.jpg
+✅ [100/2000] word_0bcbf840_ebfe_4374_b646_695eee5bf00f.jpg
+✅ [150/2000] word_10c77606_1da8_4934_adda_6706659cbb13.jpg
+✅ [200/2000] word_16c5e739_75bf_4118_92a9_684aaa779770.jpg
+✅ [250/2000] word_1d2b62195097af31901fa4e7230a3ad7.jpg
+✅ [300/2000] word_22f576dd3eca7a2ee69b98f7a3b88115.jpg
+❌ [329/2000] word_2788ec28_a1c3_4f4b_b0aa_86f5f66adb0b.jpg: StorageUnknownError: Unexpected token '<', "<html>
+<h"... is not valid JSON
+✅ [350/2000] word_2a54ae51_ebc3_4c00_a5bf_3dd3c3c39424.jpg
+✅ [400/2000] word_2fce9fbf_26c5_4c7a_8546_1d907d528d23.jpg
+✅ [450/2000] word_363f3ea4_755f_46c6_9fd1_5106fe7f87b1.jpg
+✅ [500/2000] word_3dfaf8d1f9792e706f28283914daf9be.jpg
+✅ [550/2000] word_442c6f5c_0d44_4ea9_a508_071bf04815f2.jpg
+✅ [600/2000] word_4c5799ab8b9b7fbada28cc4f82365d8e.jpg
+✅ [650/2000] word_51dd6246_dd6b_4d9a_bd53_f0179c17f9ec.jpg
+✅ [700/2000] word_57ed10201b7417137e8d44ede3d313cf.jpg
+✅ [750/2000] word_60275df7_a5c6_4997_b07d_d47dfe90811b.jpg
+✅ [800/2000] word_66a2b769_642d_4243_bf95_dbbcc72609f5.jpg
+✅ [850/2000] word_6d6062a4e793243681f02eaac1d9e367.jpg
+✅ [900/2000] word_74778a758e4c5a865c3672a492e405e1.jpg
+✅ [950/2000] word_79b652f8984c3c895d7d3ee05042dc60.jpg
+✅ [1000/2000] word_80208f8f_aee4_4511_b83f_02f668f9a4d0.jpg
+✅ [1050/2000] word_85773e9a_9fd4_4b50_b196_82ebd27aa5ee.jpg
+✅ [1100/2000] word_8c8771c7150dffd397ebf5cd8b6fa058.jpg
+✅ [1150/2000] word_92f909b1d4fe62310f066a40f151e6ed.jpg
+✅ [1200/2000] word_98c2a40b9c4b4e67a6b06cc063c93e18.jpg
+✅ [1250/2000] word_9ecef380_ed38_4b72_9c3b_59ff038d7add.jpg
+✅ [1300/2000] word_a4e11afe_dee7_4d9f_8bb0_fac1fb5cbd93.jpg
+✅ [1350/2000] word_ab6bd935_3368_4655_b798_ca16c4286f9a.jpg
+✅ [1400/2000] word_b25686b0_039f_4b21_8bbb_bdd247206dea.jpg
+✅ [1450/2000] word_b7f9663c_6970_40d2_bf9d_f392ff5053a0.jpg
+✅ [1500/2000] word_bf69dd9b_2adf_4182_88bb_e7d62f09dc62.jpg
+✅ [1550/2000] word_c5ed0dbb9a1fdea1413a3379a5bce43e.jpg
+✅ [1600/2000] word_cdd461057ff12c3856ba6f63ba39b5b2.jpg
+✅ [1650/2000] word_d48a619b8fc322f57c3143ceddd5340e.jpg
+✅ [1700/2000] word_daa4adc53a866e78fe7e2881a5a39c10.jpg
+✅ [1750/2000] word_df88f3a4fd4b11376e1f399e812f0ed0.jpg
+✅ [1800/2000] word_e50ff39231559cbc1172d57b51ba82ba.jpg
+✅ [1850/2000] word_ec37fbff_b319_4399_ab77_e443e0cbddb3.jpg
+✅ [1900/2000] word_f2ab0c52d8b2819ffb694cb1b5c3eb21.jpg
+✅ [1950/2000] word_fa75d6fc_b73f_4b4c_8720_2fc3a414dd2a.jpg

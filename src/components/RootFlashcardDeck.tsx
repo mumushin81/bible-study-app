@@ -192,7 +192,7 @@ export default function RootFlashcardDeck({ root, darkMode, onClose }: RootFlash
                   key={cardKey}
                   word={{
                     ...currentCard.word,
-                    iconUrl: currentCard.word.icon_url,
+                    flashcardImgUrl: currentCard.word.flashcard_img_url,
                     iconSvg: currentCard.word.icon_svg,
                     relatedWords: [],
                   }}

@@ -1,0 +1,201 @@
+{
+  "collected_at": "2025-10-27",
+  "roots_count": 3,
+  "roots": [
+    {
+      "root": "ה-י-ה",
+      "root_hebrew": "היה",
+      "strong_number": "H1961",
+      "etymology": {
+        "strong_data": {
+          "transliteration": "hāyâ",
+          "pronunciation": "haw-yaw",
+          "part_of_speech": "verb",
+          "root_type": "A primitive root [compare הָוָה (H1933)]",
+          "origin": "Primitive Hebrew root",
+          "definition": "To exist, be or become, come to pass",
+          "total_occurrences": 75,
+          "common_translations": ["was", "come to pass", "came", "has been", "become", "pertained"],
+          "usage_notes": "Always emphatic, not merely a copula or auxiliary. Semantic range: Happen, Occur, Exist, Become, Continue"
+        },
+        "bdb_data": {
+          "bdb_reference": "3570",
+          "basic_meaning": "fall out, come to pass, become, be",
+          "cognates": {
+            "hebrew_forms": ["היה", "הית"],
+            "parallel_form": "הוה",
+            "aramaic": ["הֲוָא"]
+          },
+          "semantic_development": "Primary meanings: fall out, happen, come to pass, become, exist. Emphatic verb of existence. Not merely a copula or auxiliary verb. Indicates active becoming rather than static state.",
+          "historical_usage": "Used in narrative descriptions, divine creative acts, prophetic declarations, personal transformations"
+        },
+        "summary": "히브리어에서 가장 기본적인 존재 동사. 단순한 '~이다'가 아니라 '되다', '생기다', '일어나다'의 의미를 포함하는 역동적인 동사입니다. 성경 전체에서 3,576번 사용되며, 하나님의 창조 행위와 인간의 존재 변화를 표현하는 핵심 어근입니다.",
+        "theological_significance": "창세기 1장 '빛이 있으라 하시매 빛이 있었고'에서 하나님의 말씀이 실제로 되어지는 과정을 나타냅니다. 존재의 변화와 생성을 강조하는 신학적으로 중요한 동사입니다."
+      },
+      "derivatives": [
+        {
+          "hebrew": "וְהָיָה",
+          "ipa": "vəhaˈja",
+          "korean": "베하야",
+          "meaning": "그리고 되었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְהָיוּ",
+          "ipa": "vəhaˈju",
+          "korean": "베하유",
+          "meaning": "그리고 있을 것이다, 될 것이다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וִיהִי",
+          "ipa": "viˈhi",
+          "korean": "비히",
+          "meaning": "그리고 되게 하라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיְהִי",
+          "ipa": "vajeˈhi",
+          "korean": "바예히",
+          "meaning": "그리고 되다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "א-מ-ר",
+      "root_hebrew": "אמר",
+      "strong_number": "H559",
+      "etymology": {
+        "strong_data": {
+          "transliteration": "'āmar",
+          "pronunciation": "aw-mar'",
+          "part_of_speech": "verb",
+          "root_type": "primitive root",
+          "origin": "Possibly from 'be or make prominent'",
+          "definition": "to say, speak, utter, to think or intend, to command, to promise",
+          "total_occurrences": 5308,
+          "common_translations": ["said (4,874x)", "speak (179x)", "answer (99x)", "command (30x)", "tell (29x)"],
+          "usage_notes": "Qal: say, answer, think, command. Niphal: be told, be said. Hithpael: boast. Hiphil: avow"
+        },
+        "bdb_data": {
+          "bdb_reference": "5287",
+          "basic_meaning": "utter, say",
+          "cognates": {
+            "phoenician": "אמר",
+            "aramaic": "אֲמַר",
+            "ethiopic": "shew, declare",
+            "arabic": "command",
+            "sabean": "lofty (epithet of king)"
+          },
+          "semantic_development": "Original hypothesis: potentially meant 'be or make prominent'. Alternative theory: originally meant 'be visible/seen'. Potentially linked to Assyrian 'amâru' (see, show, declare).",
+          "historical_usage": "Complex semantic evolution from potentially meaning 'to be visible' or 'prominent' to a comprehensive verb of speech and declaration"
+        },
+        "summary": "성경에서 가장 많이 사용되는 동사 중 하나 (5,308회). 단순히 '말하다'를 넘어 '선포하다', '명령하다', '약속하다'의 의미를 포함합니다. 특히 하나님의 말씀과 인간의 응답을 나타내는 핵심 어근입니다.",
+        "theological_significance": "하나님의 권위 있는 말씀을 나타내는 동사입니다. '하나님이 이르시되'라는 표현이 성경 전체에 걸쳐 반복되며, 말씀의 능력과 창조적 역동성을 강조합니다. 인간의 고백과 응답도 이 어근으로 표현됩니다."
+      },
+      "derivatives": [
+        {
+          "hebrew": "אִמְרָתִי",
+          "ipa": "ʔimraˈti",
+          "korean": "임라티",
+          "meaning": "내 말을",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "וַיֹּאמֶר",
+          "ipa": "vajˈjomɛr",
+          "korean": "바요메르",
+          "meaning": "그리고 말씀하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "יֵאָמַר",
+          "ipa": "jeʔaˈmar",
+          "korean": "예아마르",
+          "meaning": "말해진다, 속담이 되다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְלֹא תֹאמַר",
+          "ipa": "vəˈlo toˈmar",
+          "korean": "베로 토마르",
+          "meaning": "그리고 말하지 못하도록",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ב-ר-א",
+      "root_hebrew": "ברא",
+      "strong_number": "H1254",
+      "etymology": {
+        "strong_data": {
+          "transliteration": "bārā'",
+          "pronunciation": "baw-raw'",
+          "part_of_speech": "verb",
+          "root_type": "primitive root",
+          "origin": "Arabic loan-word meaning 'form, fashion by cutting'. Possibly related to cutting or shaping",
+          "definition": "to create, shape, form (always with God as subject)",
+          "total_occurrences": 54,
+          "common_translations": ["create (42x)", "creator (3x)", "choose (2x)", "make (2x)"],
+          "usage_notes": "Used exclusively to describe divine creative activity. Primarily describes God's act of creation. Often used in contexts of creating heaven, earth, and mankind"
+        },
+        "bdb_data": {
+          "bdb_reference": "BDB 135",
+          "basic_meaning": "shape, create",
+          "cognates": {
+            "arabic": "بَرَأَ (bara'a) - to create, form, fashion by cutting, shape out",
+            "phoenician": "הברא (incisor, trade involving cutting)",
+            "assyrian": "barû (make, create) - dubious connection",
+            "sabean": "ברא (found, build)",
+            "aramaic": "בְּרָא (b'ra) - to create",
+            "syriac": "ܒܪܐ (bra) - to create"
+          },
+          "semantic_development": "Original meaning likely involved cutting or shaping. Evolved to primarily mean divine creation. Exclusively used for divine creative acts in biblical texts. Implies creation from nothing (ex nihilo).",
+          "historical_usage": "Never takes a human subject. Primarily used in theological/cosmological contexts"
+        },
+        "summary": "오직 하나님의 창조 행위에만 사용되는 특별한 동사입니다. עשה (만들다)와 달리 '무에서 유를 창조하는' 신적 행위를 나타냅니다. 창세기 1:1에서 처음 등장하며, 성경 전체에서 54번 사용됩니다.",
+        "theological_significance": "이 어근은 하나님만이 할 수 있는 창조 능력을 강조합니다. Proto-Semitic 어원에서 '자르다, 형태를 만들다'의 의미가 '무에서 유를 창조하다'로 발전했습니다. 성경 신학에서 창조 교리의 핵심을 이루는 단어입니다."
+      },
+      "derivatives": [
+        {
+          "hebrew": "בָּרָא אֹתָם",
+          "ipa": "baˈra ʔoˈtam",
+          "korean": "바라 오탐",
+          "meaning": "그들을 창조하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "בְּרָאָם",
+          "ipa": "bəraˈʔam",
+          "korean": "베라암",
+          "meaning": "그들을 창조하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּבְרָא",
+          "ipa": "vajivˈra",
+          "korean": "바이브라",
+          "meaning": "그리고 창조하셨다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "בְּרֹא",
+          "ipa": "bəˈro",
+          "korean": "베로",
+          "meaning": "창조하실 때",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "בָּרָא",
+          "ipa": "baˈra",
+          "korean": "바라",
+          "meaning": "창조하셨다",
+          "grammar": "동사"
+        }
+      ]
+    }
+  ]
+}

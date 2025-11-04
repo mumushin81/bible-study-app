@@ -1,0 +1,344 @@
+{
+  "collected_at": "2025-10-27",
+  "batch": 2,
+  "roots_count": 10,
+  "roots": [
+    {
+      "root": "א-ה-ב",
+      "root_hebrew": "אהב",
+      "strong_number": "H157",
+      "etymology_simple": "원시 셈어에서 '열망하다, 갈망하다'를 의미했습니다. 아랍어 أَحَبَّ('aḥabba)와 아람어 אַהֵב에서 같은 어근을 공유합니다. '깊은 애정과 헌신'을 나타내며, 하나님과 인간 사이, 인간과 인간 사이의 사랑을 모두 표현하는 동사입니다.",
+      "derivatives": []
+    },
+    {
+      "root": "ח-י-ה",
+      "root_hebrew": "חיה",
+      "strong_number": "H2421",
+      "etymology_simple": "원시 셈어에서 '살다, 생명을 가지다'를 의미했습니다. 아랍어 حَيَّ(ḥayya, 살아있다)와 아람어 חְיָא에서 유사한 형태를 볼 수 있습니다. 단순히 존재하는 것이 아니라 '활력 있게 살다'의 의미를 가지며, 명사 חַיִּים(chayyim, 생명)의 어근입니다.",
+      "derivatives": [
+        {
+          "hebrew": "חַיַּת",
+          "ipa": "χaˈjat",
+          "korean": "하야트",
+          "meaning": "짐승",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "הַחַיָּה",
+          "ipa": "haχaˈja",
+          "korean": "하하야",
+          "meaning": "살아있는 것",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "כָּל הַחַיָּה",
+          "ipa": "kol haχajˈja",
+          "korean": "콜 하하야",
+          "meaning": "모든 생물",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "וְחָיְתָה נַפְשִׁי בִּגְלָלֵךְ",
+          "ipa": "vəħajəˈta nafˈʃi biɡlaˈlex",
+          "korean": "베하예타 나프쉬 비글랄레크",
+          "meaning": "그리고 당신으로 인하여 내 생명이 살 것입니다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְאֹתָךְ יְחַיּוּ",
+          "ipa": "vəʔoˈtax jəħajˈju",
+          "korean": "베오타크 예하유",
+          "meaning": "그리고 당신은 살려둘 것이다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ט-ו-ב",
+      "root_hebrew": "טוב",
+      "strong_number": "H2896",
+      "etymology_simple": "원시 셈어에서 '좋다, 즐겁다'를 의미했습니다. 아랍어 طَابَ(ṭāba, 좋다)와 관련이 있습니다. 도덕적, 심미적, 기능적 '좋음'을 모두 포괄하는 단어로, 창세기 1장에서 하나님이 창조하신 것을 보시고 '보시기에 좋았더라(טוֹב)'고 하신 핵심 표현입니다.",
+      "derivatives": [
+        {
+          "hebrew": "כִּי טוֹב הָעֵץ לְמַאֲכָל",
+          "ipa": "ki tov haˈʔets ləmaʔaˈkal",
+          "korean": "키 토브 하에츠 레마아칼",
+          "meaning": "나무가 먹기에 좋고",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "וְטוֹב",
+          "ipa": "vəˈtov",
+          "korean": "베토브",
+          "meaning": "그리고 좋은",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "כִּי-טוֹב",
+          "ipa": "ki ˈtov",
+          "korean": "키 토브",
+          "meaning": "좋았다",
+          "grammar": "형용사"
+        },
+        {
+          "hebrew": "טוֹב וָרָע",
+          "ipa": "tov vaˈraʕ",
+          "korean": "토브 바라",
+          "meaning": "선과 악",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "טֹבֹת",
+          "ipa": "toˈvot",
+          "korean": "토보트",
+          "meaning": "아름답다, 좋다",
+          "grammar": "형용사"
+        }
+      ]
+    },
+    {
+      "root": "א-כ-ל",
+      "root_hebrew": "אכל",
+      "strong_number": "H398",
+      "etymology_simple": "원시 셈어에서 '먹다, 소비하다'를 의미했습니다. 아랍어 أَكَلَ('akala)와 아람어 אֲכַל에서 동일한 형태를 공유합니다. 문자 그대로 '음식을 먹다'뿐만 아니라 '삼키다, 소멸시키다'의 의미까지 포함하며, 성경 전체에서 810번 사용됩니다.",
+      "derivatives": [
+        {
+          "hebrew": "לְאָכְלָה",
+          "ipa": "ləʔoχˈla",
+          "korean": "레오클라",
+          "meaning": "먹을 것으로",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "מַאֲכָל",
+          "ipa": "maʔaˈχal",
+          "korean": "마아칼",
+          "meaning": "양식, 먹을 것",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "יֵאָכֵל",
+          "ipa": "jeʔaˈχel",
+          "korean": "예아켈",
+          "meaning": "먹혀질 것이다",
+          "grammar": "동사 - 니팔형 미완료"
+        },
+        {
+          "hebrew": "תֹאכֵלוּ",
+          "ipa": "toχeˈlu",
+          "korean": "토케루",
+          "meaning": "너희는 먹지 마라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אֲשֶׁר אָכְלוּ הַנְּעָרִים",
+          "ipa": "ʔaˈʃɛr ʔaχəˈlu hanːəʔaˈrim",
+          "korean": "아쉐르 아클루 한나아림",
+          "meaning": "젊은이들이 먹은 것",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ע-ב-ד",
+      "root_hebrew": "עבד",
+      "strong_number": "H5647",
+      "etymology_simple": "원시 셈어에서 '일하다, 섬기다'를 의미했습니다. 아랍어 عَبَدَ('abada, 예배하다)와 아람어 עְבַד에서 같은 어근을 공유합니다. '노동하다'와 '섬기다'의 의미를 모두 포함하며, 특히 하나님을 섬기는 예배를 나타낼 때 사용됩니다(289회).",
+      "derivatives": [
+        {
+          "hebrew": "עֲבָדִים",
+          "ipa": "ʔavaˈdim",
+          "korean": "아바딤",
+          "meaning": "남종들",
+          "grammar": "명사"
+        },
+        {
+          "hebrew": "לְעָבְדָהּ",
+          "ipa": "ləʕavˈdah",
+          "korean": "레아브다",
+          "meaning": "그것을 경작하기 위해, 섬기기 위해",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "עָבְדוּ",
+          "ipa": "ʕavˈdu",
+          "korean": "아브두",
+          "meaning": "그들이 섬겼다, 종노릇했다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "לַעֲבֹד",
+          "ipa": "laʔaˈvod",
+          "korean": "라아보드",
+          "meaning": "경작하다, 섬기다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "עֹבֵד אֲדָמָה",
+          "ipa": "ʕoˈved ʔadaˈma",
+          "korean": "오베드 아다마",
+          "meaning": "땅을 경작하는 자",
+          "grammar": "명사"
+        }
+      ]
+    },
+    {
+      "root": "ב-ק-ש",
+      "root_hebrew": "בקש",
+      "strong_number": "H1245",
+      "etymology_simple": "원시 셈어에서 '찾다, 구하다'를 의미했습니다. 아랍어 بَحَثَ(baḥatha, 조사하다)와 유사한 개념을 가집니다. 단순히 찾는 것이 아니라 '열심히 추구하다, 간구하다'의 의미를 포함하며, 특히 하나님을 찾는 것(seeking God)을 표현할 때 자주 사용됩니다(225회).",
+      "derivatives": []
+    },
+    {
+      "root": "ר-ב-ה",
+      "root_hebrew": "רבה",
+      "strong_number": "H7235",
+      "etymology_simple": "원시 셈어에서 '많아지다, 증가하다'를 의미했습니다. 아랍어 رَبَا(rabā, 자라다)와 아람어 רְבָא에서 같은 어근을 공유합니다. 양적 증가를 나타내며, 창세기 1:28에서 하나님이 인간에게 '생육하고 번성하라(פְּרוּ וּרְבוּ)'고 하신 축복의 핵심 단어입니다.",
+      "derivatives": [
+        {
+          "hebrew": "וּרְבוּ",
+          "ipa": "urˈvu",
+          "korean": "우르부",
+          "meaning": "그리고 번성하라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "הַרְבֵּה מְאֹד",
+          "ipa": "harˈbe məˈʔod",
+          "korean": "하르베 메오드",
+          "meaning": "지극히 크다",
+          "grammar": "부사"
+        },
+        {
+          "hebrew": "הַרְבָּה אַרְבֶּה",
+          "ipa": "harˈba ʔarˈbɛ",
+          "korean": "하르바 아르베",
+          "meaning": "내가 크게 더하리니",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "יִרֶב",
+          "ipa": "jirˈɛv",
+          "korean": "이레브",
+          "meaning": "번성할지어다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְרָבוּ",
+          "ipa": "vəraˈvu",
+          "korean": "베라부",
+          "meaning": "그리고 번성하라",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ב-ח-ר",
+      "root_hebrew": "בחר",
+      "strong_number": "H977",
+      "etymology_simple": "원시 셈어에서 '시험하다, 선택하다'를 의미했습니다. 아랍어와 연결이 명확하지 않지만, 히브리어에서 '신중하게 선택하다'의 의미로 사용됩니다. 단순한 선택이 아니라 '가장 좋은 것을 고르다'의 의미를 포함하며, 특히 하나님이 이스라엘을 선택하신 것을 표현하는 신학적으로 중요한 단어입니다(172회).",
+      "derivatives": [
+        {
+          "hebrew": "בָּחָרוּ",
+          "ipa": "baˈħaru",
+          "korean": "바하루",
+          "meaning": "선택하다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּבְחַר",
+          "ipa": "vajivˈxar",
+          "korean": "바이브하르",
+          "meaning": "그리고 선택하다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "ר-א-ה",
+      "root_hebrew": "ראה",
+      "strong_number": "H7200",
+      "etymology_simple": "원시 셈어에서 '보다, 지각하다'를 의미했습니다. 아랍어 رَأَى(ra'ā)와 아람어 רְאָא에서 동일한 형태를 공유합니다. 단순히 눈으로 보는 것뿐만 아니라 '이해하다, 경험하다, 돌보다'의 의미까지 포함하며, 성경에서 가장 많이 사용되는 동사 중 하나입니다(1,311회).",
+      "derivatives": [
+        {
+          "hebrew": "וַתֵּרֶא",
+          "ipa": "vatˈtɛrɛ",
+          "korean": "바테레",
+          "meaning": "그리고 보았다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וְתֵרָאֶה",
+          "ipa": "vətɛraˈʔɛh",
+          "korean": "베테라에",
+          "meaning": "그리고 드러나라",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אַרְאֶךָּ",
+          "ipa": "ʔarˈʔɛka",
+          "korean": "아르에카",
+          "meaning": "내가 네게 보여줄",
+          "grammar": "동사 + 접미사"
+        },
+        {
+          "hebrew": "וַיֵּרָא",
+          "ipa": "vajˈjera",
+          "korean": "바예라",
+          "meaning": "그리고 나타나셨다",
+          "grammar": "동사 (수동태)"
+        },
+        {
+          "hebrew": "וַיַּרְא",
+          "ipa": "vajˈjarʔ",
+          "korean": "바야르",
+          "meaning": "그리고 보다",
+          "grammar": "동사"
+        }
+      ]
+    },
+    {
+      "root": "נ-ת-ן",
+      "root_hebrew": "נתן",
+      "strong_number": "H5414",
+      "etymology_simple": "원시 셈어에서 '주다, 놓다'를 의미했습니다. 아랍어와 아람어에서 유사한 형태를 볼 수 있습니다. '주다, 허락하다, 맡기다, 임명하다' 등 매우 광범위한 의미를 가지며, 성경 전체에서 가장 많이 사용되는 동사 중 하나입니다(2,014회).",
+      "derivatives": [
+        {
+          "hebrew": "נִתָּנוּ",
+          "ipa": "nitaˈnu",
+          "korean": "니타누",
+          "meaning": "주어졌다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "נֹתֵן",
+          "ipa": "noˈten",
+          "korean": "노텐",
+          "meaning": "주는",
+          "grammar": "분사"
+        },
+        {
+          "hebrew": "נָתַתִּי",
+          "ipa": "naˈtatti",
+          "korean": "나타티",
+          "meaning": "내가 주었다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "אֶתֵּן",
+          "ipa": "ʔɛtˈten",
+          "korean": "에텐",
+          "meaning": "내가 줄 것이다",
+          "grammar": "동사"
+        },
+        {
+          "hebrew": "וַיִּתֵּן",
+          "ipa": "vajitˈten",
+          "korean": "바이텐",
+          "meaning": "그리고 두셨다, 두시다",
+          "grammar": "동사"
+        }
+      ]
+    }
+  ]
+}

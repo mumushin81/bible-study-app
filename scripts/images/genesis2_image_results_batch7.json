@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 7,
+  "startIndex": 121,
+  "endIndex": 140,
+  "totalWords": 20,
+  "generated": 19,
+  "existing": 0,
+  "failed": 1,
+  "results": [
+    {
+      "hebrew": "בְגַן-עֵדֶן",
+      "korean": "베간 에덴",
+      "meaning": "에덴 동산에",
+      "romanized": "beganeden",
+      "imageUrl": "https://replicate.delivery/xezq/VZLcOIFwwGaZK1BNbCalS3QKCraYjfoswi74L8TIuecPAolVA/tmpblehdjn9.jpg",
+      "localPath": "beganeden.jpg"
+    },
+    {
+      "hebrew": "לְעָבְדָהּ",
+      "korean": "레아브다",
+      "meaning": "그것을 경작하기 위해, 섬기기 위해",
+      "romanized": "reabeuda",
+      "imageUrl": null,
+      "localPath": null
+    },
+    {
+      "hebrew": "וּלְשָׁמְרָהּ",
+      "korean": "울쇼므라",
+      "meaning": "그리고 그것을 지키기 위해",
+      "romanized": "ulsyomeura",
+      "imageUrl": "https://replicate.delivery/xezq/v2CaT4L5LJq8KZ9ZCYqlIxzRvfM7DLNAupQxjM21hednAolVA/tmpk45juosz.jpg",
+      "localPath": "ulsyomeura.jpg"
+    },
+    {
+      "hebrew": "וַיְצַו",
+      "korean": "바예차브",
+      "meaning": "명령하셨다",
+      "romanized": "bayechabeu",
+      "imageUrl": "https://replicate.delivery/xezq/Sos3OhDyImZrLxgSTXQCReBaTih0UPry0bcERd5AUudWA0yKA/tmpcz9rx7vx.jpg",
+      "localPath": "bayechabeu.jpg"
+    },
+    {
+      "hebrew": "עַל-הָאָדָם",
+      "korean": "알 하아담",
+      "meaning": "아담에게",
+      "romanized": "alhaadam",
+      "imageUrl": "https://replicate.delivery/xezq/iaUtn2g0FW5QOR3Q7ReFU9wneAfVGkjFrp24apw1eO2HDgWWB/tmp_2y_9e7n.jpg",
+      "localPath": "alhaadam.jpg"
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "korean": "레모르",
+      "meaning": "말씀하시기를",
+      "romanized": "remoreu",
+      "imageUrl": "https://replicate.delivery/xezq/TZAdKfiVBN2gJK8mVZOve9BRlNjPSlTmisx5dcfxC2JtBQLrA/tmp6c4g039l.jpg",
+      "localPath": "remoreu.jpg"
+    },
+    {
+      "hebrew": "עֵץ-הַגָּן",
+      "korean": "에츠 하간",
+      "meaning": "동산의 나무",
+      "romanized": "echeuhagan",
+      "imageUrl": "https://replicate.delivery/xezq/MLlJesftT1h9mUduZUc6rNgy5C9lFqm6IeKvOdL9s9p5BQLrA/tmpahoo8diz.jpg",
+      "localPath": "echeuhagan.jpg"
+    },
+    {
+      "hebrew": "אָכֹל תֹּאכֵל",
+      "korean": "아콜 토켈",
+      "meaning": "먹어도 되느니라, 반드시 먹으라",
+      "romanized": "akoltokel",
+      "imageUrl": "https://replicate.delivery/xezq/V25sFyWaVpJINNP6h019Iaf8Z9L4bWVI1dCb8AieyDCDBolVA/tmp4cqozs4d.jpg",
+      "localPath": "akoltokel.jpg"
+    },
+    {
+      "hebrew": "וּמֵעֵץ",
+      "korean": "우메에츠",
+      "meaning": "그리고 나무로부터",
+      "romanized": "umeecheu",
+      "imageUrl": "https://replicate.delivery/xezq/e1g0J8hzrftkiU7sFfePJ0lTzn35pJMpxuZw2chpaRvhEgWWB/tmphzbuqkk2.jpg",
+      "localPath": "umeecheu.jpg"
+    },
+    {
+      "hebrew": "הַדַּעַת",
+      "korean": "하다아트",
+      "meaning": "지식의, 아는 것의",
+      "romanized": "hadaateu",
+      "imageUrl": "https://replicate.delivery/xezq/9kBaQieSY8ywXaWAvAnqF7Uf4m3SkUXgQpqXFuSYGFXQBolVA/tmp051b708n.jpg",
+      "localPath": "hadaateu.jpg"
+    },
+    {
+      "hebrew": "וָרָע",
+      "korean": "바라",
+      "meaning": "그리고 악한",
+      "romanized": "bara",
+      "imageUrl": "https://replicate.delivery/xezq/s29ced4dlG3KFSwRX8ocDxg1hMFn5UOBfkF1XV97bpKWBolVA/tmpdqw4cy2n.jpg",
+      "localPath": "bara.jpg"
+    },
+    {
+      "hebrew": "לֹא תֹאכַל",
+      "korean": "로 토칼",
+      "meaning": "먹지 말라",
+      "romanized": "rotokal",
+      "imageUrl": "https://replicate.delivery/xezq/X3fNFj4JCM0PSKzpm5QhF5JZOrAoLprMlQHT7CQ3sChuA0yKA/tmpmxjbshy5.jpg",
+      "localPath": "rotokal.jpg"
+    },
+    {
+      "hebrew": "מִמֶּנּוּ",
+      "korean": "미멘누",
+      "meaning": "그것으로부터",
+      "romanized": "mimennu",
+      "imageUrl": "https://replicate.delivery/xezq/Ls99qQ6skxLBOBsZlmVqfLiR2zsfl2plQifKhCPb2udFDQLrA/tmpdcta85zf.jpg",
+      "localPath": "mimennu.jpg"
+    },
+    {
+      "hebrew": "אֲכָלְךָ",
+      "korean": "아콜카",
+      "meaning": "네가 먹는",
+      "romanized": "akolka",
+      "imageUrl": "https://replicate.delivery/xezq/3N1EYfjXlWxua6Qhk7IGmnRXrO1seLRz99iCezqXzyJPDQLrA/tmpnjjwra6c.jpg",
+      "localPath": "akolka.jpg"
+    },
+    {
+      "hebrew": "מוֹת תָּמוּת",
+      "korean": "모트 타무트",
+      "meaning": "반드시 죽을 것이다",
+      "romanized": "moteutamuteu",
+      "imageUrl": "https://replicate.delivery/xezq/T1vFB11of7RNTaULHLkb4EpskBdYKL6TqxpRWqnDIod2A0yKA/tmpzsz85bha.jpg",
+      "localPath": "moteutamuteu.jpg"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "korean": "바요메르",
+      "meaning": "그리고 말씀하셨다",
+      "romanized": "bayomereu",
+      "imageUrl": "https://replicate.delivery/xezq/XMLn5VVg04obGRmKyM2iQB7fQXwiBrrcEB5XhyrLfyhxBolVA/tmpvjj1eea4.jpg",
+      "localPath": "bayomereu.jpg"
+    },
+    {
+      "hebrew": "לֹא-טוֹב",
+      "korean": "로 토브",
+      "meaning": "좋지 않다",
+      "romanized": "rotobeu",
+      "imageUrl": "https://replicate.delivery/xezq/igIOvSdkHqIIBtlUZm2Aw9Vs5n3afIBkf5EeM1ezLHzcHgWWB/tmpon1vqcc9.jpg",
+      "localPath": "rotobeu.jpg"
+    },
+    {
+      "hebrew": "הֱיוֹת",
+      "korean": "헤요트",
+      "meaning": "있음, 존재하다",
+      "romanized": "heyoteu",
+      "imageUrl": "https://replicate.delivery/xezq/Tc4iisltkKYfV6tjMugx9sDKIQ5SRhgJONHAM72aK9afBolVA/tmp0_za3v_2.jpg",
+      "localPath": "heyoteu.jpg"
+    },
+    {
+      "hebrew": "לְבַדּוֹ",
+      "korean": "르바도",
+      "meaning": "홀로, 혼자",
+      "romanized": "reubado",
+      "imageUrl": "https://replicate.delivery/xezq/UjfFXetmdmibpUMEVyWOJHw6iPrumeEzqnqck8vn7O6GEQLrA/tmp6ptoxj3o.jpg",
+      "localPath": "reubado.jpg"
+    },
+    {
+      "hebrew": "אֶעֱשֶׂה-לּוֹ",
+      "korean": "에에세 로",
+      "meaning": "내가 그를 위해 만들겠다",
+      "romanized": "eesero",
+      "imageUrl": "https://replicate.delivery/xezq/ptTC1MMWfr3eZUu6N7fV9pxQJSNflrQ3u9nx7skWnhTiIgWWB/tmp6zc3jfld.jpg",
+      "localPath": "eesero.jpg"
+    }
+  ]
+}

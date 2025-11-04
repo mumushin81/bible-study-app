@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
-import { Verse, Word, Commentary, CommentarySection, RootEtymology } from '../types'
+import { Verse, Word, Commentary, CommentarySection, RootEtymology, RootLetterAnalysis } from '../types'
 import { useHebrewRoots } from '../contexts/HebrewRootsContext'
 
 // Supabase 쿼리 결과 타입 (일부 필드는 쿼리에 따라 누락될 수 있음)
@@ -16,6 +16,8 @@ interface VerseWithWords {
   modern: string
   literal: string | null
   translation: string | null
+  created_at: string
+  updated_at: string
   words: Array<{
     hebrew: string
     meaning: string
@@ -23,10 +25,11 @@ interface VerseWithWords {
     korean: string
     root: string
     grammar: string
-    icon_url: string | null
+    flashcard_img_url: string | null
     icon_svg: string | null
     letters: string | null
     category: string | null
+    root_analysis: any
     position: number
   }>
 }
@@ -89,10 +92,11 @@ export function useVerses(options?: UseVersesOptions) {
               korean,
               root,
               grammar,
-              icon_url,
+              flashcard_img_url,
               icon_svg,
               letters,
               category,
+              root_analysis,
               position
             )
           `)
@@ -107,10 +111,10 @@ export function useVerses(options?: UseVersesOptions) {
           versesQuery = versesQuery.eq('chapter', options.chapter)
         }
 
-        const { data: versesData, error: versesError } = await versesQuery
+        const { data, error: versesError } = await versesQuery
 
         if (versesError) throw versesError
-        if (!versesData || versesData.length === 0) {
+        if (!data || data.length === 0) {
           // DB에 데이터가 없으면 빈 배열
           console.warn('⚠️  DB에 구절이 없습니다.')
           setVerses([])
@@ -118,8 +122,10 @@ export function useVerses(options?: UseVersesOptions) {
           return
         }
 
+        const versesData = data as VerseWithWords[]
+
         // 2️⃣ Verse IDs 추출
-        const verseIds = versesData.map((v: VerseWithWords) => v.id)
+        const verseIds = versesData.map((v) => v.id)
 
         // 3️⃣ Commentaries + 중첩 테이블 별도 조회
         const { data: commentariesData } = await supabase
@@ -157,7 +163,7 @@ export function useVerses(options?: UseVersesOptions) {
         })
 
         // 5️⃣ 데이터 병합 및 변환 (rootsMap은 context에서 가져옴)
-        const versesWithDetails: Verse[] = versesData.map((verse: VerseWithWords) => {
+        const versesWithDetails: Verse[] = versesData.map((verse) => {
           // Word 타입으로 변환 (position으로 정렬)
           const words: Word[] = (verse.words || [])
             .sort((a, b) => a.position - b.position)
@@ -182,10 +188,11 @@ export function useVerses(options?: UseVersesOptions) {
                 letters: w.letters || undefined,
                 root: w.root,
                 grammar: w.grammar,
-                iconUrl: w.icon_url || undefined,
+                flashcardImgUrl: w.flashcard_img_url || w.icon_svg || undefined,
                 iconSvg: w.icon_svg || undefined,
                 category: (w.category as 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle' | null) || undefined,
                 rootEtymology,  // ✨ 어근 어원 정보
+                rootAnalysis: w.root_analysis || undefined,  // ✅ 어근 글자별 발음 분석
               }
             })
 

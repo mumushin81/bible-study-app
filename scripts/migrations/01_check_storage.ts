@@ -30,20 +30,20 @@ async function checkStorage() {
     console.log(`  - ${bucket.name} (${bucket.public ? 'public' : 'private'})`)
   })
 
-  // hebrew-icons bucket 확인
-  const hasIconBucket = buckets.some(b => b.name === 'hebrew-icons')
+  // flashcardimg bucket 확인
+  const hasFlashcardBucket = buckets.some(b => b.name === 'flashcardimg')
 
-  if (hasIconBucket) {
-    console.log('\n✅ hebrew-icons bucket 이미 존재합니다!')
+  if (hasFlashcardBucket) {
+    console.log('\n✅ flashcardimg bucket 이미 존재합니다!')
 
     // 파일 목록 확인
     const { data: files } = await supabase.storage
-      .from('hebrew-icons')
-      .list('icons')
+      .from('flashcardimg')
+      .list('words')
 
-    console.log(`📁 icons 폴더에 ${files?.length || 0}개 파일 존재`)
+    console.log(`📁 words 폴더에 ${files?.length || 0}개 파일 존재`)
   } else {
-    console.log('\n⚠️  hebrew-icons bucket이 없습니다. 생성이 필요합니다.')
+    console.log('\n⚠️  flashcardimg bucket이 없습니다. 생성이 필요합니다.')
   }
 }
 

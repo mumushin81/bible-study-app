@@ -18,7 +18,8 @@
       "relatedWords": [
         "יָצַר (야차르 - 만들다, 형성하다)",
         "יֵצֶר (예체르 - 성향, 경향)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baichereu.jpg"
     },
     {
       "hebrew": "יְהוָה אֱלֹהִים",
@@ -46,7 +47,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 땅, 흙)",
         "אָדָם (아담 - 사람)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/minhaadama.jpg"
     },
     {
       "hebrew": "כָּל-חַיַּת הַשָּׂדֶה",
@@ -60,7 +62,8 @@
       "relatedWords": [
         "חַיָּה (하야 - 생물, 살아있는 것)",
         "בְּהֵמָה (베헤마 - 가축)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kolhayateuhasade.jpg"
     },
     {
       "hebrew": "וְאֵת כָּל-עוֹף הַשָּׁמַיִם",
@@ -74,7 +77,8 @@
       "relatedWords": [
         "עוֹף (오프 - 날개 있는 것, 새)",
         "צִפּוֹר (치포르 - 작은 새)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beeteukolopeuhasyamaim.jpg"
     },
     {
       "hebrew": "וַיָּבֵא אֶל-הָאָדָם",
@@ -84,7 +88,8 @@
       "letters": "וַ(va) + יָּבֵא(yave) + אֶל(el) + הָ(ha) + אָדָם(adam)",
       "root": "ב-ו-א (보)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"man6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient><linearGradient id=\"robe6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\"/><stop offset=\"100%\" stop-color=\"#BDB76B\"/></linearGradient><radialGradient id=\"light6\"><stop offset=\"0%\" stop-color=\"#FFFACD\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"arrow6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#light6)\"/><circle cx=\"28\" cy=\"22\" r=\"6\" fill=\"url(#man6)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 28 28 L 28 40\" stroke=\"url(#robe6)\" stroke-width=\"8\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 28 32 L 22 36\" stroke=\"url(#man6)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 28 32 L 34 36\" stroke=\"url(#man6)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 40 32 L 50 32\" stroke=\"url(#arrow6)\" stroke-width=\"3\" marker-end=\"url(#arrowhead6)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\"/><defs><marker id=\"arrowhead6\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E90FF\"/></marker></defs></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"man6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFDAB9\"/><stop offset=\"100%\" stop-color=\"#DEB887\"/></linearGradient><linearGradient id=\"robe6\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#F0E68C\"/><stop offset=\"100%\" stop-color=\"#BDB76B\"/></linearGradient><radialGradient id=\"light6\"><stop offset=\"0%\" stop-color=\"#FFFACD\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#FFD700\" stop-opacity=\"0\"/></radialGradient><linearGradient id=\"arrow6\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4169E1\"/><stop offset=\"100%\" stop-color=\"#1E90FF\"/></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#light6)\"/><circle cx=\"28\" cy=\"22\" r=\"6\" fill=\"url(#man6)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 28 28 L 28 40\" stroke=\"url(#robe6)\" stroke-width=\"8\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 28 32 L 22 36\" stroke=\"url(#man6)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 28 32 L 34 36\" stroke=\"url(#man6)\" stroke-width=\"3\" stroke-linecap=\"round\"/><path d=\"M 40 32 L 50 32\" stroke=\"url(#arrow6)\" stroke-width=\"3\" marker-end=\"url(#arrowhead6)\" filter=\"drop-shadow(2px 2px 3px rgba(0, 0, 0, 0.3))\"/><defs><marker id=\"arrowhead6\" markerWidth=\"10\" markerHeight=\"10\" refX=\"9\" refY=\"3\" orient=\"auto\"><polygon points=\"0 0, 10 3, 0 6\" fill=\"#1E90FF\"/></marker></defs></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayabeelhaadam.jpg"
     },
     {
       "hebrew": "לִרְאוֹת",
@@ -98,7 +103,8 @@
       "relatedWords": [
         "רָאָה (라아 - 보다)",
         "רְאִיָּה (레이야 - 시각, 환상)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rireuoteu.jpg"
     },
     {
       "hebrew": "מַה-יִּקְרָא-לוֹ",
@@ -112,7 +118,8 @@
       "relatedWords": [
         "קָרָא (카라 - 부르다, 읽다)",
         "שֵׁם (셈 - 이름)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/maikeuraro.jpg"
     },
     {
       "hebrew": "הָאָדָם",
@@ -126,7 +133,8 @@
       "relatedWords": [
         "אָדָם (아담 - 인류, 사람)",
         "אֲדָמָה (아다마 - 땅, 흙)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haadam.jpg"
     },
     {
       "hebrew": "נֶפֶשׁ חַיָּה",
@@ -140,7 +148,8 @@
       "relatedWords": [
         "נֶפֶשׁ (네페쉬 - 영혼, 생명)",
         "חַיִּים (하임 - 생명, 삶)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/nepeswihaya.jpg"
     },
     {
       "hebrew": "שְׁמוֹ",
@@ -154,7 +163,8 @@
       "relatedWords": [
         "שֵׁם (셈 - 이름)",
         "שָׁם (샴 - 거기에)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/swemo.jpg"
     }
   ],
   "commentary": {

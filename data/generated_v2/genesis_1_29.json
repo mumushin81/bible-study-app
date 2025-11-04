@@ -18,7 +18,8 @@
       "relatedWords": [
         "אָמַר (אמר - 말하다)",
         "דִּבֵּר (디베르 - 이야기하다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "הִנֵּה",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "רָאָה (라아 - 보다)",
         "הַבֵּט (하베트 - 바라보다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hinne.jpg"
     },
     {
       "hebrew": "נָתַתִּי",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "נָתַן (나탄 - 주다)",
         "מַתָּנָה (마타나 - 선물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/natati.jpg"
     },
     {
       "hebrew": "לָכֶם",
@@ -70,7 +74,8 @@
       "letters": "לָ(la) + כֶם(khem)",
       "root": "לְ (레)",
       "grammar": "전치사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient><radialGradient id=\"person5\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#11998E\" /></radialGradient></defs><circle cx=\"24\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"24\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"40\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"40\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"32\" cy=\"26\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"people5\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#11998E\" /><stop offset=\"100%\" stop-color=\"#38EF7D\" /></linearGradient><radialGradient id=\"person5\"><stop offset=\"0%\" stop-color=\"#A8EDEA\" /><stop offset=\"100%\" stop-color=\"#11998E\" /></radialGradient></defs><circle cx=\"24\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"24\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"40\" cy=\"20\" r=\"8\" fill=\"url(#person5)\" filter=\"drop-shadow(0 3px 6px rgba(17, 153, 142, 0.4))\" /><ellipse cx=\"40\" cy=\"40\" rx=\"12\" ry=\"16\" fill=\"url(#people5)\" filter=\"drop-shadow(0 4px 8px rgba(17, 153, 142, 0.3))\" /><circle cx=\"32\" cy=\"26\" r=\"6\" fill=\"#FFFFFF\" opacity=\"0.3\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rakem.jpg"
     },
     {
       "hebrew": "עֵשֶׂב",
@@ -84,7 +89,8 @@
       "relatedWords": [
         "דֶּשֶׁא (데셰 - 푸른 풀)",
         "יֶרֶק (예레크 - 채소)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/esebeu.jpg"
     },
     {
       "hebrew": "זֹרֵעַ זֶרַע",
@@ -98,7 +104,8 @@
       "relatedWords": [
         "זֶרַע (제라 - 씨앗)",
         "זָרַע (자라 - 심다, 뿌리다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/joreajera.jpg"
     },
     {
       "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
@@ -112,7 +119,8 @@
       "relatedWords": [
         "אֶרֶץ (에레츠 - 땅, 지구)",
         "תֵּבֵל (테벨 - 세계)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alpenekolhaarecheu.jpg"
     },
     {
       "hebrew": "הָעֵץ",
@@ -126,7 +134,8 @@
       "relatedWords": [
         "עֵץ חַיִּים (에츠 하임 - 생명나무)",
         "אִילָן (일란 - 큰 나무)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haecheu.jpg"
     },
     {
       "hebrew": "פְרִי",
@@ -140,7 +149,8 @@
       "relatedWords": [
         "פָּרָה (파라 - 열매맺다)",
         "תְּנוּבָה (테누바 - 수확물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/peri.jpg"
     },
     {
       "hebrew": "לְאָכְלָה",
@@ -154,7 +164,8 @@
       "relatedWords": [
         "אָכַל (아칼 - 먹다)",
         "מַאֲכָל (마아칼 - 음식)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reokeulra.jpg"
     }
   ],
   "commentary": {

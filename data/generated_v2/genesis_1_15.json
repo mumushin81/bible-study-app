@@ -18,7 +18,8 @@
       "relatedWords": [
         "הָיָה (하야 - 있다, 되다)",
         "יִהְיֶה (예흐예 - 될 것이다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayu.jpg"
     },
     {
       "hebrew": "לִמְאוֹרֹת",
@@ -33,7 +34,8 @@
         "אוֹר (오르 - 빛)",
         "מָאוֹר (마오르 - 광명체)",
         "נֵר (네르 - 등, 램프)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rimoroteu.jpg"
     },
     {
       "hebrew": "בִּרְקִיעַ",
@@ -47,7 +49,8 @@
       "relatedWords": [
         "רָקִיעַ (라키아 - 궁창)",
         "שָׁמַיִם (샤마임 - 하늘)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bireukia.jpg"
     },
     {
       "hebrew": "הַשָּׁמַיִם",
@@ -61,7 +64,8 @@
       "relatedWords": [
         "שָׁמֶה (샤메 - 높은 곳)",
         "עָנָן (아난 - 구름)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/hashamayim.jpg"
     },
     {
       "hebrew": "לְהָאִיר",
@@ -75,7 +79,8 @@
       "relatedWords": [
         "אוֹר (오르 - 빛)",
         "הֵאִיר (헤이르 - 비추다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rehaireu.jpg"
     },
     {
       "hebrew": "עַל",
@@ -85,7 +90,8 @@
       "letters": "עַ(a) + ל(l)",
       "root": "עַל (알)",
       "grammar": "전치사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"direction15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\"/><stop offset=\"100%\" stop-color=\"#1565C0\"/></linearGradient><linearGradient id=\"arrow15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD740\"/><stop offset=\"100%\" stop-color=\"#FFA000\"/></linearGradient></defs><rect x=\"24\" y=\"8\" width=\"16\" height=\"32\" fill=\"url(#arrow15)\" rx=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 32 40 L 12 48 L 32 56 L 52 48 Z\" fill=\"url(#arrow15)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><rect x=\"16\" y=\"52\" width=\"32\" height=\"4\" fill=\"url(#direction15)\" rx=\"2\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"direction15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#42A5F5\"/><stop offset=\"100%\" stop-color=\"#1565C0\"/></linearGradient><linearGradient id=\"arrow15\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD740\"/><stop offset=\"100%\" stop-color=\"#FFA000\"/></linearGradient></defs><rect x=\"24\" y=\"8\" width=\"16\" height=\"32\" fill=\"url(#arrow15)\" rx=\"2\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 32 40 L 12 48 L 32 56 L 52 48 Z\" fill=\"url(#arrow15)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><rect x=\"16\" y=\"52\" width=\"32\" height=\"4\" fill=\"url(#direction15)\" rx=\"2\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/al.jpg"
     },
     {
       "hebrew": "הָאָרֶץ",
@@ -99,7 +105,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 땅, 흙)",
         "תֵּבֵל (테벨 - 세계)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/haaretz.jpg"
     },
     {
       "hebrew": "וַיְהִי־כֵן",
@@ -113,7 +120,8 @@
       "relatedWords": [
         "כֵּן (켄 - 그렇게, 그러하다)",
         "נַעֲשֶׂה (나아세 - 이루어지다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehiken.jpg"
     }
   ],
   "commentary": {

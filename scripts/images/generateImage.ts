@@ -7,23 +7,34 @@
 
 import 'dotenv/config'
 import Replicate from 'replicate'
-import { writeFileSync, mkdirSync } from 'fs'
+import { writeFileSync, mkdirSync, readFileSync } from 'fs'
 import { join } from 'path'
+import { createClient } from '@supabase/supabase-js'
 import { generateWordImagePrompt, generateSimplePrompt, WordInfo } from './generateImagePrompt.js'
+import dotenv from 'dotenv'
+
+// 환경변수 로드
+dotenv.config({ path: '.env.local' })
 
 interface GenerateImageOptions {
-  outputDir?: string
   aspectRatio?: '1:1' | '16:9' | '9:16' | '21:9' | '3:2' | '2:3' | '4:5' | '5:4' | '3:4' | '4:3' | '9:21'
   outputFormat?: 'webp' | 'jpg' | 'png'
   outputQuality?: number
   goFast?: boolean
   numOutputs?: number
   seed?: number
+  uploadToSupabase?: boolean
 }
 
 const replicate = new Replicate({
-  auth: process.env.REPLICATE_API_TOKEN || '',
+  auth: process.env.VITE_REPLICATE_API_TOKEN || process.env.REPLICATE_API_TOKEN || '',
 })
+
+// Supabase 클라이언트 생성
+const supabase = createClient(
+  process.env.VITE_SUPABASE_URL!,
+  process.env.SUPABASE_SERVICE_ROLE_KEY!
+)
 
 /**
  * 히브리어를 파일명으로 변환 (니쿠드 제거)
@@ -46,17 +57,14 @@ export async function generateWordImage(
   options: GenerateImageOptions = {}
 ): Promise<string[]> {
   const {
-    outputDir = join(process.cwd(), 'public/images/words'),
     aspectRatio = '9:16', // 플래시카드 모바일 비율
     outputFormat = 'jpg', // JPG 기본
     outputQuality = 100, // 최고 품질
     goFast = true,
     numOutputs = 1,
     seed,
+    uploadToSupabase = true,
   } = options
-
-  // 출력 디렉토리 생성
-  mkdirSync(outputDir, { recursive: true })
 
   const { hebrew, meaning, korean } = word
   const filename = hebrewToFilename(hebrew)
@@ -88,44 +96,75 @@ export async function generateWordImage(
     }
   )
 
-  // FLUX 1.1 Pro는 단일 URL을 직접 반환
-  const imageUrl = typeof output === 'string' ? output : output
+  // FLUX 1.1 Pro는 단일 URL이나 URL 배열을 반환할 수 있음
+  const imageUrls = Array.isArray(output) ? output : [output];
 
   const duration = ((Date.now() - startTime) / 1000).toFixed(2)
   console.log(`⏱️  생성 시간: ${duration}초`)
 
   // 이미지 다운로드 및 저장
-  const savedPaths: string[] = []
+  const savedUrls: string[] = []
 
-  for (let i = 0; i < output.length; i++) {
-    const imageUrl = output[i]
-    console.log(`\n📥 이미지 다운로드 중 (${i + 1}/${output.length})...`)
+  console.log(`📥 총 ${imageUrls.length}개 이미지 다운로드 및 저장 시작`)
+
+  for (let i = 0; i < imageUrls.length; i++) {
+    const imageUrl = imageUrls[i]
+    console.log(`\n📥 이미지 다운로드 중 (${i + 1}/${imageUrls.length})...`)
     console.log(`🔗 URL: ${imageUrl}`)
 
-    // 이미지 다운로드
-    const response = await fetch(imageUrl)
-    const buffer = await response.arrayBuffer()
+    try {
+      // 이미지 다운로드
+      const response = await fetch(imageUrl)
 
-    // 파일명 생성
-    const finalFilename = numOutputs > 1
-      ? `${filename}_${i + 1}.${outputFormat}`
-      : `${filename}.${outputFormat}`
+      if (!response.ok) {
+        console.error(`❌ 이미지 다운로드 실패: HTTP ${response.status}`)
+        continue
+      }
 
-    const filepath = join(outputDir, finalFilename)
+      const buffer = await response.arrayBuffer()
 
-    // 파일 저장
-    writeFileSync(filepath, Buffer.from(buffer))
+      // 파일명 생성
+      const finalFilename = imageUrls.length > 1
+        ? `${filename}_${i + 1}.${outputFormat}`
+        : `${filename}.${outputFormat}`
 
-    console.log(`✅ 저장 완료: ${filepath}`)
-    console.log(`📊 크기: ${(buffer.byteLength / 1024).toFixed(2)} KB`)
+      // Supabase 스토리지에 업로드
+      if (uploadToSupabase) {
+        const { data, error } = await supabase.storage
+          .from('flashcard_images')
+          .upload(`words/${finalFilename}`, buffer, {
+            contentType: `image/${outputFormat}`,
+            upsert: true
+          })
 
-    savedPaths.push(filepath)
+        if (error) {
+          console.error(`❌ Supabase 업로드 실패:`, error)
+          continue
+        }
+
+        // 공개 URL 생성
+        const { data: { publicUrl }, error: urlError } = supabase.storage
+          .from('flashcard_images')
+          .getPublicUrl(`words/${finalFilename}`)
+
+        if (urlError) {
+          console.error(`❌ 공개 URL 생성 실패:`, urlError)
+          continue
+        }
+
+        savedUrls.push(publicUrl)
+        console.log(`✅ Supabase 업로드 완료: ${publicUrl}`)
+      }
+    } catch (error) {
+      console.error(`❌ 이미지 처리 중 오류 발생:`, error)
+    }
   }
 
-  // 비용 계산 (FLUX 1.1 Pro: 가격 변동 가능)
+  console.log(`\n📊 총 ${savedUrls.length}개 이미지 업로드 완료`)
+
   console.log(`\n💰 이미지 생성 완료 (${numOutputs}장)`)
 
-  return savedPaths
+  return savedUrls
 }
 
 /**

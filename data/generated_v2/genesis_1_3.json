@@ -18,7 +18,8 @@
       "relatedWords": [
         "אָמַר (아마르 - 말하다)",
         "דָּבָר (다바르 - 말씀)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "יְהִי",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "הָיָה (하야 - 되다, 존재하다)",
         "הֱיוֹת (헤요트 - 존재)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yehi.jpg"
     },
     {
       "hebrew": "אוֹר",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "אוֹרָה (오라 - 빛, 광채)",
         "מָאוֹר (마오르 - 발광체)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oreu.jpg"
     },
     {
       "hebrew": "וַיְהִי",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "הָיָה (하야 - 되다, 존재하다)",
         "יֵשׁ (예쉬 - 있다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehi.jpg"
     }
   ],
   "commentary": {

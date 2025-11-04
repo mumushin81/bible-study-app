@@ -18,7 +18,8 @@
       "relatedWords": [
         "כָּלָה (칼라 - 완성하다, 끝내다)",
         "כְּלִילָה (클릴라 - 완전함, 전체)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayekal.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elrohim.jpg"
     },
     {
       "hebrew": "בַּיּוֹם הַשְּׁבִיעִי",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "שַׁבָּת (샤바트 - 안식일)",
         "שָׁבַע (샤바 - 일곱)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomhaswebii.jpg"
     },
     {
       "hebrew": "מְלַאכְתּוֹ",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "מְלָאכָה (믈라카 - 일, 사역)",
         "מַלְאָךְ (말아크 - 천사, 사자)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/meulraheuto.jpg"
     },
     {
       "hebrew": "אֲשֶׁר עָשָׂה",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "עֹשֶׂה (오세 - 만드는 자)",
         "מַעֲשֶׂה (마아세 - 행위, 작품)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereuasa.jpg"
     },
     {
       "hebrew": "וַיִּשְׁבֹּת",
@@ -88,7 +93,8 @@
       "relatedWords": [
         "שַׁבָּת (샤바트 - 안식일)",
         "שָׁבַת (샤바트 - 쉬다, 그치다)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baiswiboteu.jpg"
     },
     {
       "hebrew": "מִכָּל",
@@ -98,7 +104,8 @@
       "letters": "מִ(mi) + כָּל(kol)",
       "root": "כֹּל (콜)",
       "grammar": "전치사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#26C6DA\"/><stop offset=\"50%\" stop-color=\"#00ACC1\"/><stop offset=\"100%\" stop-color=\"#00838F\"/></linearGradient><radialGradient id=\"allGlow2\"><stop offset=\"0%\" stop-color=\"#B2EBF2\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#26C6DA\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#allGlow2)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"3\" filter=\"drop-shadow(0 0 6px rgba(38, 198, 218, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"2\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"2\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"12\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"52\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"32\" cy=\"52\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"12\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"all2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#26C6DA\"/><stop offset=\"50%\" stop-color=\"#00ACC1\"/><stop offset=\"100%\" stop-color=\"#00838F\"/></linearGradient><radialGradient id=\"allGlow2\"><stop offset=\"0%\" stop-color=\"#B2EBF2\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#26C6DA\" stop-opacity=\"0\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#allGlow2)\" opacity=\"0.4\"/><circle cx=\"32\" cy=\"32\" r=\"20\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"3\" filter=\"drop-shadow(0 0 6px rgba(38, 198, 218, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"14\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"2\" opacity=\"0.7\"/><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"none\" stroke=\"url(#all2)\" stroke-width=\"2\" opacity=\"0.5\"/><circle cx=\"32\" cy=\"12\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"52\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"32\" cy=\"52\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/><circle cx=\"12\" cy=\"32\" r=\"2\" fill=\"#FFD700\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.8))\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mikol.jpg"
     }
   ],
   "commentary": {

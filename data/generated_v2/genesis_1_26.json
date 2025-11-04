@@ -18,7 +18,8 @@
       "relatedWords": [
         "אָמַר (아마르 - 말하다)",
         "אֵמֶר (에메르 - 말씀)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -32,7 +33,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "נַעֲשֶׂה",
@@ -46,7 +48,8 @@
       "relatedWords": [
         "עָשָׂה (아사 - 만들다)",
         "מַעֲשֶׂה (마아세 - 작품, 행위)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/naase.jpg"
     },
     {
       "hebrew": "אָדָם",
@@ -60,7 +63,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 땅, 흙)",
         "אָדֹם (아돔 - 붉은)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/adam.jpg"
     },
     {
       "hebrew": "בְּצַלְמֵנוּ",
@@ -74,7 +78,8 @@
       "relatedWords": [
         "צֶלֶם (첼렘 - 형상, 이미지)",
         "צֵל (첼 - 그림자)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bejjalmenu.jpg"
     },
     {
       "hebrew": "כִּדְמוּתֵנוּ",
@@ -84,7 +89,8 @@
       "letters": "כִּ(ki) + דְ(d) + מוּ(mu) + תֵ(te) + נוּ(nu)",
       "root": "דְּמוּת (드무트)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"likeness26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#fa709a\"/><stop offset=\"100%\" stop-color=\"#fee140\"/></linearGradient><radialGradient id=\"sparkle26\"><stop offset=\"0%\" stop-color=\"#ffffff\"/><stop offset=\"100%\" stop-color=\"#fee140\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sparkle26)\" opacity=\"0.4\"/><path d=\"M 32 8 L 34 28 L 32 30 L 30 28 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 56 32 L 36 34 L 34 32 L 36 30 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 32 56 L 30 36 L 32 34 L 34 36 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 8 32 L 28 30 L 30 32 L 28 34 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 46 18 L 36 28 L 34 26 L 44 16 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 46 46 L 36 36 L 38 34 L 48 44 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 18 46 L 28 36 L 30 38 L 20 48 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 18 18 L 28 28 L 26 30 L 16 20 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 10px rgba(255, 255, 255, 1))\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"likeness26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#fa709a\"/><stop offset=\"100%\" stop-color=\"#fee140\"/></linearGradient><radialGradient id=\"sparkle26\"><stop offset=\"0%\" stop-color=\"#ffffff\"/><stop offset=\"100%\" stop-color=\"#fee140\" stop-opacity=\"0.3\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"24\" fill=\"url(#sparkle26)\" opacity=\"0.4\"/><path d=\"M 32 8 L 34 28 L 32 30 L 30 28 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 56 32 L 36 34 L 34 32 L 36 30 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 32 56 L 30 36 L 32 34 L 34 36 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 8 32 L 28 30 L 30 32 L 28 34 Z\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 6px rgba(254, 225, 64, 0.8))\"/><path d=\"M 46 18 L 36 28 L 34 26 L 44 16 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 46 46 L 36 36 L 38 34 L 48 44 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 18 46 L 28 36 L 30 38 L 20 48 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><path d=\"M 18 18 L 28 28 L 26 30 L 16 20 Z\" fill=\"url(#likeness26)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(250, 112, 154, 0.6))\"/><circle cx=\"32\" cy=\"32\" r=\"6\" fill=\"url(#likeness26)\" filter=\"drop-shadow(0 0 10px rgba(255, 255, 255, 1))\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kideumutenu.jpg"
     },
     {
       "hebrew": "וְיִרְדּוּ",
@@ -98,7 +104,8 @@
       "relatedWords": [
         "רָדָה (라다 - 다스리다)",
         "מֶמְשָׁלָה (멤샬라 - 통치)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beireudu.jpg"
     },
     {
       "hebrew": "דְגַת הַיָּם",
@@ -108,7 +115,8 @@
       "letters": "דְ(de) + גַ(ga) + ת(t) + הַ(ha) + יָּם(yam)",
       "root": "דָּג (다그)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ocean26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00d2ff\"/><stop offset=\"100%\" stop-color=\"#3a7bd5\"/></linearGradient><linearGradient id=\"fish26\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#FFA500\"/><stop offset=\"50%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#ocean26)\" rx=\"8\" opacity=\"0.3\"/><ellipse cx=\"38\" cy=\"32\" rx=\"18\" ry=\"10\" fill=\"url(#fish26)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\"/><path d=\"M 20 32 L 12 24 L 12 40 Z\" fill=\"url(#fish26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"48\" cy=\"30\" r=\"2.5\" fill=\"#000000\" opacity=\"0.8\"/><path d=\"M 28 28 L 40 28 L 38 30 L 40 32 L 28 32 Z\" fill=\"#FFA500\" opacity=\"0.6\"/><circle cx=\"16\" cy=\"14\" r=\"3\" fill=\"#00d2ff\" opacity=\"0.5\"/><circle cx=\"50\" cy=\"18\" r=\"2.5\" fill=\"#00d2ff\" opacity=\"0.5\"/><circle cx=\"24\" cy=\"50\" r=\"2\" fill=\"#00d2ff\" opacity=\"0.5\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ocean26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00d2ff\"/><stop offset=\"100%\" stop-color=\"#3a7bd5\"/></linearGradient><linearGradient id=\"fish26\" x1=\"0%\" y1=\"50%\" x2=\"100%\" y2=\"50%\"><stop offset=\"0%\" stop-color=\"#FFA500\"/><stop offset=\"50%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#ocean26)\" rx=\"8\" opacity=\"0.3\"/><ellipse cx=\"38\" cy=\"32\" rx=\"18\" ry=\"10\" fill=\"url(#fish26)\" filter=\"drop-shadow(0 2px 6px rgba(0, 0, 0, 0.3))\"/><path d=\"M 20 32 L 12 24 L 12 40 Z\" fill=\"url(#fish26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"48\" cy=\"30\" r=\"2.5\" fill=\"#000000\" opacity=\"0.8\"/><path d=\"M 28 28 L 40 28 L 38 30 L 40 32 L 28 32 Z\" fill=\"#FFA500\" opacity=\"0.6\"/><circle cx=\"16\" cy=\"14\" r=\"3\" fill=\"#00d2ff\" opacity=\"0.5\"/><circle cx=\"50\" cy=\"18\" r=\"2.5\" fill=\"#00d2ff\" opacity=\"0.5\"/><circle cx=\"24\" cy=\"50\" r=\"2\" fill=\"#00d2ff\" opacity=\"0.5\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/deugashayam.jpg"
     },
     {
       "hebrew": "עוֹף הַשָּׁמַיִם",
@@ -118,7 +126,8 @@
       "letters": "עוֹ(o) + ף(f) + הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim)",
       "root": "עוֹף (오프)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#a8edea\"/><stop offset=\"100%\" stop-color=\"#89CFF0\"/></linearGradient><linearGradient id=\"bird26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#ffffff\"/><stop offset=\"50%\" stop-color=\"#f0f0f0\"/><stop offset=\"100%\" stop-color=\"#ffffff\"/></linearGradient><radialGradient id=\"cloud26\"><stop offset=\"0%\" stop-color=\"#ffffff\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#89CFF0\" stop-opacity=\"0\"/></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky26)\" rx=\"8\" opacity=\"0.4\"/><ellipse cx=\"20\" cy=\"50\" rx=\"12\" ry=\"6\" fill=\"url(#cloud26)\"/><ellipse cx=\"48\" cy=\"14\" rx=\"10\" ry=\"5\" fill=\"url(#cloud26)\"/><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"6\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\"/><path d=\"M 24 32 Q 12 28 8 32 Q 12 36 24 34\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 40 32 Q 52 28 56 32 Q 52 36 40 34\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"28\" cy=\"30\" r=\"1.5\" fill=\"#000000\"/><path d=\"M 30 34 L 34 34\" stroke=\"#FFA500\" stroke-width=\"1.5\" stroke-linecap=\"round\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#a8edea\"/><stop offset=\"100%\" stop-color=\"#89CFF0\"/></linearGradient><linearGradient id=\"bird26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#ffffff\"/><stop offset=\"50%\" stop-color=\"#f0f0f0\"/><stop offset=\"100%\" stop-color=\"#ffffff\"/></linearGradient><radialGradient id=\"cloud26\"><stop offset=\"0%\" stop-color=\"#ffffff\" stop-opacity=\"0.8\"/><stop offset=\"100%\" stop-color=\"#89CFF0\" stop-opacity=\"0\"/></radialGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky26)\" rx=\"8\" opacity=\"0.4\"/><ellipse cx=\"20\" cy=\"50\" rx=\"12\" ry=\"6\" fill=\"url(#cloud26)\"/><ellipse cx=\"48\" cy=\"14\" rx=\"10\" ry=\"5\" fill=\"url(#cloud26)\"/><ellipse cx=\"32\" cy=\"32\" rx=\"8\" ry=\"6\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 3px 6px rgba(0, 0, 0, 0.2))\"/><path d=\"M 24 32 Q 12 28 8 32 Q 12 36 24 34\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><path d=\"M 40 32 Q 52 28 56 32 Q 52 36 40 34\" fill=\"url(#bird26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><circle cx=\"28\" cy=\"30\" r=\"1.5\" fill=\"#000000\"/><path d=\"M 30 34 L 34 34\" stroke=\"#FFA500\" stroke-width=\"1.5\" stroke-linecap=\"round\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/opeuhasyamaim.jpg"
     },
     {
       "hebrew": "בְּהֵמָה",
@@ -128,7 +137,8 @@
       "letters": "בְּ(be) + הֵ(he) + מָ(ma) + ה(h)",
       "root": "בְּהֵמָה (베헤마)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><linearGradient id=\"grass26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\"/><stop offset=\"100%\" stop-color=\"#228B22\"/></linearGradient></defs><rect x=\"0\" y=\"48\" width=\"64\" height=\"16\" fill=\"url(#grass26)\" opacity=\"0.4\"/><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#cattle26)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"28\" rx=\"10\" ry=\"8\" fill=\"url(#cattle26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><ellipse cx=\"28\" cy=\"26\" r=\"2\" fill=\"#000000\" opacity=\"0.8\"/><ellipse cx=\"36\" cy=\"26\" r=\"2\" fill=\"#000000\" opacity=\"0.8\"/><path d=\"M 22 22 L 20 18 L 24 20\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 42 22 L 44 18 L 40 20\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><rect x=\"24\" y=\"44\" width=\"4\" height=\"8\" rx=\"2\" fill=\"#8B4513\"/><rect x=\"36\" y=\"44\" width=\"4\" height=\"8\" rx=\"2\" fill=\"#8B4513\"/><ellipse cx=\"30\" cy=\"32\" r=\"1.5\" fill=\"#ffffff\" opacity=\"0.6\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#8B4513\"/><stop offset=\"100%\" stop-color=\"#D2691E\"/></linearGradient><linearGradient id=\"grass26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#90EE90\"/><stop offset=\"100%\" stop-color=\"#228B22\"/></linearGradient></defs><rect x=\"0\" y=\"48\" width=\"64\" height=\"16\" fill=\"url(#grass26)\" opacity=\"0.4\"/><ellipse cx=\"32\" cy=\"36\" rx=\"16\" ry=\"12\" fill=\"url(#cattle26)\" filter=\"drop-shadow(0 4px 6px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"28\" rx=\"10\" ry=\"8\" fill=\"url(#cattle26)\" filter=\"drop-shadow(0 2px 4px rgba(0, 0, 0, 0.2))\"/><ellipse cx=\"28\" cy=\"26\" r=\"2\" fill=\"#000000\" opacity=\"0.8\"/><ellipse cx=\"36\" cy=\"26\" r=\"2\" fill=\"#000000\" opacity=\"0.8\"/><path d=\"M 22 22 L 20 18 L 24 20\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 42 22 L 44 18 L 40 20\" stroke=\"#8B4513\" stroke-width=\"2\" fill=\"none\" stroke-linecap=\"round\"/><rect x=\"24\" y=\"44\" width=\"4\" height=\"8\" rx=\"2\" fill=\"#8B4513\"/><rect x=\"36\" y=\"44\" width=\"4\" height=\"8\" rx=\"2\" fill=\"#8B4513\"/><ellipse cx=\"30\" cy=\"32\" r=\"1.5\" fill=\"#ffffff\" opacity=\"0.6\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behema.jpg"
     },
     {
       "hebrew": "כָל-הָאָרֶץ",
@@ -142,7 +152,8 @@
       "relatedWords": [
         "אֶרֶץ (에레츠 - 땅, 나라)",
         "אֲדָמָה (아다마 - 흙, 토지)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kolhaarecheu.jpg"
     },
     {
       "hebrew": "הָרֶמֶשׂ",
@@ -152,7 +163,8 @@
       "letters": "הָ(ha) + רֶ(re) + מֶ(me) + שׂ(s)",
       "root": "ר-מ-שׂ (라마스)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ground26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"creature26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00C853\"/><stop offset=\"50%\" stop-color=\"#76FF03\"/><stop offset=\"100%\" stop-color=\"#00C853\"/></linearGradient></defs><rect x=\"0\" y=\"40\" width=\"64\" height=\"24\" fill=\"url(#ground26)\" opacity=\"0.3\" rx=\"4\"/><ellipse cx=\"16\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"24\" cy=\"42\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"40\" cy=\"42\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"48\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><circle cx=\"14\" cy=\"43\" r=\"1\" fill=\"#000000\" opacity=\"0.7\"/><circle cx=\"50\" cy=\"43\" r=\"1\" fill=\"#000000\" opacity=\"0.7\"/><path d=\"M 8 44 Q 6 42 4 44\" stroke=\"url(#creature26)\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 56 44 Q 58 42 60 44\" stroke=\"url(#creature26)\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"ground26\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#D2691E\"/><stop offset=\"100%\" stop-color=\"#8B4513\"/></linearGradient><linearGradient id=\"creature26\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00C853\"/><stop offset=\"50%\" stop-color=\"#76FF03\"/><stop offset=\"100%\" stop-color=\"#00C853\"/></linearGradient></defs><rect x=\"0\" y=\"40\" width=\"64\" height=\"24\" fill=\"url(#ground26)\" opacity=\"0.3\" rx=\"4\"/><ellipse cx=\"16\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"24\" cy=\"42\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"32\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"40\" cy=\"42\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><ellipse cx=\"48\" cy=\"44\" rx=\"5\" ry=\"4\" fill=\"url(#creature26)\" filter=\"drop-shadow(0 2px 3px rgba(0, 0, 0, 0.3))\"/><circle cx=\"14\" cy=\"43\" r=\"1\" fill=\"#000000\" opacity=\"0.7\"/><circle cx=\"50\" cy=\"43\" r=\"1\" fill=\"#000000\" opacity=\"0.7\"/><path d=\"M 8 44 Q 6 42 4 44\" stroke=\"url(#creature26)\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 56 44 Q 58 42 60 44\" stroke=\"url(#creature26)\" stroke-width=\"1.5\" fill=\"none\" stroke-linecap=\"round\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haremeseu.jpg"
     }
   ],
   "commentary": {

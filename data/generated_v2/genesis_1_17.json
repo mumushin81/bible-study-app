@@ -18,7 +18,8 @@
       "relatedWords": [
         "נָתַן (나탄 - 주다)",
         "מַתָּנָה (마타나 - 선물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baiten.jpg"
     },
     {
       "hebrew": "אֹתָם",
@@ -28,7 +29,8 @@
       "letters": "אֹ(o) + תָ(ta) + ם(m)",
       "root": "אֵת (에트)",
       "grammar": "대명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"star1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"star2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\"/><path d=\"M 15 32 L 20 28 L 20 30 L 28 30 L 28 34 L 20 34 L 20 36 Z\" fill=\"url(#star1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"40\" cy=\"22\" r=\"6\" fill=\"url(#glow1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/><path d=\"M 40 16 L 41 19 L 44 19 L 42 21 L 43 24 L 40 22 L 37 24 L 38 21 L 36 19 L 39 19 Z\" fill=\"url(#star2)\"/><circle cx=\"45\" cy=\"38\" r=\"5\" fill=\"url(#glow1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 5px rgba(255, 215, 0, 0.6))\"/><path d=\"M 45 33 L 46 36 L 49 36 L 47 38 L 48 41 L 45 39 L 42 41 L 43 38 L 41 36 L 44 36 Z\" fill=\"url(#star2)\" opacity=\"0.9\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"star1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\"/><stop offset=\"100%\" stop-color=\"#FF8C00\"/></linearGradient><linearGradient id=\"star2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFD700\"/></linearGradient><radialGradient id=\"glow1\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#FFA500\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"rgba(255, 215, 0, 0.1)\"/><path d=\"M 15 32 L 20 28 L 20 30 L 28 30 L 28 34 L 20 34 L 20 36 Z\" fill=\"url(#star1)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><circle cx=\"40\" cy=\"22\" r=\"6\" fill=\"url(#glow1)\" filter=\"drop-shadow(0 0 6px rgba(255, 215, 0, 0.8))\"/><path d=\"M 40 16 L 41 19 L 44 19 L 42 21 L 43 24 L 40 22 L 37 24 L 38 21 L 36 19 L 39 19 Z\" fill=\"url(#star2)\"/><circle cx=\"45\" cy=\"38\" r=\"5\" fill=\"url(#glow1)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 5px rgba(255, 215, 0, 0.6))\"/><path d=\"M 45 33 L 46 36 L 49 36 L 47 38 L 48 41 L 45 39 L 42 41 L 43 38 L 41 36 L 44 36 Z\" fill=\"url(#star2)\" opacity=\"0.9\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/otam.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -43,7 +45,8 @@
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)",
         "אֲדֹנָי (아도나이 - 주)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
@@ -57,7 +60,8 @@
       "relatedWords": [
         "רָקִיעַ (라키아 - 궁창, 창공)",
         "שָׁמַיִם (샤마임 - 하늘들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bireukiahasyamaim.jpg"
     },
     {
       "hebrew": "לְהָאִיר",
@@ -71,7 +75,8 @@
       "relatedWords": [
         "אוֹר (오르 - 빛)",
         "מָאוֹר (마오르 - 광체, 빛을 내는 것)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rehaireu.jpg"
     },
     {
       "hebrew": "עַל־הָאָרֶץ",
@@ -85,7 +90,8 @@
       "relatedWords": [
         "אֶרֶץ (에레츠 - 땅, 지구)",
         "אֲדָמָה (아다마 - 땅, 흙)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alhaarecheu.jpg"
     }
   ],
   "commentary": {

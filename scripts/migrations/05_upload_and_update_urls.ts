@@ -40,8 +40,8 @@ async function uploadAndUpdateUrls() {
       const fileBuffer = readFileSync(filepath)
 
       const { error: uploadError } = await supabase.storage
-        .from('hebrew-icons')
-        .upload(`icons/${filename}`, fileBuffer, {
+        .from('flashcardimg')
+        .upload(`words/${filename}`, fileBuffer, {
           contentType: 'image/jpeg',
           upsert: true  // 덮어쓰기
         })
@@ -54,13 +54,13 @@ async function uploadAndUpdateUrls() {
 
       // 3. Public URL 생성
       const { data: { publicUrl } } = supabase.storage
-        .from('hebrew-icons')
-        .getPublicUrl(`icons/${filename}`)
+        .from('flashcardimg')
+        .getPublicUrl(`words/${filename}`)
 
       // 4. DB 업데이트
       const { error: updateError } = await supabase
         .from('words')
-        .update({ icon_url: publicUrl })
+        .update({ flashcard_img_url: publicUrl })
         .eq('id', wordId)
 
       if (updateError) {

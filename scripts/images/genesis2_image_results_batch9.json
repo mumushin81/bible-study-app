@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 9,
+  "startIndex": 161,
+  "endIndex": 180,
+  "totalWords": 20,
+  "generated": 20,
+  "existing": 0,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "וַיִּישָׁן",
+      "korean": "바이샨",
+      "meaning": "그가 잠들었다",
+      "romanized": "baisyan",
+      "imageUrl": "https://replicate.delivery/xezq/CiQhuk70btpqINvZkzUgLiIXXaNUEbb7eJSmJuOdr5LEC0yKA/tmpmakma723.jpg",
+      "localPath": "baisyan.jpg"
+    },
+    {
+      "hebrew": "אַחַת",
+      "korean": "아하트",
+      "meaning": "하나",
+      "romanized": "ahateu",
+      "imageUrl": "https://replicate.delivery/xezq/V8I7Znf7UYQbaypO0SPZy5Bx7iefmeurfXZc4nb8iZD4hAtsC/tmpzrtct3by.jpg",
+      "localPath": "ahateu.jpg"
+    },
+    {
+      "hebrew": "מִצַּלְעֹתָיו",
+      "korean": "미찰로타브",
+      "meaning": "그의 갈비뼈들로부터",
+      "romanized": "michalrotabeu",
+      "imageUrl": "https://replicate.delivery/xezq/9fOWz1hGxGXcBy4JGEZmHeDM4KTcSYoBYuy13GdAuYWWEolVA/tmplqglmwvc.jpg",
+      "localPath": "michalrotabeu.jpg"
+    },
+    {
+      "hebrew": "וַיִּסְגֹּר",
+      "korean": "바이스고르",
+      "meaning": "닫으셨다, 메우셨다",
+      "romanized": "baiseugoreu",
+      "imageUrl": "https://replicate.delivery/xezq/IbEkY7MfoqzOekGehWlClV55j2F0G3WbalkvucBLPRn2IQLrA/tmpmh8di1t_.jpg",
+      "localPath": "baiseugoreu.jpg"
+    },
+    {
+      "hebrew": "בָּשָׂר",
+      "korean": "바사르",
+      "meaning": "살",
+      "romanized": "basareu",
+      "imageUrl": "https://replicate.delivery/xezq/F79hRGeFtl1dcyRK7R6QnTXRIafPFlNqt3gxFfm6tcKCJQLrA/tmpbo6lahlj.jpg",
+      "localPath": "basareu.jpg"
+    },
+    {
+      "hebrew": "תַּחְתֶּנָּה",
+      "korean": "타흐테나",
+      "meaning": "그것 대신에",
+      "romanized": "taheutena",
+      "imageUrl": "https://replicate.delivery/xezq/9DfOsfCIwDpDXUhZDG043dmsq1uKZvm9rxytioMPAi8mEolVA/tmpjjp4kj0w.jpg",
+      "localPath": "taheutena.jpg"
+    },
+    {
+      "hebrew": "וַיִּבֶן",
+      "korean": "바이벤",
+      "meaning": "건축하셨다, 만드셨다",
+      "romanized": "baiben",
+      "imageUrl": "https://replicate.delivery/xezq/FyteVWXVc7TYDi2M6sM9Q4TjvPe4feynYcUMz2Ajm7eclAtsC/tmpzbtav812.jpg",
+      "localPath": "baiben.jpg"
+    },
+    {
+      "hebrew": "הַצֵּלָע",
+      "korean": "하첼라",
+      "meaning": "갈비뼈",
+      "romanized": "hachelra",
+      "imageUrl": "https://replicate.delivery/xezq/4GDN41f3AqUWdyP2393enGINOPVfY3O4aGI5yhXeZD0DTgWWB/tmpjaa6i68m.jpg",
+      "localPath": "hachelra.jpg"
+    },
+    {
+      "hebrew": "אֲשֶׁר-לָקַח",
+      "korean": "아쉐르 라카흐",
+      "meaning": "취하신 것",
+      "romanized": "aswereurakaheu",
+      "imageUrl": "https://replicate.delivery/xezq/0niExTQYOo6cFtl8W2R6Jzst5oIU9RLLias776Aff5F1EolVA/tmpk1nstvyn.jpg",
+      "localPath": "aswereurakaheu.jpg"
+    },
+    {
+      "hebrew": "מִן-הָאָדָם",
+      "korean": "민 하아담",
+      "meaning": "사람으로부터",
+      "romanized": "minhaadam",
+      "imageUrl": "https://replicate.delivery/xezq/x9bQmac6UwYbOBfpf3i7gwoy69iadYwtj1LemoQOEy83JQLrA/tmpld87a82d.jpg",
+      "localPath": "minhaadam.jpg"
+    },
+    {
+      "hebrew": "לְאִשָּׁה",
+      "korean": "레이샤",
+      "meaning": "여자로",
+      "romanized": "reisya",
+      "imageUrl": "https://replicate.delivery/xezq/9tOSRT7h5z7xFxOBP62EDTqHZHSEhi7QN0szSeZIiFthC0yKA/tmp3zfd0afi.jpg",
+      "localPath": "reisya.jpg"
+    },
+    {
+      "hebrew": "וַיְבִאֶהָ",
+      "korean": "바예비에하",
+      "meaning": "그녀를 데려오셨다",
+      "romanized": "bayebieha",
+      "imageUrl": "https://replicate.delivery/xezq/WcfYEtonql0iMqQ7fPHau62D8FoKbnfHUI1WMd91tFeuUgWWB/tmpztturhdn.jpg",
+      "localPath": "bayebieha.jpg"
+    },
+    {
+      "hebrew": "אֶל-הָאָדָם",
+      "korean": "엘 하아담",
+      "meaning": "사람에게로",
+      "romanized": "elhaadam",
+      "imageUrl": "https://replicate.delivery/xezq/ialapeFuOrSeepPoT2cocsJunAFLPo4LBAquC0wK1bfVVgWWB/tmp4mp2vc5f.jpg",
+      "localPath": "elhaadam.jpg"
+    },
+    {
+      "hebrew": "זֹאת הַפַּעַם",
+      "korean": "조트 하파암",
+      "meaning": "이번에는, 이제야",
+      "romanized": "joteuhapaam",
+      "imageUrl": "https://replicate.delivery/xezq/yfSKzexCicvmfITFrsu7uwZNJA6yUSAKBdchQtf3eDNYrAtsC/tmphyaavcgf.jpg",
+      "localPath": "joteuhapaam.jpg"
+    },
+    {
+      "hebrew": "עֶצֶם מֵעֲצָמַי",
+      "korean": "에쳄 메아차마이",
+      "meaning": "내 뼈에서 나온 뼈",
+      "romanized": "echemmeachamai",
+      "imageUrl": "https://replicate.delivery/xezq/5y3UhqReIIUez08DJOAdoWTAf3F6g531Nb4nbJrkKUbELQLrA/tmphcg_v2ku.jpg",
+      "localPath": "echemmeachamai.jpg"
+    },
+    {
+      "hebrew": "וּבָשָׂר מִבְּשָׂרִי",
+      "korean": "우바사르 미브사리",
+      "meaning": "내 살에서 나온 살",
+      "romanized": "ubasareumibeusari",
+      "imageUrl": "https://replicate.delivery/xezq/WXCUyM3EQZ7hLpV80NMfinqhU8IftIAJffpgGFeMzFi8sAtsC/tmpsyfns74k.jpg",
+      "localPath": "ubasareumibeusari.jpg"
+    },
+    {
+      "hebrew": "אִשָּׁה",
+      "korean": "이샤",
+      "meaning": "여자",
+      "romanized": "isya",
+      "imageUrl": "https://replicate.delivery/xezq/6hzoLcfC2xU5RqTJ0a2nwgns09Eq1gMFU9UeI0BFlItvFolVA/tmpvuxpfq_g.jpg",
+      "localPath": "isya.jpg"
+    },
+    {
+      "hebrew": "אִישׁ",
+      "korean": "이쉬",
+      "meaning": "남자",
+      "romanized": "iswi",
+      "imageUrl": "https://replicate.delivery/xezq/e0C8JEAPL5UsTCCbscS6cb9wOVFDUx8vNl0dwx01fxeoLQLrA/tmpx0gafqnu.jpg",
+      "localPath": "iswi.jpg"
+    },
+    {
+      "hebrew": "לֻקְחָה",
+      "korean": "루카하",
+      "meaning": "취함을 받았다",
+      "romanized": "rukaha",
+      "imageUrl": "https://replicate.delivery/xezq/w8hlJGH2IA4DANeZ6J2NNzKjabfPnF3iJ35EF0wlbAu5FolVA/tmph1st_cnn.jpg",
+      "localPath": "rukaha.jpg"
+    },
+    {
+      "hebrew": "עַל-כֵּן",
+      "korean": "알 켄",
+      "meaning": "그러므로, 이러한 이유로",
+      "romanized": "alken",
+      "imageUrl": "https://replicate.delivery/xezq/VbhTKCAEa8IjBxYRxGvOhbe0UoJZzV907MGTemq1JFWeLQLrA/tmpj937bu7u.jpg",
+      "localPath": "alken.jpg"
+    }
+  ]
+}

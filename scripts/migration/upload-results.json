@@ -1,0 +1,1364 @@
+{
+  "uploadResults": [
+    {
+      "hebrew": "אָדָם",
+      "originalFilename": "אדם.jpg",
+      "supabaseFilename": "adam.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/adam.jpg",
+      "korean": "아담",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "אוֹר",
+      "originalFilename": "אור.jpg",
+      "supabaseFilename": "oreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oreu.jpg",
+      "korean": "오르",
+      "verseId": "genesis_1_3"
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "originalFilename": "אלהים.jpg",
+      "supabaseFilename": "elrohim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elrohim.jpg",
+      "korean": "엘로힘",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "אֶל־מָקוֹם אֶחָד",
+      "originalFilename": "אלמקום_אחד.jpg",
+      "supabaseFilename": "elmakomehadeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/elmakomehadeu.jpg",
+      "korean": "엘 마콤 에하드",
+      "verseId": "genesis_1_9"
+    },
+    {
+      "hebrew": "אֲשֶׁר-בּוֹ נֶפֶשׁ חַיָּה",
+      "originalFilename": "אשר-בו_נפש_חיה.jpg",
+      "supabaseFilename": "aswereubonepeswihaya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereubonepeswihaya.jpg",
+      "korean": "아쉐르 보 네페쉬 하야",
+      "verseId": "genesis_1_30"
+    },
+    {
+      "hebrew": "אֲשֶׁר זַרְעוֹ-בוֹ",
+      "originalFilename": "אשר_זרעו-בו.jpg",
+      "supabaseFilename": "aswereujareuobo.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereujareuobo.jpg",
+      "korean": "아쉐르 자르오 보",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "אֲשֶׁר מֵעַל",
+      "originalFilename": "אשר_מעל.jpg",
+      "supabaseFilename": "aswereumeal.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereumeal.jpg",
+      "korean": "아쉐르 메알",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "אֲשֶׁר מִתַּחַת",
+      "originalFilename": "אשר_מתחת.jpg",
+      "supabaseFilename": "aswereumitahateu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereumitahateu.jpg",
+      "korean": "아쉐르 미타하트",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "אֲשֶׁר עָשָׂה",
+      "originalFilename": "אשר_עשה.jpg",
+      "supabaseFilename": "aswereuasa.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereuasa.jpg",
+      "korean": "아쉐르 아사",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "אֶת-הָאָדָם",
+      "originalFilename": "את-האדם.jpg",
+      "supabaseFilename": "eteuhaadam.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhaadam.jpg",
+      "korean": "에트 하아담",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "אֶת-הָאוֹר",
+      "originalFilename": "את-האור.jpg",
+      "supabaseFilename": "eteuhaoreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhaoreu.jpg",
+      "korean": "에트 하오르",
+      "verseId": "genesis_1_4"
+    },
+    {
+      "hebrew": "אֶת-הָרָקִיעַ",
+      "originalFilename": "את-הרקיע.jpg",
+      "supabaseFilename": "eteuharakia.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuharakia.jpg",
+      "korean": "에트 하라키아",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "אֶת-הַתַּנִּינִם",
+      "originalFilename": "את-התנינם.jpg",
+      "supabaseFilename": "eteuhataninim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhataninim.jpg",
+      "korean": "에트 하타니님",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "אֶת-כָּל-יֶרֶק עֵשֶׂב",
+      "originalFilename": "את-כל-ירק_עשב.jpg",
+      "supabaseFilename": "eteukolyerekeuesebeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteukolyerekeuesebeu.jpg",
+      "korean": "에트 콜 예레크 에세브",
+      "verseId": "genesis_1_30"
+    },
+    {
+      "hebrew": "אֵת",
+      "originalFilename": "את.jpg",
+      "supabaseFilename": "eteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteu.jpg",
+      "korean": "에트",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "אֶת כָּל",
+      "originalFilename": "את_כל.jpg",
+      "supabaseFilename": "eteukol.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteukol.jpg",
+      "korean": "에트 콜",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "אֶת־הָאָרֶץ",
+      "originalFilename": "אתהארץ.jpg",
+      "supabaseFilename": "eteuhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhaarecheu.jpg",
+      "korean": "에트 하아레츠",
+      "verseId": "genesis_1_28"
+    },
+    {
+      "hebrew": "אֶת־הַמַּיִם",
+      "originalFilename": "אתהמים.jpg",
+      "supabaseFilename": "eteuhamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteuhamaim.jpg",
+      "korean": "에트 하마임",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "אֹתוֹ",
+      "originalFilename": "אתו.jpg",
+      "supabaseFilename": "oto.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oto.jpg",
+      "korean": "오토",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "אֹתָם",
+      "originalFilename": "אתם.jpg",
+      "supabaseFilename": "otam.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/otam.jpg",
+      "korean": "오탐",
+      "verseId": "genesis_1_17"
+    },
+    {
+      "hebrew": "בָּאָרֶץ",
+      "originalFilename": "בארץ.jpg",
+      "supabaseFilename": "baarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baarecheu.jpg",
+      "korean": "바아레츠",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "בְּהֵמָה",
+      "originalFilename": "בהמה.jpg",
+      "supabaseFilename": "behema.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behema.jpg",
+      "korean": "베헤마",
+      "verseId": "genesis_1_24"
+    },
+    {
+      "hebrew": "בַּיּוֹם",
+      "originalFilename": "ביום.jpg",
+      "supabaseFilename": "bayom.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayom.jpg",
+      "korean": "바욤",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "בַּיַּמִּים",
+      "originalFilename": "בימים.jpg",
+      "supabaseFilename": "bayamim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayamim.jpg",
+      "korean": "바야밈",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר",
+      "originalFilename": "בין_האור.jpg",
+      "supabaseFilename": "benhaoreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhaoreu.jpg",
+      "korean": "벤 하오르",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "בֵּין הָאוֹר וּבֵין הַחֹשֶׁךְ",
+      "originalFilename": "בין_האור_ובין_החשך.jpg",
+      "supabaseFilename": "benhaoreuubenhahoswekeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhaoreuubenhahoswekeu.jpg",
+      "korean": "벤 하오르 우벤 하호쉐크",
+      "verseId": "genesis_1_4"
+    },
+    {
+      "hebrew": "בֵּין הַיּוֹם",
+      "originalFilename": "בין_היום.jpg",
+      "supabaseFilename": "benhayom.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhayom.jpg",
+      "korean": "벤 하욤",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "בֵּין הַמַּיִם",
+      "originalFilename": "בין_המים.jpg",
+      "supabaseFilename": "benhamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benhamaim.jpg",
+      "korean": "벤 하마임",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "בֵּין מַיִם לָמָיִם",
+      "originalFilename": "בין_מים_למים.jpg",
+      "supabaseFilename": "benmaimramaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/benmaimramaim.jpg",
+      "korean": "벤 마임 라마임",
+      "verseId": "genesis_1_6"
+    },
+    {
+      "hebrew": "בְּצֶלֶם אֱלֹהִים",
+      "originalFilename": "בצלם_אלהים.jpg",
+      "supabaseFilename": "bechelremelrohim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bechelremelrohim.jpg",
+      "korean": "베첼렘 엘로힘",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "בְּצַלְמוֹ",
+      "originalFilename": "בצלמו.jpg",
+      "supabaseFilename": "bechalmo.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bechalmo.jpg",
+      "korean": "베찰모",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "בְּצַלְמֵנוּ",
+      "originalFilename": "בצלמנו.jpg",
+      "supabaseFilename": "bejjalmenu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bejjalmenu.jpg",
+      "korean": "베짤메누",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "בֹ֖קֶר",
+      "originalFilename": "בקר.jpg",
+      "supabaseFilename": "bokereu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bokereu.jpg",
+      "korean": "보케르",
+      "verseId": "genesis_1_13"
+    },
+    {
+      "hebrew": "בָּרָא",
+      "originalFilename": "ברא.jpg",
+      "supabaseFilename": "bara.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bara.jpg",
+      "korean": "바라",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "בָּרָא אֹתָם",
+      "originalFilename": "ברא_אתם.jpg",
+      "supabaseFilename": "baraotam.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baraotam.jpg",
+      "korean": "바라 오탐",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "בְּרֵאשִׁית",
+      "originalFilename": "בראשית.jpg",
+      "supabaseFilename": "bereswiteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bereswiteu.jpg",
+      "korean": "베레쉬트",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ",
+      "originalFilename": "ברקיע.jpg",
+      "supabaseFilename": "bireukia.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bireukia.jpg",
+      "korean": "비르키아",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "בִּרְקִיעַ הַשָּׁמָיִם",
+      "originalFilename": "ברקיע_השמים.jpg",
+      "supabaseFilename": "bireukiahasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bireukiahasyamaim.jpg",
+      "korean": "비르키아 하샤마임",
+      "verseId": "genesis_1_17"
+    },
+    {
+      "hebrew": "בְּתוֹךְ",
+      "originalFilename": "בתוך.jpg",
+      "supabaseFilename": "betokeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/betokeu.jpg",
+      "korean": "베토크",
+      "verseId": "genesis_1_6"
+    },
+    {
+      "hebrew": "דְגַת הַיָּם",
+      "originalFilename": "דגת_הים.jpg",
+      "supabaseFilename": "deugashayam.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/deugashayam.jpg",
+      "korean": "드갓 하얌",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "דֶּשֶׁא",
+      "originalFilename": "דשא.jpg",
+      "supabaseFilename": "deswe.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/deswe.jpg",
+      "korean": "데쉐",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "originalFilename": "הארץ.jpg",
+      "supabaseFilename": "haarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haarecheu.jpg",
+      "korean": "하아레츠",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "הַגְּדֹלִים",
+      "originalFilename": "הגדלים.jpg",
+      "supabaseFilename": "hageudolrim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hageudolrim.jpg",
+      "korean": "하그돌림",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "הַיַּבָּשָׁה",
+      "originalFilename": "היבשה.jpg",
+      "supabaseFilename": "hayabasya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hayabasya.jpg",
+      "korean": "하야바샤",
+      "verseId": "genesis_1_9"
+    },
+    {
+      "hebrew": "הַכּוֹכָבִים",
+      "originalFilename": "הכוכבים.jpg",
+      "supabaseFilename": "hakokabim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hakokabim.jpg",
+      "korean": "하코카빔",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַגָּדֹל",
+      "originalFilename": "המאור_הגדל.jpg",
+      "supabaseFilename": "hamaoreuhagadol.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamaoreuhagadol.jpg",
+      "korean": "함아오르 하가돌",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "הַמָּאוֹר הַקָּטֹן",
+      "originalFilename": "המאור_הקטן.jpg",
+      "supabaseFilename": "hamaoreuhakaton.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamaoreuhakaton.jpg",
+      "korean": "함아오르 하카톤",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "הַמַּיִם",
+      "originalFilename": "המים.jpg",
+      "supabaseFilename": "hamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamaim.jpg",
+      "korean": "하마임",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "הִנֵּה",
+      "originalFilename": "הנה.jpg",
+      "supabaseFilename": "hinne.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hinne.jpg",
+      "korean": "힌네",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "הָעֵץ",
+      "originalFilename": "העץ.jpg",
+      "supabaseFilename": "haecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haecheu.jpg",
+      "korean": "하에츠",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "הָרֶמֶשׂ",
+      "originalFilename": "הרמש.jpg",
+      "supabaseFilename": "haremeseu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haremeseu.jpg",
+      "korean": "하레메스",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "הָרֹמֶשֶׂת",
+      "originalFilename": "הרמשת.jpg",
+      "supabaseFilename": "haromeseteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haromeseteu.jpg",
+      "korean": "하로메세트",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "originalFilename": "השמים.jpg",
+      "supabaseFilename": "hasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hasyamaim.jpg",
+      "korean": "하샤마임",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "וְאֵת",
+      "originalFilename": "ואת.jpg",
+      "supabaseFilename": "beeteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beeteu.jpg",
+      "korean": "베에트",
+      "verseId": "genesis_1_1"
+    },
+    {
+      "hebrew": "וּבֵין הַחֹשֶׁךְ",
+      "originalFilename": "ובין_החשך.jpg",
+      "supabaseFilename": "ubenhahoswekeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubenhahoswekeu.jpg",
+      "korean": "우벤 하호쉐크",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "וּבֵין הַלָּיְלָה",
+      "originalFilename": "ובין_הלילה.jpg",
+      "supabaseFilename": "ubenhalrailra.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubenhalrailra.jpg",
+      "korean": "우벤 할라일라",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "וּבֵין הַמַּיִם",
+      "originalFilename": "ובין_המים.jpg",
+      "supabaseFilename": "ubenhamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubenhamaim.jpg",
+      "korean": "우벤 하마임",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "וּבְכָל־חַיָּה",
+      "originalFilename": "ובכלחיה.jpg",
+      "supabaseFilename": "ubekolhaya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubekolhaya.jpg",
+      "korean": "우베콜 하야",
+      "verseId": "genesis_1_28"
+    },
+    {
+      "hebrew": "וּבַלַּיְלָה",
+      "originalFilename": "ובלילה.jpg",
+      "supabaseFilename": "ubalrailra.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubalrailra.jpg",
+      "korean": "우발라일라",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "וּבְעוֹף הַשָּׁמַיִם",
+      "originalFilename": "ובעוף_השמים.jpg",
+      "supabaseFilename": "ubeopeuhasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ubeopeuhasyamaim.jpg",
+      "korean": "우베오프 하샤마임",
+      "verseId": "genesis_1_28"
+    },
+    {
+      "hebrew": "וְהָאָרֶץ",
+      "originalFilename": "והארץ.jpg",
+      "supabaseFilename": "behaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behaarecheu.jpg",
+      "korean": "베하아레츠",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "וְהָיוּ",
+      "originalFilename": "והיו.jpg",
+      "supabaseFilename": "behayu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayu.jpg",
+      "korean": "베하유",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "וְהִנֵּה",
+      "originalFilename": "והנה.jpg",
+      "supabaseFilename": "behinne.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behinne.jpg",
+      "korean": "베힌네",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "וְהָעוֹף",
+      "originalFilename": "והעוף.jpg",
+      "supabaseFilename": "behaopeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behaopeu.jpg",
+      "korean": "베하오프",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "וְחַיְתוֹ-אֶרֶץ",
+      "originalFilename": "וחיתו-ארץ.jpg",
+      "supabaseFilename": "behayetoerecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayetoerecheu.jpg",
+      "korean": "베하예토 에레츠",
+      "verseId": "genesis_1_24"
+    },
+    {
+      "hebrew": "וְחֹשֶׁךְ",
+      "originalFilename": "וחשך.jpg",
+      "supabaseFilename": "behoswekeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behoswekeu.jpg",
+      "korean": "베호쉐크",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "וַיֹּאמֶר",
+      "originalFilename": "ויאמר.jpg",
+      "supabaseFilename": "bayomereu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg",
+      "korean": "바요메르",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "וַיַּבְדֵּל",
+      "originalFilename": "ויבדל.jpg",
+      "supabaseFilename": "bayabeudel.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayabeudel.jpg",
+      "korean": "바야브델",
+      "verseId": "genesis_1_4"
+    },
+    {
+      "hebrew": "וַיִּבְרָא",
+      "originalFilename": "ויברא.jpg",
+      "supabaseFilename": "baibeura.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baibeura.jpg",
+      "korean": "바이브라",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "וַיְבָרֶךְ",
+      "originalFilename": "ויברך.jpg",
+      "supabaseFilename": "bayebarekeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayebarekeu.jpg",
+      "korean": "바예바레크",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "originalFilename": "ויהי-כן.jpg",
+      "supabaseFilename": "bayehiken.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehiken.jpg",
+      "korean": "바예히 켄",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "וַֽיְהִי",
+      "originalFilename": "ויהי.jpg",
+      "supabaseFilename": "bayehi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehi.jpg",
+      "korean": "바예히",
+      "verseId": "genesis_1_13"
+    },
+    {
+      "hebrew": "וַיְהִי בֹקֶר",
+      "originalFilename": "ויהי_בקר.jpg",
+      "supabaseFilename": "bayehibokereu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehibokereu.jpg",
+      "korean": "바예히 보케르",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "וַיְהִי עֶרֶב",
+      "originalFilename": "ויהי_ערב.jpg",
+      "supabaseFilename": "bayehierebeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehierebeu.jpg",
+      "korean": "바예히 에레브",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "וַיְהִי-כֵן",
+      "originalFilename": "ויהיכן.jpg",
+      "supabaseFilename": "bayehiken.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehiken.jpg",
+      "korean": "바예히 켄",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "וַיַּעַשׂ",
+      "originalFilename": "ויעש.jpg",
+      "supabaseFilename": "bayaaseu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayaaseu.jpg",
+      "korean": "바야아스",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "וַיִּקְרָא",
+      "originalFilename": "ויקרא.jpg",
+      "supabaseFilename": "baikeura.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baikeura.jpg",
+      "korean": "바이크라",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "וַיַּרְא",
+      "originalFilename": "וירא.jpg",
+      "supabaseFilename": "bayareu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayareu.jpg",
+      "korean": "바야르",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "וַיַּרְא אֱלֹהִים",
+      "originalFilename": "וירא_אלהים.jpg",
+      "supabaseFilename": "bayareuelrohim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayareuelrohim.jpg",
+      "korean": "바야르 엘로힘",
+      "verseId": "genesis_1_12"
+    },
+    {
+      "hebrew": "וְיִרְדּוּ",
+      "originalFilename": "וירדו.jpg",
+      "supabaseFilename": "beireudu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beireudu.jpg",
+      "korean": "베이르두",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "וַיִּתֵּן",
+      "originalFilename": "ויתן.jpg",
+      "supabaseFilename": "baiten.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baiten.jpg",
+      "korean": "바이텐",
+      "verseId": "genesis_1_17"
+    },
+    {
+      "hebrew": "וְכִבְשֻׁהָ",
+      "originalFilename": "וכבשה.jpg",
+      "supabaseFilename": "bekibsyuha.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bekibsyuha.jpg",
+      "korean": "베킵슈하",
+      "verseId": "genesis_1_28"
+    },
+    {
+      "hebrew": "וּלְהַבְדִּיל",
+      "originalFilename": "ולהבדיל.jpg",
+      "supabaseFilename": "ulhabeudil.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulhabeudil.jpg",
+      "korean": "울하브딜",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "וְלַחֹשֶׁךְ",
+      "originalFilename": "ולחשך.jpg",
+      "supabaseFilename": "berahoswekeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/berahoswekeu.jpg",
+      "korean": "베라호쉐크",
+      "verseId": "genesis_1_5"
+    },
+    {
+      "hebrew": "וּלְיָמִים",
+      "originalFilename": "ולימים.jpg",
+      "supabaseFilename": "ulyamim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulyamim.jpg",
+      "korean": "울야밈",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "וּלְכָל-חַיַּת הָאָרֶץ",
+      "originalFilename": "ולכל-חית_הארץ.jpg",
+      "supabaseFilename": "ulkolhayateuhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulkolhayateuhaarecheu.jpg",
+      "korean": "울콜 하야트 하아레츠",
+      "verseId": "genesis_1_30"
+    },
+    {
+      "hebrew": "וּלְכָל-עוֹף הַשָּׁמַיִם",
+      "originalFilename": "ולכל-עוף_השמים.jpg",
+      "supabaseFilename": "ulkolopeuhasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulkolopeuhasyamaim.jpg",
+      "korean": "울콜 오프 하샤마임",
+      "verseId": "genesis_1_30"
+    },
+    {
+      "hebrew": "וּלְכֹל רוֹמֵשׂ עַל-הָאָרֶץ",
+      "originalFilename": "ולכל_רומש_על-הארץ.jpg",
+      "supabaseFilename": "ulkolromeseualhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulkolromeseualhaarecheu.jpg",
+      "korean": "울콜 로메스 알 하아레츠",
+      "verseId": "genesis_1_30"
+    },
+    {
+      "hebrew": "וּלְמוֹעֲדִים",
+      "originalFilename": "ולמועדים.jpg",
+      "supabaseFilename": "ulmoadim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulmoadim.jpg",
+      "korean": "울모아딤",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "וּלְמִקְוֵה",
+      "originalFilename": "ולמקוה.jpg",
+      "supabaseFilename": "ulmikeube.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ulmikeube.jpg",
+      "korean": "울미크베",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "וְלִמְשֹׁל",
+      "originalFilename": "ולמשל.jpg",
+      "supabaseFilename": "berimsyoreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/berimsyoreu.jpg",
+      "korean": "베림쇼르",
+      "verseId": "genesis_1_18"
+    },
+    {
+      "hebrew": "וּמִלְאוּ",
+      "originalFilename": "ומלאו.jpg",
+      "supabaseFilename": "umilu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/umilu.jpg",
+      "korean": "우밀우",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "וּנְקֵבָה",
+      "originalFilename": "ונקבה.jpg",
+      "supabaseFilename": "unekeba.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/unekeba.jpg",
+      "korean": "우네케바",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "וְעוֹף",
+      "originalFilename": "ועוף.jpg",
+      "supabaseFilename": "beopeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beopeu.jpg",
+      "korean": "베오프",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "וְעֵץ עֹשֶׂה-פְּרִי",
+      "originalFilename": "ועץ_עשה-פרי.jpg",
+      "supabaseFilename": "beecheuoseperi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beecheuoseperi.jpg",
+      "korean": "베에츠 오세 페리",
+      "verseId": "genesis_1_12"
+    },
+    {
+      "hebrew": "וּרְבוּ",
+      "originalFilename": "ורבו.jpg",
+      "supabaseFilename": "ureubu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ureubu.jpg",
+      "korean": "우르부",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "וּרְדוּ",
+      "originalFilename": "ורדו.jpg",
+      "supabaseFilename": "ureudu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ureudu.jpg",
+      "korean": "우르두",
+      "verseId": "genesis_1_28"
+    },
+    {
+      "hebrew": "וָרֶמֶשׂ",
+      "originalFilename": "ורמש.jpg",
+      "supabaseFilename": "baremeseu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baremeseu.jpg",
+      "korean": "바레메스",
+      "verseId": "genesis_1_24"
+    },
+    {
+      "hebrew": "וְשָׁנִים",
+      "originalFilename": "ושנים.jpg",
+      "supabaseFilename": "besyanim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/besyanim.jpg",
+      "korean": "베샤님",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "וַתּוֹצֵא הָאָרֶץ",
+      "originalFilename": "ותוצא_הארץ.jpg",
+      "supabaseFilename": "batochehaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/batochehaarecheu.jpg",
+      "korean": "바토체 하아레츠",
+      "verseId": "genesis_1_12"
+    },
+    {
+      "hebrew": "וְתֵרָאֶה",
+      "originalFilename": "ותראה.jpg",
+      "supabaseFilename": "beterae.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/beterae.jpg",
+      "korean": "베테라에",
+      "verseId": "genesis_1_9"
+    },
+    {
+      "hebrew": "זָכָר",
+      "originalFilename": "זכר.jpg",
+      "supabaseFilename": "jakareu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/jakareu.jpg",
+      "korean": "자카르",
+      "verseId": "genesis_1_27"
+    },
+    {
+      "hebrew": "זֹרֵעַ זֶרַע",
+      "originalFilename": "זרע_זרע.jpg",
+      "supabaseFilename": "joreajera.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/joreajera.jpg",
+      "korean": "조레아 제라",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "חַיַּת הָאָרֶץ",
+      "originalFilename": "חית_הארץ.jpg",
+      "supabaseFilename": "hayateuhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hayateuhaarecheu.jpg",
+      "korean": "하야트 하아레츠",
+      "verseId": "genesis_1_25"
+    },
+    {
+      "hebrew": "חֲמִישִֽׁי",
+      "originalFilename": "חמישי.jpg",
+      "supabaseFilename": "hamiswi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hamiswi.jpg",
+      "korean": "하미쉬",
+      "verseId": "genesis_1_23"
+    },
+    {
+      "hebrew": "טוֹב מְאֹד",
+      "originalFilename": "טוב_מאד.jpg",
+      "supabaseFilename": "tobeumeodeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tobeumeodeu.jpg",
+      "korean": "토브 메오드",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "יְהִי",
+      "originalFilename": "יהי.jpg",
+      "supabaseFilename": "yehi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yehi.jpg",
+      "korean": "예히",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "י֥וֹם",
+      "originalFilename": "יום.jpg",
+      "supabaseFilename": "yom.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yom.jpg",
+      "korean": "욤",
+      "verseId": "genesis_1_13"
+    },
+    {
+      "hebrew": "יוֹם אֶחָד",
+      "originalFilename": "יום_אחד.jpg",
+      "supabaseFilename": "yomehadeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yomehadeu.jpg",
+      "korean": "욤 에하드",
+      "verseId": "genesis_1_5"
+    },
+    {
+      "hebrew": "יוֹם הַשִּׁשִּׁי",
+      "originalFilename": "יום_הששי.jpg",
+      "supabaseFilename": "yomhaswiswi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yomhaswiswi.jpg",
+      "korean": "욤 하쉬쉬",
+      "verseId": "genesis_1_31"
+    },
+    {
+      "hebrew": "יוֹם שֵׁנִי",
+      "originalFilename": "יום_שני.jpg",
+      "supabaseFilename": "yomsweni.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yomsweni.jpg",
+      "korean": "욤 쉐니",
+      "verseId": "genesis_1_8"
+    },
+    {
+      "hebrew": "יַמִּים",
+      "originalFilename": "ימים.jpg",
+      "supabaseFilename": "yamim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yamim.jpg",
+      "korean": "야밈",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "יְעוֹפֵף",
+      "originalFilename": "יעופף.jpg",
+      "supabaseFilename": "yeopepeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/yeopepeu.jpg",
+      "korean": "예오페프",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "יִקָּווּ",
+      "originalFilename": "יקוו.jpg",
+      "supabaseFilename": "ikabu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ikabu.jpg",
+      "korean": "이카부",
+      "verseId": "genesis_1_9"
+    },
+    {
+      "hebrew": "יִרֶב",
+      "originalFilename": "ירב.jpg",
+      "supabaseFilename": "irebeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/irebeu.jpg",
+      "korean": "이레브",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "יִשְׁרְצוּ",
+      "originalFilename": "ישרצו.jpg",
+      "supabaseFilename": "iswirechu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/iswirechu.jpg",
+      "korean": "이쉬레추",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "כִּדְמוּתֵנוּ",
+      "originalFilename": "כדמותנו.jpg",
+      "supabaseFilename": "kideumutenu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kideumutenu.jpg",
+      "korean": "키드무테누",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "כִּי-טוֹב",
+      "originalFilename": "כי-טוב.jpg",
+      "supabaseFilename": "kitobeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kitobeu.jpg",
+      "korean": "키 토브",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "כָל-הָאָרֶץ",
+      "originalFilename": "כל-הארץ.jpg",
+      "supabaseFilename": "kolhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kolhaarecheu.jpg",
+      "korean": "콜 하아레츠",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "כָּל-נֶפֶשׁ הַחַיָּה",
+      "originalFilename": "כל-נפש_החיה.jpg",
+      "supabaseFilename": "kolnepeswihahaya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kolnepeswihahaya.jpg",
+      "korean": "콜 네페쉬 하하야",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "לָאוֹר",
+      "originalFilename": "לאור.jpg",
+      "supabaseFilename": "raoreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/raoreu.jpg",
+      "korean": "라오르",
+      "verseId": "genesis_1_5"
+    },
+    {
+      "hebrew": "לְאָכְלָה",
+      "originalFilename": "לאכלה.jpg",
+      "supabaseFilename": "reokeulra.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reokeulra.jpg",
+      "korean": "레오클라",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "לֵאמֹר",
+      "originalFilename": "לאמר.jpg",
+      "supabaseFilename": "remoreu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/remoreu.jpg",
+      "korean": "레모르",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "לְאֹתֹת",
+      "originalFilename": "לאתת.jpg",
+      "supabaseFilename": "reototeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reototeu.jpg",
+      "korean": "레오토트",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "לְהָאִיר",
+      "originalFilename": "להאיר.jpg",
+      "supabaseFilename": "rehaireu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rehaireu.jpg",
+      "korean": "레하이르",
+      "verseId": "genesis_1_15"
+    },
+    {
+      "hebrew": "לְהַבְדִּיל",
+      "originalFilename": "להבדיל.jpg",
+      "supabaseFilename": "rehabeudil.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rehabeudil.jpg",
+      "korean": "레하브딜",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "לַיַּבָּשָׁה",
+      "originalFilename": "ליבשה.jpg",
+      "supabaseFilename": "rayabasya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rayabasya.jpg",
+      "korean": "라야바샤",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "לָיְלָה",
+      "originalFilename": "לילה.jpg",
+      "supabaseFilename": "railra.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/railra.jpg",
+      "korean": "라일라",
+      "verseId": "genesis_1_5"
+    },
+    {
+      "hebrew": "לָכֶם",
+      "originalFilename": "לכם.jpg",
+      "supabaseFilename": "rakem.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rakem.jpg",
+      "korean": "라켐",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "לִמְאוֹרֹת",
+      "originalFilename": "למאורת.jpg",
+      "supabaseFilename": "rimoroteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rimoroteu.jpg",
+      "korean": "림오로트",
+      "verseId": "genesis_1_15"
+    },
+    {
+      "hebrew": "לְמִינָהּ",
+      "originalFilename": "למינה.jpg",
+      "supabaseFilename": "remina.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/remina.jpg",
+      "korean": "레미나",
+      "verseId": "genesis_1_24"
+    },
+    {
+      "hebrew": "לְמִינֵהֶם",
+      "originalFilename": "למינהם.jpg",
+      "supabaseFilename": "reminehem.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/reminehem.jpg",
+      "korean": "레미네헴",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַיּוֹם",
+      "originalFilename": "לממשלת_היום.jpg",
+      "supabaseFilename": "rememswelreteuhayom.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rememswelreteuhayom.jpg",
+      "korean": "레멤쉘레트 하욤",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "לְמֶמְשֶׁלֶת הַלַּיְלָה",
+      "originalFilename": "לממשלת_הלילה.jpg",
+      "supabaseFilename": "rememswelreteuhalrailra.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rememswelreteuhalrailra.jpg",
+      "korean": "레멤쉘레트 할라일라",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "לָרָקִיעַ",
+      "originalFilename": "לרקיע.jpg",
+      "supabaseFilename": "rarakia.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rarakia.jpg",
+      "korean": "라라키아",
+      "verseId": "genesis_1_7"
+    },
+    {
+      "hebrew": "מְאֹרֹת",
+      "originalFilename": "מארת.jpg",
+      "supabaseFilename": "meuoroteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/meuoroteu.jpg",
+      "korean": "므오로트",
+      "verseId": "genesis_1_14"
+    },
+    {
+      "hebrew": "מַבְדִּיל",
+      "originalFilename": "מבדיל.jpg",
+      "supabaseFilename": "mabeudil.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mabeudil.jpg",
+      "korean": "마브딜",
+      "verseId": "genesis_1_6"
+    },
+    {
+      "hebrew": "מְרַחֶפֶת",
+      "originalFilename": "מרחפת.jpg",
+      "supabaseFilename": "merahepeteu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/merahepeteu.jpg",
+      "korean": "메라헤페트",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "מִתַּחַת הַשָּׁמַיִם",
+      "originalFilename": "מתחת_השמים.jpg",
+      "supabaseFilename": "mitahateuhasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/mitahateuhasyamaim.jpg",
+      "korean": "미타하트 하샤마임",
+      "verseId": "genesis_1_9"
+    },
+    {
+      "hebrew": "נַעֲשֶׂה",
+      "originalFilename": "נעשה.jpg",
+      "supabaseFilename": "naase.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/naase.jpg",
+      "korean": "나아세",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "נֶפֶשׁ חַיָּה",
+      "originalFilename": "נפש_חיה.jpg",
+      "supabaseFilename": "nepeswihaya.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/nepeswihaya.jpg",
+      "korean": "네페쉬 하야",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "נָתַתִּי",
+      "originalFilename": "נתתי.jpg",
+      "supabaseFilename": "natati.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/natati.jpg",
+      "korean": "나타티",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "עוֹף הַשָּׁמַיִם",
+      "originalFilename": "עוף_השמים.jpg",
+      "supabaseFilename": "opeuhasyamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/opeuhasyamaim.jpg",
+      "korean": "오프 하샤마임",
+      "verseId": "genesis_1_26"
+    },
+    {
+      "hebrew": "עוֹף כָּנָף",
+      "originalFilename": "עוף_כנף.jpg",
+      "supabaseFilename": "opeukanapeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/opeukanapeu.jpg",
+      "korean": "오프 카나프",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "עַל-הָאָרֶץ",
+      "originalFilename": "על-הארץ.jpg",
+      "supabaseFilename": "alhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alhaarecheu.jpg",
+      "korean": "알 하아레츠",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "עַל-פְּנֵי רְקִיעַ",
+      "originalFilename": "על-פני_רקיע.jpg",
+      "supabaseFilename": "alpenerekia.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alpenerekia.jpg",
+      "korean": "알 페네 레키아",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "עַל",
+      "originalFilename": "על.jpg",
+      "supabaseFilename": "al.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/al.jpg",
+      "korean": "알",
+      "verseId": "genesis_1_15"
+    },
+    {
+      "hebrew": "עַל־פְּנֵי כָל־הָאָרֶץ",
+      "originalFilename": "עלפני_כלהארץ.jpg",
+      "supabaseFilename": "alpenekolhaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/alpenekolhaarecheu.jpg",
+      "korean": "알 페네 콜 하아레츠",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "עֵץ פְּרִי",
+      "originalFilename": "עץ_פרי.jpg",
+      "supabaseFilename": "echeuperi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/echeuperi.jpg",
+      "korean": "에츠 페리",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "עֶ֥רֶב",
+      "originalFilename": "ערב.jpg",
+      "supabaseFilename": "erebeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/erebeu.jpg",
+      "korean": "에레브",
+      "verseId": "genesis_1_13"
+    },
+    {
+      "hebrew": "עֵשֶׂב",
+      "originalFilename": "עשב.jpg",
+      "supabaseFilename": "esebeu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/esebeu.jpg",
+      "korean": "에세브",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "עֵשֶׂב מַזְרִיעַ זֶרַע",
+      "originalFilename": "עשב_מזריע_זרע.jpg",
+      "supabaseFilename": "esebeumajeuriajera.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/esebeumajeuriajera.jpg",
+      "korean": "에세브 마즈리아 제라",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "עֹשֶׂה פְּרִי",
+      "originalFilename": "עשה_פרי.jpg",
+      "supabaseFilename": "oseperi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/oseperi.jpg",
+      "korean": "오세 페리",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "פְּרוּ",
+      "originalFilename": "פרו.jpg",
+      "supabaseFilename": "peru.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/peru.jpg",
+      "korean": "페루",
+      "verseId": "genesis_1_22"
+    },
+    {
+      "hebrew": "פְרִי",
+      "originalFilename": "פרי.jpg",
+      "supabaseFilename": "peri.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/peri.jpg",
+      "korean": "페리",
+      "verseId": "genesis_1_29"
+    },
+    {
+      "hebrew": "קָרָא",
+      "originalFilename": "קרא.jpg",
+      "supabaseFilename": "kara.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/kara.jpg",
+      "korean": "카라",
+      "verseId": "genesis_1_10"
+    },
+    {
+      "hebrew": "רְבִיעִֽי",
+      "originalFilename": "רביעי.jpg",
+      "supabaseFilename": "rebii.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rebii.jpg",
+      "korean": "레비이",
+      "verseId": "genesis_1_19"
+    },
+    {
+      "hebrew": "רוּחַ אֱלֹהִים",
+      "originalFilename": "רוח_אלהים.jpg",
+      "supabaseFilename": "ruaheuelrohim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/ruaheuelrohim.jpg",
+      "korean": "루아흐 엘로힘",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "רֶמֶשׂ הָאֲדָמָה",
+      "originalFilename": "רמש_האדמה.jpg",
+      "supabaseFilename": "remeseuhaadama.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/remeseuhaadama.jpg",
+      "korean": "레메스 하아다마",
+      "verseId": "genesis_1_25"
+    },
+    {
+      "hebrew": "רָקִיעַ",
+      "originalFilename": "רקיע.jpg",
+      "supabaseFilename": "rakia.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/rakia.jpg",
+      "korean": "라키아",
+      "verseId": "genesis_1_6"
+    },
+    {
+      "hebrew": "שְׁלִישִֽׁי",
+      "originalFilename": "שלישי.jpg",
+      "supabaseFilename": "swilriswi.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/swilriswi.jpg",
+      "korean": "쉴리쉬",
+      "verseId": "genesis_1_13"
+    },
+    {
+      "hebrew": "שָׁמָיִם",
+      "originalFilename": "שמים.jpg",
+      "supabaseFilename": "syamaim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/syamaim.jpg",
+      "korean": "샤마임",
+      "verseId": "genesis_1_8"
+    },
+    {
+      "hebrew": "שְׁנֵי הַמְּאֹרֹת הַגְּדֹלִים",
+      "originalFilename": "שני_המארת_הגדלים.jpg",
+      "supabaseFilename": "sweneihameoroteuhageudolrim.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/sweneihameoroteuhageudolrim.jpg",
+      "korean": "쉐네이 함어로트 하그돌림",
+      "verseId": "genesis_1_16"
+    },
+    {
+      "hebrew": "שֶׁרֶץ",
+      "originalFilename": "שרץ.jpg",
+      "supabaseFilename": "swerecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/swerecheu.jpg",
+      "korean": "쉐레츠",
+      "verseId": "genesis_1_20"
+    },
+    {
+      "hebrew": "שָׁרְצוּ",
+      "originalFilename": "שרצו.jpg",
+      "supabaseFilename": "syareujju.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/syareujju.jpg",
+      "korean": "샤르쭈",
+      "verseId": "genesis_1_21"
+    },
+    {
+      "hebrew": "תַּדְשֵׁא הָאָרֶץ",
+      "originalFilename": "תדשא_הארץ.jpg",
+      "supabaseFilename": "tadeuswehaarecheu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tadeuswehaarecheu.jpg",
+      "korean": "타드쉐 하아레츠",
+      "verseId": "genesis_1_11"
+    },
+    {
+      "hebrew": "תֹהוּ וָבֹהוּ",
+      "originalFilename": "תהו_ובהו.jpg",
+      "supabaseFilename": "tohubabohu.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tohubabohu.jpg",
+      "korean": "토후 바보후",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "תְהוֹם",
+      "originalFilename": "תהום.jpg",
+      "supabaseFilename": "tehom.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/tehom.jpg",
+      "korean": "테홈",
+      "verseId": "genesis_1_2"
+    },
+    {
+      "hebrew": "תּוֹצֵא",
+      "originalFilename": "תוצא.jpg",
+      "supabaseFilename": "toche.jpg",
+      "url": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/toche.jpg",
+      "korean": "토체",
+      "verseId": "genesis_1_24"
+    }
+  ],
+  "failedUploads": [],
+  "summary": {
+    "total": 169,
+    "success": 168,
+    "skipped": 1,
+    "failed": 0,
+    "successRate": "99.4%"
+  }
+}

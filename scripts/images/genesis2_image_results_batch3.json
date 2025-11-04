@@ -1,0 +1,172 @@
+{
+  "chapter": 2,
+  "batchNumber": 3,
+  "startIndex": 41,
+  "endIndex": 60,
+  "totalWords": 20,
+  "generated": 20,
+  "existing": 0,
+  "failed": 0,
+  "results": [
+    {
+      "hebrew": "אֶת־הָאֲדָמָה",
+      "korean": "에트 하아다마",
+      "meaning": "땅을, 흙을",
+      "romanized": "eteuhaadama",
+      "imageUrl": "https://replicate.delivery/xezq/9l3WOMZexpSKKSqvM7pDXnbJBGl3bS3wiz7jiqgzDxGC8zyKA/tmpow5vbm6h.jpg",
+      "localPath": "eteuhaadama.jpg"
+    },
+    {
+      "hebrew": "וְאֵד",
+      "korean": "베에드",
+      "meaning": "그리고 안개, 수증기",
+      "romanized": "beedeu",
+      "imageUrl": "https://replicate.delivery/xezq/SG1rKYJteejIjUYV7Ilz7ShbXsduecsRpC9c09Dd19cYwPLrA/tmp5anwpi1o.jpg",
+      "localPath": "beedeu.jpg"
+    },
+    {
+      "hebrew": "יַעֲלֶה",
+      "korean": "야알레",
+      "meaning": "올라오다, 상승하다",
+      "romanized": "yaalre",
+      "imageUrl": "https://replicate.delivery/xezq/73x6rG4wZL7jO945mw9ekIcc3SChfEuR8oD0ffRfVK6KCfZZF/tmpyawjvma2.jpg",
+      "localPath": "yaalre.jpg"
+    },
+    {
+      "hebrew": "מִן-הָאָרֶץ",
+      "korean": "민 하아레츠",
+      "meaning": "땅으로부터",
+      "romanized": "minhaarecheu",
+      "imageUrl": "https://replicate.delivery/xezq/8rAzfM0pXpxrFKilvuZhBOsWBJibWx8dvXlFsnm5c1ZL8zyKA/tmptj3fyaj1.jpg",
+      "localPath": "minhaarecheu.jpg"
+    },
+    {
+      "hebrew": "וְהִשְׁקָה",
+      "korean": "베히쉬카",
+      "meaning": "그리고 적시다, 물을 주다",
+      "romanized": "behiswika",
+      "imageUrl": "https://replicate.delivery/xezq/fdG49YfnO7i1cEInqx4xF7KYGkEooiR86RD8Vo0LirWfwPLrA/tmpzwiwkshw.jpg",
+      "localPath": "behiswika.jpg"
+    },
+    {
+      "hebrew": "אֶת-כָּל-פְּנֵי",
+      "korean": "에트 콜 페네이",
+      "meaning": "모든 표면을",
+      "romanized": "eteukolpenei",
+      "imageUrl": "https://replicate.delivery/xezq/y6Cuh9GWeF3taqKHzyrgA3ggYiVpe1mFFAGJ0JCGet0QxPLrA/tmps9p5r533.jpg",
+      "localPath": "eteukolpenei.jpg"
+    },
+    {
+      "hebrew": "הָאֲדָמָה",
+      "korean": "하아다마",
+      "meaning": "땅, 지면, 토양",
+      "romanized": "haadama",
+      "imageUrl": "https://replicate.delivery/xezq/laLzxgotWdKEEhomZAT9BqWHD0Ll8dXM4amgekgsd4qY8zyKA/tmpdlcj3vc8.jpg",
+      "localPath": "haadama.jpg"
+    },
+    {
+      "hebrew": "וַיִּיצֶר",
+      "korean": "바이체르",
+      "meaning": "빚으셨다, 형성하셨다",
+      "romanized": "baichereu",
+      "imageUrl": "https://replicate.delivery/xezq/OPISf0Ud1xwERCYUK0nMdTKp4BfvJC4DxfTEeI0xlfcyGfZZF/tmpw61mv3xd.jpg",
+      "localPath": "baichereu.jpg"
+    },
+    {
+      "hebrew": "יְהוָה",
+      "korean": "예호바",
+      "meaning": "여호와",
+      "romanized": "yehoba",
+      "imageUrl": "https://replicate.delivery/xezq/D8ffBXgqz2t4OUfQModTrjzUU2T36AyIUKwj0CpPep9vjfssC/tmppozgluza.jpg",
+      "localPath": "yehoba.jpg"
+    },
+    {
+      "hebrew": "הָאָדָם",
+      "korean": "하아담",
+      "meaning": "사람",
+      "romanized": "haadam",
+      "imageUrl": "https://replicate.delivery/xezq/fr3VmedrbptGiEO7VJd4TJEvm4ZeCudG6BO0jjMWwzyDyPLrA/tmpkfyjtg4y.jpg",
+      "localPath": "haadam.jpg"
+    },
+    {
+      "hebrew": "עָפָר",
+      "korean": "아파르",
+      "meaning": "흙, 티끌",
+      "romanized": "apareu",
+      "imageUrl": "https://replicate.delivery/xezq/01P8RfQhV1TmaCIuCPA2shtGnOEI9GDZRHVcneegGf6YkfssC/tmp_50ve94l.jpg",
+      "localPath": "apareu.jpg"
+    },
+    {
+      "hebrew": "מִן-הָאֲדָמָה",
+      "korean": "민 하아다마",
+      "meaning": "땅으로부터",
+      "romanized": "minhaadama",
+      "imageUrl": "https://replicate.delivery/xezq/hxnyqrlMG8JtK9vkXfwPLEmDQ3iAM6aP5CzSZKezBQHP5nlVA/tmpgsousjhg.jpg",
+      "localPath": "minhaadama.jpg"
+    },
+    {
+      "hebrew": "וַיִּפַּח",
+      "korean": "바입파흐",
+      "meaning": "불어넣으셨다",
+      "romanized": "baibpaheu",
+      "imageUrl": "https://replicate.delivery/xezq/UGolJiEXUWrIJFn7Cev6itWe9xjvePfaZkPcnXXW749WlfssC/tmpymynsj32.jpg",
+      "localPath": "baibpaheu.jpg"
+    },
+    {
+      "hebrew": "בְּאַפָּיו",
+      "korean": "베아파브",
+      "meaning": "그의 코에",
+      "romanized": "beapabeu",
+      "imageUrl": "https://replicate.delivery/xezq/ndUeXMvP6IQ9HqfNJuWJQxTViZ9sjAJM9UJKLIDS1eY0yPLrA/tmpclsm9_i8.jpg",
+      "localPath": "beapabeu.jpg"
+    },
+    {
+      "hebrew": "נִשְׁמַת",
+      "korean": "니쉬마트",
+      "meaning": "숨, 생기",
+      "romanized": "niswimateu",
+      "imageUrl": "https://replicate.delivery/xezq/WzwbKU1Smd7BM5GVyKbtBqknEbJ79gLGDs3DoMj3xr3XezyKA/tmplxb3ka7o.jpg",
+      "localPath": "niswimateu.jpg"
+    },
+    {
+      "hebrew": "חַיִּים",
+      "korean": "하임",
+      "meaning": "생명",
+      "romanized": "haim",
+      "imageUrl": "https://replicate.delivery/xezq/Qqxqghy2U3JbChvbvSFTg5VLiVyS3o87i07XYj4b4FCZezyKA/tmp65e9v7zb.jpg",
+      "localPath": "haim.jpg"
+    },
+    {
+      "hebrew": "וַיְהִי",
+      "korean": "바예히",
+      "meaning": "되었다",
+      "romanized": "bayehi",
+      "imageUrl": "https://replicate.delivery/xezq/0nuvZDntz6bfKqjG6B0ZNmasCzxzp4xbeLLFUM5ZNzuq5nlVA/tmp6cwz1p2_.jpg",
+      "localPath": "bayehi.jpg"
+    },
+    {
+      "hebrew": "לְנֶפֶשׁ",
+      "korean": "레네페쉬",
+      "meaning": "존재로, 영혼으로",
+      "romanized": "renepeswi",
+      "imageUrl": "https://replicate.delivery/xezq/MwifZfJ1E3hIKU62DB5MH7bIRVquDVroPerU7veiV10NnfssC/tmp2qzhzq8h.jpg",
+      "localPath": "renepeswi.jpg"
+    },
+    {
+      "hebrew": "חַיָּה",
+      "korean": "하야",
+      "meaning": "살아있는",
+      "romanized": "haya",
+      "imageUrl": "https://replicate.delivery/xezq/jbiS5fIa3IzEMahdE3Q1hIux6SoW9Xnf8fN5PutiHHn5zPLrA/tmp06obthv0.jpg",
+      "localPath": "haya.jpg"
+    },
+    {
+      "hebrew": "וַיִּטַּע",
+      "korean": "바이타",
+      "meaning": "그리고 심으셨다",
+      "romanized": "baita",
+      "imageUrl": "https://replicate.delivery/xezq/IXQYUHeLoc2OXylSp26z8q9uIeqI3Es2DlpkmfK8UT7C0PLrA/tmp8b4qgzvb.jpg",
+      "localPath": "baita.jpg"
+    }
+  ]
+}

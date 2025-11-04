@@ -32,7 +32,8 @@
       "relatedWords": [
         "יָחִיד (야히드 - 유일한)",
         "אַחַת (아하트 - 하나, 여성형)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/haehadeu.jpg"
     },
     {
       "hebrew": "פִּישׁוֹן",
@@ -46,7 +47,8 @@
       "relatedWords": [
         "נָהָר (나하르 - 강)",
         "מַיִם (마임 - 물)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/pisyon.jpg"
     },
     {
       "hebrew": "הוּא",
@@ -56,7 +58,8 @@
       "letters": "ה(h) + וּ(u) + א(ʔ)",
       "root": "ה-ו-א (후)",
       "grammar": "대명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient><radialGradient id=\"point2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><path d=\"M 12 32 L 40 32 L 40 20 L 56 32 L 40 44 L 40 32 Z\" fill=\"url(#point1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"56\" cy=\"32\" r=\"6\" fill=\"url(#point2)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"point1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#9B59B6\" /><stop offset=\"100%\" stop-color=\"#E91E63\" /></linearGradient><radialGradient id=\"point2\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FFA500\" /></radialGradient></defs><path d=\"M 12 32 L 40 32 L 40 20 L 56 32 L 40 44 L 40 32 Z\" fill=\"url(#point1)\" filter=\"drop-shadow(3px 3px 6px rgba(0, 0, 0, 0.4))\" /><circle cx=\"56\" cy=\"32\" r=\"6\" fill=\"url(#point2)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.8))\" /></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hu.jpg"
     },
     {
       "hebrew": "הַסֹּבֵב",
@@ -70,7 +73,8 @@
       "relatedWords": [
         "סָבִיב (사비브 - 주위에)",
         "מְסִבָּה (메시바 - 주변, 돌림)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hasobebeu.jpg"
     },
     {
       "hebrew": "אֵת כָּל",
@@ -84,7 +88,8 @@
       "relatedWords": [
         "כֹּלֶל (כולל - 전체)",
         "הַכֹּל (하콜 - 모든 것)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/eteukol.jpg"
     },
     {
       "hebrew": "אֶרֶץ",
@@ -98,7 +103,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 흙)",
         "תֵּבֵל (테벨 - 세계)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/erecheu.jpg"
     },
     {
       "hebrew": "הַחֲוִילָה",
@@ -112,7 +118,8 @@
       "relatedWords": [
         "חוֹל (홀 - 모래)",
         "מִדְבָּר (미드바르 - 광야)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hahabilra.jpg"
     },
     {
       "hebrew": "אֲשֶׁר",
@@ -126,7 +133,8 @@
       "relatedWords": [
         "שָׁם (샴 - 거기)",
         "פֹּה (포 - 여기)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/aswereu.jpg"
     },
     {
       "hebrew": "הַזָּהָב",
@@ -140,7 +148,8 @@
       "relatedWords": [
         "כֶּסֶף (케세프 - 은)",
         "יָקָר (야카르 - 귀한)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/hajahabeu.jpg"
     }
   ],
   "commentary": {

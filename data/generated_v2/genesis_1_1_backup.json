@@ -1,0 +1,163 @@
+{
+  "id": "genesis_1_1",
+  "reference": "창세기 1:1",
+  "hebrew": "בְּרֵאשִׁית, בָּרָא אֱלֹהִים, אֵת הַשָּׁמַיִם, וְאֵת הָאָרֶץ.",
+  "ipa": "bəreʃit baˈra ʔɛloˈhim ʔet haʃaˈmajim vəʔet haˈʔarɛts",
+  "koreanPronunciation": "베레쉬트 바라 엘로힘 에트 하샤마임 베에트 하아레츠",
+  "modern": "태초에 하나님께서 하늘과 땅을 창조하셨습니다",
+  "words": [
+    {
+      "hebrew": "בְּרֵאשִׁית",
+      "meaning": "태초에, 처음에",
+      "ipa": "bəreʃit",
+      "korean": "베레쉬트",
+      "letters": "בְּ(be) + רֵא(re) + שִׁ(shi) + ית(t)",
+      "root": "רֵאשִׁית (레쉬트)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"sun_bereshit\"><stop offset=\"0%\" stop-color=\"#FFF4E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6B35\" /></radialGradient><linearGradient id=\"sky_bereshit\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FF6B9D\" /><stop offset=\"50%\" stop-color=\"#C44569\" /><stop offset=\"100%\" stop-color=\"#8B3A62\" /></linearGradient><linearGradient id=\"horizon_bereshit\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"50%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky_bereshit)\" opacity=\"0.4\" rx=\"8\" /><circle cx=\"32\" cy=\"24\" r=\"14\" fill=\"url(#sun_bereshit)\" filter=\"drop-shadow(0 0 12px rgba(255, 215, 0, 0.9))\" /><g stroke=\"url(#horizon_bereshit)\" stroke-width=\"2.5\" opacity=\"0.9\"><line x1=\"32\" y1=\"6\" x2=\"32\" y2=\"14\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"10\" x2=\"42\" y2=\"16\" stroke-linecap=\"round\" /><line x1=\"52\" y1=\"24\" x2=\"44\" y2=\"24\" stroke-linecap=\"round\" /><line x1=\"48\" y1=\"38\" x2=\"42\" y2=\"32\" stroke-linecap=\"round\" /><line x1=\"16\" y1=\"10\" x2=\"22\" y2=\"16\" stroke-linecap=\"round\" /><line x1=\"12\" y1=\"24\" x2=\"20\" y2=\"24\" stroke-linecap=\"round\" /><line x1=\"16\" y1=\"38\" x2=\"22\" y2=\"32\" stroke-linecap=\"round\" /></g><ellipse cx=\"32\" cy=\"50\" rx=\"28\" ry=\"8\" fill=\"url(#horizon_bereshit)\" opacity=\"0.6\" /></svg>",
+      "relatedWords": [
+        "רֹאשׁ (로쉬 - 머리, 처음)",
+        "רִאשׁוֹן (리쇼온 - 첫째)"
+      ]
+    },
+    {
+      "hebrew": "בָּרָא",
+      "meaning": "창조하셨다",
+      "ipa": "baˈra",
+      "korean": "바라",
+      "letters": "בָּ(ba) + רָ(ra) + א(silent)",
+      "root": "ב-ר-א (bara)",
+      "grammar": "동사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"center_bara\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"40%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></radialGradient><linearGradient id=\"ray1_bara\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#00F5FF\" /><stop offset=\"100%\" stop-color=\"#FF00FF\" /></linearGradient><linearGradient id=\"ray2_bara\" x1=\"100%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFD700\" /><stop offset=\"100%\" stop-color=\"#FF6347\" /></linearGradient><linearGradient id=\"ray3_bara\" x1=\"0%\" y1=\"100%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#00FF7F\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"rgba(255, 215, 0, 0.1)\" /><path d=\"M 32 8 L 36 28 L 32 32 L 28 28 Z\" fill=\"url(#ray1_bara)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(0, 245, 255, 0.6))\" /><path d=\"M 56 32 L 36 36 L 32 32 L 36 28 Z\" fill=\"url(#ray2_bara)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 215, 0, 0.6))\" /><path d=\"M 32 56 L 28 36 L 32 32 L 36 36 Z\" fill=\"url(#ray3_bara)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(0, 255, 127, 0.6))\" /><path d=\"M 8 32 L 28 28 L 32 32 L 28 36 Z\" fill=\"url(#ray1_bara)\" opacity=\"0.8\" filter=\"drop-shadow(0 0 4px rgba(255, 0, 255, 0.6))\" /><path d=\"M 48 16 L 36 28 L 32 32 L 34 26 Z\" fill=\"url(#ray2_bara)\" opacity=\"0.7\" /><path d=\"M 48 48 L 36 36 L 32 32 L 38 34 Z\" fill=\"url(#ray3_bara)\" opacity=\"0.7\" /><path d=\"M 16 48 L 28 36 L 32 32 L 26 34 Z\" fill=\"url(#ray1_bara)\" opacity=\"0.7\" /><path d=\"M 16 16 L 28 28 L 32 32 L 30 26 Z\" fill=\"url(#ray2_bara)\" opacity=\"0.7\" /><circle cx=\"32\" cy=\"32\" r=\"8\" fill=\"url(#center_bara)\" filter=\"drop-shadow(0 0 8px rgba(255, 215, 0, 0.9))\" /></svg>",
+      "relatedWords": [
+        "בְּרִיאָה (브리아 - 창조물)",
+        "בּוֹרֵא (보레 - 창조주)"
+      ]
+    },
+    {
+      "hebrew": "אֱלֹהִים",
+      "meaning": "하나님",
+      "ipa": "ʔɛloˈhim",
+      "korean": "엘로힘",
+      "letters": "אֱ(e) + לֹ(lo) + הִ(hi) + ים(m)",
+      "root": "אֱלֹהַּ (엘로아)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"crown_elohim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFF9E6\" /><stop offset=\"30%\" stop-color=\"#FFD700\" /><stop offset=\"70%\" stop-color=\"#FFA500\" /><stop offset=\"100%\" stop-color=\"#FF8C00\" /></linearGradient><radialGradient id=\"glow_elohim\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"50%\" stop-color=\"#FFD700\" opacity=\"0.6\" /><stop offset=\"100%\" stop-color=\"#FFD700\" opacity=\"0\" /></radialGradient><linearGradient id=\"jewel_elohim\"><stop offset=\"0%\" stop-color=\"#FF1493\" /><stop offset=\"50%\" stop-color=\"#FF69B4\" /><stop offset=\"100%\" stop-color=\"#FF1493\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"url(#glow_elohim)\" /><path d=\"M 12 50 L 16 32 L 22 38 L 28 28 L 32 24 L 36 28 L 42 38 L 48 32 L 52 50 Z\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"2\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.4))\" /><rect x=\"11\" y=\"50\" width=\"42\" height=\"8\" rx=\"2\" fill=\"url(#crown_elohim)\" stroke=\"#FF8C00\" stroke-width=\"1.5\" /><circle cx=\"20\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><circle cx=\"32\" cy=\"28\" r=\"4\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 6px rgba(255, 20, 147, 0.9))\" /><circle cx=\"44\" cy=\"36\" r=\"3\" fill=\"url(#jewel_elohim)\" filter=\"drop-shadow(0 0 4px rgba(255, 20, 147, 0.8))\" /><path d=\"M 28 28 L 30 24 L 32 28 Z\" fill=\"#FFFFFF\" opacity=\"0.4\" /><path d=\"M 32 24 L 34 20 L 36 24 Z\" fill=\"#FFFFFF\" opacity=\"0.5\" /></svg>",
+      "relatedWords": [
+        "אֵל (엘 - 하나님, 권능자)",
+        "יְהוָה (여호와 - 주님, 스스로 있는 자)"
+      ]
+    },
+    {
+      "hebrew": "אֵת",
+      "meaning": "~을/를 (목적격 표지)",
+      "ipa": "ʔet",
+      "korean": "에트",
+      "letters": "אֵ(e) + ת(t)",
+      "root": "אֵת (에트)",
+      "grammar": "전치사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"arrow_et\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#667EEA\" /><stop offset=\"50%\" stop-color=\"#764BA2\" /><stop offset=\"100%\" stop-color=\"#F093FB\" /></linearGradient><linearGradient id=\"shaft_et\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4FACFE\" /><stop offset=\"100%\" stop-color=\"#00F2FE\" /></linearGradient></defs><rect x=\"8\" y=\"28\" width=\"38\" height=\"8\" rx=\"4\" fill=\"url(#shaft_et)\" opacity=\"0.8\" /><path d=\"M 42 32 L 56 32 L 48 20 Z\" fill=\"url(#arrow_et)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><path d=\"M 42 32 L 56 32 L 48 44 Z\" fill=\"url(#arrow_et)\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\" /><circle cx=\"16\" cy=\"32\" r=\"4\" fill=\"url(#shaft_et)\" opacity=\"0.6\" /><circle cx=\"28\" cy=\"32\" r=\"3\" fill=\"url(#shaft_et)\" opacity=\"0.5\" /></svg>"
+    },
+    {
+      "hebrew": "הַשָּׁמַיִם",
+      "meaning": "하늘들",
+      "ipa": "haʃaˈmajim",
+      "korean": "하샤마임",
+      "letters": "הַ(ha) + שָּׁ(sha) + מַ(ma) + יִם(yim)",
+      "root": "שָׁמַיִם (샤마임)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"sky_shamayim\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#000428\" /><stop offset=\"50%\" stop-color=\"#004E92\" /><stop offset=\"100%\" stop-color=\"#1CB5E0\" /></linearGradient><radialGradient id=\"star1_shamayim\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#FFD700\" /></radialGradient><radialGradient id=\"star2_shamayim\"><stop offset=\"0%\" stop-color=\"#E0FFFE\" /><stop offset=\"100%\" stop-color=\"#4FACFE\" /></radialGradient><linearGradient id=\"cloud_shamayim\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" /><stop offset=\"100%\" stop-color=\"#A8EDEA\" /></linearGradient></defs><rect width=\"64\" height=\"64\" fill=\"url(#sky_shamayim)\" rx=\"8\" /><circle cx=\"48\" cy=\"12\" r=\"2.5\" fill=\"url(#star1_shamayim)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.9))\" /><circle cx=\"16\" cy=\"16\" r=\"2\" fill=\"url(#star2_shamayim)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"52\" cy=\"32\" r=\"1.5\" fill=\"url(#star1_shamayim)\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.7))\" /><circle cx=\"12\" cy=\"40\" r=\"2\" fill=\"url(#star2_shamayim)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><circle cx=\"40\" cy=\"20\" r=\"1.5\" fill=\"url(#star1_shamayim)\" filter=\"drop-shadow(0 0 2px rgba(255, 255, 255, 0.7))\" /><circle cx=\"28\" cy=\"8\" r=\"1.8\" fill=\"url(#star2_shamayim)\" filter=\"drop-shadow(0 0 3px rgba(255, 255, 255, 0.8))\" /><ellipse cx=\"20\" cy=\"48\" rx=\"8\" ry=\"5\" fill=\"url(#cloud_shamayim)\" opacity=\"0.3\" /><ellipse cx=\"28\" cy=\"46\" rx=\"10\" ry=\"6\" fill=\"url(#cloud_shamayim)\" opacity=\"0.4\" /><ellipse cx=\"24\" cy=\"50\" rx=\"6\" ry=\"4\" fill=\"url(#cloud_shamayim)\" opacity=\"0.35\" /></svg>",
+      "relatedWords": [
+        "שָׁמַיִם (샤마임 - 하늘)",
+        "רָקִיעַ (라키아 - 궁창, 창공)"
+      ]
+    },
+    {
+      "hebrew": "וְאֵת",
+      "meaning": "그리고 ~을/를",
+      "ipa": "vəʔet",
+      "korean": "베에트",
+      "letters": "וְ(ve) + אֵ(e) + ת(t)",
+      "root": "וְ + אֵת (베 + 에트)",
+      "grammar": "접속사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"plus_veet\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#FA709A\" /><stop offset=\"100%\" stop-color=\"#FEE140\" /></linearGradient><radialGradient id=\"glow_veet\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" opacity=\"0.8\" /><stop offset=\"100%\" stop-color=\"#FA709A\" opacity=\"0\" /></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#glow_veet)\" /><rect x=\"28\" y=\"12\" width=\"8\" height=\"40\" rx=\"4\" fill=\"url(#plus_veet)\" filter=\"drop-shadow(0 0 6px rgba(250, 112, 154, 0.6))\" /><rect x=\"12\" y=\"28\" width=\"40\" height=\"8\" rx=\"4\" fill=\"url(#plus_veet)\" filter=\"drop-shadow(0 0 6px rgba(250, 112, 154, 0.6))\" /></svg>"
+    },
+    {
+      "hebrew": "הָאָרֶץ",
+      "meaning": "땅",
+      "ipa": "haˈʔarɛts",
+      "korean": "하아레츠",
+      "letters": "הָ(ha) + אָ(a) + רֶ(re) + ץ(ts)",
+      "root": "אֶרֶץ (에레츠)",
+      "grammar": "명사",
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><radialGradient id=\"earth_haaretz\"><stop offset=\"0%\" stop-color=\"#7FE5A8\" /><stop offset=\"40%\" stop-color=\"#4CAF50\" /><stop offset=\"70%\" stop-color=\"#2E7D32\" /><stop offset=\"100%\" stop-color=\"#1B5E20\" /></radialGradient><linearGradient id=\"ocean_haaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#4FC3F7\" /><stop offset=\"50%\" stop-color=\"#0288D1\" /><stop offset=\"100%\" stop-color=\"#01579B\" /></linearGradient><linearGradient id=\"land_haaretz\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#AED581\" /><stop offset=\"50%\" stop-color=\"#689F38\" /><stop offset=\"100%\" stop-color=\"#33691E\" /></linearGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#ocean_haaretz)\" filter=\"drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3))\" /><path d=\"M 18 20 Q 22 18 28 20 Q 32 22 36 20 Q 42 18 46 22 L 44 32 Q 40 36 36 34 Q 32 32 28 34 Q 24 36 20 32 Z\" fill=\"url(#land_haaretz)\" opacity=\"0.9\" /><ellipse cx=\"48\" cy=\"44\" rx=\"10\" ry=\"8\" fill=\"url(#land_haaretz)\" opacity=\"0.85\" /><ellipse cx=\"16\" cy=\"48\" rx=\"8\" ry=\"6\" fill=\"url(#land_haaretz)\" opacity=\"0.8\" /><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"none\" stroke=\"url(#earth_haaretz)\" stroke-width=\"2\" opacity=\"0.3\" /><circle cx=\"32\" cy=\"32\" r=\"30\" fill=\"none\" stroke=\"#FFFFFF\" stroke-width=\"0.5\" opacity=\"0.2\" /></svg>",
+      "relatedWords": [
+        "אֲדָמָה (아다마 - 흙, 토지)",
+        "תֵּבֵל (테벨 - 세상, 땅)"
+      ]
+    }
+  ],
+  "commentary": {
+    "intro": "성경의 첫 구절이자 가장 중요한 선언입니다. 이 짧은 문장은 우주의 기원, 하나님의 본질, 그리고 모든 존재의 의미를 담고 있습니다. '베레쉬트(처음에)'라는 단어로 시작하여, 시간, 공간, 물질의 절대적 시작을 알립니다.",
+    "sections": [
+      {
+        "emoji": "1️⃣",
+        "title": "בְּרֵאשִׁית (베레쉬트) - 절대적인 시작",
+        "description": "'베레쉬트'는 단순히 '처음에'를 의미하지만, 철학적으로는 시간 자체의 시작을 뜻합니다. 이 단어 이전에는 시간이 없었고, 이 선언과 함께 역사가 시작되었습니다.",
+        "points": [
+          "시간은 창조된 것이며, 하나님은 시간 밖에 계십니다",
+          "모든 것에는 시작이 있지만, 하나님은 영원하십니다",
+          "'처음'은 과거의 한 시점이 아니라 모든 것의 기원입니다"
+        ],
+        "color": "purple"
+      },
+      {
+        "emoji": "2️⃣",
+        "title": "בָּרָא (바라) - 무에서 유를 창조하다",
+        "description": "히브리어 '바라'는 오직 하나님만을 주어로 하는 특별한 동사입니다. 인간은 기존의 재료로 무언가를 만들지만, 하나님은 아무것도 없는 상태에서 존재를 창조하십니다.",
+        "points": [
+          "창조(bara)는 제작(asah)과 다릅니다 - 완전히 새로운 것을 만드심",
+          "하나님만이 진정한 의미의 창조자이십니다",
+          "창조는 하나님의 주권적 의지의 표현입니다"
+        ],
+        "color": "blue"
+      },
+      {
+        "emoji": "3️⃣",
+        "title": "אֱלֹהִים (엘로힘) - 위엄의 복수형",
+        "description": "'엘로힘'은 '엘로아(하나님)'의 복수형이지만 단수 동사 '바라'와 함께 쓰였습니다. 이는 하나님의 위엄과 충만함을 나타내는 '존귀의 복수'로, 나중에 삼위일체 교리의 암시로도 해석됩니다.",
+        "points": [
+          "복수형이지만 유일신을 나타냅니다 - 하나님의 충만하심",
+          "권능과 위엄의 하나님을 강조합니다",
+          "창조주로서의 하나님의 초월성을 드러냅니다"
+        ],
+        "color": "green"
+      },
+      {
+        "emoji": "4️⃣",
+        "title": "הַשָּׁמַיִם וְהָאָרֶץ (하샤마임 베하아레츠) - 우주의 전체성",
+        "description": "'하늘과 땅'이라는 표현은 히브리어의 '메리즘' 수사법으로, 두 극단을 언급함으로써 그 사이의 모든 것을 포함합니다. 즉, 보이는 것과 보이지 않는 것, 영적 세계와 물질 세계 전체를 의미합니다.",
+        "points": [
+          "우주의 모든 것이 하나님의 창조물입니다",
+          "영적 영역(하늘)과 물질 영역(땅) 모두 포함됩니다",
+          "창조는 부분적이 아니라 완전한 것이었습니다"
+        ],
+        "color": "pink"
+      }
+    ],
+    "whyQuestion": {
+      "question": "왜 하나님은 세상을 만드셨을까요?",
+      "answer": "하나님은 우리를 사랑하시기 때문에 세상을 만드셨어요. 마치 부모님이 아기를 위해 집을 예쁘게 꾸미는 것처럼, 하나님도 우리가 살 아름다운 세상을 준비하신 거예요. 하늘의 별들, 푸른 바다, 예쁜 꽃들 모두 하나님이 우리를 위해 만들어주신 선물이랍니다. 하나님은 우리와 함께 이 세상에서 행복하게 살기를 원하세요.",
+      "bibleReferences": [
+        "요한계시록 4:11 - '주께서 만물을 지으신지라 만물이 주의 뜻대로 있었고 또 지으심을 받았나이다'",
+        "시편 19:1 - '하늘이 하나님의 영광을 선포하고 궁창이 그의 손으로 하신 일을 나타내는도다'",
+        "골로새서 1:16 - '만물이 그에게서 창조되되 하늘과 땅에서 보이는 것들과 보이지 않는 것들이 혹은 왕권들이나 주권들이나 통치자들이나 권세들이나 만물이 다 그로 말미암고 그를 위하여 창조되었고'",
+        "이사야 45:18 - '하늘을 창조하신 이 그는 하나님이시니 그가 땅을 지으시고 그것을 만드셨으며 그것을 견고하게 하시되 혼돈하게 창조하지 아니하시고 사람이 거주하게 지으셨으니'"
+      ]
+    },
+    "conclusion": {
+      "title": "💡 신학적 의미",
+      "content": "창세기 1:1은 성경 전체의 토대입니다. 하나님이 창조주시라는 이 진리는 모든 신학적 교리의 출발점입니다. 우리가 우연히 생겨난 존재가 아니라 하나님의 목적과 계획 속에서 창조된 소중한 존재임을 알려줍니다. 또한 예수 그리스도를 통한 '새 창조'(고린도후서 5:17)의 예표이기도 합니다 - 태초에 하나님이 세상을 창조하신 것처럼, 그리스도 안에서 우리는 새로운 피조물로 거듭나게 됩니다."
+    }
+  }
+}

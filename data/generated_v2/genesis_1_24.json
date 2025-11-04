@@ -14,7 +14,8 @@
       "letters": "וַ(va) + יֹּ(yo) + אמֶר(mer)",
       "root": "א-מ-ר (아마르)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak24_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\"/><stop offset=\"100%\" stop-color=\"#764BA2\"/></linearGradient><radialGradient id=\"speak24_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\"/><stop offset=\"100%\" stop-color=\"#A78BFA\" stop-opacity=\"0.6\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speak24_1)\" opacity=\"0.2\"/><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"16\" fill=\"url(#speak24_1)\" filter=\"drop-shadow(0 4px 8px rgba(102, 126, 234, 0.5))\"/><path d=\"M 20 32 Q 32 42 44 32\" stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"24\" cy=\"28\" r=\"2.5\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"28\" r=\"2.5\" fill=\"#FFFFFF\"/><path d=\"M 44 30 Q 48 28 52 30 Q 56 32 58 28\" stroke=\"url(#speak24_2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\"/><path d=\"M 44 36 Q 50 34 54 36 Q 58 38 60 36\" stroke=\"url(#speak24_2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"speak24_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#667EEA\"/><stop offset=\"100%\" stop-color=\"#764BA2\"/></linearGradient><radialGradient id=\"speak24_2\"><stop offset=\"0%\" stop-color=\"#FFFFFF\" stop-opacity=\"0.9\"/><stop offset=\"100%\" stop-color=\"#A78BFA\" stop-opacity=\"0.6\"/></radialGradient></defs><circle cx=\"32\" cy=\"32\" r=\"28\" fill=\"url(#speak24_1)\" opacity=\"0.2\"/><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"16\" fill=\"url(#speak24_1)\" filter=\"drop-shadow(0 4px 8px rgba(102, 126, 234, 0.5))\"/><path d=\"M 20 32 Q 32 42 44 32\" stroke=\"#FFFFFF\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"24\" cy=\"28\" r=\"2.5\" fill=\"#FFFFFF\"/><circle cx=\"40\" cy=\"28\" r=\"2.5\" fill=\"#FFFFFF\"/><path d=\"M 44 30 Q 48 28 52 30 Q 56 32 58 28\" stroke=\"url(#speak24_2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.8\"/><path d=\"M 44 36 Q 50 34 54 36 Q 58 38 60 36\" stroke=\"url(#speak24_2)\" stroke-width=\"2\" fill=\"none\" opacity=\"0.6\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayomereu.jpg"
     },
     {
       "hebrew": "אֱלֹהִים",
@@ -28,7 +29,8 @@
       "relatedWords": [
         "אֵל (엘 - 하나님)",
         "יְהוָה (여호와 - 주님)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/elohim.jpg"
     },
     {
       "hebrew": "תּוֹצֵא",
@@ -38,7 +40,8 @@
       "letters": "תּוֹ(to) + צֵא(tse)",
       "root": "י-צ-א (야차)",
       "grammar": "동사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring24_1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#2E7D32\"/><stop offset=\"100%\" stop-color=\"#66BB6A\"/></linearGradient><linearGradient id=\"bring24_2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#A1887F\"/></linearGradient><radialGradient id=\"bring24_3\"><stop offset=\"0%\" stop-color=\"#81C784\"/><stop offset=\"100%\" stop-color=\"#4CAF50\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"18\" ry=\"6\" fill=\"url(#bring24_2)\" opacity=\"0.5\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"16\" fill=\"url(#bring24_2)\" rx=\"1\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 32 40 Q 20 35 18 24 Q 18 20 22 22 Q 24 24 32 28\" fill=\"url(#bring24_1)\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.6))\"/><path d=\"M 32 40 Q 44 35 46 24 Q 46 20 42 22 Q 40 24 32 28\" fill=\"url(#bring24_1)\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.6))\"/><circle cx=\"18\" cy=\"20\" r=\"4\" fill=\"url(#bring24_3)\" filter=\"drop-shadow(0 0 4px rgba(76, 175, 80, 0.8))\"/><circle cx=\"46\" cy=\"20\" r=\"4\" fill=\"url(#bring24_3)\" filter=\"drop-shadow(0 0 4px rgba(76, 175, 80, 0.8))\"/><circle cx=\"32\" cy=\"24\" r=\"3\" fill=\"url(#bring24_3)\" opacity=\"0.7\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"bring24_1\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#2E7D32\"/><stop offset=\"100%\" stop-color=\"#66BB6A\"/></linearGradient><linearGradient id=\"bring24_2\" x1=\"0%\" y1=\"100%\" x2=\"0%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#8D6E63\"/><stop offset=\"100%\" stop-color=\"#A1887F\"/></linearGradient><radialGradient id=\"bring24_3\"><stop offset=\"0%\" stop-color=\"#81C784\"/><stop offset=\"100%\" stop-color=\"#4CAF50\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"52\" rx=\"18\" ry=\"6\" fill=\"url(#bring24_2)\" opacity=\"0.5\"/><rect x=\"28\" y=\"40\" width=\"8\" height=\"16\" fill=\"url(#bring24_2)\" rx=\"1\" filter=\"drop-shadow(2px 2px 4px rgba(0, 0, 0, 0.3))\"/><path d=\"M 32 40 Q 20 35 18 24 Q 18 20 22 22 Q 24 24 32 28\" fill=\"url(#bring24_1)\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.6))\"/><path d=\"M 32 40 Q 44 35 46 24 Q 46 20 42 22 Q 40 24 32 28\" fill=\"url(#bring24_1)\" filter=\"drop-shadow(0 2px 6px rgba(46, 125, 50, 0.6))\"/><circle cx=\"18\" cy=\"20\" r=\"4\" fill=\"url(#bring24_3)\" filter=\"drop-shadow(0 0 4px rgba(76, 175, 80, 0.8))\"/><circle cx=\"46\" cy=\"20\" r=\"4\" fill=\"url(#bring24_3)\" filter=\"drop-shadow(0 0 4px rgba(76, 175, 80, 0.8))\"/><circle cx=\"32\" cy=\"24\" r=\"3\" fill=\"url(#bring24_3)\" opacity=\"0.7\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/toche.jpg"
     },
     {
       "hebrew": "הָאָרֶץ",
@@ -52,7 +55,8 @@
       "relatedWords": [
         "אֲדָמָה (아다마 - 흙, 땅)",
         "תֵּבֵל (테벨 - 세계)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/genesis1_1/haaretz.jpg"
     },
     {
       "hebrew": "נֶפֶשׁ חַיָּה",
@@ -66,7 +70,8 @@
       "relatedWords": [
         "חַיִּים (하임 - 생명)",
         "נְשָׁמָה (네샤마 - 숨, 영혼)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/nepeswihaya.jpg"
     },
     {
       "hebrew": "לְמִינָהּ",
@@ -80,7 +85,8 @@
       "relatedWords": [
         "מִינִים (미님 - 종류들)",
         "זֶרַע (제라 - 씨앗, 후손)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/remina.jpg"
     },
     {
       "hebrew": "בְּהֵמָה",
@@ -90,7 +96,8 @@
       "letters": "בְּ(be) + הֵ(he) + מָה(mah)",
       "root": "בְּהֵמָה (베헤마)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle24_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\"/><stop offset=\"100%\" stop-color=\"#6D4C41\"/></linearGradient><linearGradient id=\"cattle24_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#D7CCC8\"/><stop offset=\"100%\" stop-color=\"#A1887F\"/></linearGradient><radialGradient id=\"cattle24_3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#8D6E63\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"8\" fill=\"url(#cattle24_1)\" opacity=\"0.3\"/><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"14\" fill=\"url(#cattle24_2)\" filter=\"drop-shadow(0 4px 8px rgba(109, 76, 65, 0.5))\"/><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#cattle24_2)\" filter=\"drop-shadow(0 2px 6px rgba(109, 76, 65, 0.4))\"/><path d=\"M 22 16 L 20 10 Q 20 8 22 8 L 24 12\" fill=\"url(#cattle24_1)\" stroke=\"#6D4C41\" stroke-width=\"1\"/><path d=\"M 42 16 L 44 10 Q 44 8 42 8 L 40 12\" fill=\"url(#cattle24_1)\" stroke=\"#6D4C41\" stroke-width=\"1\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#3E2723\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#3E2723\"/><ellipse cx=\"32\" cy=\"26\" rx=\"3\" ry=\"2\" fill=\"#5D4037\"/><rect x=\"20\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"28\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"32\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"40\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"cattle24_1\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#A1887F\"/><stop offset=\"100%\" stop-color=\"#6D4C41\"/></linearGradient><linearGradient id=\"cattle24_2\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#D7CCC8\"/><stop offset=\"100%\" stop-color=\"#A1887F\"/></linearGradient><radialGradient id=\"cattle24_3\"><stop offset=\"0%\" stop-color=\"#FFFFFF\"/><stop offset=\"100%\" stop-color=\"#8D6E63\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"48\" rx=\"24\" ry=\"8\" fill=\"url(#cattle24_1)\" opacity=\"0.3\"/><ellipse cx=\"32\" cy=\"36\" rx=\"20\" ry=\"14\" fill=\"url(#cattle24_2)\" filter=\"drop-shadow(0 4px 8px rgba(109, 76, 65, 0.5))\"/><circle cx=\"32\" cy=\"22\" r=\"10\" fill=\"url(#cattle24_2)\" filter=\"drop-shadow(0 2px 6px rgba(109, 76, 65, 0.4))\"/><path d=\"M 22 16 L 20 10 Q 20 8 22 8 L 24 12\" fill=\"url(#cattle24_1)\" stroke=\"#6D4C41\" stroke-width=\"1\"/><path d=\"M 42 16 L 44 10 Q 44 8 42 8 L 40 12\" fill=\"url(#cattle24_1)\" stroke=\"#6D4C41\" stroke-width=\"1\"/><circle cx=\"28\" cy=\"22\" r=\"2\" fill=\"#3E2723\"/><circle cx=\"36\" cy=\"22\" r=\"2\" fill=\"#3E2723\"/><ellipse cx=\"32\" cy=\"26\" rx=\"3\" ry=\"2\" fill=\"#5D4037\"/><rect x=\"20\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"28\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"32\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/><rect x=\"40\" y=\"42\" width=\"4\" height=\"12\" fill=\"url(#cattle24_1)\" rx=\"1\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behema.jpg"
     },
     {
       "hebrew": "וָרֶמֶשׂ",
@@ -100,7 +107,8 @@
       "letters": "וָ(va) + רֶ(re) + מֶשׂ(mes)",
       "root": "ר-מ-שׂ (라마스)",
       "grammar": "명사",
-      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creep24_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"50%\" stop-color=\"#8BC34A\"/><stop offset=\"100%\" stop-color=\"#CDDC39\"/></linearGradient><linearGradient id=\"creep24_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\"/><stop offset=\"100%\" stop-color=\"#66BB6A\"/></linearGradient><radialGradient id=\"creep24_3\"><stop offset=\"0%\" stop-color=\"#FFEB3B\"/><stop offset=\"100%\" stop-color=\"#FBC02D\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"6\" fill=\"#2E7D32\" opacity=\"0.2\"/><path d=\"M 8 32 Q 12 28 16 32 Q 20 28 24 32 Q 28 28 32 32 Q 36 28 40 32 Q 44 28 48 32 Q 52 28 56 32\" stroke=\"url(#creep24_1)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 4px 6px rgba(46, 125, 50, 0.5))\"/><ellipse cx=\"52\" cy=\"28\" rx=\"6\" ry=\"5\" fill=\"url(#creep24_2)\" transform=\"rotate(20 52 28)\"/><circle cx=\"50\" cy=\"26\" r=\"2\" fill=\"#1B5E20\"/><circle cx=\"55\" cy=\"27\" r=\"1.5\" fill=\"#1B5E20\"/><path d=\"M 18 36 L 14 42 L 16 44\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 30 36 L 28 44 L 30 46\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 42 36 L 40 44 L 42 46\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"12\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/><circle cx=\"36\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/></svg>"
+      "iconSvg": "<svg viewBox=\"0 0 64 64\" xmlns=\"http://www.w3.org/2000/svg\"><defs><linearGradient id=\"creep24_1\" x1=\"0%\" y1=\"0%\" x2=\"100%\" y2=\"0%\"><stop offset=\"0%\" stop-color=\"#4CAF50\"/><stop offset=\"50%\" stop-color=\"#8BC34A\"/><stop offset=\"100%\" stop-color=\"#CDDC39\"/></linearGradient><linearGradient id=\"creep24_2\" x1=\"0%\" y1=\"0%\" x2=\"0%\" y2=\"100%\"><stop offset=\"0%\" stop-color=\"#81C784\"/><stop offset=\"100%\" stop-color=\"#66BB6A\"/></linearGradient><radialGradient id=\"creep24_3\"><stop offset=\"0%\" stop-color=\"#FFEB3B\"/><stop offset=\"100%\" stop-color=\"#FBC02D\"/></radialGradient></defs><ellipse cx=\"32\" cy=\"54\" rx=\"28\" ry=\"6\" fill=\"#2E7D32\" opacity=\"0.2\"/><path d=\"M 8 32 Q 12 28 16 32 Q 20 28 24 32 Q 28 28 32 32 Q 36 28 40 32 Q 44 28 48 32 Q 52 28 56 32\" stroke=\"url(#creep24_1)\" stroke-width=\"8\" fill=\"none\" stroke-linecap=\"round\" filter=\"drop-shadow(2px 4px 6px rgba(46, 125, 50, 0.5))\"/><ellipse cx=\"52\" cy=\"28\" rx=\"6\" ry=\"5\" fill=\"url(#creep24_2)\" transform=\"rotate(20 52 28)\"/><circle cx=\"50\" cy=\"26\" r=\"2\" fill=\"#1B5E20\"/><circle cx=\"55\" cy=\"27\" r=\"1.5\" fill=\"#1B5E20\"/><path d=\"M 18 36 L 14 42 L 16 44\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 30 36 L 28 44 L 30 46\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><path d=\"M 42 36 L 40 44 L 42 46\" stroke=\"url(#creep24_2)\" stroke-width=\"3\" fill=\"none\" stroke-linecap=\"round\"/><circle cx=\"12\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/><circle cx=\"24\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/><circle cx=\"36\" cy=\"30\" r=\"2\" fill=\"url(#creep24_3)\" opacity=\"0.6\"/></svg>",
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/baremeseu.jpg"
     },
     {
       "hebrew": "וְחַיְתוֹ-אֶרֶץ",
@@ -114,7 +122,8 @@
       "relatedWords": [
         "חַיַּת הַשָּׂדֶה (하야트 하사데 - 들짐승)",
         "בְּהֵמוֹת (베헤못 - 짐승들)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/behayetoerecheu.jpg"
     },
     {
       "hebrew": "וַיְהִי-כֵן",
@@ -128,7 +137,8 @@
       "relatedWords": [
         "כֵּן (켄 - 그렇게, 참으로)",
         "אָמֵן (아멘 - 진실로)"
-      ]
+      ],
+      "flashcardImgUrl": "https://ouzlnriafovnxlkywerk.supabase.co/storage/v1/object/public/flashcard-images/words/bayehiken.jpg"
     }
   ],
   "commentary": {

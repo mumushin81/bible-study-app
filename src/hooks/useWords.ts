@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { supabase } from '../lib/supabase'
-import { RootEtymology } from '../types'
+import { RootEtymology, RootLetterAnalysis } from '../types'
 import { useHebrewRoots } from '../contexts/HebrewRootsContext'
 
 export interface WordWithContext {
@@ -12,12 +12,13 @@ export interface WordWithContext {
   letters?: string
   root: string
   grammar: string
-  iconUrl?: string  // ✨ JPG 아이콘 URL (우선순위 1)
+  flashcardImgUrl?: string  // 플래시카드 이미지 URL (우선순위 1)
   iconSvg?: string  // 레거시 SVG 아이콘 코드 (fallback)
   category?: 'noun' | 'verb' | 'adjective' | 'preposition' | 'particle'
   isCombinedForm?: boolean  // 결합형 여부 (접두사 포함)
   rootIpa?: string  // 어근의 IPA 발음
   rootEtymology?: RootEtymology  // ✨ 어근 어원 정보
+  rootAnalysis?: RootLetterAnalysis[]  // ✨ 어근 글자별 발음 분석 (Codex 피드백)
   verseReference: string
   verseId: string
   bookId: string
@@ -61,11 +62,12 @@ export function useWords(options?: UseWordsOptions) {
             letters,
             root,
             grammar,
-            icon_url,
+            flashcard_img_url,
             icon_svg,
             category,
             is_combined_form,
             root_ipa,
+            root_analysis,
             position,
             verses!inner (
               id,
@@ -109,60 +111,66 @@ export function useWords(options?: UseWordsOptions) {
         data.forEach((item: any, index: number) => {
           const verse = item.verses
 
-          if (!wordMap.has(item.hebrew)) {
-            const hasIconSvg = !!item.icon_svg;
-            const hasIconUrl = !!item.icon_url;
-            const hasKoreanInRoot = /[ㄱ-ㅎㅏ-ㅣ가-힣]/.test(item.root);
-            console.log(`[useWords] ${item.hebrew} (${item.meaning}): icon_url=${hasIconUrl ? 'EXISTS' : 'NULL'}, icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}, root="${item.root}", hasKorean=${hasKoreanInRoot}`);
-            if (hasIconUrl) {
-              console.log(`  → iconUrl: ${item.icon_url}`);
-            }
+          // 최신 icon_url로 업데이트
+          const existingWord = wordMap.get(item.hebrew);
+          const hasIconSvg = !!item.icon_svg;
+          const hasFlashcardImgUrl = !!item.flashcard_img_url;
+          const hasKoreanInRoot = /[ㄱ-ㅎㅏ-ㅣ가-힣]/.test(item.root);
 
-            // 어근 히브리어 추출 (word.root 필드에서)
-            // 1. 하이픈 패턴 찾기 (ㅁ-ㅁ-ㅁ)
-            const hyphenMatch = item.root.match(/([א-ת]-[א-ת]-[א-ת])/);
-            let rootHebrew = hyphenMatch ? hyphenMatch[0] : '';
+          console.log(`[useWords] ${item.hebrew} (${item.meaning}): flashcard_img_url=${hasFlashcardImgUrl ? 'EXISTS' : 'NULL'}, icon_svg=${hasIconSvg ? 'EXISTS' : 'NULL'}, root="${item.root}", hasKorean=${hasKoreanInRoot}`);
 
-            // 2. 하이픈 패턴이 없으면 괄호 앞의 히브리어 사용
-            if (!rootHebrew) {
-              rootHebrew = item.root.split('(')[0].trim();
-            }
-
-            const rootEtymology = rootsMap.get(rootHebrew);
-
-            // 디버깅 (처음 3개만)
-            if (index === 0) {
-              console.log(`[useWords DEBUG] ${item.hebrew}:`)
-              console.log(`  word.root: "${item.root}"`)
-              console.log(`  extracted rootHebrew: "${rootHebrew}"`)
-              console.log(`  rootEtymology: ${rootEtymology ? 'FOUND ✅' : 'NOT FOUND ❌'}`)
-              if (rootEtymology) {
-                console.log(`  story preview: ${rootEtymology.story.substring(0, 50)}...`)
-              }
-            }
-
-            wordMap.set(item.hebrew, {
-              id: item.id,
-              hebrew: item.hebrew,
-              meaning: item.meaning,
-              ipa: item.ipa,
-              korean: item.korean,
-              letters: item.letters || undefined,
-              root: item.root,
-              grammar: item.grammar,
-              iconUrl: item.icon_url || undefined,  // ✨ 추가
-              iconSvg: item.icon_svg || undefined,
-              category: item.category as any || undefined,
-              isCombinedForm: item.is_combined_form || false,  // ✨ 결합형 여부
-              rootIpa: item.root_ipa || undefined,  // ✨ 어근 IPA 발음
-              rootEtymology,  // ✨ 어근 어원 정보
-              verseReference: verse.reference,
-              verseId: verse.id,
-              bookId: verse.book_id,
-              chapter: verse.chapter,
-              verseNumber: verse.verse_number,
-            })
+          if (hasFlashcardImgUrl) {
+            console.log(`  → flashcardImgUrl: ${item.flashcard_img_url}`);
           }
+
+          // 어근 히브리어 추출 (word.root 필드에서)
+          // 1. 하이픈 패턴 찾기 (ㅁ-ㅁ-ㅁ)
+          const hyphenMatch = item.root.match(/([א-ת]-[א-ת]-[א-ת])/);
+          let rootHebrew = hyphenMatch ? hyphenMatch[0] : '';
+
+          // 2. 하이픈 패턴이 없으면 괄호 앞의 히브리어 사용
+          if (!rootHebrew) {
+            rootHebrew = item.root.split('(')[0].trim();
+          }
+
+          const rootEtymology = rootsMap.get(rootHebrew);
+
+          // 디버깅 (처음 3개만)
+          if (index === 0) {
+            console.log(`[useWords DEBUG] ${item.hebrew}:`)
+            console.log(`  word.root: "${item.root}"`)
+            console.log(`  extracted rootHebrew: "${rootHebrew}"`)
+            console.log(`  rootEtymology: ${rootEtymology ? 'FOUND ✅' : 'NOT FOUND ❌'}`)
+            if (rootEtymology) {
+              console.log(`  story preview: ${rootEtymology.story.substring(0, 50)}...`)
+            }
+          }
+
+          // 최신 데이터로 단어 정보 업데이트
+          const wordData = {
+            id: item.id,
+            hebrew: item.hebrew,
+            meaning: item.meaning,
+            ipa: item.ipa,
+            korean: item.korean,
+            letters: item.letters ?? existingWord?.letters ?? undefined,  // 기존 값 보존
+            root: item.root,
+            grammar: item.grammar,
+            flashcardImgUrl: item.flashcard_img_url || existingWord?.flashcardImgUrl || undefined,  // 최신 URL 우선
+            iconSvg: item.icon_svg || existingWord?.iconSvg || undefined,
+            category: item.category as any || undefined,
+            isCombinedForm: item.is_combined_form || false,
+            rootIpa: item.root_ipa || undefined,
+            rootEtymology,
+            rootAnalysis: item.root_analysis ?? existingWord?.rootAnalysis ?? undefined,  // 기존 값 보존
+            verseReference: verse.reference,
+            verseId: verse.id,
+            bookId: verse.book_id,
+            chapter: verse.chapter,
+            verseNumber: verse.verse_number,
+          }
+
+          wordMap.set(item.hebrew, wordData);
         })
 
         const uniqueWords = Array.from(wordMap.values())
