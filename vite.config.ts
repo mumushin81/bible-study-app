@@ -3,7 +3,8 @@ import react from '@vitejs/plugin-react'
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: '/bible-study-app/', // GitHub Pages 경로 설정
+  // GitHub Pages는 /bible-study-app/, Vercel은 /
+  base: process.env.GITHUB_ACTIONS ? '/bible-study-app/' : '/',
   plugins: [react()],
   build: {
     chunkSizeWarningLimit: 1000, // 1000 kB로 chunk size 경고 제한 증가
