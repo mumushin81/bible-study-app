@@ -7,15 +7,46 @@
  * - 오류 처리 및 로깅
  */
 
-import { readFileSync, writeFileSync, mkdirSync, existsSync } from 'fs'
+import { readFileSync, writeFileSync, mkdirSync } from 'fs'
 import { join } from 'path'
 import { config } from 'dotenv'
-import Replicate from 'replicate'
-import { generateWordImagePrompt, WordInfo } from './generateImagePrompt.js'
+import { WordInfo } from './generateImagePrompt.js'
 import { generateWordImage } from './generateImage.js'
 
 // 환경 설정 로드
 config({ path: '.env.local' })
+
+interface GenerationPrompt {
+  prompt: string
+  negativePrompt: string
+}
+
+function createPrompt(word: WordInfo): GenerationPrompt {
+  const conceptPrompt = `Symbolic, narrative illustration conveying the biblical concept of "${word.meaning}". Express this sacred idea through luminous metaphors, biblically inspired scenery, and emblematic imagery so the meaning is instantly recognizable. Favor celestial elements, light, flora, natural phenomena, and sacred symbols instead of literal human anatomy; if figures appear, render them only as distant silhouettes with no visible faces or hands.`
+
+  const colorPrompt = 'bright pastel palette with soft pink, sky blue, lavender, golden peach, and mint green; luminous gradients; NO dark colors, NO black, NO dark gray; hopeful, uplifting spiritual glow'
+
+  const compositionPrompt = 'vertical 9:16 layout; primary subject occupies the upper 80%; lower 20% remains softly lit negative space for future text overlay; centered, harmonious framing with gentle depth'
+
+  const stylePrompt = 'impressionistic symbolic art, dreamlike sacred atmosphere, painterly brushstrokes, soft focus edges, watercolor textures, diffuse glow, gentle light bloom'
+
+  const prompt = `${conceptPrompt} ${colorPrompt}. ${compositionPrompt}. ${stylePrompt}. Absolutely no written characters, letters, or text of any kind within the scene.`
+
+  const negativePrompt = [
+    'text, letters, typography, calligraphy, inscriptions, captions, subtitles, handwriting, graffiti, banners',
+    'Hebrew letters, Hebrew text, Hebrew characters, Hebrew script, ancient text, biblical inscriptions, sacred text',
+    'Arabic text, Aramaic text, any written language, alphabets, symbols with text',
+    'logos, icons, UI elements, diagrams, charts, graphs, maps, labels, stickers, memes',
+    'watermarks, signatures, stamps, QR codes, numbers',
+    'photorealistic anatomy, detailed hands, extra fingers, close-up hands, realistic faces, facial features, teeth, portraits, hyper-detailed skin, muscular definition',
+    'abstract blobs, chaotic patterns, glitch effects, noisy artifacts, distorted faces'
+  ].join(', ')
+
+  return {
+    prompt,
+    negativePrompt
+  }
+}
 
 // 로깅 및 추적을 위한 결과 기록 클래스
 class BatchImageGenerationResult {
@@ -97,11 +128,14 @@ async function generateWordImagesBatch(
     console.log(`\n📦 배치 ${Math.floor(i/batchSize) + 1} 처리 중 (${i+1} - ${i+batch.length}/${result.total})`)
 
     try {
-      const batchResults = await Promise.all(batch.map(word =>
-        generateWordImage(word, { outputDir })
+      const batchResults = await Promise.all(batch.map(word => {
+        const { prompt } = createPrompt(word)
+        console.log(`\n📝 프롬프트 프리뷰 (${word.hebrew}): ${prompt.substring(0, 200)}...`)
+
+        return generateWordImage(word, { outputDir, logPromptPreview: false })
           .then(paths => ({ paths, word }))
           .catch(error => ({ paths: [], word, error }))
-      ))
+      }))
 
       console.log('🔍 Debug: Batch Results', JSON.stringify(batchResults, null, 2));
       batchResults.forEach((resultItem, index) => {

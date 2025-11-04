@@ -26,6 +26,11 @@ interface WordInfo {
   ipa: string;
 }
 
+interface GenerationPrompt {
+  prompt: string;
+  negativePrompt: string;
+}
+
 const log = {
   info: (msg: string) => console.log(`ℹ️  ${msg}`),
   success: (msg: string) => console.log(`✅ ${msg}`),
@@ -34,25 +39,35 @@ const log = {
   step: (msg: string) => console.log(`\n🔄 ${msg}`)
 };
 
-function createPrompt(word: WordInfo): string {
-  // 구체적 비주얼 설명
-  const visualPrompt = `Abstract visual representation of the Hebrew word "${word.hebrew}" meaning "${word.meaning}".
-Symbolic, ethereal imagery representing biblical concept of ${word.meaning}.`;
+function createPrompt(word: WordInfo): GenerationPrompt {
+  const conceptPrompt = `Symbolic, narrative illustration conveying the biblical concept of "${word.meaning}". Express this sacred idea through luminous metaphors, biblically inspired scenery, and emblematic imagery so the meaning is instantly recognizable. Favor celestial elements, light, flora, natural phenomena, and sacred symbols instead of literal human anatomy; if figures appear, render them only as distant silhouettes with no visible faces or hands.`;
 
-  // 색상 지시 (새 규칙: 밝은 파스텔, 4-6가지 색상, 어두운 색상 금지)
-  const colorPrompt = 'bright pastel colors, multi-colored with soft pink blue purple yellow orange, vibrant gradients, NO dark colors, NO black, NO dark gray, cheerful and hopeful atmosphere';
+  const colorPrompt = 'bright pastel palette with soft pink, sky blue, lavender, golden peach, and mint green; luminous gradients; NO dark colors, NO black, NO dark gray; hopeful, uplifting spiritual glow';
 
-  // 레이아웃 지시 (9:16 비율, 하단 20% 공백)
-  const layoutPrompt = '9:16 aspect ratio, bottom 20% empty space for text overlay, main content in upper 80%, centered composition';
+  const compositionPrompt = 'vertical 9:16 layout; primary subject occupies the upper 80%; lower 20% remains softly lit negative space for future text overlay; centered, harmonious framing with gentle depth';
 
-  // 스타일
-  const stylePrompt = 'clean composition, biblical art aesthetic, professional lighting, high quality, detailed, ethereal light, spiritual atmosphere';
+  const stylePrompt = 'impressionistic symbolic art, dreamlike sacred atmosphere, painterly brushstrokes, soft focus edges, watercolor textures, diffuse glow, gentle light bloom';
 
-  return `${visualPrompt} ${colorPrompt}, ${layoutPrompt}, ${stylePrompt}`;
+  const prompt = `${conceptPrompt} ${colorPrompt}. ${compositionPrompt}. ${stylePrompt}. Absolutely no written characters, letters, or text of any kind within the scene.`;
+
+  const negativePrompt = [
+    'text, letters, typography, calligraphy, inscriptions, captions, subtitles, handwriting, graffiti, banners',
+    'Hebrew letters, Hebrew text, Hebrew characters, Hebrew script, ancient text, biblical inscriptions, sacred text',
+    'Arabic text, Aramaic text, any written language, alphabets, symbols with text',
+    'logos, icons, UI elements, diagrams, charts, graphs, maps, labels, stickers, memes',
+    'watermarks, signatures, stamps, QR codes, numbers',
+    'photorealistic anatomy, detailed hands, extra fingers, close-up hands, realistic faces, facial features, teeth, portraits, hyper-detailed skin, muscular definition',
+    'abstract blobs, chaotic patterns, glitch effects, noisy artifacts, distorted faces'
+  ].join(', ');
+
+  return {
+    prompt,
+    negativePrompt
+  };
 }
 
 async function generateImage(word: WordInfo, index: number, total: number): Promise<string | null> {
-  const prompt = createPrompt(word);
+  const { prompt, negativePrompt } = createPrompt(word);
 
   try {
     log.info(`[${index + 1}/${total}] ${word.hebrew} (${word.korean}) 생성 중...`);
@@ -62,6 +77,7 @@ async function generateImage(word: WordInfo, index: number, total: number): Prom
       {
         input: {
           prompt,
+          negative_prompt: negativePrompt,
           aspect_ratio: "9:16",
           output_format: "jpg",
           output_quality: 90,

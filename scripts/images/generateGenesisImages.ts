@@ -26,8 +26,19 @@ const replicate = new Replicate({
   auth: process.env.VITE_REPLICATE_API_TOKEN || ''
 })
 
+interface GenesisWord {
+  hebrew: string
+  meaning: string
+  context: string
+}
+
+interface GenerationPrompt {
+  prompt: string
+  negativePrompt: string
+}
+
 // Genesis 1:1 주요 단어들
-const GENESIS_1_1_WORDS = [
+const GENESIS_1_1_WORDS: GenesisWord[] = [
   {
     hebrew: 'בְּרֵאשִׁית',
     meaning: '태초에, 시작',
@@ -65,16 +76,31 @@ const GENESIS_1_1_WORDS = [
   }
 ]
 
-// 프롬프트 생성 함수
-function generateWordPrompt(word: { hebrew: string, meaning: string, context: string }): string {
-  return `Abstract visual representation of the Hebrew word "${word.hebrew}" meaning "${word.meaning}".
-  Context: ${word.context}.
-  Symbolic, ethereal imagery with soft pastel colors,
-  representing biblical creation and divine essence.
-  9:16 aspect ratio, bright and hopeful atmosphere,
-  no dark colors, centered composition with ethereal light.
-  Symbolize creation, spiritual awakening, and divine power.
-  High quality, detailed, professional illustration.`
+function createPrompt(word: GenesisWord): GenerationPrompt {
+  const conceptPrompt = `Symbolic, narrative illustration conveying the biblical concept of "${word.meaning}". Express this sacred idea through luminous metaphors, biblically inspired scenery, and emblematic imagery so the meaning is instantly recognizable. Favor celestial elements, light, flora, natural phenomena, and sacred symbols instead of literal human anatomy; if figures appear, render them only as distant silhouettes with no visible faces or hands.`
+
+  const colorPrompt = 'bright pastel palette with soft pink, sky blue, lavender, golden peach, and mint green; luminous gradients; NO dark colors, NO black, NO dark gray; hopeful, uplifting spiritual glow'
+
+  const compositionPrompt = 'vertical 9:16 layout; primary subject occupies the upper 80%; lower 20% remains softly lit negative space for future text overlay; centered, harmonious framing with gentle depth'
+
+  const stylePrompt = 'impressionistic symbolic art, dreamlike sacred atmosphere, painterly brushstrokes, soft focus edges, watercolor textures, diffuse glow, gentle light bloom'
+
+  const prompt = `${conceptPrompt} ${colorPrompt}. ${compositionPrompt}. ${stylePrompt}. Absolutely no written characters, letters, or text of any kind within the scene.`
+
+  const negativePrompt = [
+    'text, letters, typography, calligraphy, inscriptions, captions, subtitles, handwriting, graffiti, banners',
+    'Hebrew letters, Hebrew text, Hebrew characters, Hebrew script, ancient text, biblical inscriptions, sacred text',
+    'Arabic text, Aramaic text, any written language, alphabets, symbols with text',
+    'logos, icons, UI elements, diagrams, charts, graphs, maps, labels, stickers, memes',
+    'watermarks, signatures, stamps, QR codes, numbers',
+    'photorealistic anatomy, detailed hands, extra fingers, close-up hands, realistic faces, facial features, teeth, portraits, hyper-detailed skin, muscular definition',
+    'abstract blobs, chaotic patterns, glitch effects, noisy artifacts, distorted faces'
+  ].join(', ')
+
+  return {
+    prompt,
+    negativePrompt
+  }
 }
 
 // 이미지 크기 최적화 함수
@@ -95,12 +121,12 @@ async function optimizeImage(buffer: ArrayBuffer, maxSizeKB: number = 100): Prom
 }
 
 // 이미지 업로드 및 DB 업데이트 함수
-async function generateAndUploadImage(word: { hebrew: string, meaning: string, context: string }) {
+async function generateAndUploadImage(word: GenesisWord) {
   try {
     console.log(`🎨 "${word.hebrew}" 이미지 생성 중...`)
 
     // 프롬프트 생성
-    const prompt = generateWordPrompt(word)
+    const { prompt, negativePrompt } = createPrompt(word)
 
     // Replicate API 호출
     const output = await replicate.run(
@@ -108,9 +134,12 @@ async function generateAndUploadImage(word: { hebrew: string, meaning: string, c
       {
         input: {
           prompt,
+          negative_prompt: negativePrompt,
           aspect_ratio: '9:16',
           output_format: 'jpg',
-          output_quality: 80
+          output_quality: 80,
+          safety_tolerance: 2,
+          prompt_upsampling: true
         }
       }
     )

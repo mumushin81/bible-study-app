@@ -7,10 +7,10 @@
 
 import 'dotenv/config'
 import Replicate from 'replicate'
-import { writeFileSync, mkdirSync, readFileSync } from 'fs'
+import { writeFileSync, mkdirSync } from 'fs'
 import { join } from 'path'
 import { createClient } from '@supabase/supabase-js'
-import { generateWordImagePrompt, generateSimplePrompt, WordInfo } from './generateImagePrompt.js'
+import { generateSimplePrompt, WordInfo } from './generateImagePrompt.js'
 import dotenv from 'dotenv'
 
 // 환경변수 로드
@@ -24,6 +24,7 @@ interface GenerateImageOptions {
   numOutputs?: number
   seed?: number
   uploadToSupabase?: boolean
+  logPromptPreview?: boolean
 }
 
 const replicate = new Replicate({
@@ -35,6 +36,38 @@ const supabase = createClient(
   process.env.VITE_SUPABASE_URL!,
   process.env.SUPABASE_SERVICE_ROLE_KEY!
 )
+
+interface GenerationPrompt {
+  prompt: string
+  negativePrompt: string
+}
+
+function createPrompt(word: WordInfo): GenerationPrompt {
+  const conceptPrompt = `Symbolic, narrative illustration conveying the biblical concept of "${word.meaning}". Express this sacred idea through luminous metaphors, biblically inspired scenery, and emblematic imagery so the meaning is instantly recognizable. Favor celestial elements, light, flora, natural phenomena, and sacred symbols instead of literal human anatomy; if figures appear, render them only as distant silhouettes with no visible faces or hands.`
+
+  const colorPrompt = 'bright pastel palette with soft pink, sky blue, lavender, golden peach, and mint green; luminous gradients; NO dark colors, NO black, NO dark gray; hopeful, uplifting spiritual glow'
+
+  const compositionPrompt = 'vertical 9:16 layout; primary subject occupies the upper 80%; lower 20% remains softly lit negative space for future text overlay; centered, harmonious framing with gentle depth'
+
+  const stylePrompt = 'impressionistic symbolic art, dreamlike sacred atmosphere, painterly brushstrokes, soft focus edges, watercolor textures, diffuse glow, gentle light bloom'
+
+  const prompt = `${conceptPrompt} ${colorPrompt}. ${compositionPrompt}. ${stylePrompt}. Absolutely no written characters, letters, or text of any kind within the scene.`
+
+  const negativePrompt = [
+    'text, letters, typography, calligraphy, inscriptions, captions, subtitles, handwriting, graffiti, banners',
+    'Hebrew letters, Hebrew text, Hebrew characters, Hebrew script, ancient text, biblical inscriptions, sacred text',
+    'Arabic text, Aramaic text, any written language, alphabets, symbols with text',
+    'logos, icons, UI elements, diagrams, charts, graphs, maps, labels, stickers, memes',
+    'watermarks, signatures, stamps, QR codes, numbers',
+    'photorealistic anatomy, detailed hands, extra fingers, close-up hands, realistic faces, facial features, teeth, portraits, hyper-detailed skin, muscular definition',
+    'abstract blobs, chaotic patterns, glitch effects, noisy artifacts, distorted faces'
+  ].join(', ')
+
+  return {
+    prompt,
+    negativePrompt
+  }
+}
 
 /**
  * 히브리어를 파일명으로 변환 (니쿠드 제거)
@@ -64,6 +97,7 @@ export async function generateWordImage(
     numOutputs = 1,
     seed,
     uploadToSupabase = true,
+    logPromptPreview = true,
   } = options
 
   const { hebrew, meaning, korean } = word
@@ -73,9 +107,11 @@ export async function generateWordImage(
   console.log(`📝 의미: ${meaning}`)
 
   // 프롬프트 생성
-  const prompt = generateWordImagePrompt(word)
-  console.log(`\n📋 프롬프트 미리보기:`)
-  console.log(`${prompt.substring(0, 200)}...\n`)
+  const { prompt, negativePrompt } = createPrompt(word)
+  if (logPromptPreview) {
+    console.log(`\n📋 프롬프트 미리보기:`)
+    console.log(`${prompt.substring(0, 200)}...\n`)
+  }
 
   // Replicate API 호출
   console.log('🚀 FLUX 1.1 Pro API 호출 중...')
@@ -88,9 +124,12 @@ export async function generateWordImage(
     {
       input: {
         prompt,
+        negative_prompt: negativePrompt,
         aspect_ratio: aspectRatio,
         output_format: outputFormat,
         output_quality: outputQuality,
+        safety_tolerance: 2,
+        prompt_upsampling: true,
         ...(seed && { seed }),
       }
     }
